@@ -260,163 +260,163 @@ zanim się zacznie zbiórka publiczna (crowdloans)
 
 66
 00:02:03,680 --> 00:02:06,880
-a pair chain slot auction is essentially
+aukcja parachain jest kluczowa
 
 67
 00:02:06,159 --> 00:02:08,959
-like i said
+jak już powiedziałem
 
 68
 00:02:06,880 --> 00:02:10,720
-teams bidding against each other to try
+zespoły licytują się nawzajem
 
 69
 00:02:08,959 --> 00:02:14,720
-to win one of these slots
+aby wygrać jedno z tych miejsc (slot)
 
 70
 00:02:10,720 --> 00:02:17,440
-each auction is is ultimately going for
+każda aukcja odbywa się o
 
 71
 00:02:14,720 --> 00:02:19,040
-one slot it can be divided into smaller
+jedno miejsce (slot), który może być podzielony na mniejsze
 
 72
 00:02:17,440 --> 00:02:21,599
-chunks but ultimately
+części, ale ostatecznie
 
 73
 00:02:19,040 --> 00:02:23,599
-on polka dot it can be up to 24 months
+Na POLKADOT miejsce (slot) może być przyznane do 24 miesięcy
 
 74
 00:02:21,599 --> 00:02:25,360
-but some teams may decide to bid for
+ale niektóre zespoły mogą zadecydować aby licytować na
 
 75
 00:02:23,599 --> 00:02:28,080
-shorter but to keep this simple let's
+krótszy okres, ale dla uproszczenia
 
 76
 00:02:25,360 --> 00:02:30,160
-just assume the maximum
+przyjmijmy, że maksymalny okres
 
 77
 00:02:28,080 --> 00:02:32,080
-and teams that are going into this
+Zespoły, które przystąpią do tych
 
 78
 00:02:30,160 --> 00:02:32,560
-auction have two options for how to
+aukcji mają dwie opcje, jak
 
 79
 00:02:32,080 --> 00:02:35,440
-actually
+właściwie
 
 80
 00:02:32,560 --> 00:02:36,239
-bid and what funds to use for their bid
+licytować, oraz jakie środki przeznaczyć na licytacje
 
 81
 00:02:35,440 --> 00:02:38,640
-so
+więc
 
 82
 00:02:36,239 --> 00:02:40,879
-first is if you have a single account
+Pierwsze, jeśli masz pojedyńcze konto
 
 83
 00:02:38,640 --> 00:02:42,800
-say for kusama you have a
+powiedzmy, że dla KUSAMA masz
 
 84
 00:02:40,879 --> 00:02:44,080
-stack of ksm that you want to use for
+zgromadzone KSM, które chcesz użyć dla
 
 85
 00:02:42,800 --> 00:02:45,280
-this auction
+tej aukcji
 
 86
 00:02:44,080 --> 00:02:48,239
-and you don't need to involve your
+wtedy, nie musisz angażować swojej
 
 87
 00:02:45,280 --> 00:02:50,400
-community then that could be one option
+społeczności, więc to może być pierwsza możliwość
 
 88
 00:02:48,239 --> 00:02:51,840
-the more um the more frequent and more
+Częstszym i bardziej
 
 89
 00:02:50,400 --> 00:02:53,680
-likely scenario
+prawdopodobnym scenariuszem
 
 90
 00:02:51,840 --> 00:02:55,360
-will be number two here which is using
+będzie druga możliwość, która używa
 
 91
 00:02:53,680 --> 00:02:56,480
-the crowd loan module
+zbiórki / pożyczki publicznej (crowdloans)
 
 92
 00:02:55,360 --> 00:02:59,040
-so in this case you're actually
+jesteś właściwie w tym scenariuszu
 
 93
 00:02:56,480 --> 00:03:00,800
-crowdsourcing ksm in the case of kusama
+zbiórka publiczna (crowdsourcing) KSM w przypadku sieci KUSAMA
 
 94
 00:02:59,040 --> 00:03:02,879
-or crowdsourcing.
+albo zbiórka publiczna (crowdsourcing)
 
 95
 00:03:00,800 --> 00:03:04,480
-from your community and you're you're
+od twojej społeczności, jesteś
 
 96
 00:03:02,879 --> 00:03:05,440
-basically crowdsourcing this so that you
+właściwie pożyczkobiorcą tego, więc
 
 97
 00:03:04,480 --> 00:03:09,519
-can use that
+możesz użyć to
 
 98
 00:03:05,440 --> 00:03:12,000
-in um the parachain slot auction
+do aukcji parachain
 
 99
 00:03:09,519 --> 00:03:13,519
-um how often will this happen so
+Jak często to się wydaży
 
 100
 00:03:12,000 --> 00:03:15,360
-paratrain auctions will be done
+odbędzie się aukcja parachain
 
 101
 00:03:13,519 --> 00:03:17,599
-one at a time but it's looking like
+jedna w tym czasie, ale wygląda na to, że
 
 102
 00:03:15,360 --> 00:03:19,440
-these will be about every two weeks so
+te aukcje odbywać się będą co dwa tygodnie
 
 103
 00:03:17,599 --> 00:03:20,640
-in the polkadot and kusama ecosystem
+W ekosystemie POLKADOT i KUSAMA
 
 104
 00:03:19,440 --> 00:03:24,720
-these things will be happening on an
+to będzie się odbywało
 
 105
 00:03:20,640 --> 00:03:24,720
-ongoing basis for the foreseeable future
+na bieżąco dla przewidywalnej przyszłości
 
 106
 00:03:25,200 --> 00:03:28,959
