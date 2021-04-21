@@ -1,22 +1,22 @@
 1
 00:00:00,719 --> 00:00:03,120
-hey everybody this is brett a developer
+Witam wszystkich, jestem Brett, deweloper w
 
 2
 00:00:02,399 --> 00:00:04,080
-at akala
+ACALA
 
 3
 00:00:03,120 --> 00:00:05,359
-and in this video i'm going to be
+W tym filmie zamierzam
 
 4
 00:00:04,080 --> 00:00:07,600
-talking about how addresses work on
+mówić o tym, jak działają adresy na
 
 5
 00:00:05,359 --> 00:00:08,639
-polkadot and kusama
+POLKADOT i KUSAMA
 
 6
 00:00:07,600 --> 00:00:10,160
