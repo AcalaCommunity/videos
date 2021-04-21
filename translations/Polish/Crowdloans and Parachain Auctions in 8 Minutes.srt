@@ -420,255 +420,255 @@ na bieżąco dla przewidywalnej przyszłości
 
 106
 00:03:25,200 --> 00:03:28,959
-so crowd loans crowd loans first of all
+Tak, więc zbiórki publiczne (crowdloans) przede wszystkim
 
 107
 00:03:27,680 --> 00:03:31,440
-like i said are used
+tak, jak już powiedziałem, są używane
 
 108
 00:03:28,959 --> 00:03:32,239
-for the opening bid in an auction so
+aby zacząć licytacje
 
 109
 00:03:31,440 --> 00:03:34,159
-teams will
+zespoły będą musiały
 
 110
 00:03:32,239 --> 00:03:36,400
-crowdsource these tokens and then use
+pożyczyć te tokeny i użyć
 
 111
 00:03:34,159 --> 00:03:37,920
-them in that parachain auction at the
+je w aukcji parachain
 
 112
 00:03:36,400 --> 00:03:40,400
-next step
+Następny krok
 
 113
 00:03:37,920 --> 00:03:42,159
-if you're a user and you contribute ksm
+jeżeli jesteś użytkownikiem i dołożyłeś KSM
 
 114
 00:03:40,400 --> 00:03:44,480
-to a kusama pair chain or if you
+do parachain KUSAMA, albo jeśli
 
 115
 00:03:42,159 --> 00:03:46,400
-contribute dot to a polka dot pair chain
+dołożyłeś DOT do parachain`u POLKADOT
 
 116
 00:03:44,480 --> 00:03:48,159
-you're essentially agreeing to locking
+to właściwie zgadzasz się aby zablokować
 
 117
 00:03:46,400 --> 00:03:49,599
-those tokens for the duration of that
+te tokeny na okres tego
 
 118
 00:03:48,159 --> 00:03:51,120
-para chain slot
+miejsca (slot`u) parachain
 
 119
 00:03:49,599 --> 00:03:52,959
-in the example that i used earlier so
+W przykładzie, którym posłużłem się wcześniej
 
 120
 00:03:51,120 --> 00:03:56,560
-let's assume 24 months
+zakładając 24 miesiące
 
 121
 00:03:52,959 --> 00:03:58,720
-then after 24 months your original
+wtedy po 24 miesiącach twój
 
 122
 00:03:56,560 --> 00:04:00,799
-principle is returned back to you so
+wkład jest zwracany do Ciebie
 
 123
 00:03:58,720 --> 00:04:01,920
-it's essentially no loss and a much more
+Właściwie bez żadnej straty. Jest to bardziej
 
 124
 00:04:00,799 --> 00:04:03,200
-ethical model
+etyczny sposób
 
 125
 00:04:01,920 --> 00:04:05,840
-than we've seen in the past with things
+który wcześniej widzieliśmy
 
 126
 00:04:03,200 --> 00:04:07,599
-like icos because in this case
+tak jak ICO, w tym przypadku
 
 127
 00:04:05,840 --> 00:04:09,200
-you really hold the team accountable for
+zespół jest odpowiedzialny za
 
 128
 00:04:07,599 --> 00:04:11,599
-actually delivering on their
+dotrzymanie, ich
 
 129
 00:04:09,200 --> 00:04:13,120
-vision on their white paper because they
+wizji z white paper, ponieważ zespół
 
 130
 00:04:11,599 --> 00:04:15,120
-need to add value to their network
+potrzebuje dodać wartość do ich sieci
 
 131
 00:04:13,120 --> 00:04:17,199
-because they're actually not raising
+ponieważ, zespół właściwie nie otrzymuje
 
 132
 00:04:15,120 --> 00:04:19,519
-any funds directly from you as the
+żadnych środków bezpośrednio od Ciebie, jako
 
 133
 00:04:17,199 --> 00:04:22,160
-community member
+członka społeczności
 
 134
 00:04:19,519 --> 00:04:23,040
-and then last i kind of hinted at this
+w końcu ostatnie, co chciałbym wspomnieć
 
 135
 00:04:22,160 --> 00:04:24,880
-just now but
+teraz, że
 
 136
 00:04:23,040 --> 00:04:26,400
-the the funds that are contributed in
+środki które biorą udział
 
 137
 00:04:24,880 --> 00:04:28,160
-ksm or in dot
+KSM, albo DOT
 
 138
 00:04:26,400 --> 00:04:29,680
-are never touched by the team so there's
+nigdy nie są dostępne dla zespołu, tak że
 
 139
 00:04:28,160 --> 00:04:31,600
-no worries about
+nie ma obaw o to, że
 
 140
 00:04:29,680 --> 00:04:33,440
-teams raising money and running away
+zespoły wezmą pieniądze i uciekną
 
 141
 00:04:31,600 --> 00:04:36,240
-with it not delivering on what they
+z nimi i nie dostarczając tego co
 
 142
 00:04:33,440 --> 00:04:37,680
-what they promised it's a it's a the all
+obiecali, to jest w ich
 
 143
 00:04:36,240 --> 00:04:40,560
-the interests are really aligned here
+interesie aby się wywiązały
 
 144
 00:04:37,680 --> 00:04:42,639
-and the team is really held accountable
+i zespół jest pociągnięty do odpowiedzialności
 
 145
 00:04:40,560 --> 00:04:43,840
-in the crowd loan this is the crowd on
+W zbiórce publicznej (crowdloan), to jest nazwane
 
 146
 00:04:42,639 --> 00:04:45,520
-period this is kind of what it looks
+okresem zbiórki, tak to wygląda
 
 147
 00:04:43,840 --> 00:04:48,000
-like you've got multiple teams
+że różne zespoły
 
 148
 00:04:45,520 --> 00:04:48,880
-um crowdsourcing ksm or dot from their
+pożyczają KSM, albo DOT od ich
 
 149
 00:04:48,000 --> 00:04:50,880
-communities
+społeczności
 
 150
 00:04:48,880 --> 00:04:52,320
-and that leads into the paratrain slot
+i to prowadzi do miejsca (slot) aukcji parachain
 
 151
 00:04:50,880 --> 00:04:54,080
-auction so
+więc
 
 152
 00:04:52,320 --> 00:04:55,520
-that everything that was raised in that
+to wszystko zaczyna się w
 
 153
 00:04:54,080 --> 00:04:58,400
-crowd loan stage is
+na etapie pożyczki społecznościowej (crowdloan) jest
 
 154
 00:04:55,520 --> 00:05:00,320
-is um not accessible to the team but
+niedostępne dla zespołu, ale
 
 155
 00:04:58,400 --> 00:05:02,160
-they can actually use that in their cr
+może zostać wykorzystane w ich
 
 156
 00:05:00,320 --> 00:05:04,000
-in their parachain slot auction so you
+aukcji na miejsce (slot) parachain, tak więc
 
 157
 00:05:02,160 --> 00:05:05,280
-can think of it like a poker table
+możesz to sobie wyobrazić jako stół do pokera
 
 158
 00:05:04,000 --> 00:05:07,280
-at the beginning of the auction all
+na początku aukcji wszystkie
 
 159
 00:05:05,280 --> 00:05:09,039
-these teams will basically go all in
+te zespoły będą licytować całością
 
 160
 00:05:07,280 --> 00:05:11,600
-with the the funds that they raised in
+środków które zebrały w
 
 161
 00:05:09,039 --> 00:05:14,400
-their crowd loan
+ich zbiórce (crowdloan)
 
 162
 00:05:11,600 --> 00:05:16,320
-and then how do we determine the winner
+następnie, zostanie wyłoniony zwycięzca
 
 163
 00:05:14,400 --> 00:05:17,120
-when the auction starts we will know the
+kiedy aukcja się zacznie wszyscy będziemy znali
 
 164
 00:05:16,320 --> 00:05:19,199
-open time
+czas rozpoczęcia
 
 165
 00:05:17,120 --> 00:05:22,800
-here in the green and we will know the
+tutaj na zielono i będziemy znać
 
 166
 00:05:19,199 --> 00:05:24,639
-close time in the orange over here
+czas zakończenia, tutaj pokazany na pomarańczowo
 
 167
 00:05:22,800 --> 00:05:26,240
-and the most exciting point will be when
+Najbardziej ekscytujący moment będzie, kiedy
 
 168
 00:05:24,639 --> 00:05:29,440
-we hit this close time
+nadejdzie czas zakończenia
 
 169
 00:05:26,240 --> 00:05:31,759
