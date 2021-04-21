@@ -672,309 +672,309 @@ nadejdzie czas zakończenia
 
 169
 00:05:26,240 --> 00:05:31,759
-um the kusama or polka dot relay chain
+sieć zależna od KUSAMA, albo POLKADOT
 
 170
 00:05:29,440 --> 00:05:33,759
-itself will randomly select a time
+sama, losowo wybierze czas
 
 171
 00:05:31,759 --> 00:05:35,440
-that determines the end time this red
+który determinuje koniec, ta czerwona
 
 172
 00:05:33,759 --> 00:05:37,759
-bar here so in this
+linia, tutaj. Tak, więc w
 
 173
 00:05:35,440 --> 00:05:38,639
-example you've got parachain b bidding
+tym przykładzie mamy parachain B przbija ofertę
 
 174
 00:05:37,759 --> 00:05:41,919
-parachain c
+parachain`u C
 
 175
 00:05:38,639 --> 00:05:44,479
-bidding para chain a bid e and f
+ofertę parachain`u A przbijają oferty E i F
 
 176
 00:05:41,919 --> 00:05:46,560
-beat a in terms of number of ksm but the
+przebijają ofertę A w sensie ilości KSM, jednak
 
 177
 00:05:44,479 --> 00:05:47,280
-winner was determined at this red line
+zwycięzca zostaje określony na tej czerwonej linii
 
 178
 00:05:46,560 --> 00:05:49,840
-so
+więc
 
 179
 00:05:47,280 --> 00:05:51,280
-the highest bidder was parachain a this
+najwyższą ofertę dał parachain A, to
 
 180
 00:05:49,840 --> 00:05:53,280
-is called an unpermissioned candle
+jest nazywane świeczką bez zezwolenia
 
 181
 00:05:51,280 --> 00:05:55,280
-auction and it incentivizes teams to bid
+i ma zachęcać zespoły do składania ofert
 
 182
 00:05:53,280 --> 00:05:56,639
-as high as they can as early as they can
+tak wysokich jak tylko mogą, oraz tak wcześnie jak tylko mogą
 
 183
 00:05:55,280 --> 00:05:58,240
-instead of waiting until the end like
+zamiast czekać do końca, tak jak
 
 184
 00:05:56,639 --> 00:06:00,319
-you might have seen on ebay
+możesz to zaobservować na aukcjach ebay
 
 185
 00:05:58,240 --> 00:06:04,319
-where teams are where people try to
+gdzie zespoły są jak ludzie próbujący
 
 186
 00:06:00,319 --> 00:06:06,240
-snipe at the end and get the highest bid
+licytować na końcu, aby ich oferta była najwyższa
 
 187
 00:06:04,319 --> 00:06:07,759
-this is a full walkthrough then of this
+to jest pełny przewodnik tego
 
 188
 00:06:06,240 --> 00:06:10,720
-whole process so you've got
+całego procesu. Tak, więc mamy
 
 189
 00:06:07,759 --> 00:06:12,960
-users over here contributing ksm they
+tutaj użytkowników dokładających swoje KSM,
 
 190
 00:06:10,720 --> 00:06:16,720
-contribute in this example to karua
+w tym przykładzie wnoszą wkład do KARURA
 
 191
 00:06:12,960 --> 00:06:19,199
-um 500 000 ksm karua
+w w ysokości 500 000 KSM. KARURA
 
 192
 00:06:16,720 --> 00:06:21,280
-wins the first slot on kusama and then
+wygrywa pierwszy slot w sieci KUSAM i wtedy
 
 193
 00:06:19,199 --> 00:06:23,600
-begins its launch process so
+zaczyna się ich proces uruchomienia, tak więc
 
 194
 00:06:21,280 --> 00:06:24,800
-all of the ksm that was crowdsourced in
+wszystkie KSM pochodzące ze zbiórki publicznej w
 
 195
 00:06:23,600 --> 00:06:26,880
-this original
+tym osobliwym
 
 196
 00:06:24,800 --> 00:06:28,240
-crowd loan period is then locked in the
+okresie pożyczki jest wtedy zablokowane u
 
 197
 00:06:26,880 --> 00:06:31,759
-core
+podstawy
 
 198
 00:06:28,240 --> 00:06:33,919
-kusama relay chain and then kar
+sieci zależnej od KUSAMA i wtedy token KAR
 
 199
 00:06:31,759 --> 00:06:36,319
-is then distributed the native token of
+zostaje rozdystrybuowany, rodzimy token sieci
 
 200
 00:06:33,919 --> 00:06:36,960
-karua kar is distributed to the crowd
+KARURA - KAR zostaje rozdany społeczności
 
 201
 00:06:36,319 --> 00:06:39,360
-loan
+pożyczającej
 
 202
 00:06:36,960 --> 00:06:41,120
-contributors and then at the same time
+i w tym samym czasie
 
 203
 00:06:39,360 --> 00:06:44,160
-keru is also launching so
+sieć KARURA zostaje uruchomiona razem ze
 
 204
 00:06:41,120 --> 00:06:45,039
-this the kura stable coin the liquid ksm
+swoim "stable coin"`em sieci KARURA, stakingiem płynnego KSM
 
 205
 00:06:44,160 --> 00:06:47,440
-staking
+.
 
 206
 00:06:45,039 --> 00:06:50,479
-as well as the kuru amm decks the career
+jak również KARURA AMM dex
 
 207
 00:06:47,440 --> 00:06:52,160
-decks all go live on top of karua
+dex, wszystko zostaje uruchomione na KARURA
 
 208
 00:06:50,479 --> 00:06:54,080
-when this happens and then at the end of
+kiedy to nastąpi, a następnie na końcu okresu
 
 209
 00:06:52,160 --> 00:06:55,039
-the pair chain slot all the ksm is
+przyznanego miejsca (slot`u), wszystkie KSM są
 
 210
 00:06:54,080 --> 00:06:58,880
-returned to the
+zwracane do
 
 211
 00:06:55,039 --> 00:07:00,400
-supporters now what's
+wspierających
 
 212
 00:06:58,880 --> 00:07:02,160
-the last question that people sometimes
+ostatnim pytaniem jaki czasem ludzie mają
 
 213
 00:07:00,400 --> 00:07:04,000
-have is what happens at the end of that
+jest: co się stanie na końcu okresu 
 
 214
 00:07:02,160 --> 00:07:06,400
-slot so in in this example let's say
+przyznanego miejsca (slot`u). Tak więc na tym przykładzie, powiedzmy, że
 
 215
 00:07:04,000 --> 00:07:08,880
-that it was a one-year parachain slot
+okresem przyznania miejsca (slot`u) był 1 rok
 
 216
 00:07:06,400 --> 00:07:10,479
-the ksm is is returned to the original
+tokeny KSM są zwracane do
 
 217
 00:07:08,880 --> 00:07:12,000
-crowd loan supporters and then there's
+wspierających pożyczkę poubliczną (crowdloan). Następnie mamy
 
 218
 00:07:10,479 --> 00:07:14,479
-three options for
+3 opcje na to
 
 219
 00:07:12,000 --> 00:07:16,560
-any team to kind of maintain their their
+aby dowolny zespół zachował ich
 
 220
 00:07:14,479 --> 00:07:18,240
-access to the relay chain
+dostęp do zależnego łańcuch (sieci) 
 
 221
 00:07:16,560 --> 00:07:20,560
-first is to host another crowd loan and
+Pierwszym jest zorganizować kolejną zbiórkę publiczną i
 
 222
 00:07:18,240 --> 00:07:23,680
-do another paratrain auction
+przeprowadzić kolejną aukcję parachain
 
 223
 00:07:20,560 --> 00:07:25,360
-um second is to sell fund so karua and
+Drugą możliwością jest sprzedać fundusze, tak że KARURA i
 
 224
 00:07:23,680 --> 00:07:26,639
-akala will both have a decentralized
+AKALA, obie będą miały zdecentralizowany
 
 225
 00:07:25,360 --> 00:07:28,240
-sovereign wealth fund
+własny fundusz
 
 226
 00:07:26,639 --> 00:07:30,000
-and over time that will be that will
+i  z czasem będzie to
 
 227
 00:07:28,240 --> 00:07:31,599
-continue to build and build
+kontynuowało rozwój
 
 228
 00:07:30,000 --> 00:07:33,759
-so that we can become sovereign and
+tak, że będziemy mogli stać się niezależni i
 
 229
 00:07:31,599 --> 00:07:36,240
-self-sustainable and actually bid our
+samowystarczalni i właściwie
 
 230
 00:07:33,759 --> 00:07:37,440
-bid with our own treasury our own
+licytować z własnych środków, naszego
 
 231
 00:07:36,240 --> 00:07:39,840
-sovereign wealth fund
+niezależnego funduszu utrzymania
 
 232
 00:07:37,440 --> 00:07:40,479
-for future slots and then the third
+dla uzyskania przyszłych miejsc (slots). Trzecią
 
 233
 00:07:39,840 --> 00:07:42,800
-option
+opcją
 
 234
 00:07:40,479 --> 00:07:44,000
-there's probably several wiki articles
+Prawdopodobnie jest kilka artukułów
 
 235
 00:07:42,800 --> 00:07:46,400
-and videos that you could watch
+i filmów, które możesz zobaczyć
 
 236
 00:07:44,000 --> 00:07:48,160
-about this but the the other option is
+o tym, ale inną opcją jest
 
 237
 00:07:46,400 --> 00:07:49,520
-to become a pair thread which actually
+zostanie para-thread (para-wątkiem), który właściwie
 
 238
 00:07:48,160 --> 00:07:51,599
-which just means that you have a little
+znaczy, że masz trochę mniejszy
 
 239
 00:07:49,520 --> 00:07:53,759
-bit less access to the
+dostęp do
 
 240
 00:07:51,599 --> 00:07:54,960
-less frequent access to the to the relay
+mniejszej częstotliwości dostęp do zależnego
 
 241
 00:07:53,759 --> 00:07:57,039
-chain itself
+łańcucha
 
 242
 00:07:54,960 --> 00:07:58,240
-so that's it in about eight minutes
+Tak, więc to było około 8 minut
 
 243
 00:07:57,039 --> 00:07:59,919
-hopefully you learned something let me
+Mam nadzieję, że nauczyłeś się czegoś, daj mi
 
 244
 00:07:58,240 --> 00:08:03,759
-know if you have any questions
+znać w razie jakichkolwiek pytań
 
 245
 00:07:59,919 --> 00:08:03,759
-thank you bye
+Dziękuje
 
