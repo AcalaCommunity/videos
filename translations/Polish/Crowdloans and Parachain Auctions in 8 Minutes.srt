@@ -4,75 +4,75 @@ Hej, Witam wszystkich, tu Dan Reecer z zespołu
 
 2
 00:00:03,439 --> 00:00:08,639
-akala currently vp of growth here
+akala. Obecnie rozwijamy się tutaj
 
 3
 00:00:06,560 --> 00:00:10,800
-i've been on a calla team for a couple
+jestem w zespole ACALA od kilku
 
 4
 00:00:08,639 --> 00:00:12,320
-months and previously spent my time at
+miesięcy. Wcześniej pracowałem dla
 
 5
 00:00:10,800 --> 00:00:13,920
-web3 foundation
+fundacji web3
 
 6
 00:00:12,320 --> 00:00:16,080
-where i helped launch polka dot and
+gdzie pomagałem uruchomić POLKADOT oraz
 
 7
 00:00:13,920 --> 00:00:17,920
-kusama today i'm going to make this
+KUSAMA. Dzisiaj zamierzam to
 
 8
 00:00:16,080 --> 00:00:19,119
-really quick i may talk fast because i'm
+na prawdę szybko i mogę mówić szybko ze względu na to, że
 
 9
 00:00:17,920 --> 00:00:21,119
-trying to keep it in
+będe próbował przedstawić wszystko
 
 10
 00:00:19,119 --> 00:00:22,560
-hopefully like five to seven minutes but
+w jakieś 5 do 7 minut
 
 11
 00:00:21,119 --> 00:00:24,720
-i'm going to be talking about
+Zamierzam mówić o
 
 12
 00:00:22,560 --> 00:00:26,320
-polka dot and kusama parachain auctions
+aukcjach parachain POLKADOT i KUSAMA
 
 13
 00:00:24,720 --> 00:00:27,680
-and crowd loans which are the process
+oraz o publicznych pożyczkach (crowdloans), które są procesem
 
 14
 00:00:26,320 --> 00:00:30,640
-for how to launch
+jak będzie uruchomiony
 
 15
 00:00:27,680 --> 00:00:32,480
-a blockchain on one of these networks so
+blockchain na jednej z tych sieci
 
 16
 00:00:30,640 --> 00:00:34,559
-polkadot and kusama as you may know are
+POLKADOT i KUSAMA, które, jak już możecie wiedzieć
 
 17
 00:00:32,480 --> 00:00:35,840
-these multi-chain ecosystems that are
+są ekosystemami wielu łańcuchów, które
 
 18
 00:00:34,559 --> 00:00:37,680
-tying together
+wiążą razem
 
 19
 00:00:35,840 --> 00:00:38,879
-a bunch of blockchains that are called
+kilka "blockchain`ów", które są nazywane
 
 20
 00:00:37,680 --> 00:00:40,399
@@ -80,183 +80,183 @@ parachains
 
 21
 00:00:38,879 --> 00:00:42,559
-in the future there will be up to a
+W przyszłości będzie do
 
 22
 00:00:40,399 --> 00:00:43,200
-hundred pair chains on polka dot and a
+100 parachains na POLKADOT oraz
 
 23
 00:00:42,559 --> 00:00:46,480
-hundred
+100
 
 24
 00:00:43,200 --> 00:00:48,480
-plus on kusama but as of now there's no
+dodatkowo na KUSAMA, jednak na razie nie ma
 
 25
 00:00:46,480 --> 00:00:50,320
-pair of chains on either one
+parachains na żadnej z sieci
 
 26
 00:00:48,480 --> 00:00:51,760
-so today i'm going to talk about how to
+Dzisiaj będe mówił jak
 
 27
 00:00:50,320 --> 00:00:53,680
-actually earn a slot
+właściwie wygrać miejsce (slot)
 
 28
 00:00:51,760 --> 00:00:55,199
-as one of these little squares here in
+jako jeden z tych małych kwadratów na
 
 29
 00:00:53,680 --> 00:00:56,079
-this diagram how do you actually become
+tym diagramie. Jak właściwie możesz stać się
 
 30
 00:00:55,199 --> 00:00:58,000
-the first
+pierwszym
 
 31
 00:00:56,079 --> 00:01:00,320
-pair chain on kusama or the first pair
+parachain na KUSAMA, albo pierwszym
 
 32
 00:00:58,000 --> 00:01:02,399
-chain on polka dot
+parachain na POLKADOT
 
 33
 00:01:00,320 --> 00:01:04,159
-and that process is crowd loans and
+ten proces jest pożyczką publiczną - "crowdloans" oraz
 
 34
 00:01:02,399 --> 00:01:06,400
-parachain auctions so
+aukcją parachain
 
 35
 00:01:04,159 --> 00:01:07,920
-this is the timeline um you can see here
+To jest grafik na którym możecie zobaczyć,
 
 36
 00:01:06,400 --> 00:01:10,240
-that crowd loans come
+że pożyczka publiczna (crowdloans) będzie 
 
 37
 00:01:07,920 --> 00:01:12,080
-first which i'll get into um the main
+pierwsza, która zapoczątkuje główne
 
 38
 00:01:10,240 --> 00:01:12,640
-event is the parachain auction here in
+wydarzenie, którym jest aukcja parachain, tutaj na
 
 39
 00:01:12,080 --> 00:01:15,759
-white
+biało
 
 40
 00:01:12,640 --> 00:01:17,280
-this is multiple parachain teams
+gdzie wiele zespołów parachain
 
 41
 00:01:15,759 --> 00:01:19,759
-essentially bidding against each other
+zasadniczo licytując się nawzajem
 
 42
 00:01:17,280 --> 00:01:21,759
-trying to win this auction
+próbując wygrać tę aukcję
 
 43
 00:01:19,759 --> 00:01:23,119
-the winner of the auction then moves on
+Zwycięzca aukcji następnie
 
 44
 00:01:21,759 --> 00:01:26,240
-and earns a slot
+wygrywa miejsce (slot)
 
 45
 00:01:23,119 --> 00:01:27,920
-here in the green once you earn a slot
+Tutaj na zielono, jak już miejsce (slot) będzie wygrane
 
 46
 00:01:26,240 --> 00:01:30,000
-then you're officially on
+wtedy oficjalnie zostanie
 
 47
 00:01:27,920 --> 00:01:32,000
-kusama or on polka dot as a parachain
+"parachain"`em na KUSAMA, albo na POLKADOT
 
 48
 00:01:30,000 --> 00:01:34,560
-team and you can begin
+i będziesz mógł
 
 49
 00:01:32,000 --> 00:01:35,520
-launching your applications applications
+uruchomić swoją aplikację, aplikacje
 
 50
 00:01:34,560 --> 00:01:37,759
-can build on you
+mogą być również zbudowane na Twoim parachain
 
 51
 00:01:35,520 --> 00:01:40,159
-and so on and this is ultimately the
+i tak dalej, to jest ostatecznie
 
 52
 00:01:37,759 --> 00:01:42,240
-vision of polka dot and kusama
+wizja POLKADOT i KUSAMA
 
 53
 00:01:40,159 --> 00:01:44,399
-and then the last part here you can see
+następnie, ostatnia część na diagramie, którą możesz zobaczyć
 
 54
 00:01:42,240 --> 00:01:45,280
-there's an actual end time of this slot
+jest właściwie koniec czasu tego miejsca - ("slot"`u)
 
 55
 00:01:44,399 --> 00:01:48,560
-that the team
+który zespół
 
 56
 00:01:45,280 --> 00:01:49,680
-earns so after the team earns that slot
+wygrał, więc po tym jak zespół wygra to miejsce (slot)
 
 57
 00:01:48,560 --> 00:01:51,280
-then there's things that happen
+wtedy następuje kilka rzeczy
 
 58
 00:01:49,680 --> 00:01:51,920
-including crowd loan funds being
+włączając to, że środków zebrane z pożyczki publicznej (crowdloans)
 
 59
 00:01:51,280 --> 00:01:54,640
-returned
+zostają zwrócone
 
 60
 00:01:51,920 --> 00:01:56,000
-to the to the contributors and so on and
+do udziałowców
 
 61
 00:01:54,640 --> 00:01:57,439
-i'll cover all that in the next few
+Przedstawię to na kilku następnych
 
 62
 00:01:56,000 --> 00:01:59,920
-slides
+slajdach
 
 63
 00:01:57,439 --> 00:02:01,439
-so paratrain auctions i'm going to start
+Zacznę opowiadzać od aukcji parachain
 
 64
 00:01:59,920 --> 00:02:03,680
-with because you need to understand this
+z tego względu, iż powinieneś to zrozumieć
 
 65
 00:02:01,439 --> 00:02:06,159
-before we go into crowd loans so
+zanim się zacznie zbiórka publiczna (crowdloans)
 
 66
 00:02:03,680 --> 00:02:06,880
