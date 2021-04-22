@@ -1,34 +1,34 @@
 1
 00:00:01,040 --> 00:00:04,080
-hey everybody i'm brett glodney a
+Witam wszystkich. Nazywam się Brett Kolodny
 
 2
 00:00:02,639 --> 00:00:05,839
-developer at akala and today i'm going
+jestem deweloperem w projekcie ACALA i dzisiaj zamierzam
 
 3
 00:00:04,080 --> 00:00:07,520
-to be showing you how to set up a kusama
+pokazać Wam, jak ustawić KUSAMA
 
 4
 00:00:05,839 --> 00:00:08,960
-or polka dot address using the polka dot
+albo POLKADOT adres z użyciem
 
 5
 00:00:07,520 --> 00:00:10,639
-js extension
+rozszerzenia przeglądarki polkadot.js
 
 6
 00:00:08,960 --> 00:00:13,120
-so i'm going to head down here and open
+więc udam się tutaj i otworzę
 
 7
 00:00:10,639 --> 00:00:13,120
-up chrome
+przeglądarkę CHROME
 
 8
 00:00:13,759 --> 00:00:18,480
-and we're going to head over to the
+i przejdziemy do
 
 9
 00:00:16,199 --> 00:00:21,600
@@ -36,39 +36,39 @@ polkadot.js.org
 
 10
 00:00:18,480 --> 00:00:23,039
-and click on the extension link so i'm
+i klikniemy na link z rozszerzeniem, więc ja
 
 11
 00:00:21,600 --> 00:00:24,480
-going to be downloading it for chrome if
+pobiorę to dla chrome, jeżeli
 
 12
 00:00:23,039 --> 00:00:26,160
-you're down if you have firefox download
+używasz firefox, musisz pobrać
 
 13
 00:00:24,480 --> 00:00:28,800
-it for firefox and if you have brave you
+to dla firefox; a jeżeli masz brave
 
 14
 00:00:26,160 --> 00:00:30,480
-can use the chrome download as well
+możesz również skorzystać z pobierania chrome
 
 15
 00:00:28,800 --> 00:00:32,239
-so i already have it so i'm gonna head
+więc ja mam już to, i teraz
 
 16
 00:00:30,480 --> 00:00:34,800
-over to this um
+uruchomię to
 
 17
 00:00:32,239 --> 00:00:36,239
-puzzle piece in the top right corner
+ikona puzzle w prawym górnym rogu
 
 18
 00:00:34,800 --> 00:00:41,120
-click pin
+kliknij pin
 
 19
 00:00:36,239 --> 00:00:43,600
