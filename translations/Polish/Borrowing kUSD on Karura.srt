@@ -484,47 +484,47 @@ dającą większą użyteczność
 
 122
 00:03:51,920 --> 00:03:56,400
-out of your 16 kusama holdings you can
+dla posiadanych przez Ciebie KSM, możesz
 
 123
 00:03:54,319 --> 00:03:58,319
-go long you can go short you can
+utworzyć pozycję LONG, albo SHORT
 
 124
 00:03:56,400 --> 00:04:00,000
-it's i mean the option is it's in your
+oznacza to, że opcja jest w twoich
 
 125
 00:03:58,319 --> 00:04:02,239
-hand to decide how you're going to use
+rękach aby zadecydować, jak zamierzasz użyć
 
 126
 00:04:00,000 --> 00:04:03,280
-this collector um to trade and write
+ten kolektor do handlu
 
 127
 00:04:02,239 --> 00:04:05,040
-with the market
+na rynku
 
 128
 00:04:03,280 --> 00:04:06,879
-what about interest so are you paying
+Co z odsetkami, więc płacisz
 
 129
 00:04:05,040 --> 00:04:09,920
-interest when you're taking out
+odsetki, kiedy zaciągasz
 
 130
 00:04:06,879 --> 00:04:11,760
-these loans and how does that work yes
+te pożyczki i w jaki sposób to właściwie działa
 
 131
 00:04:09,920 --> 00:04:13,599
-so the interest essentially is what we
+więc, główne oprocentowanie jest tym co
 
 132
 00:04:11,760 --> 00:04:15,040
-call the stabilization fee
+nazywamy stabilizującą opłatą
 
 133
 00:04:13,599 --> 00:04:16,880
