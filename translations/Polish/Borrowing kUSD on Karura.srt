@@ -4,275 +4,275 @@
 
 2
 00:00:05,440 --> 00:00:09,280
-and this is one the reason that i we
+i to jest jeden z powodów, dlaczego
 
 3
 00:00:07,200 --> 00:00:11,280
-think why crew is so useful
+myślimy, że KARURA jest tak użyteczna
 
 4
 00:00:09,280 --> 00:00:13,759
-when it's become a project you can
+kiedy zostanie parachain`em w którym możesz
 
 5
 00:00:11,280 --> 00:00:14,799
-unlock the utility of your kusama token
+odblokować użyteczność Twojego tokenu KUSAMA
 
 6
 00:00:13,759 --> 00:00:17,440
-and start to
+i zacząć
 
 7
 00:00:14,799 --> 00:00:18,240
-um to to to borrow against your your uh
+pożyczać na Twój
 
 8
 00:00:17,440 --> 00:00:20,400
-your
+Twój
 
 9
 00:00:18,240 --> 00:00:21,680
-summer token so this is the borough
+token KUSAMA, więc to jest
 
 10
 00:00:20,400 --> 00:00:23,519
-borrowing interface
+widok strony pożyczania
 
 11
 00:00:21,680 --> 00:00:25,039
-uh you can see an overview of your
+możesz zobaczyć przegląd Twoich
 
 12
 00:00:23,519 --> 00:00:27,439
-current position so you can see
+bieżących pozycji, więc możesz zobaczyć
 
 13
 00:00:25,039 --> 00:00:28,960
-you have um i have already borrowed open
+Ja mam już otwartą pozycję pożyczenia
 
 14
 00:00:27,439 --> 00:00:31,599
-a position on ram bdc
+pozycję na renBTC
 
 15
 00:00:28,960 --> 00:00:32,399
-i borrow roughly um three thousand
+Ja pożyczyłem około 3 tysiące
 
 16
 00:00:31,599 --> 00:00:35,120
-dollars against
+dolarów w zamian za
 
 17
 00:00:32,399 --> 00:00:37,120
-zero point one run bdc that's a little
+0.1 BTC, co jest trochę
 
 18
 00:00:35,120 --> 00:00:38,160
-bit risky but i mean that's what um the
+ryzykowne, ale chciałem powiedzieć, że
 
 19
 00:00:37,120 --> 00:00:39,920
-system allows
+system pozwala
 
 20
 00:00:38,160 --> 00:00:41,440
-um you can actually create loans using
+Możesz właściwie utwożyć pożyczkę używając
 
 21
 00:00:39,920 --> 00:00:44,160
-any sort of asset that will be
+dowolnego rodzaju aktywów, które będą
 
 22
 00:00:41,440 --> 00:00:45,520
-available um in the governance process
+dostępne w procesie zarządzania
 
 23
 00:00:44,160 --> 00:00:47,600
-allowed to be using crypto
+dozwolone do użycia
 
 24
 00:00:45,520 --> 00:00:48,640
-and in this particular interface here i
+i w tym konkretnym interfejsie, tutaj, ja
 
 25
 00:00:47,600 --> 00:00:51,039
-have dot
+mam DOT,
 
 26
 00:00:48,640 --> 00:00:52,320
-l dot which we'll be covering later and
+LDOT który będe omawiał później
 
 27
 00:00:51,039 --> 00:00:53,280
-this will be definitely it would be like
+Będzie to z pewnością takie jak
 
 28
 00:00:52,320 --> 00:00:56,480
-kusama
+KSM
 
 29
 00:00:53,280 --> 00:00:56,960
-el kikuzama and bitcoins so what i'm
+LKSM i bitcoiny, tak więc
 
 30
 00:00:56,480 --> 00:00:58,960
-going to
+zamierzam
 
 31
 00:00:56,960 --> 00:01:00,239
-demo here is that i'm going to borrow
+zademonstrować jak pożyczę
 
 32
 00:00:58,960 --> 00:01:03,359
-more uh
+więcej
 
 33
 00:01:00,239 --> 00:01:05,600
-against my 0.1 ram btc position here
+w zamian za moją pozycję 0.1 renBTC
 
 34
 00:01:03,359 --> 00:01:06,880
-so you can see um the current bitcoin
+więc możesz zobaczyć bieżącą
 
 35
 00:01:05,600 --> 00:01:09,920
-oracle rate is
+stawkę wyceny BTC
 
 36
 00:01:06,880 --> 00:01:11,760
-roughly that number i'm still quite safe
+mniej więcej ta wartość jest wciąż dość bezpieczna
 
 37
 00:01:09,920 --> 00:01:13,520
-to borrow a little bit more against that
+aby pożyczyć trochę więcej w zamian za to
 
 38
 00:01:11,760 --> 00:01:15,119
-0.1 ram bdc
+0.1 renBTC
 
 39
 00:01:13,520 --> 00:01:16,320
-so i'm going to press generate more i'm
+więc klikam wygeneruj więcej
 
 40
 00:01:15,119 --> 00:01:17,920
-going to press hey i would like to
+chciałbym
 
 41
 00:01:16,320 --> 00:01:20,400
-probably ten dollars more
+pożyczyć więcej 10 dolarów
 
 42
 00:01:17,920 --> 00:01:22,080
-and i press confirm and this is where
+i klikam potwierdź i to jest gdzie
 
 43
 00:01:20,400 --> 00:01:22,880
-the signing comes up i'm gonna type in
+pojawia się podpisanie transakcji, napiszę
 
 44
 00:01:22,080 --> 00:01:26,560
-my key
+moje hasło
 
 45
 00:01:22,880 --> 00:01:28,640
-password and sign the transaction and
+i podpisuję transakcję i
 
 46
 00:01:26,560 --> 00:01:30,560
-boom i have ten dollar more that i can
+boom, mam 10 dolarów więcej, które mogę
 
 47
 00:01:28,640 --> 00:01:32,400
-spend and this is how fast um
+wydać i to jest przykład jak szybko
 
 48
 00:01:30,560 --> 00:01:34,079
-and production network looks like and
+sieć parachain działa
 
 49
 00:01:32,400 --> 00:01:34,560
-all this is happening on the fly for
+wszystko się dzieje na bieżąco
 
 50
 00:01:34,079 --> 00:01:36,880
-real
+rzeczywiście
 
 51
 00:01:34,560 --> 00:01:38,159
-um and you can actually see this on the
+właściwie możesz to zobaczyć na
 
 52
 00:01:36,880 --> 00:01:39,360
-on the on the block scanner that's
+skanerze bloków
 
 53
 00:01:38,159 --> 00:01:42,320
-provided by sub scan
+dostarczonego przez SUBSCAN
 
 54
 00:01:39,360 --> 00:01:42,960
-so um this is amazing right this is um
+więc jest to niesamowite. Prawda? to jest
 
 55
 00:01:42,320 --> 00:01:46,079
-much much
+o wiele bardziej
 
 56
 00:01:42,960 --> 00:01:46,880
-more um responsive much much more user
+responsywne i o wiele bardziej przyjazne
 
 57
 00:01:46,079 --> 00:01:48,799
-friendly
+dla użytkownika
 
 58
 00:01:46,880 --> 00:01:51,439
-also i can also replay right i can pay
+również mogę to powtórzyć,  mogę oddać
 
 59
 00:01:48,799 --> 00:01:53,360
-back i set a position if i think um
+którą ustawiłem, jeżeli myślę, że
 
 60
 00:01:51,439 --> 00:01:55,439
-i'm going to reduce a little bit of risk
+zmniejszę trochę ryzyko
 
 61
 00:01:53,360 --> 00:01:57,680
-here i can pay about 100 year ausd
+tutaj mogę zapłacić około 100 aUSD
 
 62
 00:01:55,439 --> 00:01:58,479
-that's like reducing my calculation
+to tak jak zmniejszenie obliczeń mojej
 
 63
 00:01:57,680 --> 00:02:00,799
-ratio
+proporcji
 
 64
 00:01:58,479 --> 00:02:02,240
-and any asset that will be available
+i wszelkie aktywa, które będą dostępne
 
 65
 00:02:00,799 --> 00:02:03,280
-through the governance process can be
+w procesie zarządzania, mogą być
 
 66
 00:02:02,240 --> 00:02:05,040
-borrowed against
+pożyczone na zabezpieczenie
 
 67
 00:02:03,280 --> 00:02:06,960
-different assets would have different
+różne aktywa mają różne
 
 68
 00:02:05,040 --> 00:02:08,319
-risk parameters so for example bitcoin
+parametry ryzyka, więc na przykładzie bitcoina
 
 69
 00:02:06,960 --> 00:02:09,920
-might have a risk parameter
+może mieć parametr ryzyka
 
 70
 00:02:08,319 --> 00:02:12,480
