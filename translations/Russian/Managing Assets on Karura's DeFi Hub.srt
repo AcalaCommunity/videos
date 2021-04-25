@@ -1,86 +1,86 @@
 1
 00:00:00,000 --> 00:00:02,030
-[Music]
+[Музыка]
 
 2
 00:00:04,640 --> 00:00:06,960
-the very first page that i'm going to
+первая страница, которую я собираюсь
 
 3
 00:00:06,399 --> 00:00:09,200
-show
+показать
 
 4
 00:00:06,960 --> 00:00:11,920
-is the wallet page this is where you
+это страница с кошельком, на которой вы
 
 5
 00:00:09,200 --> 00:00:14,719
-manage all your assets within the kura
+сможете управлять своими активами в пределах Karura
 
 6
 00:00:11,920 --> 00:00:16,000
-project and as you can see you can have
+и, как видите, у вас может быть
 
 7
 00:00:14,719 --> 00:00:17,359
-your well this will be definitely
+ваша сокровищница, это обязательно будет
 
 8
 00:00:16,000 --> 00:00:19,680
-turning to the kr token
+вернёмся к токену KAR
 
 9
 00:00:17,359 --> 00:00:20,800
-you have your ksm token you have your k
+у вас есть ваш токен KSM, у вас есть ваш токен
 
 10
 00:00:19,680 --> 00:00:23,600
-ausd token
+kUSD
 
 11
 00:00:20,800 --> 00:00:24,320
-you can freely transfer um to other
+вы можете свободно переводить их на другие
 
 12
 00:00:23,600 --> 00:00:26,080
-voltages
+кошельки
 
 13
 00:00:24,320 --> 00:00:28,000
-by just interacting with this front-end
+взаимодействуя с этим front-end
 
 14
 00:00:26,080 --> 00:00:31,359
-dap you can manage your assets as
+dapp вы можете управлять своими активами как
 
 15
 00:00:28,000 --> 00:00:33,440
-if like one of the aggregation of your
+как если одна из совокупных ваших
 
 16
 00:00:31,359 --> 00:00:36,000
-assets um get access to
+активов получил доступ
 
 17
 00:00:33,440 --> 00:00:36,480
-value transfer or get access to things
+переводу или получил доступ к таким вещам
 
 18
 00:00:36,000 --> 00:00:39,760
-like
+как
 
 19
 00:00:36,480 --> 00:00:42,480
-minting btc mint in poca btc
+минтинг биткоина в PolkaBTC
 
 20
 00:00:39,760 --> 00:00:44,079
-or do inter production transfer for
+или сделать межпроизводственный перенос,
 
 21
 00:00:42,480 --> 00:00:46,879
-example if i want to transfer
+например, если я хочу отправить
 
 22
 00:00:44,079 --> 00:00:48,079
@@ -88,15 +88,15 @@ um alcohol asset from my collar to for
 
 23
 00:00:46,879 --> 00:00:50,879
-example hydradex
+например, HydraDX,
 
 24
 00:00:48,079 --> 00:00:52,160
-i can select here and do a interchange
+я могу выбрать здесь и поменять
 
 25
 00:00:50,879 --> 00:00:55,039
-transfer so this is
+перевод так что это
 
 26
 00:00:52,160 --> 00:00:56,320
