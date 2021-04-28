@@ -516,7 +516,7 @@ odsetki, kiedy zaciągasz
 
 130
 00:04:06,879 --> 00:04:11,760
-te pożyczki i w jaki sposób to właściwie działa
+te pożyczki i w taki sposób to właściwie działa
 
 131
 00:04:09,920 --> 00:04:13,599
@@ -524,7 +524,7 @@ więc, główne oprocentowanie jest tym co
 
 132
 00:04:11,760 --> 00:04:15,040
-nazywamy stabilizującą opłatą
+nazywamy stabilizującą opłatą "stabilization fee"
 
 133
 00:04:13,599 --> 00:04:16,880
