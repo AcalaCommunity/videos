@@ -1,14 +1,14 @@
 1
 00:00:01,040 --> 00:00:06,560
-Hey everybody this is Dan Reecer from
+Hej, Witam wszystkich, tu Dan Reecer z zespołu
 
 2
 00:00:03,439 --> 00:00:08,639
-Acala, I'm currently VP of growth here.
+Akala. Obecnie, jestem bardzo dumny z tego jak się tutaj rozwijamy.
 
 3
 00:00:06,560 --> 00:00:10,800
-I've been on the Acala team for a couple
+Jestem w zespole Acala od kilku
 
 4
 00:00:08,639 --> 00:00:12,320
@@ -16,19 +16,19 @@ miesięcy. Wcześniej pracowałem dla
 
 5
 00:00:10,800 --> 00:00:13,920
-Web3 Foundation
+Fundacji web3
 
 6
 00:00:12,320 --> 00:00:16,080
-where I helped launch Polkadot and
+gdzie pomagałem uruchomić Polkadot oraz
 
 7
 00:00:13,920 --> 00:00:17,920
-Kusama. Today I'm going to make this
+Kusama. Dzisiaj zamierzam to zrobić
 
 8
 00:00:16,080 --> 00:00:19,119
-really quick. I may talk fast because i'm
+na prawdę szybko. Mogę mówić szybko ze względu na to, że
 
 9
 00:00:17,920 --> 00:00:21,119
@@ -40,15 +40,15 @@ w jakieś 5 do 7 minut
 
 11
 00:00:21,119 --> 00:00:24,720
-I'm going to be talking about
+Zamierzam mówić o
 
 12
 00:00:22,560 --> 00:00:26,320
-Polkadot and Kusama parachain auctions
+Aukcjach parachain Polkadot i Kusama
 
 13
 00:00:24,720 --> 00:00:27,680
-and crowdloans, which are the process
+oraz o publicznych pożyczkach (crowdloans), które są procesem
 
 14
 00:00:26,320 --> 00:00:30,640
