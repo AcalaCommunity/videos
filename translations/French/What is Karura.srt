@@ -1,50 +1,50 @@
 1
 00:00:03,360 --> 00:00:06,160
-hey guys
+salut tout le monde
 
 2
 00:00:04,080 --> 00:00:07,680
-uh this is dan reeser and i'm joined
+je suis Dan Reecer et suis rejoint
 
 3
 00:00:06,160 --> 00:00:10,160
-here by rui tau
+ici par Ruitao
 
 4
 00:00:07,680 --> 00:00:11,599
-um we're going to be going over um quite
+nous allons passer en revue
 
 5
 00:00:10,160 --> 00:00:14,240
-a bit of information today
+pas mal d'informations aujourd'hui
 
 6
 00:00:11,599 --> 00:00:16,640
-over um our network called kubura which
+sur notre réseau appelé Karura que
 
 7
 00:00:14,240 --> 00:00:17,039
-we're building on kusama um you may also
+nous construisons sur Kusama,
 
 8
 00:00:16,640 --> 00:00:19,359
-know
+vous nous connaissez aussi peut être
 
 9
 00:00:17,039 --> 00:00:20,480
-us as the akala team um so we're also
+en tant que l'équipe d'Acala
 
 10
 00:00:19,359 --> 00:00:22,080
-preparing for the
+nous nous préparons aussi pour
 
 11
 00:00:20,480 --> 00:00:23,920
-akala lunch on polka dot but that'll
+le lancement d'Acala sur Polkadot
 
 12
 00:00:22,080 --> 00:00:26,000
-come after our career launch so today
+mais cela viendra après le lancement de Karura donc aujourd'hui
 
 13
 00:00:23,920 --> 00:00:28,960
