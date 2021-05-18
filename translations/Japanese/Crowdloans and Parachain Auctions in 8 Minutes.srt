@@ -1,118 +1,118 @@
 1
 00:00:01,040 --> 00:00:06,560
-Hey everybody this is Dan Reecer from
+皆さん、こんにちはDan Reecerです
 
 2
 00:00:03,439 --> 00:00:08,639
-Acala, I'm currently VP of growth here.
+私はAcalaのgrowth VPとして働いています。
 
 3
 00:00:06,560 --> 00:00:10,800
-I've been on the Acala team for a couple
+私がAcalaチームに参加してから2年になります。
 
 4
 00:00:08,639 --> 00:00:12,320
-months and previously spent my time at
+約2年位なりますが、
 
 5
 00:00:10,800 --> 00:00:13,920
-Web3 Foundation
+その前はWeb3 Foundationにいました。
 
 6
 00:00:12,320 --> 00:00:16,080
-where I helped launch Polkadot and
+で、PolkadotとKusamaのローンチに携わっていました。
 
 7
 00:00:13,920 --> 00:00:17,920
-Kusama. Today I'm going to make this
+今日は手短にお話ししたいと思います。
 
 8
 00:00:16,080 --> 00:00:19,119
-really quick. I may talk fast because i'm
+もしかしたら早口になるかもしれませんが、
 
 9
 00:00:17,920 --> 00:00:21,119
-trying to keep it in
+早口になるかもしれませんが、
 
 10
 00:00:19,119 --> 00:00:22,560
-hopefully like five to seven minutes but
+内容を概要部分に絞って
 
 11
 00:00:21,119 --> 00:00:24,720
-I'm going to be talking about
+PolkadotとKusamaの
 
 12
 00:00:22,560 --> 00:00:26,320
-Polkadot and Kusama parachain auctions
+パラチェーンオークションと
 
 13
 00:00:24,720 --> 00:00:27,680
-and crowdloans, which are the process
+クラウドローンの簡単な仕組みについて
 
 14
 00:00:26,320 --> 00:00:30,640
-for how to launch
+お話したいと思います。
 
 15
 00:00:27,680 --> 00:00:32,480
-a blockchain on one of these networks so
+ご存知のように、
 
 16
 00:00:30,640 --> 00:00:34,559
-Polkadot and Kusama as you may know are
+PolkadotやKusamaは、
 
 17
 00:00:32,480 --> 00:00:35,840
-these multi-chain ecosystems that are
+パラチェーンと呼ばれる
 
 18
 00:00:34,559 --> 00:00:37,680
-tying together
+複数のブロックチェーンを
 
 19
 00:00:35,840 --> 00:00:38,879
-a bunch of blockchains that are called
+集約して機能する事ができる
 
 20
 00:00:37,680 --> 00:00:40,399
-parachains.
+マルチチェーンエコシステムです。
 
 21
 00:00:38,879 --> 00:00:42,559
-In the future there will be up to a
+将来的にはPolkadotにも
 
 22
 00:00:40,399 --> 00:00:43,200
-hundred parachains on Polkadot and a
+kusamaにも100個以上のパラチェーンが
 
 23
 00:00:42,559 --> 00:00:46,480
-hundred
+存在する様になるでしょうが、
 
 24
 00:00:43,200 --> 00:00:48,480
-plus on Kusama, but as of now there's no
+現状はどちらにも
 
 25
 00:00:46,480 --> 00:00:50,320
-parachain on either one.
+パラチェーンは存在していません。
 
 26
 00:00:48,480 --> 00:00:51,760
-So today i'm going to talk about how to
+そこで今日は、
 
 27
 00:00:50,320 --> 00:00:53,680
-actually earn a slot
+この図の中の小さな四角い枠の一つとして、
 
 28
 00:00:51,760 --> 00:00:55,199
-as one of these little squares here in
+実際にスロットを獲得する方法についてお話します。
 
 29
 00:00:53,680 --> 00:00:56,079
-this diagram. How do you actually become
+kusamaの最初のパラチェーンや
 
 30
 00:00:55,199 --> 00:00:58,000
