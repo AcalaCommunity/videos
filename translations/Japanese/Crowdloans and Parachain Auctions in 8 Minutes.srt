@@ -116,135 +116,135 @@ kusamaの最初のパラチェーンや
 
 30
 00:00:55,199 --> 00:00:58,000
-the first
+polkadotの最初のパラチェーンになるには
 
 31
 00:00:56,079 --> 00:01:00,320
-parachain on Kusama or the first parachain
+どうすればいいのか、
 
 32
 00:00:58,000 --> 00:01:02,399
-on Polkadot
+そのプロセスが
 
 33
 00:01:00,320 --> 00:01:04,159
-and that process is crowdloans and
+クラウドローンと
 
 34
 00:01:02,399 --> 00:01:06,400
-parachain auctions. So
+パラチェーンオークションです。
 
 35
 00:01:04,159 --> 00:01:07,920
-this is the timeline. You can see here
+これがそのタイムラインです。
 
 36
 00:01:06,400 --> 00:01:10,240
-that crowdloans come
+ここでは、クラウドローンが
 
 37
 00:01:07,920 --> 00:01:12,080
-first, which i'll get into.. The main
+先に来ることがわかりますが、
 
 38
 00:01:10,240 --> 00:01:12,640
-event is the parachain auction here in
+これについては
 
 39
 00:01:12,080 --> 00:01:15,759
-white
+後ほど説明します。
 
 40
 00:01:12,640 --> 00:01:17,280
-this is multiple parachain teams
+メインイベントは、白地で示されている
 
 41
 00:01:15,759 --> 00:01:19,759
-essentially bidding against each other
+パラチェーンオークションです。
 
 42
 00:01:17,280 --> 00:01:21,759
-trying to win this auction
+これは複数のパラチェインチームが、
 
 43
 00:01:19,759 --> 00:01:23,119
-the winner of the auction then moves on
+オークションでの勝利を目指して
 
 44
 00:01:21,759 --> 00:01:26,240
-and earns a slot
+互いに競い合うものです。
 
 45
 00:01:23,119 --> 00:01:27,920
-here in the green. Once you earn a slot
+オークションに勝利してこの枠を獲得すると、
 
 46
 00:01:26,240 --> 00:01:30,000
-then you're officially on
+正式にKusamaやPolkadotの
 
 47
 00:01:27,920 --> 00:01:32,000
-Kusama or on Polkadot as a parachain
+パラチェーンとして登録されます。
 
 48
 00:01:30,000 --> 00:01:34,560
-team and you can begin
+このプロセスを経て、
 
 49
 00:01:32,000 --> 00:01:35,520
-launching your applications, applications
+プロジェクトはようやく
 
 50
 00:01:34,560 --> 00:01:37,759
-can build on you
+アプリケーションを正式に
 
 51
 00:01:35,520 --> 00:01:40,159
-and so on. This is ultimately the
+ローンチすることができるというわけです。
 
 52
 00:01:37,759 --> 00:01:42,240
-vision of Polkadot and Kusama
+これは基本的な
 
 53
 00:01:40,159 --> 00:01:44,399
-and then the last part here you can see
+これらが基本的な
 
 54
 00:01:42,240 --> 00:01:45,280
-there's an actual end time of this slot
+polkadotとKusamaの
 
 55
 00:01:44,399 --> 00:01:48,560
-that the team
+パラチェーンオークションに関する
 
 56
 00:01:45,280 --> 00:01:49,680
-earns so after the team earns that slot
+ビジョンとなります。そして、
 
 57
 00:01:48,560 --> 00:01:51,280
-then there's things that happen
+チームが獲得したスロットの終了時間の部分を
 
 58
 00:01:49,680 --> 00:01:51,920
-including crowdloan funds being
+見ていただきたいのですが、チームがそのスロットを獲得した後に、
 
 59
 00:01:51,280 --> 00:01:54,640
-returned
+クラウドローンの資金が貢献者に還元されるという
 
 60
 00:01:51,920 --> 00:01:56,000
-to the contributors and so on. And
+イベントが発生しているのがわかりますね。
 
 61
 00:01:54,640 --> 00:01:57,439
-I'll cover all that in the next few
+次の数枚のスライドで、
 
 62
 00:01:56,000 --> 00:01:59,920
-slides.
+この部分を説明します。
 
 63
 00:01:57,439 --> 00:02:01,439
