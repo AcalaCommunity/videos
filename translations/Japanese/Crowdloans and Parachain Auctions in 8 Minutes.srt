@@ -348,103 +348,103 @@ kusamaのように
 
 88
 00:02:48,239 --> 00:02:51,840
-The more frequent and more
+そしてもう一方のシナリオは、
 
 89
 00:02:50,400 --> 00:02:53,680
-likely scenario
+クラウドローン・モジュールの使用であり、
 
 90
 00:02:51,840 --> 00:02:55,360
-will be number two here, which is using
+こちらの方が
 
 91
 00:02:53,680 --> 00:02:56,480
-the crowdloan module
+より一般的な方法になるかもしれません。
 
 92
 00:02:55,360 --> 00:02:59,040
-so in this case you're actually
+この場合Kusamaの場合は
 
 93
 00:02:56,480 --> 00:03:00,800
-crowdsourcing KSM in the case of Kusama
+kSMをクラウドソーシングしたり、
 
 94
 00:02:59,040 --> 00:03:02,879
-or crowdsourcing DOT
+コミュニティからDOTを
 
 95
 00:03:00,800 --> 00:03:04,480
-from your community and you're
+クラウドソーシングしたりして
 
 96
 00:03:02,879 --> 00:03:05,440
-basically crowdsourcing this so that you
+集める事で
 
 97
 00:03:04,480 --> 00:03:09,519
-can use that
+パラチェーンスロットオークションで
 
 98
 00:03:05,440 --> 00:03:12,000
-in the parachain slot auction.
+使えるようにします。
 
 99
 00:03:09,519 --> 00:03:13,519
-How often will this happen? So
+さて、各オークションの
 
 100
 00:03:12,000 --> 00:03:15,360
-Parachain auctions will be done
+開催頻度についてですが、
 
 101
 00:03:13,519 --> 00:03:17,599
-one at a time but it's looking like
+想定ではパラチェーンオークションは
 
 102
 00:03:15,360 --> 00:03:19,440
-these will be about every two weeks so
+2週間に1回程度の開催に
 
 103
 00:03:17,599 --> 00:03:20,640
-in the Polkadot and Kusama ecosystem
+なるのではないかと想定しています。
 
 104
 00:03:19,440 --> 00:03:24,720
-these things will be happening on an
+つまり、Polkadotと
 
 105
 00:03:20,640 --> 00:03:24,720
-ongoing basis for the foreseeable future
+kusamaのエコシステムでは、
 
 106
 00:03:25,200 --> 00:03:28,959
-so crowdloans first of all
+このオークションが当面の間、
 
 107
 00:03:27,680 --> 00:03:31,440
-like i said are used
+継続的に
 
 108
 00:03:28,959 --> 00:03:32,239
-for the opening bid in an auction so
+行われていくことになります。
 
 109
 00:03:31,440 --> 00:03:34,159
-teams will
+チームは各トークンを
 
 110
 00:03:32,239 --> 00:03:36,400
-crowdsource these tokens and then use
+クラウドソースで調達し、次のステップである
 
 111
 00:03:34,159 --> 00:03:37,920
-them in that parachain auction at the
+パラチェーンオークションで
 
 112
 00:03:36,400 --> 00:03:40,400
-next step.
+使用することになります。
 
 113
 00:03:37,920 --> 00:03:42,159
@@ -648,99 +648,99 @@ Then how do we determine the winner?
 
 163
 00:05:14,400 --> 00:05:17,120
-When the auction starts we will know the
+オークションの流れに関しては、
 
 164
 00:05:16,320 --> 00:05:19,199
-open time
+この緑の部分で
 
 165
 00:05:17,120 --> 00:05:22,800
-here in the green, and we will know the
+オープンタイムがわかり、
 
 166
 00:05:19,199 --> 00:05:24,639
-close time in the orange over here
+このオレンジの部分で
 
 167
 00:05:22,800 --> 00:05:26,240
-and the most exciting point will be when
+クローズタイムがわかります。
 
 168
 00:05:24,639 --> 00:05:29,440
-we hit this close time
+最もエキサイティングなポイントは、
 
 169
 00:05:26,240 --> 00:05:31,759
-the Kusama or Polkadot relay chain
+このクローズタイムになると、
 
 170
 00:05:29,440 --> 00:05:33,759
-itself will randomly select a time
+kusamaまたはPolkadotリレーチェーン自体が
 
 171
 00:05:31,759 --> 00:05:35,440
-that determines the end time, this red
+ランダムに選択し、この赤いバーで
 
 172
 00:05:33,759 --> 00:05:37,759
-bar here. So in this
+エンドタイムが決定されるという事です。
 
 173
 00:05:35,440 --> 00:05:38,639
-example you've got Parachain B bidding,
+この例では、パラチェーンBが入札し、
 
 174
 00:05:37,759 --> 00:05:41,919
-Parachain C bidding,
+パラチェーンCが入札し、
 
 175
 00:05:38,639 --> 00:05:44,479
-Parachain A bidding.... E and F
+パラチェーンAが入札しています。
 
 176
 00:05:41,919 --> 00:05:46,560
-beat A in terms of number of KSM but the
+.... KSMの数ではEとFがAに勝っていますが、
 
 177
 00:05:44,479 --> 00:05:47,280
-winner was determined at this red line
+勝敗はこの赤い線のところで
 
 178
 00:05:46,560 --> 00:05:49,840
-so
+決まるので、
 
 179
 00:05:47,280 --> 00:05:51,280
-the highest bidder was Parachain A.
+最高額入札はパラチェーンAとなります。
 
 180
 00:05:49,840 --> 00:05:53,280
-This is called an unpermissioned candle auction
+これは、パーミッションレス・キャンドルオークションと
 
 181
 00:05:51,280 --> 00:05:55,280
-and it incentivizes teams to bid
+呼ばれるもので、
 
 182
 00:05:53,280 --> 00:05:56,639
-as high as they can as early as they can
+ebayで見られるような最後まで待って、
 
 183
 00:05:55,280 --> 00:05:58,240
-instead of waiting until the end like
+最後にスナイプして最高額の入札を
 
 184
 00:05:56,639 --> 00:06:00,319
-you might have seen on ebay
+得ようとするのではなく、できるだけ早い段階で
 
 185
 00:05:58,240 --> 00:06:04,319
-where people try to
+高額の入札をするというインセンティブを
 
 186
 00:06:00,319 --> 00:06:06,240
-snipe at the end and get the highest bid.
+各チームに与えるものです。
 
 187
 00:06:04,319 --> 00:06:07,759
