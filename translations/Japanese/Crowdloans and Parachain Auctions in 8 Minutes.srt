@@ -248,103 +248,103 @@ polkadotとKusamaの
 
 63
 00:01:57,439 --> 00:02:01,439
-So parachain auctions, I'm going to start
+パラチェーンオークションに関しては、
 
 64
 00:01:59,920 --> 00:02:03,680
-with, because you need to understand this
+クラウドローンを理解する前に
 
 65
 00:02:01,439 --> 00:02:06,159
-before we go into Crowdloans. So
+しっかり把握しておく必要があるので、
 
 66
 00:02:03,680 --> 00:02:06,880
-a parachain slot auction is essentially
+この点について少し話しましょう。
 
 67
 00:02:06,159 --> 00:02:08,959
-like I said
+パラチェーンスロットオークションとは、
 
 68
 00:02:06,880 --> 00:02:10,720
-teams bidding against each other to try
+先ほど申し上げたように、
 
 69
 00:02:08,959 --> 00:02:14,720
-to win one of these slots
+チームが互いに競い合って
 
 70
 00:02:10,720 --> 00:02:17,440
-each auction is ultimately going for
+1つのスロットを獲得しようとするもので、
 
 71
 00:02:14,720 --> 00:02:19,040
-one slot it can be divided into smaller
+各オークションは最終的に1つのスロットを
 
 72
 00:02:17,440 --> 00:02:21,599
-chunks but ultimately
+獲得する為に争うことになります。
 
 73
 00:02:19,040 --> 00:02:23,599
-on Polkadot it can be up to 24 months
+チームによってはもっと短い期間で
 
 74
 00:02:21,599 --> 00:02:25,360
-but some teams may decide to bid for
+入札することも可能ですが、
 
 75
 00:02:23,599 --> 00:02:28,080
-shorter but to keep this simple let's
+ここではシンプルに
 
 76
 00:02:25,360 --> 00:02:30,160
-just assume the maximum.
+最大値を想定してみましょう。
 
 77
 00:02:28,080 --> 00:02:32,080
-Teams that are going into this
+オークションに参加するチームには、
 
 78
 00:02:30,160 --> 00:02:32,560
-auction have two options for how to
+実際の入札方法や
 
 79
 00:02:32,080 --> 00:02:35,440
-actually
+入札に使用する資金について、
 
 80
 00:02:32,560 --> 00:02:36,239
-bid and what funds to use for their bid
+2つの選択肢があります。
 
 81
 00:02:35,440 --> 00:02:38,640
-so
+まず、
 
 82
 00:02:36,239 --> 00:02:40,879
-first is if you have a single account
+kusamaのように
 
 83
 00:02:38,640 --> 00:02:42,800
-say for Kusama, you have a
+1つのアカウントを持っていて、
 
 84
 00:02:40,879 --> 00:02:44,080
-stack of KSM that you want to use for
+オークションに使用できるKSMの
 
 85
 00:02:42,800 --> 00:02:45,280
-this auction
+保有量があり、
 
 86
 00:02:44,080 --> 00:02:48,239
-and you don't need to involve your
+コミュニティを巻き込む必要がない場合は、
 
 87
 00:02:45,280 --> 00:02:50,400
-community then that could be one option.
+1つの選択肢となるでしょう。
 
 88
 00:02:48,239 --> 00:02:51,840
