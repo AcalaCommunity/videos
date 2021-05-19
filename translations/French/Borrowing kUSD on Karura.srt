@@ -60,143 +60,143 @@ j'ai emprunté environ trois mille
 
 16
 00:00:31,599 --> 00:00:35,120
-dollars against
+dollars contre
 
 17
 00:00:32,399 --> 00:00:37,120
-zero point one run bdc that's a little
+0.1 renBTC
 
 18
 00:00:35,120 --> 00:00:38,160
-bit risky but i mean that's what um the
+c'est un peu risqué mais bon c'est ce que
 
 19
 00:00:37,120 --> 00:00:39,920
-system allows
+le système permet
 
 20
 00:00:38,160 --> 00:00:41,440
-um you can actually create loans using
+vous pouvez créer des prêts en utilisant
 
 21
 00:00:39,920 --> 00:00:44,160
-any sort of asset that will be
+tout types d'actifs qui seront rendus disponibles
 
 22
 00:00:41,440 --> 00:00:45,520
-available um in the governance process
+et autorisés par le processus de gouvernance
 
 23
 00:00:44,160 --> 00:00:47,600
-allowed to be using crypto
+à être un collatéral
 
 24
 00:00:45,520 --> 00:00:48,640
-and in this particular interface here i
+et sur cette interface spécifiquement ici
 
 25
 00:00:47,600 --> 00:00:51,039
-have dot
+j'ai DOT
 
 26
 00:00:48,640 --> 00:00:52,320
-l dot which we'll be covering later and
+LDOT, que nous verrons plus tard
 
 27
 00:00:51,039 --> 00:00:53,280
-this will be definitely it would be like
+ce sera certainement comme ça
 
 28
 00:00:52,320 --> 00:00:56,480
-kusama
+ce sera Kusama
 
 29
 00:00:53,280 --> 00:00:56,960
-el kikuzama and bitcoins so what i'm
+LKSM et Bitcoin donc
 
 30
 00:00:56,480 --> 00:00:58,960
-going to
+ce que je vais montrer
 
 31
 00:00:56,960 --> 00:01:00,239
-demo here is that i'm going to borrow
+est que je vais emprunter
 
 32
 00:00:58,960 --> 00:01:03,359
-more uh
+plus
 
 33
 00:01:00,239 --> 00:01:05,600
-against my 0.1 ram btc position here
+contre ma position 0.1 renBTC ici
 
 34
 00:01:03,359 --> 00:01:06,880
-so you can see um the current bitcoin
+donc vous pouvez voir le taux du bitcoin actuel
 
 35
 00:01:05,600 --> 00:01:09,920
-oracle rate is
+le taux de l'oracle est
 
 36
 00:01:06,880 --> 00:01:11,760
-roughly that number i'm still quite safe
+à peu près ce chiffre je suis encore suffisamment en sécurité
 
 37
 00:01:09,920 --> 00:01:13,520
-to borrow a little bit more against that
+pour emprunter un peu plus contre
 
 38
 00:01:11,760 --> 00:01:15,119
-0.1 ram bdc
+ce 0.1 renBTC
 
 39
 00:01:13,520 --> 00:01:16,320
-so i'm going to press generate more i'm
+alors je vais appuyer sur générer plus
 
 40
 00:01:15,119 --> 00:01:17,920
-going to press hey i would like to
+je voudrais emprunter genre
 
 41
 00:01:16,320 --> 00:01:20,400
-probably ten dollars more
+peut-être dix dollars de plus
 
 42
 00:01:17,920 --> 00:01:22,080
-and i press confirm and this is where
+et j'appuie sur confirmer et c'est là que
 
 43
 00:01:20,400 --> 00:01:22,880
-the signing comes up i'm gonna type in
+la signature arrive je vais entrer
 
 44
 00:01:22,080 --> 00:01:26,560
-my key
+ma clé
 
 45
 00:01:22,880 --> 00:01:28,640
-password and sign the transaction and
+mon mot de passe et signer la transaction
 
 46
 00:01:26,560 --> 00:01:30,560
-boom i have ten dollar more that i can
+boom j'ai dix dollars de plus
 
 47
 00:01:28,640 --> 00:01:32,400
-spend and this is how fast um
+que je peux dépenser et c'est rapide à ce point
 
 48
 00:01:30,560 --> 00:01:34,079
-and production network looks like and
+et le réseau de production ressemble à ça
 
 49
 00:01:32,400 --> 00:01:34,560
-all this is happening on the fly for
+tout ceci se passe à la volée
 
 50
 00:01:34,079 --> 00:01:36,880
-real
+pour de vrai
 
 51
 00:01:34,560 --> 00:01:38,159
