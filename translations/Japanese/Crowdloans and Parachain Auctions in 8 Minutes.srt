@@ -448,203 +448,203 @@ kusamaのエコシステムでは、
 
 113
 00:03:37,920 --> 00:03:42,159
-If you're a user and you contribute KSM
+もしあなたがユーザーで、
 
 114
 00:03:40,400 --> 00:03:44,480
-to a Kusama parachain or if you
+kusamaのパラチェーンに
 
 115
 00:03:42,159 --> 00:03:46,400
-contribute DOT to a Polkadot parachain
+kSMによる寄付貢献をし、
 
 116
 00:03:44,480 --> 00:03:48,159
-you're essentially agreeing to locking
+またはPolkadotのパラチェーンに
 
 117
 00:03:46,400 --> 00:03:49,599
-those tokens for the duration of that
+dOTを寄付貢献したりすると、
 
 118
 00:03:48,159 --> 00:03:51,120
-parachain slot.
+基本的にそのパラチェーンスロットの
 
 119
 00:03:49,599 --> 00:03:52,959
-In the example that I used earlier
+期間中、そのトークンを
 
 120
 00:03:51,120 --> 00:03:56,560
-let's assume 24 months
+ロックすることに同意したことになります。
 
 121
 00:03:52,959 --> 00:03:58,720
-then after 24 months your original
+先ほどの例の24ヶ月間と仮定した場合、
 
 122
 00:03:56,560 --> 00:04:00,799
-principle is returned back to you so
+24ヶ月後に元手が全て戻ってくるので
 
 123
 00:03:58,720 --> 00:04:01,920
-it's essentially no loss and a much more
+基本的に損失は
 
 124
 00:04:00,799 --> 00:04:03,200
-ethical model
+一切発生しない為、
 
 125
 00:04:01,920 --> 00:04:05,840
-than we've seen in the past with things
+これまでのICOのようなものよりも
 
 126
 00:04:03,200 --> 00:04:07,599
-like ICOs because in this case
+はるかに倫理的なモデルとなっています。
 
 127
 00:04:05,840 --> 00:04:09,200
-you really hold the team accountable for
+チームはネットワークに
 
 128
 00:04:07,599 --> 00:04:11,599
-actually delivering on their
+価値を与える必要があるため、
 
 129
 00:04:09,200 --> 00:04:13,120
-vision in their white paper because they
+ホワイトペーパーに書かれた
 
 130
 00:04:11,599 --> 00:04:15,120
-need to add value to their network
+ビジョンを実際に実現する
 
 131
 00:04:13,120 --> 00:04:17,199
-because they're actually not raising
+責任を負うことになります。
 
 132
 00:04:15,120 --> 00:04:19,519
-any funds directly from you as the
+そして確実に伝えておくべきこととして、
 
 133
 00:04:17,199 --> 00:04:22,160
-community member.
+クラウドローンの参加者から
 
 134
 00:04:19,519 --> 00:04:23,040
-Last, I kind of hinted at this
+集められたKSMや
 
 135
 00:04:22,160 --> 00:04:24,880
-just now but
+DOTによる資金は
 
 136
 00:04:23,040 --> 00:04:26,400
-the funds that are contributed in
+チームが触れることは
 
 137
 00:04:24,880 --> 00:04:28,160
-KSM or in DOT
+一切ありませんので、
 
 138
 00:04:26,400 --> 00:04:29,680
-are never touched by the team so there's
+チームが資金を集めて
 
 139
 00:04:28,160 --> 00:04:31,600
-no worries about
+本来の約束を
 
 140
 00:04:29,680 --> 00:04:33,440
-teams raising money and running away
+果たさずに逃げ出すなどの
 
 141
 00:04:31,600 --> 00:04:36,240
-with it not delivering on what they
+詐欺の心配はありません。
 
 142
 00:04:33,440 --> 00:04:37,680
-promised. All
+ご安心ください。
 
 143
 00:04:36,240 --> 00:04:40,560
-the interests are really aligned here
+ここでは利害が一致しており、
 
 144
 00:04:37,680 --> 00:04:42,639
-and the team is really held accountable.
+チームは本当に責任を負って
 
 145
 00:04:40,560 --> 00:04:43,840
-In the crowdloan,
+これに取り組むことになります。
 
 146
 00:04:42,639 --> 00:04:45,520
-this is kind of what it looks like.
+クラウドローンの仕組は、
 
 147
 00:04:43,840 --> 00:04:48,000
-You've got multiple teams
+このような感じです。
 
 148
 00:04:45,520 --> 00:04:48,880
-crowdsourcing KSM or DOT from their
+複数のチームがそれぞれのコミュニティから
 
 149
 00:04:48,000 --> 00:04:50,880
-communities
+KSMやDOTをクラウドソーシングし、
 
 150
 00:04:48,880 --> 00:04:52,320
-and that leads into the paratrain slot
+それがスロットオークションに
 
 151
 00:04:50,880 --> 00:04:54,080
-auction.
+つながっています。
 
 152
 00:04:52,320 --> 00:04:55,520
-Everything that was raised in that
+クラウドローンにより集められた資金は、
 
 153
 00:04:54,080 --> 00:04:58,400
-crowdloan stage is
+チームにはアクセスできませんが、
 
 154
 00:04:55,520 --> 00:05:00,320
-is not accessible to the team but
+彼らは実際に
 
 155
 00:04:58,400 --> 00:05:02,160
-they can actually use that
+パラチェーンスロット・オークションでの入札資金としてのみ
 
 156
 00:05:00,320 --> 00:05:04,000
-in their parachain slot auction. So you
+使用することができます。
 
 157
 00:05:02,160 --> 00:05:05,280
-can think of it like a poker table
+つまり、オークション開始時の
 
 158
 00:05:04,000 --> 00:05:07,280
-at the beginning of the auction all
+ポーカーテーブルのようなもので、
 
 159
 00:05:05,280 --> 00:05:09,039
-these teams will basically go all in
+各チームはクラウドローンで調達した
 
 160
 00:05:07,280 --> 00:05:11,600
-with the funds that they raised in
+資金を使って
 
 161
 00:05:09,039 --> 00:05:14,400
-their crowdloan.
+オールインすることになります。
 
 162
 00:05:11,600 --> 00:05:16,320
-Then how do we determine the winner?
+では、どのようにして勝者を決めるのでしょうか？
 
 163
 00:05:14,400 --> 00:05:17,120
@@ -964,17 +964,17 @@ KaruraとAcalaは共に
 
 242
 00:07:54,960 --> 00:07:58,240
-So that's it in about eight minutes.
+と、以上約8分の説明でした。
 
 243
 00:07:57,039 --> 00:07:59,919
-Hopefully you learned something. Let me
+何かを学びとっていただけたなら幸いです。
 
 244
 00:07:58,240 --> 00:08:03,759
-know if you have any questions.
+何か質問があれば教えてください。
 
 245
 00:07:59,919 --> 00:08:03,759
-Thank you, bye.
+ご清聴ありがとうございました！
 
