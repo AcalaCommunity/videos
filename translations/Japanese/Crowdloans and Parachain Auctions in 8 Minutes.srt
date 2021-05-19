@@ -744,223 +744,223 @@ ebayで見られるような最後まで待って、
 
 187
 00:06:04,319 --> 00:06:07,759
-This is a full walkthrough of this
+これは、このプロセス全体の完全なウォークスルーです。
 
 188
 00:06:06,240 --> 00:06:10,720
-whole process. You've got
+各コミュニティ及び
 
 189
 00:06:07,759 --> 00:06:12,960
-users over here contributing KSM they
+プロジェクトからの参加者が
 
 190
 00:06:10,720 --> 00:06:16,720
-contribute in this example to Karura
+kSMを拠出する事になり、
 
 191
 00:06:12,960 --> 00:06:19,199
-500,000 KSM. Then Karua
+この例ではKaruraに50万KSMを拠出しています。
 
 192
 00:06:16,720 --> 00:06:21,280
-wins the first slot on Kusama and then
+そしてKaruraはKusamaの最初のスロットを獲得し、
 
 193
 00:06:19,199 --> 00:06:23,600
-begins its launch process so
+ローンチプロセスを開始する事ができるようになります。
 
 194
 00:06:21,280 --> 00:06:24,800
-all of the KSM that was crowdsourced in
+この最初のクラウドローン期間に
 
 195
 00:06:23,600 --> 00:06:26,880
-this original
+クラウドソースされたKSMは、
 
 196
 00:06:24,800 --> 00:06:28,240
-crowdloan period is then locked in the
+全てKusamaのコアリレーチェーンにロックされ、
 
 197
 00:06:26,880 --> 00:06:31,759
-core
+karuraの
 
 198
 00:06:28,240 --> 00:06:33,919
-Kusama relay chain and then KAR
+ネイティブトークン（KAR）が
 
 199
 00:06:31,759 --> 00:06:36,319
-is then distributed, the native token of
+配布されます。
 
 200
 00:06:33,919 --> 00:06:36,960
-Karura (KAR) is distributed to the
+KARがクラウドローンの貢献者に
 
 201
 00:06:36,319 --> 00:06:39,360
-crowdloan contributors
+配布され、
 
 202
 00:06:36,960 --> 00:06:41,120
-and then at the same time
+同時にKaruraも
 
 203
 00:06:39,360 --> 00:06:44,160
-Karura is also launching so
+ローンチされますので、
 
 204
 00:06:41,120 --> 00:06:45,039
-the Karura stablecoin, the liquid KSM staking,
+karuraステーブルコイン、
 
 205
 00:06:44,160 --> 00:06:47,440
-as well as
+リキッドステーキング、
 
 206
 00:06:45,039 --> 00:06:50,479
-the Karura AMM-DEX, the Karura DEX
+krura AMM-DEX、
 
 207
 00:06:47,440 --> 00:06:52,160
-all go live on top of Karura
+karura Dexの全てが、
 
 208
 00:06:50,479 --> 00:06:54,080
-when this happens. At the end of
+karura上で正式稼働します。
 
 209
 00:06:52,160 --> 00:06:55,039
-the parachain slot all of the KSM is
+パラチェーンスロットのKSMは
 
 210
 00:06:54,080 --> 00:06:58,880
-returned to the
+全てサポーターに
 
 211
 00:06:55,039 --> 00:07:00,400
-supporters. Now the
+返却されます。さて、
 
 212
 00:06:58,880 --> 00:07:02,160
-last question that people sometimes
+人々が時々抱く最後の疑問は
 
 213
 00:07:00,400 --> 00:07:04,000
-have is: 'What happens at the end of that
+「そのスロットの終わりに何が起こるのか」
 
 214
 00:07:02,160 --> 00:07:06,400
-slot?' In this example, let's say
+ということです。この例では、
 
 215
 00:07:04,000 --> 00:07:08,880
-that it was a one-year parachain slot
+仮に1年間のパラチェーンスロットだったとすると、
 
 216
 00:07:06,400 --> 00:07:10,479
-the KSM is returned to the original
+kSMは当初の
 
 217
 00:07:08,880 --> 00:07:12,000
-crowdloan supporters and then there's
+クラウドローン支援者に返却され、
 
 218
 00:07:10,479 --> 00:07:14,479
-three options for
+その後、どのチームも
 
 219
 00:07:12,000 --> 00:07:16,560
-any team to kind of maintain their
+リレーチェーンへのアクセスを維持するための
 
 220
 00:07:14,479 --> 00:07:18,240
-access to the relay chain.
+3つのオプションを持つことになります。
 
 221
 00:07:16,560 --> 00:07:20,560
-First is to host another crowdloan and
+1つ目は、クラウドローンとパラチェーンオークションを
 
 222
 00:07:18,240 --> 00:07:23,680
-do another parachain auction,
+再度実施すること、
 
 223
 00:07:20,560 --> 00:07:25,360
-second is to self fund. Karura and
+2つ目は自己資金で賄うことです。
 
 224
 00:07:23,680 --> 00:07:26,639
-Acala will both have a decentralized
+KaruraとAcalaは共に
 
 225
 00:07:25,360 --> 00:07:28,240
-sovereign wealth fund
+分散型のソブリン・ウェルス・ファンドを保有し、
 
 226
 00:07:26,639 --> 00:07:30,000
-and over time that will
+時間をかけてこのファンドを
 
 227
 00:07:28,240 --> 00:07:31,599
-continue to build and build
+構築していきます。
 
 228
 00:07:30,000 --> 00:07:33,759
-so that we can become sovereign and
+つまり、私たちがソブリンになり、
 
 229
 00:07:31,599 --> 00:07:36,240
-self-sustainable and actually
+自立し、実際に自分たちの貯蔵分の資産で
 
 230
 00:07:33,759 --> 00:07:37,440
-bid with our own treasury our own
+将来のスロット獲得の為に
 
 231
 00:07:36,240 --> 00:07:39,840
-sovereign wealth fund
+自分たちのソブリン・ウェルス・ファンドの資産を利用して
 
 232
 00:07:37,440 --> 00:07:40,479
-for future slots, and then the third
+入札することができるようになるのです。
 
 233
 00:07:39,840 --> 00:07:42,800
-option
+そして
 
 234
 00:07:40,479 --> 00:07:44,000
-there's probably several wiki articles
+3つ目の選択肢は、
 
 235
 00:07:42,800 --> 00:07:46,400
-and videos that you could watch
+おそらくこの件に関していくつかのwiki記事や
 
 236
 00:07:44,000 --> 00:07:48,160
-about this but, the other option is
+ビデオを見ることができるでしょうが、
 
 237
 00:07:46,400 --> 00:07:49,520
-to become a parathread, which
+それはパラスレッドに
 
 238
 00:07:48,160 --> 00:07:51,599
-just means that you have a little
+なるという選択です。
 
 239
 00:07:49,520 --> 00:07:53,759
-bit less access..
+パラスレッドになると、
 
 240
 00:07:51,599 --> 00:07:54,960
-less frequent access to the relay
+リレーチェーン自体への
 
 241
 00:07:53,759 --> 00:07:57,039
-chain itself.
+アクセスが少し減ります。
 
 242
 00:07:54,960 --> 00:07:58,240
