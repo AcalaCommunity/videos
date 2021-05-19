@@ -48,343 +48,343 @@ mais cela viendra après le lancement de Karura donc aujourd'hui
 
 13
 00:00:23,920 --> 00:00:28,960
-we're going to spend a little time
+on va passer un peu de temps
 
 14
 00:00:26,000 --> 00:00:30,000
-talking through that let me start
+à passer ça en revue
 
 15
 00:00:28,960 --> 00:00:31,199
-sharing my screen
+je vais partager mon écran
 
 16
 00:00:30,000 --> 00:00:34,320
-and i'll just go through a little bit of
+et je vais juste passer en revue
 
 17
 00:00:31,199 --> 00:00:34,320
-an agenda for us
+une partie du programme
 
 18
 00:00:35,760 --> 00:00:38,800
-and then we can go ahead and get started
+et ensuite nous pourrons commencer
 
 19
 00:00:38,000 --> 00:00:41,120
-so
+donc
 
 20
 00:00:38,800 --> 00:00:42,800
-what what today looks like is is a few
+aujourd'hui on va parler de quelques points
 
 21
 00:00:41,120 --> 00:00:44,800
-things so
+donc
 
 22
 00:00:42,800 --> 00:00:46,239
-what is karua in general i'll cover some
+qu'est-ce que Karura en général, je vais en expliquer
 
 23
 00:00:44,800 --> 00:00:47,200
-slides on that and just give you an
+certains slides et simplement vous donner
 
 24
 00:00:46,239 --> 00:00:48,800
-overview of
+un aperçu de
 
 25
 00:00:47,200 --> 00:00:50,640
-what everything is what products we're
+ce que c'est et des produits que nous construisons
 
 26
 00:00:48,800 --> 00:00:51,760
-building and that'll lead into ruitau
+ce qui amènera Ruitao
 
 27
 00:00:50,640 --> 00:00:54,160
-going through
+à réaliser
 
 28
 00:00:51,760 --> 00:00:55,199
-um a demo of each of these products so
+une démo de chacun de ces produits donc
 
 29
 00:00:54,160 --> 00:00:56,480
-most notably
+plus précisément
 
 30
 00:00:55,199 --> 00:00:58,800
-um he'll start with the wallet and then
+il commencera avec le portefeuille, puis
 
 31
 00:00:56,480 --> 00:01:00,320
-we'll go through the kusd the kura
+nous allons parcourir le kUSD
 
 32
 00:00:58,800 --> 00:01:03,120
-dollar stable coin
+le stablecoin Karura dollar
 
 33
 00:01:00,320 --> 00:01:03,680
-then we'll go through karua's amm decks
+ensuite nous verrons le DEX AMM de Karura
 
 34
 00:01:03,120 --> 00:01:06,560
-and then
+et ensuite
 
 35
 00:01:03,680 --> 00:01:08,320
-last we'll end with liquid ksm staking
+nous finirons avec le staking liquide KSM
 
 36
 00:01:06,560 --> 00:01:09,680
-um so it should be really cool like
+donc ça devrait être vraiment cool vu que
 
 37
 00:01:08,320 --> 00:01:11,360
-it's going to make it really real for
+ça va vraiment être réel pour vous
 
 38
 00:01:09,680 --> 00:01:12,560
-you guys getting in and actually seeing
+d'entrer dedans et de vraiment voir
 
 39
 00:01:11,360 --> 00:01:14,720
-the product work
+le produit fonctionner
 
 40
 00:01:12,560 --> 00:01:16,000
-and then what we'll do is robin here in
+et ensuite ce que nous ferons c'est que Robin
 
 41
 00:01:14,720 --> 00:01:18,159
-the chat we'll we'll
+dans le chat va
 
 42
 00:01:16,000 --> 00:01:19,439
-paste at the end our link that you can
+vous mettre notre lien pour que vous puissiez
 
 43
 00:01:18,159 --> 00:01:21,040
-actually go use these
+réellement utiliser
 
 44
 00:01:19,439 --> 00:01:22,640
-these applications on the testnet now
+ces applications sur le réseau de test dès maintenant
 
 45
 00:01:21,040 --> 00:01:25,439
-and get ready for what's going to come
+et vous préparer pour ce qui arrive
 
 46
 00:01:22,640 --> 00:01:27,119
-live on kusama pretty soon
+sur Kusama très bientôt
 
 47
 00:01:25,439 --> 00:01:28,720
-so first route do you want to give an
+donc premièrement est-ce que tu veux
 
 48
 00:01:27,119 --> 00:01:31,040
-intro of yourself and then i'll do the
+te présenter et ensuite je ferai de même
 
 49
 00:01:28,720 --> 00:01:33,119
-same and we can go ahead and get started
+puis nous pourrons commencer
 
 50
 00:01:31,040 --> 00:01:34,560
-oh yeah thanks dan hi everyone this is
+oh oui merci Dan, salut tout le monde
 
 51
 00:01:33,119 --> 00:01:36,960
-ray tau a co-founder
+c'est Ruitao: un co-fondateur d'Acala
 
 52
 00:01:34,560 --> 00:01:38,079
-of alkaline obviously um crew as well
+et bien sûr l'équipe travaille aussi
 
 53
 00:01:36,960 --> 00:01:39,759
-working on garuwa
+sur Karura
 
 54
 00:01:38,079 --> 00:01:42,079
-i've been working the blockchain space
+j'ai travaillé dans le domaine de la blockchain
 
 55
 00:01:39,759 --> 00:01:44,240
-for more than seven years i would say
+pendant plus de sept ans je dirais
 
 56
 00:01:42,079 --> 00:01:46,159
-we started building um the alkaline
+nous avons commencé à construire Acala Network
 
 57
 00:01:44,240 --> 00:01:47,600
-network backing two years ago
+il y a deux ans
 
 58
 00:01:46,159 --> 00:01:49,920
-um we are one of the very first
+nous sommes parmi les premiers à construire sur Substrate
 
 59
 00:01:47,600 --> 00:01:51,280
-substrate builders i'm an engineer
+je suis moi même ingénieur
 
 60
 00:01:49,920 --> 00:01:54,000
-myself i'm still
+je suis toujours
 
 61
 00:01:51,280 --> 00:01:55,920
-i'm here today i love to write code and
+je suis toujours ici aujourd'hui, j'aime écrire du code
 
 62
 00:01:54,000 --> 00:01:57,680
-that's pretty much uh by my background
+et c'est à peu près mon parcours
 
 63
 00:01:55,920 --> 00:02:00,159
-i'm really into building um
+je suis vraiment dans la construction de
 
 64
 00:01:57,680 --> 00:02:02,000
-cutting edge stuff and so excited that
+de trucs avant-gardistes et tellement enthousiaste que
 
 65
 00:02:00,159 --> 00:02:04,880
-after almost two years of building
+après près de deux ans de construction
 
 66
 00:02:02,000 --> 00:02:08,000
-we are really really close to going live
+nous sommes vraiment sur le point de démarrer
 
 67
 00:02:04,880 --> 00:02:11,200
-on on kuzama
+sur Kusama
 
 68
 00:02:08,000 --> 00:02:11,840
-cool thanks for tau um and yes i'm dan
+cool, merci Ruitao
 
 69
 00:02:11,200 --> 00:02:14,000
-reeser
+et je suis Dan Reecer
 
 70
 00:02:11,840 --> 00:02:14,959
-working as vp of growth here at akala
+je travaille en tant que VP croissance ici chez Acala
 
 71
 00:02:14,000 --> 00:02:16,560
-and karua
+et Karura
 
 72
 00:02:14,959 --> 00:02:18,560
-i've been on the team for a little over
+je suis dans l'équipe depuis un peu plus de deux mois
 
 73
 00:02:16,560 --> 00:02:19,520
-a couple months now had previously
+et j'ai auparavant
 
 74
 00:02:18,560 --> 00:02:21,280
-worked
+travaillé
 
 75
 00:02:19,520 --> 00:02:24,239
-kind of part time with akala for about
+plus ou moins à temps partiel avec Acala
 
 76
 00:02:21,280 --> 00:02:26,319
-six months before joining full-time
+pendant environs 6 mois avant de passer à temps plein
 
 77
 00:02:24,239 --> 00:02:27,760
-prior to coming to akala i spent some
+avant de venir chez Acala j'ai passé un peu de temps
 
 78
 00:02:26,319 --> 00:02:30,080
-time at web3 foundation
+chez Web3 Foundation
 
 79
 00:02:27,760 --> 00:02:31,840
-working on polka dot and kusama so it
+à travailler sur Polkadot et Kusama
 
 80
 00:02:30,080 --> 00:02:33,599
-was kind of a natural progression moving
+donc c'était presque une progression naturelle
 
 81
 00:02:31,840 --> 00:02:35,920
-from this base layer up
+de passer de cette base
 
 82
 00:02:33,599 --> 00:02:37,040
-up one level to the parachain level and
+au niveau de la parachain
 
 83
 00:02:35,920 --> 00:02:38,800
-getting ready for
+à se préparer pour
 
 84
 00:02:37,040 --> 00:02:40,239
-all this kind of craziness and
+toute cette folie et
 
 85
 00:02:38,800 --> 00:02:41,760
-excitement that's about to come with all
+toute cette excitation qui va venir avec
 
 86
 00:02:40,239 --> 00:02:45,280
-of these launches
+tous ces lancements
 
 87
 00:02:41,760 --> 00:02:45,920
-so the first uh the first launch that
+donc le premier lancement
 
 88
 00:02:45,280 --> 00:02:48,319
-we're
+sur lequel nous travaillons
 
 89
 00:02:45,920 --> 00:02:50,080
-working on that i mentioned is karura
+que j'ai mentionné est Karura
 
 90
 00:02:48,319 --> 00:02:51,599
-and i think before we get into the
+et je pense qu'avant d'entrer dans
 
 91
 00:02:50,080 --> 00:02:54,080
-details of
+les détails de
 
 92
 00:02:51,599 --> 00:02:55,200
-karua and akala um it's it's kind of
+Karura et Acala
 
 93
 00:02:54,080 --> 00:02:58,000
-helpful to always start
+c'est assez utile de toujours commencer
 
 94
 00:02:55,200 --> 00:02:58,560
-at the highest level um so what we're
+du niveau le plus haut donc ce que nous
 
 95
 00:02:58,000 --> 00:03:01,680
-building
+construisons
 
 96
 00:02:58,560 --> 00:03:02,480
-is one of these para chains these these
+est l'une de ces parachain
 
 97
 00:03:01,680 --> 00:03:04,959
-little like
+un peu comme
 
 98
 00:03:02,480 --> 00:03:06,560
