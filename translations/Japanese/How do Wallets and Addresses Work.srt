@@ -260,47 +260,47 @@ Polkadotアカウントです
 
 66
 00:02:01,920 --> 00:02:05,439
-and now you'll see that i'm connected to
+これでPolkadotの
 
 67
 00:02:03,280 --> 00:02:09,840
-the polka dot network and when i
+ネットワークに接続されました。
 
 68
 00:02:05,439 --> 00:02:09,840
-reload the page
+ページをリロードすると
 
 69
 00:02:11,520 --> 00:02:15,840
-both of the addresses pop up and again
+両方のアドレスが表示されるようになります。 
 
 70
 00:02:14,319 --> 00:02:17,120
-this is not what we recommend doing
+繰り返しになりますが、この形はお勧めできません。
 
 71
 00:02:15,840 --> 00:02:18,879
-it's recommended you have a distinct
+この2つが独自の秘密鍵を持つ
 
 72
 00:02:17,120 --> 00:02:19,760
-account with its own private key just
+別のアカウントとして、
 
 73
 00:02:18,879 --> 00:02:20,959
-like these two
+それぞれ1つの
 
 74
 00:02:19,760 --> 00:02:22,720
-and that they're only set up for one
+ネットワークに対してのみ
 
 75
 00:02:20,959 --> 00:02:23,280
-network each so we're going to change
+紐づける設定をすることを
 
 76
 00:02:22,720 --> 00:02:26,319
-this one
+お勧めします。
 
 77
 00:02:23,280 --> 00:02:29,200
