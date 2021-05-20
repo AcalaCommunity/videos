@@ -244,165 +244,165 @@ Kusamaリレーチェーンをクリックすると、
 
 62
 00:01:51,600 --> 00:01:55,840
-so i'm going to put a password in right
+これで、拡張機能への
 
 63
 00:01:53,280 --> 00:01:55,840
-now
+アカウント表示設定が
 
 64
 00:01:56,560 --> 00:02:00,719
-and click add this account with the
+完了しました。
 
 65
 00:01:58,560 --> 00:02:02,320
-generated seed
+ここには、
 
 66
 00:02:00,719 --> 00:02:04,320
-so now we see the account in our
+Polkadotのアカウントであることを
 
 67
 00:02:02,320 --> 00:02:05,759
-extension with the polka dot flag up
+示すPolkadotの旗と、
 
 68
 00:02:04,320 --> 00:02:06,399
-here telling us that this is a polka dot
+Polkadotアドレスが
 
 69
 00:02:05,759 --> 00:02:09,679
-account
+表示されているでしょう。
 
 70
 00:02:06,399 --> 00:02:13,120
-and the polka dot address so let's head
+では、polkadot.js.orgに戻って、
 
 71
 00:02:09,679 --> 00:02:17,120
-back over to polkadot.js.org
+アプリウォレットのリンクを
 
 72
 00:02:13,120 --> 00:02:17,120
-and click the apps wallet link
+クリックしましょう。
 
 73
 00:02:19,040 --> 00:02:22,160
-you'll notice that we got this
+ここにアクセス許可を
 
 74
 00:02:20,640 --> 00:02:23,680
-authorized page this will show up the
+求める旨の内容の
 
 75
 00:02:22,160 --> 00:02:24,400
-first time you ever go to a site that's
+表示がされると思います。
 
 76
 00:02:23,680 --> 00:02:26,239
-trying to request
+これは、拡張機能への
 
 77
 00:02:24,400 --> 00:02:28,000
-access to your extension it gives you
+アクセスを要求するサイトに
 
 78
 00:02:26,239 --> 00:02:29,040
-information about what the site is what
+初めてアクセスしたときに
 
 79
 00:02:28,000 --> 00:02:32,160
-the
+表示されるものです。
 
 80
 00:02:29,040 --> 00:02:34,400
-url is and just giving you a fair
+そのサイトがどのようなサイトで、
 
 81
 00:02:32,160 --> 00:02:36,480
-warning that you should
+URLが正しい物であるかについての情報を提供し、
 
 82
 00:02:34,400 --> 00:02:38,319
-only approve applications that you are
+アクセスに関する警告を与えるものです。
 
 83
 00:02:36,480 --> 00:02:40,480
-familiar with and that you understand
+アクセスしているサイト及びアプリケーションに
 
 84
 00:02:38,319 --> 00:02:41,760
-it's a good idea to check the url that
+拡張機能を繋げてもいいか？という確認です。
 
 85
 00:02:40,480 --> 00:02:42,160
-it's showing you that the request is
+ここではリクエストの
 
 86
 00:02:41,760 --> 00:02:43,920
-from
+送信元を表示して、
 
 87
 00:02:42,160 --> 00:02:45,599
-to make sure it's actually the url that
+実際に正しいURLであることを
 
 88
 00:02:43,920 --> 00:02:46,879
-you're expecting so
+確認してください。
 
 89
 00:02:45,599 --> 00:02:48,840
-everything here looks good so we're
+さて、問題がなければ次に進みましょう。
 
 90
 00:02:46,879 --> 00:02:50,239
-gonna click yes allow this application
+"yes allow this application access"を
 
 91
 00:02:48,840 --> 00:02:53,280
-access
+クリックして、
 
 92
 00:02:50,239 --> 00:02:56,239
-and now we see the polka dot wallet
+Polkadotウォレットを見てみましょう。
 
 93
 00:02:53,280 --> 00:02:57,760
-so if i head over to accounts we'll see
+アカウントにアクセスすると、
 
 94
 00:02:56,239 --> 00:03:00,080
-that my extension is in
+拡張機能にウォレットが
 
 95
 00:02:57,760 --> 00:03:03,040
-the wallet i can see my balance and i
+存在している事が確認できるでしょう。
 
 96
 00:03:00,080 --> 00:03:05,280
-can send transactions from here
+このアカウントとアドレスを利用して、
 
 97
 00:03:03,040 --> 00:03:07,120
-uh so that yup that's it that's all you
+トランザクションを送受信することが
 
 98
 00:03:05,280 --> 00:03:08,800
-need to do to set up a polka dot account
+可能となっています。はい、以上が
 
 99
 00:03:07,120 --> 00:03:11,040
-and now you can use your extension on
+Polkadotアカウントを設定する為に
 
 100
 00:03:08,800 --> 00:03:13,599
-all the different uh dapps out there
+最低限必要なことです。
 
 101
 00:03:11,040 --> 00:03:17,519
-that have polka dot compatibility thanks
+これでPolkadotと互換性のある様々なDappsで
 
 102
 00:03:13,599 --> 00:03:17,519
-for watching
+この拡張機能を使用することができます。
 
