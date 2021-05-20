@@ -1,58 +1,58 @@
 1
 00:00:00,719 --> 00:00:03,120
-hey everybody this is brett a developer
+みなさん、Acala開発者のブレットです
 
 2
 00:00:02,399 --> 00:00:04,080
-at akala
+このビデオでは、
 
 3
 00:00:03,120 --> 00:00:05,359
-and in this video i'm going to be
+PolkadotとKusamaで
 
 4
 00:00:04,080 --> 00:00:07,600
-talking about how addresses work on
+アドレスがどのように
 
 5
 00:00:05,359 --> 00:00:08,639
-polkadot and kusama
+機能するかについてお話しします。
 
 6
 00:00:07,600 --> 00:00:10,160
-so if you're coming from the world of
+イーサリアムの世界から来た人は、
 
 7
 00:00:08,639 --> 00:00:11,920
-ethereum you might be used to addresses
+アドレスの基本的な取り扱いについては
 
 8
 00:00:10,160 --> 00:00:13,599
-looking something like this
+慣れているかもしれません。
 
 9
 00:00:11,920 --> 00:00:15,040
-but in the world of poken kusama you
+しかし、Polkadotやkusamaの世界では、
 
 10
 00:00:13,599 --> 00:00:16,240
-might be used to something like this
+1つのアカウントで
 
 11
 00:00:15,040 --> 00:00:17,760
-a bunch of different addresses with a
+複数の異なるフォーマットの
 
 12
 00:00:16,240 --> 00:00:18,320
-bunch of different formats all from one
+アドレスを取得することができます。
 
 13
 00:00:17,760 --> 00:00:20,800
-account
+これが違いです。
 
 14
 00:00:18,320 --> 00:00:22,000
-so how does that work well let's start
+では、それがどのように機能するのか
 
 15
 00:00:20,800 --> 00:00:23,920
