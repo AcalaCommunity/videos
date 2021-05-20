@@ -4,39 +4,39 @@
 
 2
 00:00:04,640 --> 00:00:06,960
-the very first page that i'm going to
+最初にお見せするのは、
 
 3
 00:00:06,399 --> 00:00:09,200
-show
+まずは
 
 4
 00:00:06,960 --> 00:00:11,920
-is the wallet page this is where you
+ウォレットページです。
 
 5
 00:00:09,200 --> 00:00:14,719
-manage all your assets within the kura
+ここではKaruraプロジェクト内の
 
 6
 00:00:11,920 --> 00:00:16,000
-project and as you can see you can have
+すべての資産を
 
 7
 00:00:14,719 --> 00:00:17,359
-your well this will be definitely
+管理することができます。
 
 8
 00:00:16,000 --> 00:00:19,680
-turning to the kr token
+ご覧のようにKARトークン、
 
 9
 00:00:17,359 --> 00:00:20,800
-you have your ksm token you have your k
+KSMトークン、
 
 10
 00:00:19,680 --> 00:00:23,600
-ausd token
+aUSDトークンを持っており、
 
 11
 00:00:20,800 --> 00:00:24,320
