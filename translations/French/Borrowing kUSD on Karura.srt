@@ -200,55 +200,55 @@ pour de vrai
 
 51
 00:01:34,560 --> 00:01:38,159
-um and you can actually see this on the
+et vous pouvez le voir sur le
 
 52
 00:01:36,880 --> 00:01:39,360
-on the on the block scanner that's
+sur le scanner de bloc qui est
 
 53
 00:01:38,159 --> 00:01:42,320
-provided by sub scan
+fourni par Subscan
 
 54
 00:01:39,360 --> 00:01:42,960
-so um this is amazing right this is um
+donc c'est incroyable, c'est
 
 55
 00:01:42,320 --> 00:01:46,079
-much much
+beaucoup, beaucoup
 
 56
 00:01:42,960 --> 00:01:46,880
-more um responsive much much more user
+beaucoup plus réactif
 
 57
 00:01:46,079 --> 00:01:48,799
-friendly
+beaucoup plus simple à utiliser
 
 58
 00:01:46,880 --> 00:01:51,439
-also i can also replay right i can pay
+je peux aussi rembourser
 
 59
 00:01:48,799 --> 00:01:53,360
-back i set a position if i think um
+je peux définir une position si je souhaite
 
 60
 00:01:51,439 --> 00:01:55,439
-i'm going to reduce a little bit of risk
+réduire un peu le risque
 
 61
 00:01:53,360 --> 00:01:57,680
-here i can pay about 100 year ausd
+ici je peux payer environ 100 aUSD
 
 62
 00:01:55,439 --> 00:01:58,479
-that's like reducing my calculation
+c'est comme réduire mon calcul
 
 63
 00:01:57,680 --> 00:02:00,799
-ratio
+de ratio
 
 64
 00:01:58,479 --> 00:02:02,240
