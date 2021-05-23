@@ -252,99 +252,99 @@ de ratio
 
 64
 00:01:58,479 --> 00:02:02,240
-and any asset that will be available
+et n'importe quel actif qui sera
 
 65
 00:02:00,799 --> 00:02:03,280
-through the governance process can be
+disponible par le processus de gouvernance
 
 66
 00:02:02,240 --> 00:02:05,040
-borrowed against
+permet d'emprunter
 
 67
 00:02:03,280 --> 00:02:06,960
-different assets would have different
+les différents actifs auront différents
 
 68
 00:02:05,040 --> 00:02:08,319
-risk parameters so for example bitcoin
+paramètres de risque donc par exemple bitcoin
 
 69
 00:02:06,960 --> 00:02:09,920
-might have a risk parameter
+pourrait avoir un paramètre de risque
 
 70
 00:02:08,319 --> 00:02:12,480
-on the medieval credit ratio on the
+sur le ratio de crédit minimal
 
 71
 00:02:09,920 --> 00:02:15,760
-liquidation ratio on the liquidation fee
+sur le ratio de liquidation sur les frais de liquidation
 
 72
 00:02:12,480 --> 00:02:16,720
-uh dots l dots ksm lksm they might all
+DOT, LDOT, KSM, LKSM... ils pourraient tout
 
 73
 00:02:15,760 --> 00:02:18,800
-have different
+avoir différents
 
 74
 00:02:16,720 --> 00:02:20,160
-ratio they'll be managed and governed by
+ratio qu'ils seront gérés et gouvernés par
 
 75
 00:02:18,800 --> 00:02:22,560
-the governance process
+le processus de gouvernance
 
 76
 00:02:20,160 --> 00:02:23,760
-so that is uh essentially how you borrow
+donc ça c'est essentiellement la façon dont vous empruntez
 
 77
 00:02:22,560 --> 00:02:26,879
-against um
+contre
 
 78
 00:02:23,760 --> 00:02:29,840
-kratchos uh in guru
+des collatéraux dans Karura
 
 79
 00:02:26,879 --> 00:02:31,040
-yeah let so maybe one thing we can do
+oui donc peut-être une chose que nous pouvons faire
 
 80
 00:02:29,840 --> 00:02:33,440
-this concept
+ce concept
 
 81
 00:02:31,040 --> 00:02:35,120
-of collateralization and taking loans is
+de la garantie avec collatéral et de la prise de prêts est
 
 82
 00:02:33,440 --> 00:02:36,640
-probably new to a lot of people i know
+probablement nouveau pour beaucoup de personnes
 
 83
 00:02:35,120 --> 00:02:40,000
-it was new to me
+je sais, c'était nouveau pour moi aussi
 
 84
 00:02:36,640 --> 00:02:42,160
-um at one point and basically like to to
+à un moment
 
 85
 00:02:40,000 --> 00:02:44,560
-make this as simple as possible
+pour rendre ceci aussi simple que possible
 
 86
 00:02:42,160 --> 00:02:45,920
-um like i think many of us are aware of
+comme je pense que beaucoup d'entre nous sont conscients de
 
 87
 00:02:44,560 --> 00:02:48,000
-how like a home
+la façon dont un prêt immobilier
 
 88
 00:02:45,920 --> 00:02:50,000
