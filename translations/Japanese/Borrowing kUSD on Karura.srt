@@ -100,27 +100,27 @@ a position on ram bdc
 
 26
 00:00:48,640 --> 00:00:52,320
-l dot which we'll be covering later and
+私はDOTを持っていますが、
 
 27
 00:00:51,039 --> 00:00:53,280
-this will be definitely it would be like
+また後でこの部分は
 
 28
 00:00:52,320 --> 00:00:56,480
-kusama
+取り上げますが、
 
 29
 00:00:53,280 --> 00:00:56,960
-el kikuzama and bitcoins so what i'm
+KusamaやBitcoinなど
 
 30
 00:00:56,480 --> 00:00:58,960
-going to
+多くの資産が
 
 31
 00:00:56,960 --> 00:01:00,239
-demo here is that i'm going to borrow
+今後利用可能になるでしょう
 
 32
 00:00:58,960 --> 00:01:03,359
