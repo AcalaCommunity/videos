@@ -348,51 +348,51 @@ la façon dont un prêt immobilier
 
 88
 00:02:45,920 --> 00:02:50,000
-loan works where typically you might put
+fonctionne, généralement vous mettez genre
 
 89
 00:02:48,000 --> 00:02:52,480
-like 10 down or 20
+10% ou 20% d'apport
 
 90
 00:02:50,000 --> 00:02:53,360
-down that cash that you put down is what
+cette somme que vous mettez en apport
 
 91
 00:02:52,480 --> 00:02:55,519
-you're putting
+est ce que vous déposez
 
 92
 00:02:53,360 --> 00:02:56,879
-down in order to get the full the full
+pour pouvoir obtenir la somme complète
 
 93
 00:02:55,519 --> 00:02:57,760
-loan of whatever you're getting for that
+de votre credit
 
 94
 00:02:56,879 --> 00:03:00,959
-house
+pour cette maison
 
 95
 00:02:57,760 --> 00:03:02,840
-but with the way this works in crypto um
+mais la façon dont cela fonctionne en crypto
 
 96
 00:03:00,959 --> 00:03:04,080
-we're actually over you're over
+est qu'en fait
 
 97
 00:03:02,840 --> 00:03:06,319
-collateralizing
+vous sur-collatérisez
 
 98
 00:03:04,080 --> 00:03:07,519
-the loan so that's why these collateral
+le prêt donc c'est pour ça que les ratios de collatéral
 
 99
 00:03:06,319 --> 00:03:10,480
-ratios are over
+sont de plus de
 
 100
 00:03:07,519 --> 00:03:12,319
