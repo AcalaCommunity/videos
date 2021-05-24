@@ -260,149 +260,149 @@ avec la phrase générée
 
 66
 00:02:00,719 --> 00:02:04,320
-so now we see the account in our
+donc maintenant, nous voyons le compte dans notre
 
 67
 00:02:02,320 --> 00:02:05,759
-extension with the polka dot flag up
+extension avec la mention Polkadot au dessus
 
 68
 00:02:04,320 --> 00:02:06,399
-here telling us that this is a polka dot
+qui nous indique que c'est
 
 69
 00:02:05,759 --> 00:02:09,679
-account
+un compte Polkadot
 
 70
 00:02:06,399 --> 00:02:13,120
-and the polka dot address so let's head
+et avec l'adresse Polkadot
 
 71
 00:02:09,679 --> 00:02:17,120
-back over to polkadot.js.org
+donc retournons sur polkadot.js.org
 
 72
 00:02:13,120 --> 00:02:17,120
-and click the apps wallet link
+et cliquez sur le lien apps wallet
 
 73
 00:02:19,040 --> 00:02:22,160
-you'll notice that we got this
+vous remarquerez que nous avons
 
 74
 00:02:20,640 --> 00:02:23,680
-authorized page this will show up the
+cette page d'autorisation qui apparaît
 
 75
 00:02:22,160 --> 00:02:24,400
-first time you ever go to a site that's
+la première fois que vous vous rendez sur un site qui
 
 76
 00:02:23,680 --> 00:02:26,239
-trying to request
+demande
 
 77
 00:02:24,400 --> 00:02:28,000
-access to your extension it gives you
+d'accéder à votre extension, la page vous donne
 
 78
 00:02:26,239 --> 00:02:29,040
-information about what the site is what
+des informations sur ce qu'est le site,
 
 79
 00:02:28,000 --> 00:02:32,160
-the
+son url,
 
 80
 00:02:29,040 --> 00:02:34,400
-url is and just giving you a fair
+et vous donne un avertissement
 
 81
 00:02:32,160 --> 00:02:36,480
-warning that you should
+pour dire que vous devriez
 
 82
 00:02:34,400 --> 00:02:38,319
-only approve applications that you are
+seulement autoriser les applications que vous connaissez
 
 83
 00:02:36,480 --> 00:02:40,480
-familiar with and that you understand
+et que vous comprenez
 
 84
 00:02:38,319 --> 00:02:41,760
-it's a good idea to check the url that
+c'est une bonne idée de vérifier l'url
 
 85
 00:02:40,480 --> 00:02:42,160
-it's showing you that the request is
+qui est indiquée
 
 86
 00:02:41,760 --> 00:02:43,920
-from
+et d'où provient cette demande
 
 87
 00:02:42,160 --> 00:02:45,599
-to make sure it's actually the url that
+pour vous assurer que c'est bien l'url
 
 88
 00:02:43,920 --> 00:02:46,879
-you're expecting so
+que vous voulez
 
 89
 00:02:45,599 --> 00:02:48,840
-everything here looks good so we're
+donc tout ça a l'air bon donc nous
 
 90
 00:02:46,879 --> 00:02:50,239
-gonna click yes allow this application
+allons cliquer sur oui autoriser cette application
 
 91
 00:02:48,840 --> 00:02:53,280
-access
+à acceder
 
 92
 00:02:50,239 --> 00:02:56,239
-and now we see the polka dot wallet
+et maintenant nous voyons le portefeuille Polkadot
 
 93
 00:02:53,280 --> 00:02:57,760
-so if i head over to accounts we'll see
+donc si je vais sur "comptes"
 
 94
 00:02:56,239 --> 00:03:00,080
-that my extension is in
+nous voyons que mon extension est dans
 
 95
 00:02:57,760 --> 00:03:03,040
-the wallet i can see my balance and i
+le portefeuille, je peux voir mon solde et
 
 96
 00:03:00,080 --> 00:03:05,280
-can send transactions from here
+je peux envoyer des transactions depuis ici
 
 97
 00:03:03,040 --> 00:03:07,120
-uh so that yup that's it that's all you
+donc voilà, c'est tout ce que vous
 
 98
 00:03:05,280 --> 00:03:08,800
-need to do to set up a polka dot account
+avez besoin de faire pour configurer un compte Polkadot
 
 99
 00:03:07,120 --> 00:03:11,040
-and now you can use your extension on
+et maintenant vous pouvez utiliser votre extension sur
 
 100
 00:03:08,800 --> 00:03:13,599
-all the different uh dapps out there
+toutes les dApps
 
 101
 00:03:11,040 --> 00:03:17,519
-that have polka dot compatibility thanks
+qui ont une compatibilité Polkadot
 
 102
 00:03:13,599 --> 00:03:17,519
-for watching
+merci d'avoir regardé!
 
