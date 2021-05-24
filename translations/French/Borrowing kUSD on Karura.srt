@@ -396,347 +396,347 @@ sont de plus de
 
 100
 00:03:07,519 --> 00:03:12,319
-100 and you're what you're doing like
+100%
 
 101
 00:03:10,480 --> 00:03:14,159
-what it really means of collateral
+ce que cela signifie vraiment en terme de garantie
 
 102
 00:03:12,319 --> 00:03:15,920
-is that you're actually taking bitcoin
+est que vous prenez par exemple des bitcoin
 
 103
 00:03:14,159 --> 00:03:18,400
-something like bitcoin
+ou quelque chose comme du bitcoin
 
 104
 00:03:15,920 --> 00:03:19,920
-you don't need to sell it but you can
+vous n'avez pas besoin de le vendre, mais vous pouvez
 
 105
 00:03:18,400 --> 00:03:22,400
-pull out
+avoir
 
 106
 00:03:19,920 --> 00:03:22,959
-ausd a stablecoin with your bitcoin
+du stablecoin aUSD avec votre bitcoin
 
 107
 00:03:22,400 --> 00:03:25,599
-still there
+toujours là
 
 108
 00:03:22,959 --> 00:03:26,400
-not sold and then you can take the ausd
+sans le vendre et vous pouvez prendre du aUSD
 
 109
 00:03:25,599 --> 00:03:28,080
-and either
+et soit
 
 110
 00:03:26,400 --> 00:03:30,159
-you can send that to people you can make
+vous pouvez envoyer ça à des gens
 
 111
 00:03:28,080 --> 00:03:32,480
-payments you can use that to provide
+soit vous pouvez utiliser ça pour
 
 112
 00:03:30,159 --> 00:03:34,480
-liquidity within our decks but
+apporter de la liquidité dans notre DEX mais
 
 113
 00:03:32,480 --> 00:03:35,599
-that's essentially what this collateral
+c'est essentiellement ce que cette garantie
 
 114
 00:03:34,480 --> 00:03:38,000
-ratio means
+ce ratio de collatéral veut dire
 
 115
 00:03:35,599 --> 00:03:40,159
-yeah essentially give you more utility
+oui cela donne plus d'utilité
 
 116
 00:03:38,000 --> 00:03:42,959
-um to the asset that you are holding to
+aux actifs que vous détenez
 
 117
 00:03:40,159 --> 00:03:43,760
-that you might not want to sell or in
+que vous ne voulez peut-être pas vendre
 
 118
 00:03:42,959 --> 00:03:46,799
-short term
+sur le court terme
 
 119
 00:03:43,760 --> 00:03:50,080
-and for example for fukusama for for
+par exemple pour Kusama
 
 120
 00:03:46,799 --> 00:03:51,920
-lksm those are perfectly great collector
+ou pour LKSM, ce sont de collatéraux
 
 121
 00:03:50,080 --> 00:03:54,319
-for you to gain more utility
+dont vous pouvez vous servir avec plus d'utilité
 
 122
 00:03:51,920 --> 00:03:56,400
-out of your 16 kusama holdings you can
+avec vos actifs Kusama vous pouvez
 
 123
 00:03:54,319 --> 00:03:58,319
-go long you can go short you can
+acheter, vous pouvez vendre
 
 124
 00:03:56,400 --> 00:04:00,000
-it's i mean the option is it's in your
+je veux dire que les options sont entre vos
 
 125
 00:03:58,319 --> 00:04:02,239
-hand to decide how you're going to use
+mains pour décider comment vous utiliser
 
 126
 00:04:00,000 --> 00:04:03,280
-this collector um to trade and write
+ce collatéral pour trader
 
 127
 00:04:02,239 --> 00:04:05,040
-with the market
+et comment utiliser le marché
 
 128
 00:04:03,280 --> 00:04:06,879
-what about interest so are you paying
+qu'en est-il des intérêts? Donc on paie des intérêts
 
 129
 00:04:05,040 --> 00:04:09,920
-interest when you're taking out
+lorsqu'on récupère ces prêts?
 
 130
 00:04:06,879 --> 00:04:11,760
-these loans and how does that work yes
+Comment cela fonctionne?
 
 131
 00:04:09,920 --> 00:04:13,599
-so the interest essentially is what we
+Oui donc les intérêts sont ce que l'on appelle
 
 132
 00:04:11,760 --> 00:04:15,040
-call the stabilization fee
+les frais de stabilisation
 
 133
 00:04:13,599 --> 00:04:16,880
-um if you take a long there will be
+si vous prenez un prêt, il y aura
 
 134
 00:04:15,040 --> 00:04:19,359
-definitely some interest occur
+bien sûr des intérêts qui s'appliqueront
 
 135
 00:04:16,880 --> 00:04:20,160
-um and this is also the interest used to
+et ces intérêts sont aussi utilisés pour
 
 136
 00:04:19,359 --> 00:04:22,720
-manage the
+gérer
 
 137
 00:04:20,160 --> 00:04:23,840
-supply and demand of the stablecar as
+l'offre et la demande du stablecoin
 
 138
 00:04:22,720 --> 00:04:25,600
-well as like the
+c'est la façon de
 
 139
 00:04:23,840 --> 00:04:28,080
-um the way to maintain that the
+maintenir que le stablecoin
 
 140
 00:04:25,600 --> 00:04:30,560
-stablecoin will be packed to to
+aligné sur
 
 141
 00:04:28,080 --> 00:04:31,440
-a dollar in value and the interest um
+la valeur du dollar
 
 142
 00:04:30,560 --> 00:04:33,360
-all the state
+et les intérêts
 
 143
 00:04:31,440 --> 00:04:34,639
-stabilization fee will be managed by the
+les frais de stabilisation seront gérés par le
 
 144
 00:04:33,360 --> 00:04:38,080
-governance process
+le processus de gouvernance
 
 145
 00:04:34,639 --> 00:04:40,400
-really depends on demands and supplies
+et dépend vraiment de l'offre et de la demande
 
 146
 00:04:38,080 --> 00:04:42,720
-and do you know your interest rate
+Et est-ce que l'on connaît notre taux d'intérêt
 
 147
 00:04:40,400 --> 00:04:44,240
-before you take out the loan
+avant de souscrire le crédit?
 
 148
 00:04:42,720 --> 00:04:45,280
-obviously definitely so let's say that
+Oui bien sûr évidemment!
 
 149
 00:04:44,240 --> 00:04:47,919
-we want to create a lot we're going to
+Admettons que nous voulions créer un crédit
 
 150
 00:04:45,280 --> 00:04:51,919
-create some ldl ksm and spectro
+et déposer du LDOT ou du LKSM en tant que collatéral (garantie)
 
 151
 00:04:47,919 --> 00:04:53,360
-i'm going to put in maybe 5l uh l ksm
+Je vais mettre par exemple 5 LKSM ici
 
 152
 00:04:51,919 --> 00:04:54,000
-here and i'm going to take maybe a two
+ici et je vais prendre par exemple
 
 153
 00:04:53,360 --> 00:04:57,199
-dollar loan
+ un crédit de 2$
 
 154
 00:04:54,000 --> 00:04:59,280
-you can already see that um um
+vous pouvez déjà voir
 
 155
 00:04:57,199 --> 00:05:00,400
-the amount of money that you can borrow
+la somme d'argent que vous pouvez emprunter
 
 156
 00:04:59,280 --> 00:05:01,600
-the interest rate in here the
+le taux d'intérêts ici
 
 157
 00:05:00,400 --> 00:05:03,759
-liquidation penalty
+la pénalité de liquidation
 
 158
 00:05:01,600 --> 00:05:06,000
-yeah if things goes wrong that where how
+si les choses tournent mal
 
 159
 00:05:03,759 --> 00:05:07,840
-you can but in chance that if you over
+si vous sur-garantissez
 
 160
 00:05:06,000 --> 00:05:08,560
-capitalize and the position becomes
+et que la position devient
 
 161
 00:05:07,840 --> 00:05:10,960
-risky
+risquée
 
 162
 00:05:08,560 --> 00:05:11,759
-you might get liquidated so this is the
+vous pourriez être liquidés
 
 163
 00:05:10,960 --> 00:05:14,080
-um the
+donc ce sont les chiffres
 
 164
 00:05:11,759 --> 00:05:15,120
-the the figure that you're able to see
+que vous pouvez voir
 
 165
 00:05:14,080 --> 00:05:17,280
-before you
+avant que vous
 
 166
 00:05:15,120 --> 00:05:18,560
-create a lawn and the final confirmation
+ne souscriviez au crédit
 
 167
 00:05:17,280 --> 00:05:21,280
-stage you will be
+et à l'étape finale de confirmation
 
 168
 00:05:18,560 --> 00:05:22,240
-once again so go ahead and confirm all
+vous revoyez tout ça et vous pouvez
 
 169
 00:05:21,280 --> 00:05:24,080
-the numbers
+confirmer ces chiffres
 
 170
 00:05:22,240 --> 00:05:25,759
-and press confirm and this is how you
+puis vous appuyez sur "confirmer" et c'est ainsi que vous
 
 171
 00:05:24,080 --> 00:05:28,639
-open a long position so
+souscrivez à un crédit
 
 172
 00:05:25,759 --> 00:05:29,840
-i just created a loan using my lksm and
+donc je viens de créer un prêt en utilisant mon LKSM
 
 173
 00:05:28,639 --> 00:05:31,840
-received like two
+et j'ai reçu 2$
 
 174
 00:05:29,840 --> 00:05:32,880
-dollars so you can say if i now go back
+donc vous voyez, si je reviens en arrière
 
 175
 00:05:31,840 --> 00:05:34,800
-to the interface
+sur l'interface
 
 176
 00:05:32,880 --> 00:05:36,320
-i have two position open one with
+j'ai deux positions ouvertes avec
 
 177
 00:05:34,800 --> 00:05:39,600
-bitcoin one with um
+une avec du bitcoin
 
 178
 00:05:36,320 --> 00:05:40,400
-lksm those is like um and i totally have
+une avec du LKSM
 
 179
 00:05:39,600 --> 00:05:41,680
-borrowed
+et donc j'ai emprunté
 
 180
 00:05:40,400 --> 00:05:43,600
-probably like few thousand dollars
+probablement quelques milliers de dollars
 
 181
 00:05:41,680 --> 00:05:46,720
-against both um lksm
+contre le LKSM
 
 182
 00:05:43,600 --> 00:05:48,080
-and ram btc okay that makes sense
+et contre le renBTC.
 
 183
 00:05:46,720 --> 00:05:50,080
-and someone asked where does that
+Ok ça a du sens, et quelqu'un a demandé
 
 184
 00:05:48,080 --> 00:05:52,560
-interest actually go
+où vont les intérets réellement?
 
 185
 00:05:50,080 --> 00:05:53,360
-well the n26 actually go to the treasury
+Eh bien en fait les intérêts vont à la trésorerie
 
 186
 00:05:52,560 --> 00:05:55,199
@@ -744,67 +744,67 @@ um
 
 187
 00:05:53,360 --> 00:05:56,960
-and being managed by the network right
+et sont gérés par le réseau
 
 188
 00:05:55,199 --> 00:05:59,199
-it's uh it's essentially
+ils sont essentiellement
 
 189
 00:05:56,960 --> 00:06:00,720
-uh controlled by the network for the
+contrôlés par le réseau
 
 190
 00:05:59,199 --> 00:06:02,400
-long prosperity of the network
+pour la prospérité du réseau sur le long terme
 
 191
 00:06:00,720 --> 00:06:04,319
-the interest ultimately would be the
+les intérêts seront en fin de compte
 
 192
 00:06:02,400 --> 00:06:06,000
-surplus within this system
+l'excédent au sein du système
 
 193
 00:06:04,319 --> 00:06:07,520
-and if you read our white paper
+et si vous lisez notre livre blanc
 
 194
 00:06:06,000 --> 00:06:08,319
-regarding the decentralized solving
+en ce qui concerne
 
 195
 00:06:07,520 --> 00:06:11,360
-wheels fund
+le fond souverain décentralisé
 
 196
 00:06:08,319 --> 00:06:13,840
-the interest is ultimately hold managed
+les intérêts seront en fin de compte détenus et gérés
 
 197
 00:06:11,360 --> 00:06:17,199
-by the token holders
+par les détenteurs de jetons
 
 198
 00:06:13,840 --> 00:06:18,479
-okay the liquidation concept i think is
+Ok, le concept de liquidation que je pense être
 
 199
 00:06:17,199 --> 00:06:20,960
-new to a lot of people
+nouveau pour beaucoup de personnes
 
 200
 00:06:18,479 --> 00:06:23,120
-what happens if the token that is
+que se passe t-il si le token qui est
 
 201
 00:06:20,960 --> 00:06:26,560
-basically collateralized
+en garantie
 
 202
 00:06:23,120 --> 00:06:28,319
-the value drops so liquidation in this
+baisse en valeur?
 
 203
 00:06:26,560 --> 00:06:30,639
