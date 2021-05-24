@@ -28,7 +28,7 @@ et commencer à
 
 8
 00:00:17,440 --> 00:00:20,400
-your
+avec votre
 
 9
 00:00:18,240 --> 00:00:21,680
@@ -808,73 +808,73 @@ baisse en valeur?
 
 203
 00:06:26,560 --> 00:06:30,639
-sense does not mean that you kind of
+La liquidation dans ce cas ne veut pas dire que
 
 204
 00:06:28,319 --> 00:06:32,000
-like lose everything that you put down
+perdre tout ce que vous avez déposé
 
 205
 00:06:30,639 --> 00:06:34,479
-that's why there was a liquidation
+c'est la raison pour laquelle il y a un pourcentage de liquidation
 
 206
 00:06:32,000 --> 00:06:35,919
-percentage so in the example rotate just
+donc dans l'exemple que Ruitao à montré
 
 207
 00:06:34,479 --> 00:06:38,000
-showed it said 20
+le ratio était de 20%.
 
 208
 00:06:35,919 --> 00:06:39,440
-yeah i think to better um think about
+Oui je pense que pour mieux visualiser
 
 209
 00:06:38,000 --> 00:06:41,600
-liquidation it's more of like
+la liquidation c'est plus comme
 
 210
 00:06:39,440 --> 00:06:43,520
-uh if you collect allies and you borrow
+si vous garantissez et que vous empruntez
 
 211
 00:06:41,600 --> 00:06:45,199
-against your bitcoin and then pick a job
+contre votre bitcoin, puis que le bitcoin chute
 
 212
 00:06:43,520 --> 00:06:46,880
-to a particular price
+à un prix spécifique
 
 213
 00:06:45,199 --> 00:06:48,319
-a fraction of your collector will be
+une fraction de votre garantie sera
 
 214
 00:06:46,880 --> 00:06:50,080
-sold and you will see that if you were
+vendue et vous le verrez comme si vous aviez
 
 215
 00:06:48,319 --> 00:06:52,319
-just like sold those collectors
+vous même vendu cette partie de votre garantie à ce prix
 
 216
 00:06:50,080 --> 00:06:54,000
-at that price you would still hold on to
+vous conserverez toujours
 
 217
 00:06:52,319 --> 00:06:54,560
-the the money they borrow against it's
+la somme que vous avez emprunté
 
 218
 00:06:54,000 --> 00:07:03,840
-just like
+c'est juste que
 
 219
 00:06:54,560 --> 00:07:03,840
-you sold those characters at a penalty
+vous avez vendu une partie de votre garantie
 
 220
 00:07:04,400 --> 00:07:06,479
-you
+en tant que pénalité.
 
