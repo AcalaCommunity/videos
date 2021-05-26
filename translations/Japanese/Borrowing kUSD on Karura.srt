@@ -124,79 +124,79 @@ KusamaやBitcoinなど
 
 32
 00:00:58,960 --> 00:01:03,359
-more uh
+現在の
 
 33
 00:01:00,239 --> 00:01:05,600
-against my 0.1 ram btc position here
+ビットコイン・オラクル・レートが
 
 34
 00:01:03,359 --> 00:01:06,880
-so you can see um the current bitcoin
+だいたいこの数字になっているのが
 
 35
 00:01:05,600 --> 00:01:09,920
-oracle rate is
+わかります
 
 36
 00:01:06,880 --> 00:01:11,760
-roughly that number i'm still quite safe
+現在の私の0.1 renBTCの
 
 37
 00:01:09,920 --> 00:01:13,520
-to borrow a little bit more against that
+ポジションに対して、
 
 38
 00:01:11,760 --> 00:01:15,119
-0.1 ram bdc
+さらに借りてもまだ安全です
 
 39
 00:01:13,520 --> 00:01:16,320
-so i'm going to press generate more i'm
+それではGenerate Moreを
 
 40
 00:01:15,119 --> 00:01:17,920
-going to press hey i would like to
+押してみましょう。
 
 41
 00:01:16,320 --> 00:01:20,400
-probably ten dollars more
+「ten dollars more」と押して、
 
 42
 00:01:17,920 --> 00:01:22,080
-and i press confirm and this is where
+「confirm」を押すと、
 
 43
 00:01:20,400 --> 00:01:22,880
-the signing comes up i'm gonna type in
+署名が出てきます。
 
 44
 00:01:22,080 --> 00:01:26,560
-my key
+鍵となる
 
 45
 00:01:22,880 --> 00:01:28,640
-password and sign the transaction and
+パスワードを入力して
 
 46
 00:01:26,560 --> 00:01:30,560
-boom i have ten dollar more that i can
+取引に署名すると、
 
 47
 00:01:28,640 --> 00:01:32,400
-spend and this is how fast um
+10ドル追加で得られます。
 
 48
 00:01:30,560 --> 00:01:34,079
-and production network looks like and
+これが本番のネットワークの速さであり、
 
 49
 00:01:32,400 --> 00:01:34,560
-all this is happening on the fly for
+これらはすべてオンザフライで実際に
 
 50
 00:01:34,079 --> 00:01:36,880
-real
+実行されます。
 
 51
 00:01:34,560 --> 00:01:38,159
