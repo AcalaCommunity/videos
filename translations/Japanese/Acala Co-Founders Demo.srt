@@ -1,34 +1,34 @@
 1
 00:00:00,080 --> 00:00:04,799
-awesome uh yeah so uh good morning
+おはようございます。
 
 2
 00:00:02,800 --> 00:00:06,319
-everyone uh this is betty uh co-founder
+みなさん、こんにちは。Acalaの共同設立者のBetteです。
 
 3
 00:00:04,799 --> 00:00:08,480
-of akala
+　
 
 4
 00:00:06,319 --> 00:00:09,760
-and we also have brian a co-founder and
+そして共同設立者であり、
 
 5
 00:00:08,480 --> 00:00:12,799
-cto of uh
+AcalaのCTOであるBrianもいます。
 
 6
 00:00:09,760 --> 00:00:15,759
-akala here today with us um and
+そして彼は今日
 
 7
 00:00:12,799 --> 00:00:17,359
-he's actually prepared a full rail cross
+本日Defiについての
 
 8
 00:00:15,759 --> 00:00:19,039
-uh d5 demo for you
+デモを準備してきてくれました。
 
 9
 00:00:17,359 --> 00:00:20,800
