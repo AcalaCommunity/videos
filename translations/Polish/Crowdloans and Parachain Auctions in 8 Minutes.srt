@@ -1,0 +1,980 @@
+1
+00:00:01,040 --> 00:00:06,560
+Hej, Witam wszystkich, tu Dan Reecer z zespołu
+
+2
+00:00:03,439 --> 00:00:08,639
+Akala. Obecnie, jestem bardzo dumny z tego jak się tutaj rozwijamy.
+
+3
+00:00:06,560 --> 00:00:10,800
+Jestem w zespole Acala od kilku
+
+4
+00:00:08,639 --> 00:00:12,320
+miesięcy. Wcześniej pracowałem dla
+
+5
+00:00:10,800 --> 00:00:13,920
+Fundacji web3
+
+6
+00:00:12,320 --> 00:00:16,080
+gdzie pomagałem uruchomić Polkadot oraz
+
+7
+00:00:13,920 --> 00:00:17,920
+Kusama. Dzisiaj zamierzam to zrobić
+
+8
+00:00:16,080 --> 00:00:19,119
+na prawdę szybko. Mogę mówić szybko ze względu na to, że
+
+9
+00:00:17,920 --> 00:00:21,119
+będe próbował przedstawić wszystko
+
+10
+00:00:19,119 --> 00:00:22,560
+w jakieś 5 do 7 minut
+
+11
+00:00:21,119 --> 00:00:24,720
+Zamierzam mówić o
+
+12
+00:00:22,560 --> 00:00:26,320
+Aukcjach parachain Polkadot i Kusama
+
+13
+00:00:24,720 --> 00:00:27,680
+oraz o publicznych pożyczkach (crowdloans), które są procesem
+
+14
+00:00:26,320 --> 00:00:30,640
+aby uruchomić
+
+15
+00:00:27,680 --> 00:00:32,480
+blockchain na jednej z tych sieci, więc
+
+16
+00:00:30,640 --> 00:00:34,559
+Polkadot i Kusama, które, jak już możecie wiedzieć
+
+17
+00:00:32,480 --> 00:00:35,840
+są ekosystemami wielu łańcuchów, które
+
+18
+00:00:34,559 --> 00:00:37,680
+wiążą razem
+
+19
+00:00:35,840 --> 00:00:38,879
+kilka "blockchain`ów", które są nazywane
+
+20
+00:00:37,680 --> 00:00:40,399
+parachains.
+
+21
+00:00:38,879 --> 00:00:42,559
+W przyszłości będzie do
+
+22
+00:00:40,399 --> 00:00:43,200
+100 parachains na Polkadot oraz
+
+23
+00:00:42,559 --> 00:00:46,480
+100
+
+24
+00:00:43,200 --> 00:00:48,480
+dodatkowo na Kusama, jednak na razie nie ma
+
+25
+00:00:46,480 --> 00:00:50,320
+parachain`ów na żadnej z sieci.
+
+26
+00:00:48,480 --> 00:00:51,760
+Dzisiaj będe mówił jak
+
+27
+00:00:50,320 --> 00:00:53,680
+właściwie wygrać miejsce (slot)
+
+28
+00:00:51,760 --> 00:00:55,199
+jako jeden z tych małych kwadratów na
+
+29
+00:00:53,680 --> 00:00:56,079
+tym diagramie. Jak właściwie możesz stać się
+
+30
+00:00:55,199 --> 00:00:58,000
+pierwszym
+
+31
+00:00:56,079 --> 00:01:00,320
+parachain na Kusama, albo pierwszym
+
+32
+00:00:58,000 --> 00:01:02,399
+na Polkadot
+
+33
+00:01:00,320 --> 00:01:04,159
+ten proces jest pożyczką publiczną - "crowdloans" oraz
+
+34
+00:01:02,399 --> 00:01:06,400
+aukcjami parachain
+
+35
+00:01:04,159 --> 00:01:07,920
+to jest grafik na którym możecie zobaczyć,
+
+36
+00:01:06,400 --> 00:01:10,240
+że pożyczka publiczna (crowdloans) będzie
+
+37
+00:01:07,920 --> 00:01:12,080
+pierwsza, która zapoczątkuje główne
+
+38
+00:01:10,240 --> 00:01:12,640
+wydarzenie, którym jest aukcja parachain, tutaj na
+
+39
+00:01:12,080 --> 00:01:15,759
+biało
+
+40
+00:01:12,640 --> 00:01:17,280
+gdzie wiele zespołów parachain
+
+41
+00:01:15,759 --> 00:01:19,759
+zasadniczo licytuje się nawzajem
+
+42
+00:01:17,280 --> 00:01:21,759
+próbując wygrać tę aukcję
+
+43
+00:01:19,759 --> 00:01:23,119
+Zwycięzca aukcji następnie
+
+44
+00:01:21,759 --> 00:01:26,240
+wygrywa miejsce (slot)
+
+45
+00:01:23,119 --> 00:01:27,920
+tutaj na zielono, jak już miejsce (slot) będzie wygrane
+
+46
+00:01:26,240 --> 00:01:30,000
+wtedy oficjalnie zostanie
+
+47
+00:01:27,920 --> 00:01:32,000
+parachain`em na sieci Kusama, albo na Polkadot
+
+48
+00:01:30,000 --> 00:01:34,560
+i będziesz mógł
+
+49
+00:01:32,000 --> 00:01:35,520
+uruchomić swoją aplikację, aplikacje
+
+50
+00:01:34,560 --> 00:01:37,759
+mogą być również zbudowane na Twoim parachain
+
+51
+00:01:35,520 --> 00:01:40,159
+i tak dalej, to jest ostateczna
+
+52
+00:01:37,759 --> 00:01:42,240
+wizja Polkadot i Kusama
+
+53
+00:01:40,159 --> 00:01:44,399
+następnie, ostatnia część na diagramie, którą możesz zobaczyć
+
+54
+00:01:42,240 --> 00:01:45,280
+jest właściwie koniec czasu tego miejsca - ("slot"`u)
+
+55
+00:01:44,399 --> 00:01:48,560
+który zespół
+
+56
+00:01:45,280 --> 00:01:49,680
+wygrał, więc po tym jak zespół wygra to miejsce (slot)
+
+57
+00:01:48,560 --> 00:01:51,280
+wtedy następuje kilka rzeczy
+
+58
+00:01:49,680 --> 00:01:51,920
+włączając to, że środki zebrane z pożyczki publicznej (crowdloans)
+
+59
+00:01:51,280 --> 00:01:54,640
+zostają zwrócone
+
+60
+00:01:51,920 --> 00:01:56,000
+do udziałowców.
+
+61
+00:01:54,640 --> 00:01:57,439
+Przedstawię to na kilku następnych
+
+62
+00:01:56,000 --> 00:01:59,920
+slajdach.
+
+63
+00:01:57,439 --> 00:02:01,439
+Zacznę opowiadzać od aukcji parachain
+
+64
+00:01:59,920 --> 00:02:03,680
+z tego względu, iż powinieneś to zrozumieć
+
+65
+00:02:01,439 --> 00:02:06,159
+zanim się zacznie zbiórka publiczna (crowdloans)
+
+66
+00:02:03,680 --> 00:02:06,880
+aukcja parachain jest kluczowa
+
+67
+00:02:06,159 --> 00:02:08,959
+jak już powiedziałem
+
+68
+00:02:06,880 --> 00:02:10,720
+zespoły licytują się nawzajem
+
+69
+00:02:08,959 --> 00:02:14,720
+aby wygrać jedno z tych miejsc (slot)
+
+70
+00:02:10,720 --> 00:02:17,440
+każda aukcja odbywa się o
+
+71
+00:02:14,720 --> 00:02:19,040
+jedno miejsce (slot), który może być podzielony na mniejsze
+
+72
+00:02:17,440 --> 00:02:21,599
+części, ale ostatecznie
+
+73
+00:02:19,040 --> 00:02:23,599
+na Polkadot miejsce (slot) może być przyznane do 24 miesięcy
+
+74
+00:02:21,599 --> 00:02:25,360
+ale niektóre zespoły mogą zadecydować aby licytować na
+
+75
+00:02:23,599 --> 00:02:28,080
+krótszy okres, ale dla uproszczenia
+
+76
+00:02:25,360 --> 00:02:30,160
+przyjmijmy, ten maksymalny okres.
+
+77
+00:02:28,080 --> 00:02:32,080
+Zespoły, które przystąpią do tych
+
+78
+00:02:30,160 --> 00:02:32,560
+aukcji mają dwie opcje, jak
+
+79
+00:02:32,080 --> 00:02:35,440
+właściwie
+
+80
+00:02:32,560 --> 00:02:36,239
+licytować, oraz jakie środki przeznaczyć na licytacje
+
+81
+00:02:35,440 --> 00:02:38,640
+więc
+
+82
+00:02:36,239 --> 00:02:40,879
+Pierwsze, jeśli masz pojedyńcze konto
+
+83
+00:02:38,640 --> 00:02:42,800
+powiedzmy, że dla Kusama masz
+
+84
+00:02:40,879 --> 00:02:44,080
+zgromadzone KSM, które chcesz użyć dla
+
+85
+00:02:42,800 --> 00:02:45,280
+tej aukcji
+
+86
+00:02:44,080 --> 00:02:48,239
+wtedy, nie musisz angażować swojej
+
+87
+00:02:45,280 --> 00:02:50,400
+społeczności, więc to może być pierwsza możliwość.
+
+88
+00:02:48,239 --> 00:02:51,840
+Coraz częściej i więcej
+
+89
+00:02:50,400 --> 00:02:53,680
+prawdopodobnym scenariuszem
+
+90
+00:02:51,840 --> 00:02:55,360
+będzie druga możliwość, która używa
+
+91
+00:02:53,680 --> 00:02:56,480
+zbiórki / pożyczki publicznej (crowdloans)
+
+92
+00:02:55,360 --> 00:02:59,040
+jesteś właściwie w tym scenariuszu
+
+93
+00:02:56,480 --> 00:03:00,800
+zbiórka publiczna (crowdsourcing) KSM w przypadku sieci Kusama
+
+94
+00:02:59,040 --> 00:03:02,879
+albo zbiórka publiczna (crowdsourcing) DOT
+
+95
+00:03:00,800 --> 00:03:04,480
+od twojej społeczności, jesteś
+
+96
+00:03:02,879 --> 00:03:05,440
+właściwie pożyczkobiorcą tego, więc
+
+97
+00:03:04,480 --> 00:03:09,519
+możesz użyć to
+
+98
+00:03:05,440 --> 00:03:12,000
+do aukcji parachain.
+
+99
+00:03:09,519 --> 00:03:13,519
+Jak często się to wydaży?
+
+100
+00:03:12,000 --> 00:03:15,360
+Aukcje parachain będą przeeprowadzone
+
+101
+00:03:13,519 --> 00:03:17,599
+jedna w tym czasie, ale wygląda na to, że
+
+102
+00:03:15,360 --> 00:03:19,440
+te aukcje odbywać się będą co dwa tygodnie
+
+103
+00:03:17,599 --> 00:03:20,640
+w ekosystemie Polkadot i Kusama
+
+104
+00:03:19,440 --> 00:03:24,720
+to będzie się odbywało
+
+105
+00:03:20,640 --> 00:03:24,720
+na bieżąco dla przewidywalnej przyszłości
+
+106
+00:03:25,200 --> 00:03:28,959
+Tak więc, w pierwszej kolejności odbędzie się pożyczka publiczna (crowdloan)
+
+107
+00:03:27,680 --> 00:03:31,440
+tak, jak już powiedziałem, są używane
+
+108
+00:03:28,959 --> 00:03:32,239
+aby zacząć licytacje
+
+109
+00:03:31,440 --> 00:03:34,159
+zespoły będą musiały
+
+110
+00:03:32,239 --> 00:03:36,400
+pożyczyć te tokeny i użyć
+
+111
+00:03:34,159 --> 00:03:37,920
+je w aukcji parachain w
+
+112
+00:03:36,400 --> 00:03:40,400
+kolejnym etapie.
+
+113
+00:03:37,920 --> 00:03:42,159
+Jeżeli jesteś użytkownikiem i dołożyłeś KSM
+
+114
+00:03:40,400 --> 00:03:44,480
+do parachain Kusama, albo jeśli
+
+115
+00:03:42,159 --> 00:03:46,400
+dołożyłeś DOT do parachain`u Polkadot
+
+116
+00:03:44,480 --> 00:03:48,159
+to właściwie zgadzasz się aby zablokować
+
+117
+00:03:46,400 --> 00:03:49,599
+te tokeny na okres tego
+
+118
+00:03:48,159 --> 00:03:51,120
+miejsca (slot`u) parachain.
+
+119
+00:03:49,599 --> 00:03:52,959
+W przykładzie, którym posłużłem się wcześniej
+
+120
+00:03:51,120 --> 00:03:56,560
+zakładając 24 miesiące
+
+121
+00:03:52,959 --> 00:03:58,720
+wtedy po 24 miesiącach twój
+
+122
+00:03:56,560 --> 00:04:00,799
+wkład jest zwracany do Ciebie
+
+123
+00:03:58,720 --> 00:04:01,920
+Właściwie bez żadnej straty. Jest to bardziej
+
+124
+00:04:00,799 --> 00:04:03,200
+etyczny sposób
+
+125
+00:04:01,920 --> 00:04:05,840
+który wcześniej widzieliśmy
+
+126
+00:04:03,200 --> 00:04:07,599
+tak jak ICO, w tym przypadku
+
+127
+00:04:05,840 --> 00:04:09,200
+zespół jest odpowiedzialny za
+
+128
+00:04:07,599 --> 00:04:11,599
+dotrzymanie, ich
+
+129
+00:04:09,200 --> 00:04:13,120
+wizji z white paper, ponieważ zespół
+
+130
+00:04:11,599 --> 00:04:15,120
+potrzebuje dodać wartość do ich sieci
+
+131
+00:04:13,120 --> 00:04:17,199
+ponieważ, zespół właściwie nie otrzymuje
+
+132
+00:04:15,120 --> 00:04:19,519
+żadnych środków bezpośrednio od Ciebie, jako
+
+133
+00:04:17,199 --> 00:04:22,160
+członka społeczności.
+
+134
+00:04:19,519 --> 00:04:23,040
+Na koniec chciałbym powiedzieć o tym
+
+135
+00:04:22,160 --> 00:04:24,880
+właśnie teraz, ale
+
+136
+00:04:23,040 --> 00:04:26,400
+środki które biorą udział
+
+137
+00:04:24,880 --> 00:04:28,160
+KSM lub DOT
+
+138
+00:04:26,400 --> 00:04:29,680
+nigdy nie są dostępne dla zespołu, tak że
+
+139
+00:04:28,160 --> 00:04:31,600
+nie ma obaw o to, że
+
+140
+00:04:29,680 --> 00:04:33,440
+zespoły wezmą pieniądze i uciekną
+
+141
+00:04:31,600 --> 00:04:36,240
+z nimi i nie dostarczając tego co
+
+142
+00:04:33,440 --> 00:04:37,680
+obiecane. Wszystko
+
+143
+00:04:36,240 --> 00:04:40,560
+jest w ich interesie aby się wywiązały
+
+144
+00:04:37,680 --> 00:04:42,639
+i zespół jest pociągnięty do odpowiedzialności.
+
+145
+00:04:40,560 --> 00:04:43,840
+W przypadku pożyczki społecznościowej,
+
+146
+00:04:42,639 --> 00:04:45,520
+tak to wygląda.
+
+147
+00:04:43,840 --> 00:04:48,000
+że różne zespoły
+
+148
+00:04:45,520 --> 00:04:48,880
+pożyczają KSM, albo DOT od ich
+
+149
+00:04:48,000 --> 00:04:50,880
+społeczności
+
+150
+00:04:48,880 --> 00:04:52,320
+i to prowadzi do miejsca (slot) aukcji parachain
+
+151
+00:04:50,880 --> 00:04:54,080
+więc.
+
+152
+00:04:52,320 --> 00:04:55,520
+to wszystko zaczyna się w
+
+153
+00:04:54,080 --> 00:04:58,400
+na etapie pożyczki społecznościowej (crowdloan) jest
+
+154
+00:04:55,520 --> 00:05:00,320
+niedostępne dla zespołu, ale
+
+155
+00:04:58,400 --> 00:05:02,160
+mogą jedynie z tego korzystać,
+
+156
+00:05:00,320 --> 00:05:04,000
+w ich aukcji na miejsce (slot) parachain. Tak więc, Ty
+
+157
+00:05:02,160 --> 00:05:05,280
+możesz to sobie wyobrazić jako stół do pokera
+
+158
+00:05:04,000 --> 00:05:07,280
+na początku aukcji wszystkie
+
+159
+00:05:05,280 --> 00:05:09,039
+te zespoły będą licytować całością
+
+160
+00:05:07,280 --> 00:05:11,600
+środków które zebrały w
+
+161
+00:05:09,039 --> 00:05:14,400
+ich zbiórce (crowdloan).
+
+162
+00:05:11,600 --> 00:05:16,320
+Jak zostanie wyłoniony zwycięzca?
+
+163
+00:05:14,400 --> 00:05:17,120
+Kiedy aukcja się zacznie wszyscy będziemy znali
+
+164
+00:05:16,320 --> 00:05:19,199
+czas rozpoczęcia
+
+165
+00:05:17,120 --> 00:05:22,800
+tutaj na zielono i będziemy znać
+
+166
+00:05:19,199 --> 00:05:24,639
+czas zakończenia, tutaj pokazany na pomarańczowo
+
+167
+00:05:22,800 --> 00:05:26,240
+Najbardziej ekscytujący moment będzie, kiedy
+
+168
+00:05:24,639 --> 00:05:29,440
+nadejdzie czas zakończenia
+
+169
+00:05:26,240 --> 00:05:31,759
+sieć zależna od Kusama, albo Polkadot
+
+170
+00:05:29,440 --> 00:05:33,759
+sama, losowo wybierze czas
+
+171
+00:05:31,759 --> 00:05:35,440
+który determinuje koniec, ta czerwona
+
+172
+00:05:33,759 --> 00:05:37,759
+linia, tutaj. Tak, więc w
+
+173
+00:05:35,440 --> 00:05:38,639
+tym przykładzie mamy parachain B, który licytuje,
+
+174
+00:05:37,759 --> 00:05:41,919
+Parachain C licytuje,
+
+175
+00:05:38,639 --> 00:05:44,479
+Parachain A licytuje.... E i F
+
+176
+00:05:41,919 --> 00:05:46,560
+przebijają ofertę A w sensie ilości KSM, jednak
+
+177
+00:05:44,479 --> 00:05:47,280
+zwycięzca zostaje określony na tej czerwonej linii
+
+178
+00:05:46,560 --> 00:05:49,840
+więc
+
+179
+00:05:47,280 --> 00:05:51,280
+najwyższą ofertę dał parachain A.
+
+180
+00:05:49,840 --> 00:05:53,280
+Nazywa się to nieupoważnioną aukcją świec
+
+181
+00:05:51,280 --> 00:05:55,280
+i ma zachęcać zespoły do składania ofert
+
+182
+00:05:53,280 --> 00:05:56,639
+tak wysokich jak tylko mogą, oraz tak wcześnie jak tylko mogą
+
+183
+00:05:55,280 --> 00:05:58,240
+zamiast czekać do końca, tak jak
+
+184
+00:05:56,639 --> 00:06:00,319
+możesz to zaobservować na aukcjach ebay
+
+185
+00:05:58,240 --> 00:06:04,319
+gdzie ludzie próbują
+
+186
+00:06:00,319 --> 00:06:06,240
+licytować na końcu, aby ich oferta była najwyższa.
+
+187
+00:06:04,319 --> 00:06:07,759
+To jest pełny przewodnik tego
+
+188
+00:06:06,240 --> 00:06:10,720
+całego procesu. Tak, więc mamy
+
+189
+00:06:07,759 --> 00:06:12,960
+tutaj użytkowników dokładających swoje KSM,
+
+190
+00:06:10,720 --> 00:06:16,720
+w tym przykładzie wnoszą wkład do Karura
+
+191
+00:06:12,960 --> 00:06:19,199
+500 000 KSM. Następnie Karura
+
+192
+00:06:16,720 --> 00:06:21,280
+wygrywa pierwszy slot w sieci Kusama i wtedy
+
+193
+00:06:19,199 --> 00:06:23,600
+zaczyna się ich proces uruchomienia, tak więc
+
+194
+00:06:21,280 --> 00:06:24,800
+wszystkie KSM pochodzące ze zbiórki publicznej w
+
+195
+00:06:23,600 --> 00:06:26,880
+tym osobliwym
+
+196
+00:06:24,800 --> 00:06:28,240
+okresie pożyczki jest wtedy zablokowane u
+
+197
+00:06:26,880 --> 00:06:31,759
+podstawy
+
+198
+00:06:28,240 --> 00:06:33,919
+sieci zależnej od Kusama i wtedy token KAR
+
+199
+00:06:31,759 --> 00:06:36,319
+zostaje rozdystrybuowany, rodzimy token sieci
+
+200
+00:06:33,919 --> 00:06:36,960
+Karura (KAR) jest dystrybuowany do
+
+201
+00:06:36,319 --> 00:06:39,360
+uczestników pożyczki publicznej (crowdloan)
+
+202
+00:06:36,960 --> 00:06:41,120
+a następnie w tym samym czasie
+
+203
+00:06:39,360 --> 00:06:44,160
+Sieć Karura zostaje uruchomiona razem ze
+
+204
+00:06:41,120 --> 00:06:45,039
+stablecoin`em Karura, stakingiem płynnego KSM, 
+
+205
+00:06:44,160 --> 00:06:47,440
+jak również
+
+206
+00:06:45,039 --> 00:06:50,479
+Karura AMM-DEX, Karura DEX
+
+207
+00:06:47,440 --> 00:06:52,160
+wszystko zostaje uruchomione na sieci Karura
+
+208
+00:06:50,479 --> 00:06:54,080
+kiedy to nastąpi. Na końcu okresu
+
+209
+00:06:52,160 --> 00:06:55,039
+przyznanego miejsca (slot`u), wszystkie KSM są
+
+210
+00:06:54,080 --> 00:06:58,880
+zwracane do
+
+211
+00:06:55,039 --> 00:07:00,400
+wspierających. Teraz
+
+212
+00:06:58,880 --> 00:07:02,160
+ostatnim pytaniem jaki czasem ludzie mają
+
+213
+00:07:00,400 --> 00:07:04,000
+jest: co się stanie na końcu okresu
+
+214
+00:07:02,160 --> 00:07:06,400
+przyznanego miejsca (slot`u). Tak więc na tym przykładzie, powiedzmy, że
+
+215
+00:07:04,000 --> 00:07:08,880
+okresem przyznania miejsca (slot`u) był 1 rok
+
+216
+00:07:06,400 --> 00:07:10,479
+tokeny KSM są zwracane do
+
+217
+00:07:08,880 --> 00:07:12,000
+wspierających pożyczkę publiczną (crowdloan). Następnie mamy
+
+218
+00:07:10,479 --> 00:07:14,479
+3 opcje na to
+
+219
+00:07:12,000 --> 00:07:16,560
+aby każdy zespół zachował ich
+
+220
+00:07:14,479 --> 00:07:18,240
+dostęp do zależnego łańcucha (sieci)
+
+221
+00:07:16,560 --> 00:07:20,560
+Pierwszym jest zorganizować kolejną zbiórkę publiczną i
+
+222
+00:07:18,240 --> 00:07:23,680
+przeprowadzić kolejną aukcję parachain,
+
+223
+00:07:20,560 --> 00:07:25,360
+Drugą możliwością jest sprzedać fundusze, tak że Karura i
+
+224
+00:07:23,680 --> 00:07:26,639
+Acala, obie będą miały zdecentralizowany
+
+225
+00:07:25,360 --> 00:07:28,240
+własny fundusz
+
+226
+00:07:26,639 --> 00:07:30,000
+i z upływem czasu, będzie to
+
+227
+00:07:28,240 --> 00:07:31,599
+kontynuowało rozwój
+
+228
+00:07:30,000 --> 00:07:33,759
+tak, że będziemy mogli stać się niezależni i
+
+229
+00:07:31,599 --> 00:07:36,240
+samowystarczalni i właściwie
+
+230
+00:07:33,759 --> 00:07:37,440
+licytować z własnych środków, naszego
+
+231
+00:07:36,240 --> 00:07:39,840
+własnego funduszu utrzymania
+
+232
+00:07:37,440 --> 00:07:40,479
+dla uzyskania przyszłych miejsc (slots). Trzecią
+
+233
+00:07:39,840 --> 00:07:42,800
+opcją
+
+234
+00:07:40,479 --> 00:07:44,000
+Prawdopodobnie jest kilka artukułów
+
+235
+00:07:42,800 --> 00:07:46,400
+i filmów, które możesz zobaczyć
+
+236
+00:07:44,000 --> 00:07:48,160
+o tym, ale inną opcją jest
+
+237
+00:07:46,400 --> 00:07:49,520
+stać się parathread (para-wątkiem), która
+
+238
+00:07:48,160 --> 00:07:51,599
+znaczy, że masz trochę mniejszy
+
+239
+00:07:49,520 --> 00:07:53,759
+dostęp
+
+240
+00:07:51,599 --> 00:07:54,960
+mniejszej częstotliwości dostęp do zależnego
+
+241
+00:07:53,759 --> 00:07:57,039
+łańcucha.
+
+242
+00:07:54,960 --> 00:07:58,240
+Tak, więc to było około 8 minut.
+
+243
+00:07:57,039 --> 00:07:59,919
+Mam nadzieję, że nauczyłeś się czegoś, daj mi
+
+244
+00:07:58,240 --> 00:08:03,759
+znać w razie jakichkolwiek pytań.
+
+245
+00:07:59,919 --> 00:08:03,759
+Dziękuje.
+

@@ -1,0 +1,356 @@
+1
+00:00:00,719 --> 00:00:03,120
+Witam wszystkich, jestem Brett, deweloper w
+
+2
+00:00:02,399 --> 00:00:04,080
+ACALA
+
+3
+00:00:03,120 --> 00:00:05,359
+W tym filmie zamierzam
+
+4
+00:00:04,080 --> 00:00:07,600
+mówić o tym, jak działają adresy na
+
+5
+00:00:05,359 --> 00:00:08,639
+POLKADOT i KUSAMA
+
+6
+00:00:07,600 --> 00:00:10,160
+Więc, jeśli pochodzisz ze świata
+
+7
+00:00:08,639 --> 00:00:11,920
+ethereum, mogłeś przywyknąć to tego, że adresy
+
+8
+00:00:10,160 --> 00:00:13,599
+mogą wyglądać tak
+
+9
+00:00:11,920 --> 00:00:15,040
+ale w świecie POLKADOT i KUSAMA
+
+10
+00:00:13,599 --> 00:00:16,240
+mogłeś przywyknąć do czegoś takiego
+
+11
+00:00:15,040 --> 00:00:17,760
+wiele różnych adresów w
+
+12
+00:00:16,240 --> 00:00:18,320
+wielu różnych formatach, wszystkie z jednego
+
+13
+00:00:17,760 --> 00:00:20,800
+konta
+
+14
+00:00:18,320 --> 00:00:22,000
+Jak one działają? Zacznijmy
+
+15
+00:00:20,800 --> 00:00:23,920
+z analogią
+
+16
+00:00:22,000 --> 00:00:25,599
+mamy tutaj ptaka i po angielsku
+
+17
+00:00:23,920 --> 00:00:27,359
+możemy napisać słowo ptak, tak jak to
+
+18
+00:00:25,599 --> 00:00:28,720
+po chińsku możemy napisać tak
+
+19
+00:00:27,359 --> 00:00:29,599
+a po włosku możemy napisać
+
+20
+00:00:28,720 --> 00:00:31,199
+tak
+
+21
+00:00:29,599 --> 00:00:32,960
+wiele różnych dróg do napisania
+
+22
+00:00:31,199 --> 00:00:34,719
+dokładnie tej samej rzeczy i one wszystkie reprezentują
+
+23
+00:00:32,960 --> 00:00:36,320
+tą samą rzecz
+
+24
+00:00:34,719 --> 00:00:38,559
+Tak, więc Twój adres w sieci POLKADOT i
+
+25
+00:00:36,320 --> 00:00:40,000
+KUSAMA, są rodzajem tego samego rozwiązania
+
+26
+00:00:38,559 --> 00:00:41,520
+Twój portfel będzie miał Twój publiczny i
+
+27
+00:00:40,000 --> 00:00:43,040
+prywatny klucz i te wszystkie te różne
+
+28
+00:00:41,520 --> 00:00:44,719
+formaty jakie widzisz zależą od sieci
+
+29
+00:00:43,040 --> 00:00:46,879
+do której się przyłączysz są właściwie różną
+
+30
+00:00:44,719 --> 00:00:49,440
+prezentacją tego samego klucza publicznego
+
+31
+00:00:46,879 --> 00:00:50,960
+Dla przykładu. Mamy ten klucz publiczny
+
+32
+00:00:49,440 --> 00:00:52,559
+i na POLKADOT będzie on wyglądał
+
+33
+00:00:50,960 --> 00:00:53,199
+tak, zaczynając się od
+
+34
+00:00:52,559 --> 00:00:55,120
+1
+
+35
+00:00:53,199 --> 00:00:57,199
+KUSAMA byłaby reprezentowana w ten sposób
+
+36
+00:00:55,120 --> 00:00:59,199
+zaczynając się z dużej litery
+
+37
+00:00:57,199 --> 00:01:00,960
+a w substrate rodzimy adres
+
+38
+00:00:59,199 --> 00:01:03,440
+mógłby wyglądać tak
+
+39
+00:01:00,960 --> 00:01:04,799
+zaczynając się od numeru 5, tak więc jest to
+
+40
+00:01:03,440 --> 00:01:06,640
+całkiem fajne. To znaczy, że możesz użyć
+
+41
+00:01:04,799 --> 00:01:07,760
+jednego adresu, albo jednego konta dla wszystkich
+
+42
+00:01:06,640 --> 00:01:09,200
+różnych sieci
+
+43
+00:01:07,760 --> 00:01:10,880
+i chociaż to prawda, to nie jest to
+
+44
+00:01:09,200 --> 00:01:12,400
+zalecane
+
+45
+00:01:10,880 --> 00:01:14,159
+zazwyczaj lepiej jest mieć odrębne
+
+46
+00:01:12,400 --> 00:01:15,119
+konta z ich własnymi kluczami prywatnymi dla
+
+47
+00:01:14,159 --> 00:01:17,119
+każdej sieci
+
+48
+00:01:15,119 --> 00:01:18,720
+największym powodem jest bezpieczeństwo, jeżeli jeden z
+
+49
+00:01:17,119 --> 00:01:20,159
+twoich kont jest zagrożone
+
+50
+00:01:18,720 --> 00:01:24,080
+wtedy środki na twoich innych kontach
+
+51
+00:01:20,159 --> 00:01:26,000
+są bezpieczne. Zobaczmy to w praktyce
+
+52
+00:01:24,080 --> 00:01:27,520
+jestem na stronie polkadot.js
+
+53
+00:01:26,000 --> 00:01:31,439
+utworzymy dwa nowe konta
+
+54
+00:01:27,520 --> 00:01:33,600
+naprawdę szybko, tak, że możesz zobaczyć że mam
+
+55
+00:01:31,439 --> 00:01:35,200
+odmienne słowa "seed" tutaj
+
+56
+00:01:33,600 --> 00:01:36,560
+klikam zapisz
+
+57
+00:01:35,200 --> 00:01:38,400
+daję nazwę, nazwijmy to, robiąc to
+
+58
+00:01:36,560 --> 00:01:41,840
+kontem w sieci KUSAMA
+
+59
+00:01:38,400 --> 00:01:41,840
+i nadając hasło
+
+60
+00:01:43,439 --> 00:01:46,880
+będziemy tworzyć jeszcze jedno
+
+61
+00:01:44,479 --> 00:01:49,439
+konto dla sieci POLKADOT
+
+62
+00:01:46,880 --> 00:01:52,720
+Ponownie, możesz zobaczyć odrębne słowa "seed"
+
+63
+00:01:49,439 --> 00:01:56,799
+inne niż poprzednie
+
+64
+00:01:52,720 --> 00:02:00,079
+Nazwę to POLKADOT
+
+65
+00:01:56,799 --> 00:02:00,079
+nadam temu hasło
+
+66
+00:02:01,920 --> 00:02:05,439
+i teraz możesz zobaczyć, że jestem połączony z
+
+67
+00:02:03,280 --> 00:02:09,840
+siecią POLKADOT i kiedy
+
+68
+00:02:05,439 --> 00:02:09,840
+odświeżę stronę
+
+69
+00:02:11,520 --> 00:02:15,840
+oba adresy pojawiają się i ponownie
+
+70
+00:02:14,319 --> 00:02:17,120
+to nie jest to, co zalecamy
+
+71
+00:02:15,840 --> 00:02:18,879
+rekomendujemy posiadanie odrębnego
+
+72
+00:02:17,120 --> 00:02:19,760
+konta z ich własnymi kluczami prywatnymi, tak
+
+73
+00:02:18,879 --> 00:02:20,959
+jak te dwa
+
+74
+00:02:19,760 --> 00:02:22,720
+i że są skonfigurowane tylko dla jednej
+
+75
+00:02:20,959 --> 00:02:23,280
+sieci, każdy. Tak, więc zmieniamy
+
+76
+00:02:22,720 --> 00:02:26,319
+to konto
+
+77
+00:02:23,280 --> 00:02:29,200
+aby było widoczne w sieci KUSAMA, a to drugie konto
+
+78
+00:02:26,319 --> 00:02:32,959
+aby było widoczne tylko w sieci POLKADOT
+
+79
+00:02:29,200 --> 00:02:32,959
+i teraz, jeśli ponownie odświeżę stronę
+
+80
+00:02:33,920 --> 00:02:37,040
+zauważysz, że tylko POLKADOT
+
+81
+00:02:35,440 --> 00:02:40,319
+konto jest widoczne
+
+82
+00:02:37,040 --> 00:02:40,319
+oraz po stronie sieci KUSAMA
+
+83
+00:02:43,040 --> 00:02:46,640
+widoczny jest tylko adres sieci KUSAMA
+
+84
+00:02:45,680 --> 00:02:48,160
+.
+
+85
+00:02:46,640 --> 00:02:49,680
+OK, to jest to dla tego filmu. Mam nadzieję, że
+
+86
+00:02:48,160 --> 00:02:50,800
+każdy nauczył się czegoś i daj nam
+
+87
+00:02:49,680 --> 00:02:53,000
+znać, czy są jeszcze jakieś filmy, które chciałbyś
+
+88
+00:02:50,800 --> 00:02:56,000
+abyśmy przygotowali
+
+89
+00:02:53,000 --> 00:02:56,000
+Dziękuje
+

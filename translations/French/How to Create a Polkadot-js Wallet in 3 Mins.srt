@@ -1,0 +1,408 @@
+1
+00:00:01,040 --> 00:00:04,080
+Bonjour tout le monde je suis Brett Kolodny
+
+2
+00:00:02,639 --> 00:00:05,839
+développeur chez Acala et aujourd'hui je vais
+
+3
+00:00:04,080 --> 00:00:07,520
+vous montrer comment configurer une adresse Kusama
+
+4
+00:00:05,839 --> 00:00:08,960
+ou une adresse Polkadot en utilisant Polkadot.js
+
+5
+00:00:07,520 --> 00:00:10,639
+avec l'extension
+
+6
+00:00:08,960 --> 00:00:13,120
+donc je vais descendre ici et ouvrir
+
+7
+00:00:10,639 --> 00:00:13,120
+Chrome
+
+8
+00:00:13,759 --> 00:00:18,480
+et nous allons aller sur
+
+9
+00:00:16,199 --> 00:00:21,600
+polkadot.js.org
+
+10
+00:00:18,480 --> 00:00:23,039
+et cliquez sur le lien de l'extension
+
+11
+00:00:21,600 --> 00:00:24,480
+donc je vais la télécharger pour chrome
+
+12
+00:00:23,039 --> 00:00:26,160
+si vous avez Firefox, téléchargez là pour Firefox
+
+13
+00:00:24,480 --> 00:00:28,800
+et si vous utilisez Brave
+
+14
+00:00:26,160 --> 00:00:30,480
+vous pouvez également utiliser le lien pour Chrome
+
+15
+00:00:28,800 --> 00:00:32,239
+donc je l'ai déjà donc je vais aller sur
+
+16
+00:00:30,480 --> 00:00:34,800
+cette pièce de puzzle
+
+17
+00:00:32,239 --> 00:00:36,239
+dans le coin supérieur droit
+
+18
+00:00:34,800 --> 00:00:41,120
+cliquez sur épingler
+
+19
+00:00:36,239 --> 00:00:43,600
+et je vais l'ouvrir et accepter l'avertissement
+
+20
+00:00:41,120 --> 00:00:44,800
+et maintenant nous avons cet écran
+
+21
+00:00:43,600 --> 00:00:45,840
+donc pour ajouter un compte pour la première fois
+
+22
+00:00:44,800 --> 00:00:47,840
+nous allons cliquer sur le +
+
+23
+00:00:45,840 --> 00:00:49,440
+au milieu de ce cercle
+
+24
+00:00:47,840 --> 00:00:51,920
+et nous allons voir ces 12 mots
+
+25
+00:00:49,440 --> 00:00:53,280
+de la phrase mnémonique
+
+26
+00:00:51,920 --> 00:00:56,160
+la phrase mnémonique peut être utilisée pour récupérer votre compte au cas où vous
+
+27
+00:00:53,280 --> 00:00:58,800
+vous perdez votre appareil ou
+
+28
+00:00:56,160 --> 00:00:59,680
+votre ordinateur mais elle peut également être utilisé par
+
+29
+00:00:58,800 --> 00:01:01,440
+n'importe qui
+
+30
+00:00:59,680 --> 00:01:02,640
+pour obtenir un accès complet à votre compte
+
+31
+00:01:01,440 --> 00:01:04,640
+donc nous allons l'écrire et
+
+32
+00:01:02,640 --> 00:01:06,960
+la sauvegarder dans un endroit sûr
+
+33
+00:01:04,640 --> 00:01:09,280
+et maintenant je vais cocher
+
+34
+00:01:06,960 --> 00:01:11,119
+"j'ai sauvegardé ma phrase mnémonique en toute sécurité"
+
+35
+00:01:09,280 --> 00:01:13,600
+et cliquez sur "étapes suivantes"
+
+36
+00:01:11,119 --> 00:01:14,799
+donc maintenant nous avons cet écran
+
+37
+00:01:13,600 --> 00:01:16,960
+vous voyez ce menu déroulant qui dit
+
+38
+00:01:14,799 --> 00:01:18,080
+"autoriser l'utilisation sur n'importe quelle chaîne" en cliquant dessus
+
+39
+00:01:16,960 --> 00:01:20,560
+on voit tout un tas de différentes
+
+40
+00:01:18,080 --> 00:01:21,920
+chaînes, si vous créez une adresse Polkadot
+
+41
+00:01:20,560 --> 00:01:23,119
+vous choisissez
+
+42
+00:01:21,920 --> 00:01:24,320
+Polkadot Relay Chain
+
+43
+00:01:23,119 --> 00:01:26,479
+et vous verrez que l'adresse
+
+44
+00:01:24,320 --> 00:01:28,000
+dans la case du haut vient d'être changée au format Polkadot
+
+45
+00:01:26,479 --> 00:01:29,759
+et si vous créez un compte Kusama vous
+
+46
+00:01:28,000 --> 00:01:31,119
+cliquez sur Kusama Relay Chain
+
+47
+00:01:29,759 --> 00:01:33,040
+et vous verrez que l'adresse change
+
+48
+00:01:31,119 --> 00:01:34,079
+à nouveau au format Kusama
+
+49
+00:01:33,040 --> 00:01:36,320
+aujourd'hui je vais créer un compte Polkadot
+
+50
+00:01:34,079 --> 00:01:38,079
+maintenant nous allons donner
+
+51
+00:01:36,320 --> 00:01:38,840
+au compte un nom descriptif
+
+52
+00:01:38,079 --> 00:01:42,000
+je vais l'appeler
+
+53
+00:01:38,840 --> 00:01:43,280
+my account, maintenant nous attribuer
+
+54
+00:01:42,000 --> 00:01:44,399
+un mot de passe pour ce compte
+
+55
+00:01:43,280 --> 00:01:46,000
+le mot de passe correspond à ce que vous allez
+
+56
+00:01:44,399 --> 00:01:47,119
+devoir entrer à chaque fois que vous voulez
+
+57
+00:01:46,000 --> 00:01:48,079
+utiliser ce compte pour faire
+
+58
+00:01:47,119 --> 00:01:49,040
+une transaction
+
+59
+00:01:48,079 --> 00:01:50,320
+donc vous allez vouloir mettre quelque chose
+
+60
+00:01:49,040 --> 00:01:51,600
+de sûr mais quelque chose
+
+61
+00:01:50,320 --> 00:01:53,280
+dont vous allez vous souvenir
+
+62
+00:01:51,600 --> 00:01:55,840
+je vais donc mettre un mot de passe
+
+63
+00:01:53,280 --> 00:01:55,840
+maintenant
+
+64
+00:01:56,560 --> 00:02:00,719
+puis cliquer sur ajouter ce compte
+
+65
+00:01:58,560 --> 00:02:02,320
+avec la phrase générée
+
+66
+00:02:00,719 --> 00:02:04,320
+donc maintenant, nous voyons le compte dans notre
+
+67
+00:02:02,320 --> 00:02:05,759
+extension avec la mention Polkadot au dessus
+
+68
+00:02:04,320 --> 00:02:06,399
+qui nous indique que c'est
+
+69
+00:02:05,759 --> 00:02:09,679
+un compte Polkadot
+
+70
+00:02:06,399 --> 00:02:13,120
+et avec l'adresse Polkadot
+
+71
+00:02:09,679 --> 00:02:17,120
+donc retournons sur polkadot.js.org
+
+72
+00:02:13,120 --> 00:02:17,120
+et cliquez sur le lien apps wallet
+
+73
+00:02:19,040 --> 00:02:22,160
+vous remarquerez que nous avons
+
+74
+00:02:20,640 --> 00:02:23,680
+cette page d'autorisation qui apparaît
+
+75
+00:02:22,160 --> 00:02:24,400
+la première fois que vous vous rendez sur un site qui
+
+76
+00:02:23,680 --> 00:02:26,239
+demande
+
+77
+00:02:24,400 --> 00:02:28,000
+d'accéder à votre extension, la page vous donne
+
+78
+00:02:26,239 --> 00:02:29,040
+des informations sur ce qu'est le site,
+
+79
+00:02:28,000 --> 00:02:32,160
+son url,
+
+80
+00:02:29,040 --> 00:02:34,400
+et vous donne un avertissement
+
+81
+00:02:32,160 --> 00:02:36,480
+pour dire que vous devriez
+
+82
+00:02:34,400 --> 00:02:38,319
+seulement autoriser les applications que vous connaissez
+
+83
+00:02:36,480 --> 00:02:40,480
+et que vous comprenez
+
+84
+00:02:38,319 --> 00:02:41,760
+c'est une bonne idée de vérifier l'url
+
+85
+00:02:40,480 --> 00:02:42,160
+qui est indiquée
+
+86
+00:02:41,760 --> 00:02:43,920
+et d'où provient cette demande
+
+87
+00:02:42,160 --> 00:02:45,599
+pour vous assurer que c'est bien l'url
+
+88
+00:02:43,920 --> 00:02:46,879
+que vous voulez
+
+89
+00:02:45,599 --> 00:02:48,840
+donc tout ça a l'air bon donc nous
+
+90
+00:02:46,879 --> 00:02:50,239
+allons cliquer sur oui autoriser cette application
+
+91
+00:02:48,840 --> 00:02:53,280
+à acceder
+
+92
+00:02:50,239 --> 00:02:56,239
+et maintenant nous voyons le portefeuille Polkadot
+
+93
+00:02:53,280 --> 00:02:57,760
+donc si je vais sur "comptes"
+
+94
+00:02:56,239 --> 00:03:00,080
+nous voyons que mon extension est dans
+
+95
+00:02:57,760 --> 00:03:03,040
+le portefeuille, je peux voir mon solde et
+
+96
+00:03:00,080 --> 00:03:05,280
+je peux envoyer des transactions depuis ici
+
+97
+00:03:03,040 --> 00:03:07,120
+donc voilà, c'est tout ce que vous
+
+98
+00:03:05,280 --> 00:03:08,800
+avez besoin de faire pour configurer un compte Polkadot
+
+99
+00:03:07,120 --> 00:03:11,040
+et maintenant vous pouvez utiliser votre extension sur
+
+100
+00:03:08,800 --> 00:03:13,599
+toutes les dApps
+
+101
+00:03:11,040 --> 00:03:17,519
+qui ont une compatibilité Polkadot
+
+102
+00:03:13,599 --> 00:03:17,519
+merci d'avoir regardé!
+
