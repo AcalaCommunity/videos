@@ -388,11 +388,11 @@ trochę jak
 
 98
 00:03:02,480 --> 00:03:06,560
-uh, szare kwadraty, to każda para
+te tutaj szare kwadraty, to są parachain`y
 
 99
 00:03:04,959 --> 00:03:09,280
-łańcuchy lub pojedyncze łańcuchy blokowe, które
+albo indywidualne blockchain`y, które
 
 100
 00:03:06,560 --> 00:03:11,200
@@ -400,43 +400,43 @@ są dostosowane do konkretnego celu
 
 101
 00:03:09,280 --> 00:03:13,360
-a to, co pokazuje ta grafika, jest miłe
+a to, co pokazuje ta grafika, jest czymś w rodzaju
 
 102
 00:03:11,200 --> 00:03:15,120
-of the future this is where
+w przyszłości gdzie
 
 103
 00:03:13,360 --> 00:03:17,280
-będziemy mieli sto lub więcej par
+będziemy mieli sto lub więcej
 
 104
 00:03:15,120 --> 00:03:19,599
-łańcuchy połączone z kusama
+parachain`ów podłączonych do Kusamy
 
 105
 00:03:17,280 --> 00:03:20,560
-i 100 lub więcej łańcuchów para podłączonych do
+i 100 lub więcej parachain`ów podłączonych do
 
 106
 00:03:19,599 --> 00:03:22,640
-kropki
+polkadot
 
 107
 00:03:20,560 --> 00:03:23,840
-wszystko w jednym rodzaju połączonego ekosystemu
+wszystko w jednym. Rodzaj połączonego ekosystemu
 
 108
 00:03:22,640 --> 00:03:25,280
-bo jak widać tutaj w
+ponieważ, jak możesz tutaj zobaczyć
 
 109
 00:03:23,840 --> 00:03:27,680
-na środku będzie most
+na środku będzie zbudowany
 
 110
 00:03:25,280 --> 00:03:28,480
-zbudowany między kropką i kusama aleama
+pomost pomiędzy polkadot i kusama, jednak
 
 111
 00:03:27,680 --> 00:03:30,879
@@ -444,43 +444,43 @@ w tym momencie
 
 112
 00:03:28,480 --> 00:03:32,000
-these two kind of multi-chain networks
+te dwa rodzaje wielołańcuchowych sieci
 
 113
 00:03:30,879 --> 00:03:34,560
-są faktycznie
+są właściwie
 
 114
 00:03:32,000 --> 00:03:36,000
-pretty um bare there's no pair of chains
+gołe, tam nie ma parachain`ów
 
 115
 00:03:34,560 --> 00:03:37,120
-połączony z którymkolwiek z nich, ale jest
+połączony z którymkolwiek z nich, ale to
 
 116
 00:03:36,000 --> 00:03:39,680
-just the beginning
+jest tylko początek
 
 117
 00:03:37,120 --> 00:03:41,200
-i jaki jest nasz cel w akala i karua
+i naszym celem w Acala i Karua jest
 
 118
 00:03:39,680 --> 00:03:43,040
-ma być pierwszym para łańcuchem w
+zostać pierwszym parachain`em w
 
 119
 00:03:41,200 --> 00:03:45,120
-publiczne gniazdo na kusama
+publicznym slot`cie Kusamy
 
 120
 00:03:43,040 --> 00:03:48,080
-z karua, a następnie bądź pierwszym para
+z Karurą, anastępnie zostać pierwszym
 
 121
 00:03:45,120 --> 00:03:51,440
-łańcuszek w kropki z akala
+parachain`em na polkadot z Acala
 
 122
 00:03:48,080 --> 00:03:53,280
@@ -488,43 +488,43 @@ więc z tym jako tłem
 
 123
 00:03:51,440 --> 00:03:55,360
-um tak jak wspomnieliśmy, że będziemy
+tak jak wspomnieliśmy, zamierzamy
 
 124
 00:03:53,280 --> 00:03:58,159
-mówić dzisiaj o karurze, która
+rozmawiaj dziś o Karurze, która
 
 125
 00:03:55,360 --> 00:04:00,239
-um, czy jesteśmy tym, co naprawdę widzimy?
+jest tym, co rzeczywiście widzimy
 
 126
 00:03:58,159 --> 00:04:02,959
-stawanie się jest rodzajem przeciwnego hubu
+staje się rodzajem centrum DeFi
 
 127
 00:04:00,239 --> 00:04:04,640
-ekosystemu kusama oraz
+w ekosystemie Kusama, jak również|
 
 128
 00:04:02,959 --> 00:04:06,239
-dostarczanie wielu różnych środków finansowych
+dostarcza wiele różnych produktów
 
 129
 00:04:04,640 --> 00:04:07,360
-produkty do
+finansowych do
 
 130
 00:04:06,239 --> 00:04:09,280
-wszystkie różne łańcuchy para i
+wszystkich innych parachain`ów i
 
 131
 00:04:07,360 --> 00:04:12,319
-applications that we'll be launching
+aplikacje, które zostaną uruchomione
 
 132
 00:04:09,280 --> 00:04:14,159
-w ekosystemie kusama
+w ekosystemie Kusama
 
 133
 00:04:12,319 --> 00:04:16,560
@@ -532,47 +532,47 @@ in my opinion there's no better way to
 
 134
 00:04:14,159 --> 00:04:17,359
-rozpocząć ekosystem kusama niż mieć
+startu dla ekosystemu Kusama, niż
 
 135
 00:04:16,560 --> 00:04:19,280
-koreańska premiera
+uruchomienie Karura
 
 136
 00:04:17,359 --> 00:04:21,040
-po pierwsze z powodu tego, co zamierzamy
+najpierw z powodów, które chcemy Tobie
 
 137
 00:04:19,280 --> 00:04:23,040
-wyjaśnij ci i to nie tylko
+wyjaśnić, i to nie są tylko
 
 138
 00:04:21,040 --> 00:04:26,080
-produkty, które będą akala i kuru
+produkty, które Acala i Kurura będą
 
 139
 00:04:23,040 --> 00:04:27,680
-w stanie z nich korzystać są w rzeczywistości
+mogły używać, w rzeczywistości to jest to
 
 140
 00:04:26,080 --> 00:04:29,440
-to, co nazywamy prymitywami, to jest
+co nazywamy prymitywami, to jest
 
 141
 00:04:27,680 --> 00:04:31,520
-rodzaj nowej koncepcji, ale jest zbudowany
+rodzaj nowej koncepcji, ale jest to wbudowane
 
 142
 00:04:29,440 --> 00:04:33,199
-trochę w samym blockchainiechain
+do samego blockchain`a
 
 143
 00:04:31,520 --> 00:04:34,880
-co oznacza, że ​​inne zespoły mogą:
+co oznacza, że ​​inne zespoły mogą
 
 144
 00:04:33,199 --> 00:04:36,720
-faktycznie wejść do ekosystemu i
+faktycznie przyjść do ekosystemu i
 
 145
 00:04:34,880 --> 00:04:39,360
@@ -580,11 +580,11 @@ wykorzystać to, co zbudował nasz zespół
 
 146
 00:04:36,720 --> 00:04:41,120
-więc na przykład dolar kura to
+na przykład dolar Karury jest
 
 147
 00:04:39,360 --> 00:04:42,800
-stabilna moneta, która będzie nie tylko używana
+stablecoin`em, który będzie nie tylko używany
 
 148
 00:04:41,120 --> 00:04:43,600
@@ -592,55 +592,55 @@ w naszych aplikacjach, ale może być używany
 
 149
 00:04:42,800 --> 00:04:46,639
-przez kogokolwiek
+przez każdego
 
 150
 00:04:43,600 --> 00:04:48,240
-w ekosystemie kusama, więc nie ma lepszego sposobu
+w ekosystemie Kusama, więc nie ma lepszego sposobu
 
 151
 00:04:46,639 --> 00:04:50,000
-to kind of kick start this ecosystem
+aby uruchomić ten ekosystem
 
 152
 00:04:48,240 --> 00:04:52,080
-than to build this kind of
+niż zbudować tego rodzaju
 
 153
 00:04:50,000 --> 00:04:53,600
-um najpierw znasz ważny fundament
+Najpierw ważny fundament
 
 154
 00:04:52,080 --> 00:04:55,440
-with karua and then allow
+z Karuą, a następnie zezwolić
 
 155
 00:04:53,600 --> 00:04:56,800
-trochę innych zespołów do zbudowania z czym
+innym zespołom na tworzenie z wykorzystaniem tego
 
 156
 00:04:55,440 --> 00:04:59,600
-zapewniamy
+dostarczamy do
 
 157
 00:04:56,800 --> 00:05:00,880
-ekosystem um, co tu widzisz
+ekosystemu, to co tu widzisz na
 
 158
 00:04:59,600 --> 00:05:02,880
-ekran jest
+ekranie jest
 
 159
 00:05:00,880 --> 00:05:04,400
-interfejs użytkownika rzeczywistego rodzaju
+to interfejs użytkownika, właściwie jest to rodzaj
 
 160
 00:05:02,880 --> 00:05:05,280
-warstwa aplikacji, którą posiada nasz zespół
+warstwy aplikacji, którą nasz zespół
 
 161
 00:05:04,400 --> 00:05:06,880
-zbudowany
+zbudował
 
 162
 00:05:05,280 --> 00:05:09,039
@@ -648,15 +648,15 @@ więc mamy te produkty, które są
 
 163
 00:05:06,880 --> 00:05:11,520
-wbudowany w sam blockchain, ale nasz
+wbudowane w sam blockchain, ale nasz
 
 164
 00:05:09,039 --> 00:05:13,680
-zespół zbudowany jest również na własnej sieci
+zespół również zbudował na własnej sieci
 
 165
 00:05:11,520 --> 00:05:14,880
-cały rodzaj warstwy aplikacyjnej
+cały szereg aplikacji
 
 166
 00:05:13,680 --> 00:05:18,400
@@ -664,15 +664,15 @@ które widzisz tutaj i to jest to
 
 167
 00:05:14,880 --> 00:05:22,080
-rutau's going to be demoing today
+Ruitao dziś zademonstruje
 
 168
 00:05:18,400 --> 00:05:24,240
-tylko po to, aby dokładniej wyjaśnić, o czym wspomniałem
+aby dokładniej wyjaśnić, o czym wspomniałem
 
 169
 00:05:22,080 --> 00:05:26,400
-about akala being a platform
+że Acala jest platformą
 
 170
 00:05:24,240 --> 00:05:27,680
@@ -680,7 +680,7 @@ dla aplikacji, a następnie również
 
 171
 00:05:26,400 --> 00:05:29,759
-warstwa aplikacji
+warstwą aplikacji
 
 172
 00:05:27,680 --> 00:05:31,199
