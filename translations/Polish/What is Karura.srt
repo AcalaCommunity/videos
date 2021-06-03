@@ -1032,11 +1032,11 @@ po prostu omówiłem to wszystko
 
 259
 00:08:16,240 --> 00:08:20,240
-a potem jest tylko najwyższy poziom
+i tutaj jest tylko spojrzenie
 
 260
 00:08:17,759 --> 00:08:20,800
-spójrz na ogólnie Carrera więc
+ogólne na Karurę, tak więc
 
 261
 00:08:20,240 --> 00:08:22,639
@@ -1048,67 +1048,67 @@ wszystkie produkty, które zbudowaliśmy
 
 263
 00:08:22,639 --> 00:08:26,639
-buduje się kilka mostów
+jest tam zbudowanych kilka mostów
 
 264
 00:08:24,800 --> 00:08:28,639
-w ekosystemie właśnie teraz
+w ekosystemie właśnie teraz, w szczególności
 
 265
 00:08:26,639 --> 00:08:31,360
-za, a przede wszystkim za
+dla lub przede wszystkim, dla
 
 266
 00:08:28,639 --> 00:08:33,039
-Bitcoin i ethereum już niedługo
+bitcoin`a i ethereum, więc już niedługo
 
 267
 00:08:31,360 --> 00:08:33,680
-po premierze zobaczymy ethereum
+po uruchomieniu zobaczymy walor
 
 268
 00:08:33,039 --> 00:08:36,399
-majątek
+ethereum
 
 269
 00:08:33,680 --> 00:08:37,680
-um zbywalne i użyteczne
+którymi będzie można handlować i będące w pewnym sensie użyteczne
 
 270
 00:08:36,399 --> 00:08:41,360
-w naszych pokładach i innych
+w naszych DEX`ach i w
 
 271
 00:08:37,680 --> 00:08:44,640
-w innych produktach i
+innych produktach
 
 272
 00:08:41,360 --> 00:08:46,800
-tak jak to jest zasadniczo karua w a
+tak więc, jak jest w zasadzie Karura w
 
 273
 00:08:44,640 --> 00:08:48,160
-w skrócie i bardzo podobny do akala
+w skrócie. Bardzo podobna do Acala
 
 274
 00:08:46,800 --> 00:08:48,720
-ale po prostu pozostaniemy w Korei
+ale po prostu pozostaniemy przy Karurze
 
 275
 00:08:48,160 --> 00:08:52,000
-dzisiejsze
+today's
 
 276
 00:08:48,720 --> 00:08:54,240
-prezentacja tak ostatnia
+prezentacji.
 
 277
 00:08:52,000 --> 00:08:55,839
-myślę, że to ostatni slajd, ale um
+Myślę, że jest to ostatni slajd
 
 278
 00:08:54,240 --> 00:08:57,360
-jedno pytanie, które zadaje wiele osób, to
+wiele ludzi pyta
 
 279
 00:08:55,839 --> 00:09:00,320
@@ -1116,87 +1116,87 @@ dlaczego zdecydowaliśmy się zbudować
 
 280
 00:08:57,360 --> 00:09:01,279
-kura na kusama oprócz akala on
+Karura na Kusamie poza Acalą na
 
 281
 00:09:00,320 --> 00:09:03,040
-kropki
+polkadot
 
 282
 00:09:01,279 --> 00:09:05,200
-a odpowiedź na to pytanie brzmi:
+a odpowiedź na to pytanie brzmi następująco
 
 283
 00:09:03,040 --> 00:09:08,160
-jesteśmy robimy to
+my to robimy
 
 284
 00:09:05,200 --> 00:09:10,320
-w oparciu o zapotrzebowanie użytkowników, więc ten kusama
+w oparciu o zapotrzebowanie użytkowników, aby środowisko
 
 285
 00:09:08,160 --> 00:09:12,000
-ecosystem and the polka dot ecosystem
+Kusamy i Polkadot
 
 286
 00:09:10,320 --> 00:09:13,760
-chociaż niektóre się pokrywają
+chociaż w pewnym stopniu się pokrywają
 
 287
 00:09:12,000 --> 00:09:14,160
-teraz też zupełnie inaczej i
+bardzo wyraźnie różnie się też od siebie różnią
 
 288
 00:09:13,760 --> 00:09:16,560
-oni mają
+Te sieci mają
 
 289
 00:09:14,160 --> 00:09:18,399
-dwie różne społeczności tokenów
+dwie różne społeczności posiadaczy
 
 290
 00:09:16,560 --> 00:09:20,080
-posiadacze z defi popytu
+tokenów z różnymi potrzebami DeFi
 
 291
 00:09:18,399 --> 00:09:22,000
-więc budujemy kurę, aby to służyć
+więc budujemy Karurę, aby to zaspokoić
 
 292
 00:09:20,080 --> 00:09:24,320
-przeciwstawić się żądaniu kusamy, a my będziemy
+potrzeby DeFi Kusamy, jak również będziemy
 
 293
 00:09:22,000 --> 00:09:26,000
-budowanie akali, aby zaspokoić zapotrzebowanie na d5
+budowali Acalę, aby zaspokoić potrzeby na DeFi
 
 294
 00:09:24,320 --> 00:09:28,399
-kropki
+Polkadot
 
 295
 00:09:26,000 --> 00:09:30,480
-um, ale kusama, jeśli masz tło
+Jednak Kusama, jeśli znasz podstawy
 
 296
 00:09:28,399 --> 00:09:33,200
-na kusama to ma być to miejsce
+projektu Kusama, w znaczeniu, że to być miejsce
 
 297
 00:09:30,480 --> 00:09:33,600
-bawić się eksperymentować i poniekąd
+do zabawy, eksperymentowania i poniekąd
 
 298
 00:09:33,200 --> 00:09:36,320
-uruchomić
+uruchomienia
 
 299
 00:09:33,600 --> 00:09:38,640
-produkty przed przejściem do polka dot ale
+produktów przed przeniesieniem do Polkadot, jednak
 
 300
 00:09:36,320 --> 00:09:40,000
-po intensywnych testach w sieci testowej
+już po intensywnych testach w sieci testowej
 
 301
 00:09:38,640 --> 00:09:42,240
@@ -1204,43 +1204,43 @@ więc kusama jest
 
 302
 00:09:40,000 --> 00:09:43,040
-absolutely not a test net at all it's
+absolutnie nie nie jest to sieć testowa
 
 303
 00:09:42,240 --> 00:09:46,000
-the the
+.
 
 304
 00:09:43,040 --> 00:09:48,000
-siatka testowa nazywa się rokoko i west end
+sieć testowa nazywa się rokoko i westend
 
 305
 00:09:46,000 --> 00:09:51,360
-things are tested on testnet then move
+rzeczy są testowane na testnecie, a następnie są przenoszone
 
 306
 00:09:48,000 --> 00:09:52,800
-do kusama, a potem do polka dot
+do Kusama, a potem do Polkadot
 
 307
 00:09:51,360 --> 00:09:54,480
-to, co budujemy, też jest trochę
+to, co budujemy, jest w pewnym rodzaju
 
 308
 00:09:52,800 --> 00:09:56,959
-zamierzam podążać podobną ścieżką
+będzie podążać podobną ścieżką
 
 309
 00:09:54,480 --> 00:09:58,240
-nasza sieć testowa nazywa się mandala, więc
+nasza sieć testowa nazywa się Mandala, więc
 
 310
 00:09:56,959 --> 00:09:59,760
-sieć testowa jest gdzie
+sieć testowa jest tam gdzie
 
 311
 00:09:58,240 --> 00:10:01,440
-zostaną zbudowane zupełnie nowe produkty i
+nowe produkty będą budowane i
 
 312
 00:09:59,760 --> 00:10:03,600
