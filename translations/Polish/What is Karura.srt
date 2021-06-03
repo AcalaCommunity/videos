@@ -688,39 +688,39 @@ jeśli widzisz ten schemat tutaj
 
 173
 00:05:29,759 --> 00:05:34,479
-to jest rodzaj pracy z
+to jest rodzaj działania z
 
 174
 00:05:31,199 --> 00:05:37,039
-podstawowa warstwa kusama i więcej
+warstwy podstawowej Kusamy
 
 175
 00:05:34,479 --> 00:05:38,720
-co to pokazuje, to jest kusama?
+To, co jest pokazane to Kusama, to jest
 
 176
 00:05:37,039 --> 00:05:40,479
-oczywiście ta wielołańcuchowa platforma, która
+oczywiście ta wielołańcuchowa platforma, którą
 
 177
 00:05:38,720 --> 00:05:41,919
-pokazałem ci i staramy się uzyskać
+pokazałem i dla której staramy się uzyskać
 
 178
 00:05:40,479 --> 00:05:43,759
-gniazdo w kusama
+slot w Kusamie
 
 179
 00:05:41,919 --> 00:05:45,120
-a to, co nam pozwala, to podłączyć
+i to pozwala nam podłączyć się
 
 180
 00:05:43,759 --> 00:05:47,840
-w tym całym
+do tego
 
 181
 00:05:45,120 --> 00:05:49,199
-rodzaj pomarańczowego pudełka, którym jest kura
+jakby pomarańczowego pudełka, którym jest Karura
 
 182
 00:05:47,840 --> 00:05:50,880
@@ -728,51 +728,51 @@ i to jest nasz blockchain to jest
 
 183
 00:05:49,199 --> 00:05:52,800
-warstwa pierwsza blockchain równoważna
+warstwa pierwsza blockchain, równoważna z
 
 184
 00:05:50,880 --> 00:05:55,840
-coś takiego jak ethereum dzisiaj
+czymś takim jak ethereum dzisiaj
 
 185
 00:05:52,800 --> 00:05:58,400
-a w karua jest wiele
+W Karurze jest wiele
 
 186
 00:05:55,840 --> 00:05:59,680
-prymitywne lub zbudowane produkty finansowe
+podstaw lub zbudowanych produktów finansowych
 
 187
 00:05:58,400 --> 00:06:01,919
-z którym możemy korzystać
+z których możemy korzystać
 
 188
 00:05:59,680 --> 00:06:04,000
-in applications on top of this so you
+w aplikacjach na tym, tak więc
 
 189
 00:06:01,919 --> 00:06:06,560
-widzę tutaj stabilną monetę, o której wspomniałem
+możesz zobaczyć stablecoin, o którym wspomniałem
 
 190
 00:06:04,000 --> 00:06:08,960
-liquid ksm staking which allows you to
+staking płynnego KSM, który pozwalaja ci
 
 191
 00:06:06,560 --> 00:06:11,120
-podać ksm i faktycznie uzyskać pokwitowanie za
+stakować KSM i właściwie uzyskać możliwość
 
 192
 00:06:08,960 --> 00:06:12,960
-że możesz użyć w defy
+wykorzystania w DeFi
 
 193
 00:06:11,120 --> 00:06:14,560
-zamiast po prostu stawiać swój ksm i to
+zamiast tylko stakować swój KSM, i
 
 194
 00:06:12,960 --> 00:06:15,120
-bycie zamkniętym i uwięzionym tam i
+być w pewnym rodzaju zablokowanym i
 
 195
 00:06:14,560 --> 00:06:18,720
@@ -780,11 +780,11 @@ nie
 
 196
 00:06:15,120 --> 00:06:21,600
-użyteczny innym aspektem są nasze decki
+użytecznym. Kolejnym rodzajem są nasze DEX`y
 
 197
 00:06:18,720 --> 00:06:22,160
-który rutau zademonstruje tutaj wkrótce i
+które Ruitao zademonstruje tutaj wkrótce i
 
 198
 00:06:21,600 --> 00:06:24,319
@@ -792,59 +792,59 @@ następnie
 
 199
 00:06:22,160 --> 00:06:26,639
-niektórzy z was, o których zawsze mówimy
+niektórzy z Was, zawsze rozmawiają o tym
 
 200
 00:06:24,319 --> 00:06:27,919
-jak można dostosować łańcuchy bloków za pomocą
+jak blockchain można dostosować z
 
 201
 00:06:26,639 --> 00:06:30,800
-podłoże i zabudowany
+Substrate i budować
 
 202
 00:06:27,919 --> 00:06:32,319
-dla konkretnych przypadków użycia i oto co
+dla konkretnych zastosowań i oto co
 
 203
 00:06:30,800 --> 00:06:34,479
-rozumiemy przez to
+rozumiemy przez sformuowanie
 
 204
 00:06:32,319 --> 00:06:36,319
-przynieś własny gaz to funkcja, która
+przynieś swój własny gaz, to jest to funkcja, którą
 
 205
 00:06:34,479 --> 00:06:38,080
-trasa pokaże się również dzisiaj
+dziś również zademonstruujemy
 
 206
 00:06:36,319 --> 00:06:40,240
-um, to jest funkcja, którą mamy
+Jest to funkcja, którą
 
 207
 00:06:38,080 --> 00:06:42,080
-customized specifically for our chain
+dostosowaliśmy specjalnie dla Naszych sieci
 
 208
 00:06:40,240 --> 00:06:44,560
-dla kuru i akali, bo się staramy
+Karura i Acala, ponieważ próbujemy
 
 209
 00:06:42,080 --> 00:06:46,720
-to make them specialized for d5
+wyspecjalizować je w DeFi
 
 210
 00:06:44,560 --> 00:06:48,080
-i co to pozwala, jeśli masz?
+i co Ci pozwoli, jeśli kiedykolwiek
 
 211
 00:06:46,720 --> 00:06:49,440
-kiedykolwiek używany d5 i ethereum
+korzystałeś z DeFi i ethereum
 
 212
 00:06:48,080 --> 00:06:51,199
-wiesz, że nie możesz nic zrobić
+wiesz, że nie możesz zrobić żadnej
 
 213
 00:06:49,440 --> 00:06:53,759
@@ -856,39 +856,39 @@ eth i jeśli jesteś nowym użytkownikiem ethereum
 
 215
 00:06:53,759 --> 00:06:57,039
-najpierw musisz się nauczyć, kim jesteś
+najpierw musisz się nauczyć, czym jest eth
 
 216
 00:06:55,520 --> 00:06:59,599
-muszę to znaleźć
+musisz je zdobyć
 
 217
 00:06:57,039 --> 00:07:01,520
-to trudny proces, ale przynoszący
+to trudny proces, jednak z funkcją przynieś
 
 218
 00:06:59,599 --> 00:07:02,720
-Twój własny gaz z kuru i akalą to będzie
+swój własny gaz z Karura i Acala to
 
 219
 00:07:01,520 --> 00:07:05,599
-pozwól ludziom przyprowadzić
+pozwoli ludziom wziąć
 
 220
 00:07:02,720 --> 00:07:07,919
-dowolny żeton i natychmiast zapłać the
+każdy token i natychmiast zapłać
 
 221
 00:07:05,599 --> 00:07:10,560
-wstępna opłata transakcyjna z tym tokenem
+wstępna opłata transakcyjna tym tokenem
 
 222
 00:07:07,919 --> 00:07:11,599
-więc na przykład ktoś przynoszący bitcoin
+więc na przykład ktoś wnosi bitcoin`y
 
 223
 00:07:10,560 --> 00:07:14,000
-ponad do
+do
 
 224
 00:07:11,599 --> 00:07:14,880
