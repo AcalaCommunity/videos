@@ -880,7 +880,7 @@ każdy token i natychmiast zapłać
 
 221
 00:07:05,599 --> 00:07:10,560
-wstępna opłata transakcyjna tym tokenem
+wstępną opłatę transakcyjną tym tokenem
 
 222
 00:07:07,919 --> 00:07:11,599
@@ -892,31 +892,31 @@ do
 
 224
 00:07:11,599 --> 00:07:14,880
-Carrera byłaby w stanie przynieść
+Karura i ma możliwość wziąć
 
 225
 00:07:14,000 --> 00:07:17,759
-bitcoin skończony
+bitcoin poprzez
 
 226
 00:07:14,880 --> 00:07:19,039
-po prostu zawinąć i wydać na kusama
+po prostu zrobić wrap i używać go na Kusama
 
 227
 00:07:17,759 --> 00:07:21,039
-w kurze, a potem
+w Karurze, a następne
 
 228
 00:07:19,039 --> 00:07:23,120
-być w stanie zapłacić ich inicjał, może to
+być w stanie zapłacić ich transakcję, może to być
 
 229
 00:07:21,039 --> 00:07:23,759
-zamiana może to przelew, ale płacę
+zamiana, czy przesłanie tokenów, ale opłata
 
 230
 00:07:23,120 --> 00:07:26,560
-ta opłata
+za to fee
 
 231
 00:07:23,759 --> 00:07:27,440
@@ -924,39 +924,39 @@ w BTC zamiast wychodzić
 
 232
 00:07:26,560 --> 00:07:29,520
-i znajdź
+i szukać
 
 233
 00:07:27,440 --> 00:07:31,520
-token kar, który jest rodzajem użyteczności
+tokenów KAR, który jest rodzajem tokena
 
 234
 00:07:29,520 --> 00:07:33,759
-znak kura
+użyteczności w Karurze
 
 235
 00:07:31,520 --> 00:07:35,199
-i na koniec akala evm jest trochę
+i na koniec Acala EVM jest czymś w rodzaju
 
 236
 00:07:33,759 --> 00:07:36,800
-inny wyspecjalizowany
+następnego wyspecjalizowanego
 
 237
 00:07:35,199 --> 00:07:38,400
-środowisko ethereum, które zbudowaliśmy
+środowiska ethereum, które zbudowaliśmy
 
 238
 00:07:36,800 --> 00:07:41,840
-specjalnie dla kura
+konkretnie dla Karury
 
 239
 00:07:38,400 --> 00:07:43,440
-i akala, więc z tym stwierdzeniem, że to
+i Acali, więc można stwierdzić, że to jest
 
 240
 00:07:41,840 --> 00:07:44,080
-warstwa pierwsza tutaj w środku to jest
+warstwa pierwsza. Tutaj w środku to jest
 
 241
 00:07:43,440 --> 00:07:46,879
@@ -964,67 +964,67 @@ blockchain
 
 242
 00:07:44,080 --> 00:07:48,560
-sam, a na dodatek nasz zespół
+sam w sobie, i na tym nasz zespół
 
 243
 00:07:46,879 --> 00:07:50,240
-zbudował już całość
+już zbudował całą
 
 244
 00:07:48,560 --> 00:07:52,080
-application that leverages all these
+aplikację która wykorzystuje te wszystkie
 
 245
 00:07:50,240 --> 00:07:53,599
-rzeczy, o których ci właśnie wspomniałem, więc
+rzeczy, o których właśnie wspomniałem, więc
 
 246
 00:07:52,080 --> 00:07:55,840
-routeau what he'll be talking through
+Ruitao, to o czym on dziś będzie mówił
 
 247
 00:07:53,599 --> 00:07:58,080
-dzisiaj jest nasz jak cały nasz apartament kind
+jest naszym całym pakietem
 
 248
 00:07:55,840 --> 00:08:00,400
-aplikacji, na których zbudowano
+aplikacji, które zbudowano na
 
 249
 00:07:58,080 --> 00:08:01,919
-nasz blockchain, a następnie utrzymywanie tego w
+naszym blockchain`ie, miejcie to na
 
 250
 00:08:00,400 --> 00:08:03,599
-pamiętaj, że jest też
+uwadze, że tam jest także
 
 251
 00:08:01,919 --> 00:08:05,120
-oczywiście jest to otwarta platforma, więc
+jest to otwarta platforma, oczywiście, więc
 
 252
 00:08:03,599 --> 00:08:06,560
-to nie będzie tylko Carrera
+to nie będzie tylko Karura
 
 253
 00:08:05,120 --> 00:08:08,319
-budowanie aplikacji to będzie
+tworzyła aplikacje, to będą również
 
 254
 00:08:06,560 --> 00:08:09,680
-inne zespoły budują na tym
+inne zespoły przychodzące i budujące w tym
 
 255
 00:08:08,319 --> 00:08:12,720
-otwarte środowisko, które mamy
+otwartym środowisku, które
 
 256
 00:08:09,680 --> 00:08:14,080
-we've created
+stworzyliśmy
 
 257
 00:08:12,720 --> 00:08:16,240
-nie muszę przez to przechodzić, ponieważ
+Nie muszę tego omawiać, ponieważ
 
 258
 00:08:14,080 --> 00:08:17,759
