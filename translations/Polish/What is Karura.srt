@@ -2480,91 +2480,91 @@ wskaźnika likwidacji, opłaty likwidacyjnej
 
 621
 00:19:51,600 --> 00:19:55,440
-jobs ldots ksm lksm they might all have
+DOT, LDOT, KSM, LKSM, one wszystkie mogą mieć
 
 622
 00:19:54,640 --> 00:19:57,520
-different
+różne
 
 623
 00:19:55,440 --> 00:19:58,880
-ratio they'll be managed and governed by
+wskaźniki, one będą zarządzane w
 
 624
 00:19:57,520 --> 00:20:01,280
-the governance process
+przez proces zarządzania
 
 625
 00:19:58,880 --> 00:20:02,480
-so that is essentially how you borrow
+tak, tak to zasadniczo wygląda, jak bierzesz kredyt
 
 626
 00:20:01,280 --> 00:20:05,840
-against um
+w zastaw
 
 627
 00:20:02,480 --> 00:20:08,799
-crychos in kura
+za krypto w Karura
 
 628
 00:20:05,840 --> 00:20:09,760
-let so maybe one thing we can do this
+być może możemy zrobić jedną rzecz, ta
 
 629
 00:20:08,799 --> 00:20:12,240
-concept
+koncepcja
 
 630
 00:20:09,760 --> 00:20:13,840
-of collateralization and taking loans is
+zabezpieczeń i zaciągania pożyczek jest
 
 631
 00:20:12,240 --> 00:20:15,360
-probably new to a lot of people i know
+prawdopodobnie nowa dla wielu ludzi, których znam
 
 632
 00:20:13,840 --> 00:20:18,720
-it was new to me
+to było nowe dla mnie
 
 633
 00:20:15,360 --> 00:20:20,880
-um at one point and basically like to to
+w jednym momencie i właściwie chciałbym
 
 634
 00:20:18,720 --> 00:20:23,280
-make this as simple as possible
+uczynić to w miarę możliwości najprostszym
 
 635
 00:20:20,880 --> 00:20:24,720
-um like i think many of us are aware of
+Myślę, że wielu z nas jest świadomych
 
 636
 00:20:23,280 --> 00:20:26,720
-how like a home
+że, tak jak pożyczki na dom
 
 637
 00:20:24,720 --> 00:20:28,720
-loan works where typically you might put
+działają, gdzie zazwyczaj musisz wpłacić
 
 638
 00:20:26,720 --> 00:20:31,200
-like 10 down or 20
+jakieś 10 czy 20 procent
 
 639
 00:20:28,720 --> 00:20:32,080
-down that cash that you put down is what
+tej gotówki, którą pożyczasz
 
 640
 00:20:31,200 --> 00:20:34,240
-you're putting
+dokonujesz wkładu własnego
 
 641
 00:20:32,080 --> 00:20:35,600
-down in order to get the full the full
+aby uzyskać pełną
 
 642
 00:20:34,240 --> 00:20:36,480
-loan of whatever you're getting for that
+pożyczkę na cokolwiek na co pożyczasz, czy na
 
 643
 00:20:35,600 --> 00:20:39,679
@@ -2572,143 +2572,143 @@ dom
 
 644
 00:20:36,480 --> 00:20:41,440
-but with the way this works in crypto um
+ale w sposób w jaki to działa w kryptowalutach
 
 645
 00:20:39,679 --> 00:20:42,799
-we're actually over you're over
+My właściwie, Ty właściwie więcej
 
 646
 00:20:41,440 --> 00:20:45,039
-collateralizing
+zabezpieczasz, niż
 
 647
 00:20:42,799 --> 00:20:46,240
-the loan so that's why these collateral
+pożyczasz. Więc, to jest powód dlaczego te wskaźniki
 
 648
 00:20:45,039 --> 00:20:49,200
-ratios are over
+zabezpieczenia przekraczają
 
 649
 00:20:46,240 --> 00:20:51,039
-100 and you're what you're doing like
+100 procent. To co robisz, to jest
 
 650
 00:20:49,200 --> 00:20:52,880
-what it really means of collateral
+to co tak naprawdę oznacza zabezpieczenie
 
 651
 00:20:51,039 --> 00:20:54,640
-is that you're actually taking bitcoin
+to jest tak,  że faktycznie bierzesz bitcoiny
 
 652
 00:20:52,880 --> 00:20:57,120
-something like bitcoin
+coś takiego jak bitcoiny
 
 653
 00:20:54,640 --> 00:20:58,080
-you don't need to sell it but you can
+nie musisz tego sprzedawać, ale możesz
 
 654
 00:20:57,120 --> 00:21:01,120
-pull out
+wyjąć
 
 655
 00:20:58,080 --> 00:21:03,280
-um ausd a stablecoin with your bitcoin
+aUSD, "stablecoin" za pomocą Twojego Bitcoina
 
 656
 00:21:01,120 --> 00:21:04,320
-still there not sold and then you can
+nadal nie jest sprzedana, a potem możesz
 
 657
 00:21:03,280 --> 00:21:06,240
-take the ausd
+wziąć aUSD
 
 658
 00:21:04,320 --> 00:21:07,919
-and either you can send that to people
+i albo możesz to wysłać do ludzi
 
 659
 00:21:06,240 --> 00:21:10,080
-you can make payments you can
+możesz dokonać płatności
 
 660
 00:21:07,919 --> 00:21:11,200
-use that to provide liquidity within our
+moższ zapewnić płynność w obrębie naszego
 
 661
 00:21:10,080 --> 00:21:13,200
-decks but
+DEX`a, ale
 
 662
 00:21:11,200 --> 00:21:15,120
-that's essentially what this collateral
+to jest zasadniczo to, co ten wskaźnik zabezpieczenia
 
 663
 00:21:13,200 --> 00:21:16,240
-ratio means and i don't know ruta if you
+znaczy. Nie wiem Ruitao, czy Ty
 
 664
 00:21:15,120 --> 00:21:19,200
-have any more to
+masz coś więcej do
 
 665
 00:21:16,240 --> 00:21:21,200
-add to that yeah essentially give you
+dodania. Tak, zasadniczo to daje Ci
 
 666
 00:21:19,200 --> 00:21:22,240
-more utility um to the asset that you
+większą użyteczność aktywów które możesz
 
 667
 00:21:21,200 --> 00:21:25,120
-are holding to
+trzymać
 
 668
 00:21:22,240 --> 00:21:25,840
-that you might not want to sell or in in
+których możesz nie chcieć sprzedać, albo
 
 669
 00:21:25,120 --> 00:21:28,880
-short term
+w najbliższym czasie
 
 670
 00:21:25,840 --> 00:21:31,679
-and for example for fukusama for for
+dla przykładu, KSM, czy
 
 671
 00:21:28,880 --> 00:21:34,080
-lksm those are perfectly great
+LKSM są dla Ciebie doskonałą możliwością
 
 672
 00:21:31,679 --> 00:21:36,400
-collectors for you to gain more utility
+dającą większą użyteczność
 
 673
 00:21:34,080 --> 00:21:38,480
-out of your 16 kusama holdings you can
+dla posiadanych przez Ciebie KSM, możesz
 
 674
 00:21:36,400 --> 00:21:40,400
-go long you can go short you can
+iść long, albo short
 
 675
 00:21:38,480 --> 00:21:42,080
-it's i mean the option is it's in your
+oznacza to, że opcja jest w twoich
 
 676
 00:21:40,400 --> 00:21:42,960
-hand to decide how you're going to use
+rękach aby zadecydować, jak zamierzasz użyć
 
 677
 00:21:42,080 --> 00:21:46,240
-this collector
+ten kolektor
 
 678
 00:21:42,960 --> 00:21:49,280
-um to trade and ride with the market
+do handlu i poruszać się z rynkiem
 
 679
 00:21:46,240 --> 00:21:51,520
@@ -2716,83 +2716,83 @@ and broderick asked what about
 
 680
 00:21:49,280 --> 00:21:52,400
-interest so are you paying interest when
+odsetki są płacone w momencie
 
 681
 00:21:51,520 --> 00:21:55,440
-you're taking out
+kiedy wychodzisz z
 
 682
 00:21:52,400 --> 00:21:57,280
-these loans and how does that work yes
+tych pożyczek i w taki sposób to właściwie działa
 
 683
 00:21:55,440 --> 00:21:59,360
-so the interest essentially is what we
+więc, główne oprocentowanie jest tym co
 
 684
 00:21:57,280 --> 00:22:00,559
-call the stabilization fee
+nazywamy stabilizującą opłatą "stabilization fee"
 
 685
 00:21:59,360 --> 00:22:02,720
-if you take a long there will be
+Jeżeli bieżesz pożyczkę na dłuższy czas
 
 686
 00:22:00,559 --> 00:22:04,880
-definitely some interest occur
+z pewnością pojawią się jakieś odsetki
 
 687
 00:22:02,720 --> 00:22:07,200
-and this is also the interest used to
+i to są również odsetki używane podczas
 
 688
 00:22:04,880 --> 00:22:09,919
-manage the supply and demand
+zarządzaniem podażą i popytem
 
 689
 00:22:07,200 --> 00:22:11,600
-of the stablecar as well as like the um
+dla stablecoin`ów, jak również
 
 690
 00:22:09,919 --> 00:22:12,240
-the way to maintain that the stablecoin
+sposób utrzymania tej stablecoiny
 
 691
 00:22:11,600 --> 00:22:14,960
-will be
+będzie
 
 692
 00:22:12,240 --> 00:22:15,760
-packed to to to a dollar in value and
+zapakowane do dolara pod względem wartości oraz
 
 693
 00:22:14,960 --> 00:22:18,320
-the increase
+wzrost
 
 694
 00:22:15,760 --> 00:22:20,159
-um all the stabilization fee will be
+wszystkich opłat stabilizacyjnych będzie
 
 695
 00:22:18,320 --> 00:22:23,600
-managed by the governance process
+zarządzany w ramach procesu zarządzania
 
 696
 00:22:20,159 --> 00:22:25,919
-really depends on demands and supplies
+naprawdę zależy od podaży i popytu
 
 697
 00:22:23,600 --> 00:22:28,240
-and do you know your interest rate
+i znasz swoją stopę procentową
 
 698
 00:22:25,919 --> 00:22:29,679
-before you take out the loan
+przed zaciągnięciem pożyczki
 
 699
 00:22:28,240 --> 00:22:30,799
-obviously definitely so let's say that
+Oczywiście z całą pewnością powiedzmy, że:
 
 700
 00:22:29,679 --> 00:22:33,440
