@@ -1492,7 +1492,7 @@ to będzie widok strony
 
 374
 00:11:53,600 --> 00:11:57,519
-for kuruwadla Karura
+Karura
 
 375
 00:11:54,800 --> 00:11:58,959
@@ -1524,31 +1524,31 @@ wyspecjalizowaną siecią i oczywiście
 
 382
 00:12:09,440 --> 00:12:13,279
-najważniejszych funkcji
+najważniejszą funkcją jest
 
 383
 00:12:10,880 --> 00:12:15,680
-Generalnie, mamy tryb ciemny, który
+tryb ciemny, który
 
 384
 00:12:13,279 --> 00:12:17,680
-pasuje do ustalonego przez zepół
+pasuje do ustalonego przez zepół Acala
 
 385
 00:12:15,680 --> 00:12:19,120
-kolorystyka wygląda naprawdę niesamowicie umschematu kolorów. Wygląda to niesamowicie
+schematu kolorów. Wygląda to niesamowicie
 
 386
 00:12:17,680 --> 00:12:20,399
-tak będzie wyglądać
+tak to będzie wyglądać
 
 387
 00:12:19,120 --> 00:12:22,720
-jako DeFi
+jako skórka domyślna
 
 388
 00:12:20,399 --> 00:12:23,519
-schemat kolorów podczas, kiedy
+kiedy
 
 389
 00:12:22,720 --> 00:12:25,760
@@ -1556,15 +1556,15 @@ uruchamiamy
 
 390
 00:12:23,519 --> 00:12:26,880
-aktualna sieć po raz pierwszy
+sieć Karura i na pierwszej stronie
 
 391
 00:12:25,760 --> 00:12:29,120
-co mam zamiar pokazać
+którą mam zamiar pokazać
 
 392
 00:12:26,880 --> 00:12:30,480
-to strona portfela, to jest miejsce, w którym ty
+jest strona portfela, to jest miejsce, w którym Ty
 
 393
 00:12:29,120 --> 00:12:33,279
@@ -1572,7 +1572,7 @@ zarządzaj wszystkimi swoimi aktywami
 
 394
 00:12:30,480 --> 00:12:33,920
-w ramach projektu Karura oraz możesz
+w ramach parachain`a Karura oraz możesz
 
 395
 00:12:33,279 --> 00:12:35,680
@@ -1600,131 +1600,131 @@ możesz je swobodnie przesłać do innych
 
 401
 00:12:43,600 --> 00:12:46,560
-voltages by just interacting with this
+portfeli przez interakcję z tym
 
 402
 00:12:45,680 --> 00:12:48,399
-aplikacja front-end
+widokiem strony aplikacji
 
 403
 00:12:46,560 --> 00:12:50,560
-możesz zarządzać swoimi aktywami tak, jak chcesz
+możesz zarządzać swoimi aktywami, jak
 
 404
 00:12:48,399 --> 00:12:52,720
-one of the
+jeden ze
 
 405
 00:12:50,560 --> 00:12:54,399
-agregacja Twoich aktywów, aby uzyskać dostęp
+zgromadzonych Twoich aktywów, masz dostęp
 
 406
 00:12:52,720 --> 00:12:57,760
-to value transfer
+aby przesłać wartość
 
 407
 00:12:54,399 --> 00:13:01,279
-lub uzyskaj dostęp do rzeczy takich jak bicie btc
+albo uzyskać dostęp do takich rzeczy jak minting btc
 
 408
 00:12:57,760 --> 00:13:03,200
-mięta w poca btc lub zrób między produkcją
+minting polkaBTC, albo przesłać środki do
 
 409
 00:13:01,279 --> 00:13:04,480
-przenieś na przykład jeśli chcę
+innego parachain`a. Na przykład jeżeli chcesz
 
 410
 00:13:03,200 --> 00:13:07,200
-transfer
+przesłać
 
 411
 00:13:04,480 --> 00:13:08,079
-aktywa alkoholowe od plamki do na przykład
+aktywa z Acala do na przykład
 
 412
 00:13:07,200 --> 00:13:10,639
-hydra decks
+hydra Dex
 
 413
 00:13:08,079 --> 00:13:12,160
-mogę wybrać tutaj i zrobić wymianę
+mogę tutaj wybrać i zrobić wymianę
 
 414
 00:13:10,639 --> 00:13:15,040
-uh transfer so this is
+przelew, więc to
 
 415
 00:13:12,160 --> 00:13:16,240
-prawie wygląda jak użytkownik bardzo
+wygląda prawie tak, jak bardzo przyjazny
 
 416
 00:13:15,040 --> 00:13:18,480
-friendly wallet they can
+użytkownikowi portfel
 
 417
 00:13:16,240 --> 00:13:20,320
-you can access like um in my opinion way
+w mojej opinii masz lepszy dostęp
 
 418
 00:13:18,480 --> 00:13:22,560
-lepsze niż po prostu um
+niż
 
 419
 00:13:20,320 --> 00:13:23,519
-niż tylko używanie polkadot.js do do to
+używanie polkadot.js, aby
 
 420
 00:13:22,560 --> 00:13:25,760
-wchodzić w interakcje z with
+mieć interakcje z
 
 421
 00:13:23,519 --> 00:13:26,959
-blockchain, więc to jest to, czym byłem
+blockchain`em, więc to jest to, o co
 
 422
 00:13:25,760 --> 00:13:29,040
-zapytam, prawda
+chciałem zapytać
 
 423
 00:13:26,959 --> 00:13:30,399
-więc jak przez to przejdziemy, po prostu zamierzam
+zanim przez to przejdziemy, po prostu zamierzam
 
 424
 00:13:29,040 --> 00:13:31,839
-zadawaj pytania, o których myślę
+zadawać pytania, o których myślę
 
 425
 00:13:30,399 --> 00:13:33,760
-ludzie na widowni mogą być
+że odbiorcy mogą się
 
 426
 00:13:31,839 --> 00:13:34,000
-wondering so what you're showing here is
+zastanawiać, więc to co tutaj pokazujez
 
 427
 00:13:33,760 --> 00:13:36,240
-za
+jest to
 
 428
 00:13:34,000 --> 00:13:38,880
-wallet that can be used similar to
+portfel, który może być używany podobnie jak
 
 429
 00:13:36,240 --> 00:13:40,399
-ludzie mają teraz na polka dot js lub nawet
+ludzie teraz korzystają z polkadot.js, czy nawet
 
 430
 00:13:38,880 --> 00:13:42,079
-niektóre z ich portfeli mobilnych, ale
+niektóre z portfeli mobilnych, jednak
 
 431
 00:13:40,399 --> 00:13:43,839
-kiedy połączą to, co by zrobili, aby
+when they connect what they would do to
 
 432
 00:13:42,079 --> 00:13:45,040
-actually see these numbers here is it
+zobaczyli tutaj te numery
 
 433
 00:13:43,839 --> 00:13:45,760
