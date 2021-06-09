@@ -1720,59 +1720,59 @@ niektóre z portfeli mobilnych, jednak
 
 431
 00:13:40,399 --> 00:13:43,839
-when they connect what they would do to
+kiedy ludzie połączą się, to, to aby
 
 432
 00:13:42,079 --> 00:13:45,040
-zobaczyli tutaj te numery
+zobaczyli te numery, tutaj
 
 433
 00:13:43,839 --> 00:13:45,760
-poprawnie, że pójdą do
+poprawnie, powinni iść do
 
 434
 00:13:45,040 --> 00:13:47,680
-polka dot
+rozszerzenia przeglądarki polkadot.js
 
 435
 00:13:45,760 --> 00:13:49,680
-rozszerzenie js i połącz ich polka dot
+i połączyć swoje konta
 
 436
 00:13:47,680 --> 00:13:50,399
-konto js do tego portfela i byłoby
+polkadot.js z tym portfelem i
 
 437
 00:13:49,680 --> 00:13:53,040
-show
+pokazałyby się
 
 438
 00:13:50,399 --> 00:13:53,519
-ich salda na żywo w tym portfelu
+ich salda w czasie rzeczywistym w tym portfelu
 
 439
 00:13:53,040 --> 00:13:56,720
-is that
+jest to
 
 440
 00:13:53,519 --> 00:13:58,160
-tak tak tak zdecydowanie i poke.js
+zdecydowanie i rozszerzenie polkadot.js
 
 441
 00:13:56,720 --> 00:14:01,279
-jest bardzo podobny do
+jest bardzo podobne do
 
 442
 00:13:58,160 --> 00:14:03,440
-odpowiednik metamaski na kropkach
+metamaska, taki odpowiednik metamask`a na polkadot
 
 443
 00:14:01,279 --> 00:14:04,959
-możesz w tym zarządzać wieloma kontami
+możesz zarządzać wieloma kontami w
 
 444
 00:14:03,440 --> 00:14:06,399
-sekcja portfela, więc mogę się zmienić
+sekcji portfela, więc mogę zmienić
 
 445
 00:14:04,959 --> 00:14:08,320
@@ -1780,11 +1780,11 @@ na inne konto demo tutaj
 
 446
 00:14:06,399 --> 00:14:10,320
-możesz zobaczyć wszystkie rzeczy, na których odświeżam
+możesz tutaj zobaczyć wszystkie rzeczy, odświeżam
 
 447
 00:14:08,320 --> 00:14:11,279
-mucha, którą mogę zmienić z powrotem na mój oryginał
+na bieżąco, i mogę zmienić z powrotem na moje oryginalne
 
 448
 00:14:10,320 --> 00:14:13,279
@@ -1792,59 +1792,59 @@ konto demo
 
 449
 00:14:11,279 --> 00:14:14,399
-możesz też zobaczyć historię swojego
+możesz również zobaczyć historię swoich
 
 450
 00:14:13,279 --> 00:14:16,240
-przeszła transakcja
+transakcji
 
 451
 00:14:14,399 --> 00:14:17,440
-bardzo bardzo przyjazny dla użytkownika bardzo bardzo
+więc jest to bardzo przyjazny dla użytkownika, bardzo
 
 452
 00:14:16,240 --> 00:14:20,160
-consumer focused
+skoncentrowany na konsumencie
 
 453
 00:14:17,440 --> 00:14:21,920
-to jest twój jedyny przystanek, aby
+to twój pojedynczy przystanek do
 
 454
 00:14:20,160 --> 00:14:30,160
-dostęp do swoich zasobów
+dostępu do Twoich zasobów
 
 455
 00:14:21,920 --> 00:14:32,560
-na kurai
+na Karura
 
 456
 00:14:30,160 --> 00:14:34,079
-so then do do we want to um see if
+Tak, więc, Dan czy
 
 457
 00:14:32,560 --> 00:14:34,480
-są jakieś pytania, które chciał(a)bym zadać
+są jakieś pytania, które chciałbyś zadać?
 
 458
 00:14:34,079 --> 00:14:36,800
-um
+hmm
 
 459
 00:14:34,480 --> 00:14:38,639
-do odpowiedzi w sprawie tego portfela
+w sprawie tego interfejsu portfela
 
 460
 00:14:36,800 --> 00:14:39,199
-interfejs czy powinniśmy kontynuować pracę
+czy powinniśmy kontynuować pracę i
 
 461
 00:14:38,639 --> 00:14:41,279
-na
+przejść do
 
 462
 00:14:39,199 --> 00:14:42,399
-następna sekcja, która jest pożyczeniem uh
+następnej sekcji, którą jest branie pożyczki
 
 463
 00:14:41,279 --> 00:14:45,600
@@ -1852,15 +1852,15 @@ pożyczanie
 
 464
 00:14:42,399 --> 00:14:49,040
-stabilnej monety
+stablecoin`ów
 
 465
 00:14:45,600 --> 00:14:49,040
-um zobaczmy
+zobaczmy
 
 466
 00:14:49,519 --> 00:14:52,959
-it might be hard to actually sort
+może być trudne aby posortować
 
 467
 00:14:51,279 --> 00:14:55,600
@@ -1868,39 +1868,39 @@ przez to
 
 468
 00:14:52,959 --> 00:14:57,199
-pudełko to w porządku, więc jeśli macie
+pudełko. W porządku, więc jeśli macie jakieś
 
 469
 00:14:55,600 --> 00:14:59,440
-pytania specyficzne dla jednego z nich
+specyficzne pytania do którejś z tych
 
 470
 00:14:57,199 --> 00:15:02,000
-demos i'll be actually watching this the
+demonstracji. Będe obserwował
 
 471
 00:14:59,440 --> 00:15:04,079
-porozmawiaj tutaj, więc
+czat, więc
 
 472
 00:15:02,000 --> 00:15:05,360
-which wall someone says which wallet is
+ktoś pyta, który portfel
 
 473
 00:15:04,079 --> 00:15:09,040
-wybrany do tego jest to
+został do tego wybrany
 
 474
 00:15:05,360 --> 00:15:12,160
-ksm portfel um
+portfel KSM
 
 475
 00:15:09,040 --> 00:15:14,639
-cóż, to jest jak um
+cóż, jest to tak jak
 
 476
 00:15:12,160 --> 00:15:15,199
-jeśli używasz pocket.js jako rozszerzenia
+Jeżeli używasz rozszerzenia polkadot.js
 
 477
 00:15:14,639 --> 00:15:17,680
@@ -1908,55 +1908,55 @@ to jest
 
 478
 00:15:15,199 --> 00:15:18,800
-zasadniczo twój dostęp do obu kusama
+zasadniczo twój dostęp do obu sieci: Kusama
 
 479
 00:15:17,680 --> 00:15:22,320
-i polkadot
+i Polkadot
 
 480
 00:15:18,800 --> 00:15:24,160
-and kura and alcohol like every single
+do Karura i Acala, każdy
 
 481
 00:15:22,320 --> 00:15:26,320
-blockchain tematyczny, będą
+tematyczny blockchain, będzie
 
 482
 00:15:24,160 --> 00:15:27,519
-all be manageable by pocket.js
+obsługiwany przez polkadot.js
 
 483
 00:15:26,320 --> 00:15:29,519
-so think about this it's like a
+Więc pomyśl o tym, jak
 
 484
 00:15:27,519 --> 00:15:32,480
-multifunction version of metamask you
+wielofunkcyjna wersja metamask`a
 
 485
 00:15:29,519 --> 00:15:34,360
-arrive at carrura and you access to your
+Łączysz sie z Karura i masz dostęp do swoich
 
 486
 00:15:32,480 --> 00:15:37,920
-aktualny zasób używając swojego sam
+zasobów na Karura, używając tego samego
 
 487
 00:15:34,360 --> 00:15:37,920
-rozszerzenie pog.js
+rozszerzenia polkadot.js
 
 488
 00:15:38,560 --> 00:15:42,560
-tak, więc w zasadzie łączysz jeden
+tak, więc w zasadzie łączysz jedno
 
 489
 00:15:40,639 --> 00:15:44,399
-konto z polka dot js, a następnie
+konto z polkadot.js, a następnie
 
 490
 00:15:42,560 --> 00:15:45,440
-pokazuje każdy portfel, który jest
+to pokazuje każdy portfel, który jest
 
 491
 00:15:44,399 --> 00:15:48,560
@@ -1964,119 +1964,119 @@ połączony z tym
 
 492
 00:15:45,440 --> 00:15:51,040
-konto tak tak
+kontem, tak, tak
 
 493
 00:15:48,560 --> 00:15:52,880
-i oczywiście w pogo.js masz
+i oczywiście w polkadot.js masz
 
 494
 00:15:51,040 --> 00:15:54,639
-Twój sposób na zarządzanie tak jak ja
+możliwość zarządzania, tak jak
 
 495
 00:15:52,880 --> 00:15:56,800
-chciałbym użyć tego na alkala
+chciałbyś tego użyć na Acala
 
 496
 00:15:54,639 --> 00:15:58,240
-Chciałem tylko tego użyć um tego
+Chciałbym użyć tego
 
 497
 00:15:56,800 --> 00:16:00,880
-konkretny adres wody
+konkretnego adresu portfela
 
 498
 00:15:58,240 --> 00:16:01,920
-może tylko na łańcuchu przekaźnikowym na kusama wszystko
+może tylko na Relay Chain na Kusama. Albo
 
 499
 00:16:00,880 --> 00:16:02,320
-you can say that i would like to use
+możesz powiedzieć, że chcesz użyć
 
 500
 00:16:01,920 --> 00:16:05,120
-this
+ten
 
 501
 00:16:02,320 --> 00:16:06,560
-wallet in all the available power chains
+portfel we wszystkich dostępnych parachain`ach
 
 502
 00:16:05,120 --> 00:16:09,920
-and relay chance so you can
+i na Relay Chain`ach, więc
 
 503
 00:16:06,560 --> 00:16:12,320
-get it's the your the user's um
+to zależy od użytkownika
 
 504
 00:16:09,920 --> 00:16:14,000
-um ability to choose like where this
+który wybiera, gdzie dany
 
 505
 00:16:12,320 --> 00:16:15,360
-wallet is going to be made available and
+portfel będzie dostępny
 
 506
 00:16:14,000 --> 00:16:16,959
-if you make it available
+Jeżeli zrobisz go dostępnym
 
 507
 00:16:15,360 --> 00:16:19,440
-for garura it will appear here and you
+dla Karura, to pojawi się tutaj i masz
 
 508
 00:16:16,959 --> 00:16:23,279
-can manage that yep
+możliwość zarządzania
 
 509
 00:16:19,440 --> 00:16:25,920
-yeah um p i see this guy name or this
+Widzę, że ta osoba
 
 510
 00:16:23,279 --> 00:16:26,320
-this person named p just was asking
+nazywająca się Pi, właśnie zapytała
 
 511
 00:16:25,920 --> 00:16:29,360
-about
+o
 
 512
 00:16:26,320 --> 00:16:30,160
-the branding here so when the kala is
+pojawiającą się tu nazwę, kiedy Acala zostanie
 
 513
 00:16:29,360 --> 00:16:32,560
-launched
+uruchomiona
 
 514
 00:16:30,160 --> 00:16:33,600
-um it's going to only say akala and have
+będzie tam tylko Acala i będzie mieć
 
 515
 00:16:32,560 --> 00:16:35,199
-the akala logo
+logo Acala
 
 516
 00:16:33,600 --> 00:16:37,279
-when carrera launches it'll have the
+kiedy Karura zostanie uruchomiona, to będzie miało
 
 517
 00:16:35,199 --> 00:16:38,880
-carrera logo in the upper left
+logo Karura na górze po lewej stronie
 
 518
 00:16:37,279 --> 00:16:41,120
-and then this is always going to say
+w ten sposób zawsze to będzie pokazywać
 
 519
 00:16:38,880 --> 00:16:42,480
-this for the test net so akala mandala
+że to jest tylko sieć testowa, więc Mandala jest siecią testową
 
 520
 00:16:41,120 --> 00:16:44,639
-is the test net
+dla Acala
 
 521
 00:16:42,480 --> 00:16:46,240
