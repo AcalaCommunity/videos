@@ -1452,7 +1452,7 @@ pytań, więc
 
 364
 00:11:32,399 --> 00:11:35,519
-śmiało, wykorzenić, zabrać to z
+śmiało, zadawajcie pytania
 
 365
 00:11:34,480 --> 00:11:37,200
@@ -1460,47 +1460,47 @@ tutaj
 
 366
 00:11:35,519 --> 00:11:39,200
-awesome thanks dan that's an awesome
+Wspaniale. Dziękuje Dan za niesamowite
 
 367
 00:11:37,200 --> 00:11:40,800
-wprowadzenie, więc po prostu udostępniam mój ekran
+wprowadzenie, więc zacznę udostępniać ekran
 
 368
 00:11:39,200 --> 00:11:43,680
-to make sure that um so then can you see
+aby upewnić się, że możesz zobaczyć
 
 369
 00:11:40,800 --> 00:11:47,279
-mój ekran każdy może zobaczyć mój ekran
+mój ekran. Każdy może zobaczyć mój ekran
 
 370
 00:11:43,680 --> 00:11:50,000
-yep we got it awesome um so this is the
+Tak, mamy to, wspaniale, więc to jest
 
 371
 00:11:47,279 --> 00:11:51,760
-um głębokość frontonu um do kurua lub do
+widok strony front-end dla Karura, czy do
 
 372
 00:11:50,000 --> 00:11:53,600
-mandala like this is the test net but
+mandala, która jest siecią testową, ale
 
 373
 00:11:51,760 --> 00:11:54,800
-to będzie przód i głębia
+to będzie widok strony
 
 374
 00:11:53,600 --> 00:11:57,519
-for kuruwa
+for kuruwadla Karura
 
 375
 00:11:54,800 --> 00:11:58,959
-to jest tak, jak mówi sama załoga
+to jest tak, jak mówi zespół
 
 376
 00:11:57,519 --> 00:12:01,200
-to wyspecjalizowany łańcuch bloków
+jest to wyspecjalizowany blockchain
 
 377
 00:11:58,959 --> 00:12:03,120
@@ -1508,55 +1508,55 @@ z zestawem wbudowanych funkcji i tym
 
 378
 00:12:01,200 --> 00:12:05,760
-jest frontendem do interakcji
+oto widokiem strony do interakcji
 
 379
 00:12:03,120 --> 00:12:06,560
-jako konsument jako przedsiębiorca do interakcji
+jako konsument, jako trader do interakcji
 
 380
 00:12:05,760 --> 00:12:09,440
-z tym
+z tą
 
 381
 00:12:06,560 --> 00:12:10,880
-wyspecjalizowana sieć i oczywiście
+wyspecjalizowaną siecią i oczywiście
 
 382
 00:12:09,440 --> 00:12:13,279
-najważniejsza cecha
+najważniejszych funkcji
 
 383
 00:12:10,880 --> 00:12:15,680
-ogólnie jest to, że mamy tryb ciemny i
+Generalnie, mamy tryb ciemny, który
 
 384
 00:12:13,279 --> 00:12:17,680
-to pasuje do naszej załogi, um
+pasuje do ustalonego przez zepół
 
 385
 00:12:15,680 --> 00:12:19,120
-kolorystyka wygląda naprawdę niesamowicie um
+kolorystyka wygląda naprawdę niesamowicie umschematu kolorów. Wygląda to niesamowicie
 
 386
 00:12:17,680 --> 00:12:20,399
-tak będziemy wyglądać
+tak będzie wyglądać
 
 387
 00:12:19,120 --> 00:12:22,720
-as a d4
+jako DeFi
 
 388
 00:12:20,399 --> 00:12:23,519
-color scheme when we launch this um when
+schemat kolorów podczas, kiedy
 
 389
 00:12:22,720 --> 00:12:25,760
-we launch the
+uruchamiamy
 
 390
 00:12:23,519 --> 00:12:26,880
-aktualna sieć i pierwsza strona
+aktualna sieć po raz pierwszy
 
 391
 00:12:25,760 --> 00:12:29,120
@@ -1572,31 +1572,31 @@ zarządzaj wszystkimi swoimi aktywami
 
 394
 00:12:30,480 --> 00:12:33,920
-within the kura project um and as you
+w ramach projektu Karura oraz możesz
 
 395
 00:12:33,279 --> 00:12:35,680
-widać
+zobaczyć
 
 396
 00:12:33,920 --> 00:12:37,360
-you can have your well this will be
+że to
 
 397
 00:12:35,680 --> 00:12:39,680
-zdecydowanie zwracam się do tokena kr
+się zmieni na KAR token
 
 398
 00:12:37,360 --> 00:12:40,800
-masz swój token KSM masz swoje k
+masz swój token KSM i masz swoje
 
 399
 00:12:39,680 --> 00:12:43,600
-token dolara
+tokeny kUSD
 
 400
 00:12:40,800 --> 00:12:45,680
-możesz swobodnie przenieść um do innych
+możesz je swobodnie przesłać do innych
 
 401
 00:12:43,600 --> 00:12:46,560
