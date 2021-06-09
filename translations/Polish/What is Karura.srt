@@ -2080,403 +2080,403 @@ dla Acala
 
 521
 00:16:42,480 --> 00:16:46,240
-um so yeah that will be that will be
+Więc będzie to
 
 522
 00:16:44,639 --> 00:16:48,800
-only the the name of the
+tylko nazwa
 
 523
 00:16:46,240 --> 00:16:50,399
-the network when they're live yeah and i
+sieci, jak będą uruchomione
 
 524
 00:16:48,800 --> 00:16:50,880
-also want to give a little bit hint here
+również chciałbym podać tutaj trochę wskazówek
 
 525
 00:16:50,399 --> 00:16:53,279
-so
+więc
 
 526
 00:16:50,880 --> 00:16:54,560
-kura is the sister network of alcala
+Karura jest siecią siostrzaną Acali
 
 527
 00:16:53,279 --> 00:16:56,160
-right so when they
+więc kiedy one
 
 528
 00:16:54,560 --> 00:16:58,480
-when they're born they are almost
+powstają, są prawie
 
 529
 00:16:56,160 --> 00:17:01,040
-identical but when they go live and
+identyczne, jednak gdy zostaną uruchomione
 
 530
 00:16:58,480 --> 00:17:03,040
-when the genesis happens um the two
+kiedy nastąpi geneza, obie
 
 531
 00:17:01,040 --> 00:17:04,559
-network might take different paths like
+sieci obiorą różne ścieżki, tak więc
 
 532
 00:17:03,040 --> 00:17:06,640
-you might see assets that will be only
+możesz zobaczyć aktywa, które
 
 533
 00:17:04,559 --> 00:17:07,199
-available on kurura because like they
+będą dostępne tylko na Karura, ponieważ
 
 534
 00:17:06,640 --> 00:17:09,039
-will be
+będą one
 
 535
 00:17:07,199 --> 00:17:10,799
-only available on kusama or you might
+tylko dostępne w sieci Kusama, albo możesz
 
 536
 00:17:09,039 --> 00:17:11,439
-see feature they'll be only available on
+znaleźć funkcje, które będą dostępne tylko na
 
 537
 00:17:10,799 --> 00:17:13,199
-kura
+Karura
 
 538
 00:17:11,439 --> 00:17:15,039
-because like it's the wild cousin of
+ponieważ będzie to taki dziki kuzyn
 
 539
 00:17:13,199 --> 00:17:16,959
-polka dots and you will see the similar
+polkadot i będziesz widział podobne
 
 540
 00:17:15,039 --> 00:17:19,439
-stuff happened on kura as the main
+rzeczy dziejące się głównie na Karura
 
 541
 00:17:16,959 --> 00:17:21,280
-alcohol is the main as well so when they
+czy głównie na Acala, więc można
 
 542
 00:17:19,439 --> 00:17:24,240
-generalize this um it's the same
+generalizować, że są one tym samym
 
 543
 00:17:21,280 --> 00:17:26,000
-but they might evolve into its own
+ale mogą przekształcić się we własny
 
 544
 00:17:24,240 --> 00:17:29,360
-distinctive um
+odmienny
 
 545
 00:17:26,000 --> 00:17:31,760
-set of features perfect
+zestaw funkcji
 
 546
 00:17:29,360 --> 00:17:32,480
-well let's move on to the next uh the
+Przejdźmy do następnej
 
 547
 00:17:31,760 --> 00:17:36,240
-next demo
+demonstracji
 
 548
 00:17:32,480 --> 00:17:38,720
-we've got keith and um
+Mamy Kate
 
 549
 00:17:36,240 --> 00:17:39,600
-who else was that sage are both
+ktoś jeszcze, oboje byli
 
 550
 00:17:38,720 --> 00:17:42,080
-interested in
+zainteresowani
 
 551
 00:17:39,600 --> 00:17:43,200
-in borrowing on the platform so let's
+w zaciąganiu pożyczek na platformie, więc
 
 552
 00:17:42,080 --> 00:17:44,960
-get into that
+przejdźmy do tego
 
 553
 00:17:43,200 --> 00:17:47,360
-yeah no problem and this is one the
+Tak, nie ma problemu. To jest jeden z
 
 554
 00:17:44,960 --> 00:17:47,919
-reason that i we think why kuru is so
+powodów dlaczego myślimy, że Karura jest tak
 
 555
 00:17:47,360 --> 00:17:49,919
-useful
+użyteczna
 
 556
 00:17:47,919 --> 00:17:51,120
-when it's become a project you can
+kiedy zostanie parachain`em, możesz
 
 557
 00:17:49,919 --> 00:17:54,080
-unlock the utility
+odblokować użyteczność
 
 558
 00:17:51,120 --> 00:17:56,000
-of your kusama token and start to um to
+Twoich tokenów KSM i zacząć
 
 559
 00:17:54,080 --> 00:17:59,120
-to to borrow against your your
+brać pożyczki w zastaw za Twoje
 
 560
 00:17:56,000 --> 00:18:01,280
-uh your kyokusama token so this is the
+tokeny KSM, więc to jest
 
 561
 00:17:59,120 --> 00:18:03,280
-borrowing interface you can see an
+Interfejs zaciągania kredytów, który możesz zobaczyć
 
 562
 00:18:01,280 --> 00:18:03,760
-overview of your current position so you
+przegląd Twoich aktualnych pozycji
 
 563
 00:18:03,280 --> 00:18:06,240
-can see
+Możesz zobaczyć
 
 564
 00:18:03,760 --> 00:18:07,679
-you have i have already borrowed open a
+że posiadam już pożyczkę
 
 565
 00:18:06,240 --> 00:18:10,720
-position on ram bdc
+pozycję na renBTC
 
 566
 00:18:07,679 --> 00:18:12,559
-i borrow roughly three thousand dollars
+Pożyczyłem około 3 tysiące dolarów
 
 567
 00:18:10,720 --> 00:18:14,880
-against zero point one run bdc
+w zastaw za 0.1 renBTC
 
 568
 00:18:12,559 --> 00:18:16,880
-that's a little bit risky but i mean
+jest to trochę ryzykowne
 
 569
 00:18:14,880 --> 00:18:18,640
-that's what um the system allows
+To jest to, na co pozwala system
 
 570
 00:18:16,880 --> 00:18:20,160
-um you can actually create loans using
+Możesz właściwie utwożyć pożyczkę używając
 
 571
 00:18:18,640 --> 00:18:22,880
-any sort of asset that will be
+dowolnego rodzaju aktywa, które będą
 
 572
 00:18:20,160 --> 00:18:24,240
-available in the governance process
+dostępne i w procesie zarządzania
 
 573
 00:18:22,880 --> 00:18:26,320
-allowed to be using crypto
+dozwolone do użycia
 
 574
 00:18:24,240 --> 00:18:27,360
-and in this particular interface here i
+w tym konkretnym interfejsie, tutaj, ja
 
 575
 00:18:26,320 --> 00:18:29,840
-have dot
+mam DOT
 
 576
 00:18:27,360 --> 00:18:31,039
-l dot which we'll be covering later and
+LDOT, który będzie zastawem
 
 577
 00:18:29,840 --> 00:18:32,000
-this will be definitely it would be like
+Będzie to z pewnością takie jak
 
 578
 00:18:31,039 --> 00:18:35,200
-kusama
+KSM
 
 579
 00:18:32,000 --> 00:18:35,760
-el kikuzama and bitcoins so what i'm
+LKSM i bitcoins, więc to co
 
 580
 00:18:35,200 --> 00:18:37,679
-going to
+zamierzam
 
 581
 00:18:35,760 --> 00:18:38,960
-demo here is that i'm going to borrow
+tutaj zademonstrować, jest pożyczenie
 
 582
 00:18:37,679 --> 00:18:42,080
-more
+więcej
 
 583
 00:18:38,960 --> 00:18:44,320
-against my 0.1 ram btc position here
+w zastaw za moje 0.1 ramBTC
 
 584
 00:18:42,080 --> 00:18:45,600
-so you can see um the current bitcoin
+więc możesz zobaczyć, że bieżąca dla Bitcoina
 
 585
 00:18:44,320 --> 00:18:48,400
-oracle rate is
+wycena jest
 
 586
 00:18:45,600 --> 00:18:49,919
-roughly that number i'm still quite safe
+mniej więcej tą wartością. Wciąż jestem dość bezpieczny
 
 587
 00:18:48,400 --> 00:18:52,720
-um to borrow a little bit more
+pożyczam trochę więcej
 
 588
 00:18:49,919 --> 00:18:53,760
-against that 0.1 ram bdc so i'm going to
+w zastaw za to 0.1 ramBTC, więc
 
 589
 00:18:52,720 --> 00:18:55,039
-press generate more
+klikam wygeneruj więcej
 
 590
 00:18:53,760 --> 00:18:57,280
-i'm going to press hey i will actually
+Zamierzam nacisnąć tutaj
 
 591
 00:18:55,039 --> 00:18:58,400
-probably ten dollars more and press
+10 dolarów więcej
 
 592
 00:18:57,280 --> 00:19:00,080
-confirm
+potwierdź
 
 593
 00:18:58,400 --> 00:19:01,600
-and this is where the signing comes up i
+i to właśnie tu pojawia się podpis
 
 594
 00:19:00,080 --> 00:19:05,280
-will gonna type in my key
+wpiszę moje
 
 595
 00:19:01,600 --> 00:19:07,360
-password and sign the transaction and
+hasło i podpiszę transakcję
 
 596
 00:19:05,280 --> 00:19:09,280
-boom i have ten dollar more that i can
+BOOM. Mam 10 dolarów więcej, które mogę
 
 597
 00:19:07,360 --> 00:19:11,280
-spend and this is how fast um
+wydać i to jest przykład jak szybko to działa
 
 598
 00:19:09,280 --> 00:19:13,280
-and project network looks like and all
+i jak wygląda sieć projektu
 
 599
 00:19:11,280 --> 00:19:15,600
-this is happening on the fly for real
+wszystko się dzieje na bieżąco
 
 600
 00:19:13,280 --> 00:19:16,880
-um and you can actually see this on the
+właściwie możesz to zobaczyć na
 
 601
 00:19:15,600 --> 00:19:18,080
-on the on the block scanner that's
+skanerze bloków
 
 602
 00:19:16,880 --> 00:19:21,039
-provided by sub scan
+dostarczonego przez SUBSCAN
 
 603
 00:19:18,080 --> 00:19:21,679
-so um this is amazing right this is um
+więc jest to niesamowite. Prawda? to jest
 
 604
 00:19:21,039 --> 00:19:24,480
-much much
+o wiele bardziej
 
 605
 00:19:21,679 --> 00:19:25,600
-more um responsive much much more
+responsywne i o wiele bardziej przyjazne
 
 606
 00:19:24,480 --> 00:19:28,080
-user-friendly
+użytkownikowi
 
 607
 00:19:25,600 --> 00:19:30,160
-also i can also replay i can pay back as
+mogę to również powtórzyć i zwrócić
 
 608
 00:19:28,080 --> 00:19:32,080
-i set a position if i think um
+pozycję, którą ustawiłem, jeżeli myślę, że
 
 609
 00:19:30,160 --> 00:19:34,160
-i'm going to reduce a little bit of risk
+zmniejszę trochę ryzyko
 
 610
 00:19:32,080 --> 00:19:36,400
-here i can pay 100 year ausd
+tutaj mogę zapłacić około 100 aUSD
 
 611
 00:19:34,160 --> 00:19:37,200
-that's like reducing my calculation
+to tak jak zmniejszenie obliczeń mojej
 
 612
 00:19:36,400 --> 00:19:39,520
-ratio
+proporcji
 
 613
 00:19:37,200 --> 00:19:40,960
-and any asset that will be available
+i wszelkie aktywa, które będą dostępne
 
 614
 00:19:39,520 --> 00:19:42,000
-through the governance process can be
+w procesie zarządzania, mogą być
 
 615
 00:19:40,960 --> 00:19:43,760
-borrowed against
+użyte jako zastaw
 
 616
 00:19:42,000 --> 00:19:45,679
-different assets would have different
+różne aktywa będą miały różne
 
 617
 00:19:43,760 --> 00:19:47,039
-risk parameters so for example bitcoin
+parametry ryzyka, więc na przykładzie bitcoina
 
 618
 00:19:45,679 --> 00:19:48,640
-might have a risk parameter
+różne parametry ryzyka mogą być dla
 
 619
 00:19:47,039 --> 00:19:51,600
-on the medieval credit ratio on the
+średniej wartości minimalnego zabezpieczenia, wskaźnika kredytu,
 
 620
 00:19:48,640 --> 00:19:54,640
-liquidation ratio on the liquidation fee
+wskaźnika likwidacji, opłaty likwidacyjnej
 
 621
 00:19:51,600 --> 00:19:55,440
