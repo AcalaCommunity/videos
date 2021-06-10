@@ -2800,243 +2800,243 @@ chcemy utworzyć pożyczkę
 
 701
 00:22:30,799 --> 00:22:37,360
-create some ldl ksm and scripto
+chcemy utworzyć jakieś LKSM i aUSD
 
 702
 00:22:33,440 --> 00:22:38,880
-i'm going to put in maybe 5l uh l ksm
+zamierzam włożyć w to może jakieś 5 LKSM
 
 703
 00:22:37,360 --> 00:22:39,520
-here and i'm gonna taking maybe like two
+tutaj i teraz zamierzam wziąć, jakieś 2
 
 704
 00:22:38,880 --> 00:22:42,720
-dollar loan
+dolary pożyczki
 
 705
 00:22:39,520 --> 00:22:44,799
-you can already see that um um
+już możesz zobaczyć
 
 706
 00:22:42,720 --> 00:22:45,919
-the amount of money that you can borrow
+kwotę pieniędzy, którą możesz pożyczyć
 
 707
 00:22:44,799 --> 00:22:47,120
-the interest rate in here the
+oprocentowanie tutaj
 
 708
 00:22:45,919 --> 00:22:49,280
-liquidation penalty
+karę za likwidację
 
 709
 00:22:47,120 --> 00:22:50,320
-and if things goes wrong that where how
+Jeżeli sprawy idą źle, to tutaj
 
 710
 00:22:49,280 --> 00:22:52,080
-you can but
+możesz ale
 
 711
 00:22:50,320 --> 00:22:54,080
-in chance that if you over capitalize
+jest szansa, że jeśli przekroczysz kapitalizację
 
 712
 00:22:52,080 --> 00:22:56,480
-and the position becomes risky
+i pozycja staje się ryzykowna
 
 713
 00:22:54,080 --> 00:22:57,280
-you might get liquidated so this is the
+możesz zostać zlikwidowany, więc jest to
 
 714
 00:22:56,480 --> 00:22:59,600
-um the
+hmm
 
 715
 00:22:57,280 --> 00:23:00,640
-the the figure that you're able to see
+obraz, który możesz zobaczyć
 
 716
 00:22:59,600 --> 00:23:02,720
-before you
+zanim
 
 717
 00:23:00,640 --> 00:23:04,080
-create a lawn and the final confirmation
+weźmiesz pożyczkę i ją finalnie zatwierdzisz
 
 718
 00:23:02,720 --> 00:23:06,799
-stage you will be
+etap, na którym będziesz
 
 719
 00:23:04,080 --> 00:23:09,039
-once again so go ahead and confirm all
+jeszcze raz przejdź dalej i potwierdź wszystkie
 
 720
 00:23:06,799 --> 00:23:09,600
-the numbers and press confirm and this
+liczby i naciśnij potwierdź i to
 
 721
 00:23:09,039 --> 00:23:12,159
-is how you
+W taki sposób możesz
 
 722
 00:23:09,600 --> 00:23:12,640
-open a long position so i just created a
+utworzyć długą pozycję, więc właśnie wziąłem
 
 723
 00:23:12,159 --> 00:23:15,280
-loan
+pożyczkę
 
 724
 00:23:12,640 --> 00:23:17,360
-using my lksm and received like two
+używając mojego LKSM i otrzymałem jakieś dwa
 
 725
 00:23:15,280 --> 00:23:18,400
-dollars so you can say if i now go back
+dolary, jeżeli teraz wrócę
 
 726
 00:23:17,360 --> 00:23:20,240
-to an interface
+do interfejsu
 
 727
 00:23:18,400 --> 00:23:22,960
-i have two position open one with
+mam dwie pozycje otwarte, jedną z
 
 728
 00:23:20,240 --> 00:23:25,120
-bitcoin one with um lksm
+bitcoin`em i jedną z LKSM
 
 729
 00:23:22,960 --> 00:23:26,880
-those is like um and i totally have
+tak to wygląda. Całkowicie mam
 
 730
 00:23:25,120 --> 00:23:28,080
-borrowed probably like few thousand
+pożyczone jakieś parę tysięcy
 
 731
 00:23:26,880 --> 00:23:31,200
-dollars against both
+dolarów w zamian za
 
 732
 00:23:28,080 --> 00:23:33,280
-um lksm and ram bdc okay
+LKSM i ramBTC
 
 733
 00:23:31,200 --> 00:23:35,600
-that makes sense and someone asked where
+jest to sensowne i ktoś zapytał gdzie
 
 734
 00:23:33,280 --> 00:23:37,200
-does that interest actually go
+odsetki faktycznie trafiają
 
 735
 00:23:35,600 --> 00:23:38,880
-well the ancient cities actually go to
+więc, odsetki trafiają do
 
 736
 00:23:37,200 --> 00:23:40,720
-the treasury um
+skarbca
 
 737
 00:23:38,880 --> 00:23:42,880
-and being managed by the network right
+i są zarządzane przez sieć
 
 738
 00:23:40,720 --> 00:23:44,960
-it's it's essentially
+jest to właściwie
 
 739
 00:23:42,880 --> 00:23:46,240
-controlled by the network for the long
+kontrolowane przez sieć dla długotrwałego
 
 740
 00:23:44,960 --> 00:23:47,919
-prosperity of the network
+funkcjonowania sieci
 
 741
 00:23:46,240 --> 00:23:50,240
-the interest ultimately would be the
+oprocentowanie ostatecznie byłoby
 
 742
 00:23:47,919 --> 00:23:51,919
-surplus within this system and
+nadwyżką w ramach tego systemu oraz
 
 743
 00:23:50,240 --> 00:23:53,840
-if you read our white paper regarding
+jeśli przeczytałeś nasz whitepaper o
 
 744
 00:23:51,919 --> 00:23:56,880
-the decentralized sovereign wales fund
+zdecentralizowanym niezależnym funduszu
 
 745
 00:23:53,840 --> 00:23:59,360
-the interest is ultimately hold managed
+który ostatecznie trzyma odsetki i jest zarządzany
 
 746
 00:23:56,880 --> 00:24:02,640
-by the token holders
+przez posiadaczy tokenów
 
 747
 00:23:59,360 --> 00:24:06,159
-okay um one other question that's that's
+okay. jeszcze jedno pytanie, które jest
 
 748
 00:24:02,640 --> 00:24:07,760
-relevant i think um the liquidation
+istotne. koncepcja
 
 749
 00:24:06,159 --> 00:24:09,760
-concept i think is new to a lot of
+likwidacji jest nowa dla większości
 
 750
 00:24:07,760 --> 00:24:13,200
-people and
+osób i
 
 751
 00:24:09,760 --> 00:24:14,480
-my so basically what the he he asked uh
+Zasadniczo o co on zapytał jest
 
 752
 00:24:13,200 --> 00:24:17,760
-what happens if the
+co się stanie, jeżeli
 
 753
 00:24:14,480 --> 00:24:20,159
-token that is basically collateralized
+token który jest zasadniczo zabezpieczony
 
 754
 00:24:17,760 --> 00:24:22,480
-with the value drops so
+jego wartość spadnie, więc
 
 755
 00:24:20,159 --> 00:24:24,000
-liquidation in this sense does not mean
+likwidacja w tym znaczeniu nie oznacza
 
 756
 00:24:22,480 --> 00:24:25,600
-that you kind of like
+tego, że stracisz
 
 757
 00:24:24,000 --> 00:24:27,440
-lose everything that you put down that's
+wszystko co włożyłeś, dlatego
 
 758
 00:24:25,600 --> 00:24:27,760
-why there was a liquidation percentage
+tam jest odsetek likwidacyjny
 
 759
 00:24:27,440 --> 00:24:29,840
-so
+więc
 
 760
 00:24:27,760 --> 00:24:31,200
-in the example rota just showed it said
+Na tym przykładzie Ruitao pokazał to, że
 
 761
 00:24:29,840 --> 00:24:33,520
@@ -3044,71 +3044,71 @@ in the example rota just showed it said
 
 762
 00:24:31,200 --> 00:24:34,559
-so what that means is if the price of
+co to oznacza, jeżeli cena
 
 763
 00:24:33,520 --> 00:24:36,640
-the underlying
+bazowa
 
 764
 00:24:34,559 --> 00:24:38,480
-collateral asset that you put down say
+aktywa zabezpieczającego, które umieściłeś
 
 765
 00:24:36,640 --> 00:24:39,360
-it's bitcoin for example if the price
+powiedzmy, że jest to bitcoin. Jeżeli cena
 
 766
 00:24:38,480 --> 00:24:41,520
-were to drop
+spadnie
 
 767
 00:24:39,360 --> 00:24:42,720
-to a point where it became risky
+do punktu, w którym stanie się ryzykowna
 
 768
 00:24:41,520 --> 00:24:46,400
-according to what the
+w zależności od tego, co
 
 769
 00:24:42,720 --> 00:24:48,559
-the system says here then your
+system pokazuje tutaj, potem twoja
 
 770
 00:24:46,400 --> 00:24:49,440
-your position would basically be sold at
+pozycja zostałaby zasadniczo sprzedana na
 
 771
 00:24:48,559 --> 00:24:52,559
-a at a
+na poziomie
 
 772
 00:24:49,440 --> 00:24:54,159
-rate of a 20 kind of um fee
+stawki 20. rodzaj opłaty fee
 
 773
 00:24:52,559 --> 00:24:56,799
-for that for that liquidation take
+za tą likwidację
 
 774
 00:24:54,159 --> 00:24:56,799
-taking place
+się odbywa
 
 775
 00:24:56,960 --> 00:25:01,600
-yeah yeah i think to better um think
+Tak, myślę, że lepiej jest myśleć
 
 776
 00:24:59,919 --> 00:25:03,760
-about liquidation it's more of like
+o likwidacji, bardziej jako
 
 777
 00:25:01,600 --> 00:25:05,679
-uh if you collateralize and you borrow
+Jeżeli bierzesz pożyczkę i zabezpieczasz
 
 778
 00:25:03,760 --> 00:25:07,360
-against your bitcoin and then pick a job
+ją bitcoinem, następnie ustawiasz zlecenie
 
 779
 00:25:05,679 --> 00:25:08,960
