@@ -2712,7 +2712,7 @@ do handlu i poruszać się z rynkiem
 
 679
 00:21:46,240 --> 00:21:51,520
-and broderick asked what about
+i Broderick zapytał o
 
 680
 00:21:49,280 --> 00:21:52,400
@@ -2732,7 +2732,7 @@ więc, główne oprocentowanie jest tym co
 
 684
 00:21:57,280 --> 00:22:00,559
-nazywamy stabilizującą opłatą "stabilization fee"
+nazywamy opłatą stabilizującą "stabilization fee"
 
 685
 00:21:59,360 --> 00:22:02,720
@@ -2796,7 +2796,7 @@ Oczywiście z całą pewnością powiedzmy, że:
 
 700
 00:22:29,679 --> 00:22:33,440
-we want to create a lot we're going to
+chcemy utworzyć pożyczkę
 
 701
 00:22:30,799 --> 00:22:37,360
