@@ -1,0 +1,980 @@
+1
+00:00:01,040 --> 00:00:06,560
+Hey everybody this is Dan Reecer from
+
+2
+00:00:03,439 --> 00:00:08,639
+Acala, I'm currently VP of growth here.
+
+3
+00:00:06,560 --> 00:00:10,800
+I've been on the Acala team for a couple
+
+4
+00:00:08,639 --> 00:00:12,320
+months and previously spent my time at
+
+5
+00:00:10,800 --> 00:00:13,920
+Web3 Foundation
+
+6
+00:00:12,320 --> 00:00:16,080
+where I helped launch Polkadot and
+
+7
+00:00:13,920 --> 00:00:17,920
+Kusama. Today I'm going to make this
+
+8
+00:00:16,080 --> 00:00:19,119
+really quick. I may talk fast because i'm
+
+9
+00:00:17,920 --> 00:00:21,119
+trying to keep it in
+
+10
+00:00:19,119 --> 00:00:22,560
+hopefully like five to seven minutes but
+
+11
+00:00:21,119 --> 00:00:24,720
+I'm going to be talking about
+
+12
+00:00:22,560 --> 00:00:26,320
+Polkadot and Kusama parachain auctions
+
+13
+00:00:24,720 --> 00:00:27,680
+and crowdloans, which are the process
+
+14
+00:00:26,320 --> 00:00:30,640
+for how to launch
+
+15
+00:00:27,680 --> 00:00:32,480
+a blockchain on one of these networks so
+
+16
+00:00:30,640 --> 00:00:34,559
+Polkadot and Kusama as you may know are
+
+17
+00:00:32,480 --> 00:00:35,840
+these multi-chain ecosystems that are
+
+18
+00:00:34,559 --> 00:00:37,680
+tying together
+
+19
+00:00:35,840 --> 00:00:38,879
+a bunch of blockchains that are called
+
+20
+00:00:37,680 --> 00:00:40,399
+parachains.
+
+21
+00:00:38,879 --> 00:00:42,559
+In the future there will be up to a
+
+22
+00:00:40,399 --> 00:00:43,200
+hundred parachains on Polkadot and a
+
+23
+00:00:42,559 --> 00:00:46,480
+hundred
+
+24
+00:00:43,200 --> 00:00:48,480
+plus on Kusama, but as of now there's no
+
+25
+00:00:46,480 --> 00:00:50,320
+parachain on either one.
+
+26
+00:00:48,480 --> 00:00:51,760
+So today i'm going to talk about how to
+
+27
+00:00:50,320 --> 00:00:53,680
+actually earn a slot
+
+28
+00:00:51,760 --> 00:00:55,199
+as one of these little squares here in
+
+29
+00:00:53,680 --> 00:00:56,079
+this diagram. How do you actually become
+
+30
+00:00:55,199 --> 00:00:58,000
+the first
+
+31
+00:00:56,079 --> 00:01:00,320
+parachain on Kusama or the first parachain
+
+32
+00:00:58,000 --> 00:01:02,399
+on Polkadot
+
+33
+00:01:00,320 --> 00:01:04,159
+and that process is crowdloans and
+
+34
+00:01:02,399 --> 00:01:06,400
+parachain auctions. So
+
+35
+00:01:04,159 --> 00:01:07,920
+this is the timeline. You can see here
+
+36
+00:01:06,400 --> 00:01:10,240
+that crowdloans come
+
+37
+00:01:07,920 --> 00:01:12,080
+first, which i'll get into.. The main
+
+38
+00:01:10,240 --> 00:01:12,640
+event is the parachain auction here in
+
+39
+00:01:12,080 --> 00:01:15,759
+white
+
+40
+00:01:12,640 --> 00:01:17,280
+this is multiple parachain teams
+
+41
+00:01:15,759 --> 00:01:19,759
+essentially bidding against each other
+
+42
+00:01:17,280 --> 00:01:21,759
+trying to win this auction
+
+43
+00:01:19,759 --> 00:01:23,119
+the winner of the auction then moves on
+
+44
+00:01:21,759 --> 00:01:26,240
+and earns a slot
+
+45
+00:01:23,119 --> 00:01:27,920
+here in the green. Once you earn a slot
+
+46
+00:01:26,240 --> 00:01:30,000
+then you're officially on
+
+47
+00:01:27,920 --> 00:01:32,000
+Kusama or on Polkadot as a parachain
+
+48
+00:01:30,000 --> 00:01:34,560
+team and you can begin
+
+49
+00:01:32,000 --> 00:01:35,520
+launching your applications, applications
+
+50
+00:01:34,560 --> 00:01:37,759
+can build on you
+
+51
+00:01:35,520 --> 00:01:40,159
+and so on. This is ultimately the
+
+52
+00:01:37,759 --> 00:01:42,240
+vision of Polkadot and Kusama
+
+53
+00:01:40,159 --> 00:01:44,399
+and then the last part here you can see
+
+54
+00:01:42,240 --> 00:01:45,280
+there's an actual end time of this slot
+
+55
+00:01:44,399 --> 00:01:48,560
+that the team
+
+56
+00:01:45,280 --> 00:01:49,680
+earns so after the team earns that slot
+
+57
+00:01:48,560 --> 00:01:51,280
+then there's things that happen
+
+58
+00:01:49,680 --> 00:01:51,920
+including crowdloan funds being
+
+59
+00:01:51,280 --> 00:01:54,640
+returned
+
+60
+00:01:51,920 --> 00:01:56,000
+to the contributors and so on. And
+
+61
+00:01:54,640 --> 00:01:57,439
+I'll cover all that in the next few
+
+62
+00:01:56,000 --> 00:01:59,920
+slides.
+
+63
+00:01:57,439 --> 00:02:01,439
+So parachain auctions, I'm going to start
+
+64
+00:01:59,920 --> 00:02:03,680
+with, because you need to understand this
+
+65
+00:02:01,439 --> 00:02:06,159
+before we go into Crowdloans. So
+
+66
+00:02:03,680 --> 00:02:06,880
+a parachain slot auction is essentially
+
+67
+00:02:06,159 --> 00:02:08,959
+like I said
+
+68
+00:02:06,880 --> 00:02:10,720
+teams bidding against each other to try
+
+69
+00:02:08,959 --> 00:02:14,720
+to win one of these slots
+
+70
+00:02:10,720 --> 00:02:17,440
+each auction is ultimately going for
+
+71
+00:02:14,720 --> 00:02:19,040
+one slot it can be divided into smaller
+
+72
+00:02:17,440 --> 00:02:21,599
+chunks but ultimately
+
+73
+00:02:19,040 --> 00:02:23,599
+on Polkadot it can be up to 24 months
+
+74
+00:02:21,599 --> 00:02:25,360
+but some teams may decide to bid for
+
+75
+00:02:23,599 --> 00:02:28,080
+shorter but to keep this simple let's
+
+76
+00:02:25,360 --> 00:02:30,160
+just assume the maximum.
+
+77
+00:02:28,080 --> 00:02:32,080
+Teams that are going into this
+
+78
+00:02:30,160 --> 00:02:32,560
+auction have two options for how to
+
+79
+00:02:32,080 --> 00:02:35,440
+actually
+
+80
+00:02:32,560 --> 00:02:36,239
+bid and what funds to use for their bid
+
+81
+00:02:35,440 --> 00:02:38,640
+so
+
+82
+00:02:36,239 --> 00:02:40,879
+first is if you have a single account
+
+83
+00:02:38,640 --> 00:02:42,800
+say for Kusama, you have a
+
+84
+00:02:40,879 --> 00:02:44,080
+stack of KSM that you want to use for
+
+85
+00:02:42,800 --> 00:02:45,280
+this auction
+
+86
+00:02:44,080 --> 00:02:48,239
+and you don't need to involve your
+
+87
+00:02:45,280 --> 00:02:50,400
+community then that could be one option.
+
+88
+00:02:48,239 --> 00:02:51,840
+The more frequent and more
+
+89
+00:02:50,400 --> 00:02:53,680
+likely scenario
+
+90
+00:02:51,840 --> 00:02:55,360
+will be number two here, which is using
+
+91
+00:02:53,680 --> 00:02:56,480
+the crowdloan module
+
+92
+00:02:55,360 --> 00:02:59,040
+so in this case you're actually
+
+93
+00:02:56,480 --> 00:03:00,800
+crowdsourcing KSM in the case of Kusama
+
+94
+00:02:59,040 --> 00:03:02,879
+or crowdsourcing DOT
+
+95
+00:03:00,800 --> 00:03:04,480
+from your community and you're
+
+96
+00:03:02,879 --> 00:03:05,440
+basically crowdsourcing this so that you
+
+97
+00:03:04,480 --> 00:03:09,519
+can use that
+
+98
+00:03:05,440 --> 00:03:12,000
+in the parachain slot auction.
+
+99
+00:03:09,519 --> 00:03:13,519
+How often will this happen? So
+
+100
+00:03:12,000 --> 00:03:15,360
+Parachain auctions will be done
+
+101
+00:03:13,519 --> 00:03:17,599
+one at a time but it's looking like
+
+102
+00:03:15,360 --> 00:03:19,440
+these will be about every two weeks so
+
+103
+00:03:17,599 --> 00:03:20,640
+in the Polkadot and Kusama ecosystem
+
+104
+00:03:19,440 --> 00:03:24,720
+these things will be happening on an
+
+105
+00:03:20,640 --> 00:03:24,720
+ongoing basis for the foreseeable future
+
+106
+00:03:25,200 --> 00:03:28,959
+so crowdloans first of all
+
+107
+00:03:27,680 --> 00:03:31,440
+like i said are used
+
+108
+00:03:28,959 --> 00:03:32,239
+for the opening bid in an auction so
+
+109
+00:03:31,440 --> 00:03:34,159
+teams will
+
+110
+00:03:32,239 --> 00:03:36,400
+crowdsource these tokens and then use
+
+111
+00:03:34,159 --> 00:03:37,920
+them in that parachain auction at the
+
+112
+00:03:36,400 --> 00:03:40,400
+next step.
+
+113
+00:03:37,920 --> 00:03:42,159
+If you're a user and you contribute KSM
+
+114
+00:03:40,400 --> 00:03:44,480
+to a Kusama parachain or if you
+
+115
+00:03:42,159 --> 00:03:46,400
+contribute DOT to a Polkadot parachain
+
+116
+00:03:44,480 --> 00:03:48,159
+you're essentially agreeing to locking
+
+117
+00:03:46,400 --> 00:03:49,599
+those tokens for the duration of that
+
+118
+00:03:48,159 --> 00:03:51,120
+parachain slot.
+
+119
+00:03:49,599 --> 00:03:52,959
+In the example that I used earlier
+
+120
+00:03:51,120 --> 00:03:56,560
+let's assume 24 months
+
+121
+00:03:52,959 --> 00:03:58,720
+then after 24 months your original
+
+122
+00:03:56,560 --> 00:04:00,799
+principle is returned back to you so
+
+123
+00:03:58,720 --> 00:04:01,920
+it's essentially no loss and a much more
+
+124
+00:04:00,799 --> 00:04:03,200
+ethical model
+
+125
+00:04:01,920 --> 00:04:05,840
+than we've seen in the past with things
+
+126
+00:04:03,200 --> 00:04:07,599
+like ICOs because in this case
+
+127
+00:04:05,840 --> 00:04:09,200
+you really hold the team accountable for
+
+128
+00:04:07,599 --> 00:04:11,599
+actually delivering on their
+
+129
+00:04:09,200 --> 00:04:13,120
+vision in their white paper because they
+
+130
+00:04:11,599 --> 00:04:15,120
+need to add value to their network
+
+131
+00:04:13,120 --> 00:04:17,199
+because they're actually not raising
+
+132
+00:04:15,120 --> 00:04:19,519
+any funds directly from you as the
+
+133
+00:04:17,199 --> 00:04:22,160
+community member.
+
+134
+00:04:19,519 --> 00:04:23,040
+Last, I kind of hinted at this
+
+135
+00:04:22,160 --> 00:04:24,880
+just now but
+
+136
+00:04:23,040 --> 00:04:26,400
+the funds that are contributed in
+
+137
+00:04:24,880 --> 00:04:28,160
+KSM or in DOT
+
+138
+00:04:26,400 --> 00:04:29,680
+are never touched by the team so there's
+
+139
+00:04:28,160 --> 00:04:31,600
+no worries about
+
+140
+00:04:29,680 --> 00:04:33,440
+teams raising money and running away
+
+141
+00:04:31,600 --> 00:04:36,240
+with it not delivering on what they
+
+142
+00:04:33,440 --> 00:04:37,680
+promised. All
+
+143
+00:04:36,240 --> 00:04:40,560
+the interests are really aligned here
+
+144
+00:04:37,680 --> 00:04:42,639
+and the team is really held accountable.
+
+145
+00:04:40,560 --> 00:04:43,840
+In the crowdloan,
+
+146
+00:04:42,639 --> 00:04:45,520
+this is kind of what it looks like.
+
+147
+00:04:43,840 --> 00:04:48,000
+You've got multiple teams
+
+148
+00:04:45,520 --> 00:04:48,880
+crowdsourcing KSM or DOT from their
+
+149
+00:04:48,000 --> 00:04:50,880
+communities
+
+150
+00:04:48,880 --> 00:04:52,320
+and that leads into the paratrain slot
+
+151
+00:04:50,880 --> 00:04:54,080
+auction.
+
+152
+00:04:52,320 --> 00:04:55,520
+Everything that was raised in that
+
+153
+00:04:54,080 --> 00:04:58,400
+crowdloan stage is
+
+154
+00:04:55,520 --> 00:05:00,320
+is not accessible to the team but
+
+155
+00:04:58,400 --> 00:05:02,160
+they can actually use that
+
+156
+00:05:00,320 --> 00:05:04,000
+in their parachain slot auction. So you
+
+157
+00:05:02,160 --> 00:05:05,280
+can think of it like a poker table
+
+158
+00:05:04,000 --> 00:05:07,280
+at the beginning of the auction all
+
+159
+00:05:05,280 --> 00:05:09,039
+these teams will basically go all in
+
+160
+00:05:07,280 --> 00:05:11,600
+with the funds that they raised in
+
+161
+00:05:09,039 --> 00:05:14,400
+their crowdloan.
+
+162
+00:05:11,600 --> 00:05:16,320
+Then how do we determine the winner?
+
+163
+00:05:14,400 --> 00:05:17,120
+When the auction starts we will know the
+
+164
+00:05:16,320 --> 00:05:19,199
+open time
+
+165
+00:05:17,120 --> 00:05:22,800
+here in the green, and we will know the
+
+166
+00:05:19,199 --> 00:05:24,639
+close time in the orange over here
+
+167
+00:05:22,800 --> 00:05:26,240
+and the most exciting point will be when
+
+168
+00:05:24,639 --> 00:05:29,440
+we hit this close time
+
+169
+00:05:26,240 --> 00:05:31,759
+the Kusama or Polkadot relay chain
+
+170
+00:05:29,440 --> 00:05:33,759
+itself will randomly select a time
+
+171
+00:05:31,759 --> 00:05:35,440
+that determines the end time, this red
+
+172
+00:05:33,759 --> 00:05:37,759
+bar here. So in this
+
+173
+00:05:35,440 --> 00:05:38,639
+example you've got Parachain B bidding,
+
+174
+00:05:37,759 --> 00:05:41,919
+Parachain C bidding,
+
+175
+00:05:38,639 --> 00:05:44,479
+Parachain A bidding.... E and F
+
+176
+00:05:41,919 --> 00:05:46,560
+beat A in terms of number of KSM but the
+
+177
+00:05:44,479 --> 00:05:47,280
+winner was determined at this red line
+
+178
+00:05:46,560 --> 00:05:49,840
+so
+
+179
+00:05:47,280 --> 00:05:51,280
+the highest bidder was Parachain A.
+
+180
+00:05:49,840 --> 00:05:53,280
+This is called an unpermissioned candle auction
+
+181
+00:05:51,280 --> 00:05:55,280
+and it incentivizes teams to bid
+
+182
+00:05:53,280 --> 00:05:56,639
+as high as they can as early as they can
+
+183
+00:05:55,280 --> 00:05:58,240
+instead of waiting until the end like
+
+184
+00:05:56,639 --> 00:06:00,319
+you might have seen on ebay
+
+185
+00:05:58,240 --> 00:06:04,319
+where people try to
+
+186
+00:06:00,319 --> 00:06:06,240
+snipe at the end and get the highest bid.
+
+187
+00:06:04,319 --> 00:06:07,759
+This is a full walkthrough of this
+
+188
+00:06:06,240 --> 00:06:10,720
+whole process. You've got
+
+189
+00:06:07,759 --> 00:06:12,960
+users over here contributing KSM they
+
+190
+00:06:10,720 --> 00:06:16,720
+contribute in this example to Karura
+
+191
+00:06:12,960 --> 00:06:19,199
+500,000 KSM. Then Karua
+
+192
+00:06:16,720 --> 00:06:21,280
+wins the first slot on Kusama and then
+
+193
+00:06:19,199 --> 00:06:23,600
+begins its launch process so
+
+194
+00:06:21,280 --> 00:06:24,800
+all of the KSM that was crowdsourced in
+
+195
+00:06:23,600 --> 00:06:26,880
+this original
+
+196
+00:06:24,800 --> 00:06:28,240
+crowdloan period is then locked in the
+
+197
+00:06:26,880 --> 00:06:31,759
+core
+
+198
+00:06:28,240 --> 00:06:33,919
+Kusama relay chain and then KAR
+
+199
+00:06:31,759 --> 00:06:36,319
+is then distributed, the native token of
+
+200
+00:06:33,919 --> 00:06:36,960
+Karura (KAR) is distributed to the
+
+201
+00:06:36,319 --> 00:06:39,360
+crowdloan contributors
+
+202
+00:06:36,960 --> 00:06:41,120
+and then at the same time
+
+203
+00:06:39,360 --> 00:06:44,160
+Karura is also launching so
+
+204
+00:06:41,120 --> 00:06:45,039
+the Karura stablecoin, the liquid KSM staking,
+
+205
+00:06:44,160 --> 00:06:47,440
+as well as
+
+206
+00:06:45,039 --> 00:06:50,479
+the Karura AMM-DEX, the Karura DEX
+
+207
+00:06:47,440 --> 00:06:52,160
+all go live on top of Karura
+
+208
+00:06:50,479 --> 00:06:54,080
+when this happens. At the end of
+
+209
+00:06:52,160 --> 00:06:55,039
+the parachain slot all of the KSM is
+
+210
+00:06:54,080 --> 00:06:58,880
+returned to the
+
+211
+00:06:55,039 --> 00:07:00,400
+supporters. Now the
+
+212
+00:06:58,880 --> 00:07:02,160
+last question that people sometimes
+
+213
+00:07:00,400 --> 00:07:04,000
+have is: 'What happens at the end of that
+
+214
+00:07:02,160 --> 00:07:06,400
+slot?' In this example, let's say
+
+215
+00:07:04,000 --> 00:07:08,880
+that it was a one-year parachain slot
+
+216
+00:07:06,400 --> 00:07:10,479
+the KSM is returned to the original
+
+217
+00:07:08,880 --> 00:07:12,000
+crowdloan supporters and then there's
+
+218
+00:07:10,479 --> 00:07:14,479
+three options for
+
+219
+00:07:12,000 --> 00:07:16,560
+any team to kind of maintain their
+
+220
+00:07:14,479 --> 00:07:18,240
+access to the relay chain.
+
+221
+00:07:16,560 --> 00:07:20,560
+First is to host another crowdloan and
+
+222
+00:07:18,240 --> 00:07:23,680
+do another parachain auction,
+
+223
+00:07:20,560 --> 00:07:25,360
+second is to self fund. Karura and
+
+224
+00:07:23,680 --> 00:07:26,639
+Acala will both have a decentralized
+
+225
+00:07:25,360 --> 00:07:28,240
+sovereign wealth fund
+
+226
+00:07:26,639 --> 00:07:30,000
+and over time that will
+
+227
+00:07:28,240 --> 00:07:31,599
+continue to build and build
+
+228
+00:07:30,000 --> 00:07:33,759
+so that we can become sovereign and
+
+229
+00:07:31,599 --> 00:07:36,240
+self-sustainable and actually
+
+230
+00:07:33,759 --> 00:07:37,440
+bid with our own treasury our own
+
+231
+00:07:36,240 --> 00:07:39,840
+sovereign wealth fund
+
+232
+00:07:37,440 --> 00:07:40,479
+for future slots, and then the third
+
+233
+00:07:39,840 --> 00:07:42,800
+option
+
+234
+00:07:40,479 --> 00:07:44,000
+there's probably several wiki articles
+
+235
+00:07:42,800 --> 00:07:46,400
+and videos that you could watch
+
+236
+00:07:44,000 --> 00:07:48,160
+about this but, the other option is
+
+237
+00:07:46,400 --> 00:07:49,520
+to become a parathread, which
+
+238
+00:07:48,160 --> 00:07:51,599
+just means that you have a little
+
+239
+00:07:49,520 --> 00:07:53,759
+bit less access..
+
+240
+00:07:51,599 --> 00:07:54,960
+less frequent access to the relay
+
+241
+00:07:53,759 --> 00:07:57,039
+chain itself.
+
+242
+00:07:54,960 --> 00:07:58,240
+So that's it in about eight minutes.
+
+243
+00:07:57,039 --> 00:07:59,919
+Hopefully you learned something. Let me
+
+244
+00:07:58,240 --> 00:08:03,759
+know if you have any questions.
+
+245
+00:07:59,919 --> 00:08:03,759
+Thank you, bye.
+

@@ -1,0 +1,880 @@
+1
+00:00:00,060 --> 00:00:02,470
+[Musique]
+
+2
+00:00:05,440 --> 00:00:09,280
+et c'est une des raisons pour lesquelles
+
+3
+00:00:07,200 --> 00:00:11,280
+nous pensons que Karura est si utile
+
+4
+00:00:09,280 --> 00:00:13,759
+lorsque ce sera une parachain vous pourrez
+
+5
+00:00:11,280 --> 00:00:14,799
+déverrouillez l'utilité de votre jeton Kusama
+
+6
+00:00:13,759 --> 00:00:17,440
+et commencer à
+
+7
+00:00:14,799 --> 00:00:18,240
+à emprunter contre votre
+
+8
+00:00:17,440 --> 00:00:20,400
+avec votre
+
+9
+00:00:18,240 --> 00:00:21,680
+jeton Kusama
+
+10
+00:00:20,400 --> 00:00:23,519
+donc ça c'est l'interface d'emprunts
+
+11
+00:00:21,680 --> 00:00:25,039
+vous pouvez avoir une vue d'ensemble sur votre
+
+12
+00:00:23,519 --> 00:00:27,439
+position actuelle , vous voyez
+
+13
+00:00:25,039 --> 00:00:28,960
+j'ai déjà emprunté
+
+14
+00:00:27,439 --> 00:00:31,599
+j'ai ouvert une position sur renBTC
+
+15
+00:00:28,960 --> 00:00:32,399
+j'ai emprunté environ trois mille
+
+16
+00:00:31,599 --> 00:00:35,120
+dollars contre
+
+17
+00:00:32,399 --> 00:00:37,120
+0.1 renBTC
+
+18
+00:00:35,120 --> 00:00:38,160
+c'est un peu risqué mais bon c'est ce que
+
+19
+00:00:37,120 --> 00:00:39,920
+le système permet
+
+20
+00:00:38,160 --> 00:00:41,440
+vous pouvez créer des prêts en utilisant
+
+21
+00:00:39,920 --> 00:00:44,160
+tout types d'actifs qui seront rendus disponibles
+
+22
+00:00:41,440 --> 00:00:45,520
+et autorisés par le processus de gouvernance
+
+23
+00:00:44,160 --> 00:00:47,600
+à être un collatéral
+
+24
+00:00:45,520 --> 00:00:48,640
+et sur cette interface spécifiquement ici
+
+25
+00:00:47,600 --> 00:00:51,039
+j'ai DOT
+
+26
+00:00:48,640 --> 00:00:52,320
+LDOT, que nous verrons plus tard
+
+27
+00:00:51,039 --> 00:00:53,280
+ce sera certainement comme ça
+
+28
+00:00:52,320 --> 00:00:56,480
+ce sera Kusama
+
+29
+00:00:53,280 --> 00:00:56,960
+LKSM et Bitcoin donc
+
+30
+00:00:56,480 --> 00:00:58,960
+ce que je vais montrer
+
+31
+00:00:56,960 --> 00:01:00,239
+est que je vais emprunter
+
+32
+00:00:58,960 --> 00:01:03,359
+plus
+
+33
+00:01:00,239 --> 00:01:05,600
+contre ma position 0.1 renBTC ici
+
+34
+00:01:03,359 --> 00:01:06,880
+donc vous pouvez voir le taux du bitcoin actuel
+
+35
+00:01:05,600 --> 00:01:09,920
+le taux de l'oracle est
+
+36
+00:01:06,880 --> 00:01:11,760
+à peu près ce chiffre je suis encore suffisamment en sécurité
+
+37
+00:01:09,920 --> 00:01:13,520
+pour emprunter un peu plus contre
+
+38
+00:01:11,760 --> 00:01:15,119
+ce 0.1 renBTC
+
+39
+00:01:13,520 --> 00:01:16,320
+alors je vais appuyer sur générer plus
+
+40
+00:01:15,119 --> 00:01:17,920
+je voudrais emprunter genre
+
+41
+00:01:16,320 --> 00:01:20,400
+peut-être dix dollars de plus
+
+42
+00:01:17,920 --> 00:01:22,080
+et j'appuie sur confirmer et c'est là que
+
+43
+00:01:20,400 --> 00:01:22,880
+la signature arrive je vais entrer
+
+44
+00:01:22,080 --> 00:01:26,560
+ma clé
+
+45
+00:01:22,880 --> 00:01:28,640
+mon mot de passe et signer la transaction
+
+46
+00:01:26,560 --> 00:01:30,560
+boom j'ai dix dollars de plus
+
+47
+00:01:28,640 --> 00:01:32,400
+que je peux dépenser et c'est rapide à ce point
+
+48
+00:01:30,560 --> 00:01:34,079
+et le réseau de production ressemble à ça
+
+49
+00:01:32,400 --> 00:01:34,560
+tout ceci se passe à la volée
+
+50
+00:01:34,079 --> 00:01:36,880
+pour de vrai
+
+51
+00:01:34,560 --> 00:01:38,159
+et vous pouvez le voir sur le
+
+52
+00:01:36,880 --> 00:01:39,360
+sur le scanner de bloc qui est
+
+53
+00:01:38,159 --> 00:01:42,320
+fourni par Subscan
+
+54
+00:01:39,360 --> 00:01:42,960
+donc c'est incroyable, c'est
+
+55
+00:01:42,320 --> 00:01:46,079
+beaucoup, beaucoup
+
+56
+00:01:42,960 --> 00:01:46,880
+beaucoup plus réactif
+
+57
+00:01:46,079 --> 00:01:48,799
+beaucoup plus simple à utiliser
+
+58
+00:01:46,880 --> 00:01:51,439
+je peux aussi rembourser
+
+59
+00:01:48,799 --> 00:01:53,360
+je peux définir une position si je souhaite
+
+60
+00:01:51,439 --> 00:01:55,439
+réduire un peu le risque
+
+61
+00:01:53,360 --> 00:01:57,680
+ici je peux payer environ 100 aUSD
+
+62
+00:01:55,439 --> 00:01:58,479
+c'est comme réduire mon calcul
+
+63
+00:01:57,680 --> 00:02:00,799
+de ratio
+
+64
+00:01:58,479 --> 00:02:02,240
+et n'importe quel actif qui sera
+
+65
+00:02:00,799 --> 00:02:03,280
+disponible par le processus de gouvernance
+
+66
+00:02:02,240 --> 00:02:05,040
+permet d'emprunter
+
+67
+00:02:03,280 --> 00:02:06,960
+les différents actifs auront différents
+
+68
+00:02:05,040 --> 00:02:08,319
+paramètres de risque donc par exemple bitcoin
+
+69
+00:02:06,960 --> 00:02:09,920
+pourrait avoir un paramètre de risque
+
+70
+00:02:08,319 --> 00:02:12,480
+sur le ratio de crédit minimal
+
+71
+00:02:09,920 --> 00:02:15,760
+sur le ratio de liquidation sur les frais de liquidation
+
+72
+00:02:12,480 --> 00:02:16,720
+DOT, LDOT, KSM, LKSM... ils pourraient tout
+
+73
+00:02:15,760 --> 00:02:18,800
+avoir différents
+
+74
+00:02:16,720 --> 00:02:20,160
+ratio qu'ils seront gérés et gouvernés par
+
+75
+00:02:18,800 --> 00:02:22,560
+le processus de gouvernance
+
+76
+00:02:20,160 --> 00:02:23,760
+donc ça c'est essentiellement la façon dont vous empruntez
+
+77
+00:02:22,560 --> 00:02:26,879
+contre
+
+78
+00:02:23,760 --> 00:02:29,840
+des collatéraux dans Karura
+
+79
+00:02:26,879 --> 00:02:31,040
+oui donc peut-être une chose que nous pouvons faire
+
+80
+00:02:29,840 --> 00:02:33,440
+ce concept
+
+81
+00:02:31,040 --> 00:02:35,120
+de la garantie avec collatéral et de la prise de prêts est
+
+82
+00:02:33,440 --> 00:02:36,640
+probablement nouveau pour beaucoup de personnes
+
+83
+00:02:35,120 --> 00:02:40,000
+je sais, c'était nouveau pour moi aussi
+
+84
+00:02:36,640 --> 00:02:42,160
+à un moment
+
+85
+00:02:40,000 --> 00:02:44,560
+pour rendre ceci aussi simple que possible
+
+86
+00:02:42,160 --> 00:02:45,920
+comme je pense que beaucoup d'entre nous sont conscients de
+
+87
+00:02:44,560 --> 00:02:48,000
+la façon dont un prêt immobilier
+
+88
+00:02:45,920 --> 00:02:50,000
+fonctionne, généralement vous mettez genre
+
+89
+00:02:48,000 --> 00:02:52,480
+10% ou 20% d'apport
+
+90
+00:02:50,000 --> 00:02:53,360
+cette somme que vous mettez en apport
+
+91
+00:02:52,480 --> 00:02:55,519
+est ce que vous déposez
+
+92
+00:02:53,360 --> 00:02:56,879
+pour pouvoir obtenir la somme complète
+
+93
+00:02:55,519 --> 00:02:57,760
+de votre credit
+
+94
+00:02:56,879 --> 00:03:00,959
+pour cette maison
+
+95
+00:02:57,760 --> 00:03:02,840
+mais la façon dont cela fonctionne en crypto
+
+96
+00:03:00,959 --> 00:03:04,080
+est qu'en fait
+
+97
+00:03:02,840 --> 00:03:06,319
+vous sur-collatérisez
+
+98
+00:03:04,080 --> 00:03:07,519
+le prêt donc c'est pour ça que les ratios de collatéral
+
+99
+00:03:06,319 --> 00:03:10,480
+sont de plus de
+
+100
+00:03:07,519 --> 00:03:12,319
+100%
+
+101
+00:03:10,480 --> 00:03:14,159
+ce que cela signifie vraiment en terme de garantie
+
+102
+00:03:12,319 --> 00:03:15,920
+est que vous prenez par exemple des bitcoin
+
+103
+00:03:14,159 --> 00:03:18,400
+ou quelque chose comme du bitcoin
+
+104
+00:03:15,920 --> 00:03:19,920
+vous n'avez pas besoin de le vendre, mais vous pouvez
+
+105
+00:03:18,400 --> 00:03:22,400
+avoir
+
+106
+00:03:19,920 --> 00:03:22,959
+du stablecoin aUSD avec votre bitcoin
+
+107
+00:03:22,400 --> 00:03:25,599
+toujours là
+
+108
+00:03:22,959 --> 00:03:26,400
+sans le vendre et vous pouvez prendre du aUSD
+
+109
+00:03:25,599 --> 00:03:28,080
+et soit
+
+110
+00:03:26,400 --> 00:03:30,159
+vous pouvez envoyer ça à des gens
+
+111
+00:03:28,080 --> 00:03:32,480
+soit vous pouvez utiliser ça pour
+
+112
+00:03:30,159 --> 00:03:34,480
+apporter de la liquidité dans notre DEX mais
+
+113
+00:03:32,480 --> 00:03:35,599
+c'est essentiellement ce que cette garantie
+
+114
+00:03:34,480 --> 00:03:38,000
+ce ratio de collatéral veut dire
+
+115
+00:03:35,599 --> 00:03:40,159
+oui cela donne plus d'utilité
+
+116
+00:03:38,000 --> 00:03:42,959
+aux actifs que vous détenez
+
+117
+00:03:40,159 --> 00:03:43,760
+que vous ne voulez peut-être pas vendre
+
+118
+00:03:42,959 --> 00:03:46,799
+sur le court terme
+
+119
+00:03:43,760 --> 00:03:50,080
+par exemple pour Kusama
+
+120
+00:03:46,799 --> 00:03:51,920
+ou pour LKSM, ce sont de collatéraux
+
+121
+00:03:50,080 --> 00:03:54,319
+dont vous pouvez vous servir avec plus d'utilité
+
+122
+00:03:51,920 --> 00:03:56,400
+avec vos actifs Kusama vous pouvez
+
+123
+00:03:54,319 --> 00:03:58,319
+acheter, vous pouvez vendre
+
+124
+00:03:56,400 --> 00:04:00,000
+je veux dire que les options sont entre vos
+
+125
+00:03:58,319 --> 00:04:02,239
+mains pour décider comment vous utiliser
+
+126
+00:04:00,000 --> 00:04:03,280
+ce collatéral pour trader
+
+127
+00:04:02,239 --> 00:04:05,040
+et comment utiliser le marché
+
+128
+00:04:03,280 --> 00:04:06,879
+qu'en est-il des intérêts? Donc on paie des intérêts
+
+129
+00:04:05,040 --> 00:04:09,920
+lorsqu'on récupère ces prêts?
+
+130
+00:04:06,879 --> 00:04:11,760
+Comment cela fonctionne?
+
+131
+00:04:09,920 --> 00:04:13,599
+Oui donc les intérêts sont ce que l'on appelle
+
+132
+00:04:11,760 --> 00:04:15,040
+les frais de stabilisation
+
+133
+00:04:13,599 --> 00:04:16,880
+si vous prenez un prêt, il y aura
+
+134
+00:04:15,040 --> 00:04:19,359
+bien sûr des intérêts qui s'appliqueront
+
+135
+00:04:16,880 --> 00:04:20,160
+et ces intérêts sont aussi utilisés pour
+
+136
+00:04:19,359 --> 00:04:22,720
+gérer
+
+137
+00:04:20,160 --> 00:04:23,840
+l'offre et la demande du stablecoin
+
+138
+00:04:22,720 --> 00:04:25,600
+c'est la façon de
+
+139
+00:04:23,840 --> 00:04:28,080
+maintenir que le stablecoin
+
+140
+00:04:25,600 --> 00:04:30,560
+aligné sur
+
+141
+00:04:28,080 --> 00:04:31,440
+la valeur du dollar
+
+142
+00:04:30,560 --> 00:04:33,360
+et les intérêts
+
+143
+00:04:31,440 --> 00:04:34,639
+les frais de stabilisation seront gérés par le
+
+144
+00:04:33,360 --> 00:04:38,080
+le processus de gouvernance
+
+145
+00:04:34,639 --> 00:04:40,400
+et dépend vraiment de l'offre et de la demande
+
+146
+00:04:38,080 --> 00:04:42,720
+Et est-ce que l'on connaît notre taux d'intérêt
+
+147
+00:04:40,400 --> 00:04:44,240
+avant de souscrire le crédit?
+
+148
+00:04:42,720 --> 00:04:45,280
+Oui bien sûr évidemment!
+
+149
+00:04:44,240 --> 00:04:47,919
+Admettons que nous voulions créer un crédit
+
+150
+00:04:45,280 --> 00:04:51,919
+et déposer du LDOT ou du LKSM en tant que collatéral (garantie)
+
+151
+00:04:47,919 --> 00:04:53,360
+Je vais mettre par exemple 5 LKSM ici
+
+152
+00:04:51,919 --> 00:04:54,000
+ici et je vais prendre par exemple
+
+153
+00:04:53,360 --> 00:04:57,199
+ un crédit de 2$
+
+154
+00:04:54,000 --> 00:04:59,280
+vous pouvez déjà voir
+
+155
+00:04:57,199 --> 00:05:00,400
+la somme d'argent que vous pouvez emprunter
+
+156
+00:04:59,280 --> 00:05:01,600
+le taux d'intérêts ici
+
+157
+00:05:00,400 --> 00:05:03,759
+la pénalité de liquidation
+
+158
+00:05:01,600 --> 00:05:06,000
+si les choses tournent mal
+
+159
+00:05:03,759 --> 00:05:07,840
+si vous sur-garantissez
+
+160
+00:05:06,000 --> 00:05:08,560
+et que la position devient
+
+161
+00:05:07,840 --> 00:05:10,960
+risquée
+
+162
+00:05:08,560 --> 00:05:11,759
+vous pourriez être liquidés
+
+163
+00:05:10,960 --> 00:05:14,080
+donc ce sont les chiffres
+
+164
+00:05:11,759 --> 00:05:15,120
+que vous pouvez voir
+
+165
+00:05:14,080 --> 00:05:17,280
+avant que vous
+
+166
+00:05:15,120 --> 00:05:18,560
+ne souscriviez au crédit
+
+167
+00:05:17,280 --> 00:05:21,280
+et à l'étape finale de confirmation
+
+168
+00:05:18,560 --> 00:05:22,240
+vous revoyez tout ça et vous pouvez
+
+169
+00:05:21,280 --> 00:05:24,080
+confirmer ces chiffres
+
+170
+00:05:22,240 --> 00:05:25,759
+puis vous appuyez sur "confirmer" et c'est ainsi que vous
+
+171
+00:05:24,080 --> 00:05:28,639
+souscrivez à un crédit
+
+172
+00:05:25,759 --> 00:05:29,840
+donc je viens de créer un prêt en utilisant mon LKSM
+
+173
+00:05:28,639 --> 00:05:31,840
+et j'ai reçu 2$
+
+174
+00:05:29,840 --> 00:05:32,880
+donc vous voyez, si je reviens en arrière
+
+175
+00:05:31,840 --> 00:05:34,800
+sur l'interface
+
+176
+00:05:32,880 --> 00:05:36,320
+j'ai deux positions ouvertes avec
+
+177
+00:05:34,800 --> 00:05:39,600
+une avec du bitcoin
+
+178
+00:05:36,320 --> 00:05:40,400
+une avec du LKSM
+
+179
+00:05:39,600 --> 00:05:41,680
+et donc j'ai emprunté
+
+180
+00:05:40,400 --> 00:05:43,600
+probablement quelques milliers de dollars
+
+181
+00:05:41,680 --> 00:05:46,720
+contre le LKSM
+
+182
+00:05:43,600 --> 00:05:48,080
+et contre le renBTC.
+
+183
+00:05:46,720 --> 00:05:50,080
+Ok ça a du sens, et quelqu'un a demandé
+
+184
+00:05:48,080 --> 00:05:52,560
+où vont les intérets réellement?
+
+185
+00:05:50,080 --> 00:05:53,360
+Eh bien en fait les intérêts vont à la trésorerie
+
+186
+00:05:52,560 --> 00:05:55,199
+ 
+
+187
+00:05:53,360 --> 00:05:56,960
+et sont gérés par le réseau
+
+188
+00:05:55,199 --> 00:05:59,199
+ils sont essentiellement
+
+189
+00:05:56,960 --> 00:06:00,720
+contrôlés par le réseau
+
+190
+00:05:59,199 --> 00:06:02,400
+pour la prospérité du réseau sur le long terme
+
+191
+00:06:00,720 --> 00:06:04,319
+les intérêts seront en fin de compte
+
+192
+00:06:02,400 --> 00:06:06,000
+l'excédent au sein du système
+
+193
+00:06:04,319 --> 00:06:07,520
+et si vous lisez notre livre blanc
+
+194
+00:06:06,000 --> 00:06:08,319
+en ce qui concerne
+
+195
+00:06:07,520 --> 00:06:11,360
+le fond souverain décentralisé
+
+196
+00:06:08,319 --> 00:06:13,840
+les intérêts seront en fin de compte détenus et gérés
+
+197
+00:06:11,360 --> 00:06:17,199
+par les détenteurs de jetons
+
+198
+00:06:13,840 --> 00:06:18,479
+Ok, le concept de liquidation que je pense être
+
+199
+00:06:17,199 --> 00:06:20,960
+nouveau pour beaucoup de personnes
+
+200
+00:06:18,479 --> 00:06:23,120
+que se passe t-il si le token qui est
+
+201
+00:06:20,960 --> 00:06:26,560
+en garantie
+
+202
+00:06:23,120 --> 00:06:28,319
+baisse en valeur?
+
+203
+00:06:26,560 --> 00:06:30,639
+La liquidation dans ce cas ne veut pas dire que
+
+204
+00:06:28,319 --> 00:06:32,000
+perdre tout ce que vous avez déposé
+
+205
+00:06:30,639 --> 00:06:34,479
+c'est la raison pour laquelle il y a un pourcentage de liquidation
+
+206
+00:06:32,000 --> 00:06:35,919
+donc dans l'exemple que Ruitao à montré
+
+207
+00:06:34,479 --> 00:06:38,000
+le ratio était de 20%.
+
+208
+00:06:35,919 --> 00:06:39,440
+Oui je pense que pour mieux visualiser
+
+209
+00:06:38,000 --> 00:06:41,600
+la liquidation c'est plus comme
+
+210
+00:06:39,440 --> 00:06:43,520
+si vous garantissez et que vous empruntez
+
+211
+00:06:41,600 --> 00:06:45,199
+contre votre bitcoin, puis que le bitcoin chute
+
+212
+00:06:43,520 --> 00:06:46,880
+à un prix spécifique
+
+213
+00:06:45,199 --> 00:06:48,319
+une fraction de votre garantie sera
+
+214
+00:06:46,880 --> 00:06:50,080
+vendue et vous le verrez comme si vous aviez
+
+215
+00:06:48,319 --> 00:06:52,319
+vous même vendu cette partie de votre garantie à ce prix
+
+216
+00:06:50,080 --> 00:06:54,000
+vous conserverez toujours
+
+217
+00:06:52,319 --> 00:06:54,560
+la somme que vous avez emprunté
+
+218
+00:06:54,000 --> 00:07:03,840
+c'est juste que
+
+219
+00:06:54,560 --> 00:07:03,840
+vous avez vendu une partie de votre garantie
+
+220
+00:07:04,400 --> 00:07:06,479
+en tant que pénalité.
+

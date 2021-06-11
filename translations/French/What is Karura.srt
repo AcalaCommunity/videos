@@ -1,0 +1,8544 @@
+1
+00:00:03,360 --> 00:00:06,160
+salut tout le monde
+
+2
+00:00:04,080 --> 00:00:07,680
+je suis Dan Reecer et suis rejoint
+
+3
+00:00:06,160 --> 00:00:10,160
+ici par Ruitao
+
+4
+00:00:07,680 --> 00:00:11,599
+nous allons passer en revue
+
+5
+00:00:10,160 --> 00:00:14,240
+pas mal d'informations aujourd'hui
+
+6
+00:00:11,599 --> 00:00:16,640
+sur notre réseau appelé Karura que
+
+7
+00:00:14,240 --> 00:00:17,039
+nous construisons sur Kusama,
+
+8
+00:00:16,640 --> 00:00:19,359
+vous nous connaissez aussi peut être
+
+9
+00:00:17,039 --> 00:00:20,480
+en tant que l'équipe d'Acala
+
+10
+00:00:19,359 --> 00:00:22,080
+nous nous préparons aussi pour
+
+11
+00:00:20,480 --> 00:00:23,920
+le lancement d'Acala sur Polkadot
+
+12
+00:00:22,080 --> 00:00:26,000
+mais cela viendra après le lancement de Karura donc aujourd'hui
+
+13
+00:00:23,920 --> 00:00:28,960
+on va passer un peu de temps
+
+14
+00:00:26,000 --> 00:00:30,000
+à passer ça en revue
+
+15
+00:00:28,960 --> 00:00:31,199
+je vais partager mon écran
+
+16
+00:00:30,000 --> 00:00:34,320
+et je vais juste passer en revue
+
+17
+00:00:31,199 --> 00:00:34,320
+une partie du programme
+
+18
+00:00:35,760 --> 00:00:38,800
+et ensuite nous pourrons commencer
+
+19
+00:00:38,000 --> 00:00:41,120
+donc
+
+20
+00:00:38,800 --> 00:00:42,800
+aujourd'hui on va parler de quelques points
+
+21
+00:00:41,120 --> 00:00:44,800
+donc
+
+22
+00:00:42,800 --> 00:00:46,239
+qu'est-ce que Karura en général, je vais en expliquer
+
+23
+00:00:44,800 --> 00:00:47,200
+certains slides et simplement vous donner
+
+24
+00:00:46,239 --> 00:00:48,800
+un aperçu de
+
+25
+00:00:47,200 --> 00:00:50,640
+ce que c'est et des produits que nous construisons
+
+26
+00:00:48,800 --> 00:00:51,760
+ce qui amènera Ruitao
+
+27
+00:00:50,640 --> 00:00:54,160
+à réaliser
+
+28
+00:00:51,760 --> 00:00:55,199
+une démo de chacun de ces produits donc
+
+29
+00:00:54,160 --> 00:00:56,480
+plus précisément
+
+30
+00:00:55,199 --> 00:00:58,800
+il commencera avec le portefeuille, puis
+
+31
+00:00:56,480 --> 00:01:00,320
+nous allons parcourir le kUSD
+
+32
+00:00:58,800 --> 00:01:03,120
+le stablecoin Karura dollar
+
+33
+00:01:00,320 --> 00:01:03,680
+ensuite nous verrons le DEX AMM de Karura
+
+34
+00:01:03,120 --> 00:01:06,560
+et ensuite
+
+35
+00:01:03,680 --> 00:01:08,320
+nous finirons avec le staking liquide KSM
+
+36
+00:01:06,560 --> 00:01:09,680
+donc ça devrait être vraiment cool vu que
+
+37
+00:01:08,320 --> 00:01:11,360
+ça va vraiment être réel pour vous
+
+38
+00:01:09,680 --> 00:01:12,560
+d'entrer dedans et de vraiment voir
+
+39
+00:01:11,360 --> 00:01:14,720
+le produit fonctionner
+
+40
+00:01:12,560 --> 00:01:16,000
+et ensuite ce que nous ferons c'est que Robin
+
+41
+00:01:14,720 --> 00:01:18,159
+dans le chat va
+
+42
+00:01:16,000 --> 00:01:19,439
+vous mettre notre lien pour que vous puissiez
+
+43
+00:01:18,159 --> 00:01:21,040
+réellement utiliser
+
+44
+00:01:19,439 --> 00:01:22,640
+ces applications sur le réseau de test dès maintenant
+
+45
+00:01:21,040 --> 00:01:25,439
+et vous préparer pour ce qui arrive
+
+46
+00:01:22,640 --> 00:01:27,119
+sur Kusama très bientôt
+
+47
+00:01:25,439 --> 00:01:28,720
+donc premièrement est-ce que tu veux
+
+48
+00:01:27,119 --> 00:01:31,040
+te présenter et ensuite je ferai de même
+
+49
+00:01:28,720 --> 00:01:33,119
+puis nous pourrons commencer
+
+50
+00:01:31,040 --> 00:01:34,560
+oh oui merci Dan, salut tout le monde
+
+51
+00:01:33,119 --> 00:01:36,960
+c'est Ruitao: un co-fondateur d'Acala
+
+52
+00:01:34,560 --> 00:01:38,079
+et bien sûr l'équipe travaille aussi
+
+53
+00:01:36,960 --> 00:01:39,759
+sur Karura
+
+54
+00:01:38,079 --> 00:01:42,079
+j'ai travaillé dans le domaine de la blockchain
+
+55
+00:01:39,759 --> 00:01:44,240
+pendant plus de sept ans je dirais
+
+56
+00:01:42,079 --> 00:01:46,159
+nous avons commencé à construire Acala Network
+
+57
+00:01:44,240 --> 00:01:47,600
+il y a deux ans
+
+58
+00:01:46,159 --> 00:01:49,920
+nous sommes parmi les premiers à construire sur Substrate
+
+59
+00:01:47,600 --> 00:01:51,280
+je suis moi même ingénieur
+
+60
+00:01:49,920 --> 00:01:54,000
+je suis toujours
+
+61
+00:01:51,280 --> 00:01:55,920
+je suis toujours ici aujourd'hui, j'aime écrire du code
+
+62
+00:01:54,000 --> 00:01:57,680
+et c'est à peu près mon parcours
+
+63
+00:01:55,920 --> 00:02:00,159
+je suis vraiment dans la construction de
+
+64
+00:01:57,680 --> 00:02:02,000
+de trucs avant-gardistes et tellement enthousiaste que
+
+65
+00:02:00,159 --> 00:02:04,880
+après près de deux ans de construction
+
+66
+00:02:02,000 --> 00:02:08,000
+nous sommes vraiment sur le point de démarrer
+
+67
+00:02:04,880 --> 00:02:11,200
+sur Kusama
+
+68
+00:02:08,000 --> 00:02:11,840
+cool, merci Ruitao
+
+69
+00:02:11,200 --> 00:02:14,000
+et je suis Dan Reecer
+
+70
+00:02:11,840 --> 00:02:14,959
+je travaille en tant que VP croissance ici chez Acala
+
+71
+00:02:14,000 --> 00:02:16,560
+et Karura
+
+72
+00:02:14,959 --> 00:02:18,560
+je suis dans l'équipe depuis un peu plus de deux mois
+
+73
+00:02:16,560 --> 00:02:19,520
+et j'ai auparavant
+
+74
+00:02:18,560 --> 00:02:21,280
+travaillé
+
+75
+00:02:19,520 --> 00:02:24,239
+plus ou moins à temps partiel avec Acala
+
+76
+00:02:21,280 --> 00:02:26,319
+pendant environs 6 mois avant de passer à temps plein
+
+77
+00:02:24,239 --> 00:02:27,760
+avant de venir chez Acala j'ai passé un peu de temps
+
+78
+00:02:26,319 --> 00:02:30,080
+chez Web3 Foundation
+
+79
+00:02:27,760 --> 00:02:31,840
+à travailler sur Polkadot et Kusama
+
+80
+00:02:30,080 --> 00:02:33,599
+donc c'était presque une progression naturelle
+
+81
+00:02:31,840 --> 00:02:35,920
+de passer de cette base
+
+82
+00:02:33,599 --> 00:02:37,040
+au niveau de la parachain
+
+83
+00:02:35,920 --> 00:02:38,800
+à se préparer pour
+
+84
+00:02:37,040 --> 00:02:40,239
+toute cette folie et
+
+85
+00:02:38,800 --> 00:02:41,760
+toute cette excitation qui va venir avec
+
+86
+00:02:40,239 --> 00:02:45,280
+tous ces lancements
+
+87
+00:02:41,760 --> 00:02:45,920
+donc le premier lancement
+
+88
+00:02:45,280 --> 00:02:48,319
+sur lequel nous travaillons
+
+89
+00:02:45,920 --> 00:02:50,080
+que j'ai mentionné est Karura
+
+90
+00:02:48,319 --> 00:02:51,599
+et je pense qu'avant d'entrer dans
+
+91
+00:02:50,080 --> 00:02:54,080
+les détails de
+
+92
+00:02:51,599 --> 00:02:55,200
+Karura et Acala
+
+93
+00:02:54,080 --> 00:02:58,000
+c'est assez utile de toujours commencer
+
+94
+00:02:55,200 --> 00:02:58,560
+du niveau le plus haut donc ce que nous
+
+95
+00:02:58,000 --> 00:03:01,680
+construisons
+
+96
+00:02:58,560 --> 00:03:02,480
+est l'une de ces parachain
+
+97
+00:03:01,680 --> 00:03:04,959
+un peu comme
+
+98
+00:03:02,480 --> 00:03:06,560
+uh gray squares here these are each pair
+
+99
+00:03:04,959 --> 00:03:09,280
+chains or individual block chains that
+
+100
+00:03:06,560 --> 00:03:11,200
+are customized for a specific purpose
+
+101
+00:03:09,280 --> 00:03:13,360
+and what this graphic here shows is kind
+
+102
+00:03:11,200 --> 00:03:15,120
+of the future this is where
+
+103
+00:03:13,360 --> 00:03:17,280
+we will have a hundred or more pair of
+
+104
+00:03:15,120 --> 00:03:19,599
+chains connected to kusama
+
+105
+00:03:17,280 --> 00:03:20,560
+and 100 or more para chains connected to
+
+106
+00:03:19,599 --> 00:03:22,640
+polka dot
+
+107
+00:03:20,560 --> 00:03:23,840
+all in one kind of connected ecosystem
+
+108
+00:03:22,640 --> 00:03:25,280
+because as you can see here in the
+
+109
+00:03:23,840 --> 00:03:27,680
+middle there will be a bridge
+
+110
+00:03:25,280 --> 00:03:28,480
+built between polka dot and kusama but
+
+111
+00:03:27,680 --> 00:03:30,879
+at this point
+
+112
+00:03:28,480 --> 00:03:32,000
+these two kind of multi-chain networks
+
+113
+00:03:30,879 --> 00:03:34,560
+are actually
+
+114
+00:03:32,000 --> 00:03:36,000
+pretty um bare there's no pair of chains
+
+115
+00:03:34,560 --> 00:03:37,120
+connected to either of them yet it's
+
+116
+00:03:36,000 --> 00:03:39,680
+just the beginning
+
+117
+00:03:37,120 --> 00:03:41,200
+and what our goal is at akala and karua
+
+118
+00:03:39,680 --> 00:03:43,040
+is to be the first para chain in the
+
+119
+00:03:41,200 --> 00:03:45,120
+public slot on kusama
+
+120
+00:03:43,040 --> 00:03:48,080
+with karua and then be the first para
+
+121
+00:03:45,120 --> 00:03:51,440
+chain on polka dot with akala
+
+122
+00:03:48,080 --> 00:03:53,280
+so with that as background
+
+123
+00:03:51,440 --> 00:03:55,360
+um like like we mentioned we're going to
+
+124
+00:03:53,280 --> 00:03:58,159
+be talking about karura today which
+
+125
+00:03:55,360 --> 00:04:00,239
+um is we're what we're really seeing it
+
+126
+00:03:58,159 --> 00:04:02,959
+becoming is the kind of defy hub
+
+127
+00:04:00,239 --> 00:04:04,640
+of the kusama ecosystem as well as
+
+128
+00:04:02,959 --> 00:04:06,239
+providing many different financial
+
+129
+00:04:04,640 --> 00:04:07,360
+products to
+
+130
+00:04:06,239 --> 00:04:09,280
+all the different para chains and
+
+131
+00:04:07,360 --> 00:04:12,319
+applications that we'll be launching
+
+132
+00:04:09,280 --> 00:04:14,159
+in the kusama ecosystem
+
+133
+00:04:12,319 --> 00:04:16,560
+in my opinion there's no better way to
+
+134
+00:04:14,159 --> 00:04:17,359
+start the kusama ecosystem than to have
+
+135
+00:04:16,560 --> 00:04:19,280
+korea launch
+
+136
+00:04:17,359 --> 00:04:21,040
+first because of what we're about to
+
+137
+00:04:19,280 --> 00:04:23,040
+explain to you and these are not just
+
+138
+00:04:21,040 --> 00:04:26,080
+products that akala and kuru will be
+
+139
+00:04:23,040 --> 00:04:27,680
+able to use these are actually
+
+140
+00:04:26,080 --> 00:04:29,440
+what are called primitives it's it's
+
+141
+00:04:27,680 --> 00:04:31,520
+kind of a new concept but it's built
+
+142
+00:04:29,440 --> 00:04:33,199
+kind of into the blockchain itself
+
+143
+00:04:31,520 --> 00:04:34,880
+which means that other teams can
+
+144
+00:04:33,199 --> 00:04:36,720
+actually come into the ecosystem and
+
+145
+00:04:34,880 --> 00:04:39,360
+leverage what our team has built
+
+146
+00:04:36,720 --> 00:04:41,120
+so for example the kura dollar is a
+
+147
+00:04:39,360 --> 00:04:42,800
+stable coin that will not only be used
+
+148
+00:04:41,120 --> 00:04:43,600
+in our applications but it can be used
+
+149
+00:04:42,800 --> 00:04:46,639
+by anyone
+
+150
+00:04:43,600 --> 00:04:48,240
+in the kusama ecosystem so no better way
+
+151
+00:04:46,639 --> 00:04:50,000
+to kind of kick start this ecosystem
+
+152
+00:04:48,240 --> 00:04:52,080
+than to build this kind of
+
+153
+00:04:50,000 --> 00:04:53,600
+um you know important foundation first
+
+154
+00:04:52,080 --> 00:04:55,440
+with karua and then allow
+
+155
+00:04:53,600 --> 00:04:56,800
+kind of other teams to build with what
+
+156
+00:04:55,440 --> 00:04:59,600
+we're providing to
+
+157
+00:04:56,800 --> 00:05:00,880
+the ecosystem um what you see here on
+
+158
+00:04:59,600 --> 00:05:02,880
+the screen is the
+
+159
+00:05:00,880 --> 00:05:04,400
+the ui of the actual kind of the
+
+160
+00:05:02,880 --> 00:05:05,280
+application layer that our team has
+
+161
+00:05:04,400 --> 00:05:06,880
+built out
+
+162
+00:05:05,280 --> 00:05:09,039
+so we do have these products that are
+
+163
+00:05:06,880 --> 00:05:11,520
+built into the blockchain itself but our
+
+164
+00:05:09,039 --> 00:05:13,680
+team is also built on our own chain
+
+165
+00:05:11,520 --> 00:05:14,880
+an entire kind of application layer
+
+166
+00:05:13,680 --> 00:05:18,400
+which you see here and this is what
+
+167
+00:05:14,880 --> 00:05:22,080
+rutau's going to be demoing today
+
+168
+00:05:18,400 --> 00:05:24,240
+just to further explain what i mentioned
+
+169
+00:05:22,080 --> 00:05:26,400
+about akala being a platform
+
+170
+00:05:24,240 --> 00:05:27,680
+for applications and then also an
+
+171
+00:05:26,400 --> 00:05:29,759
+application layer
+
+172
+00:05:27,680 --> 00:05:31,199
+if you can see this this diagram here
+
+173
+00:05:29,759 --> 00:05:34,479
+this is kind of working from the
+
+174
+00:05:31,199 --> 00:05:37,039
+the base layer of kusama and up so
+
+175
+00:05:34,479 --> 00:05:38,720
+what this is showing is kusama is this
+
+176
+00:05:37,039 --> 00:05:40,479
+of course this multi-chain platform that
+
+177
+00:05:38,720 --> 00:05:41,919
+i showed you and we're trying to get a
+
+178
+00:05:40,479 --> 00:05:43,759
+slot in kusama
+
+179
+00:05:41,919 --> 00:05:45,120
+and what that allows us to do is to plug
+
+180
+00:05:43,759 --> 00:05:47,840
+in this entire
+
+181
+00:05:45,120 --> 00:05:49,199
+kind of orange box here which is kura
+
+182
+00:05:47,840 --> 00:05:50,880
+and this is our blockchain this is a
+
+183
+00:05:49,199 --> 00:05:52,800
+layer one blockchain equivalent to
+
+184
+00:05:50,880 --> 00:05:55,840
+something like ethereum today
+
+185
+00:05:52,800 --> 00:05:58,400
+and within karua there are multiple
+
+186
+00:05:55,840 --> 00:05:59,680
+primitives or financial products built
+
+187
+00:05:58,400 --> 00:06:01,919
+with which we can use
+
+188
+00:05:59,680 --> 00:06:04,000
+in applications on top of this so you
+
+189
+00:06:01,919 --> 00:06:06,560
+can see here the stable coin i mentioned
+
+190
+00:06:04,000 --> 00:06:08,960
+liquid ksm staking which allows you to
+
+191
+00:06:06,560 --> 00:06:11,120
+state ksm and actually get a receipt for
+
+192
+00:06:08,960 --> 00:06:12,960
+that that you can use within defy
+
+193
+00:06:11,120 --> 00:06:14,560
+instead of just staking your ksm and it
+
+194
+00:06:12,960 --> 00:06:15,120
+being kind of locked and stuck there and
+
+195
+00:06:14,560 --> 00:06:18,720
+not
+
+196
+00:06:15,120 --> 00:06:21,600
+usable another aspect is our decks
+
+197
+00:06:18,720 --> 00:06:22,160
+which rutau will will demo here soon and
+
+198
+00:06:21,600 --> 00:06:24,319
+then
+
+199
+00:06:22,160 --> 00:06:26,639
+some of the you all we always talk about
+
+200
+00:06:24,319 --> 00:06:27,919
+how blockchains can be customized with
+
+201
+00:06:26,639 --> 00:06:30,800
+substrate and built
+
+202
+00:06:27,919 --> 00:06:32,319
+for specific use cases and here is what
+
+203
+00:06:30,800 --> 00:06:34,479
+we mean by that so
+
+204
+00:06:32,319 --> 00:06:36,319
+bring your own gas is a feature that
+
+205
+00:06:34,479 --> 00:06:38,080
+route will also show today
+
+206
+00:06:36,319 --> 00:06:40,240
+um this is this is a feature that we've
+
+207
+00:06:38,080 --> 00:06:42,080
+customized specifically for our chain
+
+208
+00:06:40,240 --> 00:06:44,560
+for kuru and akala because we're trying
+
+209
+00:06:42,080 --> 00:06:46,720
+to make them specialized for d5
+
+210
+00:06:44,560 --> 00:06:48,080
+and what this allows you to do if you've
+
+211
+00:06:46,720 --> 00:06:49,440
+ever used d5 and ethereum
+
+212
+00:06:48,080 --> 00:06:51,199
+you know that you can't do any
+
+213
+00:06:49,440 --> 00:06:53,759
+transactions without having
+
+214
+00:06:51,199 --> 00:06:55,520
+eth and if you're a new user to ethereum
+
+215
+00:06:53,759 --> 00:06:57,039
+first you have to learn what eth is you
+
+216
+00:06:55,520 --> 00:06:59,599
+have to go find it
+
+217
+00:06:57,039 --> 00:07:01,520
+it's a difficult process but with bring
+
+218
+00:06:59,599 --> 00:07:02,720
+your own gas with kuru and akala it'll
+
+219
+00:07:01,520 --> 00:07:05,599
+allow people to bring in
+
+220
+00:07:02,720 --> 00:07:07,919
+any token and immediately pay the the
+
+221
+00:07:05,599 --> 00:07:10,560
+initial transaction fee with that token
+
+222
+00:07:07,919 --> 00:07:11,599
+so for example someone bringing bitcoin
+
+223
+00:07:10,560 --> 00:07:14,000
+over to
+
+224
+00:07:11,599 --> 00:07:14,880
+um carrera would be able to bring
+
+225
+00:07:14,000 --> 00:07:17,759
+bitcoin over
+
+226
+00:07:14,880 --> 00:07:19,039
+basically wrap it and issue it on kusama
+
+227
+00:07:17,759 --> 00:07:21,039
+in kura and then
+
+228
+00:07:19,039 --> 00:07:23,120
+be able to pay their initial maybe it's
+
+229
+00:07:21,039 --> 00:07:23,759
+a swap maybe it's a transfer but paying
+
+230
+00:07:23,120 --> 00:07:26,560
+that fee
+
+231
+00:07:23,759 --> 00:07:27,440
+in in btc instead of having to go out
+
+232
+00:07:26,560 --> 00:07:29,520
+and find
+
+233
+00:07:27,440 --> 00:07:31,520
+kar token which is the kind of utility
+
+234
+00:07:29,520 --> 00:07:33,759
+token of kura
+
+235
+00:07:31,520 --> 00:07:35,199
+and then last the akala evm is kind of
+
+236
+00:07:33,759 --> 00:07:36,800
+another specialized
+
+237
+00:07:35,199 --> 00:07:38,400
+ethereum environment that we've built
+
+238
+00:07:36,800 --> 00:07:41,840
+specifically for kura
+
+239
+00:07:38,400 --> 00:07:43,440
+and akala so with that being said that's
+
+240
+00:07:41,840 --> 00:07:44,080
+layer one here in the middle this is the
+
+241
+00:07:43,440 --> 00:07:46,879
+blockchain
+
+242
+00:07:44,080 --> 00:07:48,560
+itself and then on top of that our team
+
+243
+00:07:46,879 --> 00:07:50,240
+has already built an entire
+
+244
+00:07:48,560 --> 00:07:52,080
+application that leverages all these
+
+245
+00:07:50,240 --> 00:07:53,599
+things that i just mentioned to you so
+
+246
+00:07:52,080 --> 00:07:55,840
+routeau what he'll be talking through
+
+247
+00:07:53,599 --> 00:07:58,080
+today is our as our whole kind of suite
+
+248
+00:07:55,840 --> 00:08:00,400
+of applications that's been built on
+
+249
+00:07:58,080 --> 00:08:01,919
+our blockchain and then keeping that in
+
+250
+00:08:00,400 --> 00:08:03,599
+mind there's also
+
+251
+00:08:01,919 --> 00:08:05,120
+of course this is an open platform so
+
+252
+00:08:03,599 --> 00:08:06,560
+it's not going to be just carrera
+
+253
+00:08:05,120 --> 00:08:08,319
+building applications it's going to be
+
+254
+00:08:06,560 --> 00:08:09,680
+other teams coming in building on this
+
+255
+00:08:08,319 --> 00:08:12,720
+open environment that we've
+
+256
+00:08:09,680 --> 00:08:14,080
+we've created
+
+257
+00:08:12,720 --> 00:08:16,240
+i don't need to go through this because
+
+258
+00:08:14,080 --> 00:08:17,759
+i kind of just covered all of those
+
+259
+00:08:16,240 --> 00:08:20,240
+and then here's just the highest level
+
+260
+00:08:17,759 --> 00:08:20,800
+look at um at carrera in general so
+
+261
+00:08:20,240 --> 00:08:22,639
+these are
+
+262
+00:08:20,800 --> 00:08:24,800
+all the products that we've built
+
+263
+00:08:22,639 --> 00:08:26,639
+there's several bridges being built
+
+264
+00:08:24,800 --> 00:08:28,639
+in the ecosystem right now specifically
+
+265
+00:08:26,639 --> 00:08:31,360
+for or most notably for
+
+266
+00:08:28,639 --> 00:08:33,039
+bitcoin and ethereum um so pretty soon
+
+267
+00:08:31,360 --> 00:08:33,680
+after we launch we'll be seeing ethereum
+
+268
+00:08:33,039 --> 00:08:36,399
+assets
+
+269
+00:08:33,680 --> 00:08:37,680
+um tradable and and kind of usable
+
+270
+00:08:36,399 --> 00:08:41,360
+within our decks and other
+
+271
+00:08:37,680 --> 00:08:44,640
+in other products and
+
+272
+00:08:41,360 --> 00:08:46,800
+yeah like this is essentially karua in a
+
+273
+00:08:44,640 --> 00:08:48,160
+nutshell and and very similar to akala
+
+274
+00:08:46,800 --> 00:08:48,720
+but we'll just stick to korea for
+
+275
+00:08:48,160 --> 00:08:52,000
+today's
+
+276
+00:08:48,720 --> 00:08:54,240
+presentation so last
+
+277
+00:08:52,000 --> 00:08:55,839
+i think this is the last slide but um
+
+278
+00:08:54,240 --> 00:08:57,360
+one question that a lot of people ask is
+
+279
+00:08:55,839 --> 00:09:00,320
+why we decided to build
+
+280
+00:08:57,360 --> 00:09:01,279
+kura on kusama in addition to akala on
+
+281
+00:09:00,320 --> 00:09:03,040
+polka dot
+
+282
+00:09:01,279 --> 00:09:05,200
+and the answer to this question is that
+
+283
+00:09:03,040 --> 00:09:08,160
+we are we are doing this
+
+284
+00:09:05,200 --> 00:09:10,320
+based on user demand so this kusama
+
+285
+00:09:08,160 --> 00:09:12,000
+ecosystem and the polka dot ecosystem
+
+286
+00:09:10,320 --> 00:09:13,760
+although there's some overlap they're
+
+287
+00:09:12,000 --> 00:09:14,160
+also quite distinctly different now and
+
+288
+00:09:13,760 --> 00:09:16,560
+they have
+
+289
+00:09:14,160 --> 00:09:18,399
+two different communities of token
+
+290
+00:09:16,560 --> 00:09:20,080
+holders with defi demand
+
+291
+00:09:18,399 --> 00:09:22,000
+so we're building kura to serve that
+
+292
+00:09:20,080 --> 00:09:24,320
+defy demand of kusama and we'll be
+
+293
+00:09:22,000 --> 00:09:26,000
+building akala to serve the d5 demand of
+
+294
+00:09:24,320 --> 00:09:28,399
+polka dot
+
+295
+00:09:26,000 --> 00:09:30,480
+um but kusama if you have the background
+
+296
+00:09:28,399 --> 00:09:33,200
+on kusama it's meant to be this place
+
+297
+00:09:30,480 --> 00:09:33,600
+to have fun to experiment and to kind of
+
+298
+00:09:33,200 --> 00:09:36,320
+launch
+
+299
+00:09:33,600 --> 00:09:38,640
+products before moving to polka dot but
+
+300
+00:09:36,320 --> 00:09:40,000
+after being heavily tested on a test net
+
+301
+00:09:38,640 --> 00:09:42,240
+so kusama is
+
+302
+00:09:40,000 --> 00:09:43,040
+absolutely not a test net at all it's
+
+303
+00:09:42,240 --> 00:09:46,000
+the the
+
+304
+00:09:43,040 --> 00:09:48,000
+test net is called rococo and west end
+
+305
+00:09:46,000 --> 00:09:51,360
+things are tested on testnet then move
+
+306
+00:09:48,000 --> 00:09:52,800
+to kusama and then move to polka dot
+
+307
+00:09:51,360 --> 00:09:54,480
+what we're building is also kind of
+
+308
+00:09:52,800 --> 00:09:56,959
+going to follow a similar path
+
+309
+00:09:54,480 --> 00:09:58,240
+our test net is called mandala so the
+
+310
+00:09:56,959 --> 00:09:59,760
+test net there is where
+
+311
+00:09:58,240 --> 00:10:01,440
+brand new products will be built and
+
+312
+00:09:59,760 --> 00:10:03,600
+tested and refined and
+
+313
+00:10:01,440 --> 00:10:05,279
+hopefully nearly perfected before they
+
+314
+00:10:03,600 --> 00:10:06,640
+moved to karua
+
+315
+00:10:05,279 --> 00:10:08,800
+then kuru is where we can actually
+
+316
+00:10:06,640 --> 00:10:10,800
+experiment in a real life environment
+
+317
+00:10:08,800 --> 00:10:12,160
+with real value on a real kind of
+
+318
+00:10:10,800 --> 00:10:14,160
+thriving network
+
+319
+00:10:12,160 --> 00:10:15,920
+and then if we decided this is a product
+
+320
+00:10:14,160 --> 00:10:18,160
+that the kusama community
+
+321
+00:10:15,920 --> 00:10:19,839
+liked we got good feedback we were able
+
+322
+00:10:18,160 --> 00:10:20,160
+to improve the product then we move it
+
+323
+00:10:19,839 --> 00:10:23,440
+to
+
+324
+00:10:20,160 --> 00:10:23,440
+akala after that
+
+325
+00:10:24,320 --> 00:10:27,839
+and then last this is just kind of a
+
+326
+00:10:26,160 --> 00:10:28,880
+look at some numbers i don't need to go
+
+327
+00:10:27,839 --> 00:10:30,480
+through all of these
+
+328
+00:10:28,880 --> 00:10:32,240
+we actually just added up our community
+
+329
+00:10:30,480 --> 00:10:35,279
+numbers yesterday and we just
+
+330
+00:10:32,240 --> 00:10:38,000
+crossed 200 000 we're at around 205 000
+
+331
+00:10:35,279 --> 00:10:39,040
+across the akala and korea channel so
+
+332
+00:10:38,000 --> 00:10:40,880
+we're growing at
+
+333
+00:10:39,040 --> 00:10:42,640
+pretty insane speeds right now and
+
+334
+00:10:40,880 --> 00:10:44,399
+getting very close to
+
+335
+00:10:42,640 --> 00:10:46,320
+um you know the crowd loan process and
+
+336
+00:10:44,399 --> 00:10:48,079
+parachain auction process that
+
+337
+00:10:46,320 --> 00:10:49,519
+we've talked about before and there are
+
+338
+00:10:48,079 --> 00:10:50,000
+some videos on that on our youtube
+
+339
+00:10:49,519 --> 00:10:51,600
+channel
+
+340
+00:10:50,000 --> 00:10:55,279
+feel free to check out but we won't get
+
+341
+00:10:51,600 --> 00:10:57,680
+into details on on that process today
+
+342
+00:10:55,279 --> 00:10:59,040
+so uh that's it for my part and now
+
+343
+00:10:57,680 --> 00:11:00,640
+we're gonna go into
+
+344
+00:10:59,040 --> 00:11:02,160
+the demos and what we're going to do in
+
+345
+00:11:00,640 --> 00:11:05,040
+terms of
+
+346
+00:11:02,160 --> 00:11:05,680
+kind of format here is ruta will go
+
+347
+00:11:05,040 --> 00:11:07,200
+through
+
+348
+00:11:05,680 --> 00:11:09,360
+one of the products and then we'll take
+
+349
+00:11:07,200 --> 00:11:11,920
+a brief pause and let you guys do q
+
+350
+00:11:09,360 --> 00:11:12,480
+a and please ask questions specifically
+
+351
+00:11:11,920 --> 00:11:14,240
+about
+
+352
+00:11:12,480 --> 00:11:16,079
+the demo that he had just done for
+
+353
+00:11:14,240 --> 00:11:18,640
+example if it's if it's the
+
+354
+00:11:16,079 --> 00:11:19,839
+the borrow ausd part of this just keep
+
+355
+00:11:18,640 --> 00:11:21,279
+your questions to that
+
+356
+00:11:19,839 --> 00:11:23,120
+we'll answer a few questions then he'll
+
+357
+00:11:21,279 --> 00:11:24,000
+move on to the next demo we'll do a
+
+358
+00:11:23,120 --> 00:11:25,600
+short q a
+
+359
+00:11:24,000 --> 00:11:27,440
+and then the final demo we'll do another
+
+360
+00:11:25,600 --> 00:11:29,839
+q a and we'll end up with
+
+361
+00:11:27,440 --> 00:11:30,880
+with kind of a an open q a session
+
+362
+00:11:29,839 --> 00:11:32,399
+because i know you guys have a lot of
+
+363
+00:11:30,880 --> 00:11:34,480
+questions so
+
+364
+00:11:32,399 --> 00:11:35,519
+go ahead root out take it away from from
+
+365
+00:11:34,480 --> 00:11:37,200
+here
+
+366
+00:11:35,519 --> 00:11:39,200
+awesome thanks dan that's an awesome
+
+367
+00:11:37,200 --> 00:11:40,800
+introduction so i just share my screen
+
+368
+00:11:39,200 --> 00:11:43,680
+to make sure that um so then can you see
+
+369
+00:11:40,800 --> 00:11:47,279
+my screen everyone can see my screen
+
+370
+00:11:43,680 --> 00:11:50,000
+yep we got it awesome um so this is the
+
+371
+00:11:47,279 --> 00:11:51,760
+um the front-end depth um to kurua or to
+
+372
+00:11:50,000 --> 00:11:53,600
+mandala like this is the test net but
+
+373
+00:11:51,760 --> 00:11:54,800
+this is going to be the front and depth
+
+374
+00:11:53,600 --> 00:11:57,519
+for kuruwa
+
+375
+00:11:54,800 --> 00:11:58,959
+it is like what then says um crew itself
+
+376
+00:11:57,519 --> 00:12:01,200
+is a specialized blockchain
+
+377
+00:11:58,959 --> 00:12:03,120
+with a set of built-in features and this
+
+378
+00:12:01,200 --> 00:12:05,760
+is the front end for you to interact
+
+379
+00:12:03,120 --> 00:12:06,560
+as a consumer as a trader to interact
+
+380
+00:12:05,760 --> 00:12:09,440
+with this
+
+381
+00:12:06,560 --> 00:12:10,880
+specialized network and obviously the
+
+382
+00:12:09,440 --> 00:12:13,279
+most important feature
+
+383
+00:12:10,880 --> 00:12:15,680
+overall is that we have a dark mode and
+
+384
+00:12:13,279 --> 00:12:17,680
+this fits within the crew us um
+
+385
+00:12:15,680 --> 00:12:19,120
+color scheme it looks really awesome um
+
+386
+00:12:17,680 --> 00:12:20,399
+this is what we're going to be look like
+
+387
+00:12:19,120 --> 00:12:22,720
+as a d4
+
+388
+00:12:20,399 --> 00:12:23,519
+color scheme when we launch this um when
+
+389
+00:12:22,720 --> 00:12:25,760
+we launch the
+
+390
+00:12:23,519 --> 00:12:26,880
+current network and the very first page
+
+391
+00:12:25,760 --> 00:12:29,120
+that i'm going to show
+
+392
+00:12:26,880 --> 00:12:30,480
+is the wallet page this is where you
+
+393
+00:12:29,120 --> 00:12:33,279
+manage all your assets
+
+394
+00:12:30,480 --> 00:12:33,920
+within the kura project um and as you
+
+395
+00:12:33,279 --> 00:12:35,680
+can see
+
+396
+00:12:33,920 --> 00:12:37,360
+you can have your well this will be
+
+397
+00:12:35,680 --> 00:12:39,680
+definitely turning to the kr token
+
+398
+00:12:37,360 --> 00:12:40,800
+you have your ksm token you have your k
+
+399
+00:12:39,680 --> 00:12:43,600
+ausd token
+
+400
+00:12:40,800 --> 00:12:45,680
+you can freely transfer um to other
+
+401
+00:12:43,600 --> 00:12:46,560
+voltages by just interacting with this
+
+402
+00:12:45,680 --> 00:12:48,399
+front-end app
+
+403
+00:12:46,560 --> 00:12:50,560
+you can manage your assets as if like
+
+404
+00:12:48,399 --> 00:12:52,720
+one of the
+
+405
+00:12:50,560 --> 00:12:54,399
+aggregation of your assets um get access
+
+406
+00:12:52,720 --> 00:12:57,760
+to value transfer
+
+407
+00:12:54,399 --> 00:13:01,279
+or get access to things like minting btc
+
+408
+00:12:57,760 --> 00:13:03,200
+mint in poca btc or do inter production
+
+409
+00:13:01,279 --> 00:13:04,480
+transfer for example if i want to
+
+410
+00:13:03,200 --> 00:13:07,200
+transfer
+
+411
+00:13:04,480 --> 00:13:08,079
+alcohol asset from macula to for example
+
+412
+00:13:07,200 --> 00:13:10,639
+hydra decks
+
+413
+00:13:08,079 --> 00:13:12,160
+i can select here and do an interchange
+
+414
+00:13:10,639 --> 00:13:15,040
+uh transfer so this is
+
+415
+00:13:12,160 --> 00:13:16,240
+almost looks like an uh a user very
+
+416
+00:13:15,040 --> 00:13:18,480
+friendly wallet they can
+
+417
+00:13:16,240 --> 00:13:20,320
+you can access like um in my opinion way
+
+418
+00:13:18,480 --> 00:13:22,560
+better than just um
+
+419
+00:13:20,320 --> 00:13:23,519
+than just using polkadot.js to to to
+
+420
+00:13:22,560 --> 00:13:25,760
+interact with the
+
+421
+00:13:23,519 --> 00:13:26,959
+blockchain so this is that's what i was
+
+422
+00:13:25,760 --> 00:13:29,040
+gonna ask you right
+
+423
+00:13:26,959 --> 00:13:30,399
+so as we go through this i'm just gonna
+
+424
+00:13:29,040 --> 00:13:31,839
+ask questions that i think
+
+425
+00:13:30,399 --> 00:13:33,760
+people in the audience might be
+
+426
+00:13:31,839 --> 00:13:34,000
+wondering so what you're showing here is
+
+427
+00:13:33,760 --> 00:13:36,240
+a
+
+428
+00:13:34,000 --> 00:13:38,880
+wallet that can be used similar to
+
+429
+00:13:36,240 --> 00:13:40,399
+people have on polka dot js now or even
+
+430
+00:13:38,880 --> 00:13:42,079
+some of their mobile wallets but
+
+431
+00:13:40,399 --> 00:13:43,839
+when they connect what they would do to
+
+432
+00:13:42,079 --> 00:13:45,040
+actually see these numbers here is it
+
+433
+00:13:43,839 --> 00:13:45,760
+correct that they would go up to the
+
+434
+00:13:45,040 --> 00:13:47,680
+polka dot
+
+435
+00:13:45,760 --> 00:13:49,680
+js extension and connect their polka dot
+
+436
+00:13:47,680 --> 00:13:50,399
+js account to this wallet and it would
+
+437
+00:13:49,680 --> 00:13:53,040
+show
+
+438
+00:13:50,399 --> 00:13:53,519
+their live balances within this wallet
+
+439
+00:13:53,040 --> 00:13:56,720
+is that
+
+440
+00:13:53,519 --> 00:13:58,160
+yes yes yes definitely and the poke.js
+
+441
+00:13:56,720 --> 00:14:01,279
+is very similar to the
+
+442
+00:13:58,160 --> 00:14:03,440
+metamask equivalent on polka dots
+
+443
+00:14:01,279 --> 00:14:04,959
+you can manage multiple account in this
+
+444
+00:14:03,440 --> 00:14:06,399
+wallet section as well so i can change
+
+445
+00:14:04,959 --> 00:14:08,320
+to another demo account here
+
+446
+00:14:06,399 --> 00:14:10,320
+you can see all the stuff i refresh on
+
+447
+00:14:08,320 --> 00:14:11,279
+the fly i can change back to my original
+
+448
+00:14:10,320 --> 00:14:13,279
+demo account
+
+449
+00:14:11,279 --> 00:14:14,399
+and you can also see a history of your
+
+450
+00:14:13,279 --> 00:14:16,240
+past transaction
+
+451
+00:14:14,399 --> 00:14:17,440
+so very very user friendly very very
+
+452
+00:14:16,240 --> 00:14:20,160
+consumer focused
+
+453
+00:14:17,440 --> 00:14:21,920
+this is your your your one stop to
+
+454
+00:14:20,160 --> 00:14:30,160
+access your your assets
+
+455
+00:14:21,920 --> 00:14:32,560
+on kura
+
+456
+00:14:30,160 --> 00:14:34,079
+so then do do we want to um see if
+
+457
+00:14:32,560 --> 00:14:34,480
+there's any questions that would like to
+
+458
+00:14:34,079 --> 00:14:36,800
+um
+
+459
+00:14:34,480 --> 00:14:38,639
+to um to answer regarding this wallet
+
+460
+00:14:36,800 --> 00:14:39,199
+interface or should we carry on to work
+
+461
+00:14:38,639 --> 00:14:41,279
+on the
+
+462
+00:14:39,199 --> 00:14:42,399
+next section which is the borrowing uh
+
+463
+00:14:41,279 --> 00:14:45,600
+the borrowing
+
+464
+00:14:42,399 --> 00:14:49,040
+of the stable coin
+
+465
+00:14:45,600 --> 00:14:49,040
+um let's see
+
+466
+00:14:49,519 --> 00:14:52,959
+it might be hard to actually sort
+
+467
+00:14:51,279 --> 00:14:55,600
+through this
+
+468
+00:14:52,959 --> 00:14:57,199
+box it okay so if you guys have
+
+469
+00:14:55,600 --> 00:14:59,440
+questions specific to one of these
+
+470
+00:14:57,199 --> 00:15:02,000
+demos i'll be actually watching this the
+
+471
+00:14:59,440 --> 00:15:04,079
+chat here so
+
+472
+00:15:02,000 --> 00:15:05,360
+which wall someone says which wallet is
+
+473
+00:15:04,079 --> 00:15:09,040
+chosen for this is it the
+
+474
+00:15:05,360 --> 00:15:12,160
+ksm wallet um
+
+475
+00:15:09,040 --> 00:15:14,639
+well this is like the um
+
+476
+00:15:12,160 --> 00:15:15,199
+if you use pocket.js as the extension
+
+477
+00:15:14,639 --> 00:15:17,680
+this is
+
+478
+00:15:15,199 --> 00:15:18,800
+essentially your access to both kusama
+
+479
+00:15:17,680 --> 00:15:22,320
+and polkadot
+
+480
+00:15:18,800 --> 00:15:24,160
+and kura and alcohol like every single
+
+481
+00:15:22,320 --> 00:15:26,320
+subject-based blockchain they go gonna
+
+482
+00:15:24,160 --> 00:15:27,519
+all be manageable by pocket.js
+
+483
+00:15:26,320 --> 00:15:29,519
+so think about this it's like a
+
+484
+00:15:27,519 --> 00:15:32,480
+multifunction version of metamask you
+
+485
+00:15:29,519 --> 00:15:34,360
+arrive at carrura and you access to your
+
+486
+00:15:32,480 --> 00:15:37,920
+current asset using your sam
+
+487
+00:15:34,360 --> 00:15:37,920
+pog.js extension
+
+488
+00:15:38,560 --> 00:15:42,560
+yeah so you basically connect one
+
+489
+00:15:40,639 --> 00:15:44,399
+account from your polka dot js and then
+
+490
+00:15:42,560 --> 00:15:45,440
+it shows you every wallet that's kind of
+
+491
+00:15:44,399 --> 00:15:48,560
+connected to that
+
+492
+00:15:45,440 --> 00:15:51,040
+account yes yes
+
+493
+00:15:48,560 --> 00:15:52,880
+and obviously in pogo.js you have the
+
+494
+00:15:51,040 --> 00:15:54,639
+right um your the way to manage like i
+
+495
+00:15:52,880 --> 00:15:56,800
+would like to use this on alkala
+
+496
+00:15:54,639 --> 00:15:58,240
+i only wanted to use this um this
+
+497
+00:15:56,800 --> 00:16:00,880
+particular water address
+
+498
+00:15:58,240 --> 00:16:01,920
+maybe only on relay chain on kusama all
+
+499
+00:16:00,880 --> 00:16:02,320
+you can say that i would like to use
+
+500
+00:16:01,920 --> 00:16:05,120
+this
+
+501
+00:16:02,320 --> 00:16:06,560
+wallet in all the available power chains
+
+502
+00:16:05,120 --> 00:16:09,920
+and relay chance so you can
+
+503
+00:16:06,560 --> 00:16:12,320
+get it's the your the user's um
+
+504
+00:16:09,920 --> 00:16:14,000
+um ability to choose like where this
+
+505
+00:16:12,320 --> 00:16:15,360
+wallet is going to be made available and
+
+506
+00:16:14,000 --> 00:16:16,959
+if you make it available
+
+507
+00:16:15,360 --> 00:16:19,440
+for garura it will appear here and you
+
+508
+00:16:16,959 --> 00:16:23,279
+can manage that yep
+
+509
+00:16:19,440 --> 00:16:25,920
+yeah um p i see this guy name or this
+
+510
+00:16:23,279 --> 00:16:26,320
+this person named p just was asking
+
+511
+00:16:25,920 --> 00:16:29,360
+about
+
+512
+00:16:26,320 --> 00:16:30,160
+the branding here so when the kala is
+
+513
+00:16:29,360 --> 00:16:32,560
+launched
+
+514
+00:16:30,160 --> 00:16:33,600
+um it's going to only say akala and have
+
+515
+00:16:32,560 --> 00:16:35,199
+the akala logo
+
+516
+00:16:33,600 --> 00:16:37,279
+when carrera launches it'll have the
+
+517
+00:16:35,199 --> 00:16:38,880
+carrera logo in the upper left
+
+518
+00:16:37,279 --> 00:16:41,120
+and then this is always going to say
+
+519
+00:16:38,880 --> 00:16:42,480
+this for the test net so akala mandala
+
+520
+00:16:41,120 --> 00:16:44,639
+is the test net
+
+521
+00:16:42,480 --> 00:16:46,240
+um so yeah that will be that will be
+
+522
+00:16:44,639 --> 00:16:48,800
+only the the name of the
+
+523
+00:16:46,240 --> 00:16:50,399
+the network when they're live yeah and i
+
+524
+00:16:48,800 --> 00:16:50,880
+also want to give a little bit hint here
+
+525
+00:16:50,399 --> 00:16:53,279
+so
+
+526
+00:16:50,880 --> 00:16:54,560
+kura is the sister network of alcala
+
+527
+00:16:53,279 --> 00:16:56,160
+right so when they
+
+528
+00:16:54,560 --> 00:16:58,480
+when they're born they are almost
+
+529
+00:16:56,160 --> 00:17:01,040
+identical but when they go live and
+
+530
+00:16:58,480 --> 00:17:03,040
+when the genesis happens um the two
+
+531
+00:17:01,040 --> 00:17:04,559
+network might take different paths like
+
+532
+00:17:03,040 --> 00:17:06,640
+you might see assets that will be only
+
+533
+00:17:04,559 --> 00:17:07,199
+available on kurura because like they
+
+534
+00:17:06,640 --> 00:17:09,039
+will be
+
+535
+00:17:07,199 --> 00:17:10,799
+only available on kusama or you might
+
+536
+00:17:09,039 --> 00:17:11,439
+see feature they'll be only available on
+
+537
+00:17:10,799 --> 00:17:13,199
+kura
+
+538
+00:17:11,439 --> 00:17:15,039
+because like it's the wild cousin of
+
+539
+00:17:13,199 --> 00:17:16,959
+polka dots and you will see the similar
+
+540
+00:17:15,039 --> 00:17:19,439
+stuff happened on kura as the main
+
+541
+00:17:16,959 --> 00:17:21,280
+alcohol is the main as well so when they
+
+542
+00:17:19,439 --> 00:17:24,240
+generalize this um it's the same
+
+543
+00:17:21,280 --> 00:17:26,000
+but they might evolve into its own
+
+544
+00:17:24,240 --> 00:17:29,360
+distinctive um
+
+545
+00:17:26,000 --> 00:17:31,760
+set of features perfect
+
+546
+00:17:29,360 --> 00:17:32,480
+well let's move on to the next uh the
+
+547
+00:17:31,760 --> 00:17:36,240
+next demo
+
+548
+00:17:32,480 --> 00:17:38,720
+we've got keith and um
+
+549
+00:17:36,240 --> 00:17:39,600
+who else was that sage are both
+
+550
+00:17:38,720 --> 00:17:42,080
+interested in
+
+551
+00:17:39,600 --> 00:17:43,200
+in borrowing on the platform so let's
+
+552
+00:17:42,080 --> 00:17:44,960
+get into that
+
+553
+00:17:43,200 --> 00:17:47,360
+yeah no problem and this is one the
+
+554
+00:17:44,960 --> 00:17:47,919
+reason that i we think why kuru is so
+
+555
+00:17:47,360 --> 00:17:49,919
+useful
+
+556
+00:17:47,919 --> 00:17:51,120
+when it's become a project you can
+
+557
+00:17:49,919 --> 00:17:54,080
+unlock the utility
+
+558
+00:17:51,120 --> 00:17:56,000
+of your kusama token and start to um to
+
+559
+00:17:54,080 --> 00:17:59,120
+to to borrow against your your
+
+560
+00:17:56,000 --> 00:18:01,280
+uh your kyokusama token so this is the
+
+561
+00:17:59,120 --> 00:18:03,280
+borrowing interface you can see an
+
+562
+00:18:01,280 --> 00:18:03,760
+overview of your current position so you
+
+563
+00:18:03,280 --> 00:18:06,240
+can see
+
+564
+00:18:03,760 --> 00:18:07,679
+you have i have already borrowed open a
+
+565
+00:18:06,240 --> 00:18:10,720
+position on ram bdc
+
+566
+00:18:07,679 --> 00:18:12,559
+i borrow roughly three thousand dollars
+
+567
+00:18:10,720 --> 00:18:14,880
+against zero point one run bdc
+
+568
+00:18:12,559 --> 00:18:16,880
+that's a little bit risky but i mean
+
+569
+00:18:14,880 --> 00:18:18,640
+that's what um the system allows
+
+570
+00:18:16,880 --> 00:18:20,160
+um you can actually create loans using
+
+571
+00:18:18,640 --> 00:18:22,880
+any sort of asset that will be
+
+572
+00:18:20,160 --> 00:18:24,240
+available in the governance process
+
+573
+00:18:22,880 --> 00:18:26,320
+allowed to be using crypto
+
+574
+00:18:24,240 --> 00:18:27,360
+and in this particular interface here i
+
+575
+00:18:26,320 --> 00:18:29,840
+have dot
+
+576
+00:18:27,360 --> 00:18:31,039
+l dot which we'll be covering later and
+
+577
+00:18:29,840 --> 00:18:32,000
+this will be definitely it would be like
+
+578
+00:18:31,039 --> 00:18:35,200
+kusama
+
+579
+00:18:32,000 --> 00:18:35,760
+el kikuzama and bitcoins so what i'm
+
+580
+00:18:35,200 --> 00:18:37,679
+going to
+
+581
+00:18:35,760 --> 00:18:38,960
+demo here is that i'm going to borrow
+
+582
+00:18:37,679 --> 00:18:42,080
+more
+
+583
+00:18:38,960 --> 00:18:44,320
+against my 0.1 ram btc position here
+
+584
+00:18:42,080 --> 00:18:45,600
+so you can see um the current bitcoin
+
+585
+00:18:44,320 --> 00:18:48,400
+oracle rate is
+
+586
+00:18:45,600 --> 00:18:49,919
+roughly that number i'm still quite safe
+
+587
+00:18:48,400 --> 00:18:52,720
+um to borrow a little bit more
+
+588
+00:18:49,919 --> 00:18:53,760
+against that 0.1 ram bdc so i'm going to
+
+589
+00:18:52,720 --> 00:18:55,039
+press generate more
+
+590
+00:18:53,760 --> 00:18:57,280
+i'm going to press hey i will actually
+
+591
+00:18:55,039 --> 00:18:58,400
+probably ten dollars more and press
+
+592
+00:18:57,280 --> 00:19:00,080
+confirm
+
+593
+00:18:58,400 --> 00:19:01,600
+and this is where the signing comes up i
+
+594
+00:19:00,080 --> 00:19:05,280
+will gonna type in my key
+
+595
+00:19:01,600 --> 00:19:07,360
+password and sign the transaction and
+
+596
+00:19:05,280 --> 00:19:09,280
+boom i have ten dollar more that i can
+
+597
+00:19:07,360 --> 00:19:11,280
+spend and this is how fast um
+
+598
+00:19:09,280 --> 00:19:13,280
+and project network looks like and all
+
+599
+00:19:11,280 --> 00:19:15,600
+this is happening on the fly for real
+
+600
+00:19:13,280 --> 00:19:16,880
+um and you can actually see this on the
+
+601
+00:19:15,600 --> 00:19:18,080
+on the on the block scanner that's
+
+602
+00:19:16,880 --> 00:19:21,039
+provided by sub scan
+
+603
+00:19:18,080 --> 00:19:21,679
+so um this is amazing right this is um
+
+604
+00:19:21,039 --> 00:19:24,480
+much much
+
+605
+00:19:21,679 --> 00:19:25,600
+more um responsive much much more
+
+606
+00:19:24,480 --> 00:19:28,080
+user-friendly
+
+607
+00:19:25,600 --> 00:19:30,160
+also i can also replay i can pay back as
+
+608
+00:19:28,080 --> 00:19:32,080
+i set a position if i think um
+
+609
+00:19:30,160 --> 00:19:34,160
+i'm going to reduce a little bit of risk
+
+610
+00:19:32,080 --> 00:19:36,400
+here i can pay 100 year ausd
+
+611
+00:19:34,160 --> 00:19:37,200
+that's like reducing my calculation
+
+612
+00:19:36,400 --> 00:19:39,520
+ratio
+
+613
+00:19:37,200 --> 00:19:40,960
+and any asset that will be available
+
+614
+00:19:39,520 --> 00:19:42,000
+through the governance process can be
+
+615
+00:19:40,960 --> 00:19:43,760
+borrowed against
+
+616
+00:19:42,000 --> 00:19:45,679
+different assets would have different
+
+617
+00:19:43,760 --> 00:19:47,039
+risk parameters so for example bitcoin
+
+618
+00:19:45,679 --> 00:19:48,640
+might have a risk parameter
+
+619
+00:19:47,039 --> 00:19:51,600
+on the medieval credit ratio on the
+
+620
+00:19:48,640 --> 00:19:54,640
+liquidation ratio on the liquidation fee
+
+621
+00:19:51,600 --> 00:19:55,440
+jobs ldots ksm lksm they might all have
+
+622
+00:19:54,640 --> 00:19:57,520
+different
+
+623
+00:19:55,440 --> 00:19:58,880
+ratio they'll be managed and governed by
+
+624
+00:19:57,520 --> 00:20:01,280
+the governance process
+
+625
+00:19:58,880 --> 00:20:02,480
+so that is essentially how you borrow
+
+626
+00:20:01,280 --> 00:20:05,840
+against um
+
+627
+00:20:02,480 --> 00:20:08,799
+crychos in kura
+
+628
+00:20:05,840 --> 00:20:09,760
+let so maybe one thing we can do this
+
+629
+00:20:08,799 --> 00:20:12,240
+concept
+
+630
+00:20:09,760 --> 00:20:13,840
+of collateralization and taking loans is
+
+631
+00:20:12,240 --> 00:20:15,360
+probably new to a lot of people i know
+
+632
+00:20:13,840 --> 00:20:18,720
+it was new to me
+
+633
+00:20:15,360 --> 00:20:20,880
+um at one point and basically like to to
+
+634
+00:20:18,720 --> 00:20:23,280
+make this as simple as possible
+
+635
+00:20:20,880 --> 00:20:24,720
+um like i think many of us are aware of
+
+636
+00:20:23,280 --> 00:20:26,720
+how like a home
+
+637
+00:20:24,720 --> 00:20:28,720
+loan works where typically you might put
+
+638
+00:20:26,720 --> 00:20:31,200
+like 10 down or 20
+
+639
+00:20:28,720 --> 00:20:32,080
+down that cash that you put down is what
+
+640
+00:20:31,200 --> 00:20:34,240
+you're putting
+
+641
+00:20:32,080 --> 00:20:35,600
+down in order to get the full the full
+
+642
+00:20:34,240 --> 00:20:36,480
+loan of whatever you're getting for that
+
+643
+00:20:35,600 --> 00:20:39,679
+house
+
+644
+00:20:36,480 --> 00:20:41,440
+but with the way this works in crypto um
+
+645
+00:20:39,679 --> 00:20:42,799
+we're actually over you're over
+
+646
+00:20:41,440 --> 00:20:45,039
+collateralizing
+
+647
+00:20:42,799 --> 00:20:46,240
+the loan so that's why these collateral
+
+648
+00:20:45,039 --> 00:20:49,200
+ratios are over
+
+649
+00:20:46,240 --> 00:20:51,039
+100 and you're what you're doing like
+
+650
+00:20:49,200 --> 00:20:52,880
+what it really means of collateral
+
+651
+00:20:51,039 --> 00:20:54,640
+is that you're actually taking bitcoin
+
+652
+00:20:52,880 --> 00:20:57,120
+something like bitcoin
+
+653
+00:20:54,640 --> 00:20:58,080
+you don't need to sell it but you can
+
+654
+00:20:57,120 --> 00:21:01,120
+pull out
+
+655
+00:20:58,080 --> 00:21:03,280
+um ausd a stablecoin with your bitcoin
+
+656
+00:21:01,120 --> 00:21:04,320
+still there not sold and then you can
+
+657
+00:21:03,280 --> 00:21:06,240
+take the ausd
+
+658
+00:21:04,320 --> 00:21:07,919
+and either you can send that to people
+
+659
+00:21:06,240 --> 00:21:10,080
+you can make payments you can
+
+660
+00:21:07,919 --> 00:21:11,200
+use that to provide liquidity within our
+
+661
+00:21:10,080 --> 00:21:13,200
+decks but
+
+662
+00:21:11,200 --> 00:21:15,120
+that's essentially what this collateral
+
+663
+00:21:13,200 --> 00:21:16,240
+ratio means and i don't know ruta if you
+
+664
+00:21:15,120 --> 00:21:19,200
+have any more to
+
+665
+00:21:16,240 --> 00:21:21,200
+add to that yeah essentially give you
+
+666
+00:21:19,200 --> 00:21:22,240
+more utility um to the asset that you
+
+667
+00:21:21,200 --> 00:21:25,120
+are holding to
+
+668
+00:21:22,240 --> 00:21:25,840
+that you might not want to sell or in in
+
+669
+00:21:25,120 --> 00:21:28,880
+short term
+
+670
+00:21:25,840 --> 00:21:31,679
+and for example for fukusama for for
+
+671
+00:21:28,880 --> 00:21:34,080
+lksm those are perfectly great
+
+672
+00:21:31,679 --> 00:21:36,400
+collectors for you to gain more utility
+
+673
+00:21:34,080 --> 00:21:38,480
+out of your 16 kusama holdings you can
+
+674
+00:21:36,400 --> 00:21:40,400
+go long you can go short you can
+
+675
+00:21:38,480 --> 00:21:42,080
+it's i mean the option is it's in your
+
+676
+00:21:40,400 --> 00:21:42,960
+hand to decide how you're going to use
+
+677
+00:21:42,080 --> 00:21:46,240
+this collector
+
+678
+00:21:42,960 --> 00:21:49,280
+um to trade and ride with the market
+
+679
+00:21:46,240 --> 00:21:51,520
+and broderick asked what about
+
+680
+00:21:49,280 --> 00:21:52,400
+interest so are you paying interest when
+
+681
+00:21:51,520 --> 00:21:55,440
+you're taking out
+
+682
+00:21:52,400 --> 00:21:57,280
+these loans and how does that work yes
+
+683
+00:21:55,440 --> 00:21:59,360
+so the interest essentially is what we
+
+684
+00:21:57,280 --> 00:22:00,559
+call the stabilization fee
+
+685
+00:21:59,360 --> 00:22:02,720
+if you take a long there will be
+
+686
+00:22:00,559 --> 00:22:04,880
+definitely some interest occur
+
+687
+00:22:02,720 --> 00:22:07,200
+and this is also the interest used to
+
+688
+00:22:04,880 --> 00:22:09,919
+manage the supply and demand
+
+689
+00:22:07,200 --> 00:22:11,600
+of the stablecar as well as like the um
+
+690
+00:22:09,919 --> 00:22:12,240
+the way to maintain that the stablecoin
+
+691
+00:22:11,600 --> 00:22:14,960
+will be
+
+692
+00:22:12,240 --> 00:22:15,760
+packed to to to a dollar in value and
+
+693
+00:22:14,960 --> 00:22:18,320
+the increase
+
+694
+00:22:15,760 --> 00:22:20,159
+um all the stabilization fee will be
+
+695
+00:22:18,320 --> 00:22:23,600
+managed by the governance process
+
+696
+00:22:20,159 --> 00:22:25,919
+really depends on demands and supplies
+
+697
+00:22:23,600 --> 00:22:28,240
+and do you know your interest rate
+
+698
+00:22:25,919 --> 00:22:29,679
+before you take out the loan
+
+699
+00:22:28,240 --> 00:22:30,799
+obviously definitely so let's say that
+
+700
+00:22:29,679 --> 00:22:33,440
+we want to create a lot we're going to
+
+701
+00:22:30,799 --> 00:22:37,360
+create some ldl ksm and scripto
+
+702
+00:22:33,440 --> 00:22:38,880
+i'm going to put in maybe 5l uh l ksm
+
+703
+00:22:37,360 --> 00:22:39,520
+here and i'm gonna taking maybe like two
+
+704
+00:22:38,880 --> 00:22:42,720
+dollar loan
+
+705
+00:22:39,520 --> 00:22:44,799
+you can already see that um um
+
+706
+00:22:42,720 --> 00:22:45,919
+the amount of money that you can borrow
+
+707
+00:22:44,799 --> 00:22:47,120
+the interest rate in here the
+
+708
+00:22:45,919 --> 00:22:49,280
+liquidation penalty
+
+709
+00:22:47,120 --> 00:22:50,320
+and if things goes wrong that where how
+
+710
+00:22:49,280 --> 00:22:52,080
+you can but
+
+711
+00:22:50,320 --> 00:22:54,080
+in chance that if you over capitalize
+
+712
+00:22:52,080 --> 00:22:56,480
+and the position becomes risky
+
+713
+00:22:54,080 --> 00:22:57,280
+you might get liquidated so this is the
+
+714
+00:22:56,480 --> 00:22:59,600
+um the
+
+715
+00:22:57,280 --> 00:23:00,640
+the the figure that you're able to see
+
+716
+00:22:59,600 --> 00:23:02,720
+before you
+
+717
+00:23:00,640 --> 00:23:04,080
+create a lawn and the final confirmation
+
+718
+00:23:02,720 --> 00:23:06,799
+stage you will be
+
+719
+00:23:04,080 --> 00:23:09,039
+once again so go ahead and confirm all
+
+720
+00:23:06,799 --> 00:23:09,600
+the numbers and press confirm and this
+
+721
+00:23:09,039 --> 00:23:12,159
+is how you
+
+722
+00:23:09,600 --> 00:23:12,640
+open a long position so i just created a
+
+723
+00:23:12,159 --> 00:23:15,280
+loan
+
+724
+00:23:12,640 --> 00:23:17,360
+using my lksm and received like two
+
+725
+00:23:15,280 --> 00:23:18,400
+dollars so you can say if i now go back
+
+726
+00:23:17,360 --> 00:23:20,240
+to an interface
+
+727
+00:23:18,400 --> 00:23:22,960
+i have two position open one with
+
+728
+00:23:20,240 --> 00:23:25,120
+bitcoin one with um lksm
+
+729
+00:23:22,960 --> 00:23:26,880
+those is like um and i totally have
+
+730
+00:23:25,120 --> 00:23:28,080
+borrowed probably like few thousand
+
+731
+00:23:26,880 --> 00:23:31,200
+dollars against both
+
+732
+00:23:28,080 --> 00:23:33,280
+um lksm and ram bdc okay
+
+733
+00:23:31,200 --> 00:23:35,600
+that makes sense and someone asked where
+
+734
+00:23:33,280 --> 00:23:37,200
+does that interest actually go
+
+735
+00:23:35,600 --> 00:23:38,880
+well the ancient cities actually go to
+
+736
+00:23:37,200 --> 00:23:40,720
+the treasury um
+
+737
+00:23:38,880 --> 00:23:42,880
+and being managed by the network right
+
+738
+00:23:40,720 --> 00:23:44,960
+it's it's essentially
+
+739
+00:23:42,880 --> 00:23:46,240
+controlled by the network for the long
+
+740
+00:23:44,960 --> 00:23:47,919
+prosperity of the network
+
+741
+00:23:46,240 --> 00:23:50,240
+the interest ultimately would be the
+
+742
+00:23:47,919 --> 00:23:51,919
+surplus within this system and
+
+743
+00:23:50,240 --> 00:23:53,840
+if you read our white paper regarding
+
+744
+00:23:51,919 --> 00:23:56,880
+the decentralized sovereign wales fund
+
+745
+00:23:53,840 --> 00:23:59,360
+the interest is ultimately hold managed
+
+746
+00:23:56,880 --> 00:24:02,640
+by the token holders
+
+747
+00:23:59,360 --> 00:24:06,159
+okay um one other question that's that's
+
+748
+00:24:02,640 --> 00:24:07,760
+relevant i think um the liquidation
+
+749
+00:24:06,159 --> 00:24:09,760
+concept i think is new to a lot of
+
+750
+00:24:07,760 --> 00:24:13,200
+people and
+
+751
+00:24:09,760 --> 00:24:14,480
+my so basically what the he he asked uh
+
+752
+00:24:13,200 --> 00:24:17,760
+what happens if the
+
+753
+00:24:14,480 --> 00:24:20,159
+token that is basically collateralized
+
+754
+00:24:17,760 --> 00:24:22,480
+with the value drops so
+
+755
+00:24:20,159 --> 00:24:24,000
+liquidation in this sense does not mean
+
+756
+00:24:22,480 --> 00:24:25,600
+that you kind of like
+
+757
+00:24:24,000 --> 00:24:27,440
+lose everything that you put down that's
+
+758
+00:24:25,600 --> 00:24:27,760
+why there was a liquidation percentage
+
+759
+00:24:27,440 --> 00:24:29,840
+so
+
+760
+00:24:27,760 --> 00:24:31,200
+in the example rota just showed it said
+
+761
+00:24:29,840 --> 00:24:33,520
+20
+
+762
+00:24:31,200 --> 00:24:34,559
+so what that means is if the price of
+
+763
+00:24:33,520 --> 00:24:36,640
+the underlying
+
+764
+00:24:34,559 --> 00:24:38,480
+collateral asset that you put down say
+
+765
+00:24:36,640 --> 00:24:39,360
+it's bitcoin for example if the price
+
+766
+00:24:38,480 --> 00:24:41,520
+were to drop
+
+767
+00:24:39,360 --> 00:24:42,720
+to a point where it became risky
+
+768
+00:24:41,520 --> 00:24:46,400
+according to what the
+
+769
+00:24:42,720 --> 00:24:48,559
+the system says here then your
+
+770
+00:24:46,400 --> 00:24:49,440
+your position would basically be sold at
+
+771
+00:24:48,559 --> 00:24:52,559
+a at a
+
+772
+00:24:49,440 --> 00:24:54,159
+rate of a 20 kind of um fee
+
+773
+00:24:52,559 --> 00:24:56,799
+for that for that liquidation take
+
+774
+00:24:54,159 --> 00:24:56,799
+taking place
+
+775
+00:24:56,960 --> 00:25:01,600
+yeah yeah i think to better um think
+
+776
+00:24:59,919 --> 00:25:03,760
+about liquidation it's more of like
+
+777
+00:25:01,600 --> 00:25:05,679
+uh if you collateralize and you borrow
+
+778
+00:25:03,760 --> 00:25:07,360
+against your bitcoin and then pick a job
+
+779
+00:25:05,679 --> 00:25:08,960
+to a particular price
+
+780
+00:25:07,360 --> 00:25:10,480
+a fraction of your collection will be
+
+781
+00:25:08,960 --> 00:25:12,240
+sold and you will see that if you were
+
+782
+00:25:10,480 --> 00:25:14,480
+just like sold those collectors
+
+783
+00:25:12,240 --> 00:25:16,159
+at that price you will still hold on to
+
+784
+00:25:14,480 --> 00:25:16,720
+the the money they borrow against it's
+
+785
+00:25:16,159 --> 00:25:19,120
+just like
+
+786
+00:25:16,720 --> 00:25:21,679
+you sold those um characters at a
+
+787
+00:25:19,120 --> 00:25:21,679
+penalty
+
+788
+00:25:22,880 --> 00:25:27,679
+yep cool well let's move on to the next
+
+789
+00:25:26,320 --> 00:25:30,000
+one
+
+790
+00:25:27,679 --> 00:25:30,960
+okay so the next um section we're gonna
+
+791
+00:25:30,000 --> 00:25:33,120
+cover is the
+
+792
+00:25:30,960 --> 00:25:34,320
+uh the decks that's where you can trade
+
+793
+00:25:33,120 --> 00:25:37,039
+um assets
+
+794
+00:25:34,320 --> 00:25:37,840
+are gonna be available on kura and asset
+
+795
+00:25:37,039 --> 00:25:40,400
+is gonna be
+
+796
+00:25:37,840 --> 00:25:42,159
+available in the wider kusama ecosystem
+
+797
+00:25:40,400 --> 00:25:44,559
+this is where you can trade so you can
+
+798
+00:25:42,159 --> 00:25:46,080
+see i just borrowed some ausd or kusd
+
+799
+00:25:44,559 --> 00:25:47,840
+the stable coin i can already start to
+
+800
+00:25:46,080 --> 00:25:51,679
+trade for example to trade
+
+801
+00:25:47,840 --> 00:25:54,480
+uh 100 uh kusd for maybe some
+
+802
+00:25:51,679 --> 00:25:55,919
+poker btc and i can say that okay this
+
+803
+00:25:54,480 --> 00:25:58,159
+is what i'm going to trace very similar
+
+804
+00:25:55,919 --> 00:26:00,880
+to uni swap
+
+805
+00:25:58,159 --> 00:26:01,360
+an am type of change i can press one
+
+806
+00:26:00,880 --> 00:26:02,960
+button
+
+807
+00:26:01,360 --> 00:26:05,279
+and then boom i will be trading and
+
+808
+00:26:02,960 --> 00:26:06,799
+bought some some poker btc
+
+809
+00:26:05,279 --> 00:26:09,440
+um the other way i can also trade
+
+810
+00:26:06,799 --> 00:26:11,679
+against by selling for example some some
+
+811
+00:26:09,440 --> 00:26:14,400
+program bdc and get some property
+
+812
+00:26:11,679 --> 00:26:16,240
+um dots or something else as long as
+
+813
+00:26:14,400 --> 00:26:18,320
+there's liquidity you can trade
+
+814
+00:26:16,240 --> 00:26:19,520
+within these stacks this stack is super
+
+815
+00:26:18,320 --> 00:26:22,159
+useful um when
+
+816
+00:26:19,520 --> 00:26:23,600
+the network um boot shaped it's going to
+
+817
+00:26:22,159 --> 00:26:24,880
+be one of the very first stacks that's
+
+818
+00:26:23,600 --> 00:26:27,360
+going to available
+
+819
+00:26:24,880 --> 00:26:28,559
+on kusama that allow you to trade in a
+
+820
+00:26:27,360 --> 00:26:30,880
+trustless way
+
+821
+00:26:28,559 --> 00:26:32,320
+and also because it's like an mm type of
+
+822
+00:26:30,880 --> 00:26:34,400
+exchange you can also
+
+823
+00:26:32,320 --> 00:26:36,240
+provide liquidity so you can provide
+
+824
+00:26:34,400 --> 00:26:38,799
+liquidity in sense of like
+
+825
+00:26:36,240 --> 00:26:40,559
+supplying a set of pairs into the pool
+
+826
+00:26:38,799 --> 00:26:42,320
+for example electrical by usd
+
+827
+00:26:40,559 --> 00:26:44,240
+to dodge and you can supply that will
+
+828
+00:26:42,320 --> 00:26:44,799
+approve x amount of usd and x amount of
+
+829
+00:26:44,240 --> 00:26:47,520
+dots
+
+830
+00:26:44,799 --> 00:26:49,600
+by supplying liquidity into this tax you
+
+831
+00:26:47,520 --> 00:26:51,600
+are essentially a market maker
+
+832
+00:26:49,600 --> 00:26:52,880
+and passive money maker you will be
+
+833
+00:26:51,600 --> 00:26:55,440
+earning the
+
+834
+00:26:52,880 --> 00:26:56,400
+the liquidity um the trading fee you'll
+
+835
+00:26:55,440 --> 00:27:00,080
+be earning
+
+836
+00:26:56,400 --> 00:27:01,520
+um all the um rewards um when you are
+
+837
+00:27:00,080 --> 00:27:04,000
+providing this liquidity
+
+838
+00:27:01,520 --> 00:27:05,679
+so every time that people trade um you
+
+839
+00:27:04,000 --> 00:27:07,600
+essentially help them to trade and
+
+840
+00:27:05,679 --> 00:27:08,799
+you by doing that you'll be ending some
+
+841
+00:27:07,600 --> 00:27:12,080
+nice share of the
+
+842
+00:27:08,799 --> 00:27:16,159
+of the trading fees um by providing this
+
+843
+00:27:12,080 --> 00:27:18,880
+liquidity um this this exchange itself
+
+844
+00:27:16,159 --> 00:27:20,320
+as for consumer is already quite useful
+
+845
+00:27:18,880 --> 00:27:22,240
+but it also has some
+
+846
+00:27:20,320 --> 00:27:25,039
+actual functionality it's actually the
+
+847
+00:27:22,240 --> 00:27:26,960
+backbone the unified source of liquidity
+
+848
+00:27:25,039 --> 00:27:28,399
+um for the whole cruel network which i
+
+849
+00:27:26,960 --> 00:27:30,559
+will cover later
+
+850
+00:27:28,399 --> 00:27:31,840
+when we show off the gas feed payment
+
+851
+00:27:30,559 --> 00:27:34,080
+feature but for now
+
+852
+00:27:31,840 --> 00:27:34,960
+we can see this is like already a very
+
+853
+00:27:34,080 --> 00:27:36,960
+very user
+
+854
+00:27:34,960 --> 00:27:39,520
+friendly consumer friendly way for you
+
+855
+00:27:36,960 --> 00:27:42,159
+to trade in a trustless way on kusama
+
+856
+00:27:39,520 --> 00:27:42,159
+and kura
+
+857
+00:27:42,880 --> 00:27:46,799
+and just uh just to mention again what
+
+858
+00:27:44,960 --> 00:27:49,760
+rutao mentioned earlier
+
+859
+00:27:46,799 --> 00:27:50,799
+this this is just our test net so when
+
+860
+00:27:49,760 --> 00:27:54,159
+carrera launches
+
+861
+00:27:50,799 --> 00:27:55,440
+these will be ksm focus so what you see
+
+862
+00:27:54,159 --> 00:27:58,000
+here is ausd
+
+863
+00:27:55,440 --> 00:27:58,559
+and aca when when carrera launches this
+
+864
+00:27:58,000 --> 00:28:01,200
+will say
+
+865
+00:27:58,559 --> 00:28:02,640
+kusd which is the carrera dollar and
+
+866
+00:28:01,200 --> 00:28:06,000
+it'll say
+
+867
+00:28:02,640 --> 00:28:11,120
+kar here instead of aca which is the
+
+868
+00:28:06,000 --> 00:28:11,120
+the utility token of kubura yeah
+
+869
+00:28:14,080 --> 00:28:20,240
+um another thing okay so ben is asking
+
+870
+00:28:17,440 --> 00:28:22,880
+something like what's the earnings share
+
+871
+00:28:20,240 --> 00:28:24,960
+for participating in the liquidity pool
+
+872
+00:28:22,880 --> 00:28:26,399
+so one thing to mention is that we've
+
+873
+00:28:24,960 --> 00:28:29,520
+set aside
+
+874
+00:28:26,399 --> 00:28:30,320
+um it's six percent uh right rutau of
+
+875
+00:28:29,520 --> 00:28:33,440
+our of the
+
+876
+00:28:30,320 --> 00:28:34,720
+kar the karua supply for the initial
+
+877
+00:28:33,440 --> 00:28:37,840
+liquidity provider
+
+878
+00:28:34,720 --> 00:28:39,919
+program so this is this is a bit of an
+
+879
+00:28:37,840 --> 00:28:41,520
+alpha leak i think on this on this call
+
+880
+00:28:39,919 --> 00:28:44,399
+but definitely uh
+
+881
+00:28:41,520 --> 00:28:45,919
+something that will reward early
+
+882
+00:28:44,399 --> 00:28:48,559
+liquidity providers who
+
+883
+00:28:45,919 --> 00:28:49,520
+who bring in whatever it might be if
+
+884
+00:28:48,559 --> 00:28:52,320
+it's ksm
+
+885
+00:28:49,520 --> 00:28:53,600
+or what have you um there will be there
+
+886
+00:28:52,320 --> 00:28:54,480
+will be an opportunity to provide
+
+887
+00:28:53,600 --> 00:28:56,000
+liquidity for
+
+888
+00:28:54,480 --> 00:28:58,159
+for any of these pairs on the career
+
+889
+00:28:56,000 --> 00:29:00,320
+decks from day one when we launched
+
+890
+00:28:58,159 --> 00:29:01,360
+yes yes i think this is another reason
+
+891
+00:29:00,320 --> 00:29:04,000
+that why um
+
+892
+00:29:01,360 --> 00:29:06,399
+we think kuru is going to be so amazing
+
+893
+00:29:04,000 --> 00:29:09,600
+for kusama token holders because you can
+
+894
+00:29:06,399 --> 00:29:11,200
+actually put the kusama token into work
+
+895
+00:29:09,600 --> 00:29:12,080
+for you right you can simply provide
+
+896
+00:29:11,200 --> 00:29:14,159
+liquidity
+
+897
+00:29:12,080 --> 00:29:15,360
+uh in the cruel network and start to
+
+898
+00:29:14,159 --> 00:29:17,520
+enjoy return
+
+899
+00:29:15,360 --> 00:29:18,399
+um for participating in this network and
+
+900
+00:29:17,520 --> 00:29:20,960
+for the uh
+
+901
+00:29:18,399 --> 00:29:22,880
+for the for the rewards when providing
+
+902
+00:29:20,960 --> 00:29:24,880
+liquidity they actually double reward
+
+903
+00:29:22,880 --> 00:29:26,480
+in the very first year that we as then
+
+904
+00:29:24,880 --> 00:29:27,279
+mentioned so you will be earning the
+
+905
+00:29:26,480 --> 00:29:29,600
+typical
+
+906
+00:29:27,279 --> 00:29:31,200
+liquidity provider fee that's like uh
+
+907
+00:29:29,600 --> 00:29:32,960
+pretty much industry standard if you
+
+908
+00:29:31,200 --> 00:29:34,080
+check out like sushi swap you can check
+
+909
+00:29:32,960 --> 00:29:35,679
+out that uni swap
+
+910
+00:29:34,080 --> 00:29:37,840
+um they already pretty much like to eat
+
+911
+00:29:35,679 --> 00:29:38,399
+the standard liquid liquidity provider
+
+912
+00:29:37,840 --> 00:29:40,399
+fee
+
+913
+00:29:38,399 --> 00:29:42,399
+but in additional you will be earning uh
+
+914
+00:29:40,399 --> 00:29:43,200
+some liquidity reward for the for early
+
+915
+00:29:42,399 --> 00:29:45,840
+contribution
+
+916
+00:29:43,200 --> 00:29:46,559
+for kurura and as then said we set aside
+
+917
+00:29:45,840 --> 00:29:48,399
+a set of
+
+918
+00:29:46,559 --> 00:29:50,080
+kura token to be used for that
+
+919
+00:29:48,399 --> 00:29:54,000
+particular
+
+920
+00:29:50,080 --> 00:29:54,960
+incentive as well a couple people are
+
+921
+00:29:54,000 --> 00:29:58,000
+asking about
+
+922
+00:29:54,960 --> 00:30:00,080
+um impermanent loss when providing
+
+923
+00:29:58,000 --> 00:30:02,559
+liquidity
+
+924
+00:30:00,080 --> 00:30:03,120
+yeah definitely like if um obviously in
+
+925
+00:30:02,559 --> 00:30:06,399
+the
+
+926
+00:30:03,120 --> 00:30:06,880
+in in short run or in short term if you
+
+927
+00:30:06,399 --> 00:30:09,120
+check
+
+928
+00:30:06,880 --> 00:30:10,240
+uni swap there's like this problem of
+
+929
+00:30:09,120 --> 00:30:12,240
+impediment loss
+
+930
+00:30:10,240 --> 00:30:14,799
+um when you're providing um liquidity
+
+931
+00:30:12,240 --> 00:30:17,360
+pair to let's say two very volatile
+
+932
+00:30:14,799 --> 00:30:19,120
+assets uh it's in the in the very
+
+933
+00:30:17,360 --> 00:30:20,399
+beginning it's almost the same for
+
+934
+00:30:19,120 --> 00:30:23,760
+providing liquidity
+
+935
+00:30:20,399 --> 00:30:25,440
+uh in um in kura as well so you will
+
+936
+00:30:23,760 --> 00:30:26,000
+experience some of the implement loss in
+
+937
+00:30:25,440 --> 00:30:28,080
+short term
+
+938
+00:30:26,000 --> 00:30:29,440
+but in long term um if you actually
+
+939
+00:30:28,080 --> 00:30:31,360
+check the historic data
+
+940
+00:30:29,440 --> 00:30:33,200
+in long term that pretty much all turns
+
+941
+00:30:31,360 --> 00:30:35,200
+out to be great um the additional
+
+942
+00:30:33,200 --> 00:30:38,559
+incentive that we have in place
+
+943
+00:30:35,200 --> 00:30:39,360
+for kr tokens um as liquidity rewards
+
+944
+00:30:38,559 --> 00:30:42,159
+for providing
+
+945
+00:30:39,360 --> 00:30:43,120
+early liquidity will even offstat that
+
+946
+00:30:42,159 --> 00:30:45,440
+if there's any
+
+947
+00:30:43,120 --> 00:30:46,960
+even further and we have some exciting
+
+948
+00:30:45,440 --> 00:30:48,080
+stuff that we may come up later when we
+
+949
+00:30:46,960 --> 00:30:51,120
+start to roll up
+
+950
+00:30:48,080 --> 00:30:51,840
+stuff one by one as i said uh or as dan
+
+951
+00:30:51,120 --> 00:30:54,799
+described
+
+952
+00:30:51,840 --> 00:30:55,679
+um kuru and alkala a specialized network
+
+953
+00:30:54,799 --> 00:30:58,480
+right it's like
+
+954
+00:30:55,679 --> 00:31:00,240
+a network specialized for finance um so
+
+955
+00:30:58,480 --> 00:31:01,760
+when when we go live it's not going to
+
+956
+00:31:00,240 --> 00:31:02,559
+stay in this straight we're going to
+
+957
+00:31:01,760 --> 00:31:04,640
+continue
+
+958
+00:31:02,559 --> 00:31:06,080
+to improve and continue to grow up new
+
+959
+00:31:04,640 --> 00:31:09,600
+feature on top of that
+
+960
+00:31:06,080 --> 00:31:09,600
+that's the hints i can give up today
+
+961
+00:31:11,919 --> 00:31:16,559
+cool yeah i guess we can move on to the
+
+962
+00:31:15,600 --> 00:31:19,279
+next
+
+963
+00:31:16,559 --> 00:31:20,640
+section someone was asking like when you
+
+964
+00:31:19,279 --> 00:31:22,559
+can do this when you can provide
+
+965
+00:31:20,640 --> 00:31:24,399
+liquidity when you can use
+
+966
+00:31:22,559 --> 00:31:25,760
+um the decks and the answer is the
+
+967
+00:31:24,399 --> 00:31:28,399
+moment we launch
+
+968
+00:31:25,760 --> 00:31:29,279
+so karua we just need to win the pair
+
+969
+00:31:28,399 --> 00:31:31,679
+chain slot
+
+970
+00:31:29,279 --> 00:31:32,320
+auction and the moment we win that um
+
+971
+00:31:31,679 --> 00:31:33,679
+all these
+
+972
+00:31:32,320 --> 00:31:35,360
+as you can see right now this is all
+
+973
+00:31:33,679 --> 00:31:38,159
+built we've been actually waiting
+
+974
+00:31:35,360 --> 00:31:39,039
+to launch this so the moment we can get
+
+975
+00:31:38,159 --> 00:31:41,840
+our
+
+976
+00:31:39,039 --> 00:31:43,919
+our slots in the kusama network we'll go
+
+977
+00:31:41,840 --> 00:31:47,039
+live and this stuff will all be usable
+
+978
+00:31:43,919 --> 00:31:49,679
+um from the moment we we get started
+
+979
+00:31:47,039 --> 00:31:52,000
+yeah so the next section is about liquid
+
+980
+00:31:49,679 --> 00:31:54,080
+staking and this is super amazing i
+
+981
+00:31:52,000 --> 00:31:56,000
+i just can't wait to use this feature so
+
+982
+00:31:54,080 --> 00:31:57,120
+the liquid staking in essentially in a
+
+983
+00:31:56,000 --> 00:32:00,000
+nutshell is like
+
+984
+00:31:57,120 --> 00:32:01,440
+it's a meta a trustless staking pool
+
+985
+00:32:00,000 --> 00:32:04,320
+that you can free
+
+986
+00:32:01,440 --> 00:32:06,320
+your stake asset so think about as like
+
+987
+00:32:04,320 --> 00:32:08,720
+if you're holding kusama today
+
+988
+00:32:06,320 --> 00:32:09,840
+and if you stick with validators which
+
+989
+00:32:08,720 --> 00:32:11,919
+you should
+
+990
+00:32:09,840 --> 00:32:13,519
+every time that you want to spend or you
+
+991
+00:32:11,919 --> 00:32:14,240
+want to move your kusama you have this
+
+992
+00:32:13,519 --> 00:32:16,559
+typical
+
+993
+00:32:14,240 --> 00:32:17,840
+seven day uploading period for the
+
+994
+00:32:16,559 --> 00:32:19,919
+security of the network
+
+995
+00:32:17,840 --> 00:32:22,000
+and on polkadot it's even longer it's 28
+
+996
+00:32:19,919 --> 00:32:23,760
+days for unbounding your stack assets
+
+997
+00:32:22,000 --> 00:32:25,440
+so what we created as what we call
+
+998
+00:32:23,760 --> 00:32:27,440
+liquid staking essentially
+
+999
+00:32:25,440 --> 00:32:28,799
+a trustless staking pool that you can
+
+1000
+00:32:27,440 --> 00:32:31,200
+stack using
+
+1001
+00:32:28,799 --> 00:32:32,880
+a kura and every time that you stake you
+
+1002
+00:32:31,200 --> 00:32:35,200
+will be getting a receipt
+
+1003
+00:32:32,880 --> 00:32:37,039
+of your stake assets uh because it's
+
+1004
+00:32:35,200 --> 00:32:38,080
+trustless the receipt of your state
+
+1005
+00:32:37,039 --> 00:32:41,279
+asset
+
+1006
+00:32:38,080 --> 00:32:43,360
+is what we call lksm so lksm is
+
+1007
+00:32:41,279 --> 00:32:44,320
+you bailing as long as you hold on to
+
+1008
+00:32:43,360 --> 00:32:46,320
+lksm
+
+1009
+00:32:44,320 --> 00:32:48,399
+you will be earning the staking reward
+
+1010
+00:32:46,320 --> 00:32:49,760
+it's also safe because it's trustless
+
+1011
+00:32:48,399 --> 00:32:51,760
+it's always guaranteed that you can
+
+1012
+00:32:49,760 --> 00:32:54,480
+redeem for more
+
+1013
+00:32:51,760 --> 00:32:55,519
+uh ksm when you want to redeem the the
+
+1014
+00:32:54,480 --> 00:32:57,840
+ksm back
+
+1015
+00:32:55,519 --> 00:32:58,720
+so um this is something that's extremely
+
+1016
+00:32:57,840 --> 00:33:00,399
+extremely
+
+1017
+00:32:58,720 --> 00:33:02,880
+user-friendly i think everyone should be
+
+1018
+00:33:00,399 --> 00:33:04,799
+using this if you hold a hokusama
+
+1019
+00:33:02,880 --> 00:33:06,720
+um and i'm gonna demonstrate here right
+
+1020
+00:33:04,799 --> 00:33:09,120
+so um for me to stay in this
+
+1021
+00:33:06,720 --> 00:33:10,080
+techniques trusting uh in this trustless
+
+1022
+00:33:09,120 --> 00:33:12,480
+staking pool
+
+1023
+00:33:10,080 --> 00:33:15,120
+it's as simple as i just swap some some
+
+1024
+00:33:12,480 --> 00:33:16,960
+dots or some ksm into lksm
+
+1025
+00:33:15,120 --> 00:33:18,720
+we make the user interface looks like
+
+1026
+00:33:16,960 --> 00:33:19,840
+swapping but inside instead this is not
+
+1027
+00:33:18,720 --> 00:33:20,799
+this is staking
+
+1028
+00:33:19,840 --> 00:33:24,159
+so i'm going to say that i'm going to
+
+1029
+00:33:20,799 --> 00:33:26,399
+stick and this is um
+
+1030
+00:33:24,159 --> 00:33:27,679
+essentially it's taking one ksm and
+
+1031
+00:33:26,399 --> 00:33:31,679
+exchange i get z
+
+1032
+00:33:27,679 --> 00:33:33,840
+i get 10 lks and bad the the this ratio
+
+1033
+00:33:31,679 --> 00:33:35,039
+is determined by the system uh we're
+
+1034
+00:33:33,840 --> 00:33:36,640
+going to improve this
+
+1035
+00:33:35,039 --> 00:33:38,159
+user interface later so it's always say
+
+1036
+00:33:36,640 --> 00:33:41,519
+that uh one
+
+1037
+00:33:38,159 --> 00:33:43,919
+ksm will be equal to one lksm and then
+
+1038
+00:33:41,519 --> 00:33:45,679
+one lksm will be equal to more and more
+
+1039
+00:33:43,919 --> 00:33:47,519
+ksm when you redeem later
+
+1040
+00:33:45,679 --> 00:33:49,760
+that's like if you hold on to lksm you
+
+1041
+00:33:47,519 --> 00:33:51,919
+will be growing very similar to how you
+
+1042
+00:33:49,760 --> 00:33:53,519
+save money in compound your money will
+
+1043
+00:33:51,919 --> 00:33:54,000
+be growing that's like you are earning
+
+1044
+00:33:53,519 --> 00:33:55,840
+interest
+
+1045
+00:33:54,000 --> 00:33:57,360
+but in this particular in the in your
+
+1046
+00:33:55,840 --> 00:33:58,559
+liquid staking you are earning the
+
+1047
+00:33:57,360 --> 00:34:02,640
+staking reward
+
+1048
+00:33:58,559 --> 00:34:05,600
+the lksm go ahead again let me just
+
+1049
+00:34:02,640 --> 00:34:06,960
+explain that so in this case you can see
+
+1050
+00:34:05,600 --> 00:34:08,800
+dot and l dot so
+
+1051
+00:34:06,960 --> 00:34:10,960
+that might be easier so what you're
+
+1052
+00:34:08,800 --> 00:34:13,280
+doing here is you're staking dot
+
+1053
+00:34:10,960 --> 00:34:14,079
+and say you're staking 10 dot you would
+
+1054
+00:34:13,280 --> 00:34:16,159
+get 10
+
+1055
+00:34:14,079 --> 00:34:17,839
+l dot in return and those liquid dots
+
+1056
+00:34:16,159 --> 00:34:20,639
+can be used within
+
+1057
+00:34:17,839 --> 00:34:21,919
+akala if it's dot um but what what
+
+1058
+00:34:20,639 --> 00:34:24,480
+ruitan mentioned is
+
+1059
+00:34:21,919 --> 00:34:26,079
+how this l dot is a receipt for your for
+
+1060
+00:34:24,480 --> 00:34:28,560
+your staked dot
+
+1061
+00:34:26,079 --> 00:34:30,560
+so if you can imagine like on the on the
+
+1062
+00:34:28,560 --> 00:34:32,079
+wallet screen that rue tau showed you
+
+1063
+00:34:30,560 --> 00:34:34,480
+with all of your balances
+
+1064
+00:34:32,079 --> 00:34:35,520
+your l dot balance will actually always
+
+1065
+00:34:34,480 --> 00:34:37,200
+be going up
+
+1066
+00:34:35,520 --> 00:34:39,119
+because it's it's showing you it's a
+
+1067
+00:34:37,200 --> 00:34:41,359
+receipt for your staked dot
+
+1068
+00:34:39,119 --> 00:34:43,359
+so as your staked dot starts earning
+
+1069
+00:34:41,359 --> 00:34:44,480
+more and more staking rewards that'll be
+
+1070
+00:34:43,359 --> 00:34:47,280
+reflected in your
+
+1071
+00:34:44,480 --> 00:34:48,720
+ldot balance so when you go to redeem
+
+1072
+00:34:47,280 --> 00:34:52,000
+your ldot
+
+1073
+00:34:48,720 --> 00:34:54,720
+for like native dot at the end
+
+1074
+00:34:52,000 --> 00:34:55,760
+whenever you want to unstake your l dot
+
+1075
+00:34:54,720 --> 00:34:58,160
+will have gone up
+
+1076
+00:34:55,760 --> 00:35:00,320
+since the moment you actually got your
+
+1077
+00:34:58,160 --> 00:35:02,000
+original l dot if that makes sense
+
+1078
+00:35:00,320 --> 00:35:04,720
+because it's just it's always reflecting
+
+1079
+00:35:02,000 --> 00:35:08,160
+your staking rewards adding on to your
+
+1080
+00:35:04,720 --> 00:35:11,119
+stack of ldap yeah think about
+
+1081
+00:35:08,160 --> 00:35:12,160
+as if eldor is a share of the pool of
+
+1082
+00:35:11,119 --> 00:35:13,920
+the staking pool
+
+1083
+00:35:12,160 --> 00:35:15,200
+and the staking pool is growing size
+
+1084
+00:35:13,920 --> 00:35:16,000
+because there's going to be staking
+
+1085
+00:35:15,200 --> 00:35:18,000
+reward that's
+
+1086
+00:35:16,000 --> 00:35:20,079
+praying to the pool but you can always
+
+1087
+00:35:18,000 --> 00:35:20,720
+redeem um for the same share that you
+
+1088
+00:35:20,079 --> 00:35:23,359
+put it in
+
+1089
+00:35:20,720 --> 00:35:25,359
+so your your that up the the redeeming
+
+1090
+00:35:23,359 --> 00:35:28,839
+number will be always growing so holding
+
+1091
+00:35:25,359 --> 00:35:31,760
+lg holding lksm is as if you are
+
+1092
+00:35:28,839 --> 00:35:34,320
+staking yeah
+
+1093
+00:35:31,760 --> 00:35:35,280
+and it's slightly if you have l or you
+
+1094
+00:35:34,320 --> 00:35:36,720
+have lksm
+
+1095
+00:35:35,280 --> 00:35:38,880
+because we call it liquid right it's
+
+1096
+00:35:36,720 --> 00:35:39,599
+actually transferable within the archive
+
+1097
+00:35:38,880 --> 00:35:41,839
+shot and
+
+1098
+00:35:39,599 --> 00:35:43,680
+within the wider pocket ecosystem you
+
+1099
+00:35:41,839 --> 00:35:45,440
+can send ldap to someone else you can
+
+1100
+00:35:43,680 --> 00:35:48,320
+send lksm to someone else
+
+1101
+00:35:45,440 --> 00:35:49,280
+as he was just moving um as if he's just
+
+1102
+00:35:48,320 --> 00:35:52,160
+moving some
+
+1103
+00:35:49,280 --> 00:35:54,800
+of some some transferrable assets um the
+
+1104
+00:35:52,160 --> 00:35:57,920
+the recipient who gets lg or google
+
+1105
+00:35:54,800 --> 00:35:58,400
+gets klksm can choose to continue to
+
+1106
+00:35:57,920 --> 00:36:01,200
+hold
+
+1107
+00:35:58,400 --> 00:36:01,760
+on the the lks ml dot or they can
+
+1108
+00:36:01,200 --> 00:36:04,400
+continue to
+
+1109
+00:36:01,760 --> 00:36:05,760
+decide to redeem um and get the actual
+
+1110
+00:36:04,400 --> 00:36:07,680
+valina dot back
+
+1111
+00:36:05,760 --> 00:36:09,200
+so this is like the the reason we call
+
+1112
+00:36:07,680 --> 00:36:11,359
+it liquid is that it's transferable it
+
+1113
+00:36:09,200 --> 00:36:14,240
+could be used for other utility as well
+
+1114
+00:36:11,359 --> 00:36:16,079
+and one big utility that you can use
+
+1115
+00:36:14,240 --> 00:36:18,720
+with this l ksm is that
+
+1116
+00:36:16,079 --> 00:36:19,520
+you can actually borrow against um your
+
+1117
+00:36:18,720 --> 00:36:21,760
+lksm
+
+1118
+00:36:19,520 --> 00:36:22,880
+in the demo that i showed earlier is
+
+1119
+00:36:21,760 --> 00:36:24,800
+that you can borrow
+
+1120
+00:36:22,880 --> 00:36:26,000
+against your stack asset so you don't
+
+1121
+00:36:24,800 --> 00:36:27,280
+actually have to give up your
+
+1122
+00:36:26,000 --> 00:36:28,640
+opportunity cost if you say that you
+
+1123
+00:36:27,280 --> 00:36:30,320
+want to borrow against thoughts
+
+1124
+00:36:28,640 --> 00:36:31,599
+you have to choose that hey do i want to
+
+1125
+00:36:30,320 --> 00:36:32,800
+select these thoughts or do i want to
+
+1126
+00:36:31,599 --> 00:36:35,200
+borrow against my dog
+
+1127
+00:36:32,800 --> 00:36:36,000
+but with ldl always lksm this is the
+
+1128
+00:36:35,200 --> 00:36:38,160
+best of both
+
+1129
+00:36:36,000 --> 00:36:39,440
+you could be earning the staking reward
+
+1130
+00:36:38,160 --> 00:36:41,839
+while you're borrowing against a
+
+1131
+00:36:39,440 --> 00:36:41,839
+position
+
+1132
+00:36:42,000 --> 00:36:48,240
+and yeah um dan any any question
+
+1133
+00:36:45,200 --> 00:36:51,359
+yeah one question um from
+
+1134
+00:36:48,240 --> 00:36:51,760
+jack here in the chat is it's basically
+
+1135
+00:36:51,359 --> 00:36:53,760
+like
+
+1136
+00:36:51,760 --> 00:36:56,000
+what he said what happens if you trade
+
+1137
+00:36:53,760 --> 00:36:58,320
+or sell your ldot so you have like the
+
+1138
+00:36:56,000 --> 00:37:01,520
+stake dot you get this l dot
+
+1139
+00:36:58,320 --> 00:37:03,920
+let's say you sell it all and you have
+
+1140
+00:37:01,520 --> 00:37:06,400
+so what happens then to your original
+
+1141
+00:37:03,920 --> 00:37:09,440
+dot like how do you actually
+
+1142
+00:37:06,400 --> 00:37:12,079
+either pay for that or get get the dot
+
+1143
+00:37:09,440 --> 00:37:14,320
+so think about the outdoor it's like an
+
+1144
+00:37:12,079 --> 00:37:15,920
+a receipt or redeems the receipt for
+
+1145
+00:37:14,320 --> 00:37:18,000
+your stakedown right so if you sell your
+
+1146
+00:37:15,920 --> 00:37:20,320
+l dot you actually sell the right
+
+1147
+00:37:18,000 --> 00:37:22,160
+to redeem those stocks so it's as if you
+
+1148
+00:37:20,320 --> 00:37:23,280
+sell the dollar someone else so in the
+
+1149
+00:37:22,160 --> 00:37:25,760
+demo that i just showed
+
+1150
+00:37:23,280 --> 00:37:26,560
+uh earlier if i transfer some ldl to
+
+1151
+00:37:25,760 --> 00:37:28,560
+somewhere else
+
+1152
+00:37:26,560 --> 00:37:29,839
+i was transferring the the redeem right
+
+1153
+00:37:28,560 --> 00:37:31,839
+of the underlying dot
+
+1154
+00:37:29,839 --> 00:37:33,760
+to someone else so it's as if i was
+
+1155
+00:37:31,839 --> 00:37:34,400
+sending dots so if you sew them then you
+
+1156
+00:37:33,760 --> 00:37:36,560
+just slice
+
+1157
+00:37:34,400 --> 00:37:37,440
+your solder dots it's um it's no longer
+
+1158
+00:37:36,560 --> 00:37:39,839
+yours and
+
+1159
+00:37:37,440 --> 00:37:41,920
+yeah the redeem right for that length is
+
+1160
+00:37:39,839 --> 00:37:45,040
+also no longer yours
+
+1161
+00:37:41,920 --> 00:37:45,920
+okay so the the l dot isn't connected
+
+1162
+00:37:45,040 --> 00:37:48,320
+directly to
+
+1163
+00:37:45,920 --> 00:37:51,200
+like a specific dot it's kind of that
+
+1164
+00:37:48,320 --> 00:37:51,680
+pool so if i so if jack here who asked a
+
+1165
+00:37:51,200 --> 00:37:53,680
+question
+
+1166
+00:37:51,680 --> 00:37:55,359
+sent me his l dot i could type that l
+
+1167
+00:37:53,680 --> 00:37:59,280
+dot and redeem it for dot
+
+1168
+00:37:55,359 --> 00:38:01,280
+in the akala pool yes yeah okay
+
+1169
+00:37:59,280 --> 00:38:03,280
+yeah the moment that you the moment that
+
+1170
+00:38:01,280 --> 00:38:05,599
+you stick with the the
+
+1171
+00:38:03,280 --> 00:38:06,320
+liquid sticking pool um the dog enter
+
+1172
+00:38:05,599 --> 00:38:08,400
+the pool
+
+1173
+00:38:06,320 --> 00:38:10,000
+and you essentially get is that what you
+
+1174
+00:38:08,400 --> 00:38:10,640
+essentially get back is the right to
+
+1175
+00:38:10,000 --> 00:38:12,480
+redeem
+
+1176
+00:38:10,640 --> 00:38:14,480
+for the dog and because dog itself is
+
+1177
+00:38:12,480 --> 00:38:15,599
+not functional it's fungible like every
+
+1178
+00:38:14,480 --> 00:38:17,280
+single dog is the same
+
+1179
+00:38:15,599 --> 00:38:18,800
+you can't say that okay that dog is my
+
+1180
+00:38:17,280 --> 00:38:20,960
+dog and that dog is your dog they are
+
+1181
+00:38:18,800 --> 00:38:23,440
+all dogs
+
+1182
+00:38:20,960 --> 00:38:25,359
+yes this guy this sage law said so the
+
+1183
+00:38:23,440 --> 00:38:27,599
+ldad is like the title to a car
+
+1184
+00:38:25,359 --> 00:38:29,280
+so if you sell the title someone else
+
+1185
+00:38:27,599 --> 00:38:33,200
+kind of owns the car
+
+1186
+00:38:29,280 --> 00:38:36,079
+yes since um another good question is
+
+1187
+00:38:33,200 --> 00:38:36,800
+basically could you explain how the the
+
+1188
+00:38:36,079 --> 00:38:38,560
+interest
+
+1189
+00:38:36,800 --> 00:38:40,000
+or the staking interest works since
+
+1190
+00:38:38,560 --> 00:38:42,800
+you're staking
+
+1191
+00:38:40,000 --> 00:38:44,079
+with a kala versus i guess in the in
+
+1192
+00:38:42,800 --> 00:38:45,839
+this case with karua so if you're
+
+1193
+00:38:44,079 --> 00:38:47,040
+staking your ksm with karua it's not
+
+1194
+00:38:45,839 --> 00:38:49,520
+staking like
+
+1195
+00:38:47,040 --> 00:38:51,040
+directly into the kusama chain there's
+
+1196
+00:38:49,520 --> 00:38:52,000
+this there's this kind of application
+
+1197
+00:38:51,040 --> 00:38:53,760
+layer so
+
+1198
+00:38:52,000 --> 00:38:55,440
+they're asking who is paying that
+
+1199
+00:38:53,760 --> 00:38:58,560
+percent interest for
+
+1200
+00:38:55,440 --> 00:39:00,480
+um in the carrera case lksm staking
+
+1201
+00:38:58,560 --> 00:39:01,920
+how does that work well well awesome
+
+1202
+00:39:00,480 --> 00:39:02,640
+like this is a good question right so
+
+1203
+00:39:01,920 --> 00:39:05,200
+the
+
+1204
+00:39:02,640 --> 00:39:07,040
+um think about the um the liquid staking
+
+1205
+00:39:05,200 --> 00:39:09,440
+pool as a trustless staking pool
+
+1206
+00:39:07,040 --> 00:39:11,200
+the dot other the ksm that you deposit
+
+1207
+00:39:09,440 --> 00:39:12,160
+into the pool will be managed by the
+
+1208
+00:39:11,200 --> 00:39:14,320
+network and the
+
+1209
+00:39:12,160 --> 00:39:15,200
+network will then nominate those dots
+
+1210
+00:39:14,320 --> 00:39:18,000
+into the
+
+1211
+00:39:15,200 --> 00:39:19,440
+um validator within the kusama network
+
+1212
+00:39:18,000 --> 00:39:21,760
+and if this dot is
+
+1213
+00:39:19,440 --> 00:39:24,480
+these pool sizes grow in size it will be
+
+1214
+00:39:21,760 --> 00:39:27,280
+managed it will be nominated across
+
+1215
+00:39:24,480 --> 00:39:28,000
+multiple validators in the in the kusama
+
+1216
+00:39:27,280 --> 00:39:31,119
+network
+
+1217
+00:39:28,000 --> 00:39:34,480
+so ultimately the staking reward of the
+
+1218
+00:39:31,119 --> 00:39:35,119
+of um staking by minting the lksm would
+
+1219
+00:39:34,480 --> 00:39:37,520
+be
+
+1220
+00:39:35,119 --> 00:39:40,160
+equivalent to the average eu of the
+
+1221
+00:39:37,520 --> 00:39:41,359
+network it will be safer because like d2
+
+1222
+00:39:40,160 --> 00:39:43,760
+is spread across
+
+1223
+00:39:41,359 --> 00:39:44,480
+multiple validators so even a slash
+
+1224
+00:39:43,760 --> 00:39:47,760
+happens
+
+1225
+00:39:44,480 --> 00:39:49,440
+the risk of like the pool is sort of
+
+1226
+00:39:47,760 --> 00:39:51,440
+like meditated
+
+1227
+00:39:49,440 --> 00:39:53,040
+because only slash a portion a tiny
+
+1228
+00:39:51,440 --> 00:39:55,200
+portion of that but the same
+
+1229
+00:39:53,040 --> 00:39:56,079
+um the sticking reward is also the
+
+1230
+00:39:55,200 --> 00:39:58,240
+average eu
+
+1231
+00:39:56,079 --> 00:39:59,359
+it's like a safe average view of the
+
+1232
+00:39:58,240 --> 00:40:03,359
+expected return
+
+1233
+00:39:59,359 --> 00:40:07,119
+of the network and one key other
+
+1234
+00:40:03,359 --> 00:40:10,240
+fact we need to understand is also the
+
+1235
+00:40:07,119 --> 00:40:11,760
+lksm holders actually can vote for
+
+1236
+00:40:10,240 --> 00:40:12,880
+validators so this is what we are
+
+1237
+00:40:11,760 --> 00:40:15,200
+working progress so
+
+1238
+00:40:12,880 --> 00:40:16,240
+when you meet lksm you guys you have the
+
+1239
+00:40:15,200 --> 00:40:19,920
+the right to say that i
+
+1240
+00:40:16,240 --> 00:40:22,720
+prefer the pool to validate and delegate
+
+1241
+00:40:19,920 --> 00:40:23,440
+the ksm into this set of validators and
+
+1242
+00:40:22,720 --> 00:40:25,839
+ultimately
+
+1243
+00:40:23,440 --> 00:40:27,359
+the pool would check all the input from
+
+1244
+00:40:25,839 --> 00:40:30,480
+the lksm holders
+
+1245
+00:40:27,359 --> 00:40:32,640
+and nominate those um those um kusama
+
+1246
+00:40:30,480 --> 00:40:35,680
+for across all the validators um as
+
+1247
+00:40:32,640 --> 00:40:37,599
+proportion as a portion
+
+1248
+00:40:35,680 --> 00:40:38,880
+okay so yeah so if i'm understanding
+
+1249
+00:40:37,599 --> 00:40:41,359
+correctly just to
+
+1250
+00:40:38,880 --> 00:40:43,040
+to reiterate this for um i forget who
+
+1251
+00:40:41,359 --> 00:40:45,040
+who asked that question but
+
+1252
+00:40:43,040 --> 00:40:47,200
+with kusama now if you're staking
+
+1253
+00:40:45,040 --> 00:40:48,800
+through polka dot js it's you as a user
+
+1254
+00:40:47,200 --> 00:40:51,520
+staking directly to
+
+1255
+00:40:48,800 --> 00:40:52,240
+a validator or a set of validators in
+
+1256
+00:40:51,520 --> 00:40:54,160
+this case
+
+1257
+00:40:52,240 --> 00:40:55,520
+in this case there's kirura in the
+
+1258
+00:40:54,160 --> 00:40:57,920
+middle so you
+
+1259
+00:40:55,520 --> 00:40:58,560
+stake with karua karua distributes the
+
+1260
+00:40:57,920 --> 00:41:01,200
+stake of
+
+1261
+00:40:58,560 --> 00:41:03,200
+everyone on karua to an evenly
+
+1262
+00:41:01,200 --> 00:41:05,520
+distributed set of validators across
+
+1263
+00:41:03,200 --> 00:41:06,319
+kusama and then all the returns coming
+
+1264
+00:41:05,520 --> 00:41:08,720
+in from
+
+1265
+00:41:06,319 --> 00:41:10,880
+those validators are pooled and then
+
+1266
+00:41:08,720 --> 00:41:13,280
+evenly distributed at the average
+
+1267
+00:41:10,880 --> 00:41:14,880
+across all the validators that career is
+
+1268
+00:41:13,280 --> 00:41:17,040
+staking with
+
+1269
+00:41:14,880 --> 00:41:18,720
+yes and if this is like a centralized
+
+1270
+00:41:17,040 --> 00:41:19,599
+staking service then you have the risk
+
+1271
+00:41:18,720 --> 00:41:21,680
+of the
+
+1272
+00:41:19,599 --> 00:41:23,359
+centralized entity being default you
+
+1273
+00:41:21,680 --> 00:41:24,480
+have this chart you have to trust the
+
+1274
+00:41:23,359 --> 00:41:26,560
+centralized entity
+
+1275
+00:41:24,480 --> 00:41:28,800
+um to do the right thing but since um
+
+1276
+00:41:26,560 --> 00:41:29,520
+the the liquid staking protocol that we
+
+1277
+00:41:28,800 --> 00:41:31,920
+currently have
+
+1278
+00:41:29,520 --> 00:41:32,640
+is trustless everything is managed on
+
+1279
+00:41:31,920 --> 00:41:34,240
+chen
+
+1280
+00:41:32,640 --> 00:41:36,160
+uh you can think of like it's like an
+
+1281
+00:41:34,240 --> 00:41:38,400
+advanced version of smart contract
+
+1282
+00:41:36,160 --> 00:41:39,839
+um everyone is staking in a trustless
+
+1283
+00:41:38,400 --> 00:41:43,040
+way and there's no risk of
+
+1284
+00:41:39,839 --> 00:41:44,160
+um of being um managed by one single
+
+1285
+00:41:43,040 --> 00:41:46,000
+centralized entity
+
+1286
+00:41:44,160 --> 00:41:48,000
+so this is the i think this is awesome
+
+1287
+00:41:46,000 --> 00:41:51,119
+this is the way to go um for
+
+1288
+00:41:48,000 --> 00:41:53,359
+um in a sense yokusama even you stick
+
+1289
+00:41:51,119 --> 00:41:57,040
+through the liquid staking
+
+1290
+00:41:53,359 --> 00:42:00,160
+yokusama never leave your custody
+
+1291
+00:41:57,040 --> 00:42:02,160
+yep we have some just really good
+
+1292
+00:42:00,160 --> 00:42:06,560
+questions here so um
+
+1293
+00:42:02,160 --> 00:42:09,040
+kalyan asked um
+
+1294
+00:42:06,560 --> 00:42:11,200
+okay so by staking or by making dot
+
+1295
+00:42:09,040 --> 00:42:12,160
+liquid are we compromising the safety of
+
+1296
+00:42:11,200 --> 00:42:15,280
+the polka dot
+
+1297
+00:42:12,160 --> 00:42:16,880
+chain the dot can be slash still be
+
+1298
+00:42:15,280 --> 00:42:19,920
+slashed right
+
+1299
+00:42:16,880 --> 00:42:21,520
+um what happens then the
+
+1300
+00:42:19,920 --> 00:42:24,400
+so basically he's asking what happens
+
+1301
+00:42:21,520 --> 00:42:26,079
+with like network security and slashing
+
+1302
+00:42:24,400 --> 00:42:28,160
+okay i think this is an awesome question
+
+1303
+00:42:26,079 --> 00:42:30,319
+right so um if the
+
+1304
+00:42:28,160 --> 00:42:31,440
+polka dots network security can be
+
+1305
+00:42:30,319 --> 00:42:34,240
+compromised
+
+1306
+00:42:31,440 --> 00:42:35,359
+by saying that you simply pull up the um
+
+1307
+00:42:34,240 --> 00:42:37,920
+the dot together
+
+1308
+00:42:35,359 --> 00:42:38,560
+and make it transferable and make it
+
+1309
+00:42:37,920 --> 00:42:40,960
+liquid
+
+1310
+00:42:38,560 --> 00:42:42,720
+then i think um it's gonna happen anyway
+
+1311
+00:42:40,960 --> 00:42:44,000
+like there's always a lot of centralized
+
+1312
+00:42:42,720 --> 00:42:46,160
+entities so if you stick with
+
+1313
+00:42:44,000 --> 00:42:47,680
+finance today you can already transfer
+
+1314
+00:42:46,160 --> 00:42:48,880
+your stack asset you can trade it in the
+
+1315
+00:42:47,680 --> 00:42:50,800
+market or things like that
+
+1316
+00:42:48,880 --> 00:42:52,240
+so the thing is that i we don't think
+
+1317
+00:42:50,800 --> 00:42:54,160
+this is going to affect the
+
+1318
+00:42:52,240 --> 00:42:55,359
+um the pokers network security at all
+
+1319
+00:42:54,160 --> 00:42:58,960
+because ultimately
+
+1320
+00:42:55,359 --> 00:42:59,440
+if by simply reprogram or by gaming by
+
+1321
+00:42:58,960 --> 00:43:01,440
+by
+
+1322
+00:42:59,440 --> 00:43:02,880
+building something on top of the network
+
+1323
+00:43:01,440 --> 00:43:04,640
+and you can affect security
+
+1324
+00:43:02,880 --> 00:43:06,560
+then there's actually a security problem
+
+1325
+00:43:04,640 --> 00:43:07,839
+of the underlying layer in this in our
+
+1326
+00:43:06,560 --> 00:43:10,319
+case we don't think that's
+
+1327
+00:43:07,839 --> 00:43:12,079
+gonna have any problem um the other key
+
+1328
+00:43:10,319 --> 00:43:13,599
+stuff to think about if you stick
+
+1329
+00:43:12,079 --> 00:43:15,920
+through this particular
+
+1330
+00:43:13,599 --> 00:43:17,359
+liquid staking pool you actually do not
+
+1331
+00:43:15,920 --> 00:43:18,880
+have the
+
+1332
+00:43:17,359 --> 00:43:20,319
+like the risk-free way to say that you
+
+1333
+00:43:18,880 --> 00:43:21,280
+are no longer getting chance of getting
+
+1334
+00:43:20,319 --> 00:43:24,720
+slashed
+
+1335
+00:43:21,280 --> 00:43:26,560
+so if the liquid staking pool was
+
+1336
+00:43:24,720 --> 00:43:30,880
+delegating or nominating
+
+1337
+00:43:26,560 --> 00:43:32,160
+let's say across 50 validators and one
+
+1338
+00:43:30,880 --> 00:43:33,839
+of those getting slashed
+
+1339
+00:43:32,160 --> 00:43:35,280
+the pool actually will get a hit of
+
+1340
+00:43:33,839 --> 00:43:38,160
+getting this slashed but
+
+1341
+00:43:35,280 --> 00:43:39,040
+the the result of like spreading this
+
+1342
+00:43:38,160 --> 00:43:41,359
+pool
+
+1343
+00:43:39,040 --> 00:43:42,800
+across 50 validator is that even though
+
+1344
+00:43:41,359 --> 00:43:43,680
+you you're getting slash in one
+
+1345
+00:43:42,800 --> 00:43:46,240
+validator
+
+1346
+00:43:43,680 --> 00:43:47,839
+the overall damage for the whole pool is
+
+1347
+00:43:46,240 --> 00:43:48,240
+particularly low and that's why i say
+
+1348
+00:43:47,839 --> 00:43:50,319
+it's a
+
+1349
+00:43:48,240 --> 00:43:51,839
+safe way to stake uh it's getting the
+
+1350
+00:43:50,319 --> 00:43:53,680
+average view of the network
+
+1351
+00:43:51,839 --> 00:43:54,960
+it's not trying to seek for the maximum
+
+1352
+00:43:53,680 --> 00:43:56,640
+return
+
+1353
+00:43:54,960 --> 00:43:58,720
+but it's also a very very user-friendly
+
+1354
+00:43:56,640 --> 00:44:00,960
+way that you can always expect to earn
+
+1355
+00:43:58,720 --> 00:44:02,720
+the expected return of the network
+
+1356
+00:44:00,960 --> 00:44:04,240
+um if you were stating by yourself and
+
+1357
+00:44:02,720 --> 00:44:05,040
+if you're nominating your dot to one
+
+1358
+00:44:04,240 --> 00:44:07,440
+particular
+
+1359
+00:44:05,040 --> 00:44:09,040
+validator and then if that validator was
+
+1360
+00:44:07,440 --> 00:44:10,640
+misbehaving it slashed
+
+1361
+00:44:09,040 --> 00:44:12,720
+then you will get a you will take a
+
+1362
+00:44:10,640 --> 00:44:14,319
+touch by normally getting that validator
+
+1363
+00:44:12,720 --> 00:44:16,319
+if you stick through this pool
+
+1364
+00:44:14,319 --> 00:44:18,400
+there's still chances that value gets
+
+1365
+00:44:16,319 --> 00:44:20,880
+latched but the overall cost
+
+1366
+00:44:18,400 --> 00:44:21,520
+for the pool holders will be even out
+
+1367
+00:44:20,880 --> 00:44:23,839
+and will be
+
+1368
+00:44:21,520 --> 00:44:23,839
+reduced
+
+1369
+00:44:24,720 --> 00:44:31,459
+cool so hopefully that helps kalyan
+
+1370
+00:44:28,400 --> 00:44:31,459
+[Music]
+
+1371
+00:44:33,440 --> 00:44:36,800
+oh another thing to maybe mention or
+
+1372
+00:44:36,079 --> 00:44:40,960
+show
+
+1373
+00:44:36,800 --> 00:44:42,960
+is um one of the current issues on
+
+1374
+00:44:40,960 --> 00:44:44,720
+polka dot and kusama right now is are
+
+1375
+00:44:42,960 --> 00:44:45,440
+the there are two things the staking
+
+1376
+00:44:44,720 --> 00:44:48,079
+minimums
+
+1377
+00:44:45,440 --> 00:44:49,599
+are becoming super high on polka dot and
+
+1378
+00:44:48,079 --> 00:44:52,720
+also on kusama
+
+1379
+00:44:49,599 --> 00:44:55,920
+um so what this allows is
+
+1380
+00:44:52,720 --> 00:44:58,400
+for people to come in and stake dot with
+
+1381
+00:44:55,920 --> 00:44:59,280
+like virtually no minimum right like
+
+1382
+00:44:58,400 --> 00:45:02,160
+what would the yes
+
+1383
+00:44:59,280 --> 00:45:03,200
+what would the actual minimum be so this
+
+1384
+00:45:02,160 --> 00:45:05,599
+is like um
+
+1385
+00:45:03,200 --> 00:45:06,880
+i have friends that has like 40 dots
+
+1386
+00:45:05,599 --> 00:45:08,560
+right and my friend really wants to
+
+1387
+00:45:06,880 --> 00:45:10,000
+steak but you can't because the mini
+
+1388
+00:45:08,560 --> 00:45:12,079
+mistaking amount on product
+
+1389
+00:45:10,000 --> 00:45:13,359
+currently i think it's over 200 which is
+
+1390
+00:45:12,079 --> 00:45:16,000
+um a lot
+
+1391
+00:45:13,359 --> 00:45:17,599
+but in this if you stick through um kura
+
+1392
+00:45:16,000 --> 00:45:19,119
+or if you stick through alcohol
+
+1393
+00:45:17,599 --> 00:45:20,800
+you actually can get you can actually
+
+1394
+00:45:19,119 --> 00:45:23,200
+bypass this limitation
+
+1395
+00:45:20,800 --> 00:45:24,560
+because like the pool itself like this
+
+1396
+00:45:23,200 --> 00:45:26,480
+particular gs uh
+
+1397
+00:45:24,560 --> 00:45:28,240
+controlled by the protocol uh will
+
+1398
+00:45:26,480 --> 00:45:28,640
+actually definitely have more than 200
+
+1399
+00:45:28,240 --> 00:45:31,119
+dots
+
+1400
+00:45:28,640 --> 00:45:32,880
+to nominate so no matter how much how
+
+1401
+00:45:31,119 --> 00:45:34,319
+how small amount you have you can still
+
+1402
+00:45:32,880 --> 00:45:38,000
+deposit into this pool
+
+1403
+00:45:34,319 --> 00:45:40,319
+and the pool by itself can nominate um
+
+1404
+00:45:38,000 --> 00:45:41,359
+the total amount of install to all the
+
+1405
+00:45:40,319 --> 00:45:44,319
+validators so yes
+
+1406
+00:45:41,359 --> 00:45:46,160
+we can definitely bypass that and then
+
+1407
+00:45:44,319 --> 00:45:48,079
+the other thing is um
+
+1408
+00:45:46,160 --> 00:45:49,760
+people who are staking through polka dot
+
+1409
+00:45:48,079 --> 00:45:52,880
+js or
+
+1410
+00:45:49,760 --> 00:45:54,160
+um any of the other kind of more native
+
+1411
+00:45:52,880 --> 00:45:57,119
+staking like not
+
+1412
+00:45:54,160 --> 00:45:58,480
+uh exchanges and centralized stuff with
+
+1413
+00:45:57,119 --> 00:46:01,200
+polka dot js right now
+
+1414
+00:45:58,480 --> 00:46:03,359
+you stake ksm and you have to do this
+
+1415
+00:46:01,200 --> 00:46:05,119
+seven day unbonding period
+
+1416
+00:46:03,359 --> 00:46:07,520
+and then with polka dot it's even longer
+
+1417
+00:46:05,119 --> 00:46:09,040
+it's 28 days so it just takes forever to
+
+1418
+00:46:07,520 --> 00:46:11,680
+unlock
+
+1419
+00:46:09,040 --> 00:46:12,560
+with uh with karua and with akala you
+
+1420
+00:46:11,680 --> 00:46:14,800
+can
+
+1421
+00:46:12,560 --> 00:46:16,960
+in talking maybe you can show this but
+
+1422
+00:46:14,800 --> 00:46:20,000
+um basically you can un-stake
+
+1423
+00:46:16,960 --> 00:46:22,079
+early for a small fee
+
+1424
+00:46:20,000 --> 00:46:23,440
+um and that fee is shown i think as
+
+1425
+00:46:22,079 --> 00:46:26,079
+you're kind of um
+
+1426
+00:46:23,440 --> 00:46:27,680
+not checking out but as you're kind of
+
+1427
+00:46:26,079 --> 00:46:32,079
+going through this process
+
+1428
+00:46:27,680 --> 00:46:34,480
+yeah so fee so in this case you're
+
+1429
+00:46:32,079 --> 00:46:36,079
+you're basically unstaking instantly
+
+1430
+00:46:34,480 --> 00:46:37,839
+right and then you're paying a fee of
+
+1431
+00:46:36,079 --> 00:46:40,319
+.02 dot
+
+1432
+00:46:37,839 --> 00:46:42,000
+yes so the design of the liquid sticking
+
+1433
+00:46:40,319 --> 00:46:43,760
+pool is that if i go to the advanced
+
+1434
+00:46:42,000 --> 00:46:46,000
+tab you will see that we always have
+
+1435
+00:46:43,760 --> 00:46:48,319
+some maintenance some free
+
+1436
+00:46:46,000 --> 00:46:49,599
+dots or some free kusama available for
+
+1437
+00:46:48,319 --> 00:46:51,680
+redeem immediately
+
+1438
+00:46:49,599 --> 00:46:52,720
+so let's say that if an user we really
+
+1439
+00:46:51,680 --> 00:46:56,319
+want to redeem
+
+1440
+00:46:52,720 --> 00:46:58,240
+um the l dot back to dots immediately
+
+1441
+00:46:56,319 --> 00:47:01,599
+you can do so because there's always
+
+1442
+00:46:58,240 --> 00:47:02,319
+a portion to set aside um for free um to
+
+1443
+00:47:01,599 --> 00:47:03,760
+redeem
+
+1444
+00:47:02,319 --> 00:47:05,680
+but if you want to redeem immediately
+
+1445
+00:47:03,760 --> 00:47:08,240
+you need to pay a fee to cover the
+
+1446
+00:47:05,680 --> 00:47:09,520
+otherwise lost return of those free
+
+1447
+00:47:08,240 --> 00:47:11,359
+portion of the
+
+1448
+00:47:09,520 --> 00:47:12,640
+um and also like this is not option this
+
+1449
+00:47:11,359 --> 00:47:13,280
+is not compulsory so if you want to
+
+1450
+00:47:12,640 --> 00:47:15,119
+redeem
+
+1451
+00:47:13,280 --> 00:47:16,400
+there's actually three way for you to
+
+1452
+00:47:15,119 --> 00:47:17,200
+redeem you can say that i want to redeem
+
+1453
+00:47:16,400 --> 00:47:18,800
+now then i will
+
+1454
+00:47:17,200 --> 00:47:20,480
+i will have to pay some fee all you say
+
+1455
+00:47:18,800 --> 00:47:23,119
+that i was gonna redeem
+
+1456
+00:47:20,480 --> 00:47:24,800
+the typical way um that's like waiting
+
+1457
+00:47:23,119 --> 00:47:27,200
+for the standard unbounding period
+
+1458
+00:47:24,800 --> 00:47:28,720
+you can free to do so or you can also
+
+1459
+00:47:27,200 --> 00:47:29,280
+redeem to say that i want to redeem and
+
+1460
+00:47:28,720 --> 00:47:32,480
+there's
+
+1461
+00:47:29,280 --> 00:47:34,319
+a queue of unbounding um dots on the
+
+1462
+00:47:32,480 --> 00:47:35,680
+on the on the on the on the staking pool
+
+1463
+00:47:34,319 --> 00:47:38,079
+because like will be always
+
+1464
+00:47:35,680 --> 00:47:39,760
+rebalanced between the stick dots and
+
+1465
+00:47:38,079 --> 00:47:40,960
+the an unstacked dot so you can choose
+
+1466
+00:47:39,760 --> 00:47:42,720
+that which may be like
+
+1467
+00:47:40,960 --> 00:47:44,400
+five player later you need the dots that
+
+1468
+00:47:42,720 --> 00:47:46,480
+will be at that particular price
+
+1469
+00:47:44,400 --> 00:47:47,839
+so it's actually a lot of like advanced
+
+1470
+00:47:46,480 --> 00:47:48,480
+feature hidden in here that you can
+
+1471
+00:47:47,839 --> 00:47:50,559
+redeem
+
+1472
+00:47:48,480 --> 00:47:52,400
+in multiple way um you can redeem at no
+
+1473
+00:47:50,559 --> 00:47:53,839
+cost or you can redeem immediately
+
+1474
+00:47:52,400 --> 00:47:56,800
+so in that in the middle one that you
+
+1475
+00:47:53,839 --> 00:47:59,440
+just showed um
+
+1476
+00:47:56,800 --> 00:48:00,240
+basically the main difference would be
+
+1477
+00:47:59,440 --> 00:48:03,119
+every
+
+1478
+00:48:00,240 --> 00:48:03,760
+every day closer to the current date
+
+1479
+00:48:03,119 --> 00:48:05,599
+you're just
+
+1480
+00:48:03,760 --> 00:48:07,440
+paying a little bit higher of a fee is
+
+1481
+00:48:05,599 --> 00:48:09,280
+that right yes yes
+
+1482
+00:48:07,440 --> 00:48:10,720
+so thinking about that you want to um
+
+1483
+00:48:09,280 --> 00:48:12,000
+with your money from a fixed term
+
+1484
+00:48:10,720 --> 00:48:13,680
+deposit account
+
+1485
+00:48:12,000 --> 00:48:15,040
+right so you have to pay some fee or you
+
+1486
+00:48:13,680 --> 00:48:17,040
+have to lose some interest if you want
+
+1487
+00:48:15,040 --> 00:48:19,119
+to withdraw money from a fixed um
+
+1488
+00:48:17,040 --> 00:48:20,079
+from a fixed um deposit account and how
+
+1489
+00:48:19,119 --> 00:48:22,160
+much you want to
+
+1490
+00:48:20,079 --> 00:48:23,839
+how urgently you need the money um
+
+1491
+00:48:22,160 --> 00:48:25,760
+depend and you will forfeit
+
+1492
+00:48:23,839 --> 00:48:28,000
+how much interest you will be giving
+
+1493
+00:48:25,760 --> 00:48:28,000
+back
+
+1494
+00:48:30,880 --> 00:48:34,160
+awesome so i think that's um the the
+
+1495
+00:48:33,520 --> 00:48:37,680
+show off
+
+1496
+00:48:34,160 --> 00:48:40,480
+of the uh of the liquid staking protocol
+
+1497
+00:48:37,680 --> 00:48:41,680
+and um all these three particles like
+
+1498
+00:48:40,480 --> 00:48:44,800
+they work with each other
+
+1499
+00:48:41,680 --> 00:48:47,280
+um the liquid staking dots on the lksm
+
+1500
+00:48:44,800 --> 00:48:48,079
+can be used um to borrow um can be used
+
+1501
+00:48:47,280 --> 00:48:51,280
+as character
+
+1502
+00:48:48,079 --> 00:48:53,680
+can betray in the decks as well um and
+
+1503
+00:48:51,280 --> 00:48:54,960
+because we call ourselves like as a as a
+
+1504
+00:48:53,680 --> 00:48:56,079
+specialized network
+
+1505
+00:48:54,960 --> 00:48:58,240
+i would like to really show off
+
+1506
+00:48:56,079 --> 00:49:00,079
+something that's like why we call
+
+1507
+00:48:58,240 --> 00:49:01,760
+ourselves as a specialized network is
+
+1508
+00:49:00,079 --> 00:49:04,800
+because like we can
+
+1509
+00:49:01,760 --> 00:49:06,720
+customize stuff that's outside um the
+
+1510
+00:49:04,800 --> 00:49:08,480
+um outside application layer we can
+
+1511
+00:49:06,720 --> 00:49:10,000
+customize a logic has
+
+1512
+00:49:08,480 --> 00:49:11,760
+in the blockchain layer that can create
+
+1513
+00:49:10,000 --> 00:49:14,000
+something that's like amazing
+
+1514
+00:49:11,760 --> 00:49:15,760
+to boost the user experience much much
+
+1515
+00:49:14,000 --> 00:49:17,119
+friendlier so what i'm going to do here
+
+1516
+00:49:15,760 --> 00:49:18,079
+is i'm going to switch to a brand new
+
+1517
+00:49:17,119 --> 00:49:20,480
+account right
+
+1518
+00:49:18,079 --> 00:49:22,240
+i have this brand new account and i have
+
+1519
+00:49:20,480 --> 00:49:27,040
+nothing else but 500
+
+1520
+00:49:22,240 --> 00:49:27,040
+usd or kusd in this case i have no other
+
+1521
+00:49:28,839 --> 00:49:31,839
+assets
+
+1522
+00:49:34,319 --> 00:49:38,000
+we have this like pay as a goal or like
+
+1523
+00:49:36,160 --> 00:49:40,480
+fix the fee or bring your own gas
+
+1524
+00:49:38,000 --> 00:49:41,760
+i can start to trade immediately as i as
+
+1525
+00:49:40,480 --> 00:49:43,920
+long as i have some assets
+
+1526
+00:49:41,760 --> 00:49:45,440
+in the guru network so i'm going to send
+
+1527
+00:49:43,920 --> 00:49:47,280
+a hundred dollars to
+
+1528
+00:49:45,440 --> 00:49:50,400
+an another address i will just press
+
+1529
+00:49:47,280 --> 00:49:52,480
+confirm i'm going to type in my password
+
+1530
+00:49:50,400 --> 00:49:54,079
+and i can send it and the network is
+
+1531
+00:49:52,480 --> 00:49:57,359
+happily taking
+
+1532
+00:49:54,079 --> 00:49:59,359
+a fetch uh uh the iusd that i sent it
+
+1533
+00:49:57,359 --> 00:50:02,000
+was it will charge
+
+1534
+00:49:59,359 --> 00:50:02,960
+like a half of a dollar of the usd as
+
+1535
+00:50:02,000 --> 00:50:06,160
+the network fee
+
+1536
+00:50:02,960 --> 00:50:06,800
+so this is already a huge um user
+
+1537
+00:50:06,160 --> 00:50:09,040
+experience
+
+1538
+00:50:06,800 --> 00:50:10,240
+boost compared to other blockchains this
+
+1539
+00:50:09,040 --> 00:50:13,200
+is like making the
+
+1540
+00:50:10,240 --> 00:50:13,520
+transaction in akala or in kura much
+
+1541
+00:50:13,200 --> 00:50:15,920
+much
+
+1542
+00:50:13,520 --> 00:50:16,640
+friendlier and another very common
+
+1543
+00:50:15,920 --> 00:50:18,960
+scenario
+
+1544
+00:50:16,640 --> 00:50:20,000
+um that you experience is that uh if you
+
+1545
+00:50:18,960 --> 00:50:22,960
+arrive on
+
+1546
+00:50:20,000 --> 00:50:24,720
+kuru or you arrive on kala kala you have
+
+1547
+00:50:22,960 --> 00:50:25,599
+only dots right you have nothing else
+
+1548
+00:50:24,720 --> 00:50:27,839
+but dogs
+
+1549
+00:50:25,599 --> 00:50:29,040
+um and in this particular cases you
+
+1550
+00:50:27,839 --> 00:50:32,160
+still want to transact
+
+1551
+00:50:29,040 --> 00:50:33,200
+within uh we sing within kurura you can
+
+1552
+00:50:32,160 --> 00:50:37,440
+do so so
+
+1553
+00:50:33,200 --> 00:50:39,680
+i'm gonna borrow against my 1.5
+
+1554
+00:50:37,440 --> 00:50:41,200
+kusama let's pretend it in these cases
+
+1555
+00:50:39,680 --> 00:50:43,680
+i'm going to borrow against that
+
+1556
+00:50:41,200 --> 00:50:44,960
+i have no other assets i have only dots
+
+1557
+00:50:43,680 --> 00:50:46,640
+i can still change that
+
+1558
+00:50:44,960 --> 00:50:49,599
+i can change that and the network is
+
+1559
+00:50:46,640 --> 00:50:52,160
+happy to take a friction off my god
+
+1560
+00:50:49,599 --> 00:50:53,200
+or my kusama as the network fee to allow
+
+1561
+00:50:52,160 --> 00:50:55,280
+me to transact
+
+1562
+00:50:53,200 --> 00:50:56,720
+so this is like what we call uh bring
+
+1563
+00:50:55,280 --> 00:50:58,960
+your own gas flexi
+
+1564
+00:50:56,720 --> 00:51:00,240
+flexi fee and this is like you are not
+
+1565
+00:50:58,960 --> 00:51:02,160
+forced you are not
+
+1566
+00:51:00,240 --> 00:51:04,319
+uh you are not forced to buy some native
+
+1567
+00:51:02,160 --> 00:51:06,400
+tokens just to in order to
+
+1568
+00:51:04,319 --> 00:51:08,480
+to pay for the guest fee we think a
+
+1569
+00:51:06,400 --> 00:51:10,480
+specialized financial network
+
+1570
+00:51:08,480 --> 00:51:11,599
+should be as smooth as possible should
+
+1571
+00:51:10,480 --> 00:51:13,760
+be encouraging
+
+1572
+00:51:11,599 --> 00:51:15,200
+um the user to trader to trade other
+
+1573
+00:51:13,760 --> 00:51:16,480
+than tight you should really get some
+
+1574
+00:51:15,200 --> 00:51:18,319
+token before you can trade
+
+1575
+00:51:16,480 --> 00:51:20,720
+uh so this is the one the special
+
+1576
+00:51:18,319 --> 00:51:22,319
+functionality um that you can see that
+
+1577
+00:51:20,720 --> 00:51:24,160
+the power um
+
+1578
+00:51:22,319 --> 00:51:25,680
+if you can customize the network into
+
+1579
+00:51:24,160 --> 00:51:29,119
+the core level
+
+1580
+00:51:25,680 --> 00:51:30,480
+yeah um this person jack asked a really
+
+1581
+00:51:29,119 --> 00:51:32,720
+good question
+
+1582
+00:51:30,480 --> 00:51:33,760
+um and it's it's exactly right so he's
+
+1583
+00:51:32,720 --> 00:51:35,440
+so um
+
+1584
+00:51:33,760 --> 00:51:37,839
+is there any question regarding like how
+
+1585
+00:51:35,440 --> 00:51:41,040
+we um how we show this um
+
+1586
+00:51:37,839 --> 00:51:44,319
+this fixed flexible fee payment on gas
+
+1587
+00:51:41,040 --> 00:51:44,319
+yeah can you can you hear me
+
+1588
+00:51:47,200 --> 00:51:51,359
+oh can you hear me i think we lost dan
+
+1589
+00:51:50,240 --> 00:51:54,240
+um but don't worry
+
+1590
+00:51:51,359 --> 00:51:54,240
+i can continue to
+
+1591
+00:51:54,400 --> 00:51:56,720
+i'm
+
+1592
+00:52:01,680 --> 00:52:05,839
+rita i'm here can you can you guys hear
+
+1593
+00:52:03,520 --> 00:52:05,839
+me
+
+1594
+00:52:06,720 --> 00:52:13,839
+um i can't hear you dan um
+
+1595
+00:52:10,559 --> 00:52:15,359
+can you hear me then okay oh well
+
+1596
+00:52:13,839 --> 00:52:18,319
+i think for some reason i can see dan
+
+1597
+00:52:15,359 --> 00:52:20,640
+the spinning the spinning okay that's
+
+1598
+00:52:18,319 --> 00:52:20,640
+great
+
+1599
+00:52:20,960 --> 00:52:24,079
+um maybe then i will i will try to
+
+1600
+00:52:23,359 --> 00:52:25,920
+rejoin
+
+1601
+00:52:24,079 --> 00:52:27,520
+or you can you can you can carry in the
+
+1602
+00:52:25,920 --> 00:52:28,559
+conversation i will try to rejoin and
+
+1603
+00:52:27,520 --> 00:52:30,400
+see if you can uh
+
+1604
+00:52:28,559 --> 00:52:31,599
+if i can hear you let me let me try to
+
+1605
+00:52:30,400 --> 00:52:33,839
+rejoin okay
+
+1606
+00:52:31,599 --> 00:52:33,839
+cool
+
+1607
+00:52:36,559 --> 00:52:43,359
+okay well i'm glad it wasn't just me
+
+1608
+00:52:40,400 --> 00:52:46,319
+um so let's see what was i gonna say oh
+
+1609
+00:52:43,359 --> 00:52:50,319
+yeah there was a question about
+
+1610
+00:52:46,319 --> 00:52:53,760
+um from
+
+1611
+00:52:50,319 --> 00:52:57,280
+from who was it jack oh about how the
+
+1612
+00:52:53,760 --> 00:53:00,000
+pay your own gas or what's it
+
+1613
+00:52:57,280 --> 00:53:01,119
+basically the gas fee um bring your own
+
+1614
+00:53:00,000 --> 00:53:05,200
+gas so
+
+1615
+00:53:01,119 --> 00:53:07,839
+as i try to invite roytel back
+
+1616
+00:53:05,200 --> 00:53:09,280
+uh basically you were is it is he right
+
+1617
+00:53:07,839 --> 00:53:10,640
+there you hear me now
+
+1618
+00:53:09,280 --> 00:53:12,000
+yeah i can hear you right now i think
+
+1619
+00:53:10,640 --> 00:53:13,119
+it's awesome like we're building we're
+
+1620
+00:53:12,000 --> 00:53:15,440
+building web
+
+1621
+00:53:13,119 --> 00:53:16,559
+we're building web 3.0 but now the web
+
+1622
+00:53:15,440 --> 00:53:19,920
+2.0
+
+1623
+00:53:16,559 --> 00:53:22,160
+streaming service failed on us okay
+
+1624
+00:53:19,920 --> 00:53:23,119
+i was i was trying to answer the
+
+1625
+00:53:22,160 --> 00:53:25,359
+question so
+
+1626
+00:53:23,119 --> 00:53:26,319
+jack you are exactly right the way that
+
+1627
+00:53:25,359 --> 00:53:29,280
+the gas fee
+
+1628
+00:53:26,319 --> 00:53:29,760
+actually works um on the surface on the
+
+1629
+00:53:29,280 --> 00:53:31,520
+ui
+
+1630
+00:53:29,760 --> 00:53:33,520
+to the user it looks like you're paying
+
+1631
+00:53:31,520 --> 00:53:36,319
+in bitcoin or
+
+1632
+00:53:33,520 --> 00:53:38,160
+link or eth or whatever it might be but
+
+1633
+00:53:36,319 --> 00:53:39,839
+on the back end you're exactly right
+
+1634
+00:53:38,160 --> 00:53:42,079
+it's actually being sent to the akala
+
+1635
+00:53:39,839 --> 00:53:44,160
+dex on the back end and transferred for
+
+1636
+00:53:42,079 --> 00:53:46,960
+the aca which is actually the fee that
+
+1637
+00:53:44,160 --> 00:53:49,760
+has to be paid for that transaction
+
+1638
+00:53:46,960 --> 00:53:49,760
+so you were right there
+
+1639
+00:53:52,480 --> 00:53:55,839
+so yeah ruta do you have anything else
+
+1640
+00:53:54,240 --> 00:53:59,599
+in terms of demo
+
+1641
+00:53:55,839 --> 00:54:02,240
+we've got 51 questions
+
+1642
+00:53:59,599 --> 00:54:03,920
+yeah i would just maybe um in my screen
+
+1643
+00:54:02,240 --> 00:54:06,160
+show off um
+
+1644
+00:54:03,920 --> 00:54:07,599
+what one additional reason that you i
+
+1645
+00:54:06,160 --> 00:54:08,240
+mean all the kusama holders should
+
+1646
+00:54:07,599 --> 00:54:11,280
+support
+
+1647
+00:54:08,240 --> 00:54:12,960
+kura it's like when we launched guru
+
+1648
+00:54:11,280 --> 00:54:14,640
+um dan already hinted there's going to
+
+1649
+00:54:12,960 --> 00:54:17,920
+be a liquidity mining um
+
+1650
+00:54:14,640 --> 00:54:19,599
+reward incentive program so
+
+1651
+00:54:17,920 --> 00:54:21,599
+it'll be super awesome like if you
+
+1652
+00:54:19,599 --> 00:54:23,440
+launch if kura launched
+
+1653
+00:54:21,599 --> 00:54:24,720
+you can not only you can start to trade
+
+1654
+00:54:23,440 --> 00:54:27,040
+your kusama token
+
+1655
+00:54:24,720 --> 00:54:28,319
+you can also earn some return by
+
+1656
+00:54:27,040 --> 00:54:30,480
+providing liquidity
+
+1657
+00:54:28,319 --> 00:54:31,920
+by maintaining stablecoin there's a lot
+
+1658
+00:54:30,480 --> 00:54:33,760
+of fun stuff you can do
+
+1659
+00:54:31,920 --> 00:54:36,160
+by participating in this network as an
+
+1660
+00:54:33,760 --> 00:54:38,160
+early computer so i think this is
+
+1661
+00:54:36,160 --> 00:54:39,920
+a really amazing chance to push straight
+
+1662
+00:54:38,160 --> 00:54:40,640
+no better way to push up kusama with a
+
+1663
+00:54:39,920 --> 00:54:43,760
+set of
+
+1664
+00:54:40,640 --> 00:54:45,200
+useful consumer um protocol along with a
+
+1665
+00:54:43,760 --> 00:54:45,760
+way to participate the network and get
+
+1666
+00:54:45,200 --> 00:54:49,359
+return
+
+1667
+00:54:45,760 --> 00:54:50,319
+get rewards yeah i know we actually had
+
+1668
+00:54:49,359 --> 00:54:53,599
+a question about
+
+1669
+00:54:50,319 --> 00:54:57,920
+that six percent someone kept
+
+1670
+00:54:53,599 --> 00:55:01,520
+someone asking a few times um is
+
+1671
+00:54:57,920 --> 00:55:04,240
+so i guess um bit i need to find
+
+1672
+00:55:01,520 --> 00:55:07,599
+bayes bayes was asking and i just like
+
+1673
+00:55:04,240 --> 00:55:10,880
+there's so many questions
+
+1674
+00:55:07,599 --> 00:55:13,440
+uh well hey
+
+1675
+00:55:10,880 --> 00:55:14,319
+i guess baze will find that question and
+
+1676
+00:55:13,440 --> 00:55:16,720
+come back to it
+
+1677
+00:55:14,319 --> 00:55:17,920
+someone also asked about the crowd loan
+
+1678
+00:55:16,720 --> 00:55:21,520
+and
+
+1679
+00:55:17,920 --> 00:55:24,480
+how they lock and contribute to all that
+
+1680
+00:55:21,520 --> 00:55:26,000
+let's keep the conversation um kind of
+
+1681
+00:55:24,480 --> 00:55:27,119
+focused more on the product today
+
+1682
+00:55:26,000 --> 00:55:28,880
+there's going to be
+
+1683
+00:55:27,119 --> 00:55:30,480
+we've done crowd loan presentations in
+
+1684
+00:55:28,880 --> 00:55:33,280
+the past and we're going to be doing
+
+1685
+00:55:30,480 --> 00:55:34,799
+at least one probably more before that
+
+1686
+00:55:33,280 --> 00:55:38,079
+starts
+
+1687
+00:55:34,799 --> 00:55:39,839
+so trust us we're going to be giving you
+
+1688
+00:55:38,079 --> 00:55:41,520
+probably more education than you even
+
+1689
+00:55:39,839 --> 00:55:41,920
+need on how that whole process works and
+
+1690
+00:55:41,520 --> 00:55:44,640
+we'll
+
+1691
+00:55:41,920 --> 00:55:45,760
+we'll be doing that um when the time
+
+1692
+00:55:44,640 --> 00:55:47,280
+comes we're
+
+1693
+00:55:45,760 --> 00:55:49,440
+we're waiting just like you guys and we
+
+1694
+00:55:47,280 --> 00:55:51,760
+don't know dates or anything like that
+
+1695
+00:55:49,440 --> 00:55:53,200
+but it's it's going to be soon it's it's
+
+1696
+00:55:51,760 --> 00:55:57,119
+looking like
+
+1697
+00:55:53,200 --> 00:55:59,760
+um the question about the liquidity was
+
+1698
+00:55:57,119 --> 00:56:00,160
+six percent of kr will be allocated to
+
+1699
+00:55:59,760 --> 00:56:03,200
+early
+
+1700
+00:56:00,160 --> 00:56:04,720
+liquidity providers how many early
+
+1701
+00:56:03,200 --> 00:56:07,599
+providers will that
+
+1702
+00:56:04,720 --> 00:56:08,960
+apply to and is there like a fixed
+
+1703
+00:56:07,599 --> 00:56:11,839
+amount or how does that
+
+1704
+00:56:08,960 --> 00:56:12,799
+work no because like this is a brand new
+
+1705
+00:56:11,839 --> 00:56:15,200
+area right so
+
+1706
+00:56:12,799 --> 00:56:16,640
+um we think six percent is going to be
+
+1707
+00:56:15,200 --> 00:56:19,200
+distributed across
+
+1708
+00:56:16,640 --> 00:56:20,079
+the very first 12 months is upon network
+
+1709
+00:56:19,200 --> 00:56:21,839
+genesis
+
+1710
+00:56:20,079 --> 00:56:23,280
+and that's the total the minimum total
+
+1711
+00:56:21,839 --> 00:56:24,559
+that we the network is willing to
+
+1712
+00:56:23,280 --> 00:56:26,880
+incentivize um
+
+1713
+00:56:24,559 --> 00:56:28,079
+early adopters and because like this is
+
+1714
+00:56:26,880 --> 00:56:30,799
+a brand new area
+
+1715
+00:56:28,079 --> 00:56:32,559
+we will be reviewing um all the
+
+1716
+00:56:30,799 --> 00:56:33,359
+governance process of the network we're
+
+1717
+00:56:32,559 --> 00:56:36,400
+reviewing
+
+1718
+00:56:33,359 --> 00:56:38,640
+uh where incentive incentive is needed
+
+1719
+00:56:36,400 --> 00:56:40,400
+at most for example if more stable coin
+
+1720
+00:56:38,640 --> 00:56:42,240
+is needed um
+
+1721
+00:56:40,400 --> 00:56:43,760
+every two week the governance process
+
+1722
+00:56:42,240 --> 00:56:44,960
+will review there should be more
+
+1723
+00:56:43,760 --> 00:56:47,440
+incentive deploying
+
+1724
+00:56:44,960 --> 00:56:49,040
+into the stable stable coin meeting if
+
+1725
+00:56:47,440 --> 00:56:50,319
+more tax volume or the more tax
+
+1726
+00:56:49,040 --> 00:56:51,920
+liquidity is needed
+
+1727
+00:56:50,319 --> 00:56:53,599
+um every two weeks the government's
+
+1728
+00:56:51,920 --> 00:56:56,079
+process will say that okay there will be
+
+1729
+00:56:53,599 --> 00:56:58,000
+slightly more incentive in the in the in
+
+1730
+00:56:56,079 --> 00:57:00,079
+the decks at that particular pair
+
+1731
+00:56:58,000 --> 00:57:01,920
+so you'll be constantly updating but the
+
+1732
+00:57:00,079 --> 00:57:04,799
+goal for the network is to give out
+
+1733
+00:57:01,920 --> 00:57:05,920
+um six percent at minimum with for the
+
+1734
+00:57:04,799 --> 00:57:07,599
+various 12 months
+
+1735
+00:57:05,920 --> 00:57:09,440
+for everyone that contributing that's
+
+1736
+00:57:07,599 --> 00:57:11,040
+trading that's providing liquidity
+
+1737
+00:57:09,440 --> 00:57:13,599
+that's meaning stablecoin
+
+1738
+00:57:11,040 --> 00:57:14,240
+um or maintain the lksm token in the
+
+1739
+00:57:13,599 --> 00:57:15,599
+network
+
+1740
+00:57:14,240 --> 00:57:17,280
+so yeah there's so many ways to
+
+1741
+00:57:15,599 --> 00:57:20,240
+participate
+
+1742
+00:57:17,280 --> 00:57:21,920
+and that so i guess there's a little bit
+
+1743
+00:57:20,240 --> 00:57:25,040
+more to his question like
+
+1744
+00:57:21,920 --> 00:57:26,720
+or his or her i don't know um the first
+
+1745
+00:57:25,040 --> 00:57:29,760
+he's saying or he or she is saying like
+
+1746
+00:57:26,720 --> 00:57:31,760
+the first is it is it a cap on
+
+1747
+00:57:29,760 --> 00:57:34,559
+like time how do you how does the six
+
+1748
+00:57:31,760 --> 00:57:37,040
+percent get distributed across that
+
+1749
+00:57:34,559 --> 00:57:37,839
+12 months if there's all these different
+
+1750
+00:57:37,040 --> 00:57:40,240
+ways of
+
+1751
+00:57:37,839 --> 00:57:40,880
+allocating that yeah i think that's like
+
+1752
+00:57:40,240 --> 00:57:42,799
+the
+
+1753
+00:57:40,880 --> 00:57:44,799
+in the very early we because the network
+
+1754
+00:57:42,799 --> 00:57:47,920
+was freshly generous
+
+1755
+00:57:44,799 --> 00:57:49,040
+genocide so we don't know um and what it
+
+1756
+00:57:47,920 --> 00:57:51,520
+really depends on
+
+1757
+00:57:49,040 --> 00:57:52,480
+every constant review of every two weeks
+
+1758
+00:57:51,520 --> 00:57:55,040
+but um
+
+1759
+00:57:52,480 --> 00:57:56,640
+the goal is to to dispute this i think
+
+1760
+00:57:55,040 --> 00:57:58,960
+the very early there will be more
+
+1761
+00:57:56,640 --> 00:58:00,160
+uh incentive as well currency to end
+
+1762
+00:57:58,960 --> 00:58:02,000
+will be slightly less
+
+1763
+00:58:00,160 --> 00:58:03,839
+um because that by then the level should
+
+1764
+00:58:02,000 --> 00:58:06,400
+be already bootstrapped so
+
+1765
+00:58:03,839 --> 00:58:07,680
+i think the best way um to get more the
+
+1766
+00:58:06,400 --> 00:58:09,440
+maximum amount of reward that you're
+
+1767
+00:58:07,680 --> 00:58:11,040
+able to get is to get in early
+
+1768
+00:58:09,440 --> 00:58:13,200
+and constantly checking the governance
+
+1769
+00:58:11,040 --> 00:58:14,400
+process of like where the most incentive
+
+1770
+00:58:13,200 --> 00:58:18,000
+will be located there
+
+1771
+00:58:14,400 --> 00:58:21,520
+and supply um to those um protocols
+
+1772
+00:58:18,000 --> 00:58:24,880
+cool okay well we're hitting an hour
+
+1773
+00:58:21,520 --> 00:58:26,240
+so for those of you who need to go um
+
+1774
+00:58:24,880 --> 00:58:28,000
+feel free we're finished with the
+
+1775
+00:58:26,240 --> 00:58:29,760
+presentation um
+
+1776
+00:58:28,000 --> 00:58:31,040
+we've got a lot of questions so i think
+
+1777
+00:58:29,760 --> 00:58:32,960
+we can spend
+
+1778
+00:58:31,040 --> 00:58:35,119
+maybe 10 minutes working through these
+
+1779
+00:58:32,960 --> 00:58:38,559
+as quickly as we can
+
+1780
+00:58:35,119 --> 00:58:40,480
+and what what we can do and
+
+1781
+00:58:38,559 --> 00:58:43,040
+this is going to take some work but i
+
+1782
+00:58:40,480 --> 00:58:44,079
+think we can we can commit to this is
+
+1783
+00:58:43,040 --> 00:58:45,839
+we'll go through the questions
+
+1784
+00:58:44,079 --> 00:58:46,640
+afterwards that we didn't answer and if
+
+1785
+00:58:45,839 --> 00:58:49,520
+there's any
+
+1786
+00:58:46,640 --> 00:58:51,200
+questions that are like particularly
+
+1787
+00:58:49,520 --> 00:58:52,559
+good questions we'll get some q
+
+1788
+00:58:51,200 --> 00:58:54,880
+a written up and send that as a
+
+1789
+00:58:52,559 --> 00:58:56,960
+follow-up to everybody who is on this
+
+1790
+00:58:54,880 --> 00:58:58,720
+on this call so apologies if we can't
+
+1791
+00:58:56,960 --> 00:59:00,799
+get to your question but we'll
+
+1792
+00:58:58,720 --> 00:59:03,599
+answer as many as we can now and then
+
+1793
+00:59:00,799 --> 00:59:06,640
+respond with the others
+
+1794
+00:59:03,599 --> 00:59:10,160
+so the first
+
+1795
+00:59:06,640 --> 00:59:13,760
+question is um
+
+1796
+00:59:10,160 --> 00:59:16,319
+the most upvoted so they're asking
+
+1797
+00:59:13,760 --> 00:59:18,079
+um i i think one of the most asked
+
+1798
+00:59:16,319 --> 00:59:20,960
+questions is unanswered
+
+1799
+00:59:18,079 --> 00:59:23,040
+was yesterday's build a call email
+
+1800
+00:59:20,960 --> 00:59:25,200
+official
+
+1801
+00:59:23,040 --> 00:59:27,119
+well there's um how do i say that
+
+1802
+00:59:25,200 --> 00:59:30,240
+there's a
+
+1803
+00:59:27,119 --> 00:59:31,040
+community reward event so if you do have
+
+1804
+00:59:30,240 --> 00:59:34,000
+a code
+
+1805
+00:59:31,040 --> 00:59:35,400
+and if you do check the website's
+
+1806
+00:59:34,000 --> 00:59:39,040
+official
+
+1807
+00:59:35,400 --> 00:59:42,480
+icloud.network then it is the official
+
+1808
+00:59:39,040 --> 00:59:42,960
+channel and if you received any emails
+
+1809
+00:59:42,480 --> 00:59:45,520
+from
+
+1810
+00:59:42,960 --> 00:59:46,799
+akala foundation just make sure you're
+
+1811
+00:59:45,520 --> 00:59:49,280
+checking the domain
+
+1812
+00:59:46,799 --> 00:59:50,160
+if it's at akala.network then that's
+
+1813
+00:59:49,280 --> 00:59:53,119
+coming from
+
+1814
+00:59:50,160 --> 00:59:53,119
+the akala foundation
+
+1815
+00:59:53,599 --> 00:59:59,280
+second question is um
+
+1816
+00:59:57,839 --> 01:00:01,440
+okay is there a date for kurora's
+
+1817
+00:59:59,280 --> 01:00:04,480
+auction process i already answered that
+
+1818
+01:00:01,440 --> 01:00:09,440
+no soon
+
+1819
+01:00:04,480 --> 01:00:11,599
+um okay let's see
+
+1820
+01:00:09,440 --> 01:00:13,200
+they're asking if the if u.s citizens
+
+1821
+01:00:11,599 --> 01:00:16,559
+will be eligible for
+
+1822
+01:00:13,200 --> 01:00:20,000
+the crowd loans and parachain auctions
+
+1823
+01:00:16,559 --> 01:00:23,200
+um we are working with regulators
+
+1824
+01:00:20,000 --> 01:00:25,599
+and legals and i don't have a
+
+1825
+01:00:23,200 --> 01:00:27,440
+definitive answer at this stage it's
+
+1826
+01:00:25,599 --> 01:00:30,799
+likely
+
+1827
+01:00:27,440 --> 01:00:32,559
+maybe but we will know that um
+
+1828
+01:00:30,799 --> 01:00:34,799
+it's not a no but it's also not a yes
+
+1829
+01:00:32,559 --> 01:00:39,520
+but we'll know that once um the auction
+
+1830
+01:00:34,799 --> 01:00:39,520
+process opens cool
+
+1831
+01:00:40,839 --> 01:00:43,839
+okay
+
+1832
+01:00:45,280 --> 01:00:48,480
+this okay this question i answered about
+
+1833
+01:00:47,359 --> 01:00:50,480
+l dot and dot
+
+1834
+01:00:48,480 --> 01:00:52,559
+the kind of receipt and how your l dot
+
+1835
+01:00:50,480 --> 01:00:55,839
+balance is going to be constantly going
+
+1836
+01:00:52,559 --> 01:00:57,520
+up in relation to reflect what your dot
+
+1837
+01:00:55,839 --> 01:00:59,359
+balance is doing behind the scenes with
+
+1838
+01:00:57,520 --> 01:01:02,240
+the staking
+
+1839
+01:00:59,359 --> 01:01:02,240
+that's a good question
+
+1840
+01:01:03,760 --> 01:01:07,680
+um so in the intensity stable coin dusty
+
+1841
+01:01:06,720 --> 01:01:11,359
+swings
+
+1842
+01:01:07,680 --> 01:01:13,520
+will be made
+
+1843
+01:01:11,359 --> 01:01:13,520
+so
+
+1844
+01:01:14,720 --> 01:01:19,839
+so the next question i see is um
+
+1845
+01:01:17,920 --> 01:01:22,079
+carrera is intended to be the defy hub
+
+1846
+01:01:19,839 --> 01:01:25,359
+of kusama and akala
+
+1847
+01:01:22,079 --> 01:01:27,520
+will be the defy hub of polka dot um
+
+1848
+01:01:25,359 --> 01:01:29,359
+will this be the only defy hubs or will
+
+1849
+01:01:27,520 --> 01:01:32,559
+there also be other
+
+1850
+01:01:29,359 --> 01:01:36,079
+d5 platforms well we see
+
+1851
+01:01:32,559 --> 01:01:36,799
+the um the poke gonna have like a 100
+
+1852
+01:01:36,079 --> 01:01:39,520
+power chance
+
+1853
+01:01:36,799 --> 01:01:41,440
+so there's going to be always open and
+
+1854
+01:01:39,520 --> 01:01:42,960
+trustless way for people to build right
+
+1855
+01:01:41,440 --> 01:01:44,880
+but what i can say is that currently
+
+1856
+01:01:42,960 --> 01:01:46,160
+karura is going to be the product and we
+
+1857
+01:01:44,880 --> 01:01:48,640
+want the permanent project
+
+1858
+01:01:46,160 --> 01:01:49,760
+in in kusama we had a very well the top
+
+1859
+01:01:48,640 --> 01:01:52,160
+developed project
+
+1860
+01:01:49,760 --> 01:01:53,520
+um in terms of like project completeness
+
+1861
+01:01:52,160 --> 01:01:55,200
+so we have the code set
+
+1862
+01:01:53,520 --> 01:01:56,720
+uh the whole code ready to go being
+
+1863
+01:01:55,200 --> 01:01:59,440
+audited three times
+
+1864
+01:01:56,720 --> 01:02:01,440
+um so i mean as things evolve there will
+
+1865
+01:01:59,440 --> 01:02:03,039
+be more specialized network but i think
+
+1866
+01:02:01,440 --> 01:02:06,079
+at this stage we will say that we
+
+1867
+01:02:03,039 --> 01:02:06,640
+are the most ready the top pronoun
+
+1868
+01:02:06,079 --> 01:02:09,520
+project
+
+1869
+01:02:06,640 --> 01:02:10,960
+to go in this in this direction and
+
+1870
+01:02:09,520 --> 01:02:12,559
+obviously the question regarding like
+
+1871
+01:02:10,960 --> 01:02:14,880
+what the the kusama
+
+1872
+01:02:12,559 --> 01:02:16,799
+the crew are serving kusama and the
+
+1873
+01:02:14,880 --> 01:02:20,000
+akala serving polka dots
+
+1874
+01:02:16,799 --> 01:02:21,520
+the the idea behind is that guru is
+
+1875
+01:02:20,000 --> 01:02:23,119
+always going to serve the kusama
+
+1876
+01:02:21,520 --> 01:02:23,839
+community and the kusama community's
+
+1877
+01:02:23,119 --> 01:02:26,000
+culture
+
+1878
+01:02:23,839 --> 01:02:27,119
+is very different from the polkadot
+
+1879
+01:02:26,000 --> 01:02:29,440
+community sculpture
+
+1880
+01:02:27,119 --> 01:02:30,880
+so i'm always using this example that
+
+1881
+01:02:29,440 --> 01:02:33,920
+for kusama it's like
+
+1882
+01:02:30,880 --> 01:02:35,200
+wilder it's like i don't want to say dgm
+
+1883
+01:02:33,920 --> 01:02:37,920
+but it's more of like
+
+1884
+01:02:35,200 --> 01:02:38,799
+risk-taking aggressiveness um and
+
+1885
+01:02:37,920 --> 01:02:41,599
+vibrance
+
+1886
+01:02:38,799 --> 01:02:42,160
+um polkadot is more of like um serious
+
+1887
+01:02:41,599 --> 01:02:45,680
+um
+
+1888
+01:02:42,160 --> 01:02:46,799
+security uh bankrupt security or things
+
+1889
+01:02:45,680 --> 01:02:48,880
+like that so
+
+1890
+01:02:46,799 --> 01:02:50,720
+upon launch this two network is the same
+
+1891
+01:02:48,880 --> 01:02:54,079
+but they will evolve in their own very
+
+1892
+01:02:50,720 --> 01:02:54,079
+distinctive style i would say
+
+1893
+01:02:56,720 --> 01:03:00,400
+okay i'm gonna keep skip there's a lot
+
+1894
+01:02:58,880 --> 01:03:02,640
+of build-a-collar questions we've
+
+1895
+01:03:00,400 --> 01:03:04,880
+already answered that
+
+1896
+01:03:02,640 --> 01:03:04,880
+um
+
+1897
+01:03:05,760 --> 01:03:10,000
+so this so why i have a kala in kura i
+
+1898
+01:03:09,039 --> 01:03:12,160
+already answered that
+
+1899
+01:03:10,000 --> 01:03:15,839
+too it's basically to serve the d5
+
+1900
+01:03:12,160 --> 01:03:17,119
+demand of of the kusama and polka dot
+
+1901
+01:03:15,839 --> 01:03:18,799
+yeah and then i think there's a lot of
+
+1902
+01:03:17,119 --> 01:03:20,720
+questions in the chat regarding that can
+
+1903
+01:03:18,799 --> 01:03:21,200
+a u.s citizen participate in the crowd
+
+1904
+01:03:20,720 --> 01:03:24,720
+on
+
+1905
+01:03:21,200 --> 01:03:25,119
+i i mentioned earlier that i didn't say
+
+1906
+01:03:24,720 --> 01:03:27,119
+no
+
+1907
+01:03:25,119 --> 01:03:29,520
+but i mean we are working with with
+
+1908
+01:03:27,119 --> 01:03:31,520
+legals and regulators
+
+1909
+01:03:29,520 --> 01:03:33,839
+i don't have a definitive answer today
+
+1910
+01:03:31,520 --> 01:03:37,440
+but we'll find out right
+
+1911
+01:03:33,839 --> 01:03:39,839
+yep um
+
+1912
+01:03:37,440 --> 01:03:40,640
+how many they're asking how many kar
+
+1913
+01:03:39,839 --> 01:03:43,520
+they could
+
+1914
+01:03:40,640 --> 01:03:45,839
+potentially receive as part of the crowd
+
+1915
+01:03:43,520 --> 01:03:48,799
+loan for kusama
+
+1916
+01:03:45,839 --> 01:03:50,319
+um yeah i think i'm very already shared
+
+1917
+01:03:48,799 --> 01:03:52,720
+the numbers right so for the
+
+1918
+01:03:50,319 --> 01:03:54,000
+one year lease the minimum amount of kr
+
+1919
+01:03:52,720 --> 01:03:56,799
+that you are receiving
+
+1920
+01:03:54,000 --> 01:03:58,559
+per kusama contributed is 12. you might
+
+1921
+01:03:56,799 --> 01:04:00,559
+get more but that's the minimum amount
+
+1922
+01:03:58,559 --> 01:04:03,039
+it's guaranteed
+
+1923
+01:04:00,559 --> 01:04:04,480
+and with with that being said we know
+
+1924
+01:04:03,039 --> 01:04:07,839
+that polka dot
+
+1925
+01:04:04,480 --> 01:04:09,440
+has the maximum lease pair chain slot
+
+1926
+01:04:07,839 --> 01:04:11,520
+lease of two years
+
+1927
+01:04:09,440 --> 01:04:13,920
+we don't actually know yet the kusama
+
+1928
+01:04:11,520 --> 01:04:17,119
+team hasn't revealed the the maximum
+
+1929
+01:04:13,920 --> 01:04:19,359
+so when rurita is saying one to 12
+
+1930
+01:04:17,119 --> 01:04:20,720
+plus this is for assuming we have a one
+
+1931
+01:04:19,359 --> 01:04:22,319
+year slot
+
+1932
+01:04:20,720 --> 01:04:23,920
+there's a chance that it could be less
+
+1933
+01:04:22,319 --> 01:04:25,440
+than that or more than that we this is
+
+1934
+01:04:23,920 --> 01:04:26,240
+one of the key things we're waiting on
+
+1935
+01:04:25,440 --> 01:04:29,520
+from
+
+1936
+01:04:26,240 --> 01:04:31,599
+gavin and the team at kusama yeah that's
+
+1937
+01:04:29,520 --> 01:04:33,920
+the culture of kusama like expect health
+
+1938
+01:04:31,599 --> 01:04:37,920
+you don't know until it's live
+
+1939
+01:04:33,920 --> 01:04:37,920
+like a day before yeah
+
+1940
+01:04:38,839 --> 01:04:43,680
+um exchanges
+
+1941
+01:04:41,440 --> 01:04:45,520
+let's we'll skip that and you'll just
+
+1942
+01:04:43,680 --> 01:04:48,799
+find out later
+
+1943
+01:04:45,520 --> 01:04:50,799
+um okay um
+
+1944
+01:04:48,799 --> 01:04:53,119
+they're asking this is a good question
+
+1945
+01:04:50,799 --> 01:04:56,720
+and kind of more recent so
+
+1946
+01:04:53,119 --> 01:05:00,480
+why did akala decide to re-denominate to
+
+1947
+01:04:56,720 --> 01:05:02,640
+1 billion and kr at 100 million
+
+1948
+01:05:00,480 --> 01:05:03,599
+well i think it's mostly due to the
+
+1949
+01:05:02,640 --> 01:05:07,280
+reason that
+
+1950
+01:05:03,599 --> 01:05:10,079
+polkadot itself has a redenomination
+
+1951
+01:05:07,280 --> 01:05:11,039
+it will give out a much nicer ratio like
+
+1952
+01:05:10,079 --> 01:05:14,079
+for example if you
+
+1953
+01:05:11,039 --> 01:05:14,720
+um take kusama you get some kr token you
+
+1954
+01:05:14,079 --> 01:05:16,960
+will see
+
+1955
+01:05:14,720 --> 01:05:18,720
+you will see the similar nice ratio when
+
+1956
+01:05:16,960 --> 01:05:20,880
+you stick dot to get some
+
+1957
+01:05:18,720 --> 01:05:22,000
+aca token as well it's purely for that
+
+1958
+01:05:20,880 --> 01:05:25,440
+reason um
+
+1959
+01:05:22,000 --> 01:05:27,280
+yep um hope to answer that
+
+1960
+01:05:25,440 --> 01:05:29,280
+yeah and the other aspect of it is the
+
+1961
+01:05:27,280 --> 01:05:31,200
+the underlying like
+
+1962
+01:05:29,280 --> 01:05:33,119
+the decimal point problem there was
+
+1963
+01:05:31,200 --> 01:05:34,799
+quite a bit of issues with
+
+1964
+01:05:33,119 --> 01:05:37,200
+um i think polkadot in the beginning
+
+1965
+01:05:34,799 --> 01:05:39,280
+keeping the original token supply
+
+1966
+01:05:37,200 --> 01:05:41,680
+added a lot of complexity with like too
+
+1967
+01:05:39,280 --> 01:05:43,440
+long of decimal places
+
+1968
+01:05:41,680 --> 01:05:44,720
+so that was the other that was the other
+
+1969
+01:05:43,440 --> 01:05:47,520
+reason for
+
+1970
+01:05:44,720 --> 01:05:47,520
+the akala one
+
+1971
+01:05:48,240 --> 01:05:51,839
+i call
+
+1972
+01:05:52,000 --> 01:05:55,280
+okay um
+
+1973
+01:05:56,000 --> 01:06:00,480
+let's see take a couple more
+
+1974
+01:06:01,119 --> 01:06:04,880
+oh someone's asking about the
+
+1975
+01:06:02,400 --> 01:06:08,559
+collectibles tab
+
+1976
+01:06:04,880 --> 01:06:09,920
+uh nfts and maybe i can just add to this
+
+1977
+01:06:08,559 --> 01:06:13,200
+like what is zakala's
+
+1978
+01:06:09,920 --> 01:06:16,400
+kind of i guess thoughts around or
+
+1979
+01:06:13,200 --> 01:06:18,079
+strategy around nfts
+
+1980
+01:06:16,400 --> 01:06:19,359
+i think there's already you can see
+
+1981
+01:06:18,079 --> 01:06:19,839
+there's a collectible tab there's
+
+1982
+01:06:19,359 --> 01:06:21,920
+already
+
+1983
+01:06:19,839 --> 01:06:22,880
+some collectible being given in the test
+
+1984
+01:06:21,920 --> 01:06:24,480
+nets um
+
+1985
+01:06:22,880 --> 01:06:25,839
+because we've been building this test
+
+1986
+01:06:24,480 --> 01:06:27,440
+net for a long time so i think that
+
+1987
+01:06:25,839 --> 01:06:28,240
+hasn't been up and running for over half
+
+1988
+01:06:27,440 --> 01:06:30,400
+a year
+
+1989
+01:06:28,240 --> 01:06:31,440
+it's a way to reward the early uh
+
+1990
+01:06:30,400 --> 01:06:33,599
+participants
+
+1991
+01:06:31,440 --> 01:06:35,280
+in the test net there's already some
+
+1992
+01:06:33,599 --> 01:06:37,039
+entity being minted in the testnet and i
+
+1993
+01:06:35,280 --> 01:06:40,240
+think they would also be carrier
+
+1994
+01:06:37,039 --> 01:06:41,440
+uh to mainnet as well um and
+
+1995
+01:06:40,240 --> 01:06:44,000
+then maybe you can share a little bit
+
+1996
+01:06:41,440 --> 01:06:45,039
+like um about the collectible that maybe
+
+1997
+01:06:44,000 --> 01:06:46,799
+we have some
+
+1998
+01:06:45,039 --> 01:06:48,640
+surprise when we're going to go launch
+
+1999
+01:06:46,799 --> 01:06:49,920
+on the on the crowd on stage i'm not
+
+2000
+01:06:48,640 --> 01:06:50,480
+sure how much you want to share but
+
+2001
+01:06:49,920 --> 01:06:54,000
+maybe
+
+2002
+01:06:50,480 --> 01:06:55,280
+take the stage dan um
+
+2003
+01:06:54,000 --> 01:06:58,000
+yeah i don't think there's too much to
+
+2004
+01:06:55,280 --> 01:06:59,520
+share on that like quite yet so we
+
+2005
+01:06:58,000 --> 01:07:01,440
+we're just thinking around other ways to
+
+2006
+01:06:59,520 --> 01:07:04,559
+kind of think and incentivize
+
+2007
+01:07:01,440 --> 01:07:06,319
+um people who are early contributors and
+
+2008
+01:07:04,559 --> 01:07:08,240
+crowd loan supporters so
+
+2009
+01:07:06,319 --> 01:07:09,839
+um there could be some kind of surprises
+
+2010
+01:07:08,240 --> 01:07:12,480
+that pop up in that
+
+2011
+01:07:09,839 --> 01:07:14,960
+collectibles tab come come time for the
+
+2012
+01:07:12,480 --> 01:07:18,319
+crowd loans yeah i would just say that
+
+2013
+01:07:14,960 --> 01:07:19,119
+we think uh we are we are making history
+
+2014
+01:07:18,319 --> 01:07:21,680
+right so i mean
+
+2015
+01:07:19,119 --> 01:07:23,760
+if you guys uh put supporting along with
+
+2016
+01:07:21,680 --> 01:07:24,079
+this right uh maybe there's a piece of
+
+2017
+01:07:23,760 --> 01:07:27,039
+um
+
+2018
+01:07:24,079 --> 01:07:29,839
+unique collectible that may be earned
+
+2019
+01:07:27,039 --> 01:07:29,839
+through this process
+
+2020
+01:07:30,079 --> 01:07:34,640
+here's a question that i saw pop up a
+
+2021
+01:07:31,920 --> 01:07:36,799
+few times today
+
+2022
+01:07:34,640 --> 01:07:38,319
+um who is this that's a good question
+
+2023
+01:07:36,799 --> 01:07:40,559
+brian
+
+2024
+01:07:38,319 --> 01:07:42,000
+so as traffic picks up within the
+
+2025
+01:07:40,559 --> 01:07:45,039
+network how does this affect
+
+2026
+01:07:42,000 --> 01:07:47,920
+gas and this is a question that
+
+2027
+01:07:45,039 --> 01:07:48,720
+relates to kusama and polka dot um so
+
+2028
+01:07:47,920 --> 01:07:50,640
+maybe you can
+
+2029
+01:07:48,720 --> 01:07:52,720
+answer that one yeah okay awesome
+
+2030
+01:07:50,640 --> 01:07:54,480
+question i think the um
+
+2031
+01:07:52,720 --> 01:07:56,160
+my point of view on gas fee is that we
+
+2032
+01:07:54,480 --> 01:07:59,520
+want to keep the gas as low
+
+2033
+01:07:56,160 --> 01:08:01,839
+as possible it's um the gas fee is not a
+
+2034
+01:07:59,520 --> 01:08:03,839
+way um to boost the network values
+
+2035
+01:08:01,839 --> 01:08:04,880
+in fact the gas fee should be kept as
+
+2036
+01:08:03,839 --> 01:08:08,319
+low to
+
+2037
+01:08:04,880 --> 01:08:09,920
+as possible to encourage transaction
+
+2038
+01:08:08,319 --> 01:08:11,440
+activity happen on the network and
+
+2039
+01:08:09,920 --> 01:08:13,039
+there's that those are the stuff that
+
+2040
+01:08:11,440 --> 01:08:16,159
+bring the network values
+
+2041
+01:08:13,039 --> 01:08:16,719
+um in our rough test as a project and i
+
+2042
+01:08:16,159 --> 01:08:19,520
+think we
+
+2043
+01:08:16,719 --> 01:08:20,239
+see tps scale at a thousand or above
+
+2044
+01:08:19,520 --> 01:08:23,440
+that
+
+2045
+01:08:20,239 --> 01:08:24,719
+so um the way that we calculate gas is
+
+2046
+01:08:23,440 --> 01:08:26,640
+weight based rather than the
+
+2047
+01:08:24,719 --> 01:08:28,319
+the mechanism you most of people
+
+2048
+01:08:26,640 --> 01:08:28,880
+familiar with the ethereum which is like
+
+2049
+01:08:28,319 --> 01:08:31,920
+building
+
+2050
+01:08:28,880 --> 01:08:34,560
+for the photogas fee because
+
+2051
+01:08:31,920 --> 01:08:36,319
+the power chain has much higher capacity
+
+2052
+01:08:34,560 --> 01:08:39,520
+in processing transactions
+
+2053
+01:08:36,319 --> 01:08:40,719
+we think um we're able to maintain a
+
+2054
+01:08:39,520 --> 01:08:44,560
+very low gas fee
+
+2055
+01:08:40,719 --> 01:08:46,239
+um for for for as extend extend
+
+2056
+01:08:44,560 --> 01:08:48,000
+i would say for the for the near short
+
+2057
+01:08:46,239 --> 01:08:49,600
+term to medium term futures um i don't
+
+2058
+01:08:48,000 --> 01:08:52,880
+think that's going to be a problem
+
+2059
+01:08:49,600 --> 01:08:54,239
+and if we are hitting even hitting that
+
+2060
+01:08:52,880 --> 01:08:56,480
+bottleneck of like two thousand
+
+2061
+01:08:54,239 --> 01:08:58,400
+or a thousand transaction per second uh
+
+2062
+01:08:56,480 --> 01:09:00,960
+the ultimate solution um
+
+2063
+01:08:58,400 --> 01:09:02,640
+it's just like in the imagination um
+
+2064
+01:09:00,960 --> 01:09:04,640
+stage at this stage is always
+
+2065
+01:09:02,640 --> 01:09:06,480
+what scavenges polkadot within pogba
+
+2066
+01:09:04,640 --> 01:09:06,960
+does there's a little bit long term but
+
+2067
+01:09:06,480 --> 01:09:08,799
+i don't
+
+2068
+01:09:06,960 --> 01:09:10,640
+want to get kept to carry too much on
+
+2069
+01:09:08,799 --> 01:09:11,279
+that i would say there's always scalable
+
+2070
+01:09:10,640 --> 01:09:12,880
+solution
+
+2071
+01:09:11,279 --> 01:09:16,880
+when building a polka dot and we always
+
+2072
+01:09:12,880 --> 01:09:16,880
+have a way to maintain low gas fee
+
+2073
+01:09:17,040 --> 01:09:20,080
+yeah i want to pulse i showed something
+
+2074
+01:09:19,199 --> 01:09:23,359
+last time that
+
+2075
+01:09:20,080 --> 01:09:25,279
+that people i think liked and i'll just
+
+2076
+01:09:23,359 --> 01:09:28,960
+share just to add on to what you're
+
+2077
+01:09:25,279 --> 01:09:32,239
+saying about polka dot within polka dot
+
+2078
+01:09:28,960 --> 01:09:35,839
+um if i can find it real quick oh yeah
+
+2079
+01:09:32,239 --> 01:09:35,839
+here it is
+
+2080
+01:09:36,400 --> 01:09:41,040
+so it's it's
+
+2081
+01:09:39,759 --> 01:09:43,279
+definitely something that's in the
+
+2082
+01:09:41,040 --> 01:09:44,799
+future but it's it's pretty interesting
+
+2083
+01:09:43,279 --> 01:09:46,080
+to
+
+2084
+01:09:44,799 --> 01:09:49,679
+to kind of think about so i'll just
+
+2085
+01:09:46,080 --> 01:09:52,319
+share this real quick
+
+2086
+01:09:49,679 --> 01:09:54,560
+and i will i will say that this is this
+
+2087
+01:09:52,319 --> 01:09:56,560
+is nothing official
+
+2088
+01:09:54,560 --> 01:09:58,880
+this is a this is something that i built
+
+2089
+01:09:56,560 --> 01:10:01,199
+myself when i heard about polka dot 2.0
+
+2090
+01:09:58,880 --> 01:10:04,320
+and what it could potentially be
+
+2091
+01:10:01,199 --> 01:10:07,679
+and what he what retal is referring to
+
+2092
+01:10:04,320 --> 01:10:09,520
+is like relay chains within relay chains
+
+2093
+01:10:07,679 --> 01:10:11,679
+so what you could have is a kala
+
+2094
+01:10:09,520 --> 01:10:13,679
+starting as a para chain here
+
+2095
+01:10:11,679 --> 01:10:16,080
+but then this eventually deciding to
+
+2096
+01:10:13,679 --> 01:10:17,840
+branch out and build our own relay chain
+
+2097
+01:10:16,080 --> 01:10:20,000
+which then connects into the original
+
+2098
+01:10:17,840 --> 01:10:20,960
+polka dot so you've got polka dot within
+
+2099
+01:10:20,000 --> 01:10:23,840
+polka dot within
+
+2100
+01:10:20,960 --> 01:10:24,719
+polka dot in this diagram and this is
+
+2101
+01:10:23,840 --> 01:10:26,560
+potentially
+
+2102
+01:10:24,719 --> 01:10:28,159
+where we could be heading in the future
+
+2103
+01:10:26,560 --> 01:10:31,840
+kind of fun to think about
+
+2104
+01:10:28,159 --> 01:10:31,840
+we'll see if it comes true
+
+2105
+01:10:33,440 --> 01:10:38,560
+um okay it's let's take like one more
+
+2106
+01:10:36,239 --> 01:10:38,560
+question
+
+2107
+01:10:41,440 --> 01:10:44,880
+carrera tokenomics i pasted the link in
+
+2108
+01:10:43,920 --> 01:10:48,800
+the chat
+
+2109
+01:10:44,880 --> 01:10:50,239
+so akala dot network slash karua slash
+
+2110
+01:10:48,800 --> 01:10:53,520
+token
+
+2111
+01:10:50,239 --> 01:10:53,520
+is a good place to go for that
+
+2112
+01:10:53,920 --> 01:10:59,679
+and yeah let's let's call it a day we've
+
+2113
+01:10:57,440 --> 01:11:00,880
+been here for an hour and 15. like i
+
+2114
+01:10:59,679 --> 01:11:03,199
+said i'll go through the questions and
+
+2115
+01:11:00,880 --> 01:11:05,760
+anything that we didn't answer i'll
+
+2116
+01:11:03,199 --> 01:11:07,040
+try to create a response if it's if it's
+
+2117
+01:11:05,760 --> 01:11:09,600
+a good question
+
+2118
+01:11:07,040 --> 01:11:11,360
+and that's that's about it hopefully you
+
+2119
+01:11:09,600 --> 01:11:13,199
+guys learned something new about
+
+2120
+01:11:11,360 --> 01:11:15,520
+i i know i i learned something new and
+
+2121
+01:11:13,199 --> 01:11:17,360
+had fun looking at the product demos
+
+2122
+01:11:15,520 --> 01:11:18,560
+this will be this is being recorded and
+
+2123
+01:11:17,360 --> 01:11:22,000
+this is going to be live
+
+2124
+01:11:18,560 --> 01:11:23,679
+on our youtube so definitely um
+
+2125
+01:11:22,000 --> 01:11:25,600
+watch out for our twitter we'll post the
+
+2126
+01:11:23,679 --> 01:11:27,280
+link on our twitter and then feel free
+
+2127
+01:11:25,600 --> 01:11:29,040
+to share it with your friends if you
+
+2128
+01:11:27,280 --> 01:11:30,560
+learned something and want to kind of
+
+2129
+01:11:29,040 --> 01:11:32,159
+help spread the word so
+
+2130
+01:11:30,560 --> 01:11:33,760
+um thanks everybody for taking the time
+
+2131
+01:11:32,159 --> 01:11:36,960
+to join us
+
+2132
+01:11:33,760 --> 01:11:39,920
+and we will definitely see you soon yeah
+
+2133
+01:11:36,960 --> 01:11:41,280
+thank you super excited and can't wait
+
+2134
+01:11:39,920 --> 01:11:43,120
+for the product to go live please
+
+2135
+01:11:41,280 --> 01:11:51,520
+support us
+
+2136
+01:11:43,120 --> 01:11:51,520
+bye guys bye guys
+
