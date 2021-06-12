@@ -1,14 +1,14 @@
 1
 00:00:01,040 --> 00:00:06,560
-Hey everybody this is Dan Reecer from
+大家好, 我是Dan Reecer
 
 2
 00:00:03,439 --> 00:00:08,639
-Acala, I'm currently VP of growth here.
+来自Acala的增长副总裁
 
 3
 00:00:06,560 --> 00:00:10,800
-I've been on the Acala team for a couple
+我已经在Acala团队中好几个月了
 
 4
 00:00:08,639 --> 00:00:12,320
@@ -16,59 +16,59 @@ months and previously spent my time at
 
 5
 00:00:10,800 --> 00:00:13,920
-Web3 Foundation
+Web3 基金会
 
 6
 00:00:12,320 --> 00:00:16,080
-where I helped launch Polkadot and
+我曾在那里帮助发起Polkadot以及
 
 7
 00:00:13,920 --> 00:00:17,920
-Kusama. Today I'm going to make this
+Kusama。今天，我可能会
 
 8
 00:00:16,080 --> 00:00:19,119
-really quick. I may talk fast because i'm
+说得很快
 
 9
 00:00:17,920 --> 00:00:21,119
-trying to keep it in
+希望能够把这视频
 
 10
 00:00:19,119 --> 00:00:22,560
-hopefully like five to seven minutes but
+维持在5到7分钟内
 
 11
 00:00:21,119 --> 00:00:24,720
-I'm going to be talking about
+我要谈论的是
 
 12
 00:00:22,560 --> 00:00:26,320
-Polkadot and Kusama parachain auctions
+Polkadot和Kusama 的平行链竞拍
 
 13
 00:00:24,720 --> 00:00:27,680
-and crowdloans, which are the process
+以及众贷相关的过程
 
 14
 00:00:26,320 --> 00:00:30,640
-for how to launch
+及如何在其中一个链上启动
 
 15
 00:00:27,680 --> 00:00:32,480
-a blockchain on one of these networks so
+一个区块链
 
 16
 00:00:30,640 --> 00:00:34,559
-Polkadot and Kusama as you may know are
+你可能知道的 Polkadot 和 Kusama 是
 
 17
 00:00:32,480 --> 00:00:35,840
-these multi-chain ecosystems that are
+一个多链生态系统
 
 18
 00:00:34,559 --> 00:00:37,680
-tying together
+连接在一起
 
 19
 00:00:35,840 --> 00:00:38,879
