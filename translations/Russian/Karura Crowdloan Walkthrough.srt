@@ -1,17 +1,17 @@
 1
 00:00:00,000 --> 00:00:05,200
-Hi everyone, this is Bette. You are here,
-congratulations! You are witnessing the 
+Всем привет, это Бетт. Вы здесь, 
+поздравляю! Вы стали свидетелями
 
 2
 00:00:05,200 --> 00:00:09,200
-launch of the decentralized web,
-the first ever crowdsourced parachain 
+запуска децентрализованной сети,
+первого в истории краудсорсингового парачейн-
+
 
 3
 00:00:09,200 --> 00:00:12,080
-auction on Kusama, Polkadot canary
-network. 
+аукциона на Kusama, канареечной сети Polkadot
 
 4
 00:00:12,800 --> 00:00:17,120
