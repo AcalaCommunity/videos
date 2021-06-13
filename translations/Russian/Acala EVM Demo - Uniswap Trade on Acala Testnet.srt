@@ -1,14 +1,14 @@
 1
 00:00:00,799 --> 00:00:06,879
-so next thing i'm going to show you um
+далее, я хочу показать вам
 
 2
 00:00:03,280 --> 00:00:09,200
-is how to deploy a uni swap to the akala
+как развернуть Uniswap на блокчейне
 
 3
 00:00:06,879 --> 00:00:10,880
-blockchain
+Acala
 
 4
 00:00:09,200 --> 00:00:13,280
