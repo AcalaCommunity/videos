@@ -172,32 +172,32 @@ wins the auction, 
 
 36
 00:02:32,880 --> 00:02:36,160
-your KSM will be locked for 48 weeks 
+ваши KSM будут заблокированы на 48 недель
 
 37
 00:02:36,160 --> 00:02:40,640
-and 30% of all rewards are transferable
-up front, the remaining will be vested. 
+и 30% наград будут доступны к перемещению, 
+по остальным - вестинг.
 
 38
 00:02:41,200 --> 00:02:47,040
-You can contribute multiple times
-during the entire crowdloan period. 
+Вы можете участвовать несколько раз
+в течение всего crowdloan-периода
 
 39
 00:02:48,560 --> 00:02:52,960
-If you used a referral link, the referral
-code will be filled in automatically. 
+Если вы используете реферальную ссылку, 
+реферальный код будет заполнен автоматически.
 
 40
 00:02:52,960 --> 00:02:55,840
-Otherwise you can just grab a code from
-our discord community 
+Иначе вы можете просто взять код из
+нашего сообщества в discord
 
 41
 00:02:55,840 --> 00:02:59,600
-and you'll receive 5% bonus.
-Now you can just 
+и вы получите 5% бонус.
+Теперь вы можете просто
 
 42
 00:02:59,600 --> 00:03:03,280
@@ -206,26 +206,26 @@ the Kusama relaychain. 
 
 43
 00:03:03,280 --> 00:03:07,600
-This may take a few seconds as it will
-wait for Kusama to finalize and confirm 
+Это может занять несколько секунд, так как оно
+ждет завершения и подтверждения Kusama
 
 44
 00:03:07,600 --> 00:03:09,840
-your
-contribution transaction. 
+вашу транзакцию 
+с вашим взносом
 
 45
 00:03:12,880 --> 00:03:18,240
-And that's all done! Please do share
-your great achievement on Social Media. 
+И это всё! Пожалуйста, поделитесь
+своим превосходным достижением в социальных сетях.
 
 46
 00:03:19,280 --> 00:03:22,720
-In any case,
-congratulations again and thank you for 
+В любом случае,
+ещё раз поздравляем и благодарим вас за
 
 47
 00:03:22,720 --> 00:03:26,400
-making history
-with Karura!
+создание истории 
+вместе с Karura!
 
