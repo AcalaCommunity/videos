@@ -15,28 +15,28 @@
 
 4
 00:00:12,800 --> 00:00:17,120
-Now of course Acala canary network,
-Karura, is at the very forefront of this 
+Теперь, конечно, канареечаня сеть Acala,
+Karura, находится на переднем плане этого
 
 5
 00:00:17,120 --> 00:00:21,120
-unprecedented launch.
-By supporting Karura's crowdloan here 
+беспрецедентного старта.
+Поддержав Karura crowdloan здесь
 
 6
 00:00:21,120 --> 00:00:24,560
-you will be helping us
-to launch the DeFi hub of Kusama, 
+вы посожете нам
+в запуске DeFi центра Kusama,
 
 7
 00:00:25,520 --> 00:00:29,040
-which will allow you to trade, stake, lend
-and borrow 
+что позволит вам торговать, стейкать, выдавать кредиты
+и брать займы
 
 8
 00:00:29,040 --> 00:00:31,520
-and earn various youths on your digital
-assets. 
+и зарабатывайте на цифровых
+активах.
 
 9
 00:00:32,320 --> 00:00:35,760
@@ -201,8 +201,8 @@ wins the auction, 
 
 42
 00:02:59,600 --> 00:03:03,280
-submit the contribution transaction to
-the Kusama relaychain. 
+отправить транзакцию взноса в
+релейную сеть Kusama.
 
 43
 00:03:03,280 --> 00:03:07,600
