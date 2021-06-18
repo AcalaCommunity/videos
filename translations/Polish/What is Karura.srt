@@ -3168,143 +3168,143 @@ DEX`ach, gdzie możesz handlować
 
 793
 00:25:33,120 --> 00:25:37,039
-um assets
+walorami
 
 794
 00:25:34,320 --> 00:25:37,840
-are gonna be available on kura and asset
+będą dostępne w Karura i walory
 
 795
 00:25:37,039 --> 00:25:40,400
-is gonna be
+będą
 
 796
 00:25:37,840 --> 00:25:42,159
-available in the wider kusama ecosystem
+dostępne w szerszym ekosystemie Kusamy
 
 797
 00:25:40,400 --> 00:25:44,559
-this is where you can trade so you can
+tutaj możesz handlować, więc możesz
 
 798
 00:25:42,159 --> 00:25:46,080
-see i just borrowed some ausd or kusd
+zobaczyć, że pożyczyłem jakieś aUSD, czy kUSD
 
 799
 00:25:44,559 --> 00:25:47,840
-the stable coin i can already start to
+stablecoin. Mogę już zacząć
 
 800
 00:25:46,080 --> 00:25:51,679
-trade for example to trade
+handlować. Na przykład kupić
 
 801
 00:25:47,840 --> 00:25:54,480
-uh 100 uh kusd for maybe some
+za 100 kUSD może jakieś
 
 802
 00:25:51,679 --> 00:25:55,919
-poker btc and i can say that okay this
+polkaBTC i mogę powiedzieć, że to
 
 803
 00:25:54,480 --> 00:25:58,159
-is what i'm going to trace very similar
+co zamierzam handlować jest bardzo podobne
 
 804
 00:25:55,919 --> 00:26:00,880
-to uni swap
+do uniswap
 
 805
 00:25:58,159 --> 00:26:01,360
-an am type of change i can press one
+giełda typu AMM klikam jeden
 
 806
 00:26:00,880 --> 00:26:02,960
-button
+przycisk
 
 807
 00:26:01,360 --> 00:26:05,279
-and then boom i will be trading and
+i boom będę handlować i
 
 808
 00:26:02,960 --> 00:26:06,799
-bought some some poker btc
+kupiłem trochę polkaBTC
 
 809
 00:26:05,279 --> 00:26:09,440
-um the other way i can also trade
+Innym sposobem w jaki również mogę handlować
 
 810
 00:26:06,799 --> 00:26:11,679
-against by selling for example some some
+poprzez sprzedaż, na przykład
 
 811
 00:26:09,440 --> 00:26:14,400
-program bdc and get some property
+polkaBTC i uzyskać jakieś walory
 
 812
 00:26:11,679 --> 00:26:16,240
-um dots or something else as long as
+DOT albo coś innego, dopóki
 
 813
 00:26:14,400 --> 00:26:18,320
-there's liquidity you can trade
+tam jest płynność, którą możesz handlować
 
 814
 00:26:16,240 --> 00:26:19,520
-within these stacks this stack is super
+na tych DEX`ach, ten DEX jest bardzo
 
 815
 00:26:18,320 --> 00:26:22,159
-useful um when
+użyteczny, kiedy
 
 816
 00:26:19,520 --> 00:26:23,600
-the network um boot shaped it's going to
+sieć zostanie uruchomiona, to będzie
 
 817
 00:26:22,159 --> 00:26:24,880
-be one of the very first stacks that's
+jednym z pierwszych DEX`ów, które
 
 818
 00:26:23,600 --> 00:26:27,360
-going to available
+będą dostępne
 
 819
 00:26:24,880 --> 00:26:28,559
-on kusama that allow you to trade in a
+na Kusamie, która pozwala na handel
 
 820
 00:26:27,360 --> 00:26:30,880
-trustless way
+w sposób nie wymagający zaufania
 
 821
 00:26:28,559 --> 00:26:32,320
-and also because it's like an mm type of
+i dlatego, że jest to typu AMM
 
 822
 00:26:30,880 --> 00:26:34,400
-exchange you can also
+giełda, możesz również
 
 823
 00:26:32,320 --> 00:26:36,240
-provide liquidity so you can provide
+dostarczać płynności, więc możesz dostarczyć
 
 824
 00:26:34,400 --> 00:26:38,799
-liquidity in sense of like
+płynności podobnie jak
 
 825
 00:26:36,240 --> 00:26:40,559
-supplying a set of pairs into the pool
+dostarczanie zestawu par do póli
 
 826
 00:26:38,799 --> 00:26:42,320
-for example electrical by usd
+na przykład aUSD
 
 827
 00:26:40,559 --> 00:26:44,240
-to dodge and you can supply that will
+wraz z DOT i możesz je dostarczyć, to będzie
 
 828
 00:26:42,320 --> 00:26:44,799
