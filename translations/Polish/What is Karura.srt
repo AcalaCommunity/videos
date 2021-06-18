@@ -3308,167 +3308,167 @@ wraz z DOT i możesz je dostarczyć, to będzie
 
 828
 00:26:42,320 --> 00:26:44,799
-approve x amount of usd and x amount of
+wymagać ilość x aUSD oraz ilość x
 
 829
 00:26:44,240 --> 00:26:47,520
-dots
+DOT
 
 830
 00:26:44,799 --> 00:26:49,600
-by supplying liquidity into this tax you
+dostarczając płynność do tego DEX`a, jesteś
 
 831
 00:26:47,520 --> 00:26:51,600
-are essentially a market maker
+właściwie animatorem rynku
 
 832
 00:26:49,600 --> 00:26:52,880
-and passive money maker you will be
+i jako bierny animator rynku będziesz
 
 833
 00:26:51,600 --> 00:26:55,440
-earning the
+zarabiać
 
 834
 00:26:52,880 --> 00:26:56,400
-the liquidity um the trading fee you'll
+płynność, opłaty transakcyjne będziesz
 
 835
 00:26:55,440 --> 00:27:00,080
-be earning
+zarabiać
 
 836
 00:26:56,400 --> 00:27:01,520
-um all the um rewards um when you are
+wszystkie nagrody, kiedy jesteś
 
 837
 00:27:00,080 --> 00:27:04,000
-providing this liquidity
+dostawcą płynności
 
 838
 00:27:01,520 --> 00:27:05,679
-so every time that people trade um you
+więc za każdym razem, gdy ludzie handlują, Ty
 
 839
 00:27:04,000 --> 00:27:07,600
-essentially help them to trade and
+zasadniczo pomagasz im w handlu i
 
 840
 00:27:05,679 --> 00:27:08,799
-you by doing that you'll be ending some
+robąc to, na końcu będziesz mieć
 
 841
 00:27:07,600 --> 00:27:12,080
-nice share of the
+niezły udział
 
 842
 00:27:08,799 --> 00:27:16,159
-of the trading fees um by providing this
+w opłatach transakcyjnych przez dostarczanie tej
 
 843
 00:27:12,080 --> 00:27:18,880
-liquidity um this this exchange itself
+płynności, ta giełda sama w sobie
 
 844
 00:27:16,159 --> 00:27:20,320
-as for consumer is already quite useful
+jest już całkiem użyteczna dla konsumenta
 
 845
 00:27:18,880 --> 00:27:22,240
-but it also has some
+ale ma też jakąś
 
 846
 00:27:20,320 --> 00:27:25,039
-actual functionality it's actually the
+rzeczywista funkcjonalność jest tak naprawdę
 
 847
 00:27:22,240 --> 00:27:26,960
-backbone the unified source of liquidity
+szkielet jednolitego źródła płynności
 
 848
 00:27:25,039 --> 00:27:28,399
-um for the whole cruel network which i
+suma dla całej sieci, o której
 
 849
 00:27:26,960 --> 00:27:30,559
-will cover later
+omówię później
 
 850
 00:27:28,399 --> 00:27:31,840
-when we show off the gas feed payment
+kiedy pokażemy funkcję płatności za gaz
 
 851
 00:27:30,559 --> 00:27:34,080
-feature but for now
+jednak na razie
 
 852
 00:27:31,840 --> 00:27:34,960
-we can see this is like already a very
+możemy zobaczyć, że to jest bardzo
 
 853
 00:27:34,080 --> 00:27:36,960
-very user
+przyjazne użytkownikowi
 
 854
 00:27:34,960 --> 00:27:39,520
-friendly consumer friendly way for you
+przyjazny dla konsumenta, przyjazny sposób abyś mógł
 
 855
 00:27:36,960 --> 00:27:42,159
-to trade in a trustless way on kusama
+handlować nie wymagając zaufania na Kusamie
 
 856
 00:27:39,520 --> 00:27:42,159
-and kura
+i Karurze
 
 857
 00:27:42,880 --> 00:27:46,799
-and just uh just to mention again what
+i aby jeszcze raz wspomnieć co
 
 858
 00:27:44,960 --> 00:27:49,760
-rutao mentioned earlier
+Ruitao wspomniał wcześniej
 
 859
 00:27:46,799 --> 00:27:50,799
-this this is just our test net so when
+to jest nasz sieć testowa, więc kiedy
 
 860
 00:27:49,760 --> 00:27:54,159
-carrera launches
+Karura zostanie uruchomiona
 
 861
 00:27:50,799 --> 00:27:55,440
-these will be ksm focus so what you see
+będzie skoncentrowana wokół KSM, więc to co tutaj widzisz
 
 862
 00:27:54,159 --> 00:27:58,000
-here is ausd
+jest to aUSD
 
 863
 00:27:55,440 --> 00:27:58,559
-and aca when when carrera launches this
+i ACA, kiedy Karura zostanie uruchomiona
 
 864
 00:27:58,000 --> 00:28:01,200
-will say
+zobaczysz
 
 865
 00:27:58,559 --> 00:28:02,640
-kusd which is the carrera dollar and
+kUSD, będący dolarem Karura i
 
 866
 00:28:01,200 --> 00:28:06,000
-it'll say
+tutaj zobaczysz
 
 867
 00:28:02,640 --> 00:28:11,120
-kar here instead of aca which is the
+KAR zamiast ACA, która jest
 
 868
 00:28:06,000 --> 00:28:11,120
-the utility token of kubura yeah
+tokenem użyteczności Karura
 
 869
 00:28:14,080 --> 00:28:20,240
