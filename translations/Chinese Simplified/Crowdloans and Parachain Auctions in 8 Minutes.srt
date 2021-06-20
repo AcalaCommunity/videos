@@ -12,11 +12,11 @@
 
 4
 00:00:08,639 --> 00:00:12,320
-months and previously spent my time at
+而之前花时间在
 
 5
 00:00:10,800 --> 00:00:13,920
-Web3 基金会
+Web3 基金会上
 
 6
 00:00:12,320 --> 00:00:16,080
@@ -168,35 +168,35 @@ Polkadot和Kusama 的平行链竞拍
 
 43
 00:01:19,759 --> 00:01:23,119
-the winner of the auction then moves on
+竞拍胜者将会前进
 
 44
 00:01:21,759 --> 00:01:26,240
-and earns a slot
+并获取一个插槽
 
 45
 00:01:23,119 --> 00:01:27,920
-here in the green. Once you earn a slot
+在绿色中。一旦您获取一个插槽
 
 46
 00:01:26,240 --> 00:01:30,000
-then you're officially on
+您已经正式开启
 
 47
 00:01:27,920 --> 00:01:32,000
-Kusama or on Polkadot as a parachain
+Kusama 或 Polkadot 上的平行链
 
 48
 00:01:30,000 --> 00:01:34,560
-team and you can begin
+而您的团队可以开始
 
 49
 00:01:32,000 --> 00:01:35,520
-launching your applications, applications
+启动您的应用程序
 
 50
 00:01:34,560 --> 00:01:37,759
-can build on you
+并在其上面创建应用程序等等。
 
 51
 00:01:35,520 --> 00:01:40,159
