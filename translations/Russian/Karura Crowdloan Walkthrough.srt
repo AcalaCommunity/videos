@@ -40,135 +40,134 @@ Karura, находится на переднем плане этого
 
 9
 00:00:32,320 --> 00:00:35,760
-But of course no promises, expect chaos
-and expect 
+Но, конечно, никаких обещаний ожидать хаоса
+и ожидать
 
 10
 00:00:35,760 --> 00:00:41,280
-Karura. Now let me run you through
-number of ways to participate in the 
+Karura. Теперь позвольте мне показать Вам
+различные способы поучаствовать в 
 
 11
 00:00:41,280 --> 00:00:42,240
-Karura crowdloan. 
+краудлоане Karura.
 
 12
 00:00:43,200 --> 00:00:47,920
-If you have a referral link, you can use
-that to join the event directly, 
+Если у вас есть реферальная ссылка, вы можете использовать, 
+чтобы присоединиться к событию напрямую,
 
 13
 00:00:47,920 --> 00:00:52,480
-otherwise you can just go to our website
-acala.network to participate. 
+также вы можете просто перейти на наш сайт
+acala.network и принять участие.
 
 14
 00:00:54,320 --> 00:00:57,760
-There are three ways we recommend to
-participate in the event 
+Мы рекомендуем три способа
+участвовать в мероприятии
 
 15
 00:00:57,760 --> 00:01:02,160
-to maximize your rewards, but it's
-permissionless event 
+чтобы получить максимальное вознаграждение, но это
+событие без разрешения
 
 16
 00:01:02,160 --> 00:01:05,600
-so you can well make your own judgment
-on how you would like to participate. 
+так что вы можете сделать сви собственные выводы
+о том, как вы хотели бы участвовать.
 
 17
 00:01:07,600 --> 00:01:11,760
-Well, obviously, you can participate just
-directly on this website 
+Что же, очевидно, вы можете участвовать просто
+прямо на этом сайте
 
 18
 00:01:11,760 --> 00:01:17,600
-using polkadot.js extension or
-you can participate via our partner 
+используя расширение polkadot.js или
+вы можете участвовать через наших партнеров-
 
 19
 00:01:17,600 --> 00:01:21,120
-exchanges
-or via our partner mobile wallets. 
+бирж
+или через мобильные кошельки наших партнеров.
 
 20
 00:01:21,920 --> 00:01:25,360
-We will continue to add official
-partners to the list 
+Мы продолжим добавлять официальных
+партнеров в список
 
 21
 00:01:25,360 --> 00:01:28,320
-as they become ready. Please, do reach out 
+по мере их готовности. Пожалуйста, обращайтесь
 
 22
 00:01:28,320 --> 00:01:32,880
-to the exchanges and
-wallets for any support questions. 
+к биржам и
+кошелькам по любым вопросам поддержки.
 
 23
 00:01:34,480 --> 00:01:37,760
-Before you start though, do check if you
-have the extension 
+Но прежде чем начать, проверьте,
+имеете ли Вы расширение
 
 24
 00:01:37,760 --> 00:01:42,320
-installed and also have some free KSM
-in your wallet to participate. 
+установленное, а также есть несколько свобожных KSM
+в вашем кошельке для участия.
 
 25
 00:01:44,400 --> 00:01:47,520
-The Karura crowdloan will airdrop a
-minimum of 
+Краудлоан Karura проведет эирдроп в размере 
+минимум
 
 26
 00:01:47,520 --> 00:01:51,920
-12 KAR rewards for 1 KSM contributed in
-the event. 
+12 токенов KAR за 1 KSM в
+этом ивенте.
 
 27
 00:01:53,040 --> 00:01:55,440
-Okay, now let's connect to the extension. 
+Хорошо, теперь давайте подключим расширение.
 
 28
 00:01:57,760 --> 00:02:02,160
-Please read and accept the terms and
-conditions regarding the event and also 
+Пожалуйста, прочтите и примите условия
+касающиеся события, а также
 
 29
 00:02:02,160 --> 00:02:06,240
-the privacy policy,
-before you proceed. Your acceptance will 
+политику конфиденциальности,
+прежде чем продолжить. Ваше согласие будет принято
 
 30
 00:02:06,240 --> 00:02:09,120
-be a
-signed message from your current account. 
+с помощью подписанного
+сообщением от вашего текущего аккаунта.
 
 31
 00:02:09,680 --> 00:02:12,640
-It won't be sent on chain
-and won't cost you anything. 
+Оно не будет отправлен в цепи
+и будет бесплатным.
 
 32
 00:02:14,720 --> 00:02:18,960
-If you have contributed to the event
-already, you shall see a balance on top 
+Если вы уже внесли свой вклад в мероприятие, 
+вы увидите баланс сверху
 
 33
 00:02:19,600 --> 00:02:23,760
-and estimated KAR rewards. Then just put
-in the KSM 
+и оценочные награды KAR. Затем просто поместите
+в KSM
 
 34
 00:02:24,320 --> 00:02:28,640
-contribution amount. Notice the lease
-period 
+сумму взноса. Обратите внимание на период аренды
+
 
 35
 00:02:28,640 --> 00:02:32,160
-is 48 weeks, so if Karura successfully
-wins the auction, 
+в 48 недель, так что если Karura успешно выиграет аукцион,
 
 36
 00:02:32,880 --> 00:02:36,160
