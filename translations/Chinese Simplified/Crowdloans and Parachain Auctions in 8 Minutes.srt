@@ -72,7 +72,7 @@ Polkadot和Kusama 的平行链竞拍
 
 19
 00:00:35,840 --> 00:00:38,879
-a bunch of blockchains that are called
+而这一些区块链被称为
 
 20
 00:00:37,680 --> 00:00:40,399
