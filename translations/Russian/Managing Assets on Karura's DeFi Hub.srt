@@ -272,7 +272,7 @@ would like to use this on alkala
 
 69
 00:02:10,720 --> 00:02:14,319
-i only wanted to use this um this
+я только хотел использовать этот 
 
 70
 00:02:12,879 --> 00:02:16,959
@@ -280,19 +280,19 @@ particular watch address
 
 71
 00:02:14,319 --> 00:02:18,000
-maybe only on relay chain on kusama all
+может быть только на релейной цепи на Kusama все
 
 72
 00:02:16,959 --> 00:02:18,480
-you can say that i would like to use
+что вы можете сказать, что я хотел бы использовать
 
 73
 00:02:18,000 --> 00:02:21,200
-this
+этот
 
 74
 00:02:18,480 --> 00:02:22,160
-wallet in all the available power chains
+кошелек во всех доступных цепях 
 
 75
 00:02:21,200 --> 00:02:25,040
@@ -316,11 +316,11 @@ wallet is going to be made available and
 
 80
 00:02:30,080 --> 00:02:33,040
-if you make it available
+если вы сделаете его доступным
 
 81
 00:02:31,440 --> 00:02:35,360
-for garura it will appear here and you
+для Karura, он появится здесь и вы
 
 82
 00:02:33,040 --> 00:02:38,160
