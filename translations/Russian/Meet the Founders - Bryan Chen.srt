@@ -150,103 +150,102 @@ Nintendo Switch, на который
 
 31
 00:02:32,160 --> 00:02:35,840
-There's no
-like this, yeah. 
+Нет ничего
+подобного, ага.
 
 32
 00:02:37,120 --> 00:02:46,320
-What was your first startup?
-Laminar is the first one I'm the 
+Какой был ваш первый стартап?
+Ламинар - первый, я 
 
 33
 00:02:46,320 --> 00:02:49,440
-Co-founder of, for
-all the other ones I was 
+являюсь его сооснователем, во 
+всех остальных я был 
 
 34
 00:02:49,440 --> 00:02:53,600
-just an employee.
-The first startup I joined was 
+только сотрудником.
+Первый стартап, к которому я присоединился, был
 
 35
 00:02:53,600 --> 00:02:57,360
-actually
-founded by my friends and 
+фактически
+основан моими друзьями и
 
 36
 00:03:00,480 --> 00:03:05,040
-classmates at
-Auckland Uni. They had this idea 
+одноклассниками в
+Университете Окленда. У них была эта идея
 
 37
 00:03:05,920 --> 00:03:11,200
-as the final project
-and then they took this idea and built a 
+как окончательный проект
+и затем они взяли эту идею и построили
 
 38
 00:03:11,840 --> 00:03:16,320
-startup from it, which is quite
-interesting. It's 
+из этого стартап, который достаточно 
+интересен. Он  
 
 39
 00:03:16,320 --> 00:03:22,640
-called Kami. It's a
-PDF annotation web app. 
+называется Kami. Это
+веб-приложение для аннотации PDF.
 
 40
 00:03:24,000 --> 00:03:26,640
-It's getting quite a big
-traction during Covid. 
+Это становится довольно большой
+тягой во время Covid.
 
 41
 00:03:28,160 --> 00:03:31,360
-Due to Covid, because people need to
-study 
+Из-за Covid, потому что людям нужно
+обучаться 
 
 42
 00:03:31,360 --> 00:03:33,440
-from home and there's a lot of
-homeschooling. So 
+из дому и есть много
+домашнего обучение. Поэтому 
 
 43
 00:03:34,160 --> 00:03:40,800
-those tools are getting quite useful.
-So, yeah. I was the first employee there. 
+эти инструменты становятся весьма полезными.
+Так что да. Я был там первым сотрудником.
 
 44
 00:03:40,800 --> 00:03:43,120
-That's
-also the time that I learned a 
+Это
+также время, когда я узнал
 
 45
 00:03:43,120 --> 00:03:45,520
-lot of things,
-especially about startups. 
+много вещей,
+особенно о стартапах.
 
 46
 00:03:50,080 --> 00:03:52,960
-Let's see. An interesting question
-that I actually 
+Посмотрим. Интересный вопрос
+что я на самом деле
 
 47
 00:03:52,960 --> 00:03:56,240
-took from Tim Ferris, one of the
-podcasts that I listened to. 
+взял у Тима Ферриса, в одном из
+его подкастов, которые я слушал.
 
 48
 00:03:56,960 --> 00:04:01,600
-This question is: "if you had a huge
-gigantic billboard that could reach 
+Вопрос такой: «Если бы у вас был огромный
+гигантский рекламный щит, который может охватить 
 
 49
 00:04:02,160 --> 00:04:05,760
-a billion people, what would you put on
-that billboard? 
+миллиард человек, что бы Вы на него поместили?
 
 50
 00:04:05,760 --> 00:04:07,920
-What message would you tell
-people?" 
+Какое сообщение Вы бы отправили 
+людям?"
 
 51
 00:04:09,600 --> 00:04:14,160
@@ -500,98 +499,98 @@ I was at Uni,  
 
 101
 00:07:45,840 --> 00:07:49,360
-so it's probably 2009
-or 2010. 
+так что, наверное, 2009 год
+или 2010.
 
 102
 00:07:50,000 --> 00:07:52,160
-Wow, so Bitcoin had just come
-out! 
+Вау, так что Bitcoin только что 
+вышел!
 
 103
 00:07:52,720 --> 00:07:57,200
-Yeah just come out.
-I missed the chance to become 
+Да просто выходи.
+Я упустил шанс стать 
 
 104
 00:07:57,200 --> 00:08:00,800
-a very early miner. I
-haven't 
+очень ранним майнером. Я 
+не 
 
 105
 00:08:00,800 --> 00:08:04,240
-actually read too much about Bitcoin back
-then. I just thought, oh we have 
+слишком много, на самом деле, читал о биткойнах
+тогда. Я просто подумал, у нас есть
 
 106
 00:08:04,240 --> 00:08:08,640
-Paypal, we have Alipay,
-that's internet money. You can 
+Paypal, у нас есть Alipay,
+это интернет-деньги. Вы можете
 
 107
 00:08:08,640 --> 00:08:11,840
-send money on internet very easily.
-Why would we need another thing? 
+отправить деньги в интернет очень легко.
+Зачем нам нужно что-то еще?
 
 108
 00:08:14,400 --> 00:08:16,320
-After
-many years, 
+Спустя 
+много лет,
 
 109
 00:08:19,600 --> 00:08:22,160
-at the time when Bitcoin
-Cash forked 
+в то время, когда был форк 
+Bitcoin Cash
 
 110
 00:08:22,720 --> 00:08:25,840
-and when Bitcoin went to news, I read
-it again. 
+и когда Bitcoin пошел в новости, я прочитал
+это снова.
 
 111
 00:08:27,600 --> 00:08:31,120
-My colleague also had
-some bitcoin and he was talking with me 
+У моего коллеги тоже было
+немного bitcoin, и он разговаривал со мной
 
 112
 00:08:33,120 --> 00:08:34,480
-about that.
-People were 
+об этом.
+Люди были
 
 113
 00:08:37,840 --> 00:08:38,400
-surprised
-that 
+удивлены 
+тем,
 
 114
 00:08:38,400 --> 00:08:40,480
-when they added up the price,
-it shouldn't be more. 
+когда они повысили цену,
+она не должна быть больше.
 
 115
 00:08:41,280 --> 00:08:44,480
-When you cut something,
-the price should be the same. 
+Когда ты что-то "разрезаешь",
+цена должна быть такой же.
 
 116
 00:08:45,040 --> 00:08:47,760
-The Bitcoin cash fork proved that's
-wrong on 
+Форк Bitcoin Cash доказал, что
+ошибка в 
 
 117
 00:08:48,320 --> 00:08:52,000
-internet or on blockchain.
-The Bitcoin fork 
+интернете или блокчейне.
+Форк Bitcoin'a
 
 118
 00:08:52,000 --> 00:08:55,120
-and then combined value of both is
-much higher than 
+а, затем, совокупное значение обоих 
+намного выше, чем
 
 119
 00:08:55,120 --> 00:09:00,080
-original value and this was quite
-interesting. That was the thing that 
+первоначальная стоимость, и это было довольно
+интересно. Это было то, что 
 
 120
 00:09:00,080 --> 00:09:04,080
