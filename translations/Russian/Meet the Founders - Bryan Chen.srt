@@ -594,157 +594,159 @@ Bitcoin Cash
 
 120
 00:09:00,080 --> 00:09:04,080
-got me looking into bitcoin
-again. 
+заставило меня посмотреть на bitcoin 
+снова.
 
 121
 00:09:05,680 --> 00:09:08,400
-I was previously following
-Bitcoin, but just reading it, 
+Я и ранее следил за
+Bitcoin, но только о нём читал,
 
 122
 00:09:08,400 --> 00:09:11,760
-I never actually thought about buying it.
-But this event got 
+Я никогда не думал о его покупке.
+Но это событие 
 
 123
 00:09:11,760 --> 00:09:14,720
-me more interesting, so I considered
-that maybe I should buy some. 
+заинтересовало меня, поэтому я подумал,
+что, может быть, мне стоит купить немного.
 
 124
 00:09:15,680 --> 00:09:21,120
-Of course, you really
-would have the motivation to study all 
+Конечно, вы действительно
+имели бы мотивацию изучать все
 
 125
 00:09:21,120 --> 00:09:24,720
-these things if you have your stake
-into it. it's not a big stake but of 
+эти вещи, если бы у вас была 
+его часть. Это не большая доля, но
 
 126
 00:09:24,720 --> 00:09:30,400
-course it's some stake. Then I
-spent more time researching, 
+конечно, это часть. Затем я 
+потратил больше времени на исследование,
 
 127
 00:09:31,520 --> 00:09:32,720
-reading
-Bitcoin news and 
+чтения 
+новостей о Bitcoin и
 
 128
 00:09:37,120 --> 00:09:41,200
-actually spent time in
-reading the bitcoin white paper, reading 
+даже потратил время на 
+чтение вайтпеппера bitcoin'а, чтение 
 
 129
 00:09:41,200 --> 00:09:44,800
-all those new technologies.
-I started thinking that 
+обо всех этих новых технологиях.
+Я начал думать, что 
 
 130
 00:09:44,800 --> 00:09:47,440
-this could change
-everything! 
+это может изменить
+всё!
 
 131
 00:09:52,480 --> 00:09:54,800
-I guess
-that led to your path of 
+Я думаю, 
+это привело к твоему пути 
 
 132
 00:09:54,800 --> 00:10:00,560
-of Co-founding Laminar and Acala?
-Yes, that made me think 
+стать сооснователем Laminar и Acala?
+Да, это заставляет меня так думать 
 
 133
 00:10:00,560 --> 00:10:03,840
-that
-I really wanted to work in this industry 
+что
+я действительно хотел работать в этой отрасли
 
 134
 00:10:04,800 --> 00:10:11,040
-I spent more time
-understanding the low-level thing, how it 
+Я потратил больше времени
+на понимание базовых вещей, как это 
 
 135
 00:10:11,040 --> 00:10:15,120
-actually works
-and think about if I am 
+на самом деле работает
+и подумать, если я
 
 136
 00:10:15,120 --> 00:10:18,160
-the guy
-designing the things, then how I want to 
+парень,
+проектирующий вещи, то как я хочу
 
 137
 00:10:18,160 --> 00:10:20,880
-design those things?
-I started thinking about those things. 
+проектировать другие вещи?
+Я начал думать об этом.
 
 138
 00:10:22,000 --> 00:10:26,160
-Cool.
-I know we're all working 
+Отлично.
+Я знаю, что все мы работаем
 
 139
 00:10:26,720 --> 00:10:30,640
-really hard right now, and we will
-be for the foreseeable future, but 
+очень усердно сейчас, и мы
+продолжим в обозримом будущем, но
 
 140
 00:10:32,400 --> 00:10:35,200
-when you do have late
-nights and early mornings, 
+когда у тебя поздние 
+ночи и ранние утра,
 
 141
 00:10:35,200 --> 00:10:38,640
-what would you say is your
-inspiration to keep 
+что бы ты сказал своему 
+вдохновению для его 
 
 142
 00:10:39,440 --> 00:10:42,080
-going? What's your
-ultimate goal? 
+поддержания? Какая твоя 
+конечная цель?
+
 
 143
 00:10:43,920 --> 00:10:46,480
-I like to build stuff. I like to
-see 
+Мне нравится строить вещи. Мне нравится
+видеть
 
 144
 00:10:47,280 --> 00:10:56,080
-the stuff I have been working on.
-In my previous job, I helped 
+вещи, над которыми я работал.
+В своей предыдущей работе я помогал
 
 145
 00:10:56,080 --> 00:11:00,320
-build a product series, see it launched and
-see how it's helping people. It's really 
+создавать серию продуктов, увидеть ее запущенную и
+посмотрите, как она помогает людям. Это действительно
 
 146
 00:11:00,320 --> 00:11:03,760
-making things better
-and improving people's lives. But, 
+делать вещи лучше
+и улучшает жизнь людей. Но,
 
 147
 00:11:04,880 --> 00:11:08,720
-working on a particular software
-industry, then you probably improve a 
+работая над конкретной отраслью программного обеспечения, 
+тогда вы, вероятно, улучшите
 
 148
 00:11:08,720 --> 00:11:10,080
-small set of people, 
+небольшую группу людей,
 
 149
 00:11:10,080 --> 00:11:13,200
-but on blockchain I can see the
-chance of 
+но в блокчейне я вижу 
+шанс
+
 
 150
 00:11:13,200 --> 00:11:16,240
-almost improving and changing the life
-of everyone. 
+почти улучшающий и меняющий жизнь
+всех.
 
 151
 00:11:17,600 --> 00:11:22,560
@@ -997,13 +999,13 @@ first things built on the Polkadot 
 
 201
 00:15:17,520 --> 00:15:20,480
-Substrate.
-So we met Fuyao and his team. 
+Субстрат.
+Мы встретились с Фуяо и его командой.
 
 202
 00:15:20,480 --> 00:15:26,240
-They joined
-the hackathon. 
+Они присоединились 
+к хакатону.
 
 203
 00:15:26,240 --> 00:15:31,360
