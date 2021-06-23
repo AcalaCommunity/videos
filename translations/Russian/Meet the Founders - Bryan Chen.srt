@@ -1011,255 +1011,255 @@ Polkawallet, первый
 
 203
 00:15:26,240 --> 00:15:31,360
-So we saw the energy
-that they really wanted to build 
+Итак, мы увидели энергию,
+они действительно хотели построить
 
 204
 00:15:31,360 --> 00:15:34,400
-something new to break or solve all
-those 
+что-то новое, чтобы разрушить или решить все
+те
 
 205
 00:15:35,040 --> 00:15:38,320
-problems we have in the current
-society. 
+проблемы, которые у нас есть в текущий момент 
+в обществе.
 
 206
 00:15:39,520 --> 00:15:43,120
-You can see he has a really big
-energy and big passion about it 
+Вы можете видите, что у него действительно много 
+энергии и большая страсть к этому
 
 207
 00:15:43,120 --> 00:15:46,640
-and so we talked with each other.
-They had already created 
+и так мы разговаривали друг с другом.
+Они уже создали
 
 208
 00:15:46,640 --> 00:15:49,360
-a Polkawallet
-product but they're also thinking about 
+продукт - Polkawallet, 
+но они также думают и о
 
 209
 00:15:49,360 --> 00:15:49,677
-building a stablecoin
-as well. 
+создании
+стейблкоина.
 
 210
 00:15:49,677 --> 00:15:50,800
-If they wanted to build a
-stablecoin, we want to build a stablecoin, 
+Если они хотят построить
+стейблкоин, мы хотим построить стейблкоин,
 
 211
 00:15:55,680 --> 00:15:59,760
-maybe we could try to build it together!
-That is kind of the 
+может быть, мы можем попытаться построить его вместе!
+Это , своего рода, 
 
 212
 00:16:00,960 --> 00:16:04,080
-how the founders of Acala met and how
-we 
+как встретились основатели Acala и как
+мы
 
 213
 00:16:06,240 --> 00:16:10,160
-started this journey.
-Then after this hackathon, 
+начали этот путь.
+Затем, после этого хакатона,
 
 214
 00:16:11,040 --> 00:16:13,600
-we're back to New Zealand and they went
-back to Shanghai. 
+мы вернулись в Новую Зеландию, а они отправились
+обратно в Шанхай.
 
 215
 00:16:13,600 --> 00:16:18,400
-Then we started,
-as Bette would say, "cold-dating for females". 
+Затем мы начали,
+как сказала бы Бетт: "холодное свидание для женщин".
 
 216
 00:16:18,400 --> 00:16:22,080
-So we just
-started trying to work together 
+Итак, мы просто
+начали пытаться работать вместе
 
 217
 00:16:22,080 --> 00:16:26,480
-to
-have daily stand-ups and just build the 
+
+устраивать ежедневные выступления и просто строить
 
 218
 00:16:26,480 --> 00:16:30,120
-thing
-and see if everything 
+продукт
+и посмотреть, все ли
 
 219
 00:16:30,120 --> 00:16:34,240
-would work out.
-It ended up being pretty well. We 
+будет работать.
+Все закончилось довольно хорошо. Нам
 
 220
 00:16:35,200 --> 00:16:40,240
-enjoyed working with each other and we
-managed not to have 
+понравилось работать друг с другом, и нам
+удалось избежать
 
 221
 00:16:40,240 --> 00:16:43,120
-too much issue size,
-because we had two things 
+слишком больших проблем,
+потому что у нас было две вещи
 
 222
 00:16:43,120 --> 00:16:46,480
-in two parts of growth but we didn't have
-a lot of time. For example the typical 
+в двух частях роста, но у нас не было
+много времени. Например, типичные
 
 223
 00:16:46,480 --> 00:16:49,200
-remote
-working issues. It went all 
+удаленные
+рабочие задачи. Все они прошли
 
 224
 00:16:49,760 --> 00:16:54,000
-very well.
-That's how it all started. Cool. 
+очень хорошо.
+Вот как все началось. Круто.
 
 225
 00:16:59,120 --> 00:17:02,960
-When you're talking to potential future
-developers to join your team, 
+Общаясь с потенциальными будущими
+разработчиками, чтобы они присоединиться к твоей команде,
 
 226
 00:17:03,840 --> 00:17:08,240
-how would you describe the culture
-of working at Acala and what types of 
+как вы описали бы культуру
+работы в Acala и какие типы
 
 227
 00:17:10,000 --> 00:17:12,400
-technical characteristics but
-also what type of 
+технических характеристик и
+какой тип
 
 228
 00:17:13,600 --> 00:17:16,320
-personality characteristics do you look 
+характеристики личности ищут 
 
 229
 00:17:16,320 --> 00:17:18,080
-for
-in potential hires? 
+потенциальные
+работодатели?
 
 230
 00:17:20,240 --> 00:17:26,000
-Working in the blockchain space is
-a bleeding-edge technology sector, so 
+Работа в блокчейне – это
+сектор передовых технологий, так
 
 231
 00:17:26,640 --> 00:17:29,840
-you need to be very motivated,
-because 
+что вы должны быть очень мотивированными,
+потому что
 
 232
 00:17:30,800 --> 00:17:34,160
-things change every day. I know a
-lot of people 
+всё меняется каждый день. Я знаю
+много людей
 
 233
 00:17:34,160 --> 00:17:36,800
-that learn Substrate, they try to work on
-Substrate but 
+которые изучают Substrate, они пытаются работать на
+Substrate, но
 
 234
 00:17:37,520 --> 00:17:42,400
-there are so many new things coming up
-every day that you need to constantly 
+есть так много новых вещей, которые приходят
+каждый день, что вам нужно постоянно
 
 235
 00:17:42,400 --> 00:17:45,840
-adapt your code with the latest
-change, because otherwise 
+адаптировать ваш код с помощью последних изменений,
+потому что, в противном случае,
 
 236
 00:17:46,880 --> 00:17:48,720
-almost daily or weekly 
+почти ежедневно или еженедельно,
 
 237
 00:17:49,280 --> 00:17:52,080
-if you don't update Substrate, everything
-breaks and falls apart. 
+если вы не обновите Substrate, все
+сломается и упадёт.
 
 238
 00:17:53,440 --> 00:17:57,200
-There's a big frustration there,
-but you need to get over it, 
+Там есть очень много разочарований, 
+но вам нужно пережить их,
 
 239
 00:17:57,200 --> 00:18:00,080
-you need to get used to it and then you
-need to be 
+вам нужно привыкнуть к ним, а, затем, вы
+должны быть
 
 240
 00:18:00,880 --> 00:18:03,102
-already motivated to learn the new
-things. You should be able to understand 
+уже мотивированы, чтобы изучать новые 
+вещи. Вы должны понимать,
 
 241
 00:18:03,102 --> 00:18:08,800
-why things break, you should not
-get frustrated "Oh this doesn't work, 
+почему вещи ломаются, вы не должны
+разочаровываться: "О это не работает,
 
 242
 00:18:08,800 --> 00:18:13,200
-then I need to fix it again!". You should see it
-as "well let's introduce a new feature, I can 
+тогда мне нужно исправить это снова!". Вы должны воспринимать это
+как "давайте представим новую функцию, я могу
 
 243
 00:18:13,200 --> 00:18:15,600
-do those things that previously were not
-possible." 
+сделать те вещи, которые ранее были не
+возможными."
 
 244
 00:18:16,880 --> 00:18:22,960
-That's why we want people who
-constantly want to learn new things, 
+Вот почему мы хотим, чтобы люди,
+постоянно хотели изучать всё новое,
 
 245
 00:18:22,960 --> 00:18:27,520
-because there are a lot of new things
-out there every day and I want people 
+потому что есть много новых вещей, 
+которые появляются каждый день, и я хочу, чтобы люди
 
 246
 00:18:27,520 --> 00:18:32,240
-that are
-also goal-orientated. 
+были
+также ориентированы на цели.
 
 247
 00:18:33,520 --> 00:18:39,360
-The goal is "get things done",
-not just sitting in front of the computer typing 
+Цель — «добиться цели»,
+— не просто сидеть перед компьютером, печатая
 
 248
 00:18:39,360 --> 00:18:43,680
-eight hours a day.
-We don't want you to 
+восемь часов в день.
+Мы не хотим, чтобы вы
 
 249
 00:18:43,680 --> 00:18:47,520
-just sit in front of the computer typing
-but actually doing anything 
+просто сидели перед компьютером и печатали,
+но, на самом деле, делали что-нибудь
 
 250
 00:18:48,080 --> 00:18:50,960
-productive, because this is
-meaningless! 
+продуктивное, потому что это
+бессмысленно!
 
 251
 00:18:51,600 --> 00:18:53,280
-We want to just get things done. 
+Мы хотим просто довести дело до конца.
 
 252
 00:18:55,440 --> 00:18:57,360
-Different people have different ways and
-we 
+Различные люди имеют разные способы и
+мы
 
 253
 00:18:59,520 --> 00:19:02,640
-would like you to use the most
-productive ways for you. 
+хотели бы, чтобы вы использовали
+наиболее продуктивные способы для себя.
 
 254
 00:19:02,640 --> 00:19:06,000
@@ -1509,137 +1509,138 @@ Acala EVM.
 
 303
 00:22:42,400 --> 00:22:48,960
-Okay great. Just a few more questions.
-What would you say makes the Acala and 
+Хорошо, здорово. Всего несколько вопросов.
+Что бы вы сказали, делает команду Acala и
 
 304
 00:22:48,960 --> 00:22:53,840
-Karura team
-unique and special to you? 
+Karura
+уникальной и особенной для вас?
 
 305
 00:22:57,520 --> 00:23:00,640
-First, I think
-all of our team members are 
+Во-первых, я думаю,
+все члены нашей команды
 
 306
 00:23:01,360 --> 00:23:03,680
-at least
-10 x engineers. 
+не менее
+10 инженеров.
 
 307
 00:23:06,640 --> 00:23:08,720
-We all work very hard and we
-all 
+Мы все очень напряженно работаем, и мы
+все
+
 
 308
 00:23:08,720 --> 00:23:11,920
-are very keen to learn new things. We
-are not afraid of 
+очень заинтересованы в изучении новых вещей. Мы
+не боимся
 
 309
 00:23:11,920 --> 00:23:16,640
-being blocked, not afraid of deep dive
-into the code base to the low  
+быть "заблокированными", не бойтесь глубокого погружения
+в кодовую базу к начальному
 
 310
 00:23:16,640 --> 00:23:17,520
-level of
-things, to 
+уровню
+вещей, к
 
 311
 00:23:18,560 --> 00:23:22,480
-debug why things don't work.
-This is 
+отлаживанию, почему это не работает.
+Это
 
 312
 00:23:22,480 --> 00:23:24,800
-a very important mindset. We're
-all willing to 
+очень важное мышление. Мы
+все готовы
 
 313
 00:23:26,800 --> 00:23:30,080
-go to the bleeding edge and pushing it
-forward. 
+перейти на передний план и толкать его
+вперед.
 
 314
 00:23:30,080 --> 00:23:31,680
-For us it is very important to expand. 
+Для нас очень важно расширяться.
 
 315
 00:23:36,240 --> 00:23:39,840
-If you were to pick
-one product that you're 
+Если вы выберете
+один продукт, который вы
 
 316
 00:23:39,840 --> 00:23:42,640
-building
-with Acala and Karura, what would you say 
+строите
+с помощью Acala и Karura, что бы вы сказали о том,
 
 317
 00:23:42,640 --> 00:23:45,520
-you're most excited about
-and why is that? 
+чем вы больше всего довольны
+и почему именно этим?
 
 318
 00:23:50,000 --> 00:23:54,320
-I think Acala EVM will be
-a super exciting product because 
+Я думаю, что Acala EVM будет
+супер захватывающим продуктом, потому что
 
 319
 00:23:55,200 --> 00:24:00,480
-that is not built for us. It's built for
-the developers, it's built for 
+он построен не для нас. Он построен для
+разработчиков, он создан для
 
 320
 00:24:00,480 --> 00:24:05,280
-other projects.
-We will hopefully see a lot of 
+других проектов.
+Мы надеемся, что увидим много
 
 321
 00:24:05,280 --> 00:24:10,000
-projects
-either migrate from existing 
+проектов
+либо мигрирующих с существующих
 
 322
 00:24:10,640 --> 00:24:13,760
-smart contracts to Acala EVM, or just
-develop for some 
+смарт-контрактов на Acala EVM, или просто
+разработать для некоторых
 
 323
 00:24:13,760 --> 00:24:18,320
-brand new smart contracts for Acala EVM.
-We have a lot of unique features 
+совершенно новые смарт-контракты для Acala EVM.
+У нас есть множество уникальных функций,
 
 324
 00:24:18,320 --> 00:24:20,480
-that
-don't exist elsewhere, like for example 
+которых
+не существует нигде, как, например,
 
 325
 00:24:20,480 --> 00:24:23,280
-the scheduler which allows a smart contract to
-be 
+планировщик, который позволяет смарт-контракту
+быть
 
 326
 00:24:24,080 --> 00:24:29,920
-scheduled, to be called later.
-On Ethereum people need to either rely 
+запланированным, будет вызван позже.
+На Ethereum люди либо должны полагаться
 
 327
 00:24:29,920 --> 00:24:33,920
-on centralized servers for them or
-they need to design some super 
+на централизованные серверы для них или
+они должны разработать супер
 
 328
 00:24:34,960 --> 00:24:38,880
-complex
-expensive token economics to make sure 
+комплексную
+дорогую токеномику, чтобы убедиться, 
 
 329
 00:24:38,880 --> 00:24:42,560
-it's happening.
-This is just basically solved with 
+что это происходит.
+Это, в основном, решается с помощью
 
 330
 00:24:42,560 --> 00:24:46,080
@@ -1799,5 +1800,5 @@ DeFi
 
 361
 00:27:02,960 --> 00:27:04,640
-present my mind to people.
+поделиться своими мыслями с людьми.
 
