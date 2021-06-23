@@ -911,93 +911,93 @@ Ethereum
 
 183
 00:13:53,360 --> 00:13:56,960
-or maybe we can see if anyone else is
-building a stablecoin 
+или посмотреть, может, кто-то ещё
+занимается его разработкой
 
 184
 00:13:56,960 --> 00:14:00,480
-and use the stablecoin. But by then,
-because we are very early, 
+и использовать его. Но, к тому времени,
+так как мы в самом начале, 
 
 185
 00:14:00,480 --> 00:14:02,320
-there's no one who's actually building
-a stablecoin. 
+никто и не занимался разработкой
+стейблкоина.
 
 186
 00:14:03,920 --> 00:14:09,120
-So then we thought,
-if some other people want to build a 
+Итак, мы подумали,
+если кто-то хочет построить
 
 187
 00:14:09,120 --> 00:14:11,200
-stablecoin, we can maybe build it
-together. 
+стейблкоин, возможно, мы можем построить его
+вместе.
 
 188
 00:14:11,920 --> 00:14:19,600
-That was our thought process and,
-in September 2019, 
+Это были наши мысли и
+в сентябре 2019 года
 
 189
 00:14:20,800 --> 00:14:24,240
-there was the
-the first ever Substrate hackathon, 
+был
+первый хакатон Substrate,
 
 190
 00:14:25,280 --> 00:14:29,840
-hosted by PolkaWorld,
-in Hangzhou in China. 
+организованный PolkaWorld,
+в Ханчжоу в Китае.
 
 191
 00:14:31,440 --> 00:14:35,040
-I was invited as a judge
-for the hackathon. 
+Меня пригласили в качестве судьи
+для хакатона.
 
 192
 00:14:37,600 --> 00:14:39,200
-Me, Ruitao and Bette flew
-there. 
+Я, Руитао и Бетт прилетели 
+туда.
 
 193
 00:14:41,760 --> 00:14:45,280
-We met a lot of people there.
-I was 
+Там мы встретились с большим количеством людей.
+Я был
 
 194
 00:14:45,280 --> 00:14:48,880
-very active on a lot of chinese
-Polkadot 
+очень активным во многих китайских
+Polkadot 
 
 195
 00:14:49,440 --> 00:14:52,471
-community, but, you know, I'm in New Zealand
-and they are in China so we never 
+сообществах, но, вы знаете, я в Новой Зеландии, 
+а они в Китае, так что мы никогда
 
 196
 00:14:52,471 --> 00:14:55,360
-saw each other face-to-face.
-That was the first time 
+не встречались лично.
+Это было впервые,
 
 197
 00:14:56,400 --> 00:15:01,840
-I saw a lot of people face-to-face
-That was also the time when we met 
+когда я увидел столько людей в живую.
+Это, также, было время, когда мы встретились
 
 198
 00:15:01,840 --> 00:15:05,680
-Fuyao.
-We've known Fuyao for quite a while, 
+с Фуяо.
+Мы уже достаточно знаем друг друга,
 
 199
 00:15:05,680 --> 00:15:10,160
-because he created the
-Polkawallet, the very first 
+потому что Фуяо создал
+Polkawallet, первый
 
 200
 00:15:11,200 --> 00:15:17,520
-mobile world app for Polkadot. It is one of the
-first things built on the Polkadot 
+мобильный кошелёк для Polkadot в виде приложения. Это была одна
+из первых вещей, построенных на Polkadot в принципе.
 
 201
 00:15:17,520 --> 00:15:20,480
@@ -1263,247 +1263,249 @@ productive ways for you. 
 
 254
 00:19:02,640 --> 00:19:06,000
-For example, some people
-they enjoy working from home, 
+Например, некоторые люди
+любят работать дома,
 
 255
 00:19:06,560 --> 00:19:10,400
-some people
-prefer to 
+некоторые люди
+предпочитают
 
 256
 00:19:10,400 --> 00:19:14,560
-work at night. That's fine, as long as
-things get done, 
+работай в ночное время. Это отлично, пока 
+всё сделано,
 
 257
 00:19:14,560 --> 00:19:19,840
-I'm happy.
-As we are a remote team, we 
+я счастлив.
+Так как мы - команда "на удалёнке",
 
 258
 00:19:19,840 --> 00:19:24,800
-have people all over the world,
-so communication is a super important 
+и находимся по всему миру,
+общение для нас является супер важной
 
 259
 00:19:24,800 --> 00:19:29,520
-piece,
-a super important skill you must possess. 
+частью,
+супер важным навыком, который у вас должен быть.
 
 260
 00:19:29,520 --> 00:19:35,200
-Some people will maybe
-need a week get something done, 
+Некоторым людям может быть
+нужна неделя, чтобы что-то сделать,
 
 261
 00:19:35,200 --> 00:19:37,040
-and
-present the thing and other are 
+и
+показать что-то и что-то тому
+
 
 262
 00:19:38,480 --> 00:19:42,240
-kind of fine with that.
-During this absent period, 
+подобное.
+В течении этого периода отсутствия
 
 263
 00:19:42,240 --> 00:19:48,800
-some people might
-question or say "are you really 
+некоторые люди могут
+задаться вопросом или сказать "Вы действительно
 
 264
 00:19:48,800 --> 00:19:49,760
-doing anything?" This attitude 
+делаете что-нибудь?" Это отношение
 
 265
 00:19:51,120 --> 00:19:55,360
-doesn't help. So communication
-is a very important skill. 
+не помогает. Так что общение
+является очень важным навыком.
 
 266
 00:19:57,120 --> 00:20:00,960
-Another thing I don't want to see is
-that some people get stuck 
+Следующая вещь, которую я не хочу видеть, это то,
+когда некоторые люди застревают
 
 267
 00:20:00,960 --> 00:20:04,080
-and they try to fix the problem, but they
-just spend 
+и они пытаются исправить проблему, но
+тратят
 
 268
 00:20:04,880 --> 00:20:11,840
-a long time trying to fix a problem and
-that isn't very productive. 
+много времени, пытаясь исправить проблему и
+это очень не продуктивно.
 
 269
 00:20:11,840 --> 00:20:14,960
-So you should be open-minded and
-simply be able to ask for help. 
+Так что вам нужно быть открытым и
+просто иметь возможность обратиться за помощью.
 
 270
 00:20:14,960 --> 00:20:18,800
-Feel free to ask for help.
-Maybe we cannot help, in that case 
+Не стесняйтесь попросить помощи.
+Возможно, мы не можем помочь, в этом случае
 
 271
 00:20:18,800 --> 00:20:21,680
-you just need to spend more time
-trying to fix it, but 
+и вам просто нужно будет потратить больше времени
+пытаясь исправить это, но
 
 272
 00:20:22,240 --> 00:20:27,840
-there's a chance that someone else is
-able to offer a different opinion, 
+есть шанс, что кто-то другой
+может высказать иное мнение,
 
 273
 00:20:28,560 --> 00:20:30,000
-maybe they have seen this issue
-before. 
+может быть, они встречались с этой проблемой
+раньше.
 
 274
 00:20:33,200 --> 00:20:36,720
-Communication is
-also first, so important. 
+Общение
+первостепенно, очень важно.
 
 275
 00:20:36,720 --> 00:20:39,680
-What types of people are you
-looking for right now? I know we've got a 
+Какой тип людей вы
+ищете прямо сейчас? Я знаю, что у нас есть
 
 276
 00:20:39,680 --> 00:20:45,520
-few roles
-posted. Yes, we're 
+несколько опубликованных
+вакансий. Да, мы
 
 277
 00:20:45,520 --> 00:20:50,160
-looking for different areas and
-positions. For example, 
+ищем в разных сферах и
+должностях. Например,
 
 278
 00:20:50,160 --> 00:20:52,800
-we're definitely looking for Runtime
-Substrate developers, 
+мы определенно ищем Runtime
+Substrate разработчиков,
 
 279
 00:20:54,480 --> 00:20:57,680
-helping to build the core products, the
-blockchain nodes 
+для помощи в создании основных продуктов, 
+блокчейн-нод
+
 
 280
 00:20:57,680 --> 00:21:02,480
-implement new pallets, improve existing
-pallets and maintain them. 
+создать новые паллеты, улучшать существующие
+паллеты и сохранять их.
 
 281
 00:21:02,480 --> 00:21:06,640
-We're also looking for the Solidity
-developers because we have the Acala EVM, 
+Мы также ищем Solidity
+разработчиков, потому что у нас есть Acala EVM,
 
 282
 00:21:07,280 --> 00:21:11,840
-which is a very unique EVM. It's unlike
-other 
+которая является очень уникальной EVM. Она не похожа на
+другие
 
 283
 00:21:12,640 --> 00:21:16,800
-standard EVMs. We have done a lot of
-modifications, introduced new features 
+стандартные EVM-ы. Мы сделали много 
+модификаций, представили новые возможности
 
 284
 00:21:16,800 --> 00:21:21,040
-and made adjustments. So we will need
-Solidity developers to 
+и внесли коррективы. Поэтому нам понадобится
+Solidity разработчики для
 
 285
 00:21:21,600 --> 00:21:26,480
-help us to shape this; also to help other
-things like building 
+помощи нам сформировать это; также помогите в другом,
+например, в строительстве
 
 286
 00:21:27,040 --> 00:21:30,880
-and deploying the smart contracts on
-the Acala EVM, to help to shape the 
+и развертывании смарт-контрактов на
+Acala EVM, чтобы помочь сформировать
 
 287
 00:21:31,920 --> 00:21:35,040
-the contracts, to take
-most advantage of the  
+контракты, чтобы воспользоваться
+наибольшим преимуществом
 
 288
 00:21:35,040 --> 00:21:36,560
-unique features of
-Acala EVM. 
+и уникальными особенностями
+Acala EVM.
 
 289
 00:21:37,520 --> 00:21:40,320
-We need Solidity developers for
-this and we also need 
+Нам нужны разработчики Solidity для
+этого и нам также нужно
 
 290
 00:21:41,120 --> 00:21:43,840
-the front and back and full stack
-developers 
+фронтбек разработчики и фуллстек
+разработчики, 
 
 291
 00:21:44,400 --> 00:21:47,120
-because obviously we have a lot of frontend
-we need to build. 
+потому что у нас много фронтенда,
+который нам нужно строить.
 
 292
 00:21:49,360 --> 00:21:51,280
-We already have the depth
-but 
+У нас уже есть глубина, 
+но
 
 293
 00:21:51,280 --> 00:21:55,840
-we also have a lot of new things in the
-plan. We also for example need 
+у нас также есть много новых вещей в 
+планах. Например, также нужно
 
 294
 00:21:55,840 --> 00:22:01,360
-some nice governance, UI. We also
-probably need some nice dashboards UI. 
+хорошее управление, пользовательский интерфейс. Мы также
+должны иметь хороший интерфейс панели инструментов.
 
 295
 00:22:02,080 --> 00:22:06,720
-There's a lot of front-end work
-waiting to be completed. 
+Есть много подготовительных работ
+ожидающих завершения.
 
 296
 00:22:07,520 --> 00:22:12,160
-We are also looking for tech
-educators, 
+Мы также ищем технических
+преподавателей,
 
 297
 00:22:12,160 --> 00:22:15,600
-because we have a lot of new unique
-features, especially for Acala EVM. 
+потому что у нас много новых уникальных 
+возможностей, особенно для Acala EVM.
 
 298
 00:22:16,160 --> 00:22:18,640
-So we would like to have someone who's able
-to help us 
+Поэтому, нам нужен кто-то, кто может
+помочь нам
 
 299
 00:22:20,640 --> 00:22:26,160
-write documentations examples and
-tutorials in order to help 
+написать примеры документации и
+уроков, чтобы помочь
 
 300
 00:22:26,720 --> 00:22:31,920
-other developers to learn the
-advantage and how to 
+другим разработчикам, чтобы они узнали о преимуществах
+и как
 
 301
 00:22:33,600 --> 00:22:38,000
-integrate with Acala or learn how to
-deploy the smart contracts or migrate 
+интегрироваться с Acala или научиться
+развертывать смарт-контракты или переносить
 
 302
 00:22:38,000 --> 00:22:41,040
-the smart contracts
-and getting deployed to Acala EVM. 
+смарт-контракты
+и развертывание в Acala EVM.
 
 303
 00:22:42,400 --> 00:22:48,960
@@ -1751,48 +1753,49 @@ or indirectly 
 
 352
 00:26:24,640 --> 00:26:30,320
-depending on the financial industry.
-Maybe in few years, when the DeFi 
+в зависимости от финансовой отрасли.
+Может быть через несколько лет, когда DeFi
 
 353
 00:26:30,320 --> 00:26:32,480
-is becoming mainstream, the other
-industry people, 
+станет мейнстримм, остальные
+люди из отрасли,
 
 354
 00:26:33,280 --> 00:26:35,280
-instead of using the traditional
-centralized 
+кроме использования традиционных 
+централизованных
+
 
 355
 00:26:36,800 --> 00:26:39,440
-financial service, they will start using
-the DeFi 
+финансовых сервисов, начнут использовать
+DeFi
 
 356
 00:26:40,400 --> 00:26:44,320
-to help shaping the products, to manage
-their company for example. 
+чтобы помочь формировать продукты, чтобы управлять
+их компаниями, например.
 
 357
 00:26:44,320 --> 00:26:47,840
-They don't need to be a decentralized
-product, it could be a centralized 
+Они не должны быть децентрализованным продуктом, 
+оно может быть централизованным
 
 358
 00:26:47,840 --> 00:26:51,840
-protocol but still benefiting
-from DeFi. 
+протоколом, но все еще выигрывать 
+от DeFi.
 
 359
 00:26:53,040 --> 00:26:56,160
-Awesome. That's all the questions I
-had. I 
+Отлично. Это все вопросы, которые у меня 
+были. Я
 
 360
 00:26:56,160 --> 00:27:01,520
-appreciate the time. Thanks.
-I also enjoyed 
+признателен за уделённое тобой время. Спасибо.
+Я тоже был рад
 
 361
 00:27:02,960 --> 00:27:04,640
