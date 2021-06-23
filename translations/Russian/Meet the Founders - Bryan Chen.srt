@@ -778,136 +778,136 @@ Bitcoin, но только о нём читал,
 156
 00:11:41,600 --> 00:11:48,080
 Да, полностью согласен.
-Давайте перейдем к Acala 
+Давай сейчас перейдем к Acala 
 
 157
 00:11:48,080 --> 00:11:54,080
-and Karura now. The first couple are
-very short questions. Could you 
+и Karura. Сначала будут
+очень короткие вопросы. Можешь ли ты
 
 158
 00:11:54,080 --> 00:12:01,360
-describe Acala
-in three words? Polkadot DeFi Hub. 
+описать Acala 
+Тремя словами? ДеФи-центр на Polkadot.
 
 159
 00:12:01,360 --> 00:12:06,960
-That's good! Could you
-describe Karura in three words? 
+Здорово! Можешь ли ты 
+описать Karura тремя словами?
 
 160
 00:12:07,600 --> 00:12:14,640
-Well, Kusama DeFi Hub.
-Maybe could you tell us about 
+Что же, ДеФи-центр на Kusama.
+Может, расскажешь нам о том,
 
 161
 00:12:14,640 --> 00:12:18,240
-how Acala started and what the story is
-behind? 
+как начался проект Acala и кто 
+за ним стоит?
 
 162
 00:12:18,240 --> 00:12:21,040
-How the teams met and how that
-all came together? 
+Как команда познакомилась и как
+все объединились? 
 
 163
 00:12:22,640 --> 00:12:28,000
-So initially me,
-Ruitao and Bette co-founded Laminar. 
+Изначально я, 
+Руитао и Бетт основали Laminar.
 
 164
 00:12:29,840 --> 00:12:32,160
-Ruitao had a lot of
-connections and 
+У Руитао было много
+связей и
 
 165
 00:12:32,160 --> 00:12:35,920
-experience on the Forex market. We're
-thinking maybe building something 
+опыта работы на рынке Forex. Мы 
+подумали о том, чтобы что-то построить
 
 166
 00:12:36,640 --> 00:12:41,200
-on this area and we also all believed
-that DeFi would be the next thing that'd 
+в этой сфере и, также, мы все поверили,
+что DeFi будет следующим, что
 
 167
 00:12:41,200 --> 00:12:45,520
-go to take off. That's before
-for example the compound 
+выстрелит. Это было
+до, например, Compound
 
 168
 00:12:45,520 --> 00:12:50,160
-and issue.com token that actually started
-the DeFi. 
+и issue.com токены начали
+DeFi.
 
 169
 00:12:52,000 --> 00:12:54,640
-Back then, when we were
-thinking that we wanted to build something 
+Тогда же, когда мы
+думали, что хотели что-то построить
 
 170
 00:12:54,640 --> 00:12:59,200
-on DeFi, we
-did some research and we figured 
+на DeFi, мы
+провели некоторые исследования и определили, что
 
 171
 00:12:59,920 --> 00:13:04,720
-Substrate was/is the best blockchain
-building framework and obviously the 
+Substrate был/есть лучшим фундаментом для
+строительства блокчейна и очевидно, что
 
 172
 00:13:04,720 --> 00:13:08,560
-Polkadot shared security
-also solves a lot of problems for us. 
+Polkadot "делился" безопасностью
+и решает множество проблем для нас.
 
 173
 00:13:10,320 --> 00:13:12,880
-I always said to
-build with Polkadot on DeFi and maybe something 
+Я всегда говорил, что
+строить с Polkadot на DeFi и, может быть, что-то
 
 174
 00:13:12,880 --> 00:13:16,000
-with
-Forex market, so there will be sensitive 
+с
+рынком Forex, так что будет чувствительность
 
 175
 00:13:16,000 --> 00:13:20,480
-assets margin trading.
-That's the background of Laminar. 
+маржинальная торговля активами.
+Это является бекграундом Laminar.
 
 176
 00:13:22,080 --> 00:13:26,560
-When we designed the Laminar protocol,
-we built a prototype on 
+Когда мы разработали протокол Laminar,
+мы построили прототип на
 
 177
 00:13:26,560 --> 00:13:31,520
 Ethereum
-that is depending on DAI as the 
+который зависит от DAI как
 
 178
 00:13:31,520 --> 00:13:35,760
-current source, as USD, and it's also
-using compound as a money market. 
+текущий источник, как доллары США, а также
+используя compound как валютный рынок.
 
 179
 00:13:38,560 --> 00:13:40,560
-Then we want to build a
-similar thing on 
+Тогда мы захотели построить
+подобное
 
 180
 00:13:41,680 --> 00:13:44,720
-Polkadot. We see this one
-fundamental 
+на Polkadot. Мы видим этот
+фундаментальную
 
 181
 00:13:45,280 --> 00:13:47,520
-dependency we need to have is a stablecoin. 
+зависимость, по которой нам нужен стейблкоин.
 
 182
 00:13:49,040 --> 00:13:52,720
-So we figure we can either build a
-stablecoin ourself 
+Таким образом, мы либо можем построить
+стейблкоин сами,
 
 183
 00:13:53,360 --> 00:13:56,960
