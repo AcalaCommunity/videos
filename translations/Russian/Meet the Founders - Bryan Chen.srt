@@ -1644,113 +1644,113 @@ Karura
 
 330
 00:24:42,560 --> 00:24:46,080
-the building scheduler. There are a lot
-more new possibilities 
+строительного планировщика. Есть намного
+больше новых возможностей
 
 331
 00:24:46,080 --> 00:24:49,760
-coming up and I'm really excited.
-I look forward to see 
+в будущем, и я очень этому рад.
+Я с нетерпением жду
 
 332
 00:24:50,400 --> 00:24:53,360
-how other people can leverage on all these
-new features and 
+как другие люди смогут использовать все эти
+новые возможности и
 
 333
 00:24:54,640 --> 00:24:59,840
-build something new.
-Awesome. Last question: 
+построят что-то новое.
+Отлично. Последний вопрос:
 
 334
 00:25:02,160 --> 00:25:04,960
-so you're building a lot of these
-DeFi products but if you think 
+вы строите много
+продуктов DeFi, но если вы думаете,
 
 335
 00:25:04,960 --> 00:25:07,840
-like maybe five years in the future,
-where do you see 
+например, через пять лет,
+где вы видите
 
 336
 00:25:08,640 --> 00:25:13,280
-all of this going and where do you
-see Acala and Karura playing in that 
+все это происходит и где вы
+игде вы видите в этом участие Acala и Karura?
 
 337
 00:25:13,280 --> 00:25:18,400
-story? Finance is a concept that exists
-since I don't know how many years, 
+Финансы - это концепция, которая существует с момента,
+я не знаю, как много лет, 
 
 338
 00:25:21,520 --> 00:25:26,800
-it probably started when
-humans started trading. So it must be a 
+вероятно, началось, когда
+люди начали торговлю. Так что это, должно быть,
 
 339
 00:25:26,800 --> 00:25:30,080
-few thousand years already.
-This is never going to die. 
+уже несколько тысяч лет.
+Это никогда не умрет.
 
 340
 00:25:31,440 --> 00:25:35,280
-I would say in another thousand years from now,
-there will be still finance systems. 
+Я бы сказал еще через тысячу лет, с этого момента, 
+будут, по-прежнему, финансовые системы.
 
 341
 00:25:35,840 --> 00:25:39,040
-That's obvious.
-I 
+Это очевидно.
+Я
 
 342
 00:25:39,600 --> 00:25:43,120
-100% believe the DeFi will be
-very strong 
+на 100% уверен в том, что DeFi будет
+очень сильным
 
 343
 00:25:43,120 --> 00:25:49,280
-and much much stronger than today,
-in maybe five years from now. Hopefully 
+и намного сильнее, чем сегодня,
+может быть, через пять лет с этого момента. Надеюсь, что
 
 344
 00:25:50,560 --> 00:25:56,240
-DeFi will be able to become
-the mainstream finance, so people will 
+DeFi сможет стать
+основными финансами, поэтому люди будут
 
 345
 00:25:56,240 --> 00:25:59,440
-see
-the different ways to doing things, 
+искать
+различные способы совершать операции,
 
 346
 00:25:59,440 --> 00:26:01,840
-you don't have to rely on centralized
-banks, 
+вам не нужно будет полагаться на централизованные 
+банки,
 
 347
 00:26:01,840 --> 00:26:04,400
-you don't have to rely on centralized
-financial service. 
+вам не нужно будет полагаться на централизованные 
+банки,
 
 348
 00:26:04,960 --> 00:26:09,440
-There is a decentralized service that is
-much cheaper, it's much faster, it's much 
+Есть децентрализованный сервис, который
+гораздо дешевле, он гораздо быстрее, он намного
 
 349
 00:26:09,440 --> 00:26:16,320
-more secure.
-I'm hoping we can see this 
+безопаснее.
+Я надеюсь, что мы сможем увидеть это
 
 350
 00:26:16,320 --> 00:26:20,640
-completely shaping the industries and
-also other industries, 
+и окончательно сформировать промышленность, а,
+также, другие отрасли,
 
 351
 00:26:21,200 --> 00:26:24,640
-because almost every other industry is directly
-or indirectly 
+потому что почти каждая другая отрасль непосредственно
+или косвенно
 
 352
 00:26:24,640 --> 00:26:30,320
