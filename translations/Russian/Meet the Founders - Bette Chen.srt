@@ -718,43 +718,43 @@ blockchain turns the entire model around. 
 
 144
 00:09:36,640 --> 00:09:37,920
-For example, when we built
-Acala, 
+Например, когда мы делали
+Acala,
 
 145
 00:09:39,120 --> 00:09:44,880
-one thing that drives us every day is:
-how we measure our success ultimately 
+одна вещь, которая двигала нами каждый день:
+как мы в конечном итоге измерим наш успех
 
 146
 00:09:44,880 --> 00:09:49,600
-is that we can actually hand the network over
-to all of the network 
+в том, что мы действительно можем передать
+сеть всей сети
 
 147
 00:09:49,600 --> 00:09:55,520
-I say "token holders", right?
-If we can be hands off like, as a 
+Я говорю "владельцам токенов", верно?
+Если мы сможем держаться подальше, как
 
 148
 00:09:55,520 --> 00:09:58,320
-core
-developer team, if we can actually go 
+основная
+команда разработчиков, если мы действительно сможем пойти
 
 149
 00:09:58,320 --> 00:10:00,400
-into that cave that I talked about
-earlier 
+в эту пещеру, о которой я говорила
+раньше
 
 150
 00:10:01,120 --> 00:10:05,920
-for 10 days 20 days 30 days without
-further monitoring the network, 
+в течение 10 дней 20 дней без
+дальнейшего наблюдения за сетью,
 
 151
 00:10:05,920 --> 00:10:10,480
-it can still be
-self-governing through its 
+она все еще может быть
+самоуправляющейся через её
 
 152
 00:10:10,480 --> 00:10:14,560
