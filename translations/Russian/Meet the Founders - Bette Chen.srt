@@ -525,182 +525,186 @@ I also run. 
 
 106
 00:07:02,080 --> 00:07:08,320
-every day?
-What drove me to crypto 
+каждый день?
+Что заставило меня крипту
 
 107
 00:07:08,880 --> 00:07:13,200
-or the blockchain area, as I see the
-potential of how they can change the 
+или область блокчейна, я просто вижу их потенциал, 
+как они могут изменить
 
 108
 00:07:14,560 --> 00:07:17,920
-fabric of society, because
-Bitcoin kind of proved the 
+структуру общества, потому что
+Bitcoin это вид доказанной
 
 109
 00:07:17,920 --> 00:07:21,440
-point
-of value, we can take 
+ценности
+мы можем вернуть
 
 110
 00:07:21,440 --> 00:07:25,840
-their power back to
-individuals, you're not beholden to 
+их власть отдельным
+лицам, ты не обязан
 
 111
 00:07:25,840 --> 00:07:29,200
-any
-authority, everyone has 
+никаким
+властям, каждый имеет
 
 112
 00:07:29,200 --> 00:07:31,760
-ownership
-of what they're supposed to own. 
+право собственности 
+на то, чем они должны владеть.
+
 
 113
 00:07:31,760 --> 00:07:35,680
-So Bitcoin made it possible
-that everyone owns 
+Так что Bitcoin сделал это возможным
+теперь у всех есть
 
 114
 00:07:35,680 --> 00:07:39,760
-their value or owns their property. We
-didn't used to have that before. 
+их ценность или владение их имуществом. Мы
+не привыкли иметь этого раньше.
 
 115
 00:07:39,760 --> 00:07:44,240
-I don't know if people realize that. When
-you have a 
+Я не знаю, осознают ли это люди. Когда
+у вас есть
 
 116
 00:07:44,240 --> 00:07:47,440
-bank card, the money on the bank card
-are not owned by you. 
+банковская карта, деньги на ней
+не принадлежат вам.
 
 117
 00:07:47,440 --> 00:07:52,800
-The bank owes you some money. If
-you ask nicely, they will give you some 
+Банк должен вам немного денег. Если
+вы спросите вежливо, они дадут вам немного
 
 118
 00:07:52,800 --> 00:07:57,040
-back, but they could also just close the
-door or shut their servers 
+но они также могли просто закрыть дверь
+или закрыть свои серверы
 
 119
 00:07:57,040 --> 00:08:00,560
-and you wouldn't be able to access that
-value or that money! 
+и тогда вы не сможете получить доступ к тем ценностям
+или этим деньгам!
 
 120
 00:08:00,560 --> 00:08:03,920
-I think Bitcoin allows us to have
-real ownership, and then secondly, 
+Я думаю, Bitcoin позволяет нам иметь
+реальные права владения, а затем 
+
 
 121
 00:08:03,920 --> 00:08:07,840
-it allows
-to switch our mindset: 
+это позволяет
+переключить наш мышление:
 
 122
 00:08:09,840 --> 00:08:11,840
-no one actually owns the
-Bitcoin network. 
+на самом деле никто не владеет
+Bitcoin-сетью.
 
 123
 00:08:12,800 --> 00:08:16,080
-No one actually owns the monetary
-policy or no one actually 
+На самом деле никто не владеет валютной политикой
+или на самом деле никто
 
 124
 00:08:17,760 --> 00:08:19,840
-controls the rules
-that governs 
+контролирует правила,
+которые регулируют
 
 125
 00:08:19,840 --> 00:08:24,400
-who owns what. This is all governed
-by the bitcoin network. So those two 
+кто чем владеет. Все это управляется
+сетью bitcoin. Так что эти две
 
 126
 00:08:24,400 --> 00:08:29,120
-things,
-Bitcoin only applies that to money and 
+вещи,
+Bitcoin применим только к деньгам и
 
 127
 00:08:29,120 --> 00:08:32,320
-value,
-a very specific use case, however 
+ценностям,
+очень конкретный случай использования, однако
 
 128
 00:08:33,360 --> 00:08:36,400
-that proof of
-ownership 
+доказательство 
+владения,
+
 
 129
 00:08:36,400 --> 00:08:40,000
-and also resistance to some
-authority 
+а также сопротивление некоторым 
+полномочиям,
+
 
 130
 00:08:40,000 --> 00:08:44,400
-controlling everything and everyone's
-life, those two things can apply to 
+контролирует все и жизнь
+каждого, эти две вещи могут применяться к
 
 131
 00:08:44,400 --> 00:08:45,200
-almost 
+почти
 
 132
 00:08:45,200 --> 00:08:50,400
-every single aspect of our lives.
-That is kind of 
+каждому аспекту нашей жизни.
+Это, своего рода,
 
 133
 00:08:51,360 --> 00:08:55,120
-mind-bending and also inspiring
-that there are so many things that we 
+умопомрачительно и, также, захватывающе,
+что есть так много вещей, которыми
 
 134
 00:08:55,120 --> 00:08:59,120
-can turn around
-in our life. For example 
+мы можем перевернуть
+нашу жизнь. Например,
 
 135
 00:09:00,720 --> 00:09:02,880
-I think
-we are currently beholden to 
+я думаю,
+в настоящее время мы обязаны
 
 136
 00:09:02,880 --> 00:09:06,080
-many of the
-Web2 companies, which 
+многим
+Web2 компаниям, которые
 
 137
 00:09:07,600 --> 00:09:11,120
-have done a great job
-providing products and services that 
+проделали большую работу
+для предоставления продуктов и услуг, которые
 
 138
 00:09:11,120 --> 00:09:15,200
-make our lives more convenient,
-but, probably by design, they 
+делают наши жизни более удобными,
+но, вероятно, намеренно они сходятся
 
 139
 00:09:15,200 --> 00:09:18,640
-converge to this
-giant resource sucker 
+к этому 
+гигантскому присасывающемуся ресурсу
 
 140
 00:09:19,600 --> 00:09:22,640
-and they are sucking up everybody's data and
-resource 
+и поглощают все данные
+и ресурсы
 
 141
 00:09:22,640 --> 00:09:27,040
-and are not able, probably also by design,
-to share 
+и не могут, вероятно, также по замыслу,
+делиться
 
 142
 00:09:27,040 --> 00:09:30,080
@@ -914,18 +918,18 @@ Those are all the motivators. 
 
 184
 00:12:19,040 --> 00:12:21,120
-That makes me excited and
-inspired. 
+Это меня воодушевляет и 
+вдохновляет.
 
 185
 00:12:22,080 --> 00:12:25,280
-Awesome. Thanks. And that leads
-into 
+Потрясающие. Спасибо. И это приводит
+к
 
 186
 00:12:26,160 --> 00:12:33,200
-a couple other questions.
-Sticking to Acala for now. If you 
+паре других вопросов.
+Пока придерживаюсь Acala. Если ты
 
 187
 00:12:33,200 --> 00:12:37,920
