@@ -758,163 +758,164 @@ Acala,
 
 152
 00:10:10,480 --> 00:10:14,560
-governance model
-and also economically sustainable 
+модель управления
+и экономическую устойчивость,
 
 153
 00:10:14,560 --> 00:10:18,480
-through economic sovereignty
-from the network and 
+через экономический суверенитет
+из сети и
 
 154
 00:10:19,840 --> 00:10:22,560
-the token holders can through
-governance 
+владельцы токенов могут через 
+управление
+
 
 155
 00:10:22,560 --> 00:10:25,760
-vote to continue to manage and evolve
-the network. 
+голосовать, чтобы продолжать управлять и развивать
+сеть.
 
 156
 00:10:26,720 --> 00:10:31,280
-That what the success is! It is very
-idealistic probably, but I think it's 
+Вот что такое успех! Это очень
+идеалистично, возможно, но я думаю, что это
 
 157
 00:10:31,280 --> 00:10:34,240
-it's very possible through
-the plan that we've put out and 
+вполне возможно с помощью плана,
+который мы выложили и
 
 158
 00:10:36,080 --> 00:10:39,520
-the proof that we've had so far,
-but of course everyone's anticipating 
+доказательства того, что мы до сих пор существовали,
+но, конечно, все ожидают
 
 159
 00:10:40,240 --> 00:10:46,080
-the launch very soon. This is the
-direction that we are heading and this 
+очень скорый запуск. Это направление,
+в котором мы движемся, и это
 
 160
 00:10:46,080 --> 00:10:50,640
-turns the model around because,
-if I walk into a bank today, while I can 
+разворачивает модель, потому что, 
+если я сегодня пойду в банк, пока могу
 
 161
 00:10:50,640 --> 00:10:53,920
-open
-a bank account and borrow a loan, but I 
+открыть
+банковский счёт и взять кредит, но мне
 
 162
 00:10:53,920 --> 00:10:56,880
-would not be allowed to become a
-shareholder. 
+нельзя будет стать
+акционером.
 
 163
 00:10:56,880 --> 00:11:00,880
-Or if the CEO or other companies
-are misconducting, 
+Или если генеральный директор или другие компании
+нарушают правила,
+
 
 164
 00:11:00,880 --> 00:11:03,920
-I would not be able to vote the CEO out.
-I have 
+Я бы не смог проголосовать за отставку генерального директора.
+У меня 
 
 165
 00:11:03,920 --> 00:11:08,000
-none of those rights. In a
-blockchain and in how we design 
+нет этих прав. В блокчейне
+и как мы разрабатываем
 
 166
 00:11:08,000 --> 00:11:12,000
-the next generation network
-there's a co-ownership 
+сети следующего поколения
+есть модель совместного
 
 167
 00:11:12,000 --> 00:11:15,920
-model. Anyone who participated,
-contributed in certain ways, 
+владения. Каждый, кто участвует,
+способствует определенным образом,
 
 168
 00:11:15,920 --> 00:11:21,920
-they also co-own the platform or
-the network that they are 
+они также совместно владеют платформой или
+сетью, в которой они
 
 169
 00:11:21,920 --> 00:11:25,200
-participating in.
-This flips around the 
+участвуют.
+Это переворачивает
 
 170
 00:11:25,200 --> 00:11:28,800
-whole model
-of how you actually share the 
+целую модель
+от того, как вы на самом деле делитесь
 
 171
 00:11:28,800 --> 00:11:31,280
-wealth that you generated, how you
-actually share 
+ценностями, которые вы создали, как вы
+на самом деле разделяете
 
 172
 00:11:31,280 --> 00:11:34,240
-the ownership and also how you share
-responsibility. 
+владение и как вы разделяете
+ответственность.
 
 173
 00:11:35,280 --> 00:11:37,760
-These things all come in proportion
-to 
+Все это пропорционально
 
 174
 00:11:37,760 --> 00:11:42,480
-each other, but now at least we have a
-very 
+друг другу, но, теперь, по крайней мере, у нас есть 
+очень
 
 175
 00:11:43,680 --> 00:11:46,720
-reasonable or technological
-capable way 
+разумный или технологический
+способ
 
 176
 00:11:46,720 --> 00:11:50,640
-for us to all implement that and roll
-that out to many aspects of life. 
+чтобы мы все реализовали это и внедрили
+во многие аспекты жизни.
 
 177
 00:11:51,440 --> 00:11:55,680
-For Acala, we are
-trying that out in a finance arena, 
+Для Acala, мы
+пробуем это на финансовой арене,
 
 178
 00:11:55,680 --> 00:11:59,760
-but this technology can be used in many
-other fields and we are only at the very 
+но эту технологию можно использовать во многих
+других областях, и мы находимся только на самом
 
 179
 00:11:59,760 --> 00:12:02,480
-beginning
-of all the stuff that I was talking 
+начале
+из всего, что я говорил.
 
 180
 00:12:02,480 --> 00:12:06,480
-about. That's what drives me up every day
-because I know there are so many 
+Вот что меня заводит каждый день,
+потому что я знаю, что есть так много
 
 181
 00:12:06,480 --> 00:12:10,400
-things that we could we could do
-and there are also so many things we 
+того, что мы могли бы сделать
+и есть так много вещей, которые мы
 
 182
 00:12:10,400 --> 00:12:13,120
-haven't got to the point where we can
-hand off 
+еще не дошли до того момента, когда мы
+можем передать,
 
 183
 00:12:13,120 --> 00:12:17,040
-to say we are truly decentralized.
-Those are all the motivators. 
+чтобы сказать, что мы действительно децентрализованы.
+Это все мотиваторы.
 
 184
 00:12:19,040 --> 00:12:21,120
