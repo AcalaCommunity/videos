@@ -3472,23 +3472,23 @@ tokenem użyteczności Karura
 
 869
 00:28:14,080 --> 00:28:20,240
-um another thing okay so ben is asking
+Kolejną sprawą, o którą pyta Ben jest
 
 870
 00:28:17,440 --> 00:28:22,880
-something like what's the earnings share
+coś takiego jak jaki jest udział w zarobkach
 
 871
 00:28:20,240 --> 00:28:24,960
-for participating in the liquidity pool
+za dostarcznie płynności
 
 872
 00:28:22,880 --> 00:28:26,399
-so one thing to mention is that we've
+więc jedną rzeczą, o której musimy wspomnieć jest to, że mamy
 
 873
 00:28:24,960 --> 00:28:29,520
-set aside
+odłożone
 
 874
 00:28:26,399 --> 00:28:30,320
