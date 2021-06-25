@@ -3492,11 +3492,11 @@ odłożone
 
 874
 00:28:26,399 --> 00:28:30,320
-um it's six percent uh right rutau of
+to jest 6 procent
 
 875
 00:28:29,520 --> 00:28:33,440
-our of the
+z
 
 876
 00:28:30,320 --> 00:28:34,720
@@ -3504,11 +3504,11 @@ kar the karua supply for the initial
 
 877
 00:28:33,440 --> 00:28:37,840
-liquidity provider
+dostawców płynności
 
 878
 00:28:34,720 --> 00:28:39,919
-program so this is this is a bit of an
+więc to jest trochę więcej
 
 879
 00:28:37,840 --> 00:28:41,520
