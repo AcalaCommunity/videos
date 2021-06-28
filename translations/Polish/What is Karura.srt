@@ -3776,307 +3776,307 @@ płynności
 
 945
 00:30:39,360 --> 00:30:43,120
-early liquidity will even offstat that
+wcześni dostawcy będą zarabiać nawet poza planem
 
 946
 00:30:42,159 --> 00:30:45,440
-if there's any
+jeśli jest jakieś
 
 947
 00:30:43,120 --> 00:30:46,960
-even further and we have some exciting
+nawet później mamy jakieś ekscytujące
 
 948
 00:30:45,440 --> 00:30:48,080
-stuff that we may come up later when we
+rzeczy, które możemy przedstawić później, gdy
 
 949
 00:30:46,960 --> 00:30:51,120
-start to roll up
+rozpocznie się uruchamianie
 
 950
 00:30:48,080 --> 00:30:51,840
-stuff one by one as i said uh or as dan
+rzeczy po kolei. Tak, jak powiedziałem, czy Dan
 
 951
 00:30:51,120 --> 00:30:54,799
-described
+opisał
 
 952
 00:30:51,840 --> 00:30:55,679
-um kuru and alkala a specialized network
+w Karura i Acala, wyspecjalizowanej sieci
 
 953
 00:30:54,799 --> 00:30:58,480
-right it's like
+to jest jak
 
 954
 00:30:55,679 --> 00:31:00,240
-a network specialized for finance um so
+sieci wyspecjalizowanej dla finansów
 
 955
 00:30:58,480 --> 00:31:01,760
-when when we go live it's not going to
+kiedy zostaniemy uruchomieni, to nie zostaniemy
 
 956
 00:31:00,240 --> 00:31:02,559
-stay in this straight we're going to
+w tej samej postaci, będziemy
 
 957
 00:31:01,760 --> 00:31:04,640
-continue
+kontynuować
 
 958
 00:31:02,559 --> 00:31:06,080
-to improve and continue to grow up new
+ulepszenia i dalszy rozwój nowych
 
 959
 00:31:04,640 --> 00:31:09,600
-feature on top of that
+funkcji na tym
 
 960
 00:31:06,080 --> 00:31:09,600
-that's the hints i can give up today
+to są wskazówki, którymi mogę się dzisiaj podzielić
 
 961
 00:31:11,919 --> 00:31:16,559
-cool yeah i guess we can move on to the
+fajnie. Możemy przejść do
 
 962
 00:31:15,600 --> 00:31:19,279
-next
+następnej
 
 963
 00:31:16,559 --> 00:31:20,640
-section someone was asking like when you
+sekcji. Ktoś pyta kiedy będzie
 
 964
 00:31:19,279 --> 00:31:22,559
-can do this when you can provide
+można to zrobić, kiedy będzie można dostarczać
 
 965
 00:31:20,640 --> 00:31:24,399
-liquidity when you can use
+płynność, kiedy będzie można użyć
 
 966
 00:31:22,559 --> 00:31:25,760
-um the decks and the answer is the
+DEX, i odpowiedź to
 
 967
 00:31:24,399 --> 00:31:28,399
-moment we launch
+chwila uruchomienia sieci Karura
 
 968
 00:31:25,760 --> 00:31:29,279
-so karua we just need to win the pair
+po prostu musimy wygrać miejsce - slot
 
 969
 00:31:28,399 --> 00:31:31,679
-chain slot
+parachain`a
 
 970
 00:31:29,279 --> 00:31:32,320
-auction and the moment we win that um
+aukcje i moment, w którym wygramy
 
 971
 00:31:31,679 --> 00:31:33,679
-all these
+to wszystko
 
 972
 00:31:32,320 --> 00:31:35,360
-as you can see right now this is all
+jak możesz teraz zobaczyć, to wszystko jest
 
 973
 00:31:33,679 --> 00:31:38,159
-built we've been actually waiting
+zbudowane, i faktycznie czekaliśmy
 
 974
 00:31:35,360 --> 00:31:39,039
-to launch this so the moment we can get
+do tego uruchomienia, więc moment w którym
 
 975
 00:31:38,159 --> 00:31:41,840
-our
+nasze
 
 976
 00:31:39,039 --> 00:31:43,919
-our slots in the kusama network we'll go
+miejsce - slot w sieci Kusama zostanie
 
 977
 00:31:41,840 --> 00:31:47,039
-live and this stuff will all be usable
+uruchomione i te wszystkie rzeczy będą użyteczne
 
 978
 00:31:43,919 --> 00:31:49,679
-um from the moment we we get started
+od momentu rozpoczęcia
 
 979
 00:31:47,039 --> 00:31:52,000
-yeah so the next section is about liquid
+Więc, następna sekcja jest o płynnym
 
 980
 00:31:49,679 --> 00:31:54,080
-staking and this is super amazing i
+staking`u i to jest niesamowite
 
 981
 00:31:52,000 --> 00:31:56,000
-i just can't wait to use this feature so
+Po prostu nie mogę się doczekać, aby użyć tej funkcji
 
 982
 00:31:54,080 --> 00:31:57,120
-the liquid staking in essentially in a
+płynny staking jest w zasadzie
 
 983
 00:31:56,000 --> 00:32:00,000
-nutshell is like
+w skrócie jest to
 
 984
 00:31:57,120 --> 00:32:01,440
-it's a meta a trustless staking pool
+rodzaj staking`u niewymagający zaufania
 
 985
 00:32:00,000 --> 00:32:04,320
-that you can free
+możesz uwolnić
 
 986
 00:32:01,440 --> 00:32:06,320
-your stake asset so think about as like
+Twoje stakowane walory, więc pomyśl o tym jak o
 
 987
 00:32:04,320 --> 00:32:08,720
-if you're holding kusama today
+jeśli posiadasz dzisiaj Kusama
 
 988
 00:32:06,320 --> 00:32:09,840
-and if you stick with validators which
+i jeśli masz walidatorów
 
 989
 00:32:08,720 --> 00:32:11,919
-you should
+powinieneś
 
 990
 00:32:09,840 --> 00:32:13,519
-every time that you want to spend or you
+za każdym razem, kiedy chcesz wydać, albo
 
 991
 00:32:11,919 --> 00:32:14,240
-want to move your kusama you have this
+chcesz przenieść swoje tokeny Kusama, będziesz podlegać
 
 992
 00:32:13,519 --> 00:32:16,559
-typical
+typowemu
 
 993
 00:32:14,240 --> 00:32:17,840
-seven day uploading period for the
+7-dniowemy okresowi oddelegowania dla
 
 994
 00:32:16,559 --> 00:32:19,919
-security of the network
+bezpieczeństwa sieci
 
 995
 00:32:17,840 --> 00:32:22,000
-and on polkadot it's even longer it's 28
+a na Polkadot, ten okres jest nawet dłuższy i trwa 28
 
 996
 00:32:19,919 --> 00:32:23,760
-days for unbounding your stack assets
+dnia aby oddelegować twoje aktywa
 
 997
 00:32:22,000 --> 00:32:25,440
-so what we created as what we call
+tak więc, to co stworzyliśmy i nazywamy
 
 998
 00:32:23,760 --> 00:32:27,440
-liquid staking essentially
+płynnym staking`iem, zasadniczo
 
 999
 00:32:25,440 --> 00:32:28,799
-a trustless staking pool that you can
+pólą staking`u, która nie wymaga zaufania, możesz
 
 1000
 00:32:27,440 --> 00:32:31,200
-stack using
+ulokować używając
 
 1001
 00:32:28,799 --> 00:32:32,880
-a kura and every time that you stake you
+Karura i za każdym razem gdy będziesz stakował
 
 1002
 00:32:31,200 --> 00:32:35,200
-will be getting a receipt
+otrzymasz zaświadczenie o
 
 1003
 00:32:32,880 --> 00:32:37,039
-of your stake assets uh because it's
+Twoich stak`owanych walorach, ponieważ to jest
 
 1004
 00:32:35,200 --> 00:32:38,080
-trustless the receipt of your state
+nie wymagające zaufania zaświadczenie Twoich stakow`anych
 
 1005
 00:32:37,039 --> 00:32:41,279
-asset
+walorów
 
 1006
 00:32:38,080 --> 00:32:43,360
-is what we call lksm so lksm is
+To jest to, co nazywamy lKSM, więc lKSM jest to
 
 1007
 00:32:41,279 --> 00:32:44,320
-you bailing as long as you hold on to
+zarabianie tak długo, jak trzymasz
 
 1008
 00:32:43,360 --> 00:32:46,320
-lksm
+lKSM
 
 1009
 00:32:44,320 --> 00:32:48,399
-you will be earning the staking reward
+będziesz dostawał nagrodę za staking
 
 1010
 00:32:46,320 --> 00:32:49,760
-it's also safe because it's trustless
+Jest to również bezpieczne, ponieważ nie wymaga zaufania
 
 1011
 00:32:48,399 --> 00:32:51,760
-it's always guaranteed that you can
+zawsze masz gwarancję, że możesz
 
 1012
 00:32:49,760 --> 00:32:54,480
-redeem for more
+wymienić na więcej
 
 1013
 00:32:51,760 --> 00:32:55,519
-uh ksm when you want to redeem the the
+KSM, gdy chcesz dostać
 
 1014
 00:32:54,480 --> 00:32:57,840
-ksm back
+KSM z powrotem
 
 1015
 00:32:55,519 --> 00:32:58,720
-so um this is something that's extremely
+więc to jest coś
 
 1016
 00:32:57,840 --> 00:33:00,399
-extremely
+niezwykle
 
 1017
 00:32:58,720 --> 00:33:02,880
-user-friendly i think everyone should be
+przyjazny dla użytkownika. Myślę, że każdy powinien
 
 1018
 00:33:00,399 --> 00:33:04,799
-using this if you hold a hokusama
+tego używać jeżeli posiada Kusamę
 
 1019
 00:33:02,880 --> 00:33:06,720
-um and i'm gonna demonstrate here right
+Teraz zademonstruje
 
 1020
 00:33:04,799 --> 00:33:09,120
-so um for me to stay in this
+więc dla mnie pozostanie w tej
 
 1021
 00:33:06,720 --> 00:33:10,080
