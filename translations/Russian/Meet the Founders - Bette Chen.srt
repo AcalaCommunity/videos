@@ -944,95 +944,96 @@ three words be? 
 
 189
 00:12:44,640 --> 00:12:45,680
-That's a tough question! 
+Сложный вопрос!
 
 190
 00:12:50,160 --> 00:12:53,280
-So that would be a
-stable, 
+Так что это был бы
+стабильный,
 
 191
 00:12:57,200 --> 00:12:58,880
-a trusted (in a trustless way) 
+надежный (бесправный способ)
 
 192
 00:13:02,320 --> 00:13:10,480
-and decentralized. That's great.
-Bryan's answer was "Polkadot 
+и децентрализованный. Это здорово.
+Брайан ответил, что "Polkadot 
 
 193
 00:13:10,480 --> 00:13:14,400
 DeFi Hub"
-Those were the three words. So I 
+Это были три слова. Поэтому я
 
 194
 00:13:14,400 --> 00:13:18,800
-rephrased the question a little bit.
-Switching to Karura, 
+немного перефразировал вопрос.
+Вернёмся к Karura, 
+
 
 195
 00:13:19,680 --> 00:13:22,000
-how would you describe Karura in three
-words? 
+как бы вы описали Karura тремя 
+словами?
 
 196
 00:13:26,880 --> 00:13:31,600
-It's actually easier.
-Karura is "hot", 
+Это на самом деле проще.
+Karura "горячая",
 
 197
 00:13:42,800 --> 00:13:43,440
-"innovative", 
+"новаторская",
 
 198
 00:13:45,040 --> 00:13:51,120
-and also "cool".
-Perfect! So, going back to 
+и также "крутая".
+Отлично! Итак, вернёмся к
 
 199
 00:13:52,240 --> 00:13:55,840
-the beginning of all of this
-with Acala, could you maybe just tell 
+нашему началу
+с Acala, не могли бы вы просто сказать
 
 200
 00:13:56,400 --> 00:14:00,000
-a brief story around how the teams came
-together, how 
+вкратце о том, как команды 
+объединились, как
 
 201
 00:14:00,000 --> 00:14:05,040
-Acala started, maybe what made you
-realize that there was this need for 
+Acala запустилась, может быть, что заставило вас 
+осознать, что была потребность в
 
 202
 00:14:05,040 --> 00:14:08,160
-this DeFi parachain,
-a stablecoin, because I know you were 
+этом DeFi-парачейне,
+стейблкоине, потому что я знаю, что вы
 
 203
 00:14:08,160 --> 00:14:12,880
-working on Laminar at the time.
-So maybe just a little history of Acala. 
+в то время работали над Laminar.
+Так что, может быть, немного истории об Acala.
 
 204
 00:14:14,320 --> 00:14:17,120
-Sure, so prior to
-Acala, 
+Конечно, до 
+Acala, 
 
 205
 00:14:18,560 --> 00:14:24,160
-we set up Laminar.
-When I met 
+мы создали Laminar.
+Когда я встретила
 
 206
 00:14:24,160 --> 00:14:27,440
-Bryan and Ruitao, we decided to build
-something in 
+Брайана и Руитао, мы решили построить
+что-то в
 
 207
 00:14:27,440 --> 00:14:33,520
-the DeFi space. So we started Laminar, which
-is focused on synthetic asset 
+области DeFi. Мы запустили Laminar, 
+ориентированный на синтетические активы.
 
 208
 00:14:33,520 --> 00:14:37,360
