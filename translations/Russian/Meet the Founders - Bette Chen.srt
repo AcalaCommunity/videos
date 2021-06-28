@@ -1037,28 +1037,28 @@ Acala,
 
 208
 00:14:33,520 --> 00:14:37,360
-margin trading,
-but it's also a sort of DeFi 
+маржинальную торговлю,
+но тоже является своего рода DeFi
 
 209
 00:14:37,360 --> 00:14:41,920
-protocol development
-house basically. It was right 
+протоколом, построенным,
+в основном, дома . Это было как раз
 
 210
 00:14:41,920 --> 00:14:46,800
-at the point where we decided to
-move all our focus on to Substrate 
+в тот момент, когда мы решили
+перенести все наше внимание на Substrate
 
 211
 00:14:46,800 --> 00:14:50,240
-development, because we built our
-prototype on Ethereum 
+потому что мы построили наш
+прототип на Ethereum,
 
 212
 00:14:50,240 --> 00:14:53,360
-believe it or not. It actually launched
-on Coven. 
+верите ли вы или нет. Он действительно был запущен 
+на Coven.
 
 213
 00:14:54,000 --> 00:14:57,120
