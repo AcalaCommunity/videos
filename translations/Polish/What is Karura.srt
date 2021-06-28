@@ -3568,211 +3568,211 @@ uważamy, że Karura będzie tak niesamowita
 
 893
 00:29:04,000 --> 00:29:09,600
-dla posiadaczy tokenu kusama, ponieważ możesz
+dla posiadaczy tokenu Kusama, ponieważ możesz
 
 894
 00:29:06,399 --> 00:29:11,200
-actually put the kusama token into work
+dać token Kusama aby pracował
 
 895
 00:29:09,600 --> 00:29:12,080
-for you right you can simply provide
+dla Ciebie. Możesz po prostu dostarczać
 
 896
 00:29:11,200 --> 00:29:14,159
-liquidity
+płynność
 
 897
 00:29:12,080 --> 00:29:15,360
-uh in the cruel network and start to
+do sieci i zacznij
 
 898
 00:29:14,159 --> 00:29:17,520
-enjoy return
+się cieszyć przychodami
 
 899
 00:29:15,360 --> 00:29:18,399
-um for participating in this network and
+za uczestnictwo w sieci
 
 900
 00:29:17,520 --> 00:29:20,960
-for the uh
+dla
 
 901
 00:29:18,399 --> 00:29:22,880
-for the for the rewards when providing
+dla nagród podczas dostarczania
 
 902
 00:29:20,960 --> 00:29:24,880
-liquidity they actually double reward
+płynności. Oni właściwie podwoili nagrodę
 
 903
 00:29:22,880 --> 00:29:26,480
-in the very first year that we as then
+w pierwszym roku, jak
 
 904
 00:29:24,880 --> 00:29:27,279
-mentioned so you will be earning the
+wspomniano, będziesz zarabiać
 
 905
 00:29:26,480 --> 00:29:29,600
-typical
+typowe
 
 906
 00:29:27,279 --> 00:29:31,200
-liquidity provider fee that's like uh
+opłaty dla dostawców płynności, to jest taki
 
 907
 00:29:29,600 --> 00:29:32,960
-pretty much industry standard if you
+standard branżowy
 
 908
 00:29:31,200 --> 00:29:34,080
-check out like sushi swap you can check
+sprawdź jak działa sushi swap, możesz sprawdzić również
 
 909
 00:29:32,960 --> 00:29:35,679
-out that uni swap
+uniswap
 
 910
 00:29:34,080 --> 00:29:37,840
-um they already pretty much like to eat
+one są właściwie bardzo podobne
 
 911
 00:29:35,679 --> 00:29:38,399
-the standard liquid liquidity provider
+standardowy dostawca płynności
 
 912
 00:29:37,840 --> 00:29:40,399
-fee
+.
 
 913
 00:29:38,399 --> 00:29:42,399
-but in additional you will be earning uh
+ale dodatkowo będziesz zarabiać
 
 914
 00:29:40,399 --> 00:29:43,200
-some liquidity reward for the for early
+pewną nagrodę za wczesny
 
 915
 00:29:42,399 --> 00:29:45,840
-contribution
+udział
 
 916
 00:29:43,200 --> 00:29:46,559
-for kurura and as then said we set aside
+w Karura, jak już wspomniano
 
 917
 00:29:45,840 --> 00:29:48,399
-a set of
+część
 
 918
 00:29:46,559 --> 00:29:50,080
-kura token to be used for that
+tokenów Karura będzie użyta jako
 
 919
 00:29:48,399 --> 00:29:54,000
-particular
+specyficzna
 
 920
 00:29:50,080 --> 00:29:54,960
-incentive as well a couple people are
+zachęta. Parę osób
 
 921
 00:29:54,000 --> 00:29:58,000
-asking about
+pyta o
 
 922
 00:29:54,960 --> 00:30:00,080
-um impermanent loss when providing
+niestałą stratę - impermanent loss, kiedy dostarczamy
 
 923
 00:29:58,000 --> 00:30:02,559
-liquidity
+płynność
 
 924
 00:30:00,080 --> 00:30:03,120
-yeah definitely like if um obviously in
+Tak, na pewno, jeżeli
 
 925
 00:30:02,559 --> 00:30:06,399
-the
+w
 
 926
 00:30:03,120 --> 00:30:06,880
-in in short run or in short term if you
+krótkim czasie
 
 927
 00:30:06,399 --> 00:30:09,120
-check
+sprawdzisz
 
 928
 00:30:06,880 --> 00:30:10,240
-uni swap there's like this problem of
+uniswap, tam występuje tego rodzaju problem jak
 
 929
 00:30:09,120 --> 00:30:12,240
-impediment loss
+nietrwała strata - impediment loss
 
 930
 00:30:10,240 --> 00:30:14,799
-um when you're providing um liquidity
+kiedy dostarczasz płynność
 
 931
 00:30:12,240 --> 00:30:17,360
-pair to let's say two very volatile
+powiedzmy, że dwa bardzo zmienne
 
 932
 00:30:14,799 --> 00:30:19,120
-assets uh it's in the in the very
+walory, na samym początku
 
 933
 00:30:17,360 --> 00:30:20,399
-beginning it's almost the same for
+są prawie takie same dla
 
 934
 00:30:19,120 --> 00:30:23,760
-providing liquidity
+dostawców płynności
 
 935
 00:30:20,399 --> 00:30:25,440
-uh in um in kura as well so you will
+również w Karura, więc
 
 936
 00:30:23,760 --> 00:30:26,000
-experience some of the implement loss in
+doświadczysz jakąś nietrwałą stratę w
 
 937
 00:30:25,440 --> 00:30:28,080
-short term
+krótkim terminie
 
 938
 00:30:26,000 --> 00:30:29,440
-but in long term um if you actually
+ale w dłuższej perspektywie czasowej, jeśli faktycznie
 
 939
 00:30:28,080 --> 00:30:31,360
-check the historic data
+sprawdzisz dane historyczne
 
 940
 00:30:29,440 --> 00:30:33,200
-in long term that pretty much all turns
+w dłuższej perspektywie czasowej, to się zmienia
 
 941
 00:30:31,360 --> 00:30:35,200
-out to be great um the additional
+w świetną dodatkową
 
 942
 00:30:33,200 --> 00:30:38,559
-incentive that we have in place
+zachętę, że w miejsce
 
 943
 00:30:35,200 --> 00:30:39,360
-for kr tokens um as liquidity rewards
+tokenów Karura jako nagroda za dostarczanie
 
 944
 00:30:38,559 --> 00:30:42,159
-for providing
+płynności
 
 945
 00:30:39,360 --> 00:30:43,120
