@@ -3500,7 +3500,7 @@ z
 
 876
 00:28:30,320 --> 00:28:34,720
-kar the karua supply for the initial
+podaży KAR dla początkowego programu
 
 877
 00:28:33,440 --> 00:28:37,840
@@ -3512,23 +3512,23 @@ więc to jest trochę więcej
 
 879
 00:28:37,840 --> 00:28:41,520
-alpha leak i think on this on this call
+na początku
 
 880
 00:28:39,919 --> 00:28:44,399
-but definitely uh
+ale zdecydowanie
 
 881
 00:28:41,520 --> 00:28:45,919
-something that will reward early
+coś, co wynagrodzi wczesnych
 
 882
 00:28:44,399 --> 00:28:48,559
-dostawcy płynności, którzy
+dostawców płynności, którzy
 
 883
 00:28:45,919 --> 00:28:49,520
-kto wnosi cokolwiek by było, jeśli
+wnoszą cokolwiek by to było, jeśli
 
 884
 00:28:48,559 --> 00:28:52,320
@@ -3568,7 +3568,7 @@ uważamy, że Karura będzie tak niesamowita
 
 893
 00:29:04,000 --> 00:29:09,600
-for kusama token holders because you can
+dla posiadaczy tokenu kusama, ponieważ możesz
 
 894
 00:29:06,399 --> 00:29:11,200
