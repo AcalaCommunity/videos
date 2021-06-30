@@ -4200,7 +4200,7 @@ DOT i lDOT, więc
 
 1051
 00:34:06,960 --> 00:34:10,960
-that might be easier so what you're
+to może być łatwiejsze, więc to co robisz
 
 1052
 00:34:08,800 --> 00:34:13,280
@@ -4220,163 +4220,163 @@ lDOT w zamian i te płynne DOT
 
 1056
 00:34:16,159 --> 00:34:20,639
-can be used within
+może być użyte w
 
 1057
 00:34:17,839 --> 00:34:21,919
-akala if it's dot um but what what
+Acala, jeżeli jest to DOT, ale to czym
 
 1058
 00:34:20,639 --> 00:34:24,480
-ruitan mentioned is
+Ruitao wspomniał
 
 1059
 00:34:21,919 --> 00:34:26,079
-how this l dot is a receipt for your for
+że to lDOT jest potwierdzeniem Twoich
 
 1060
 00:34:24,480 --> 00:34:28,560
-your staked dot
+stakowanych DOT
 
 1061
 00:34:26,079 --> 00:34:30,560
-so if you can imagine like on the on the
+więc możesz sobie wyobrazić jak
 
 1062
 00:34:28,560 --> 00:34:32,079
-wallet screen that rue tau showed you
+Ruitao pokazał na ekranie portfela
 
 1063
 00:34:30,560 --> 00:34:34,480
-with all of your balances
+całe saldo
 
 1064
 00:34:32,079 --> 00:34:35,520
-your l dot balance will actually always
+Twoje saldo lDOT będzie zawsze
 
 1065
 00:34:34,480 --> 00:34:37,200
-be going up
+wzrastać
 
 1066
 00:34:35,520 --> 00:34:39,119
-because it's it's showing you it's a
+ponieważ to pokazuje Ci
 
 1067
 00:34:37,200 --> 00:34:41,359
-receipt for your staked dot
+pokwitowanie dla twoich stakowanych DOT
 
 1068
 00:34:39,119 --> 00:34:43,359
-so as your staked dot starts earning
+więc kiedy Twoje DOT zaczynają zarabiać 
 
 1069
 00:34:41,359 --> 00:34:44,480
-more and more staking rewards that'll be
+coraz więcej nagród za stakowanie, to będzie
 
 1070
 00:34:43,359 --> 00:34:47,280
-reflected in your
+odzwierciedlać Twoje
 
 1071
 00:34:44,480 --> 00:34:48,720
-ldot balance so when you go to redeem
+saldo lDOT, więc gdy sprzedasz
 
 1072
 00:34:47,280 --> 00:34:52,000
-your ldot
+swoje lDOT
 
 1073
 00:34:48,720 --> 00:34:54,720
-for like native dot at the end
+za natywne DOT na końcu
 
 1074
 00:34:52,000 --> 00:34:55,760
-whenever you want to unstake your l dot
+kiedykolwiek chcesz odstąpić od stakowania. ilość Twoich lDOT
 
 1075
 00:34:54,720 --> 00:34:58,160
-will have gone up
+wzrośnie
 
 1076
 00:34:55,760 --> 00:35:00,320
-since the moment you actually got your
+od momentu, w którym faktycznie masz
 
 1077
 00:34:58,160 --> 00:35:02,000
-original l dot if that makes sense
+oryginalne lDOT. Ma to sens
 
 1078
 00:35:00,320 --> 00:35:04,720
-because it's just it's always reflecting
+ponieważ jest to po prostu odzwierciedlenie
 
 1079
 00:35:02,000 --> 00:35:08,160
-your staking rewards adding on to your
+Twoich nagród za stakowanie dodanych do Twojej
 
 1080
 00:35:04,720 --> 00:35:11,119
-stack of ldap yeah think about
+puli lDOT. tak, pomyśl o tym
 
 1081
 00:35:08,160 --> 00:35:12,160
-as if eldor is a share of the pool of
+że lDOT jest udziałem w puli
 
 1082
 00:35:11,119 --> 00:35:13,920
-the staking pool
+puli staking`u
 
 1083
 00:35:12,160 --> 00:35:15,200
-and the staking pool is growing size
+i pula udziałów rośnie
 
 1084
 00:35:13,920 --> 00:35:16,000
-because there's going to be staking
+ponieważ nagrody za
 
 1085
 00:35:15,200 --> 00:35:18,000
-reward that's
+staking są
 
 1086
 00:35:16,000 --> 00:35:20,079
-praying to the pool but you can always
+dodawane do puli, ale zawsze możesz
 
 1087
 00:35:18,000 --> 00:35:20,720
-redeem um for the same share that you
+wyjąć ten sam udział, który
 
 1088
 00:35:20,079 --> 00:35:23,359
-put it in
+włożyłeś
 
 1089
 00:35:20,720 --> 00:35:25,359
-so your your that up the the redeeming
+więc ilość którą możesz wyjąć
 
 1090
 00:35:23,359 --> 00:35:28,839
-number will be always growing so holding
+zawsze będzie będzie wzrastać
 
 1091
 00:35:25,359 --> 00:35:31,760
-lg holding lksm is as if you are
+posiadanie lKSM jest jak
 
 1092
 00:35:28,839 --> 00:35:34,320
-staking yeah
+staking
 
 1093
 00:35:31,760 --> 00:35:35,280
-and it's slightly if you have l or you
+i jest to tak, że jeśli masz lDOT, albo
 
 1094
 00:35:34,320 --> 00:35:36,720
-have lksm
+masz lKSM
 
 1095
 00:35:35,280 --> 00:35:38,880
-because we call it liquid right it's
+ponieważ nazywamy to płynnym
 
 1096
 00:35:36,720 --> 00:35:39,599
@@ -4384,31 +4384,31 @@ actually transferable within the archive
 
 1097
 00:35:38,880 --> 00:35:41,839
-shot and
+i
 
 1098
 00:35:39,599 --> 00:35:43,680
-within the wider pocket ecosystem you
+w szerzej pojętym ekosystemie
 
 1099
 00:35:41,839 --> 00:35:45,440
-can send ldap to someone else you can
+możesz wysłać lDOT do kogoś innego, możesz
 
 1100
 00:35:43,680 --> 00:35:48,320
-send lksm to someone else
+wysłać lKSM do kogoś innego
 
 1101
 00:35:45,440 --> 00:35:49,280
-as he was just moving um as if he's just
+tak jak on właśnie przenosił
 
 1102
 00:35:48,320 --> 00:35:52,160
-moving some
+jakieś
 
 1103
 00:35:49,280 --> 00:35:54,800
-of some some transferrable assets um the
+zbywalne aktywa
 
 1104
 00:35:52,160 --> 00:35:57,920
