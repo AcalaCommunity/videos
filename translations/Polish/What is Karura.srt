@@ -4124,39 +4124,39 @@ zamienia
 
 1032
 00:33:27,679 --> 00:33:33,840
-i get 10 lks and bad the the this ratio
+otrzymuję 10 lKSMi ten współczynnik
 
 1033
 00:33:31,679 --> 00:33:35,039
-is determined by the system uh we're
+jest określony przez system
 
 1034
 00:33:33,840 --> 00:33:36,640
-going to improve this
+zamierzamy ulepszyć ten
 
 1035
 00:33:35,039 --> 00:33:38,159
-user interface later so it's always say
+interfejs użytkownika później, więc to zawsze mówi
 
 1036
 00:33:36,640 --> 00:33:41,519
-that uh one
+że jeden
 
 1037
 00:33:38,159 --> 00:33:43,919
-ksm will be equal to one lksm and then
+KSM będzie równy jednemu lKSM, a następnie
 
 1038
 00:33:41,519 --> 00:33:45,679
-one lksm will be equal to more and more
+jeden lKSM będzie równy coraz większej ilości
 
 1039
 00:33:43,919 --> 00:33:47,519
-ksm when you redeem later
+KSM, kiedy wykupisz je później
 
 1040
 00:33:45,679 --> 00:33:49,760
-that's like if you hold on to lksm you
+to jest tak jak trzymasz lKSM
 
 1041
 00:33:47,519 --> 00:33:51,919
