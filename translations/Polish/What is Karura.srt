@@ -4160,43 +4160,43 @@ to jest tak jak trzymasz lKSM
 
 1041
 00:33:47,519 --> 00:33:51,919
-will be growing very similar to how you
+to będzie rosło bardzo podobnie jak w przypadku
 
 1042
 00:33:49,760 --> 00:33:53,519
-save money in compound your money will
+oszczędzanie pieniędzy w Compound. Twoje pieniądze będą
 
 1043
 00:33:51,919 --> 00:33:54,000
-be growing that's like you are earning
+wzrastać. To jest sposób w jaki zarabiasz
 
 1044
 00:33:53,519 --> 00:33:55,840
-interest
+odsetki
 
 1045
 00:33:54,000 --> 00:33:57,360
-but in this particular in the in your
+ale w tym szczególnym przypadku
 
 1046
 00:33:55,840 --> 00:33:58,559
-liquid staking you are earning the
+płynnego staking`u zarabiasz
 
 1047
 00:33:57,360 --> 00:34:02,640
-staking reward
+nagrodę za staking
 
 1048
 00:33:58,559 --> 00:34:05,600
-the lksm go ahead again let me just
+w lKSM. Pozwól mi
 
 1049
 00:34:02,640 --> 00:34:06,960
-explain that so in this case you can see
+wyjaśnić, że w tym przypadku widzisz
 
 1050
 00:34:05,600 --> 00:34:08,800
-dot and l dot so
+DOT i lDOT, więc
 
 1051
 00:34:06,960 --> 00:34:10,960
@@ -4204,19 +4204,19 @@ that might be easier so what you're
 
 1052
 00:34:08,800 --> 00:34:13,280
-doing here is you're staking dot
+tutaj jest to staking DOT
 
 1053
 00:34:10,960 --> 00:34:14,079
-and say you're staking 10 dot you would
+powiedzmy, że stakujesz 10 DOT, mógłbyś
 
 1054
 00:34:13,280 --> 00:34:16,159
-get 10
+dostać 10
 
 1055
 00:34:14,079 --> 00:34:17,839
-l dot in return and those liquid dots
+lDOT w zamian i te płynne DOT
 
 1056
 00:34:16,159 --> 00:34:20,639
