@@ -1167,18 +1167,18 @@ Web3 Foundation. 
 
 234
 00:16:15,920 --> 00:16:19,520
-We were thinking about it because in
-Polkadot when you build things 
+Мы думали об этом, потому что в 
+Polkadot, когда вы строите что-то,
 
 235
 00:16:19,520 --> 00:16:23,120
-the mindset needs to be way bigger, you
-are not building something that's 
+мышление должно быть намного шире, вы 
+не создаете то, что
 
 236
 00:16:23,120 --> 00:16:26,800
-preparatory or only serve your own
-purposes. If you are going to build 
+подготовительное или служат только вашим 
+целям. Если вы собираетесь строить
 
 237
 00:16:26,800 --> 00:16:30,400
