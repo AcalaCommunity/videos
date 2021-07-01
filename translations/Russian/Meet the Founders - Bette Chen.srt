@@ -1182,73 +1182,72 @@ Polkadot, когда вы строите что-то,
 
 237
 00:16:26,800 --> 00:16:30,400
-something like a stablecoin, it will
-need to serve the community like a 
+вроде стейблкоина, он 
+должен будет служить сообществу как
 
 238
 00:16:30,400 --> 00:16:34,080
-multi-chain community, right. Even you are
-talking about just within the Polkadot 
+мультичейн-сообщество, верно. Даже вы 
+говорите только о Polkadot,
 
 239
 00:16:34,080 --> 00:16:36,800
-network,
-that has to be a community driven 
+это должно быть управляемый сообществом
 
 240
 00:16:37,680 --> 00:16:41,840
-stablecoin
-product. So we 
+стейблкоин.
+Поэтому мы
 
 241
 00:16:41,840 --> 00:16:45,840
-thought it wouldn't be just Laminar to
-boat us, it wouldn't be quite right. 
+подумали, что это будет не просто Laminar, чтобы 
+нас водить, это было бы неправильно.
 
 242
 00:16:46,720 --> 00:16:52,480
-At the time we went to this first
-Substrate Hackathon, held in Hangzhou, 
+В то время, когда мы были на этом первом 
+Substrate-хакатоне, который проходил в Ханчжоу,
 
 243
 00:16:53,040 --> 00:16:56,320
-where Bryan, our other Co-founder, was a
-judge alongside Gavin. 
+где Брайан, наш другой сооснователь, был судьей
+наряду с Гевином.
 
 244
 00:16:57,120 --> 00:16:59,600
-That was the time we met the
-Polkawallet team, 
+В это время мы встретились с 
+командой Polkawallet,
 
 245
 00:17:00,240 --> 00:17:03,920
-led by Fuyao. They were one of the
-earliest developers also, 
+под руководством Фуяо. Они также были одними из
+самых ранних разработчиков,
 
 246
 00:17:03,920 --> 00:17:10,560
-creating a mobile wallet.
-They are also very solid builders, 
+создали мобильный кошелёк.
+К тому же, они очень сильные разработчики,
 
 247
 00:17:10,560 --> 00:17:14,400
-and then we saw Fuyao
-waving this hammer on stage and 
+и затем мы увидели Фуяо,
+размахивавшего этим молотом на сцене и
 
 248
 00:17:14,400 --> 00:17:17,920
-then raving about
-how much he hated all 
+потом бредил о том,
+как сильно он всех ненавидел
 
 249
 00:17:17,920 --> 00:17:22,880
-the ERC20, ICO
-craze, that kind of destroyed a lot of 
+ERC20, ICO
+сумасшедшие, такого рода уничтожил много
 
 250
 00:17:22,880 --> 00:17:27,120
-the reputation
-or a lot of people's faith in using 
+репутации
+или веру многих людей в использование
 
 251
 00:17:27,120 --> 00:17:30,240
@@ -1342,58 +1341,58 @@ for employment? 
 
 269
 00:18:38,800 --> 00:18:41,840
-All in all, we are a very engineering
-focused 
+В общем, мы - очень 
+инженерная
 
 270
 00:18:43,760 --> 00:18:47,760
-group of people, a team.
-Even Dan turned 
+ группа людей, команда.
+Даже Дэн превратился
 
 271
 00:18:47,760 --> 00:18:51,520
-into a geek or he's probably
-already a geek in crypto 
+в компьютерщика или он, вероятно, 
+уже был помешан на крипте
 
 272
 00:18:51,520 --> 00:18:53,840
-before he joined and now he's even
-geekier. 
+до того, как присоединился, а теперь он еще более 
+в теме.
 
 273
 00:18:55,600 --> 00:18:58,720
-This is the culture. We're
-very engineering focused because we 
+Это культура. Мы 
+очень сконцентрированы на инженерии, потому что мы
 
 274
 00:18:58,720 --> 00:19:03,040
-are infrastructure builder. We're at very
-early stage of this technology. 
+являемся строителями инфраструктуры. Мы находимся на очень
+ранних стадиях этой технологии.
 
 275
 00:19:03,040 --> 00:19:06,320
-If we are not focusing on solving
-some of the 
+Если мы не сосредоточимся на решении
+некоторых из
 
 276
 00:19:06,320 --> 00:19:10,000
-fundamental or technological problems,
-then we're not doing a good 
+фундаментальных или технологических проблем,
+получается, что мы плохо
 
 277
 00:19:10,000 --> 00:19:13,680
-job because whatever we built today is
-going to be used by 
+работаем, потому что то, что мы сделали сегодня,
+будет использовано
 
 278
 00:19:13,680 --> 00:19:16,960
-many other developers and many other
-users 
+большим количеством других разработчиков и многими
+пользователями
 
 279
 00:19:16,960 --> 00:19:19,840
-in the future to make all of those tech
-mainstream. 
+в будущем, чтобы все эти технологии
+стали общедоступными.
 
 280
 00:19:20,720 --> 00:19:23,840
