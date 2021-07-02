@@ -1,27 +1,26 @@
 1
 00:00:04,000 --> 00:00:06,240
-We're recording. I'm here with Bette
-Chen, 
+เรากำลังเรคคอร์ด ฉันอยู่ที่นี่กับ Bette Chen
 
 2
 00:00:06,880 --> 00:00:12,240
-one of our Co-founders and CEO. Bette,
-do you want to just start off and maybe 
+หนึ่งในผู้ร่วมก่อตั้งและ CEO,
+Bette คุณอยากจะเริ่ม
 
 3
 00:00:12,240 --> 00:00:15,920
-give a quick introduction to yourself
-and what do you do for Acala? 
+แนะนำตัวคร่าวๆ
+และบอกสิ่งที่คุณทำอยู่ให้กับ Acala หรือยัง
 
 4
 00:00:16,480 --> 00:00:21,360
-Yeah, sure. Thanks Dan and hi
-everyone. This is Bette. I'm the 
+ได้เลย ขอบคุณ Dan และ
+สวัสดีทุกคน. ผม Bette
 
 5
 00:00:21,360 --> 00:00:25,680
-Co-founder of Acala,
-currently recording from Auckland, New 
+ผมเป็นผู้ร่วมก่อตั้ง Acala 
+ตอนนี้อยู่ที่ Auckland
 
 6
 00:00:25,680 --> 00:00:30,160
@@ -30,57 +29,48 @@ that's where quite a few of us 
 
 7
 00:00:30,160 --> 00:00:34,080
-in Acala are based, but of course we are a
-very diverse team: 
+ซึ่งเป็นที่ตั้งของ Acala แต่แน่นอนว่าเรามาจากหลากหลายเชื้อชาติ
 
 8
 00:00:35,360 --> 00:00:37,760
-there are folks in the US and South
-America, 
+มี อเมริกา และ อเมริกาใต้
 
 9
 00:00:38,560 --> 00:00:42,400
-in China, also in parts of Europe and
-Singapore as well. 
+จีน ยุโรป และ สิงคโปร์ด้วย
 
 10
 00:00:43,200 --> 00:00:48,000
-That is the environment that we are
-working in, very remote, very diverse, 
+นั่นคือสภาพแวดล้อมที่พวกเราทำงานอยู่ ไกลมากและหลากหลายมาก
 
 11
 00:00:48,000 --> 00:00:50,080
-very
-decentralized. 
+ซึ่งมันกระจายอำนาจจริงๆ
 
 12
 00:00:52,080 --> 00:00:57,040
-So, a bit about myself. I
-have an engineering background, 
+โดยตัวผม กำลังทำเกี่ยวกับงานวิศวกรรม อยู่เบื้องหลัง
 
 13
 00:00:58,160 --> 00:01:01,680
-from university specialized in
-software. I was a developer 
+โดยผมจบทางด้าน Software มา. ผมเคยเป็น dev
 
 14
 00:01:02,240 --> 00:01:04,560
-right after school but then, later on, 
+หลังจากจบมหาลัย แต่หลังจากนั้น
 
 15
 00:01:04,560 --> 00:01:08,560
-I was more focused on
-product development in tech. 
+ผมโฟกัสเกี่ยวกับผลผลิต บน tech
 
 16
 00:01:09,360 --> 00:01:12,960
-By a rare chance,
-six or seven years ago 
+บังเอิญมากๆ เมื่อ 6-7 ปีก่อน
 
 17
 00:01:12,960 --> 00:01:17,200
-I stumbled upon Bitcoin, like many of
-us here, once you got into that 
+ผมสะดุดตากับ Bitcoin เหมือนกับหลายๆคนที่นี่
+เมื่อคุณเข้ามาแล้ว
 
 18
 00:01:17,200 --> 00:01:20,080
