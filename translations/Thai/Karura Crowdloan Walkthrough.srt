@@ -95,124 +95,118 @@ exchange หรือ wallet เพื่อสอบถามเพิ่มเ
 
 23
 00:01:34,480 --> 00:01:37,760
-Before you start though, do check if you
-have the extension 
+ก่อนหน้าที่จะเริ่ม เช็คก่อนว่าคุณมี
+ส่วนขยาย(extension)
 
 24
 00:01:37,760 --> 00:01:42,320
-installed and also have some free KSM
-in your wallet to participate. 
+ติดตั้งมัน และ ต้องมี KSM 
+ที่ไม่ล็อคใน walletเพื่อเข้าร่วม
 
 25
 00:01:44,400 --> 00:01:47,520
-The Karura crowdloan will airdrop a
-minimum of 
+Crowdloan ของ Karura จะแจก airdrop
+ขั้นต่ำคือ
 
 26
 00:01:47,520 --> 00:01:51,920
-12 KAR rewards for 1 KSM contributed in
-the event. 
+12 KAR ต่อ 1 KSM สำหรับผู้เข้าร่วม
 
 27
 00:01:53,040 --> 00:01:55,440
-Okay, now let's connect to the extension. 
+โอเค มาเชื่อมต่อกับส่วนขยายกันเถอะ
 
 28
 00:01:57,760 --> 00:02:02,160
-Please read and accept the terms and
-conditions regarding the event and also 
+โปรดอ่านและยอมรับข้อกำหนดและ
+เงื่อนไขของอีเวนท์และ
 
 29
 00:02:02,160 --> 00:02:06,240
-the privacy policy,
-before you proceed. Your acceptance will 
+นโยบายความเป็นส่วนตัว
+ก่อนที่คุณจะดำเนินต่อ การยอมรับของคุณจะ
 
 30
 00:02:06,240 --> 00:02:09,120
-be a
-signed message from your current account. 
+เป็นการลงนามที่ลงชื่อจากบัญชีปัจจุบันของคุณ
 
 31
 00:02:09,680 --> 00:02:12,640
-It won't be sent on chain
-and won't cost you anything. 
+มันจะไม่ส่งไปที่ chain 
+และจะไม่ต้องเสียค่าใช้จ่ายอะไรเลย
 
 32
 00:02:14,720 --> 00:02:18,960
-If you have contributed to the event
-already, you shall see a balance on top 
+ถ้าคุณได้มีส่วนร่วมใน event แล้ว
+คุณจะเห็นยอดเงินด้านบน
 
 33
 00:02:19,600 --> 00:02:23,760
-and estimated KAR rewards. Then just put
-in the KSM 
+และผลตอบแทน KAR โดยประมาณ หลังจากนั้นใส่
+จำนวนเงิน KSM
 
 34
 00:02:24,320 --> 00:02:28,640
-contribution amount. Notice the lease
-period 
+สังเกตระยะเวลา
 
 35
 00:02:28,640 --> 00:02:32,160
-is 48 weeks, so if Karura successfully
-wins the auction, 
+48 สัปดาห์ ดังนั้นถ้า Karura ชนะการประมูลได้สำเร็จ
 
 36
 00:02:32,880 --> 00:02:36,160
-your KSM will be locked for 48 weeks 
+kSM จะล็อคเป็นเวลา 48 สัปดาห์
 
 37
 00:02:36,160 --> 00:02:40,640
-and 30% of all rewards are transferable
-up front, the remaining will be vested. 
+และ 30% ของ reward ทั้งหมดสามารถโอน
+ล่วงหน้าได้ ส่วนที่เหลือจะอยู่ในระบบ
 
 38
 00:02:41,200 --> 00:02:47,040
-You can contribute multiple times
-during the entire crowdloan period. 
+คุณสามารถเข้าร่วมกี่ครั้งก็ได้
+ระหว่างระยะเวลา crowdloan
 
 39
 00:02:48,560 --> 00:02:52,960
-If you used a referral link, the referral
-code will be filled in automatically. 
+ถ้าคุณเคยใช้ลิงค์ไปแล้ว
+โค้ดจะถูกกรอกโดยอัตโนมัติ
 
 40
 00:02:52,960 --> 00:02:55,840
-Otherwise you can just grab a code from
-our discord community 
+หรือไม่คุณก็สามารถใช้รหัสจากคอมมู discord
 
 41
 00:02:55,840 --> 00:02:59,600
-and you'll receive 5% bonus.
-Now you can just 
+และรับ โบนัส อีก 5%
+ตอนนี้คุณสามารถ
 
 42
 00:02:59,600 --> 00:03:03,280
-submit the contribution transaction to
-the Kusama relaychain. 
+ส่ง transaction การเข้าร่วมสู่ 
+Kusama relaychain
 
 43
 00:03:03,280 --> 00:03:07,600
-This may take a few seconds as it will
-wait for Kusama to finalize and confirm 
+อาจใช้เวลาซักครู่เพื่อรอให้
+ Kusama ตรวจสอบและยืนยัน
 
 44
 00:03:07,600 --> 00:03:09,840
-your
-contribution transaction. 
+การเข้าร่วมของคุณ
 
 45
 00:03:12,880 --> 00:03:18,240
-And that's all done! Please do share
-your great achievement on Social Media. 
+และเรียบร้อย! ฝากแชร์ความสำเร็จอันยิ่งใหญ่
+ของคุณบนโซเชียลมีเดียด้วยนะครับ
 
 46
 00:03:19,280 --> 00:03:22,720
-In any case,
-congratulations again and thank you for 
+ไม่ว่ากรณีใดๆ
+ขอแสดงความยินดีอีกครั้งและขอขอบคุณสำหรับ
 
 47
 00:03:22,720 --> 00:03:26,400
-making history
-with Karura!
+การสร้างประวัติศาสตร์
+กับ Karura!
 
