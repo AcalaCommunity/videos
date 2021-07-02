@@ -4,106 +4,94 @@
 
 2
 00:00:05,200 --> 00:00:09,200
-launch of the decentralized web,
-the first ever crowdsourced parachain 
+เปิดตัว เว็บกระจายอำนาจ
+ครั้งแรกของ crowdsourced parachain
 
 3
 00:00:09,200 --> 00:00:12,080
-auction on Kusama, Polkadot canary
-network. 
+ประมูลบน Kusama, เครือข่ายทดลองของ Polkadot
 
 4
 00:00:12,800 --> 00:00:17,120
-Now of course Acala canary network,
-Karura, is at the very forefront of this 
+แน่นอนว่า เครือข่ายทดลองของ Acala
+ที่ชื่อว่า Karura คือแถวหน้าของ
 
 5
 00:00:17,120 --> 00:00:21,120
-unprecedented launch.
-By supporting Karura's crowdloan here 
+การเปิดตัวที่ไม่เคยมีมาก่อน
+สนับสนุนโดยการระดมทุนจากฝูงชนของ Karura
 
 6
 00:00:21,120 --> 00:00:24,560
-you will be helping us
-to launch the DeFi hub of Kusama, 
+คุณจะช่วยเหลือพวกเราเพื่อเปิดตัวศูนย์กลาง DeFi ของ Kusama
 
 7
 00:00:25,520 --> 00:00:29,040
-which will allow you to trade, stake, lend
-and borrow 
+ที่จะทำให้ท่านเทรด, stake, ปล่อยยืม และการยืม
 
 8
 00:00:29,040 --> 00:00:31,520
-and earn various youths on your digital
-assets. 
+และรับโปรเจ็คใหม่ต่างๆบนสินทรัพย์ดิจิตอลของคุณ
 
 9
 00:00:32,320 --> 00:00:35,760
-But of course no promises, expect chaos
-and expect 
+แต่แน่นอนว่าไม่มีพันธะสัญญา, หรือความคาดหวังใดๆ
 
 10
 00:00:35,760 --> 00:00:41,280
-Karura. Now let me run you through
-number of ways to participate in the 
+จาก Karura, ตอนนี้ ให้ฉันบอกวิธีในการเข้าร่วมใน
 
 11
 00:00:41,280 --> 00:00:42,240
-Karura crowdloan. 
+Karura crowdloan
 
 12
 00:00:43,200 --> 00:00:47,920
-If you have a referral link, you can use
-that to join the event directly, 
+ถ้าคุณมีลิงค์อยู่แล้ว คุณสามารถใช้
+มันเพื่อร่วมอีเวนท์โดยตรงได้
 
 13
 00:00:47,920 --> 00:00:52,480
-otherwise you can just go to our website
-acala.network to participate. 
+หรือคุณสามารถเข้าผ่านเวปไซต์หลักของพวกเรา
+acala.network เพื่อเข้าร่วม
 
 14
 00:00:54,320 --> 00:00:57,760
-There are three ways we recommend to
-participate in the event 
+มี 3 วิธีที่เราแนะนำเพื่อร่วมอีเวนท์
 
 15
 00:00:57,760 --> 00:01:02,160
-to maximize your rewards, but it's
-permissionless event 
+เพื่อให้ได้ผลตอบแทนสูงสุด แต่มันไม่ได้รับการอนุญาติจากอีเวนท์
 
 16
 00:01:02,160 --> 00:01:05,600
-so you can well make your own judgment
-on how you would like to participate. 
+ดังนั้นคุณสามารถตัดสินใจเองว่าจะเข้าร่วมแบบไหน
 
 17
 00:01:07,600 --> 00:01:11,760
-Well, obviously, you can participate just
-directly on this website 
+แน่นอนว่าคุณสามารถเข้าร่วมได้เพียงแค่
+เข้าบนเว็บไซต์นี้โดยตรง
 
 18
 00:01:11,760 --> 00:01:17,600
-using polkadot.js extension or
-you can participate via our partner 
+ใช้ส่วนขยาย polkadot.js หรือ
+คุณสามารถร่วมผ่าน Exchange พาร์ทเนอร์ของเรา
 
 19
 00:01:17,600 --> 00:01:21,120
-exchanges
-or via our partner mobile wallets. 
+หรือผ่าน mobile wallets ที่พาร์ทเนอร์กับเรา
 
 20
 00:01:21,920 --> 00:01:25,360
-We will continue to add official
-partners to the list 
+พวกเรายังคงเพิ่มพาร์ทเนอร์อยู่ตลอดในลิสต์
 
 21
 00:01:25,360 --> 00:01:28,320
-as they become ready. Please, do reach out 
+เมื่อพวกเขาพร้อม กรุณาเข้าไปที่
 
 22
 00:01:28,320 --> 00:01:32,880
-to the exchanges and
-wallets for any support questions. 
+exchange หรือ wallet เพื่อสอบถามเพิ่มเติม
 
 23
 00:01:34,480 --> 00:01:37,760
