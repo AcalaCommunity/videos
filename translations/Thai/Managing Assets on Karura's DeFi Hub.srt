@@ -48,11 +48,11 @@ ausd token
 
 13
 00:00:24,320 --> 00:00:28,000
-by just interacting with this front-end
+โดยเพียงแค่คุณกดที่ข้างหน้า
 
 14
 00:00:26,080 --> 00:00:31,359
-dap you can manage your assets as
+dapp คุณก็สามารถจัดการทรัพย์สินได้
 
 15
 00:00:28,000 --> 00:00:33,440
