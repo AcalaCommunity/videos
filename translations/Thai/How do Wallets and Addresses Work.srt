@@ -60,39 +60,39 @@ ethereum คุณอาจจะเคยเห็น address
 
 16
 00:00:22,000 --> 00:00:25,599
-here we have a bird and in english we
+ที่นี่เรามีนก และในภาษาอังกฤษ
 
 17
 00:00:23,920 --> 00:00:27,359
-can write the word bird like this
+เราสามารถเขียนได้แบบนี้
 
 18
 00:00:25,599 --> 00:00:28,720
-in chinese we might write it like this
+ภาษาจีนจะเขียนแบบนี้
 
 19
 00:00:27,359 --> 00:00:29,599
-and in spanish we might write it like
+และในสเปน จะเขียนแบบ
 
 20
 00:00:28,720 --> 00:00:31,199
-this
+นี้
 
 21
 00:00:29,599 --> 00:00:32,960
-a bunch of different ways to write the
+หลากหลายวิธีที่จะเขียน
 
 22
 00:00:31,199 --> 00:00:34,719
-same exact thing and they all represent
+สิ่งๆเดียวและมันนำเสนอ
 
 23
 00:00:32,960 --> 00:00:36,320
-the same thing
+สิ่งนั้นๆ
 
 24
 00:00:34,719 --> 00:00:38,559
-well your addresses in polkadot and
+โอเค address ใน polkadot และ
 
 25
 00:00:36,320 --> 00:00:40,000
