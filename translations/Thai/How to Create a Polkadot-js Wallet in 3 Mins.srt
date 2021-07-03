@@ -12,23 +12,23 @@ dev ของ Acala และวันนี้ฉัน
 
 4
 00:00:05,839 --> 00:00:08,960
-or polka dot address using the polka dot
+polkadot address โดยใช้ polkadot.js
 
 5
 00:00:07,520 --> 00:00:10,639
-js extension
+ที่เป็นส่วนขยาย(extension)
 
 6
 00:00:08,960 --> 00:00:13,120
-so i'm going to head down here and open
+โดยฉันจะเริ่มต้นจากตรงนี้
 
 7
 00:00:10,639 --> 00:00:13,120
-up chrome
+เปิด Chrome ขึ้นมา
 
 8
 00:00:13,759 --> 00:00:18,480
-and we're going to head over to the
+และเราจะไปที่
 
 9
 00:00:16,199 --> 00:00:21,600
@@ -36,103 +36,103 @@ polkadot.js.org
 
 10
 00:00:18,480 --> 00:00:23,039
-and click on the extension link so i'm
+และคลิกที่ลิงค์ extension
 
 11
 00:00:21,600 --> 00:00:24,480
-going to be downloading it for chrome if
+และกดดาวน์โหลดมันสำหรับ chrome
 
 12
 00:00:23,039 --> 00:00:26,160
-you're down if you have firefox download
+ถ้าคุณใช้ firefox คุณสามารถดาวน์โหลด
 
 13
 00:00:24,480 --> 00:00:28,800
-it for firefox and if you have brave you
+มันสำหรับ firefox หรือถ้าคุณใช้ brave
 
 14
 00:00:26,160 --> 00:00:30,480
-can use the chrome download as well
+คุณสามารถดาวน์โหลดส่วนขยายของ chrome ได้เช่นกัน
 
 15
 00:00:28,800 --> 00:00:32,239
-so i already have it so i'm gonna head
+โอเค ฉันโหลดเรียบร้อยแล้ว จากนี้
 
 16
 00:00:30,480 --> 00:00:34,800
-over to this um
+ฉันก็มาตรงที่
 
 17
 00:00:32,239 --> 00:00:36,239
-puzzle piece in the top right corner
+ชิ้นส่วนพัซเซิล ตรงมุมขวาบนนี้
 
 18
 00:00:34,800 --> 00:00:41,120
-click pin
+คลิก pin
 
 19
 00:00:36,239 --> 00:00:43,600
-and i'm gonna open it up i understand
+ฉันกำลังเปิดมันขึ้นมา
 
 20
 00:00:41,120 --> 00:00:44,800
-and now we're gonna see this screen so
+และตอนนี้เราจะเห็นหน้าจอ
 
 21
 00:00:43,600 --> 00:00:45,840
-to add an account for the first time
+สำหรับเพิ่ม บัญชี ครั้งแรก
 
 22
 00:00:44,800 --> 00:00:47,840
-we're going to want to click the plus
+เราจะกดเครื่องหมาย +
 
 23
 00:00:45,840 --> 00:00:49,440
-sign in the middle of this circle
+ตรงกลางของวงกลม
 
 24
 00:00:47,840 --> 00:00:51,920
-and we're going to see this 12 word
+เราจะได้รหัสมา 12 คำ
 
 25
 00:00:49,440 --> 00:00:53,280
-mnemonic seed the mnemonic seed can be
+มันคือ seed ที่ช่วยในการจำ มันสามารถ
 
 26
 00:00:51,920 --> 00:00:56,160
-used to recover your account in case you
+กู้บัญชีของคุณมาได้ถ้าคุณ
 
 27
 00:00:53,280 --> 00:00:58,800
-ever lose your device or
+ทำอุปกรณ์ของคุณหายหรือ
 
 28
 00:00:56,160 --> 00:00:59,680
-your computer but it can also be used by
+คอมพิวเตอร์หาย และ
 
 29
 00:00:58,800 --> 00:01:01,440
-anybody
+ใครก็สามารถ
 
 30
 00:00:59,680 --> 00:01:02,640
-to get full access to your account so
+เข้าถึงบัญชีแบบสมบูรณ์ได้ดังนั้น
 
 31
 00:01:01,440 --> 00:01:04,640
-we're going to want to write it down and
+เราจะเขียนมันลงบนกระดาษและ
 
 32
 00:01:02,640 --> 00:01:06,960
-save it in a safe place
+เก็บมันไว้ในที่ปลอดภัย
 
 33
 00:01:04,640 --> 00:01:09,280
-and now i'm going to click i have saved
+เราจะคลิกไปต่อหลังจากที่จด
 
 34
 00:01:06,960 --> 00:01:11,119
-my mnemonic seed safely and click next
+seed อย่างปลอดภัยแล้ว คลิก next
 
 35
 00:01:09,280 --> 00:01:13,600
@@ -140,269 +140,269 @@ steps
 
 36
 00:01:11,119 --> 00:01:14,799
-so now we have this screen uh we see
+ตอนนี้เราจะเจอหน้านี้
 
 37
 00:01:13,600 --> 00:01:16,960
-this drop down that says
+เราจะเห็นว่า
 
 38
 00:01:14,799 --> 00:01:18,080
-allow use on any chain if we click it
+มันสามารถอนุญาติให้ใช้ได้กับ chain ไหนก็ได้ ถ้าเราคลิกมัน
 
 39
 00:01:16,960 --> 00:01:20,560
-we'll see a bunch of different
+เราจะเจอกับ หลากหลาย chain
 
 40
 00:01:18,080 --> 00:01:21,920
-chains here if you're creating a polka
+ตรงนี้ เราจะสร้าง polkadot
 
 41
 00:01:20,560 --> 00:01:23,119
-dot address you'd want to click polka
+address ดังนั้นคุณต้องคลิกที่ polkadot
 
 42
 00:01:21,920 --> 00:01:24,320
-dot relay chain
+relay chain
 
 43
 00:01:23,119 --> 00:01:26,479
-and you'll see that the address in the
+และคุณจะเห็น address
 
 44
 00:01:24,320 --> 00:01:28,000
-top just changed to the polka dot format
+ข้างบน ที่คุณพึ่งเปลี่ยนมาเป็นรูปแบบ polkadot
 
 45
 00:01:26,479 --> 00:01:29,759
-and if you're making kusama account you
+และถ้าคุณจะสร้างบัญชี kusama
 
 46
 00:01:28,000 --> 00:01:31,119
-want to click kusama relay chain
+คุณต้องคลิกที่ kusama relay chain
 
 47
 00:01:29,759 --> 00:01:33,040
-and you'll see that the address changes
+คุณจะเห็น address เปลี่ยน
 
 48
 00:01:31,119 --> 00:01:34,079
-again to the kusama format
+อีกครั้งไปเป็นรูปแบบ Kusama
 
 49
 00:01:33,040 --> 00:01:36,320
-today i'm going to make a polka dot
+วันนี้ ฉันจะสร้างบัญขี polkadot
 
 50
 00:01:34,079 --> 00:01:38,079
-account now we're going to want to give
+ตอนนี้เราต้องการให้
 
 51
 00:01:36,320 --> 00:01:38,840
-the account a descriptive name and call
+บัญชีของเรามีชื่อเรียก
 
 52
 00:01:38,079 --> 00:01:42,000
-it
+มัน
 
 53
 00:01:38,840 --> 00:01:43,280
-my account now we want to give this
+ตอนนี้บัญชีของฉัน ฉันอยากจะตั้ง
 
 54
 00:01:42,000 --> 00:01:44,399
-account a password
+พาสเวิร์ด
 
 55
 00:01:43,280 --> 00:01:46,000
-the password is what you're going to
+พาสเวิร์ดนี้ จะต้องใช้เมื่อ
 
 56
 00:01:44,399 --> 00:01:47,119
-need to input every single time you want
+คุณเข้ามาล็อกอินทุกๆครั้ง
 
 57
 00:01:46,000 --> 00:01:48,079
-to use this account to make a
+กับเมื่อคุณต้องการจะทำ
 
 58
 00:01:47,119 --> 00:01:49,040
-transaction
+ธุรกรรม
 
 59
 00:01:48,079 --> 00:01:50,320
-so you're going to want to make it
+โดยคุณจะต้องสร้างมัน
 
 60
 00:01:49,040 --> 00:01:51,600
-something that's secure but something
+ให้ปลอดภัยแต่
 
 61
 00:01:50,320 --> 00:01:53,280
-you're going to remember
+สามารถจำได้ด้วย
 
 62
 00:01:51,600 --> 00:01:55,840
-so i'm going to put a password in right
+โดยฉันจะสร้างพาสเวิร์ด
 
 63
 00:01:53,280 --> 00:01:55,840
-now
+ตอนนี้
 
 64
 00:01:56,560 --> 00:02:00,719
-and click add this account with the
+คลิกเพิ่มบัญชีด้วย
 
 65
 00:01:58,560 --> 00:02:02,320
-generated seed
+seed ที่มี
 
 66
 00:02:00,719 --> 00:02:04,320
-so now we see the account in our
+ตอนนี้คุณจะเห็นบัญชีบน
 
 67
 00:02:02,320 --> 00:02:05,759
-extension with the polka dot flag up
+ส่วนขยาย โดยจะเห็นสถานะของ polkadot
 
 68
 00:02:04,320 --> 00:02:06,399
-here telling us that this is a polka dot
+ขึ้นมาเพื่อบอกว่ามันคือบัญชี
 
 69
 00:02:05,759 --> 00:02:09,679
-account
+polkadot
 
 70
 00:02:06,399 --> 00:02:13,120
-and the polka dot address so let's head
+และ polkadot address โอเคเราจะกลับไป
 
 71
 00:02:09,679 --> 00:02:17,120
-back over to polkadot.js.org
+ที่ polkadot.js.org
 
 72
 00:02:13,120 --> 00:02:17,120
-and click the apps wallet link
+คลิกที่ลิงค์ apps wallet
 
 73
 00:02:19,040 --> 00:02:22,160
-you'll notice that we got this
+คุณจะเจอกับ
 
 74
 00:02:20,640 --> 00:02:23,680
-authorized page this will show up the
+เพจที่โชว์ขึ้นมา
 
 75
 00:02:22,160 --> 00:02:24,400
-first time you ever go to a site that's
+ครั้งแรกเมื่อคุณเข้าเว็ปไซต์
 
 76
 00:02:23,680 --> 00:02:26,239
-trying to request
+พยายามจะ
 
 77
 00:02:24,400 --> 00:02:28,000
-access to your extension it gives you
+เข้าถึง extension ของคุณ มันจะให้
 
 78
 00:02:26,239 --> 00:02:29,040
-information about what the site is what
+ข้อมูลเกีย่วกับเว็บไซต์
 
 79
 00:02:28,000 --> 00:02:32,160
-the
+ที่เป็น
 
 80
 00:02:29,040 --> 00:02:34,400
-url is and just giving you a fair
+url โดยมันจะ
 
 81
 00:02:32,160 --> 00:02:36,480
-warning that you should
+เตือนคุณ คุณควร
 
 82
 00:02:34,400 --> 00:02:38,319
-only approve applications that you are
+อนุญาติ แอปพลิเคชันที่
 
 83
 00:02:36,480 --> 00:02:40,480
-familiar with and that you understand
+เคยใช้และเข้าใจ
 
 84
 00:02:38,319 --> 00:02:41,760
-it's a good idea to check the url that
+มันเป็นไอเดียที่ดีที่จะเช็ค url
 
 85
 00:02:40,480 --> 00:02:42,160
-it's showing you that the request is
+ที่โชว์ขึ้น
 
 86
 00:02:41,760 --> 00:02:43,920
-from
+มา
 
 87
 00:02:42,160 --> 00:02:45,599
-to make sure it's actually the url that
+เพื่อมั่นใจว่ามันคือ url
 
 88
 00:02:43,920 --> 00:02:46,879
-you're expecting so
+ที่คุณคาดหวัง
 
 89
 00:02:45,599 --> 00:02:48,840
-everything here looks good so we're
+หลังจากทุกอย่างเรียบร้อย เราจะ
 
 90
 00:02:46,879 --> 00:02:50,239
-gonna click yes allow this application
+คลิก yes เพื่ออนุญาติ แอปพลิเคชัน
 
 91
 00:02:48,840 --> 00:02:53,280
-access
+ให้เข้าถึง
 
 92
 00:02:50,239 --> 00:02:56,239
-and now we see the polka dot wallet
+ตอนนี้คุณจะเห็น polkadot wallet
 
 93
 00:02:53,280 --> 00:02:57,760
-so if i head over to accounts we'll see
+จากนั้น เข้าไปที่บัญชี เราจะเห็น
 
 94
 00:02:56,239 --> 00:03:00,080
-that my extension is in
+extension และใน
 
 95
 00:02:57,760 --> 00:03:03,040
-the wallet i can see my balance and i
+wallet ฉันจะเห็นยอดเงินและ
 
 96
 00:03:00,080 --> 00:03:05,280
-can send transactions from here
+ฉันสามารถทำธุรกรรมจากตรงนี้
 
 97
 00:03:03,040 --> 00:03:07,120
-uh so that yup that's it that's all you
+และใช่ นี่คือทั้งหมด
 
 98
 00:03:05,280 --> 00:03:08,800
-need to do to set up a polka dot account
+ที่คุณสามาถเซ็ตอัพกับบัญชี polkadot
 
 99
 00:03:07,120 --> 00:03:11,040
-and now you can use your extension on
+และตอนนี้ คุณสามารถใช้ extension บน
 
 100
 00:03:08,800 --> 00:03:13,599
-all the different uh dapps out there
+dapp ที่แตกต่างกันภายนอก
 
 101
 00:03:11,040 --> 00:03:17,519
-that have polka dot compatibility thanks
+ที่สามารถเข้าถึง polkadot
 
 102
 00:03:13,599 --> 00:03:17,519
-for watching
+ขอบคุณที่รับชม
 
