@@ -1,34 +1,34 @@
 1
 00:00:00,719 --> 00:00:03,120
-hey everybody this is brett a developer
+สวัสดีทุกคน ฉัน Brett เป็น dev
 
 2
 00:00:02,399 --> 00:00:04,080
-at akala
+ที่ Acala
 
 3
 00:00:03,120 --> 00:00:05,359
-and in this video i'm going to be
+และในวิดิโอนี้ ฉันจะ
 
 4
 00:00:04,080 --> 00:00:07,600
-talking about how addresses work on
+พูดเกี่ยวกับการทำงานของ address บน
 
 5
 00:00:05,359 --> 00:00:08,639
-polkadot and kusama
+Polkadot และ Kasuma
 
 6
 00:00:07,600 --> 00:00:10,160
-so if you're coming from the world of
+ดังนั้น ถ้าคุณเข้ามาในโลกของ
 
 7
 00:00:08,639 --> 00:00:11,920
-ethereum you might be used to addresses
+ethereum คุณอาจจะเคยใช้ address 
 
 8
 00:00:10,160 --> 00:00:13,599
-looking something like this
+เพื่อดูบางอย่างแบบนี้
 
 9
 00:00:11,920 --> 00:00:15,040
