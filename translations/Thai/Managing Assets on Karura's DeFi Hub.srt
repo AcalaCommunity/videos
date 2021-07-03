@@ -72,7 +72,7 @@ dapp คุณก็สามารถจัดการทรัพย์สิ
 
 19
 00:00:36,480 --> 00:00:42,480
-การ mint เหรียญ btc บน PolkaBTC
+การ mint Btc การ mint PolkaBTC
 
 20
 00:00:39,760 --> 00:00:44,079
@@ -80,71 +80,71 @@ dapp คุณก็สามารถจัดการทรัพย์สิ
 
 21
 00:00:42,480 --> 00:00:46,879
-example if i want to transfer
+ยกตัวอย่างเช่น ฉันอยากจะส่ง
 
 22
 00:00:44,079 --> 00:00:48,079
-um alcohol asset from my collar to for
+ทรัพสินย์ Acala จาก Acala chain ของฉันไปสู่
 
 23
 00:00:46,879 --> 00:00:50,879
-example hydradex
+ยกตัวอย่าง hydradex
 
 24
 00:00:48,079 --> 00:00:52,160
-i can select here and do a interchange
+ฉันสามารถเลือกตรงนี้และทำการแลกเปลี่ยน
 
 25
 00:00:50,879 --> 00:00:55,039
-transfer so this is
+ได้เลย ซึ่งนี่
 
 26
 00:00:52,160 --> 00:00:56,320
-almost looks like an uh a user very
+จะดูเหมือนค่อนข้าง
 
 27
 00:00:55,039 --> 00:00:58,480
-friendly wallet they can
+ใช้งานง่าย
 
 28
 00:00:56,320 --> 00:01:00,320
-you can access like um in my opinion way
+คุณสามารถเข้าถึงได้อย่าง ความคิดของฉัน
 
 29
 00:00:58,480 --> 00:01:02,559
-better than than just um
+มันใช้งานง่ายกว่า
 
 30
 00:01:00,320 --> 00:01:04,559
-than just using polkadot.js to to to
+โดยใช้แค่ polkadot.js เพื่อที่จะ
 
 31
 00:01:02,559 --> 00:01:06,560
-interact with the the blockchain
+เข้าถึง blockchain
 
 32
 00:01:04,559 --> 00:01:08,560
-what you're showing here is a wallet
+นี่ที่โชว์อยู่คือ wallet
 
 33
 00:01:06,560 --> 00:01:10,720
-that can be used similar to people have
+มันสามารถใช้กับคนที่เคยใช้
 
 34
 00:01:08,560 --> 00:01:12,080
-on polka dot js now or even some of
+polkadot.js หรือแม้กระทั่งบาง
 
 35
 00:01:10,720 --> 00:01:13,760
-their mobile wallets but
+mobile wallet แต่
 
 36
 00:01:12,080 --> 00:01:15,520
-when they connect what they would do to
+เมื่อพวกเขาเชื่อมต่อกับสิ่งที่พวกเขาจะทำกับ
 
 37
 00:01:13,760 --> 00:01:16,640
-actually see these numbers here is it
+ความจริงดูที่เลขพวกนี้
 
 38
 00:01:15,520 --> 00:01:17,360
