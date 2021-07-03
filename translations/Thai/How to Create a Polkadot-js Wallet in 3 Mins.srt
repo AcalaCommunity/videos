@@ -1,14 +1,14 @@
 1
 00:00:01,040 --> 00:00:04,080
-hey everybody i'm brett glodney a
+สวัสดีทุกคน ฉัน brett glodney
 
 2
 00:00:02,639 --> 00:00:05,839
-developer at akala and today i'm going
+dev ของ Acala และวันนี้ฉัน
 
 3
 00:00:04,080 --> 00:00:07,520
-to be showing you how to set up a kusama
+จะโชว์วิธีการเซ็ตอัพ Kusama และ
 
 4
 00:00:05,839 --> 00:00:08,960
