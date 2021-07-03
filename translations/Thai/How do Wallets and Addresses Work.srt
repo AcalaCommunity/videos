@@ -128,99 +128,99 @@ private key และจะมีฟอร์แมต
 
 33
 00:00:50,960 --> 00:00:53,199
-like this with a format starting with a
+อย่างอันนี้จะเริ่มต้นด้วย
 
 34
 00:00:52,559 --> 00:00:55,120
-one
+หนึ่ง
 
 35
 00:00:53,199 --> 00:00:57,199
-kusama would be represented like this a
+Kusama จะแสดงแบบนี้
 
 36
 00:00:55,120 --> 00:00:59,199
-format starting with a capital letter
+ฟอร์แมทเริ่มต้นด้วยตัวพิมพ์ใหญ่
 
 37
 00:00:57,199 --> 00:01:00,960
-and in the substrate generic address it
+และบน substrate generic address
 
 38
 00:00:59,199 --> 00:01:03,440
-would be something like this
+มันจะเป็นแบบนี้
 
 39
 00:01:00,960 --> 00:01:04,799
-starting with the number five so that's
+เริ่มต้นด้วยเลขห้า ดังนั้น
 
 40
 00:01:03,440 --> 00:01:06,640
-pretty cool that means that you can use
+มันค่อนข้างเจ๋ง มันหมายถึงว่าคุณสามาถ
 
 41
 00:01:04,799 --> 00:01:07,760
-one address or one account across all
+ใช้หนึ่ง address หรือหนึ่งบัญชีสำหรับ
 
 42
 00:01:06,640 --> 00:01:09,200
-the different chains
+ทุกๆ chain
 
 43
 00:01:07,760 --> 00:01:10,880
-and while that is true it's not
+และถึงแม้ว่ามันจะเป็นเรื่องจริง ก็ไม่
 
 44
 00:01:09,200 --> 00:01:12,400
-recommended
+แนะนำ
 
 45
 00:01:10,880 --> 00:01:14,159
-typically it's better to have distinct
+มันจะดีกว่าถ้าใช้บัญชี
 
 46
 00:01:12,400 --> 00:01:15,119
-accounts with their own private keys for
+ที่แตกต่างกับ private key
 
 47
 00:01:14,159 --> 00:01:17,119
-each network
+แต่ละเครือข่าย
 
 48
 00:01:15,119 --> 00:01:18,720
-the biggest reason is security if one of
+เหตุผลที่ใหญ่ที่สุดคือความปลอดภัย ถ้าหนึ่งใน
 
 49
 00:01:17,119 --> 00:01:20,159
-your accounts becomes compromised
+บัญชีของคุณถูกบุกรุก
 
 50
 00:01:18,720 --> 00:01:24,080
-then the assets in your other accounts
+ทรัพส์สินที่อยู่บนบัญชีอื่นจะ
 
 51
 00:01:20,159 --> 00:01:26,000
-are safe so let's see this in practice
+ปลอดภัย โอเคเรามาเริ่มฝึก
 
 52
 00:01:24,080 --> 00:01:27,520
-here i'm on the polkadot.js website and
+นี่คือ polkadot.js เว็บไซต์
 
 53
 00:01:26,000 --> 00:01:31,439
-we're going to create two new accounts
+เราจะสร้างบัญชีใหม่ 2 บัญชี
 
 54
 00:01:27,520 --> 00:01:33,600
-really quickly so you see that i have a
+อย่างรวดเร็ว คุณจะเห็นว่าฉันมี
 
 55
 00:01:31,439 --> 00:01:35,200
-distinct uh seed phrase right here i'm
+seed phrase ตรงนี้
 
 56
 00:01:33,600 --> 00:01:36,560
-going to click save
+คลิกเซฟ
 
 57
 00:01:35,200 --> 00:01:38,400
