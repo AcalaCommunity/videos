@@ -24,39 +24,39 @@ Polkadot และ Kasuma
 
 7
 00:00:08,639 --> 00:00:11,920
-ethereum คุณอาจจะเคยใช้ address 
+ethereum คุณอาจจะเคยเห็น address
 
 8
 00:00:10,160 --> 00:00:13,599
-เพื่อดูบางอย่างแบบนี้
+แบบนี้
 
 9
 00:00:11,920 --> 00:00:15,040
-but in the world of poken kusama you
+แต่บนโลกของ Kusama
 
 10
 00:00:13,599 --> 00:00:16,240
-might be used to something like this
+คุณอาจจะเห็นเป็นประมาณนี้
 
 11
 00:00:15,040 --> 00:00:17,760
-a bunch of different addresses with a
+พวงของ address ที่แตกต่างกัน
 
 12
 00:00:16,240 --> 00:00:18,320
-bunch of different formats all from one
+กับฟอร์แมตที่แตกต่างกันจาก 1
 
 13
 00:00:17,760 --> 00:00:20,800
-account
+บัญชี
 
 14
 00:00:18,320 --> 00:00:22,000
-so how does that work well let's start
+โดยวิธีการทำงานของมัน มาเริ่มที่
 
 15
 00:00:20,800 --> 00:00:23,920
-with an analogy
+อุปมาอุปไมย
 
 16
 00:00:22,000 --> 00:00:25,599
