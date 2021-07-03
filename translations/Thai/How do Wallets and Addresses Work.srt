@@ -112,19 +112,19 @@ private key และจะมีฟอร์แมต
 
 29
 00:00:43,040 --> 00:00:46,879
-you attach to are all just different
+ที่คุณเลือก มันจะโชว์ออกมา
 
 30
 00:00:44,719 --> 00:00:49,440
-representations of that same public key
+แตกต่างกันบน public key เดียวกัน
 
 31
 00:00:46,879 --> 00:00:50,960
-for example here we have this public key
+ยกตัวอย่างเช่น เรามี public key ตรงนี้
 
 32
 00:00:49,440 --> 00:00:52,559
-and on polka dot it would be represented
+บน polkadot มันจะแสดง
 
 33
 00:00:50,960 --> 00:00:53,199
