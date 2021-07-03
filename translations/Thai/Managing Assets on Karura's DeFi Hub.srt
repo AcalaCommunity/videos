@@ -56,27 +56,27 @@ dapp คุณก็สามารถจัดการทรัพย์สิ
 
 15
 00:00:28,000 --> 00:00:33,440
-if like one of the aggregation of your
+ราวกับว่ารวมการจัดการของคุณเป็นหนึ่งเดียว
 
 16
 00:00:31,359 --> 00:00:36,000
-assets um get access to
+ไม่ว่าจะเข้ามาโอนถ่าย
 
 17
 00:00:33,440 --> 00:00:36,480
-value transfer or get access to things
+หรือเข้ามาทำบางอย่าง
 
 18
 00:00:36,000 --> 00:00:39,760
-like
+เช่น
 
 19
 00:00:36,480 --> 00:00:42,480
-minting btc mint in poca btc
+การ mint เหรียญ btc บน PolkaBTC
 
 20
 00:00:39,760 --> 00:00:44,079
-or do inter production transfer for
+หรือการถ่ายโอน product ระหว่างกัน
 
 21
 00:00:42,480 --> 00:00:46,879
