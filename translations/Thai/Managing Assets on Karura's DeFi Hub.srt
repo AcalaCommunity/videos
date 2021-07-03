@@ -1,38 +1,38 @@
 1
 00:00:00,000 --> 00:00:02,030
-[Music]
+[เพลง]
 
 2
 00:00:04,640 --> 00:00:06,960
-the very first page that i'm going to
+นี่คือที่แรกที่ฉันจะ
 
 3
 00:00:06,399 --> 00:00:09,200
-show
+โชว์
 
 4
 00:00:06,960 --> 00:00:11,920
-is the wallet page this is where you
+เพจ wallet นี่คือที่ที่คุณ
 
 5
 00:00:09,200 --> 00:00:14,719
-manage all your assets within the kura
+สามารถจัดการทรัพสินย์ทั้งหมดของคุณใน Karura
 
 6
 00:00:11,920 --> 00:00:16,000
-project and as you can see you can have
+โปรเจ็ค และคุณสามารถเห็นได้ว่า
 
 7
 00:00:14,719 --> 00:00:17,359
-your well this will be definitely
+นี่จะเปลี่ยนไปเป็น
 
 8
 00:00:16,000 --> 00:00:19,680
-turning to the kr token
+kar token
 
 9
 00:00:17,359 --> 00:00:20,800
-you have your ksm token you have your k
+คุณมี ksm token คุณมี k
 
 10
 00:00:19,680 --> 00:00:23,600
@@ -40,11 +40,11 @@ ausd token
 
 11
 00:00:20,800 --> 00:00:24,320
-you can freely transfer um to other
+คุณสามารถส่งมันไป
 
 12
 00:00:23,600 --> 00:00:26,080
-voltages
+ที่อื่นได้อิสระ
 
 13
 00:00:24,320 --> 00:00:28,000
