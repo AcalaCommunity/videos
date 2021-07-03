@@ -96,19 +96,19 @@ ethereum คุณอาจจะเคยเห็น address
 
 25
 00:00:36,320 --> 00:00:40,000
-kusama kind of work the same exact way
+Kusama โดยประเภทงานจะค่อนข้างเหมือนกัน
 
 26
 00:00:38,559 --> 00:00:41,520
-your wallet will hold your public and
+wallet ของคุณจะมี public และ
 
 27
 00:00:40,000 --> 00:00:43,040
-private key and all the different
+private key และจะมีฟอร์แมต
 
 28
 00:00:41,520 --> 00:00:44,719
-formats you see depending on the chains
+แตกต่างกันขึ้นอยู่กับ chain
 
 29
 00:00:43,040 --> 00:00:46,879
