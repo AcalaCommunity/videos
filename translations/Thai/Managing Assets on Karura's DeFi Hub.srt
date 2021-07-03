@@ -136,171 +136,171 @@ polkadot.js หรือแม้กระทั่งบาง
 
 35
 00:01:10,720 --> 00:01:13,760
-mobile wallet แต่
+mobile wallet
 
 36
 00:01:12,080 --> 00:01:15,520
-เมื่อพวกเขาเชื่อมต่อกับสิ่งที่พวกเขาจะทำกับ
+เมื่อพวกเขาเชื่อมต่อกับเว็บ
 
 37
 00:01:13,760 --> 00:01:16,640
-ความจริงดูที่เลขพวกนี้
+จะเห็นเลขตรงนี้
 
 38
 00:01:15,520 --> 00:01:17,360
-correct that they would go up to the
+ตรงกัน ลองมาเปิดบน
 
 39
 00:01:16,640 --> 00:01:19,360
-polka dot
+polkadot.js
 
 40
 00:01:17,360 --> 00:01:21,360
-js extension and connect their polka dot
+extension และเชื่อมมันกับบัญชีบน
 
 41
 00:01:19,360 --> 00:01:22,080
-js account to this wallet and it would
+polkadot.js โดย wallet นี้จะ
 
 42
 00:01:21,360 --> 00:01:24,640
-show
+โชว์
 
 43
 00:01:22,080 --> 00:01:25,200
-their live balances within this wallet
+ยอดเงินใน wallet
 
 44
 00:01:24,640 --> 00:01:28,400
-is that
+ถูกต้องมั้ย
 
 45
 00:01:25,200 --> 00:01:29,840
-yes yes yes definitely and the poke.js
+ใช่ ใช่ ใช่ ถูกต้อง polkadot.js
 
 46
 00:01:28,400 --> 00:01:33,040
-is very similar to the
+จะใกล้เคียงกับ
 
 47
 00:01:29,840 --> 00:01:34,640
-metamask equivalent on polka dots um you
+metamask ที่ใช้อยู่บน polkadot
 
 48
 00:01:33,040 --> 00:01:36,320
-can manage multiple accounts
+คุณสามารถจัดการได้หลายบัญชี
 
 49
 00:01:34,640 --> 00:01:38,000
-in this wallet section as well so i can
+ในหมวด wallet อีกด้วย ดังนั้นคุณสามารถ
 
 50
 00:01:36,320 --> 00:01:39,920
-change to another demo account here
+เปลี่ยนบัญชีทดลองตรงนี้
 
 51
 00:01:38,000 --> 00:01:41,920
-you can see all the stuff i refresh on
+คุณจะเห็นบัญชีทั้งหมด ทันที
 
 52
 00:01:39,920 --> 00:01:42,960
-the fly i can change back to my original
+ฉันสามารถเปลี่ยนกับไปเป็นบัญชีทดลอง
 
 53
 00:01:41,920 --> 00:01:44,960
-demo account
+ดั้งเดิมของฉัน
 
 54
 00:01:42,960 --> 00:01:46,079
-and you can also see a history of your
+และคุณสามารถดูประวัติ
 
 55
 00:01:44,960 --> 00:01:47,920
-past transaction
+การทำธุรกรรมได้
 
 56
 00:01:46,079 --> 00:01:49,119
-so very very user-friendly very very
+มัน ใช้งานง่ายมากๆๆๆๆ
 
 57
 00:01:47,920 --> 00:01:52,240
-consumer-focused
+เราเจาะจงไปที่ผู้บริโภค
 
 58
 00:01:49,119 --> 00:01:53,520
-this is your your one-stop to access
+นี่คือศูนย์รวมการเข้าถึง
 
 59
 00:01:52,240 --> 00:01:56,079
-your your assets
+ทรัพสินย์ของคุณ
 
 60
 00:01:53,520 --> 00:01:56,719
-on cora yeah so you basically connect
+บน acala โอเค คุณแค่เชื่อมต่อ
 
 61
 00:01:56,079 --> 00:01:58,640
-one
+หนึ่ง
 
 62
 00:01:56,719 --> 00:02:00,479
-account from your polka dot js and then
+บัญชีจาก polkadot.js
 
 63
 00:01:58,640 --> 00:02:01,520
-it shows you every wallet that's kind of
+มันจะโชว์ทุก wallet ที่เคย
 
 64
 00:02:00,479 --> 00:02:04,640
-connected to that
+เชื่อมต่อกับ
 
 65
 00:02:01,520 --> 00:02:07,119
-account yes yes
+บัญชี. ใช่ ใช่
 
 66
 00:02:04,640 --> 00:02:08,959
-and obviously in in pogo.js you have the
+และแน่นอนว่า polkadot.js คุณจะมี
 
 67
 00:02:07,119 --> 00:02:10,720
-right um you're the way to manage like i
+การกรอง เพื่อจัดการ เช่น
 
 68
 00:02:08,959 --> 00:02:12,879
-would like to use this on alkala
+คุณอยากจะใช้ดูแค่ Acala
 
 69
 00:02:10,720 --> 00:02:14,319
-i only wanted to use this um this
+อย่างเดียว เพื่อ
 
 70
 00:02:12,879 --> 00:02:16,959
-particular watch address
+ดู address แบบเฉพาะเจาะจง
 
 71
 00:02:14,319 --> 00:02:18,000
-maybe only on relay chain on kusama all
+บางทีอาจจะแค่ relaychain หรือ kusama
 
 72
 00:02:16,959 --> 00:02:18,480
-you can say that i would like to use
+หรือคุณสามารถดูทั้งหมด
 
 73
 00:02:18,000 --> 00:02:21,200
-this
+นี้
 
 74
 00:02:18,480 --> 00:02:22,160
-wallet in all the available power chains
+ที่มี chain ทั้งหมด
 
 75
 00:02:21,200 --> 00:02:25,040
-and relations
+และเกี่ยวข้อง
 
 76
 00:02:22,160 --> 00:02:26,000
-so you can get it's the your the user's
+โดยคุณจะมีสิทธิ์
 
 77
 00:02:25,040 --> 00:02:28,400
