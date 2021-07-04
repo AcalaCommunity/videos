@@ -1,22 +1,22 @@
 1
 00:00:00,799 --> 00:00:06,879
-so next thing i'm going to show you um
+ต่อไปฉันจะโชว์คุณว่า
 
 2
 00:00:03,280 --> 00:00:09,200
-is how to deploy a uni swap to the akala
+วิธีการปรับใช้ uniswap กับ Acala
 
 3
 00:00:06,879 --> 00:00:10,880
-blockchain
+บล็อคเชน
 
 4
 00:00:09,200 --> 00:00:13,280
-i would like to use the units of ripple
+ฉันอยากจะลองใช้เหรียญ ripple
 
 5
 00:00:10,880 --> 00:00:16,000
-directly but unfortunately the uni swap
+ตรงๆดูแต่น่าเสียดายว่า uniswap
 
 6
 00:00:13,280 --> 00:00:17,440
