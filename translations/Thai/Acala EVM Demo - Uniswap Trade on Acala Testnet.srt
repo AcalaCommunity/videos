@@ -112,7 +112,7 @@ contract สำหรับ
 
 29
 00:01:09,439 --> 00:01:12,799
-ที่อยู่บัญชี
+address ของบัญชี
 
 30
 00:01:10,799 --> 00:01:14,320
@@ -120,79 +120,79 @@ contract สำหรับ
 
 31
 00:01:12,799 --> 00:01:16,400
-pick the country address
+คุณสามารถเลือก address
 
 32
 00:01:14,320 --> 00:01:18,880
-so you can see this is a bunch of sales
+คุณจะเห็นได้ว่าเรา
 
 33
 00:01:16,400 --> 00:01:20,560
-to keep things simple
+ตั้งมันให้เรียบง่าย
 
 34
 00:01:18,880 --> 00:01:23,360
-and we'll deploy the units of factory
+จากนั้นเราจะ deploy UniswapFactory
 
 35
 00:01:20,560 --> 00:01:24,640
-contracts and we deploy the uni support
+contract และก็ deploy UniswapRouter
 
 36
 00:01:23,360 --> 00:01:27,680
-contracts
+contract
 
 37
 00:01:24,640 --> 00:01:31,200
-just put in the control address
+โดยแค่ใส่ไปใน address
 
 38
 00:01:27,680 --> 00:01:35,200
-approve um so we can
+approve เราสามารถ
 
 39
 00:01:31,200 --> 00:01:37,600
-do some transfer add some liquidity
+ทำการโยกย้าย หรือเพิ่มสภาพคล่อง
 
 40
 00:01:35,200 --> 00:01:39,680
-and just prints much more information up
+หรือสามารถปริ๊นข้อมูลต่างๆได้
 
 41
 00:01:37,600 --> 00:01:40,640
-so this is basically the scrap to deploy
+นี่คือสิ่งสคริปต์พื้นฐานของทำงานของ
 
 42
 00:01:39,680 --> 00:01:44,479
-units work
+deploy
 
 43
 00:01:40,640 --> 00:01:48,880
-on our test net so you can see
+บนเทสเน็ตของเรา คุณสามารถเห็น
 
 44
 00:01:44,479 --> 00:01:55,840
-it deploys the router to the suggest
+การ deploy เราเตอร์ไปที่ address นี้
 
 45
 00:01:48,880 --> 00:01:55,840
-so i'm going to change it address here
+ฉันไปเปลี่ยน address ตรงนี้
 
 46
 00:01:56,960 --> 00:02:00,479
-and run this square so this square will
+และรันสคริปต์โดยสคริปต์นี้
 
 47
 00:01:58,960 --> 00:02:03,280
-basically
+ 
 
 48
 00:02:00,479 --> 00:02:03,920
-takes the units to broker again do some
+นำยูนิตของ router ไป
 
 49
 00:02:03,280 --> 00:02:06,079
-proof
+พิสูจน์
 
 50
 00:02:03,920 --> 00:02:07,439
