@@ -796,185 +796,185 @@ crowd loan ปกติ จะถูกล็อคใน
 
 200
 00:06:33,919 --> 00:06:36,960
-Karura (KAR) จะถูกแจกจ่ายไปที่
+Karura (KAR) ได้ถูกแจกจ่ายไปที่
 
 201
 00:06:36,319 --> 00:06:39,360
-crowdloan contributors
+ผู้ที่ลงทุนใน crowdloan
 
 202
 00:06:36,960 --> 00:06:41,120
-and then at the same time
+และในเวลาเดียวกัน
 
 203
 00:06:39,360 --> 00:06:44,160
-Karura is also launching so
+Karura กำลังเปิดตัว
 
 204
 00:06:41,120 --> 00:06:45,039
-the Karura stablecoin, the liquid KSM staking,
+Karura stablecoin ที่มาจาก สภาพคล่องจาก KSM
 
 205
 00:06:44,160 --> 00:06:47,440
-as well as
+ด้วยกันกับ
 
 206
 00:06:45,039 --> 00:06:50,479
-the Karura AMM-DEX, the Karura DEX
+Karura AMM-DEX DEX ของ Karura
 
 207
 00:06:47,440 --> 00:06:52,160
-all go live on top of Karura
+จะเกิดบน Karura
 
 208
 00:06:50,479 --> 00:06:54,080
-when this happens. At the end of
+เมื่อมันเกิดขึ้น(ชนะการประมูล) สุดท้าย
 
 209
 00:06:52,160 --> 00:06:55,039
-the parachain slot all of the KSM is
+slot ของ parachain ทั้งหมดของ KSM จะถูก
 
 210
 00:06:54,080 --> 00:06:58,880
-returned to the
+ส่งคืนให้กับ
 
 211
 00:06:55,039 --> 00:07:00,400
-supporters. Now the
+ผู้สนับสนุน ตอนนี้
 
 212
 00:06:58,880 --> 00:07:02,160
-last question that people sometimes
+คำถามสุดท้าย ที่หลายคนถาม
 
 213
 00:07:00,400 --> 00:07:04,000
-have is: 'What happens at the end of that
+คือ "จะเป็นอยางไรเมื่อจบ
 
 214
 00:07:02,160 --> 00:07:06,400
-slot?' In this example, let's say
+การประมูล" ในตัวอย่างนี้ จะบอก
 
 215
 00:07:04,000 --> 00:07:08,880
-that it was a one-year parachain slot
+ได้ว่ามันคือ one-year parachain slot
 
 216
 00:07:06,400 --> 00:07:10,479
-the KSM is returned to the original
+KSM จะถูกส่งกลับไปที่
 
 217
 00:07:08,880 --> 00:07:12,000
-crowdloan supporters and then there's
+ผู้ที่สนับสนุน และเมื่อมี
 
 218
 00:07:10,479 --> 00:07:14,479
-three options for
+สามออพชั่น
 
 219
 00:07:12,000 --> 00:07:16,560
-any team to kind of maintain their
+สำหรับทีมไหนก็ได้ที่จะรักษา
 
 220
 00:07:14,479 --> 00:07:18,240
-access to the relay chain.
+การเข้าถึง relay chain
 
 221
 00:07:16,560 --> 00:07:20,560
-First is to host another crowdloan and
+ออพชันแรกคือเป็นเจ้าภาพ crowdloan และ
 
 222
 00:07:18,240 --> 00:07:23,680
-do another parachain auction,
+ประมูล parachain อันอื่น
 
 223
 00:07:20,560 --> 00:07:25,360
-second is to self fund. Karura and
+สอง คือลงทุนด้วยตัวเอง Karura และ
 
 224
 00:07:23,680 --> 00:07:26,639
-Acala will both have a decentralized
+Acala จะเป็นคู่ที่มีเงินกองทุน
 
 225
 00:07:25,360 --> 00:07:28,240
-sovereign wealth fund
+กระจายอำนาจแบบอธิปไตย
 
 226
 00:07:26,639 --> 00:07:30,000
-and over time that will
+และมันจะ
 
 227
 00:07:28,240 --> 00:07:31,599
-continue to build and build
+พัฒนาต่อไปเรื่อยๆ
 
 228
 00:07:30,000 --> 00:07:33,759
-so that we can become sovereign and
+ดังนั้นถ้าเราสามารถกลายมาเป็นอธิปไตยและ
 
 229
 00:07:31,599 --> 00:07:36,240
-self-sustainable and actually
+พึ่งพาตนเองได้ และ
 
 230
 00:07:33,759 --> 00:07:37,440
-bid with our own treasury our own
+ลงทุนกับคลังกองทุน
 
 231
 00:07:36,240 --> 00:07:39,840
-sovereign wealth fund
+ที่เป็นอธิปไตย
 
 232
 00:07:37,440 --> 00:07:40,479
-for future slots, and then the third
+สำหรับ slot ในอนาคต และสุดท้าย
 
 233
 00:07:39,840 --> 00:07:42,800
-option
+ออฟชันสาม
 
 234
 00:07:40,479 --> 00:07:44,000
-there's probably several wiki articles
+น่าจะมีบทความวิกิหลายเรื่อง
 
 235
 00:07:42,800 --> 00:07:46,400
-and videos that you could watch
+และวิดิโอที่ซึ่งคุณสามารถดู
 
 236
 00:07:44,000 --> 00:07:48,160
-about this but, the other option is
+เกี่ยวกับมันแต่ ออพชันอื่นๆ
 
 237
 00:07:46,400 --> 00:07:49,520
-to become a parathread, which
+กลายเป็น parathread ซึ่ง
 
 238
 00:07:48,160 --> 00:07:51,599
-just means that you have a little
+หมายความว่าคุณจะ
 
 239
 00:07:49,520 --> 00:07:53,759
-bit less access..
+เข้าถึงได้น้อยมาก
 
 240
 00:07:51,599 --> 00:07:54,960
-less frequent access to the relay
+และเข้าถึง relay chain
 
 241
 00:07:53,759 --> 00:07:57,039
-chain itself.
+ได้น้อยลง
 
 242
 00:07:54,960 --> 00:07:58,240
-So that's it in about eight minutes.
+ดังนั้นนี่ประมาณ แปด นาที
 
 243
 00:07:57,039 --> 00:07:59,919
-Hopefully you learned something. Let me
+หวังว่าคุณจะเรียบรู้บางอย่าง
 
 244
 00:07:58,240 --> 00:08:03,759
-know if you have any questions.
+แจ้งให้ฉันรู้ถ้ามีคำถาม
 
 245
 00:07:59,919 --> 00:08:03,759
-Thank you, bye.
+ขอบคุณ บาย
 
