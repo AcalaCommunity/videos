@@ -12,7 +12,7 @@ Acala ตอนนี้ฉันเป็น VP of growth ที่นี่
 
 4
 00:00:08,639 --> 00:00:12,320
-2-3 เดือน ฉันเคยใช้เวลาอยู่กับ
+2-3 เดือน แต่ก่อนฉันใช้เวลาอยู่กับ
 
 5
 00:00:10,800 --> 00:00:13,920
@@ -20,171 +20,171 @@ Web3 Foundation
 
 6
 00:00:12,320 --> 00:00:16,080
-where I helped launch Polkadot and
+ที่ฉันช่วยเปิดตัว polkadot และ
 
 7
 00:00:13,920 --> 00:00:17,920
-Kusama. Today I'm going to make this
+Kusama วันนี้ฉันจะทำ
 
 8
 00:00:16,080 --> 00:00:19,119
-really quick. I may talk fast because i'm
+อย่างรวดเร็ว ฉันอาจจะพูดเร็วเพราะฉัน
 
 9
 00:00:17,920 --> 00:00:21,119
-trying to keep it in
+พยายามจะให้อยู่ใน
 
 10
 00:00:19,119 --> 00:00:22,560
-hopefully like five to seven minutes but
+หวังว่าซัก 5-7 นาที
 
 11
 00:00:21,119 --> 00:00:24,720
-I'm going to be talking about
+ฉันจะพูดเกี่ยวกับ
 
 12
 00:00:22,560 --> 00:00:26,320
-Polkadot and Kusama parachain auctions
+การประมูล Polkadot และ Kusama parachain
 
 13
 00:00:24,720 --> 00:00:27,680
-and crowdloans, which are the process
+และ crowd loan ซึ่งเป็นขบวนการ
 
 14
 00:00:26,320 --> 00:00:30,640
-for how to launch
+ของการเปิดตัว
 
 15
 00:00:27,680 --> 00:00:32,480
-a blockchain on one of these networks so
+บล็อกเชนซึ่งเป็นหนึ่งในเครือข่ายของ
 
 16
 00:00:30,640 --> 00:00:34,559
-Polkadot and Kusama as you may know are
+Polkadot และ Kusama อย่างที่คุณรู้ว่า
 
 17
 00:00:32,480 --> 00:00:35,840
-these multi-chain ecosystems that are
+ระบบนิเวศ multi-chain นี้
 
 18
 00:00:34,559 --> 00:00:37,680
-tying together
+กำลังพยายามเพื่อ
 
 19
 00:00:35,840 --> 00:00:38,879
-a bunch of blockchains that are called
+เป็นเครือข่าย blockchain ซึ่งถูกเรียกว่า
 
 20
 00:00:37,680 --> 00:00:40,399
-parachains.
+parachain
 
 21
 00:00:38,879 --> 00:00:42,559
-In the future there will be up to a
+ในอนาคตจะขยายเพิ่ม
 
 22
 00:00:40,399 --> 00:00:43,200
-hundred parachains on Polkadot and a
+เป็น 100 parachain บน Polkadot และ
 
 23
 00:00:42,559 --> 00:00:46,480
-hundred
+หนึ่งร้อย
 
 24
 00:00:43,200 --> 00:00:48,480
-plus on Kusama, but as of now there's no
+ขึ้นไปบน Kusama แต่ว่าตอนนี้ยังไม่มี
 
 25
 00:00:46,480 --> 00:00:50,320
-parachain on either one.
+parachain บนแต่ละอัน
 
 26
 00:00:48,480 --> 00:00:51,760
-So today i'm going to talk about how to
+ดังนั้นวันนี้ฉันจะพูดเกี่ยวกับ
 
 27
 00:00:50,320 --> 00:00:53,680
-actually earn a slot
+วิธีการรับ slot
 
 28
 00:00:51,760 --> 00:00:55,199
-as one of these little squares here in
+เหมือนกับหนึ่งในกรอบสี่เหลี่ยมตรงนี้ใน
 
 29
 00:00:53,680 --> 00:00:56,079
-this diagram. How do you actually become
+ไดอะแกรม วิธีการเป็น
 
 30
 00:00:55,199 --> 00:00:58,000
-the first
+คนแรก
 
 31
 00:00:56,079 --> 00:01:00,320
-parachain on Kusama or the first parachain
+ที่ได้รับ parachain บน kusama หรือคนแรกที่ได้รับ parachain
 
 32
 00:00:58,000 --> 00:01:02,399
-on Polkadot
+บน Polkadot
 
 33
 00:01:00,320 --> 00:01:04,159
-and that process is crowdloans and
+และขบวนการของ crowdloan และ
 
 34
 00:01:02,399 --> 00:01:06,400
-parachain auctions. So
+กระประมูล parachain ดังนั้น
 
 35
 00:01:04,159 --> 00:01:07,920
-this is the timeline. You can see here
+นี่คือไทม์ไลน์ คุณสามารถเห็น
 
 36
 00:01:06,400 --> 00:01:10,240
-that crowdloans come
+crowdloan นั่น
 
 37
 00:01:07,920 --> 00:01:12,080
-first, which i'll get into.. The main
+มาก่อน ซึ่งเราจะเข้าไปใน ส่วนหลัก
 
 38
 00:01:10,240 --> 00:01:12,640
-event is the parachain auction here in
+ของอีเวนท์การประมูล parachain ตรงนี้ใน
 
 39
 00:01:12,080 --> 00:01:15,759
-white
+กรอบสีขาว
 
 40
 00:01:12,640 --> 00:01:17,280
-this is multiple parachain teams
+นี่คือทีม parachain หลายรายการ
 
 41
 00:01:15,759 --> 00:01:19,759
-essentially bidding against each other
+เป็นหลักการ bid ราคาแข่งกันระหว่างแต่ละอัน
 
 42
 00:01:17,280 --> 00:01:21,759
-trying to win this auction
+เพื่อที่จะชนะประมูล
 
 43
 00:01:19,759 --> 00:01:23,119
-the winner of the auction then moves on
+และผู้ชนะการประมูลจะได้ไปต่อ
 
 44
 00:01:21,759 --> 00:01:26,240
-and earns a slot
+และได้รับ slot
 
 45
 00:01:23,119 --> 00:01:27,920
-here in the green. Once you earn a slot
+ตรงสีเขียวนี้ เมื่อคุณได้รับ slot แล้ว
 
 46
 00:01:26,240 --> 00:01:30,000
-then you're officially on
+คุณจะอยู่บน
 
 47
 00:01:27,920 --> 00:01:32,000
-Kusama or on Polkadot as a parachain
+Kusama หรือ Polkadot parachain อย่างเป็นทางการ
 
 48
 00:01:30,000 --> 00:01:34,560
