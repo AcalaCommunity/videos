@@ -218,47 +218,46 @@ DeFi ที่เป็นเทรนด์ในตอนนี้
 
 47
 00:03:14,560 --> 00:03:18,320
-of one of the the key use cases of DeFi
-now, where 
+หนึ่งใน use case ที่สำคัญบน DeFi
+ตอนนี้
 
 48
 00:03:18,320 --> 00:03:21,760
-you see here on the left you've got a
-supply market and then on the right you 
+ที่คุณเห็นด้านซ้ายมือนี้คุญจะเห็น
+supply ของตลาด และด้านขวานี้
 
 49
 00:03:21,760 --> 00:03:22,640
-have borrowers. 
+คุณจะเห็น ผู้ยืม
 
 50
 00:03:23,200 --> 00:03:27,280
-On the left, if i have Dai as my stable
-coin, I could go in and provide 
+ด้านซ้าย ถ้าฉันมี DAI เป็น stablecoin
+ฉันสามารถเข้าไปและเติม
 
 51
 00:03:27,280 --> 00:03:30,560
-liquidity to that market and earn 6.8
-percent, 
+สภาพคล่องสู่ตลาด จะได้รับ 6.8%
 
 52
 00:03:30,560 --> 00:03:36,080
-at least on this day. Same on the right.
-If i needed to go out and say I thought 
+อยากน้อยก็วันนี้ ด้านขวาก็เหมือนกัน
+ถ้าฉันต้องการออกและคิดว่า
 
 53
 00:03:36,080 --> 00:03:40,800
-Bitcoin was going to go up or I had
-a need for a stable coin, I could go and 
+ราคา Bitcoin จะสูงขึ้น หรือฉัน
+ต้องการใช้ stablecoin ฉันสามารถไป
 
 54
 00:03:40,800 --> 00:03:43,600
-borrow
-Dai with something as collateral, 
+ยืม
+Dai ด้วยการค้ำประกัน
 
 55
 00:03:45,280 --> 00:03:48,400
-as long as I'm willing to pay that
-interest rate on that stable coin. 
+เท่าที่ฉันสามารถจ่ายค่า
+ธรรมเนียมของ stablecoin นี้ได้
 
 56
 00:03:49,280 --> 00:03:52,000
