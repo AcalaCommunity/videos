@@ -38,193 +38,183 @@ Karura
 
 9
 00:00:31,280 --> 00:00:35,520
-Crypto and DeFi of course started around
-2008-2009, 
+คริปโตและ DeFi แน่นอนว่าเริ่มประมาณปี
+2008-2009
 
 10
 00:00:36,160 --> 00:00:39,680
-and really what decentralized
-finance is trying to solve 
+และอะไรที่การเงินแบบกระจายอำนาจ
+พยายามจะแก้
 
 11
 00:00:40,800 --> 00:00:44,240
-is this problem of access to the
-financial system. So 
+ปัญหาของระบบการเงิน
 
 12
 00:00:44,240 --> 00:00:47,520
-millions of people around the world,
-depending on what country they live in, 
+หลายล้านคนทั่วโลก
+ขึ้นอยู่กับประเทศที่คนอยู่อาศัย
 
 13
 00:00:47,520 --> 00:00:50,480
-have much different access to the
-financial system to earn 
+มีหลากหลายวิธีการเข้าถึง
+ระบบการเงินเพื่อจะได้รับ
 
 14
 00:00:51,040 --> 00:00:56,880
-better outcomes on their finances
-than others in kind of more people 
+ผลลัพธ์ทางการเงินที่ดีขึ้น
+มากกว่าคนอื่น ๆ ในประเภท
 
 15
 00:00:56,880 --> 00:01:00,640
-who are just a bit luckier.
-There's also some issues around 
+ที่แค่โชคดีกว่า
+นอกจากนี้ยังมีปัญหาบางอย่างกับ
 
 16
 00:01:00,640 --> 00:01:03,280
-governments: different governments around
-the world have 
+รัฐบาล: แต่ละรัฐบาล
+ทั่วโลกก็มี
 
 17
 00:01:03,280 --> 00:01:07,760
-more or less control over the financial
-system of their countries 
+การควบคุมระบบการเงินไม่มากก็น้อยในแต่ละประเทศ
 
 18
 00:01:08,800 --> 00:01:13,440
-and people who live in places where
-the government does have more control 
+และผู้คนที่อาศัยอยู่ใน
+รัฐบาลที่มีการควบคุม
 
 19
 00:01:13,440 --> 00:01:16,720
-over the economy
-and has created problems like inflation, 
+ระบบเศรษฐกิจ
+และสร้างปัญหาอย่าง เงินเฟ้อ
 
 20
 00:01:17,840 --> 00:01:21,440
-DeFi creates a way for people to have
-access to a new financial system 
+DeFi สร้างทางให้ผู้คนมีการ
+เข้าถึงระบบการเงินแบบใหม่
 
 21
 00:01:22,160 --> 00:01:27,440
-for better opportunities on their money.
-So this new system is more open, it 
+สำหรับโอกาสที่ดีกว่าสำหรับเงินของพวกเขา
+ดังนั้นระบบใหม่นี้จึงเปิดกว้างมาก มัน
 
 22
 00:01:27,440 --> 00:01:31,040
-requires
-less restrictions so you can access it 
+ต้องการ
+ข้อจำกัดน้อยลงเพื่อให้คุณสามารถเข้าถึงได้
 
 23
 00:01:31,040 --> 00:01:34,800
-sometimes without
-an identification, without a bank account, 
+ไม่ต้องมี
+บัตรประจำตัว ไม่ต้องมีบัญชีธนาคาร
 
 24
 00:01:34,800 --> 00:01:38,800
-without a credit score.
-So a much more open financial system 
+ไม่ต้องมีแต้มเครดิต ระบบการเงินที่เปิดกว้างมากขึ้น
 
 25
 00:01:38,800 --> 00:01:40,640
-that we're all kind of building together
-now. 
+ที่เราทุกคนร่วมกันสร้างณ ตอนนี้
 
 26
 00:01:43,760 --> 00:01:47,840
-The main categories of DeFi are really a
-reflection of a lot of the 
+โดยฟังก์ชันหลักของ DeFi เหมือนมากๆกับ
 
 27
 00:01:47,840 --> 00:01:51,120
-primary categories of the
-traditional finance world that have made 
+ฟังก์ชันหลักของโลกการเงินแบบดั้งเดิมที่สร้าง
 
 28
 00:01:51,120 --> 00:01:54,000
-their way
-into DeFi. So you've got money markets, 
+ทางไปสู่
+DeFi คุณจะมีตลาดการเงิน
 
 29
 00:01:54,000 --> 00:01:56,480
-which is kind of like peer-to-peer
-borrowing and lending, 
+ซึ่งเป็นเหมือน peer-to-peer
+การยืมและการให้ยืม
 
 30
 00:01:57,120 --> 00:02:00,240
-derivatives payments, decentralized
-exchanges. 
+การซื้ออนุพันธ์ การแลกเปลี่ยนแบบกระจายอำนาจ
 
 31
 00:02:02,160 --> 00:02:04,720
-Another category here is stable
-coins which is very 
+อีกฟังก์ชันหนึ่งคือ stablecoin ที
 
 32
 00:02:05,920 --> 00:02:08,800
-important for the DeFi ecosystem, because
-of course you've got 
+สำคัญมากๆสำหรับระบบนิเวศน์ของ DeFi แน่นอน
+เพราะว่า
 
 33
 00:02:09,520 --> 00:02:12,880
-volatile assets like Bitcoin and
-Ethereum that can vary 
+ทรัพย์สินที่ผันผวนเช่น Bitcoin และ
+Ethereum ซึ่งผันผวนมาก
 
 34
 00:02:13,760 --> 00:02:16,720
-and then you've got stable coins, which
-allow people to hold something that 
+คุณจะมีเหรียญ stablecoin ซึ่งจะ
+อนุญาติให้ผู้คนถือสิ่งที่
 
 35
 00:02:16,720 --> 00:02:21,840
-actually kind of retains the
-Stable PEG at a certain value. 
+จริงๆมันเป็นการรักษาความเสถียรด้วย PEG
+ของมูลค่า
 
 36
 00:02:23,600 --> 00:02:26,320
-This was pretty shocking to me when I
-made this slide. 
+นี่ทำให้ฉันช็อคมากเมื่อฉันทำสไลด์
 
 37
 00:02:27,040 --> 00:02:31,120
-Going back just one year ago, in
-April 2020, 
+ย้อนกลับไปเมื่อหนึ่งปีที่แล้ว
+ในเมษายน ปี 2020
 
 38
 00:02:32,080 --> 00:02:36,080
-the amount of total value locked in DeFi
-was around 800 million 
+จำนวนมูลค่ารวมที่ถูกล็อคใน DeFi
+อยู่ที่ประมาณ 800 ล้านดอลลาร์
 
 39
 00:02:36,080 --> 00:02:40,640
-and fast forward to today this has done
-about an 82 or 83x 
+และก้าวไปข้างหน้าอย่างรวดเร็วจนถึงวันนี้
+เพิ่มเป็น 82 หรือ 83 เท่า
 
 40
 00:02:40,640 --> 00:02:44,080
-on just the previous year in total value
-locked in DeFi 
+จากมูลค่ารวมของปีที่แล้วที่
+ล็อคในโปรโตคอลของ
 
 41
 00:02:44,880 --> 00:02:50,320
-protocols. DeFi
-in summer 2020, at least Northern 
+DeFi
+DeFi ในฤดูร้อน 2020 อย่างน้อยก็
 
 42
 00:02:50,320 --> 00:02:55,200
-hemisphere summer,
-was what kind of set off this trend. 
+ฤดูร้อนซีกโลกเหนือ
+ถึงจะเปรียบความร้อนแรงของ DeFi ได้
 
 43
 00:02:55,200 --> 00:03:00,080
-There was a lot of
-new teams, new liquidity flowing into 
+มีทีมใหม่ๆ
+จำนวนมาก สภาพคล่องใหม่ๆไหลเข้าสู่
 
 44
 00:03:00,080 --> 00:03:03,840
-DeFi that really set off this trend that
-we we still see continuing today. 
+DeFi ที่เป็นเทรนด์ในตอนนี้
+เรากำลังดูมันเติบโตต่อไป
 
 45
 00:03:06,400 --> 00:03:10,400
-Money markets compound is one of the
-the best and kind of 
+ตลาดเงิน Compound คือหนึ่งในทีมที่
 
 46
 00:03:10,400 --> 00:03:14,560
-pioneering teams in the Ethereum DeFi
-space. This is an example of 
+บุกเบิกบนพื้นที่ของ Ethereum ได้ดีที่สุด
+นี่คือตัวอย่างของ
 
 47
 00:03:14,560 --> 00:03:18,320
