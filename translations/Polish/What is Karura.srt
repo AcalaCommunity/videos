@@ -4400,7 +4400,7 @@ wysłać lKSM do kogoś innego
 
 1101
 00:35:45,440 --> 00:35:49,280
-tak jak on właśnie przenosił
+tak jak byś przenosił
 
 1102
 00:35:48,320 --> 00:35:52,160
@@ -4412,151 +4412,151 @@ zbywalne aktywa
 
 1104
 00:35:52,160 --> 00:35:57,920
-the recipient who gets lg or google
+odbiorca, który dostaje się lDOT, albo lKSM
 
 1105
 00:35:54,800 --> 00:35:58,400
-gets klksm can choose to continue to
+otrzymuje lKSM i może wybrać, czy będzie kontynuował
 
 1106
 00:35:57,920 --> 00:36:01,200
-hold
+posiadanie
 
 1107
 00:35:58,400 --> 00:36:01,760
-on the the lks ml dot or they can
+lKSM, czy lDOT, albo może
 
 1108
 00:36:01,200 --> 00:36:04,400
-continue to
+zadecydować, aby
 
 1109
 00:36:01,760 --> 00:36:05,760
-decide to redeem um and get the actual
+wypłacić tokeny i otrzymać rzeczywiste
 
 1110
 00:36:04,400 --> 00:36:07,680
-valina dot back
+DOT z powrotem
 
 1111
 00:36:05,760 --> 00:36:09,200
-so this is like the the reason we call
+więc jest to tak jak powód, dlaczego nazywamy
 
 1112
 00:36:07,680 --> 00:36:11,359
-it liquid is that it's transferable it
+to płynnym, bo jest to mobilne
 
 1113
 00:36:09,200 --> 00:36:14,240
-could be used for other utility as well
+może być również wykorzystywany do innych celów
 
 1114
 00:36:11,359 --> 00:36:16,079
-and one big utility that you can use
+i jedna duża użyteczność, którą możesz wykorzystać
 
 1115
 00:36:14,240 --> 00:36:18,720
-with this l ksm is that
+mając lKSM, to
 
 1116
 00:36:16,079 --> 00:36:19,520
-you can actually borrow against um your
+możesz w rzeczywistości wziąć pożyczkę w zastaw za swoje
 
 1117
 00:36:18,720 --> 00:36:21,760
-lksm
+lKSM
 
 1118
 00:36:19,520 --> 00:36:22,880
-in the demo that i showed earlier is
+w demo, które i pokazałem wcześniej
 
 1119
 00:36:21,760 --> 00:36:24,800
-that you can borrow
+że możesz pożyczyć
 
 1120
 00:36:22,880 --> 00:36:26,000
-against your stack asset so you don't
+przeciwko lKSM, więc właściwie nie
 
 1121
 00:36:24,800 --> 00:36:27,280
-actually have to give up your
+musisz rezygnować z
 
 1122
 00:36:26,000 --> 00:36:28,640
-opportunity cost if you say that you
+możliwości, bo możesz
 
 1123
 00:36:27,280 --> 00:36:30,320
-want to borrow against thoughts
+wziąć pożyczkę w zamian za nie
 
 1124
 00:36:28,640 --> 00:36:31,599
-you have to choose that hey do i want to
+możesz wybrać, czy chcesz
 
 1125
 00:36:30,320 --> 00:36:32,800
-select these thoughts or do i want to
+stakować DOT, czy chcesz
 
 1126
 00:36:31,599 --> 00:36:35,200
-borrow against my dog
+pożyczyć w zastaw za DOT
 
 1127
 00:36:32,800 --> 00:36:36,000
-but with ldl always lksm this is the
+ale z lDOT, lKSM to jest
 
 1128
 00:36:35,200 --> 00:36:38,160
-best of both
+najlepszym z obu jest to, że
 
 1129
 00:36:36,000 --> 00:36:39,440
-you could be earning the staking reward
+możesz dostawać nagrody za staking
 
 1130
 00:36:38,160 --> 00:36:41,839
-while you're borrowing against a
+kiedy bierzesz pożyczkę w zamian za Twoją
 
 1131
 00:36:39,440 --> 00:36:41,839
-position
+pozycję
 
 1132
 00:36:42,000 --> 00:36:48,240
-and yeah um dan any any question
+Dan czy są jeszcze jakieś pyania?
 
 1133
 00:36:45,200 --> 00:36:51,359
-yeah one question um from
+Tak, jedno pytanie od
 
 1134
 00:36:48,240 --> 00:36:51,760
-jack here in the chat is it's basically
+Jacka na czacie jest zasadniczo
 
 1135
 00:36:51,359 --> 00:36:53,760
-like
+jak
 
 1136
 00:36:51,760 --> 00:36:56,000
-what he said what happens if you trade
+on powiedział, co się stanie, jeżeli wymieniasz
 
 1137
 00:36:53,760 --> 00:36:58,320
-or sell your ldot so you have like the
+albo sprzedajesz, więc jeżeli masz jakieś
 
 1138
 00:36:56,000 --> 00:37:01,520
-stake dot you get this l dot
+stakakowane DOT, otrzymasz lDOT
 
 1139
 00:36:58,320 --> 00:37:03,920
-let's say you sell it all and you have
+powiedzmy, że sprzedajesz to wszystko i masz
 
 1140
 00:37:01,520 --> 00:37:06,400
-so what happens then to your original
+więc co stanie się z twoim oryginalnym
 
 1141
 00:37:03,920 --> 00:37:09,440
