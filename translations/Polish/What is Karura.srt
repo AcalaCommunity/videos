@@ -8400,39 +8400,39 @@ polka dot in this diagram and this is
 
 2101
 01:10:23,840 --> 01:10:26,560
-potentially
+potencjalnie
 
 2102
 01:10:24,719 --> 01:10:28,159
-where we could be heading in the future
+gdzie moglibyśmy zmierzać w przyszłość
 
 2103
 01:10:26,560 --> 01:10:31,840
-kind of fun to think about
+rodzaj zabawy do zastanowienia się
 
 2104
 01:10:28,159 --> 01:10:31,840
-we'll see if it comes true
+zobaczymy, czy to się ziści
 
 2105
 01:10:33,440 --> 01:10:38,560
-um okay it's let's take like one more
+odpowiedzmy na jeszcze jedno
 
 2106
 01:10:36,239 --> 01:10:38,560
-question
+pytanie
 
 2107
 01:10:41,440 --> 01:10:44,880
-carrera tokenomics i pasted the link in
+o tokenomii Karura. Wkleiłem link
 
 2108
 01:10:43,920 --> 01:10:48,800
-the chat
+w czacie
 
 2109
 01:10:44,880 --> 01:10:50,239
-so akala dot network slash karua slash
+acala.network/karura/
 
 2110
 01:10:48,800 --> 01:10:53,520
@@ -8440,23 +8440,23 @@ token
 
 2111
 01:10:50,239 --> 01:10:53,520
-is a good place to go for that
+jest dobrym miejscem do tego
 
 2112
 01:10:53,920 --> 01:10:59,679
-and yeah let's let's call it a day we've
+dziś
 
 2113
 01:10:57,440 --> 01:11:00,880
-been here for an hour and 15. like i
+jesteśmy tu już jakeś 1.5 godziny
 
 2114
 01:10:59,679 --> 01:11:03,199
-said i'll go through the questions and
+i tak jak powiedziałem, odpowiem na pytania
 
 2115
 01:11:00,880 --> 01:11:05,760
-anything that we didn't answer i'll
+a, jeżeli na coś jeszcze nie odpowiedziałem
 
 2116
 01:11:03,199 --> 01:11:07,040
@@ -8536,9 +8536,9 @@ for the product to go live please
 
 2135
 01:11:41,280 --> 01:11:51,520
-support us
+wspieraj nas
 
 2136
 01:11:43,120 --> 01:11:51,520
-bye guys bye guys
+Do zobaczenia
 
