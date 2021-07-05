@@ -1,41 +1,40 @@
 1
 00:00:00,640 --> 00:00:05,200
-Hey everybody, this is Dan Reecer. I'm VP
-of Growth at Acala and Karura 
+สวัสดีทุกคน ฉัน Dan Reecer เป็น VP
+of Growth ที่ Acala และ Karura
 
 2
 00:00:05,200 --> 00:00:08,640
-and today I'm going to be giving you an
-overview of DeFi, 
+ลแะวันนี้ฉันจะให้คุณเห็นภาพรวมของ DeFi,
 
 3
 00:00:08,640 --> 00:00:12,320
-Polkadot and Kusama, and then most
-importantly an overview of Acala  
+Polkadot Kusama และส่วน
+สำคัญที่สุดของ Acala
 
 4
 00:00:12,320 --> 00:00:12,960
-and
-Karura. 
+และ
+Karura
 
 5
 00:00:15,520 --> 00:00:18,560
-First I'm going to start with some
-basics around what DeFi is, 
+เราจะเริ่มด้วย
+เบสิคว่า DeFi คืออะไร
 
 6
 00:00:18,560 --> 00:00:22,160
-why this movement has kind of started
-and what problems it solves. 
+ทำไมการเคลื่อนไหวนี้ถึงได้เริ่มต้นขึ้น
+และแก้ปัญหาอะไรได้บ้าง
 
 7
 00:00:22,160 --> 00:00:26,240
-Then we'll move into some necessary
-context of Polkadot and Kusama, 
+จากนั้นเราจะย้ายไปที่พูดถึงบริบท
+ที่จำเป็นของ Polkadot และ Kusama,
 
 8
 00:00:26,240 --> 00:00:29,840
-before we move into Acala and Karura. 
+ก่อนจะไปพูดถึง Acala และ Karura
 
 9
 00:00:31,280 --> 00:00:35,520
