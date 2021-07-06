@@ -555,455 +555,443 @@ Ethereum เราเพิ่มประสิทธิภาพมัน
 
 117
 00:08:00,640 --> 00:08:03,680
-validate transactions for
-accuracy and also secure 
+ตรวจสอบการทำธุรกรรม
+ให้แม่นยำและรักษาความปลอดภัยให้
 
 118
 00:08:04,240 --> 00:08:08,160
-all the parachains that connect to the
-Polkadot relaychain, as you can see in 
+parachain ทั้งหมดที่เชื่อมต่อกับ
+Polkadot relay chain คุณสามารถดูใน
 
 119
 00:08:08,160 --> 00:08:11,840
-this
-diagram here. Polkadot will also, 
+ไดอะแกรมนี้ Polkadot ไม่ใช่แค่
 
 120
 00:08:12,480 --> 00:08:16,320
-not only connect blockchains within
-Polkadot, but it will also bridge to 
+เชื่อมต่อกว่า blockchain ของ
+Polkadot อย่างเดียวทั้งนั้น มันจะบริดจ์
 
 121
 00:08:16,320 --> 00:08:22,640
-existing networks like Ethereum
-and like Bitcoin. And then, as I mentioned, 
+ไปสู่เครือข่ายที่มีอยู่เช่น Ethereum
+และ Bitcoin แล้วก็อย่างที่บอกไปว่า
 
 122
 00:08:22,640 --> 00:08:27,120
-we've got Kusama as well. Kusama is the
-exact same code base, 
+เรามี Kusama ด้วย Kusama จะมี
+ฐานรหัสเดียวกันแน่นอน
 
 123
 00:08:27,120 --> 00:08:30,160
-the same architecture as Polkadot with
-this 
+สถาปัตยกรรมเดียวกับ Polkadot โดยมี
 
 124
 00:08:30,160 --> 00:08:33,360
-relaychain in the middle and then all
-these parachains are 
+relaychain อยู่ตรงกลาง และ parachain
+ทั้งหมดเหล่านี้
 
 125
 00:08:33,360 --> 00:08:38,720
-these customized blockchains built
-on top of Kusama's Layer 0 
+บล็อกเชนที่กำหนดเองเหล่านี้สร้างขึ้น
+บน Layer 0 ของ Kusama
 
 126
 00:08:38,720 --> 00:08:42,480
-meta-protocol,
-as we call it. Polkadot and Kusama will 
+เมต้าโปรโตคอล
+อย่างที่เราเรียกมัน Polkadot และ Kusama จะ
 
 127
 00:08:42,480 --> 00:08:46,080
-exist
-together and this pink dot in the middle 
+มีอยู่
+คู่กัน และจุดสีชมพูตรงกลาง
 
 128
 00:08:46,080 --> 00:08:49,120
-is meant to show you that these two
-networks will be bridged as soon as both 
+มีไว้เพื่อแสดงว่าสอง
+เครือข่ายจะถูกเชื่อมต่อทันทีที่ทั้งสอง
 
 129
 00:08:49,120 --> 00:08:52,080
-are live. So
-anything built on Kusama will be able to 
+เกิดขึ้นมา ดังนั้น
+อะไรก็ตามที่สร้างบน Kusama จะสามารถ
 
 130
 00:08:52,080 --> 00:08:55,600
-communicate with any
-parachain or application on Polkadot. 
+เชื่อมต่อกับ parachain ไหน
+หรือแอปพลิเคชันไหนก็ได้บน Polkadot
 
 131
 00:08:57,280 --> 00:09:00,320
-Kusama is slightly different than Polkadot
-in that 
+Kusama แตกต่างจาก Polkadot เล็กน้อย
 
 132
 00:09:00,320 --> 00:09:05,200
-one, it's faster and not in terms of
-transaction speed, but in terms of 
+มันจะเร็วกว่า และไม่ใช่ในแง่ของ
+ความเร็วการทำธุรกรรม แต่ในแง่ของ
 
 133
 00:09:05,200 --> 00:09:08,560
-how quickly you can get things done and
-approved through governance. So 
+ความสามารถในการทำสิ่งต่างๆได้เร็ว
+โดยรับรองจาก governance ดังนั้น
 
 134
 00:09:09,280 --> 00:09:13,760
-developers love Kusama because you can
-actually push code changes much quicker. 
+developer จะรัก Kusama เพราะว่าคุณสามารถ
+เขียนโค้ดได้เร็วกว่า
 
 135
 00:09:13,760 --> 00:09:16,400
-It takes seven days to upgrade Kusama
-versus 
+มันใช้เวลา 7 วันในการอัพเกรด Kusama
+เทียบกับ
 
 136
 00:09:17,120 --> 00:09:20,480
-28 days to get approvals through
-governance on Polkadot. 
+28 วัน เพื่อให้ได้รับการรับรองจาก
+governance บน Polkadot
 
 137
 00:09:21,520 --> 00:09:25,120
-Kusama is also what I like to call an
-innovation network, 
+Kusama หรือเรียกอีกอย่าง
+ว่า เครือข่ายนวัตกรรม(innovation network)
 
 138
 00:09:25,120 --> 00:09:28,240
-also sometimes called a canary network,
-but this is where 
+บางครั้งก็เรียก canary network
+เพราะมันเป็นที่
 
 139
 00:09:29,120 --> 00:09:32,080
-innovation will happen. You can test
-things on testnet 
+ที่เกิดนวัตกรรม คุณสามารถทดลอง
+บน testnet
 
 140
 00:09:32,960 --> 00:09:36,080
-and then bring them to Kusama,
-which is a real world environment 
+และนำมันเข้าสู่ Kusama
+ซึ่งเป็นสภาพแวดล้อมจริง
 
 141
 00:09:36,080 --> 00:09:40,640
-with real value, and on Kusama is where
-you really start to see how things work 
+ด้วยมูลค่าจริง และบน Kusama คือที่ที่
+คุณเริ่มเห็นว่าสิ่งต่างๆเกิดขึ้นได้
 
 142
 00:09:42,240 --> 00:09:46,160
-out in the wild. Just like Polkadot,
-Kusama is a proof-of-stake  
+อย่างไร เช่นเดียวกับ Polkadot
+Kusama เป็น เครือข่าย
 
 143
 00:09:46,160 --> 00:09:46,800
-network
-so 
+proof of stake
+ดังนั้น
 
 144
 00:09:47,600 --> 00:09:51,920
-the validators are running proof of
-stake and then you can also stake KSM to 
+validator จะรัน proof of
+stake หรือคุณสามารถเรียกว่าการ stake KSM
 
 145
 00:09:51,920 --> 00:09:55,200
-earn
-staking rewards as you hold KSM. 
+เพื่อรับ
+รางวัลการ staking เมื่อคุณถือ KSM
 
 146
 00:09:59,040 --> 00:10:02,320
-As I mentioned, where Polkadot and
-Kusama will be bridged, 
+ดังที่กล่าวมา ซึ่ง Polkadot และ
+Kusama จะ เชื่อมถึงกัน
 
 147
 00:10:03,200 --> 00:10:06,960
-we've used this strategy also in the way
-that we launched our network. So 
+เราได้ใช้กลยุทธ์นี้ไปในทางเดียวกับ
+ที่เราเปิดตัวเครือข่ายของเรา ดังนั้น
 
 148
 00:10:06,960 --> 00:10:10,640
-we're building Acala, which is
-the DeFi hub of Polkadot. 
+พวกเราสร้าง Acala ซึ่งเป็น
+ศูนย์รวม DeFi บน Polkadot
 
 149
 00:10:11,520 --> 00:10:15,520
-We are also building Karura, which is the
-DeFi hub of Kusama. 
+และเรากำลังสร้าง Karura ซึ่งเป็น
+ศูนย์รวม DeFi บน Kusama ด้วย
 
 150
 00:10:16,400 --> 00:10:21,280
-A lot of times people ask what will
-the future be for Karura once Akala 
+หลายครั้งมีคนถามว่า
+อนาคตของ karura จะเป็นอย่างไร เมื่อ acala
 
 151
 00:10:21,840 --> 00:10:26,320
-launches, the answer is that both Acala
-and Karura will be running in parallel 
+เปิดตัว คำตอบคือ ทั้ง acala และ
+karura จะดำเนินไปเป็นคู่ขนาน
 
 152
 00:10:26,320 --> 00:10:29,520
-together.
-Acala will make Karura better and Karura 
+ด้วกัน
+acala จะทำให้ karura ดีกว่าเดิม และ karura
 
 153
 00:10:29,520 --> 00:10:33,520
-will make Acala better,
-just like the relationship between 
+จะทำให้ acala ดีกว่าเดิมเช่นกัน
+เหมือนกับความสัมพันธ์ระหว่าง
 
 154
 00:10:33,520 --> 00:10:37,200
-Polkadot and Kusama will
-continue to operate in parallel together. 
+Polkadot และ Kusama จะ
+ดำเนินต่อไปด้วยกันเป็นคู่ขนาน
 
 155
 00:10:40,160 --> 00:10:44,320
-Acala and Karura were both founded by
-these four people on the slide. 
+Acala และ karura ทั้งคู่ก่อตั้งโดย
+4 คนนี้บนสไลด์
 
 156
 00:10:44,320 --> 00:10:50,400
-You've got Ruitao, our CEO, Bette
-our COO. I work with them quite a 
+มี Ruitao CEO ของเรา, Bette
+COO ของเรา ฉันทำงานกับพวกเขา
 
 157
 00:10:50,400 --> 00:10:52,480
-bit they're both more on the business
-side 
+มาบ้าง พวกเขาทั้งคู่อยู่ในด้านธุรกิจ
 
 158
 00:10:52,480 --> 00:10:55,760
-but both are also very technical
-engineering minds, 
+แต่ทั้งคู่มีหัวด้านวิศวกรรมอยู่มากเช่นกัน
 
 159
 00:10:56,320 --> 00:11:01,600
-product people with great experience
-not only in the blockchain world but 
+ผลิตภัณฑ์ที่ทำให้คนมีประสบการณ์ที่ดี
+ไม่ได้มีแค่โลกบล็อกเชน แต่
 
 160
 00:11:01,600 --> 00:11:06,000
-also in traditional product development.
-Then you've got Fuyao on the upper right. 
+ต้องมีการพัฒนาผลิตภัณฑ์แบบดั้งดิมด้วย
+ต่อไป คุณ Fuyao ด้านขวาบน
 
 161
 00:11:06,000 --> 00:11:08,960
-So Fuyao is
-leading and managing 
+Fuyao คือคนที่
+ชี้นำและจัดการ
 
 162
 00:11:08,960 --> 00:11:13,200
-everything in China, based in
-Shanghai. He's also the Founder and CEO 
+ทุกอย่างในประเทศจีน ฐานอยู่ที่
+เซี่ยงไฮ้ เขาเป็นผู้ร่วมก่อตั้งและ CEO
 
 163
 00:11:13,200 --> 00:11:14,080
-of Polkawallet 
+ของ Polkawallet ด้วย
 
 164
 00:11:14,880 --> 00:11:18,240
-and met up with the with Ruitao, Bette and
-Bryan 
+การพบกันของ Ruitao, Bette และ Bryan
 
 165
 00:11:18,240 --> 00:11:21,280
-I think about a couple years ago at a
-hackathon and the four of them created 
+ฉันคิดว่าเมื่อประมาณ 2-3 ปีที่แล้ว ที่
+งาน hackathon และทั้ง4คนนี้ก็ได้สร้าง
 
 166
 00:11:22,400 --> 00:11:27,120
-the networks Acala and Karura together.
-And then last but not least you've got 
+เครือข่ายที่ชื่อ Acala และ Karura ด้วยกัน
+สุดท้ายแต่ไม่ท้ายสุด
 
 167
 00:11:27,120 --> 00:11:31,360
-Bryan Chen. Bryan is one of the best
-substrate developers in the world. 
+Bryan Chen, Bryan คือหนึ่งใน
+Substrate developer ทื่เก่งที่สุดในโลก
 
 168
 00:11:31,360 --> 00:11:34,960
-He's our CTO and that leads all of our
-development. 
+เขาคือ CTO ของเรา และเป็นผู้นำด้านการ
+พัฒนาทั้งหมด
 
 169
 00:11:35,680 --> 00:11:40,160
-Bryan also founded and leads the
-Substrate Developer Academy 
+Bryan เป็นผู้ก่อตั้งและเป็นคนนำ
+Substrate Developer Academy
 
 170
 00:11:40,160 --> 00:11:44,720
-and continues to build and give
-back to the Substrate Community as he 
+และยังคงสร้างและตอบแทน
+กลับไปที่ Substrate Community ที่เขา
 
 171
 00:11:44,720 --> 00:11:45,440
-grows 
+โตมา
 
 172
 00:11:45,440 --> 00:11:48,720
-the number of developers who are
-building with the Substrate framework. 
+ที่รวม developer ที่สร้าง
+Substrate framework ขึ้นมา
 
 173
 00:11:50,720 --> 00:11:54,240
-Acala is backed by several top firms so
-Pantera, 
+Acala ได้รับการสนับสนุนจากบริษัทชั้นนำหลายแห่ง เช่น
+Pantera
 
 174
 00:11:54,800 --> 00:12:00,000
 coinbase Ventures, DCG,
-Polychain Capital, just to name a few, 
+Polychain Capital อยากพูดชื่อมากกว่านี้
 
 175
 00:12:00,560 --> 00:12:04,080
-Hypersphere from
-our friend Jack and several others on 
+Hypersphere จาก
+เพื่อนของเรา Jack และคนอื่นๆอีกหลายคน
 
 176
 00:12:04,080 --> 00:12:09,840
-the slide here and then
-many others as well. 
+บนสไลด์นี้ และ
+อีกหลายๆคนด้วย
 
 177
 00:12:10,480 --> 00:12:13,520
-So let's get into Acala and Karura.
-Acala is 
+เอาละ มาทำความรู้จักกับ Acala และ Karura กันเถอะ
+Acala คือ
 
 178
 00:12:14,720 --> 00:12:17,200
-two things: it's a platform for
-building 
+2 สิ่ง: มันคือแพล็ตฟอร์มสำหรับ
+สร้าง
 
 179
 00:12:17,200 --> 00:12:22,240
-applications on top of, as well as our
-own set of applications that we've built 
+แอปพลิเคชั่น เช่นเดียวกับ
+เซ็ตของแอปพลิเคชั่นเราเราที่เราสร้าง
 
 180
 00:12:22,240 --> 00:12:25,680
-on our blockchain.
-This is kind of a new category 
+บนบล็อกเชน
+นี่ดูเหมือนเป็นหมวดหมู่ใหม่
 
 181
 00:12:25,680 --> 00:12:27,920
-development that I haven't seen done
-before, 
+ของการพัฒนาที่เราไม่เคยทำมาก่อน
 
 182
 00:12:27,920 --> 00:12:32,000
-where our team is actually launching the
-blockchain itself a Layer 1 blockchain 
+ที่ทีมของเรากำลังเปิดตัว
+บล็อกเชนของตัวเอง บล็อกเชน layer 1
 
 183
 00:12:32,000 --> 00:12:33,040
-like Ethereum, 
+เหมือน Ethereum
 
 184
 00:12:33,040 --> 00:12:36,400
-while also launching applications on top
-of that chain. 
+ในขณะที่เปิดตัวแอปพลิเคชั่นบน chain ด้วย
 
 185
 00:12:37,040 --> 00:12:41,040
-Our decentralized exchange you could
-think of as similar to Uniswap, 
+เอ็กเชนจ์แบบกระจายอำนาจของเรา คุณสามารถ
+คิดว่ามันคล้ายกับ Uniswap
 
 186
 00:12:42,000 --> 00:12:46,800
-our borrowing market for the Acala Dollar
-and Karura dollar, you could think of as 
+ตลาดการกู้ยืมสำหรับ Acala Dollar
+และ Karura dollar คุณสามารถคิดว่า
 
 187
 00:12:46,800 --> 00:12:50,080
-similar to Maker
-and then we've got liquid staking as 
+มันคล้ายกับ Maker
+และเรามี ก่าร staking สภาพคล่อง
 
 188
 00:12:50,080 --> 00:12:53,440
-well. This is essentially like a Layer 1
-blockchain, 
+ด้วย นี่เป็นเหมือนบล็อกเชน layer 1
 
 189
 00:12:53,440 --> 00:12:57,920
-like Ethereum launching from day one
-with Maker and Uniswap on top, 
+เหมือน Ethereum ที่เปิดตัววันแรก
+และมี Maker กับ Uniswap บนนั้น
 
 190
 00:12:57,920 --> 00:13:01,520
-plus liquid staking. Very excited to
-get this out in 
+บวกกับมีระบบ staking สภาพคล่อง น่าตื่นเต้นมากๆ
+ที่จะรอคอยเมื่อสิ่งนี้
 
 191
 00:13:01,520 --> 00:13:05,840
-in live. This diagram helps illustrate
-what i just mentioned. 
+เกิดขึ้นมา แผนภาพนี้ช่วยอธิบาย
+สิ่งที่ฉันพึ่งพูดถึง
 
 192
 00:13:06,880 --> 00:13:12,080
-The Acala DEX, the liquid staking
-product and the aUSD stablecoin are 
+Acala DEX ผลิตภัณฑ์ staking สภาพคล่อง
+และ aUSD stablecoin นั้น
 
 193
 00:13:12,080 --> 00:13:17,280
-built into the Layer 1 blockchain
-itself and then on top of our blockchain 
+ถูกสร้างขึ้นมาบนบล็อกเชน Layer1
+อยู่แล้ว และเสริมด้วยบล็อกเชนของเรา
 
 194
 00:13:17,840 --> 00:13:21,680
-we've built front-end applications
-that leverage 
+เราสร้าง applications
+ที่สามารถ leverage
 
 195
 00:13:21,680 --> 00:13:26,400
-these DeFi primitives, as we call them,
-that are built into the blockchain. 
+พื้นฐาน DeFi เหล่านี้ ที่พวกเราเรียกมัน
+มันถูกสร้างเพื่อบล็อกเชน
 
 196
 00:13:27,680 --> 00:13:30,480
-When Acala launches,
-you'll not only be able to build 
+เมื่อ Acala เปิดตัว
+คุณจะไม่ใช่แค่สามารถสร้าง
 
 197
 00:13:30,480 --> 00:13:32,800
-applications on Acala, but you'll be
-able to use 
+application บน Acala เท่านั้น แต่คุณจะ
+สามารถใช้
 
 198
 00:13:32,800 --> 00:13:36,160
-all the applications that we've built
-ourselves. Then of course at the 
+แอปพลิเคชันทั้งหมดที่เราสร้างขึ้น
+และแน่นอนที่
 
 199
 00:13:36,160 --> 00:13:38,080
-bottom here you've got Polkadot, which
-is the 
+ด้านล่างนี้ จะมี Polkadot ซึ่ง
 
 200
 00:13:38,880 --> 00:13:42,160
-the multi-chain network kind
-of securing 
+เป็นเครือข่าย multi-chain ที่รักษาความปลอดภัยให้
 
 201
 00:13:42,160 --> 00:13:44,880
-Acala and providing cross-chain
-capability. 
+Acala และ ให้ความสามารถในการ cross-chain
 
 202
 00:13:46,800 --> 00:13:49,680
-These are the three products that I have just
-mentioned and then the fourth one I'll 
+นี่คือสามผลิตภัณฑ์ที่ฉันพึ่งกล่าวถึง
+และต่อไป อันที่4 ฉันจะ
 
 203
 00:13:49,680 --> 00:13:53,200
-just mention it very quickly.
-The Decentralized Sovereign Wealth Fund 
+พูดถึงมันเร็วๆ มันคือกองทุนความมั่งคั่งแบบกระจายอำนาจ
+(The Decentralized Sovereign Wealth Fund)
 
 204
 00:13:54,080 --> 00:13:57,280
-or our treasury
-will be built up over time in order 
+หรือคลังของเรา
+จะถูกสร้างขึ้นเมื่อเวลาผ่านไปตามลำดับ
 
 205
 00:13:57,280 --> 00:14:01,440
-to help create
-self-sustainability for Acala and for 
+เพื่อช่วยสร้าง
+ความยั่งยืนในตนเองสำหรับ Acala และสำหรับ
 
 206
 00:14:01,440 --> 00:14:05,840
-Karura.
-In Acala's case, we hope to build up this 
+Karura
+ในกรณีของ Acala เราหวังวที่จะสร้าง
 
 207
 00:14:05,840 --> 00:14:08,960
-Decentralized Sovereign Wealth Fund
-enough so that in the future, 
+กองทุนความมั่งคั่งแบบกระจายอำนาจ
+ให้เพียงพอในอนาคต
 
 208
 00:14:08,960 --> 00:14:13,280
