@@ -266,141 +266,138 @@ Dai ด้วยการค้ำประกัน
 
 57
 00:03:52,720 --> 00:03:55,600
-pool, hosted by a compound. 
+โดยมีตัวกลางคือ Compound
 
 58
 00:03:57,120 --> 00:04:00,560
-Stable coins is another important aspect
-of DeFi where you've got 
+Stablecoin เป็นอีกหนึ่งสิ่งที่สำคัญสำหรับ
+DeFi ซึ่งมี
 
 59
 00:04:00,560 --> 00:04:04,000
-four primary types of stable coins.
-You've got 
+4 แบบหลักๆ
+จะมี
 
 60
 00:04:04,000 --> 00:04:08,080
-prominent names like USDC, which is
-kind of a coinbase 
+ชื่อดังอย่าง USDC ทีเป็น
+เหรียญของ coinbase
 
 61
 00:04:08,080 --> 00:04:13,120
-token which is fiat collateralized so
-you've got actual US Dollars in a bank 
+ซึ่งมีการค้ำประกันด้วยเงิน fiat
+ดังนั้นมีจะเหมือนมีเงิน US dollar ในธนาคาร
 
 62
 00:04:13,680 --> 00:04:16,960
-backing every USDC token that is issued
-into the market. 
+แบ็คหลังทุกๆเหรียญ USDC นั่นจะนำปัญหา
+มาสู่ตลาด
 
 63
 00:04:17,600 --> 00:04:20,880
-And then the third one here you can see
-crypto collateralized. So these are 
+และอันที่สามนี่ คุณสามาถเห็นว่า
+เป็นคริปโตที่มีการค้ำประกัน ดังนั้นมัน
 
 64
 00:04:22,320 --> 00:04:25,280
-kind of algorithmic crypto back
-stable coins. 
+เป็นชนิดเหรียญที่มี algorithmic แบ็คหลัง
+stablecoin
 
 65
 00:04:26,160 --> 00:04:29,760
-MakerDAO DAI is the most prominent
-example of this, 
+MakerDAO DAI คือตัวอย่างที่ดีที่สุด
+สำหรับการอธิบาย
 
 66
 00:04:30,480 --> 00:04:34,240
-and Acala and Karura are both building
-our own stablecoin. So we've got the 
+Acala และ Karura ทั้งคู่ สร้างเหรียญ
+stablecoin เป็นของตัวเอง ดังนั้นจะมี
 
 67
 00:04:34,240 --> 00:04:37,360
-Acala dollar aUSD, as you can see here on
-the slide, 
+aUSD เงินดอลลาร์ของ Acala โดยคุณจะเห็นบน
+สไลด์นี้
 
 68
 00:04:37,360 --> 00:04:41,200
-and then kUSD for our sister
-network 
+และ kUSD สำหรับเครือข่ายลูกอย่าง
 
 69
 00:04:41,200 --> 00:04:46,480
-Karura, which is the Korea Dollar.
-One example here value is a team 
+Karura  ซึ่งเป็นดอลลาร์เกาหลี
+อีกหนึ่งมูลค่าตัวอย่างที่
 
 70
 00:04:46,480 --> 00:04:50,080
-building out of Colombia.
-They're actually building with Substrate 
+ขึ้นที่ Colombia
+พวกเขาสร้างมันด้วย Substrate
 
 71
 00:04:50,080 --> 00:04:53,520
-technology, same as
-Acala's building with, and they have 
+เทคโนโลยี เหมือนกับ
+ที่สร้าง Acala และพวกเขามี
 
 72
 00:04:54,240 --> 00:04:59,600
-proven a really cool example of a stable
-coin being used in the real world. So, 
+การพิสูจน์แล้วว่าเป็นตัวอย่างที่ยอดเยี่ยมของ
+stablecoin ที่ใช้ในโลกแห่งความเป็นจริง ดังนั้น
 
 73
 00:04:59,600 --> 00:05:02,640
-they've got a lot of people in Colombia
-who need to send money home to their 
+พวกเขามีคน Columbia จำนวนมาก
+ที่ต้องการส่งเงินจากที่บ้านไปสู่
 
 74
 00:05:02,640 --> 00:05:05,600
-family and friends in Venezuela
-and they've sent over 8 million 
+ครอบครัวและเพื่อนใน Venezuela
+และพวกเขาส่งมันมากกว่า 8 ล้าน
 
 75
 00:05:05,600 --> 00:05:09,840
-dollars home using the value application,
-using stable coins. 
+ดอลลาร์ โดยใช้ แอปพลิเคชันที่ใช้
+เหรียญ stablecoin
 
 76
 00:05:14,480 --> 00:05:18,000
-Uniswap is another primary example of a 
+Uniswap เป็นอีกหนึ่งตัวอย่างสำคัญ
 
 77
 00:05:18,000 --> 00:05:21,440
-major DeFi protocol
-on Ethereum, 
+ของเมเจอร์โปรโตคอล DeFi
+บน Ethereum
 
 78
 00:05:22,320 --> 00:05:25,360
-which is a what's called an automated
-market maker 
+ซึ่งมันถูกเรียกว่า automated
+market maker
 
 79
 00:05:25,360 --> 00:05:30,320
-decentralized exchange. So this is a
-simple swap from one token to another 
+เอ็กเชนจ์แบบกระจายอำนาจ ซึ่งมัน
+เป็นการ swap ธรรมดา จาก token นึงไปเป็นอันอื่น
 
 80
 00:05:30,320 --> 00:05:33,920
-and the way that's made possible is
-because on the back end there's people 
+และทางที่ทำให้มันเป็นขึ้นมาได้คือ
+ในเบื้องหลังมีผู้คน
 
 81
 00:05:33,920 --> 00:05:36,560
-providing liquidity to every pair on
-Uniswap. 
+ได้เพิ่มสภาพคล่องไปทุกๆคู่บน
+Uniswap
 
 82
 00:05:37,440 --> 00:05:40,640
-In return for providing liquidity to
-that pair, 
+ในทางกลับกัน การให้สภาพคล่องไปที่คู่เหรียญ
 
 83
 00:05:40,640 --> 00:05:45,760
-they actually earn LP tokens and earn
-rewards on these liquidity provider 
+พวกเขาจะได้รับ LP token และได้รับ
+รางวัลจากการเป็นผู้ให้สภาพคล่อง
 
 84
 00:05:45,760 --> 00:05:50,160
-tokens. So now that we have some
-background in 
+ดังนั้นเรามีเบื้องหลัง
 
 85
 00:05:50,160 --> 00:05:55,840
