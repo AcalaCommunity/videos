@@ -531,27 +531,27 @@ Ethereum เราเพิ่มประสิทธิภาพมัน
 112
 00:07:39,280 --> 00:07:43,120
 เครือข่ายที่มีอยู่ของบล็อกเชนอื่นๆ
-ที่เราสามารถติดต่อได้
+ที่เราสามารถเข้าถึง
 
 113
 00:07:43,120 --> 00:07:48,080
-value and data with and also, potentially
-even more importantly, the security of 
+มูลค่าและข้อมูล และด้วยศักยภาพ
+ที่สำคัญกว่านั้น ความระบบปลอดภัย
 
 114
 00:07:48,080 --> 00:07:53,360
-Polkadot. So, Polkadot is now
-a 40 plus billion dollar network, so all 
+ของ Polkadot ตอนนี้ Polkadot เป็นเครือข่ายที่
+มีมูลค่ากว่า 4หมื่นล้าน dollar โดยมูลค่า
 
 115
 00:07:53,360 --> 00:07:56,960
-of that value
-is held within these validator nodes 
+ทั้งหมดนั้น
+ถูกเก็บไว้ภายใน validator node เหล่านี้
 
 116
 00:07:56,960 --> 00:07:59,040
-and all those validators are able to
-help 
+และ validator ทั้งหมดเหล่านั้นสามารถ
+ช่วย
 
 117
 00:08:00,640 --> 00:08:03,680
