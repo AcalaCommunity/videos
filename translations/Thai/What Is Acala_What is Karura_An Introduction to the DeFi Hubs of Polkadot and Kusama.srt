@@ -401,82 +401,78 @@ Uniswap
 
 85
 00:05:50,160 --> 00:05:55,840
-in DeFi and in that whole ecosystem,
-prominent examples of Ethereum DeFi, let's 
+ใน DeFi และในระบบนิเวศน์ทั้งหมด,
+ตัวอย่างที่เด่นชัดของ Ethereum DeFi
 
 86
 00:05:55,840 --> 00:05:59,360
-move on to
-Polkadot and why Polkadot was created. 
+เราจะย้ายไปพูดถึง
+Polkadot และ ทำไม Polkadot ถึงถูกสร้างขึ้น
 
 87
 00:06:00,480 --> 00:06:04,560
-So the person who invented the Ethereum
-virtual machine 
+ดังนั้นคนที่คิดค้น Ethereum virtual machine
 
 88
 00:06:04,560 --> 00:06:08,160
-and the person who created the Solidity
-programming language itself, 
+และคนที่สร้างภาษาโปรแกรมมิ่ง Solidity
 
 89
 00:06:10,000 --> 00:06:14,400
-he, being Gavin Wood, realized
-very early on that Ethereum was not 
+เขาคือ Gavin Wood ผู้รับรู้
+ว่า Ethereum จะไม่สามารถ
 
 90
 00:06:14,400 --> 00:06:16,320
-going to scale, it wasn't going to work
-and 
+ขยายได้มากกว่านี้
 
 91
 00:06:17,280 --> 00:06:22,080
-fast forward to now 2021 he was right:
-look at the gas fees on Ethereum. 
+ข้ามมาปัจจุบันปี 2021 เขาพูดถูก
+ดูที่ค่าธรรมเนียม Gas บน Ethereum
 
 92
 00:06:22,080 --> 00:06:26,000
-Ethereum can't scale. Everyone's waiting
-on Ethereum 2.0, 
+Ethereum ไม่สามารถขยายสเกลได้ ทุกคนต่างรอ
+Ethereum 2.0
 
 93
 00:06:26,000 --> 00:06:29,520
-which is going to take years to deliver.
-So in the meantime Gavin, 
+ซึ่งจะใช้เวลาเป็นปีในการสร้าง
+ในขณะเดียวกัน Gavin
 
 94
 00:06:30,080 --> 00:06:34,320
-Robert Habermeier and Peter Czaban
-co-founded Polkadot. 
+Robert Habermeiner และ Peter Czaban
+ผู้ร่วมก่อตั้ง Polkadot
 
 95
 00:06:34,320 --> 00:06:38,160
-They also built Kusama, the kind of
-wild cousin network to 
+พวกได้สร้าง Kusama ซึ่งเป็นเหมือน
+เครือข่ายญาติของ
 
 96
 00:06:38,160 --> 00:06:42,960
-Polkadot, which I'll get into next. Gavin
-created polkadot because there was this 
+Polkadot ซึ่งจะพูดทีหลัง Gavin
+สร้าง Polkadot เพื่อ
 
 97
 00:06:42,960 --> 00:06:43,520
-need to 
+ต้องการ
 
 98
 00:06:44,080 --> 00:06:47,360
-create a multi-chain ecosystem versus
-these individual 
+สร้างระบบนิเวศน์แบบ multi-chain เพื่อสู้กับ
+บล็อคเชน
 
 99
 00:06:47,360 --> 00:06:50,560
-isolated blockchains like Bitcoin and
-like Ethereum. 
+แบบเดี่ยวๆ อย่างเช่น Bitcoin และ
+Ethereum
 
 100
 00:06:52,000 --> 00:06:57,200
-There was also a need to add
-customization to blockchain building. 
+มีสิ่งที่ต้องปรับแต่งเพิ่มเติมสำหรับการสร้างบล็อคเชน
 
 101
 00:06:58,400 --> 00:07:02,400
