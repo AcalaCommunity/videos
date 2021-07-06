@@ -486,53 +486,52 @@ Ethereum
 
 103
 00:07:05,760 --> 00:07:10,560
-optimized for any specific purpose.
-With Substrate, which is the framework 
+ไม่ได้ถูกเพิ่มประสิทธิภาพให้เหมาะสม
+กับ Substrate ซึ่งคือเฟรมเวิร์ค
 
 104
 00:07:10,560 --> 00:07:13,920
-that Gavin created for building on Polkadot
-and Kusama, 
+ที่ Gavin สร้างเพื่อสร้าง Polkadot
+และ Kusama
 
 105
 00:07:14,720 --> 00:07:18,240
-with Substrate we can actually custombuild
-blockchains and 
+ด้วย Substrate เราสามารถกำหนดการสร้าง
+บล็อกเชนเองได้ และ
 
 106
 00:07:18,240 --> 00:07:20,800
-and alter the blockchain at the core
-level 
+และดัดแปลง blockchain ที่ core level ได้
 
 107
 00:07:21,360 --> 00:07:25,040
-for a specific use. So in Acala and Karura
-case we have 
+แบบเฉพาะเจาะจง ดังนั้นเคสของ Acala และ Karura
+เราสามารถ
 
 108
 00:07:25,040 --> 00:07:28,160
-optimized the core of our blockchain
-platform, 
+เพิ่มประสิทธิภาพ core ของแพล็ตฟอร์มบล็อกเชน
+ของเรา
 
 109
 00:07:28,160 --> 00:07:32,000
-which is a layer one equivalent to
-Ethereum, we've optimized that 
+ซึ่งเท่ากับ layer 1 ของ
+Ethereum เราเพิ่มประสิทธิภาพมัน
 
 110
 00:07:32,000 --> 00:07:36,160
-for DeFi specifically. When we
-launch 
+สำหรับ DeFi โดยเฉพาะ เมื่อเรา
+เปิดตัว
 
 111
 00:07:36,160 --> 00:07:39,280
-on Acala and on Polkadot, we'll be plugging
-into this 
+บน Acala และ บน Polkadot เราจะเชื่อมต่อ
+เข้าสู่
 
 112
 00:07:39,280 --> 00:07:43,120
-existing network of other blockchains
-that we can communicate 
+เครือข่ายที่มีอยู่ของบล็อกเชนอื่นๆ
+ที่เราสามารถติดต่อได้
 
 113
 00:07:43,120 --> 00:07:48,080
