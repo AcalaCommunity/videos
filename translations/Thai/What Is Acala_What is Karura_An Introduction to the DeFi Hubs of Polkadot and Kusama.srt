@@ -476,13 +476,13 @@ Ethereum
 
 101
 00:06:58,400 --> 00:07:02,400
-Platforms like Ethereum are this let's
-call it a layer-one blockchain but 
+แพลตฟอร์มเช่น Ethereum นั้น
+เราจะเรียกว่าเป็นบล็อกเชน Layer หนึ่ง แต่
 
 102
 00:07:02,400 --> 00:07:05,760
-they're trying to do everything with
-just one chain. It wasn't customized nor 
+พวกเขาพยายามจะทำให้ทุกอย่างอยู่
+ในหนึ่ง chain มันไม่ได้ถูกกำหนดและ
 
 103
 00:07:05,760 --> 00:07:10,560
