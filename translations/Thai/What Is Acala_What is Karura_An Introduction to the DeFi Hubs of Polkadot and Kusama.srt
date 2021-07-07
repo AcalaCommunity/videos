@@ -1334,67 +1334,63 @@ Karura apps ถูก
 
 279
 00:19:19,840 --> 00:19:22,240
-On the last slide what I showed you up
-here, 
+สไลด์สุดท้ายที่ฉันโชว์อยู่ตอนนี้
 
 280
 00:19:23,280 --> 00:19:32,800
-these apps look like this:
-this would be like creating a loan on 
+โดนแอพจะอยู่ลักษณะนี้:
+โดยจะเหมือนกับการสร้างเงินกู้
 
 281
 00:19:32,800 --> 00:19:38,160
-the left you could go and do a swap,
-do your liquid staking. This will all 
+ด้านซ้ายคุณสามาถไป swap, staking สภาพคล่อง
+ซึ่งพร้อมสำหรับวันที่เปิดตัว Kusama
 
 282
 00:19:38,160 --> 00:19:40,800
-be ready
-the day we launch on Kusama. 
+จงพร้อม
+สำหรับวันเปิดตัว Kusama
 
 283
 00:19:43,520 --> 00:19:47,760
-Just to reiterate, Kusama and
-Polkadot will be bridged and 
+ขอย้ำว่า kusama และ
+Polkadot จะเชื่อมกัน
 
 284
 00:19:47,760 --> 00:19:49,680
-and Karura and Acala will continue to 
+และ Karura กับ Acala จะดำเนินต่อไป
 
 285
 00:19:49,680 --> 00:19:52,000
-operate together even after Acala
-launches. 
+ด้วยกันหลังจาก Acala เปิดตัว
 
 286
 00:19:52,560 --> 00:19:56,880
-After Acala launches, we will be
-operating two networks in parallel 
+หลังจาก Acala เปิดตัว เราจะ
+ดำเนินสองเครือข่ายเป็นคู่ขนาน
 
 287
 00:19:56,880 --> 00:19:59,280
-and those will continue to operate
-together. 
+และมันจะดำเนินการไปด้วยกัน
 
 288
 00:20:02,000 --> 00:20:06,000
-The distribution of the KAR supply looks
-like this: 
+การกระจายเหรียญ KAR จะเป็นดังนี้:
 
 289
 00:20:06,000 --> 00:20:10,160
-so we reduced the amount of tokens going
-to the founding team and and shifted 
+เราลดจำนวนเหรียญให้กับ
+ทีมก่อตั้งและย้ายมัน
 
 290
 00:20:10,160 --> 00:20:13,520
-that to the community.
-We've also got some backers and early 
+ไปสู่ community
+เรายังมีผู้สนับสนุนบางส่วนและผู้สนับสนุน
 
 291
 00:20:13,520 --> 00:20:16,640
-backers from
-when we first started the project and 
+ก่อนหน้าตั้งแต่
+ที่เราเริ่มต้นโปรเจ็คและ
 
 292
 00:20:16,640 --> 00:20:18,400
