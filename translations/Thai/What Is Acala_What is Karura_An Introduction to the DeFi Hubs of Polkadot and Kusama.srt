@@ -1300,23 +1300,23 @@ Karura คือแพล็ตฟอร์มแบบเดียวกับ 
 
 272
 00:18:45,680 --> 00:18:51,680
-Karura. Karura will be launching on Kusama
-and this Layer 1 blockchain will have 
+Karura. Karura จะเปิดตัวบน Kusama
+และบล็อกเชน layer 1 จะมี
 
 273
 00:18:51,680 --> 00:18:57,120
-the same DeFi primitives as Acala does.
-In this case the Karura DEX, the liquid 
+พื้นฐาน DeFi แบบเดียวกับที่ Acala ทำ
+ในกรณีของ Karura DEX, การ staking
 
 274
 00:18:57,120 --> 00:19:01,600
-staking for KSM,
-instead of for DOT on Acala, and then the 
+สภาพคล่องให้ KSM
+แม้ว่า DOT จะอยู่บน Acala และมี
 
 275
 00:19:01,600 --> 00:19:07,200
-Karura dollar kUSD as the stable coin.
-The Karura apps that 
+Karura โดยมี kUSD เป็น stablecoin
+Karura apps ถูก
 
 276
 00:19:07,200 --> 00:19:10,000
