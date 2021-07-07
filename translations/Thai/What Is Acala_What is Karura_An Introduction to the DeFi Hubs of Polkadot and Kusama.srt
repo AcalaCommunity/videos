@@ -1201,28 +1201,27 @@ aUSD ออก และใช้เพื่อ
 
 251
 00:17:16,080 --> 00:17:21,040
-The Acala DEX looks
-some looks like this: so there will be 
+Acala DEX จะเป็น
+ลักษณะนี้: มันจะมี
 
 252
 00:17:21,840 --> 00:17:24,320
-trading pairs that you can trade, so in
-this example it's Acala 
+คู่เทรดที่คุณสามาถเทรด ใน
+ตัวอย่างนี้ มันคือ Acala
 
 253
 00:17:24,880 --> 00:17:30,720
-ACA, an aUSD stablecoin,
-and the way this is is enabled is 
+ACA, aUSD stablecoin,
+ที่เปิดใช้งานอยู่
 
 254
 00:17:30,720 --> 00:17:33,600
-because on the back end there's a whole
-pool of liquidity where people are 
+เพราะว่าเบื้องหลังมีพูลของ
+สภาพคล่องที่ผู้คน
 
 255
 00:17:33,600 --> 00:17:36,800
-earning rewards for providing liquidity
-to certain pairs. 
+มารับรางวัลสำหรับการเติมสภาพคล่องของคู่เหรียญ
 
 256
 00:17:38,320 --> 00:17:42,880
