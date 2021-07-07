@@ -1243,62 +1243,60 @@ ACA, aUSD stablecoin,
 
 260
 00:17:53,040 --> 00:17:58,800
-use cases for ACA, but at its most basic
-level, ACA is the governance token for 
+เหล่านี้สำหรับ ACA มันค่อนข้างพื้นฐาน
+ACA เป็นเหรียญ GOV ของ
 
 261
 00:17:58,800 --> 00:17:59,600
-Acala 
+Acala
 
 262
 00:17:59,600 --> 00:18:03,040
-and will be used for processing all the
-transaction fees on the network. 
+และจะถูกใช้สำหรับการประมวลผลทั้งหมดของ
+ค่าธรรมเนียมการทำธุรกรรมบนเครือข่าย
 
 263
 00:18:05,760 --> 00:18:14,560
-Now let's get into Karura.
-Karura is a platform just like Acala, 
+มาพูดกันที่ Karura กันบ้าง
+Karura คือแพล็ตฟอร์มแบบเดียวกับ Acala
 
 264
 00:18:14,560 --> 00:18:17,440
-a blockchain platform and a set of
-applications 
+แพล็ตฟอร์มบล็อกเชนและมีแอปพลิเคชั่น
 
 265
 00:18:18,880 --> 00:18:24,320
-all optimized for innovation
-and experimentation on Kusama. This is 
+ที่สร้างเพื่อเพิ่มประสิทธิภาพสำหรับนวัตกรรม
+และประสบการณ์ที่ดีบน Kusama นี่คือ
 
 266
 00:18:24,320 --> 00:18:27,120
-going to be a really fun
-network to be involved in because 
+เครือข่ายที่น่าสนุกที่จะ
+มีส่วนร่วมเพราะ
 
 267
 00:18:27,120 --> 00:18:29,520
-there's going to be a lot of new
-products launching here, 
+มีโปรดัคมากมายที่จะ
+เปิดตัวที่นี่
 
 268
 00:18:29,520 --> 00:18:32,240
-trying out new risk parameters, new
-features 
+สามารถลองใช้พารามิเตอร์เสี่ยงๆ
+ฟีเจอร์ใหม่ๆ
 
 269
 00:18:33,200 --> 00:18:36,720
-that will go to Karura and then, if proven,
-we'll move on to Acala. 
+นั่นทำได้บน Karura และเมื่อมันถูกพิสูจน์ว่าใช้งานได้
+เราจะย้ายมันไปสู่ Acala
 
 270
 00:18:39,920 --> 00:18:41,680
-We will be launching this
-first 
+เราจะเปิดตัวสิ่งนี้
 
 271
 00:18:41,680 --> 00:18:45,680
-on Kusama and the upcoming parachain
-auction is all about 
+บน Kusamaก่อน และการประมูล parachain
+ที่กำลังจะมาทั้งหมดเกี่ยวกับ
 
 272
 00:18:45,680 --> 00:18:51,680
