@@ -1394,92 +1394,87 @@ Polkadot จะเชื่อมกัน
 
 292
 00:20:16,640 --> 00:20:18,400
-then, when you break down the community
-side, 
+เมื่อคุณเข้าใจเกี่ยวกับ community แล้ว
 
 293
 00:20:19,440 --> 00:20:21,920
-we have auction rewards for the
-parachain auction 
+เราจะไปต่อที่รางวัลการประมูล ของการ
+ประมูล parachain
 
 294
 00:20:22,560 --> 00:20:24,720
-and liquidity program, which I'll walk
-through next, 
+และโปรแกรมของ สภาพคล่อง ที่ฉันกำลังจะ
+พูดถึง
 
 295
 00:20:25,920 --> 00:20:29,280
-some ecosystem development and some
-rewards that are 
+บางการพัฒนาระบบนิเวศน์และรางวัล โดยปกติ
 
 296
 00:20:29,280 --> 00:20:31,680
-being kind of reserved, as well as
-treasury 
+จะถูกสงวนไว้ เช่นเดียวกับ
+การจัดสรร
 
 297
 00:20:32,320 --> 00:20:38,800
-allocation to keep in the Karura treasury for
-the development of the network. Same 
+เงินคลัง เพื่อรักษา คลังใน Karura สำหรับ
+การพัฒนาเครือข่าย เหมือนกับ
 
 298
 00:20:38,800 --> 00:20:43,520
-token utility for Karura as Acala. This
-will be used for transaction fees and 
+การใช้งานเหรียญสำหรับ Karura กับ Acala
+โดยจะถูกใช้เพื่อค่าธรรมเนียมการทำธุรกรรมและ
 
 299
 00:20:43,520 --> 00:20:47,440
-governance of the network as well as
-several other different use cases like 
+การกำกับดูแลเครือข่ายตลอดจน
+กรณีการใช้งานอื่นๆอีกหลายกรณีเช่น
 
 300
 00:20:47,440 --> 00:20:50,400
-deploying smart contracts and other
-use cases. 
+การปรับใช้ smart contract และ
+กรณีอื่นๆ
 
 301
 00:20:53,680 --> 00:20:59,440
-How do we launch on Kusama?
-We need to win an auction against 
+เราเปิดตัว Kusama อย่างไร?
+เราต้องการจะชนะการโดยต้องเจอกับ
 
 302
 00:21:00,400 --> 00:21:04,160
-other pairchain teams in order to
-launch in this 
+ทีม parachain อื่นๆ ที่ต้องการเปิดตัว
 
 303
 00:21:04,160 --> 00:21:08,000
-slot here on Kusama. That process
-looks like this. 
+บน slot นี้ของ Kusama การดำเนินเป็นแบบนี้
 
 304
 00:21:10,880 --> 00:21:15,200
-What you can see here, where this
-trophy, is this is the the biggest event, 
+คุณสามารถดูที่นี่ ถ้วยรางวัล,
+นี้เป็นงานอีเวนท์ที่ยิ่งใหญ่ที่สุด
 
 305
 00:21:15,200 --> 00:21:16,240
-from here 
+จากตรงนี้
 
 306
 00:21:16,240 --> 00:21:19,520
-to here. This is the parachain auction,
-where we 
+ถึงนี้ นี่คือการประมูล parachain
+ที่ซึ่ง
 
 307
 00:21:19,520 --> 00:21:22,400
-and other teams are bidding against each
-other in an auction 
+ทีมต่างๆพยายามจะ bid แข่งกับทีมอื่นในการประมูล
 
 308
 00:21:23,360 --> 00:21:29,200
-to try to win this first slot on Kusama.
-The goal for the Karura team is absolutely 
+เพื่อที่จะชนะ slot แรกบน Kusama
+เป้าหมายของ Karura แน่นอนว่า
 
 309
 00:21:29,200 --> 00:21:31,840
-to win
-the auction number one. 
+คือการชนะ
+เป็นที่หนึ่งของการประมูล
 
 310
 00:21:31,840 --> 00:21:34,080
