@@ -1478,73 +1478,70 @@ Polkadot จะเชื่อมกัน
 
 310
 00:21:31,840 --> 00:21:34,080
-We want to be the first team to launch on
-Kusama. 
+พวกเราต้องการเป็นทีมแรกที่เปิดตัวบน
+Kusama
 
 311
 00:21:34,880 --> 00:21:38,000
-Before the auction starts, there will
-also be this thing called a crowdloan 
+ก่อนที่การประมูลจะเริ่ม มีอีก
+อย่างหนึ่งเรียกว่า crowdloan
 
 312
 00:21:38,000 --> 00:21:40,800
-that opens.
-A crowdloan is actually how the 
+ที่เปิดขึ้นมา
+จริงๆแล้ว crowdloan เป็นวิธีที่
 
 313
 00:21:40,800 --> 00:21:43,840
-community can contribute KSM as you see
-here 
+community สามาถสนับสนุน KSM ได้ตามที่คุณเห็น
+ที่นี่
 
 314
 00:21:44,640 --> 00:21:48,080
-to our crowdloan, so that we can use all
-the KSM 
+สำหรับ crowdloan เราสามารถใช้ KSM ทั้งหมด
 
 315
 00:21:49,360 --> 00:21:51,360
-that we have in our crowdloan as our
-bid 
+ที่เรามีใน crowdloan เพื่อ bid
 
 316
 00:21:52,480 --> 00:21:55,840
-in the auction. When we win the
-auction, 
+ในการประมูล เมื่อเราชนะ
+การประมูล
 
 317
 00:21:55,840 --> 00:22:00,800
-Karura will then launch on Kusama and
-when that happens all the KSM that was 
+Karura จะ เปิดตัวบน Kusama และ
+เมื่อมันเกิดขึ้น KSM ทั้งหมดที่
 
 318
 00:22:00,800 --> 00:22:04,720
-contributed back here
-to the crowdloan will be locked in the 
+ถูกลงทุนไป จะกลับมาสู่
+crowdloan และจะถูกล็อคใน
 
 319
 00:22:04,720 --> 00:22:08,720
 Kusama
-relaychain. It will not be touched, it 
+relay chain มันจะไม่ถูกแตะต้อง มัน
 
 320
 00:22:08,720 --> 00:22:13,040
-can't be touched by the team at all.
-And then at the same time the native 
+ทีมจะไม่สามารถมายุ่งกับมันได้
+และในเวลาเดียวกัน
 
 321
 00:22:13,040 --> 00:22:18,240
-token of Karura will be issued
-to all the contributors at a 12 to 1 
+เหรียญของ Karura จะถูกส่งออก
+ไปที่ผู้ที่ลงทุนในเรท 12 ต่อ 1
 
 322
 00:22:18,240 --> 00:22:22,720
-minimum
-ratio. KAR gets distributed to everyone 
+เป็นอย่างน้อย
+KAR จะถูกแจกจ่ายไปให้ทุกคน
 
 323
 00:22:22,720 --> 00:22:26,000
-who contributed KSM and then Karura would
-launch, 
+ที่ลงเงิน KSM และเมื่อ Karura เปิดตัว
 
 324
 00:22:26,000 --> 00:22:29,120
