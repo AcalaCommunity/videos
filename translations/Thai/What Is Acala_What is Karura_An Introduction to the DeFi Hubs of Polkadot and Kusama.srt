@@ -1545,152 +1545,147 @@ KAR จะถูกแจกจ่ายไปให้ทุกคน
 
 324
 00:22:26,000 --> 00:22:29,120
-all the DeFi applications would be live
-and we would be 
+แอปพลิเคชัน DeFi ทั้งหมดจะทำงาน
+ซึ่งเป็น
 
 325
 00:22:29,120 --> 00:22:33,200
-kind of in business. At the end
-of the 48-week slot, 
+วิธีการทำงาน หลังจากจบ
+48 สัปดาห์
 
 326
 00:22:34,080 --> 00:22:38,080
-all the KSM that was contributed by
-anyone who 
+KSM ทั้งหมดที่ได้รับการสนับสนุน
+จากใครก็ตามที่
 
 327
 00:22:38,080 --> 00:22:40,880
-participated in the crowdloan would then be
-returned to them. 
+มีส่วนร่วมใน crowdloan จะได้
+รับกลับคืน
 
 328
 00:22:43,040 --> 00:22:45,920
-This is what the Karura crowdloan will
-look like. 
+นี่คือสิ่งที่ Karura crodloan
+เป็น
 
 329
 00:22:45,920 --> 00:22:50,640
-We will start with a minimum of 12 KAR
-for every 1 KSM. 
+เราจะเริ่มที่ 12 KAR
+สำหรับทุกๆ 1 KSM เป็นอย่างน้อย
 
 330
 00:22:51,360 --> 00:22:54,560
-This is the reward that everyone who
-contributes KSM in the  
+นี่คือรางวัลสำหรับทุกคนที่
+สนับสนุน KSM ใน
 
 331
 00:22:54,560 --> 00:22:55,440
-crowdloan would
-get 
+crowdloan จะได้รับ
+
 
 332
 00:22:56,000 --> 00:23:01,120
-in KAR. So depending on the participation,
-the amount of KAR could be much higher 
+KAR ดังนั้นขึ้นอยู่กับการมีส่วนร่วม
+จำนวน KAR ที่ได้รับสามารถมาก
+
 
 333
 00:23:01,120 --> 00:23:03,440
-than 12 but this is just the baseline
-that we've set. 
+กว่า 12 แต่นี่คือขั้นต่ำ
+ที่พวกเราตั้งไว้
 
 334
 00:23:05,840 --> 00:23:07,680
-Down here you can see the
-30%. 
+ข้างล่างนี่คุณจะเห็น
+30%
 
 335
 00:23:08,960 --> 00:23:12,400
-What this is referring to is that 30%
-of the tokens, that are 
+ซึ่งสิ่งนี้หมายความว่า 30%
+ของโทเค็นนี้ 
 
 336
 00:23:12,400 --> 00:23:17,360
-distributed to contributors, will be
-liquid when the network launches, the 
+ถูกแจกจ่าย ผู้สนับสนุน
+จะเป็นสภาพคล่องของเครือข่ายที่เปิดตัว
 
 337
 00:23:17,360 --> 00:23:22,400
-other 70% will then
-will then vest over the remainder of 
+ส่วนอีก 70%
+จะปล่อยให้ส่วนที่เหลือ
 
 338
 00:23:22,400 --> 00:23:25,760
-the 48 weeks, so gradually
-every day. 
+ใน 48 สัปดาห์ ทุกๆวัน
 
 339
 00:23:30,960 --> 00:23:33,360
-Now, in terms of the liquidity mining
-program, 
+ตอนนี้ ในแง่ของโปรแกรม mining สภาพคล่อง
 
 340
 00:23:34,160 --> 00:23:37,840
-another thing that I'm really
-excited to get started, so 19% 
+อีกอย่างที่ฉันตื่นเต้น
+ที่จะเริ่มจริงๆ 19%
 
 341
 00:23:37,840 --> 00:23:41,040
-of the first year's circulating supply
-of KAR 
+ของจำนวน KAR ที่หมุนเวียนในปีแรก
 
 342
 00:23:41,920 --> 00:23:46,400
-will be distributed in the form of
-liquidity mining or liquidity provider 
+จะถูกแจกจ่ายไปในรูปการ mining สภาพคล่อง หรือ
+โปรแกรม
 
 343
 00:23:46,400 --> 00:23:47,440
-programs. 
+การเติมสภาพคล่อง
 
 344
 00:23:47,440 --> 00:23:49,840
-This translates to 6% of the
-total supply 
+นี่หมายถึง 6% ของ
+จำนวน
 
 345
 00:23:50,480 --> 00:23:54,160
-and just keep in mind the supply of
-Karura is fixed, it will never increase. 
+ทั้งหมด และจงจำไว้เสมอว่า จำนวนเหรียญ
+ของ Karura นั้นจะไม่เพิ่มขึ้น
 
 346
 00:23:54,720 --> 00:23:58,080
-So pretty significant opportunity to be
-involved in 
+นี่เป็นโอกาสสำคัญมากที่จะได้เป็น
 
 347
 00:23:58,080 --> 00:24:04,240
-the early liquidity providing program.
-Liquidity mining rewards can be 
+ผู้เติมสภาพคล่องก่อนใครๆ
+รางวัลการ mining สภาพคล่อง สามารถถูก
 
 348
 00:24:04,240 --> 00:24:07,200
-distributed in 3 primary ways:
-through 
+แจกจ่ายไปได้ 3 ทาง:
 
 349
 00:24:07,200 --> 00:24:12,800
-providing liquidity in the DEXs, through
-minting kUSD stablecoins 
+ผ่านการเติมสภาพคล่องใน DEXs, ผ่าน
+การ minting kUSD stablecoin
 
 350
 00:24:12,800 --> 00:24:18,800
-and then for staking KSM
-for liquid KSM or LKSM. 
+และการ staking KSM
+เพื่อเติมสภาพคล่อง KSM หรือ LKSM
 
 351
 00:24:19,760 --> 00:24:24,720
-These interest rates or these APY
-will that will definitely vary over time. 
+อัตราดอกเบี้ยหรือ APY
+จะเปลี่ยนแปลงไปตามเวลา
 
 352
 00:24:24,720 --> 00:24:28,400
-There's going to be times when certain
-trading pairs or certain 
+ย่อมมีบางครั้งที่บางคู่เทรดหรือ
 
 353
 00:24:29,040 --> 00:24:32,320
-protocols need more liquidity and in
-that case 
+บางโปรโคคอลต้องการสภาพคล่องที่มากขึ้น
+ในกรณีนี้
 
 354
 00:24:32,880 --> 00:24:37,840
