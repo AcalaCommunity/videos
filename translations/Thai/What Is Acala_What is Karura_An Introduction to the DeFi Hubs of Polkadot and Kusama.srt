@@ -1225,22 +1225,21 @@ ACA, aUSD stablecoin,
 
 256
 00:17:38,320 --> 00:17:42,880
-In this case if I'm trading on the ACA
-and aUSD pair, 
+ในกรณีนี้ ฉันเทรดบนคู่ ACA
+และ aUSD
 
 257
 00:17:42,880 --> 00:17:46,400
-I would be using liquidity from people
-who are providing liquidity to that pair 
+ฉันจะใช้สภาพคล่องจากผู้คน
+ที่ให้สภาพคล่องแก่คู่นั้น
 
 258
 00:17:46,400 --> 00:17:47,120
-on the back end. 
+ในเบื้องหลัง
 
 259
 00:17:49,600 --> 00:17:53,040
-I won't go through all these token
-utility 
+ฉันจะไม่พูดถึงการใช้งานโทเค็น
 
 260
 00:17:53,040 --> 00:17:58,800
