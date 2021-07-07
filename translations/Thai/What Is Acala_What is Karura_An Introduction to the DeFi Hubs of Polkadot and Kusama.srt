@@ -1320,18 +1320,17 @@ Karura apps ถูก
 
 276
 00:19:07,200 --> 00:19:10,000
-we've already built on top of our
-blockchain will leverage 
+สร้างบนบล็อกเชนของเราอยู่แล้ว
+และจะใช้ประโยชน์
 
 277
 00:19:10,000 --> 00:19:13,120
-all those products that have built been
-built into the blockchain itself. 
+จากโปรดัคทั้งหมดที่สร้างขึ้นมาเพื่อมันเอง
 
 278
 00:19:16,480 --> 00:19:19,040
-Here's a look at the UI at the
-application layer. 
+ตรงนี้ ดูที่ UI ที่
+เลเยอร์ของแอป
 
 279
 00:19:19,840 --> 00:19:22,240
