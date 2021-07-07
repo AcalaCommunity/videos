@@ -995,38 +995,35 @@ Karura
 
 208
 00:14:08,960 --> 00:14:13,280
-when we need to bid on a slot in a
-parachain auction, 
+เมื่อคุณต้องการ bid ในการประมูล slot ของ parachain
 
 209
 00:14:14,160 --> 00:14:17,840
-we can actually bid with our own
-Sovereign Wealth Fund instead of 
+คุณสามารถ bid ด้วยกองทุนของเราแม้ว่า
 
 210
 00:14:17,840 --> 00:14:22,400
-needing to raise KSM or DOT through
-a crowdloan. 
+ต้องการ KSM หรือ DOT ผ่าน crowdloan
 
 211
 00:14:25,600 --> 00:14:29,120
-When Ruitao, Bette, Fuyao and Bryan
-were deciding 
+เมื่อ Ruitao, Bette, Fuyao และ Bryan
+ตัดสินใจว่า
 
 212
 00:14:29,680 --> 00:14:33,600
-where to build Acala, there were several
-options: there was Ethereum 2, there was 
+จะสร้าง Acala ที่ไหน ซึ่งมีอยู่หลาย
+ตัวเลือก: มี Ethereum 2, มี
 
 213
 00:14:33,600 --> 00:14:36,080
-Cosmos.
-There were several different choices 
+Cosmos
+มีหลายทางเลือก
 
 214
 00:14:36,080 --> 00:14:40,080
-that they evaluated, but of course
-they decided to choose Polkadot. But why 
+ที่พวกเขาประเมิณ แต่แน่นอนว่า
+พวกเขาเลือก Polkadot แต่ทำไม
 
 215
 00:14:40,080 --> 00:14:42,320
