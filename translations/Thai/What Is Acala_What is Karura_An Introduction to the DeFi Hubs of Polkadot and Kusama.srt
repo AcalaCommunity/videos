@@ -1027,183 +1027,177 @@ Cosmos
 
 215
 00:14:40,080 --> 00:14:42,320
-did they choose Polkadot? It's because
-of these 
+พวกเขาถึงเลือก Polkadot? เพราะว่า
 
 216
 00:14:42,320 --> 00:14:46,960
-kind of six core things: the crosschain
-ability and interoperability, 
+6 คอร์นี้: ความสามารถ cross-chain
+และการทำงานร่วมกัน
 
 217
 00:14:47,520 --> 00:14:50,960
-the ability to use Substrate to
-customize the chain specifically for 
+ความสามารถในการใช้ Substrate
+ในการปรับแต่ง chain โดยเฉพาะสำหรับ
 
 218
 00:14:50,960 --> 00:14:54,480
-DeFi,
-the ability to handle extremely high 
+DeFi
+ความสามารถในการรับมือกับ
 
 219
 00:14:54,480 --> 00:14:57,360
-transaction rates or transaction volume
-through Polkadot, 
+เรทการทำธุรกรรม หรือ วอลุ่มการทำธุรกรรม
+ผ่าน Polkadot สูงมาก
 
 220
 00:14:59,120 --> 00:15:03,600
-the ability to govern the network on
-chain, so 
+ความสามารถในการควบคุมเครือขายบน
+chain
 
 221
 00:15:03,600 --> 00:15:08,000
-getting the whole community of ACA
-holders to help take part in governance, 
+ทั้ง community ของผู้ถือ ACA สามารถช่วยเป็นส่วนหนึ่งของ gov ได้
 
 222
 00:15:08,000 --> 00:15:12,720
-versus with Ethereum just one person or
-a group of Founders 
+เทียบกับ Ethereum ที่เป็นเพียง หนึ่งคน หรือ กลุ่ม
+ผู้ก่อตั้ง เท่าั้น
 
 223
 00:15:12,720 --> 00:15:17,200
-get to decide the future of the network.
-The plug-and-play security is a huge 
+สามารถตัดสินอนาคตของเครือข่ายได้
+ระบบความปลอดภัยแบบ plug-and-play นั้นสำคัญ
 
 224
 00:15:17,200 --> 00:15:20,400
-aspect where we don't have to actually
-go out and recruit our own set of 
+ซึ่งจะทำให้เราไม่จำเป็นต้องออกไป
+รับสมัครกลุ่มของ
 
 225
 00:15:20,400 --> 00:15:24,560
-validators to secure our network.
-That's why we want to earn a slot on 
+validator เพื่อรักษาเครือข่าย
+นั่นคือเหตุผลที่พวกเราอยากได้ slot
 
 226
 00:15:24,560 --> 00:15:27,840
-Polkadot and plug into this existing
-network of security. 
+บน Polkadot และ เชื่อมเข้าสู่เครือข่าย
+ความปลอดภัยที่มีอยู่แล้ว
 
 227
 00:15:29,120 --> 00:15:32,160
-Last in the bottom right is the
-ability to upgrade 
+สุดท้ายที่ด้านขวาล่างคือ
+ความสามารถในการอัพเกรด
 
 228
 00:15:32,160 --> 00:15:37,760
-without forking.Over time we'll be
-able to upgrade the blockchain itself 
+โดยไม่ต้อง fork เมื่อเวลาผ่านไปเราจะ
+สามารถอัพเกรดบล็อกเชนได้ด้วยตัวเอง
 
 229
 00:15:37,760 --> 00:15:40,400
-without needing to fork the community
-like we've seen with 
+โดยไม่ต้อง fork คอมมู
+เหมือนกับที่เราเห็นบน
 
 230
 00:15:40,960 --> 00:15:44,160
-maybe ETH and ETH Classic and other
-communities over time. 
+อาจจะ ETH และ ETH Classic และ commu
+อื่นๆที่ผ่านมา
 
 231
 00:15:46,880 --> 00:15:51,200
-Here's a few of our products, just some
-screenshots of them. 
+นี่คือโปรดัคบางส่วนของเรา แค่บาง
+รูปของมัน
 
 232
 00:15:51,200 --> 00:15:55,280
-On YouTube you can see some product
-demos of our products and also 
+บน Youtube คุณจะเห็นโปรดัคทดลองของเราและ
 
 233
 00:15:55,840 --> 00:16:00,320
-on our applications website
-apps.acala.network you can actually go in and 
+แอปพลิเคชัน เว็บไซต์
+apps.acala.network คุณสามารถเข้าไป
 
 234
 00:16:00,320 --> 00:16:05,440
-use them live on testnet.
-This is what our aUSD product looks 
+และใช้มันในช่วง testnet
+นี่คือ aUSD ของเรา
 
 235
 00:16:05,440 --> 00:16:09,520
-like where people can actually come in
-and collateralize, for example, Bitcoin 
+เหมือนกับที่ผู้คนสามารถเข้ามา
+ค้ำประกัน ยกตัวอย่าง Bitcoin
 
 236
 00:16:09,520 --> 00:16:13,120
-and take out a loan
-of aUSD with their Bitcoin as collateral 
+และสามารถกู้เงิน
+aUSD ด้วยการค้ำ Bitcoin
 
 237
 00:16:13,120 --> 00:16:18,560
-without ever having to sell
-their Bitcoin. Liquid DOT staking is the 
+โดยไม่จำเป็นต้องขาย Bitcoin
+Liquid DOT staking คือ
 
 238
 00:16:18,560 --> 00:16:22,720
-process of staking DOT
-to earn interest on your DOT, but, while 
+กระบวนการ staking DOT
+เพื่อรับดอกเบี้ยจาก DOT ของคุณ แต่ระหว่าง
 
 239
 00:16:22,720 --> 00:16:26,160
-your DOT
-is staked in earning staking rewards, 
+ที่ DOT
+ของคุณ stake อยู่ จะได้รับรางวัลการ stake
 
 240
 00:16:26,720 --> 00:16:29,760
-you also receive what's called LDOT or
-liquid DOT 
+โดยรางวัลที่ได้รับเรียกว่า LDOT หรือ
+Liquid DOT
 
 241
 00:16:30,720 --> 00:16:34,000
-and this is kind of like a receipt for
-your DOT that is 
+และนี้เป็นเหมือนใบเสร็จรับเงิน
+ของ DOT ของคุณ
 
 242
 00:16:34,720 --> 00:16:38,080
-staked and the LDOT that you hold will
-actually increase 
+ที่คุณ stake และ LDOT คือสิ่งที่จะเพิ่ม
 
 243
 00:16:39,040 --> 00:16:42,560
-in value, the number will increase,
-because it's going to be reflecting 
+มูลค่า ตัวเลขที่เพิ่มขึ้น
+เพราะว่ามันจะสะท้อนให้เห็นถึง
 
 244
 00:16:43,120 --> 00:16:46,160
-the returns that your underlying stake
-DOT are earning. 
+ผลตอบแทนจาก DOT ที่ stake อยู่
 
 245
 00:16:47,280 --> 00:16:51,520
-With that LDOT you can actually, just
-like the name says, it becomes liquid, so 
+ด้วย LDOT นั้น คุณสามารถ
+อย่างที่ชื่อบอก มันกลายเป็นสภาพคล่อง
 
 246
 00:16:51,520 --> 00:16:54,640
-you can
-come and use your LDTO and use that 
+ดังนั้นคุณสามาถ
+เข้ามาใช้ LDOT และใช้มัน
 
 247
 00:16:54,640 --> 00:16:58,400
-within
-all of our DeFi platforms, like the last 
+เข้าสู่แพล็ตฟอร์ม DeFi ทั้งหมดของเรา เหมือนกับสไลด์
 
 248
 00:16:58,400 --> 00:17:04,240
-slide that i just showed you with aUSD.
-I could stake DOT, take out LDOT 
+สุดท้ายที่ฉันพึ่งโชว์คุณกับ aUSD
+ฉันสามารถ stake DOT, เอา LDOT ออก
 
 249
 00:17:04,240 --> 00:17:07,280
-and then with the LDOT I could
-collateralize that and take out a loan 
+และด้วย LDOT ฉันสามารถ
+ค้ำประกันมันและเอาเงินกู้
 
 250
 00:17:07,280 --> 00:17:10,720
-for aUSD and use that
-for whatever purpose I wanted. 
+aUSD ออก และใช้เพื่อ
+จุดประสงค์ใดก็ตามที่ฉันต้องการ
 
 251
 00:17:16,080 --> 00:17:21,040
