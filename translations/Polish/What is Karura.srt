@@ -4540,11 +4540,11 @@ jak
 
 1136
 00:36:51,760 --> 00:36:56,000
-on powiedział, co się stanie, jeżeli wymieniasz
+on zapytał: co się stanie, jeżeli wymieniasz
 
 1137
 00:36:53,760 --> 00:36:58,320
-albo sprzedajesz, więc jeżeli masz jakieś
+albo sprzedajesz swoje lDOT, więc jeżeli masz jakieś
 
 1138
 00:36:56,000 --> 00:37:01,520
@@ -4560,115 +4560,115 @@ więc co stanie się z twoim oryginalnym
 
 1141
 00:37:03,920 --> 00:37:09,440
-dot like how do you actually
+DOT to tak jakbyś w rzeczywistości
 
 1142
 00:37:06,400 --> 00:37:12,079
-either pay for that or get get the dot
+albo zapłałacił za to albo otrzymał DOT
 
 1143
 00:37:09,440 --> 00:37:14,320
-so think about the outdoor it's like an
+Więc pomyśl, że nasz DOT jest jak
 
 1144
 00:37:12,079 --> 00:37:15,920
-a receipt or redeems the receipt for
+paragon, czy pokwitowanie za
 
 1145
 00:37:14,320 --> 00:37:18,000
-your stakedown right so if you sell your
+Twoje stakowane DOT, więc jeżeli sprzedasz swoje
 
 1146
 00:37:15,920 --> 00:37:20,320
-l dot you actually sell the right
+lDOT to właściwie sprzedasz prawa
 
 1147
 00:37:18,000 --> 00:37:22,160
-to redeem those stocks so it's as if you
+aby pobrac te tokeny, tak jakbyś
 
 1148
 00:37:20,320 --> 00:37:23,280
-sell the dollar someone else so in the
+sprzedał komuś dolary
 
 1149
 00:37:22,160 --> 00:37:25,760
-demo that i just showed
+W demonstracji pokazałem
 
 1150
 00:37:23,280 --> 00:37:26,560
-uh earlier if i transfer some ldl to
+że jeżeli prześlę komuś lDOT
 
 1151
 00:37:25,760 --> 00:37:28,560
-somewhere else
+gdzieś indziej
 
 1152
 00:37:26,560 --> 00:37:29,839
-i was transferring the the redeem right
+przesyłam prawa do pobrania
 
 1153
 00:37:28,560 --> 00:37:31,839
-of the underlying dot
+bazowego DOT
 
 1154
 00:37:29,839 --> 00:37:33,760
-to someone else so it's as if i was
+komuś innemu, tak samo jakbym
 
 1155
 00:37:31,839 --> 00:37:34,400
-sending dots so if you sew them then you
+wysyłał DOT, więc jeżeli je sprzedasz to
 
 1156
 00:37:33,760 --> 00:37:36,560
-just slice
+tak jakbyś
 
 1157
 00:37:34,400 --> 00:37:37,440
-your solder dots it's um it's no longer
+sprzedał swoje DOT i one już nie są
 
 1158
 00:37:36,560 --> 00:37:39,839
-yours and
+Twoje i
 
 1159
 00:37:37,440 --> 00:37:41,920
-yeah the redeem right for that length is
+tak samo prawa do pobrania tych DOT również nie są
 
 1160
 00:37:39,839 --> 00:37:45,040
-also no longer yours
+już Twoje
 
 1161
 00:37:41,920 --> 00:37:45,920
-okay so the the l dot isn't connected
+Dobrze, więc lDOT nie są połączone
 
 1162
 00:37:45,040 --> 00:37:48,320
-directly to
+bezpośrednio do
 
 1163
 00:37:45,920 --> 00:37:51,200
-like a specific dot it's kind of that
+tak jak DOT jest połączona do tego rodzaju
 
 1164
 00:37:48,320 --> 00:37:51,680
-pool so if i so if jack here who asked a
+puli, więc jeżeli Jacek który zadał
 
 1165
 00:37:51,200 --> 00:37:53,680
-question
+pytanie
 
 1166
 00:37:51,680 --> 00:37:55,359
-sent me his l dot i could type that l
+wysłałby mi swoje lDOT, ja mógłbym wziąć te tokeny
 
 1167
 00:37:53,680 --> 00:37:59,280
-dot and redeem it for dot
+lDOT i uzyskać za nie tokeny DOT
 
 1168
 00:37:55,359 --> 00:38:01,280
-in the akala pool yes yeah okay
+z puli Acala
 
 1169
 00:37:59,280 --> 00:38:03,280
