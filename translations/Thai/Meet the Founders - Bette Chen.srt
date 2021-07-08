@@ -938,123 +938,118 @@ Acala
 
 205
 00:14:18,560 --> 00:14:24,160
-we set up Laminar.
-When I met 
+เราตั้ง Laminar ขึ้นมา
+เมื่อฉันเจอ
 
 206
 00:14:24,160 --> 00:14:27,440
-Bryan and Ruitao, we decided to build
-something in 
+Bryan และ Ruitao เราตัดสินใจสร้าง
+บางอย่างใน
 
 207
 00:14:27,440 --> 00:14:33,520
-the DeFi space. So we started Laminar, which
-is focused on synthetic asset 
+พื้นที่ DeFi เราเริ่มต้นที่ Laminar ซึ่ง
+โฟกัสไปที่สินทรัพย์สังเคราะห์(synthetic)
 
 208
 00:14:33,520 --> 00:14:37,360
-margin trading,
-but it's also a sort of DeFi 
+การเทรด margin,
+แต่มันก็เป็นพื้นฐาน
 
 209
 00:14:37,360 --> 00:14:41,920
-protocol development
-house basically. It was right 
+การพัฒนาโปรโตคอล DeFi ทั่วไป
+มันเป็นจุดที่
 
 210
 00:14:41,920 --> 00:14:46,800
-at the point where we decided to
-move all our focus on to Substrate 
+พวกเราตัดสินใจย้าย
+ไปโฟกัสที่การพัฒนา Substrate
 
 211
 00:14:46,800 --> 00:14:50,240
-development, because we built our
-prototype on Ethereum 
+เพราะเราสร้างตัวต้นแบบของเราบน
+Ethereum
 
 212
 00:14:50,240 --> 00:14:53,360
-believe it or not. It actually launched
-on Coven. 
+เชื่อมั้ยว่า มันเปิดตัวไปแล้ว
+บน Coven
 
 213
 00:14:54,000 --> 00:14:57,120
-There's full synthetic margin
-training protocol in there. 
+มีการฝึกโปรโตคอลการเทรด synthetic margin
 
 214
 00:14:57,120 --> 00:15:00,880
-We're about to launch on Ethereum but
-that's also the beginning of you yfarming, 
+เราเกือบจะเปิดตัวบน Ethereum แต่
+นั่นคือการเริ่มต้นการ farming ด้วย
 
 215
 00:15:01,760 --> 00:15:05,600
-and then we reevaluated
-everything and probably 
+แล้วเราก็ประเมินทุกสิ่งใหม่และบางที
 
 216
 00:15:06,160 --> 00:15:09,760
-Substrate and Polkadot is a probably
-much better bet for the model 
+Substrate และ Polkadot อาจจะเป็น
+การเสี่ยงที่ดีกว่าสำหรับโมเดล
 
 217
 00:15:09,760 --> 00:15:14,880
-that we are able to launch.
-Stablecon is actually a 
+ที่พวกเราสามารถเปิดตัว
+stablecoin เป็น
 
 218
 00:15:14,880 --> 00:15:18,800
-critical path
-in building that protocol and then at 
+เส้นทางสำคัญ
+ในการสร้างโปโตโคล ณ เวลานั้น
 
 219
 00:15:18,800 --> 00:15:21,840
-the time,
-when we started building in Substrate, 
+เมื่อเราเริ่มต้นสร้างใน Substrate
 
 220
 00:15:21,840 --> 00:15:26,480
-which was like 2.5 plus
-years ago, it was very very early, not 
+ซึ่งเท่ากับประมาณ 2.5
+ปีที่แล้ว ซึ่งมันเร็วมากๆๆๆ ไม่
 
 221
 00:15:26,480 --> 00:15:30,480
-only the framework,
-Substrate was very in the early stage 
+ใช่แค่ framework
+Substrate เป็นเวทีเริ่มต้นสำหรับ
 
 222
 00:15:30,480 --> 00:15:34,080
-of development, but
-also the ecosystem was at a very early 
+การพัฒนา 
+ระบบนิเวศน์นั่นก็เป็นเวทีเริ่มต้นมากๆ
 
 223
 00:15:34,080 --> 00:15:38,880
-stage. We were probably one of the
-first for quite a while, the only 
+เราน่าจะเป็นหนึ่งในทีมแรกๆที่มาก่อน 
 
 224
 00:15:38,880 --> 00:15:41,680
-commercial team that was building
-outside of Parity. 
+มีแค่ทีมด้านพาณิชย์ที่สร้างขึ้น
+นอก Parity
 
 225
 00:15:42,640 --> 00:15:46,080
-But of course we
-believed 
+แต่แน่นอนว่าเรา
+เชื่อ
 
 226
 00:15:46,080 --> 00:15:49,840
-things probably other people only see
-that today or believe that today. 
+สิ่งที่คนอื่นอาจมองเห็นแค่วันนี้ หรือเชื่อในวันนี้
 
 227
 00:15:51,280 --> 00:15:53,360
-We saw the
-multi-chain future,  
+เราเห็น
+อนาคตของ multi-chain
 
 228
 00:15:53,360 --> 00:15:54,720
-we believed that
-Substrate 
+เราเชื่อว่า
+Substrate
 
 229
 00:15:55,680 --> 00:16:00,320
