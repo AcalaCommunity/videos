@@ -463,202 +463,196 @@ Bryan ตอบว่า "ซื้อบิตคอยน์"
 
 105
 00:06:58,880 --> 00:07:02,080
-what drives you, what inspires you
-to do what you do 
+อะไรที่ขับเคลื่อนคุณ อะไรเป็นแรงบรรดาลใจ
+ให้คุณทำสิ่งที่ทำ
 
 106
 00:07:02,080 --> 00:07:08,320
-every day?
-What drove me to crypto 
+อยู่ทุกๆวัน?
+อะไรที่ขับเคลื่อนฉันเข้าสู่คริปโต
 
 107
 00:07:08,880 --> 00:07:13,200
-or the blockchain area, as I see the
-potential of how they can change the 
+หรือพื้นที่บล็อกเชนนะหรอ, ที่ฉันเห็นคือ
+โพเท็นเชี่ยลของที่พวกเขาทำกับ
 
 108
 00:07:14,560 --> 00:07:17,920
-fabric of society, because
-Bitcoin kind of proved the 
+สังคม เพราะว่า
+Bitcoin พิสูจน์ให้เห็น
 
 109
 00:07:17,920 --> 00:07:21,440
-point
-of value, we can take 
+แล้วว่า
+มันมีมูลค่า พวกเรานำ
 
 110
 00:07:21,440 --> 00:07:25,840
-their power back to
-individuals, you're not beholden to 
+พลังของพวกเขากลับสู่
+บุคคล ที่ไม่ได้ติดอยู่กับ
 
 111
 00:07:25,840 --> 00:07:29,200
-any
-authority, everyone has 
+ผู้มีอำนาจใดๆ ทุกคนมี
 
 112
 00:07:29,200 --> 00:07:31,760
-ownership
-of what they're supposed to own. 
+ความเป็นเจ้าของ
+ของสิ่งที่พวกเขาควรจะเป็นเจ้าของ
 
 113
 00:07:31,760 --> 00:07:35,680
-So Bitcoin made it possible
-that everyone owns 
+ดังนั้น Bitcoin ทำให้มันเป็นไปได้
+ที่ทุกคน
 
 114
 00:07:35,680 --> 00:07:39,760
-their value or owns their property. We
-didn't used to have that before. 
+ถือมูลค่าเอง หรือเป็นเจ้าของทรัพสินย์ของพวกเขาเอง เรา
+ไม่เคยมีแบบนี้มาก่อน
 
 115
 00:07:39,760 --> 00:07:44,240
-I don't know if people realize that. When
-you have a 
+ฉันไม่รู้ว่าทุกคนจะรับรู้หรือยัง เมื่อ
+คุณมี
 
 116
 00:07:44,240 --> 00:07:47,440
-bank card, the money on the bank card
-are not owned by you. 
+บัตรของธนาคาร คนในบัตรของธนาคาร
+ไม่ได้เป็นเจ้าของโดยคุณ
 
 117
 00:07:47,440 --> 00:07:52,800
-The bank owes you some money. If
-you ask nicely, they will give you some 
+ธนาคารเป็นหนี้คุณ ถ้า
+คุณขอคืนดีๆ คุณจะได้รับเงินคุณ
 
 118
 00:07:52,800 --> 00:07:57,040
-back, but they could also just close the
-door or shut their servers 
+คืนมา แต่พวกเขาก็สามารถปิดประตู
+หรือปิดเซิร์ฟเวอร์
 
 119
 00:07:57,040 --> 00:08:00,560
-and you wouldn't be able to access that
-value or that money! 
+และคุณจะไม่สามาถเข้าถึงมูลค่า
+หรือเงินนั้น!
 
 120
 00:08:00,560 --> 00:08:03,920
-I think Bitcoin allows us to have
-real ownership, and then secondly, 
+ฉันคิดว่า Bitcoin ช่วยให้เรามี
+ความเป็นเจ้าของที่แท้จริง และสอง
 
 121
 00:08:03,920 --> 00:08:07,840
-it allows
-to switch our mindset: 
+มันช่วยให้
+เราเปลี่ยนความคิดของเรา:
 
 122
 00:08:09,840 --> 00:08:11,840
-no one actually owns the
-Bitcoin network. 
+ไม่มีใครเป็นเจ้าของ
+เครือข่าย Bitcoin
 
 123
 00:08:12,800 --> 00:08:16,080
-No one actually owns the monetary
-policy or no one actually 
+ไม่มีใครเป็นเจ้านโยบายการเงิน
+หรือไม่มีใคร
 
 124
 00:08:17,760 --> 00:08:19,840
-controls the rules
-that governs 
+ควบคุมกฏ
+อย่างที่รัฐบาล
 
 125
 00:08:19,840 --> 00:08:24,400
-who owns what. This is all governed
-by the bitcoin network. So those two 
+ควบคุมอยู่ ทั้งหมดนี้อยู่ภายใต้การควบคุม
+โดยเครือข่าย Bitcoin โดยทั้งสอง
 
 126
 00:08:24,400 --> 00:08:29,120
-things,
-Bitcoin only applies that to money and 
+ประการนี้
+Bitcoin ใช้เป็นได้เพียงเงินและ
 
 127
 00:08:29,120 --> 00:08:32,320
-value,
-a very specific use case, however 
+มูลค่า
+ค่อนข้างโดยเฉพาะ อย่างไรก็ตาม
 
 128
 00:08:33,360 --> 00:08:36,400
-that proof of
-ownership 
+หลักฐานของ
+ความเป็นเจ้าของ
 
 129
 00:08:36,400 --> 00:08:40,000
-and also resistance to some
-authority 
+และยังต่อต้านบางอำนาจ
 
 130
 00:08:40,000 --> 00:08:44,400
-controlling everything and everyone's
-life, those two things can apply to 
+ที่ควบคุมทุกสิ่งทุกอย่างและทุกชีวิต 2ประการนั้น
 
 131
 00:08:44,400 --> 00:08:45,200
-almost 
+เกือบจะ
 
 132
 00:08:45,200 --> 00:08:50,400
-every single aspect of our lives.
-That is kind of 
+ทุกด้านของชีวิตเรา
+นี่เป็นเหมือน
 
 133
 00:08:51,360 --> 00:08:55,120
-mind-bending and also inspiring
-that there are so many things that we 
+การปลอบประโลม และเป็นแรงบรรดาลใจ
+ว่ามีหลายสิ่งหลายอย่างที่เรา
 
 134
 00:08:55,120 --> 00:08:59,120
-can turn around
-in our life. For example 
+สามารถเปลี่ยนแปลงในชีวิตได้
+ยกตัวอย่างเช่น
 
 135
 00:09:00,720 --> 00:09:02,880
-I think
-we are currently beholden to 
+ฉันคิดว่า
+พวกเรากำลังเห็นพ้องต้องกันกับ
 
 136
 00:09:02,880 --> 00:09:06,080
-many of the
-Web2 companies, which 
+หลายๆบริษัท Web2 ซึ่ง
 
 137
 00:09:07,600 --> 00:09:11,120
-have done a great job
-providing products and services that 
+ทำได้ดีมาก
+จัดหาโปรดัคและบริการที่
 
 138
 00:09:11,120 --> 00:09:15,200
-make our lives more convenient,
-but, probably by design, they 
+ทำให้ชีวิตเราสะดวกขึ้น
+แต่คงเป็นเพราะการออกแบบ พวกเขา
 
 139
 00:09:15,200 --> 00:09:18,640
-converge to this
-giant resource sucker 
+ก็ถึงทางตันกับตัวดูดทรัพยากรยักษ์
 
 140
 00:09:19,600 --> 00:09:22,640
-and they are sucking up everybody's data and
-resource 
+และพวกเขากำลังดูดข้อมูลและทรัพยากรทุกอย่าง
 
 141
 00:09:22,640 --> 00:09:27,040
-and are not able, probably also by design,
-to share 
+ทำให้ไปต่อไม่ได้ บางที่เป็นเพราะการดีไซน์
+เพื่อแชร์
 
 142
 00:09:27,040 --> 00:09:30,080
-any of those wealth or profits they
-generated through 
+ทรัพย์สมบัติหรือกำไรใดๆที่
+สร้างขึ้นผ่าน
 
 143
 00:09:30,720 --> 00:09:36,640
-exploiting everyone's data. However,
-blockchain turns the entire model around. 
+การใช้ประโยชน์จากข้อมูลของทุกคน อย่างไรก็ตาม
+บล็อกเชน จะเปลี่ยนโมเดลทั้งหมดไป
 
 144
 00:09:36,640 --> 00:09:37,920
-For example, when we built
-Acala, 
+ยกตัวอย่าง เมื่อเราสร้าง
+Acala
 
 145
 00:09:39,120 --> 00:09:44,880
