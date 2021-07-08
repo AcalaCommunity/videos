@@ -1,1988 +1,1916 @@
 1
 00:00:00,640 --> 00:00:05,200
-Hey everybody, this is Dan Reecer. I'm VP
-of Growth at Acala and Karura 
+สวัสดีทุกคน ฉัน Dan Reecer เป็น VP
+of Growth ที่ Acala และ Karura
 
 2
 00:00:05,200 --> 00:00:08,640
-and today I'm going to be giving you an
-overview of DeFi, 
+ลแะวันนี้ฉันจะให้คุณเห็นภาพรวมของ DeFi,
 
 3
 00:00:08,640 --> 00:00:12,320
-Polkadot and Kusama, and then most
-importantly an overview of Acala  
+Polkadot Kusama และส่วน
+สำคัญที่สุดของ Acala
 
 4
 00:00:12,320 --> 00:00:12,960
-and
-Karura. 
+และ
+Karura
 
 5
 00:00:15,520 --> 00:00:18,560
-First I'm going to start with some
-basics around what DeFi is, 
+เราจะเริ่มด้วย
+เบสิคว่า DeFi คืออะไร
 
 6
 00:00:18,560 --> 00:00:22,160
-why this movement has kind of started
-and what problems it solves. 
+ทำไมการเคลื่อนไหวนี้ถึงได้เริ่มต้นขึ้น
+และแก้ปัญหาอะไรได้บ้าง
 
 7
 00:00:22,160 --> 00:00:26,240
-Then we'll move into some necessary
-context of Polkadot and Kusama, 
+จากนั้นเราจะย้ายไปที่พูดถึงบริบท
+ที่จำเป็นของ Polkadot และ Kusama,
 
 8
 00:00:26,240 --> 00:00:29,840
-before we move into Acala and Karura. 
+ก่อนจะไปพูดถึง Acala และ Karura
 
 9
 00:00:31,280 --> 00:00:35,520
-Crypto and DeFi of course started around
-2008-2009, 
+คริปโตและ DeFi แน่นอนว่าเริ่มประมาณปี
+2008-2009
 
 10
 00:00:36,160 --> 00:00:39,680
-and really what decentralized
-finance is trying to solve 
+และอะไรที่การเงินแบบกระจายอำนาจ
+พยายามจะแก้
 
 11
 00:00:40,800 --> 00:00:44,240
-is this problem of access to the
-financial system. So 
+ปัญหาของระบบการเงิน
 
 12
 00:00:44,240 --> 00:00:47,520
-millions of people around the world,
-depending on what country they live in, 
+หลายล้านคนทั่วโลก
+ขึ้นอยู่กับประเทศที่คนอยู่อาศัย
 
 13
 00:00:47,520 --> 00:00:50,480
-have much different access to the
-financial system to earn 
+มีหลากหลายวิธีการเข้าถึง
+ระบบการเงินเพื่อจะได้รับ
 
 14
 00:00:51,040 --> 00:00:56,880
-better outcomes on their finances
-than others in kind of more people 
+ผลลัพธ์ทางการเงินที่ดีขึ้น
+มากกว่าคนอื่น ๆ ในประเภท
 
 15
 00:00:56,880 --> 00:01:00,640
-who are just a bit luckier.
-There's also some issues around 
+ที่แค่โชคดีกว่า
+นอกจากนี้ยังมีปัญหาบางอย่างกับ
 
 16
 00:01:00,640 --> 00:01:03,280
-governments: different governments around
-the world have 
+รัฐบาล: แต่ละรัฐบาล
+ทั่วโลกก็มี
 
 17
 00:01:03,280 --> 00:01:07,760
-more or less control over the financial
-system of their countries 
+การควบคุมระบบการเงินไม่มากก็น้อยในแต่ละประเทศ
 
 18
 00:01:08,800 --> 00:01:13,440
-and people who live in places where
-the government does have more control 
+และผู้คนที่อาศัยอยู่ใน
+รัฐบาลที่มีการควบคุม
 
 19
 00:01:13,440 --> 00:01:16,720
-over the economy
-and has created problems like inflation, 
+ระบบเศรษฐกิจ
+และสร้างปัญหาอย่าง เงินเฟ้อ
 
 20
 00:01:17,840 --> 00:01:21,440
-DeFi creates a way for people to have
-access to a new financial system 
+DeFi สร้างทางให้ผู้คนมีการ
+เข้าถึงระบบการเงินแบบใหม่
 
 21
 00:01:22,160 --> 00:01:27,440
-for better opportunities on their money.
-So this new system is more open, it 
+สำหรับโอกาสที่ดีกว่าสำหรับเงินของพวกเขา
+ดังนั้นระบบใหม่นี้จึงเปิดกว้างมาก มัน
 
 22
 00:01:27,440 --> 00:01:31,040
-requires
-less restrictions so you can access it 
+ต้องการ
+ข้อจำกัดน้อยลงเพื่อให้คุณสามารถเข้าถึงได้
 
 23
 00:01:31,040 --> 00:01:34,800
-sometimes without
-an identification, without a bank account, 
+ไม่ต้องมี
+บัตรประจำตัว ไม่ต้องมีบัญชีธนาคาร
 
 24
 00:01:34,800 --> 00:01:38,800
-without a credit score.
-So a much more open financial system 
+ไม่ต้องมีแต้มเครดิต ระบบการเงินที่เปิดกว้างมากขึ้น
 
 25
 00:01:38,800 --> 00:01:40,640
-that we're all kind of building together
-now. 
+ที่เราทุกคนร่วมกันสร้างณ ตอนนี้
 
 26
 00:01:43,760 --> 00:01:47,840
-The main categories of DeFi are really a
-reflection of a lot of the 
+โดยฟังก์ชันหลักของ DeFi เหมือนมากๆกับ
 
 27
 00:01:47,840 --> 00:01:51,120
-primary categories of the
-traditional finance world that have made 
+ฟังก์ชันหลักของโลกการเงินแบบดั้งเดิมที่สร้าง
 
 28
 00:01:51,120 --> 00:01:54,000
-their way
-into DeFi. So you've got money markets, 
+ทางไปสู่
+DeFi คุณจะมีตลาดการเงิน
 
 29
 00:01:54,000 --> 00:01:56,480
-which is kind of like peer-to-peer
-borrowing and lending, 
+ซึ่งเป็นเหมือน peer-to-peer
+การยืมและการให้ยืม
 
 30
 00:01:57,120 --> 00:02:00,240
-derivatives payments, decentralized
-exchanges. 
+การซื้ออนุพันธ์ การแลกเปลี่ยนแบบกระจายอำนาจ
 
 31
 00:02:02,160 --> 00:02:04,720
-Another category here is stable
-coins which is very 
+อีกฟังก์ชันหนึ่งคือ stablecoin ที
 
 32
 00:02:05,920 --> 00:02:08,800
-important for the DeFi ecosystem, because
-of course you've got 
+สำคัญมากๆสำหรับระบบนิเวศน์ของ DeFi แน่นอน
+เพราะว่า
 
 33
 00:02:09,520 --> 00:02:12,880
-volatile assets like Bitcoin and
-Ethereum that can vary 
+ทรัพย์สินที่ผันผวนเช่น Bitcoin และ
+Ethereum ซึ่งผันผวนมาก
 
 34
 00:02:13,760 --> 00:02:16,720
-and then you've got stable coins, which
-allow people to hold something that 
+คุณจะมีเหรียญ stablecoin ซึ่งจะ
+อนุญาติให้ผู้คนถือสิ่งที่
 
 35
 00:02:16,720 --> 00:02:21,840
-actually kind of retains the
-Stable PEG at a certain value. 
+จริงๆมันเป็นการรักษาความเสถียรด้วย PEG
+ของมูลค่า
 
 36
 00:02:23,600 --> 00:02:26,320
-This was pretty shocking to me when I
-made this slide. 
+นี่ทำให้ฉันช็อคมากเมื่อฉันทำสไลด์
 
 37
 00:02:27,040 --> 00:02:31,120
-Going back just one year ago, in
-April 2020, 
+ย้อนกลับไปเมื่อหนึ่งปีที่แล้ว
+ในเมษายน ปี 2020
 
 38
 00:02:32,080 --> 00:02:36,080
-the amount of total value locked in DeFi
-was around 800 million 
+จำนวนมูลค่ารวมที่ถูกล็อคใน DeFi
+อยู่ที่ประมาณ 800 ล้านดอลลาร์
 
 39
 00:02:36,080 --> 00:02:40,640
-and fast forward to today this has done
-about an 82 or 83x 
+และก้าวไปข้างหน้าอย่างรวดเร็วจนถึงวันนี้
+เพิ่มเป็น 82 หรือ 83 เท่า
 
 40
 00:02:40,640 --> 00:02:44,080
-on just the previous year in total value
-locked in DeFi 
+จากมูลค่ารวมของปีที่แล้วที่
+ล็อคในโปรโตคอลของ
 
 41
 00:02:44,880 --> 00:02:50,320
-protocols. DeFi
-in summer 2020, at least Northern 
+DeFi
+DeFi ในฤดูร้อน 2020 อย่างน้อยก็
 
 42
 00:02:50,320 --> 00:02:55,200
-hemisphere summer,
-was what kind of set off this trend. 
+ฤดูร้อนซีกโลกเหนือ
+ถึงจะเปรียบความร้อนแรงของ DeFi ได้
 
 43
 00:02:55,200 --> 00:03:00,080
-There was a lot of
-new teams, new liquidity flowing into 
+มีทีมใหม่ๆ
+จำนวนมาก สภาพคล่องใหม่ๆไหลเข้าสู่
 
 44
 00:03:00,080 --> 00:03:03,840
-DeFi that really set off this trend that
-we we still see continuing today. 
+DeFi ที่เป็นเทรนด์ในตอนนี้
+เรากำลังดูมันเติบโตต่อไป
 
 45
 00:03:06,400 --> 00:03:10,400
-Money markets compound is one of the
-the best and kind of 
+ตลาดเงิน Compound คือหนึ่งในทีมที่
 
 46
 00:03:10,400 --> 00:03:14,560
-pioneering teams in the Ethereum DeFi
-space. This is an example of 
+บุกเบิกบนพื้นที่ของ Ethereum ได้ดีที่สุด
+นี่คือตัวอย่างของ
 
 47
 00:03:14,560 --> 00:03:18,320
-of one of the the key use cases of DeFi
-now, where 
+หนึ่งใน use case ที่สำคัญบน DeFi
+ตอนนี้
 
 48
 00:03:18,320 --> 00:03:21,760
-you see here on the left you've got a
-supply market and then on the right you 
+ที่คุณเห็นด้านซ้ายมือนี้คุญจะเห็น
+supply ของตลาด และด้านขวานี้
 
 49
 00:03:21,760 --> 00:03:22,640
-have borrowers. 
+คุณจะเห็น ผู้ยืม
 
 50
 00:03:23,200 --> 00:03:27,280
-On the left, if i have Dai as my stable
-coin, I could go in and provide 
+ด้านซ้าย ถ้าฉันมี DAI เป็น stablecoin
+ฉันสามารถเข้าไปและเติม
 
 51
 00:03:27,280 --> 00:03:30,560
-liquidity to that market and earn 6.8
-percent, 
+สภาพคล่องสู่ตลาด จะได้รับ 6.8%
 
 52
 00:03:30,560 --> 00:03:36,080
-at least on this day. Same on the right.
-If i needed to go out and say I thought 
+อยากน้อยก็วันนี้ ด้านขวาก็เหมือนกัน
+ถ้าฉันต้องการออกและคิดว่า
 
 53
 00:03:36,080 --> 00:03:40,800
-Bitcoin was going to go up or I had
-a need for a stable coin, I could go and 
+ราคา Bitcoin จะสูงขึ้น หรือฉัน
+ต้องการใช้ stablecoin ฉันสามารถไป
 
 54
 00:03:40,800 --> 00:03:43,600
-borrow
-Dai with something as collateral, 
+ยืม
+Dai ด้วยการค้ำประกัน
 
 55
 00:03:45,280 --> 00:03:48,400
-as long as I'm willing to pay that
-interest rate on that stable coin. 
+เท่าที่ฉันสามารถจ่ายค่า
+ธรรมเนียมของ stablecoin นี้ได้
 
 56
 00:03:49,280 --> 00:03:52,000
-So this is where it becomes kind of this
-peer-to-peer lending 
+นั่นทำให้มันกลายเป็นเหมือน
+การยืมแบบ peer-to-peer
 
 57
 00:03:52,720 --> 00:03:55,600
-pool, hosted by a compound. 
+โดยมีตัวกลางคือ Compound
 
 58
 00:03:57,120 --> 00:04:00,560
-Stable coins is another important aspect
-of DeFi where you've got 
+Stablecoin เป็นอีกหนึ่งสิ่งที่สำคัญสำหรับ
+DeFi ซึ่งมี
 
 59
 00:04:00,560 --> 00:04:04,000
-four primary types of stable coins.
-You've got 
+4 แบบหลักๆ
+จะมี
 
 60
 00:04:04,000 --> 00:04:08,080
-prominent names like USDC, which is
-kind of a coinbase 
+ชื่อดังอย่าง USDC ทีเป็น
+เหรียญของ coinbase
 
 61
 00:04:08,080 --> 00:04:13,120
-token which is fiat collateralized so
-you've got actual US Dollars in a bank 
+ซึ่งมีการค้ำประกันด้วยเงิน fiat
+ดังนั้นมีจะเหมือนมีเงิน US dollar ในธนาคาร
 
 62
 00:04:13,680 --> 00:04:16,960
-backing every USDC token that is issued
-into the market. 
+แบ็คหลังทุกๆเหรียญ USDC นั่นจะนำปัญหา
+มาสู่ตลาด
 
 63
 00:04:17,600 --> 00:04:20,880
-And then the third one here you can see
-crypto collateralized. So these are 
+และอันที่สามนี่ คุณสามาถเห็นว่า
+เป็นคริปโตที่มีการค้ำประกัน ดังนั้นมัน
 
 64
 00:04:22,320 --> 00:04:25,280
-kind of algorithmic crypto back
-stable coins. 
+เป็นชนิดเหรียญที่มี algorithmic แบ็คหลัง
+stablecoin
 
 65
 00:04:26,160 --> 00:04:29,760
-MakerDAO DAI is the most prominent
-example of this, 
+MakerDAO DAI คือตัวอย่างที่ดีที่สุด
+สำหรับการอธิบาย
 
 66
 00:04:30,480 --> 00:04:34,240
-and Acala and Karura are both building
-our own stablecoin. So we've got the 
+Acala และ Karura ทั้งคู่ สร้างเหรียญ
+stablecoin เป็นของตัวเอง ดังนั้นจะมี
 
 67
 00:04:34,240 --> 00:04:37,360
-Acala dollar aUSD, as you can see here on
-the slide, 
+aUSD เงินดอลลาร์ของ Acala โดยคุณจะเห็นบน
+สไลด์นี้
 
 68
 00:04:37,360 --> 00:04:41,200
-and then kUSD for our sister
-network 
+และ kUSD สำหรับเครือข่ายลูกอย่าง
 
 69
 00:04:41,200 --> 00:04:46,480
-Karura, which is the Korea Dollar.
-One example here value is a team 
+Karura  ซึ่งเป็นดอลลาร์เกาหลี
+อีกหนึ่งมูลค่าตัวอย่างที่
 
 70
 00:04:46,480 --> 00:04:50,080
-building out of Colombia.
-They're actually building with Substrate 
+ขึ้นที่ Colombia
+พวกเขาสร้างมันด้วย Substrate
 
 71
 00:04:50,080 --> 00:04:53,520
-technology, same as
-Acala's building with, and they have 
+เทคโนโลยี เหมือนกับ
+ที่สร้าง Acala และพวกเขามี
 
 72
 00:04:54,240 --> 00:04:59,600
-proven a really cool example of a stable
-coin being used in the real world. So, 
+การพิสูจน์แล้วว่าเป็นตัวอย่างที่ยอดเยี่ยมของ
+stablecoin ที่ใช้ในโลกแห่งความเป็นจริง ดังนั้น
 
 73
 00:04:59,600 --> 00:05:02,640
-they've got a lot of people in Colombia
-who need to send money home to their 
+พวกเขามีคน Columbia จำนวนมาก
+ที่ต้องการส่งเงินจากที่บ้านไปสู่
 
 74
 00:05:02,640 --> 00:05:05,600
-family and friends in Venezuela
-and they've sent over 8 million 
+ครอบครัวและเพื่อนใน Venezuela
+และพวกเขาส่งมันมากกว่า 8 ล้าน
 
 75
 00:05:05,600 --> 00:05:09,840
-dollars home using the value application,
-using stable coins. 
+ดอลลาร์ โดยใช้ แอปพลิเคชันที่ใช้
+เหรียญ stablecoin
 
 76
 00:05:14,480 --> 00:05:18,000
-Uniswap is another primary example of a 
+Uniswap เป็นอีกหนึ่งตัวอย่างสำคัญ
 
 77
 00:05:18,000 --> 00:05:21,440
-major DeFi protocol
-on Ethereum, 
+ของเมเจอร์โปรโตคอล DeFi
+บน Ethereum
 
 78
 00:05:22,320 --> 00:05:25,360
-which is a what's called an automated
-market maker 
+ซึ่งมันถูกเรียกว่า automated
+market maker
 
 79
 00:05:25,360 --> 00:05:30,320
-decentralized exchange. So this is a
-simple swap from one token to another 
+เอ็กเชนจ์แบบกระจายอำนาจ ซึ่งมัน
+เป็นการ swap ธรรมดา จาก token นึงไปเป็นอันอื่น
 
 80
 00:05:30,320 --> 00:05:33,920
-and the way that's made possible is
-because on the back end there's people 
+และทางที่ทำให้มันเป็นขึ้นมาได้คือ
+ในเบื้องหลังมีผู้คน
 
 81
 00:05:33,920 --> 00:05:36,560
-providing liquidity to every pair on
-Uniswap. 
+ได้เพิ่มสภาพคล่องไปทุกๆคู่บน
+Uniswap
 
 82
 00:05:37,440 --> 00:05:40,640
-In return for providing liquidity to
-that pair, 
+ในทางกลับกัน การให้สภาพคล่องไปที่คู่เหรียญ
 
 83
 00:05:40,640 --> 00:05:45,760
-they actually earn LP tokens and earn
-rewards on these liquidity provider 
+พวกเขาจะได้รับ LP token และได้รับ
+รางวัลจากการเป็นผู้ให้สภาพคล่อง
 
 84
 00:05:45,760 --> 00:05:50,160
-tokens. So now that we have some
-background in 
+ดังนั้นเรามีเบื้องหลัง
 
 85
 00:05:50,160 --> 00:05:55,840
-in DeFi and in that whole ecosystem,
-prominent examples of Ethereum DeFi, let's 
+ใน DeFi และในระบบนิเวศน์ทั้งหมด,
+ตัวอย่างที่เด่นชัดของ Ethereum DeFi
 
 86
 00:05:55,840 --> 00:05:59,360
-move on to
-Polkadot and why Polkadot was created. 
+เราจะย้ายไปพูดถึง
+Polkadot และ ทำไม Polkadot ถึงถูกสร้างขึ้น
 
 87
 00:06:00,480 --> 00:06:04,560
-So the person who invented the Ethereum
-virtual machine 
+ดังนั้นคนที่คิดค้น Ethereum virtual machine
 
 88
 00:06:04,560 --> 00:06:08,160
-and the person who created the Solidity
-programming language itself, 
+และคนที่สร้างภาษาโปรแกรมมิ่ง Solidity
 
 89
 00:06:10,000 --> 00:06:14,400
-he, being Gavin Wood, realized
-very early on that Ethereum was not 
+เขาคือ Gavin Wood ผู้รับรู้
+ว่า Ethereum จะไม่สามารถ
 
 90
 00:06:14,400 --> 00:06:16,320
-going to scale, it wasn't going to work
-and 
+ขยายได้มากกว่านี้
 
 91
 00:06:17,280 --> 00:06:22,080
-fast forward to now 2021 he was right:
-look at the gas fees on Ethereum. 
+ข้ามมาปัจจุบันปี 2021 เขาพูดถูก
+ดูที่ค่าธรรมเนียม Gas บน Ethereum
 
 92
 00:06:22,080 --> 00:06:26,000
-Ethereum can't scale. Everyone's waiting
-on Ethereum 2.0, 
+Ethereum ไม่สามารถขยายสเกลได้ ทุกคนต่างรอ
+Ethereum 2.0
 
 93
 00:06:26,000 --> 00:06:29,520
-which is going to take years to deliver.
-So in the meantime Gavin, 
+ซึ่งจะใช้เวลาเป็นปีในการสร้าง
+ในขณะเดียวกัน Gavin
 
 94
 00:06:30,080 --> 00:06:34,320
-Robert Habermeier and Peter Czaban
-co-founded Polkadot. 
+Robert Habermeiner และ Peter Czaban
+ผู้ร่วมก่อตั้ง Polkadot
 
 95
 00:06:34,320 --> 00:06:38,160
-They also built Kusama, the kind of
-wild cousin network to 
+พวกได้สร้าง Kusama ซึ่งเป็นเหมือน
+เครือข่ายญาติของ
 
 96
 00:06:38,160 --> 00:06:42,960
-Polkadot, which I'll get into next. Gavin
-created polkadot because there was this 
+Polkadot ซึ่งจะพูดทีหลัง Gavin
+สร้าง Polkadot เพื่อ
 
 97
 00:06:42,960 --> 00:06:43,520
-need to 
+ต้องการ
 
 98
 00:06:44,080 --> 00:06:47,360
-create a multi-chain ecosystem versus
-these individual 
+สร้างระบบนิเวศน์แบบ multi-chain เพื่อสู้กับ
+บล็อคเชน
 
 99
 00:06:47,360 --> 00:06:50,560
-isolated blockchains like Bitcoin and
-like Ethereum. 
+แบบเดี่ยวๆ อย่างเช่น Bitcoin และ
+Ethereum
 
 100
 00:06:52,000 --> 00:06:57,200
-There was also a need to add
-customization to blockchain building. 
+มีสิ่งที่ต้องปรับแต่งเพิ่มเติมสำหรับการสร้างบล็อคเชน
 
 101
 00:06:58,400 --> 00:07:02,400
-Platforms like Ethereum are this let's
-call it a layer-one blockchain but 
+แพลตฟอร์มเช่น Ethereum นั้น
+เราจะเรียกว่าเป็นบล็อกเชน Layer หนึ่ง แต่
 
 102
 00:07:02,400 --> 00:07:05,760
-they're trying to do everything with
-just one chain. It wasn't customized nor 
+พวกเขาพยายามจะทำให้ทุกอย่างอยู่
+ในหนึ่ง chain มันไม่ได้ถูกกำหนดและ
 
 103
 00:07:05,760 --> 00:07:10,560
-optimized for any specific purpose.
-With Substrate, which is the framework 
+ไม่ได้ถูกเพิ่มประสิทธิภาพให้เหมาะสม
+กับ Substrate ซึ่งคือเฟรมเวิร์ค
 
 104
 00:07:10,560 --> 00:07:13,920
-that Gavin created for building on Polkadot
-and Kusama, 
+ที่ Gavin สร้างเพื่อสร้าง Polkadot
+และ Kusama
 
 105
 00:07:14,720 --> 00:07:18,240
-with Substrate we can actually custombuild
-blockchains and 
+ด้วย Substrate เราสามารถกำหนดการสร้าง
+บล็อกเชนเองได้ และ
 
 106
 00:07:18,240 --> 00:07:20,800
-and alter the blockchain at the core
-level 
+และดัดแปลง blockchain ที่ core level ได้
 
 107
 00:07:21,360 --> 00:07:25,040
-for a specific use. So in Acala and Karura
-case we have 
+แบบเฉพาะเจาะจง ดังนั้นเคสของ Acala และ Karura
+เราสามารถ
 
 108
 00:07:25,040 --> 00:07:28,160
-optimized the core of our blockchain
-platform, 
+เพิ่มประสิทธิภาพ core ของแพล็ตฟอร์มบล็อกเชน
+ของเรา
 
 109
 00:07:28,160 --> 00:07:32,000
-which is a layer one equivalent to
-Ethereum, we've optimized that 
+ซึ่งเท่ากับ layer 1 ของ
+Ethereum เราเพิ่มประสิทธิภาพมัน
 
 110
 00:07:32,000 --> 00:07:36,160
-for DeFi specifically. When we
-launch 
+สำหรับ DeFi โดยเฉพาะ เมื่อเรา
+เปิดตัว
 
 111
 00:07:36,160 --> 00:07:39,280
-on Acala and on Polkadot, we'll be plugging
-into this 
+บน Acala และ บน Polkadot เราจะเชื่อมต่อ
+เข้าสู่
 
 112
 00:07:39,280 --> 00:07:43,120
-existing network of other blockchains
-that we can communicate 
+เครือข่ายที่มีอยู่ของบล็อกเชนอื่นๆ
+ที่เราสามารถเข้าถึง
 
 113
 00:07:43,120 --> 00:07:48,080
-value and data with and also, potentially
-even more importantly, the security of 
+มูลค่าและข้อมูล และด้วยศักยภาพ
+ที่สำคัญกว่านั้น ความระบบปลอดภัย
 
 114
 00:07:48,080 --> 00:07:53,360
-Polkadot. So, Polkadot is now
-a 40 plus billion dollar network, so all 
+ของ Polkadot ตอนนี้ Polkadot เป็นเครือข่ายที่
+มีมูลค่ากว่า 4หมื่นล้าน dollar โดยมูลค่า
 
 115
 00:07:53,360 --> 00:07:56,960
-of that value
-is held within these validator nodes 
+ทั้งหมดนั้น
+ถูกเก็บไว้ภายใน validator node เหล่านี้
 
 116
 00:07:56,960 --> 00:07:59,040
-and all those validators are able to
-help 
+และ validator ทั้งหมดเหล่านั้นสามารถ
+ช่วย
 
 117
 00:08:00,640 --> 00:08:03,680
-validate transactions for
-accuracy and also secure 
+ตรวจสอบการทำธุรกรรม
+ให้แม่นยำและรักษาความปลอดภัยให้
 
 118
 00:08:04,240 --> 00:08:08,160
-all the parachains that connect to the
-Polkadot relaychain, as you can see in 
+parachain ทั้งหมดที่เชื่อมต่อกับ
+Polkadot relay chain คุณสามารถดูใน
 
 119
 00:08:08,160 --> 00:08:11,840
-this
-diagram here. Polkadot will also, 
+ไดอะแกรมนี้ Polkadot ไม่ใช่แค่
 
 120
 00:08:12,480 --> 00:08:16,320
-not only connect blockchains within
-Polkadot, but it will also bridge to 
+เชื่อมต่อกว่า blockchain ของ
+Polkadot อย่างเดียวทั้งนั้น มันจะบริดจ์
 
 121
 00:08:16,320 --> 00:08:22,640
-existing networks like Ethereum
-and like Bitcoin. And then, as I mentioned, 
+ไปสู่เครือข่ายที่มีอยู่เช่น Ethereum
+และ Bitcoin แล้วก็อย่างที่บอกไปว่า
 
 122
 00:08:22,640 --> 00:08:27,120
-we've got Kusama as well. Kusama is the
-exact same code base, 
+เรามี Kusama ด้วย Kusama จะมี
+ฐานรหัสเดียวกันแน่นอน
 
 123
 00:08:27,120 --> 00:08:30,160
-the same architecture as Polkadot with
-this 
+สถาปัตยกรรมเดียวกับ Polkadot โดยมี
 
 124
 00:08:30,160 --> 00:08:33,360
-relaychain in the middle and then all
-these parachains are 
+relaychain อยู่ตรงกลาง และ parachain
+ทั้งหมดเหล่านี้
 
 125
 00:08:33,360 --> 00:08:38,720
-these customized blockchains built
-on top of Kusama's Layer 0 
+บล็อกเชนที่กำหนดเองเหล่านี้สร้างขึ้น
+บน Layer 0 ของ Kusama
 
 126
 00:08:38,720 --> 00:08:42,480
-meta-protocol,
-as we call it. Polkadot and Kusama will 
+เมต้าโปรโตคอล
+อย่างที่เราเรียกมัน Polkadot และ Kusama จะ
 
 127
 00:08:42,480 --> 00:08:46,080
-exist
-together and this pink dot in the middle 
+มีอยู่
+คู่กัน และจุดสีชมพูตรงกลาง
 
 128
 00:08:46,080 --> 00:08:49,120
-is meant to show you that these two
-networks will be bridged as soon as both 
+มีไว้เพื่อแสดงว่าสอง
+เครือข่ายจะถูกเชื่อมต่อทันทีที่ทั้งสอง
 
 129
 00:08:49,120 --> 00:08:52,080
-are live. So
-anything built on Kusama will be able to 
+เกิดขึ้นมา ดังนั้น
+อะไรก็ตามที่สร้างบน Kusama จะสามารถ
 
 130
 00:08:52,080 --> 00:08:55,600
-communicate with any
-parachain or application on Polkadot. 
+เชื่อมต่อกับ parachain ไหน
+หรือแอปพลิเคชันไหนก็ได้บน Polkadot
 
 131
 00:08:57,280 --> 00:09:00,320
-Kusama is slightly different than Polkadot
-in that 
+Kusama แตกต่างจาก Polkadot เล็กน้อย
 
 132
 00:09:00,320 --> 00:09:05,200
-one, it's faster and not in terms of
-transaction speed, but in terms of 
+มันจะเร็วกว่า และไม่ใช่ในแง่ของ
+ความเร็วการทำธุรกรรม แต่ในแง่ของ
 
 133
 00:09:05,200 --> 00:09:08,560
-how quickly you can get things done and
-approved through governance. So 
+ความสามารถในการทำสิ่งต่างๆได้เร็ว
+โดยรับรองจาก governance ดังนั้น
 
 134
 00:09:09,280 --> 00:09:13,760
-developers love Kusama because you can
-actually push code changes much quicker. 
+developer จะรัก Kusama เพราะว่าคุณสามารถ
+เขียนโค้ดได้เร็วกว่า
 
 135
 00:09:13,760 --> 00:09:16,400
-It takes seven days to upgrade Kusama
-versus 
+มันใช้เวลา 7 วันในการอัพเกรด Kusama
+เทียบกับ
 
 136
 00:09:17,120 --> 00:09:20,480
-28 days to get approvals through
-governance on Polkadot. 
+28 วัน เพื่อให้ได้รับการรับรองจาก
+governance บน Polkadot
 
 137
 00:09:21,520 --> 00:09:25,120
-Kusama is also what I like to call an
-innovation network, 
+Kusama หรือเรียกอีกอย่าง
+ว่า เครือข่ายนวัตกรรม(innovation network)
 
 138
 00:09:25,120 --> 00:09:28,240
-also sometimes called a canary network,
-but this is where 
+บางครั้งก็เรียก canary network
+เพราะมันเป็นที่
 
 139
 00:09:29,120 --> 00:09:32,080
-innovation will happen. You can test
-things on testnet 
+ที่เกิดนวัตกรรม คุณสามารถทดลอง
+บน testnet
 
 140
 00:09:32,960 --> 00:09:36,080
-and then bring them to Kusama,
-which is a real world environment 
+และนำมันเข้าสู่ Kusama
+ซึ่งเป็นสภาพแวดล้อมจริง
 
 141
 00:09:36,080 --> 00:09:40,640
-with real value, and on Kusama is where
-you really start to see how things work 
+ด้วยมูลค่าจริง และบน Kusama คือที่ที่
+คุณเริ่มเห็นว่าสิ่งต่างๆเกิดขึ้นได้
 
 142
 00:09:42,240 --> 00:09:46,160
-out in the wild. Just like Polkadot,
-Kusama is a proof-of-stake  
+อย่างไร เช่นเดียวกับ Polkadot
+Kusama เป็น เครือข่าย
 
 143
 00:09:46,160 --> 00:09:46,800
-network
-so 
+proof of stake
+ดังนั้น
 
 144
 00:09:47,600 --> 00:09:51,920
-the validators are running proof of
-stake and then you can also stake KSM to 
+validator จะรัน proof of
+stake หรือคุณสามารถเรียกว่าการ stake KSM
 
 145
 00:09:51,920 --> 00:09:55,200
-earn
-staking rewards as you hold KSM. 
+เพื่อรับ
+รางวัลการ staking เมื่อคุณถือ KSM
 
 146
 00:09:59,040 --> 00:10:02,320
-As I mentioned, where Polkadot and
-Kusama will be bridged, 
+ดังที่กล่าวมา ซึ่ง Polkadot และ
+Kusama จะ เชื่อมถึงกัน
 
 147
 00:10:03,200 --> 00:10:06,960
-we've used this strategy also in the way
-that we launched our network. So 
+เราได้ใช้กลยุทธ์นี้ไปในทางเดียวกับ
+ที่เราเปิดตัวเครือข่ายของเรา ดังนั้น
 
 148
 00:10:06,960 --> 00:10:10,640
-we're building Acala, which is
-the DeFi hub of Polkadot. 
+พวกเราสร้าง Acala ซึ่งเป็น
+ศูนย์รวม DeFi บน Polkadot
 
 149
 00:10:11,520 --> 00:10:15,520
-We are also building Karura, which is the
-DeFi hub of Kusama. 
+และเรากำลังสร้าง Karura ซึ่งเป็น
+ศูนย์รวม DeFi บน Kusama ด้วย
 
 150
 00:10:16,400 --> 00:10:21,280
-A lot of times people ask what will
-the future be for Karura once Akala 
+หลายครั้งมีคนถามว่า
+อนาคตของ karura จะเป็นอย่างไร เมื่อ acala
 
 151
 00:10:21,840 --> 00:10:26,320
-launches, the answer is that both Acala
-and Karura will be running in parallel 
+เปิดตัว คำตอบคือ ทั้ง acala และ
+karura จะดำเนินไปเป็นคู่ขนาน
 
 152
 00:10:26,320 --> 00:10:29,520
-together.
-Acala will make Karura better and Karura 
+ด้วกัน
+acala จะทำให้ karura ดีกว่าเดิม และ karura
 
 153
 00:10:29,520 --> 00:10:33,520
-will make Acala better,
-just like the relationship between 
+จะทำให้ acala ดีกว่าเดิมเช่นกัน
+เหมือนกับความสัมพันธ์ระหว่าง
 
 154
 00:10:33,520 --> 00:10:37,200
-Polkadot and Kusama will
-continue to operate in parallel together. 
+Polkadot และ Kusama จะ
+ดำเนินต่อไปด้วยกันเป็นคู่ขนาน
 
 155
 00:10:40,160 --> 00:10:44,320
-Acala and Karura were both founded by
-these four people on the slide. 
+Acala และ karura ทั้งคู่ก่อตั้งโดย
+4 คนนี้บนสไลด์
 
 156
 00:10:44,320 --> 00:10:50,400
-You've got Ruitao, our CEO, Bette
-our COO. I work with them quite a 
+มี Ruitao CEO ของเรา, Bette
+COO ของเรา ฉันทำงานกับพวกเขา
 
 157
 00:10:50,400 --> 00:10:52,480
-bit they're both more on the business
-side 
+มาบ้าง พวกเขาทั้งคู่อยู่ในด้านธุรกิจ
 
 158
 00:10:52,480 --> 00:10:55,760
-but both are also very technical
-engineering minds, 
+แต่ทั้งคู่มีหัวด้านวิศวกรรมอยู่มากเช่นกัน
 
 159
 00:10:56,320 --> 00:11:01,600
-product people with great experience
-not only in the blockchain world but 
+ผลิตภัณฑ์ที่ทำให้คนมีประสบการณ์ที่ดี
+ไม่ได้มีแค่โลกบล็อกเชน แต่
 
 160
 00:11:01,600 --> 00:11:06,000
-also in traditional product development.
-Then you've got Fuyao on the upper right. 
+ต้องมีการพัฒนาผลิตภัณฑ์แบบดั้งดิมด้วย
+ต่อไป คุณ Fuyao ด้านขวาบน
 
 161
 00:11:06,000 --> 00:11:08,960
-So Fuyao is
-leading and managing 
+Fuyao คือคนที่
+ชี้นำและจัดการ
 
 162
 00:11:08,960 --> 00:11:13,200
-everything in China, based in
-Shanghai. He's also the Founder and CEO 
+ทุกอย่างในประเทศจีน ฐานอยู่ที่
+เซี่ยงไฮ้ เขาเป็นผู้ร่วมก่อตั้งและ CEO
 
 163
 00:11:13,200 --> 00:11:14,080
-of Polkawallet 
+ของ Polkawallet ด้วย
 
 164
 00:11:14,880 --> 00:11:18,240
-and met up with the with Ruitao, Bette and
-Bryan 
+การพบกันของ Ruitao, Bette และ Bryan
 
 165
 00:11:18,240 --> 00:11:21,280
-I think about a couple years ago at a
-hackathon and the four of them created 
+ฉันคิดว่าเมื่อประมาณ 2-3 ปีที่แล้ว ที่
+งาน hackathon และทั้ง4คนนี้ก็ได้สร้าง
 
 166
 00:11:22,400 --> 00:11:27,120
-the networks Acala and Karura together.
-And then last but not least you've got 
+เครือข่ายที่ชื่อ Acala และ Karura ด้วยกัน
+สุดท้ายแต่ไม่ท้ายสุด
 
 167
 00:11:27,120 --> 00:11:31,360
-Bryan Chen. Bryan is one of the best
-substrate developers in the world. 
+Bryan Chen, Bryan คือหนึ่งใน
+Substrate developer ทื่เก่งที่สุดในโลก
 
 168
 00:11:31,360 --> 00:11:34,960
-He's our CTO and that leads all of our
-development. 
+เขาคือ CTO ของเรา และเป็นผู้นำด้านการ
+พัฒนาทั้งหมด
 
 169
 00:11:35,680 --> 00:11:40,160
-Bryan also founded and leads the
-Substrate Developer Academy 
+Bryan เป็นผู้ก่อตั้งและเป็นคนนำ
+Substrate Developer Academy
 
 170
 00:11:40,160 --> 00:11:44,720
-and continues to build and give
-back to the Substrate Community as he 
+และยังคงสร้างและตอบแทน
+กลับไปที่ Substrate Community ที่เขา
 
 171
 00:11:44,720 --> 00:11:45,440
-grows 
+โตมา
 
 172
 00:11:45,440 --> 00:11:48,720
-the number of developers who are
-building with the Substrate framework. 
+ที่รวม developer ที่สร้าง
+Substrate framework ขึ้นมา
 
 173
 00:11:50,720 --> 00:11:54,240
-Acala is backed by several top firms so
-Pantera, 
+Acala ได้รับการสนับสนุนจากบริษัทชั้นนำหลายแห่ง เช่น
+Pantera
 
 174
 00:11:54,800 --> 00:12:00,000
 coinbase Ventures, DCG,
-Polychain Capital, just to name a few, 
+Polychain Capital อยากพูดชื่อมากกว่านี้
 
 175
 00:12:00,560 --> 00:12:04,080
-Hypersphere from
-our friend Jack and several others on 
+Hypersphere จาก
+เพื่อนของเรา Jack และคนอื่นๆอีกหลายคน
 
 176
 00:12:04,080 --> 00:12:09,840
-the slide here and then
-many others as well. 
+บนสไลด์นี้ และ
+อีกหลายๆคนด้วย
 
 177
 00:12:10,480 --> 00:12:13,520
-So let's get into Acala and Karura.
-Acala is 
+เอาละ มาทำความรู้จักกับ Acala และ Karura กันเถอะ
+Acala คือ
 
 178
 00:12:14,720 --> 00:12:17,200
-two things: it's a platform for
-building 
+2 สิ่ง: มันคือแพล็ตฟอร์มสำหรับ
+สร้าง
 
 179
 00:12:17,200 --> 00:12:22,240
-applications on top of, as well as our
-own set of applications that we've built 
+แอปพลิเคชั่น เช่นเดียวกับ
+เซ็ตของแอปพลิเคชั่นเราเราที่เราสร้าง
 
 180
 00:12:22,240 --> 00:12:25,680
-on our blockchain.
-This is kind of a new category 
+บนบล็อกเชน
+นี่ดูเหมือนเป็นหมวดหมู่ใหม่
 
 181
 00:12:25,680 --> 00:12:27,920
-development that I haven't seen done
-before, 
+ของการพัฒนาที่เราไม่เคยทำมาก่อน
 
 182
 00:12:27,920 --> 00:12:32,000
-where our team is actually launching the
-blockchain itself a Layer 1 blockchain 
+ที่ทีมของเรากำลังเปิดตัว
+บล็อกเชนของตัวเอง บล็อกเชน layer 1
 
 183
 00:12:32,000 --> 00:12:33,040
-like Ethereum, 
+เหมือน Ethereum
 
 184
 00:12:33,040 --> 00:12:36,400
-while also launching applications on top
-of that chain. 
+ในขณะที่เปิดตัวแอปพลิเคชั่นบน chain ด้วย
 
 185
 00:12:37,040 --> 00:12:41,040
-Our decentralized exchange you could
-think of as similar to Uniswap, 
+เอ็กเชนจ์แบบกระจายอำนาจของเรา คุณสามารถ
+คิดว่ามันคล้ายกับ Uniswap
 
 186
 00:12:42,000 --> 00:12:46,800
-our borrowing market for the Acala Dollar
-and Karura dollar, you could think of as 
+ตลาดการกู้ยืมสำหรับ Acala Dollar
+และ Karura dollar คุณสามารถคิดว่า
 
 187
 00:12:46,800 --> 00:12:50,080
-similar to Maker
-and then we've got liquid staking as 
+มันคล้ายกับ Maker
+และเรามี ก่าร staking สภาพคล่อง
 
 188
 00:12:50,080 --> 00:12:53,440
-well. This is essentially like a Layer 1
-blockchain, 
+ด้วย นี่เป็นเหมือนบล็อกเชน layer 1
 
 189
 00:12:53,440 --> 00:12:57,920
-like Ethereum launching from day one
-with Maker and Uniswap on top, 
+เหมือน Ethereum ที่เปิดตัววันแรก
+และมี Maker กับ Uniswap บนนั้น
 
 190
 00:12:57,920 --> 00:13:01,520
-plus liquid staking. Very excited to
-get this out in 
+บวกกับมีระบบ staking สภาพคล่อง น่าตื่นเต้นมากๆ
+ที่จะรอคอยเมื่อสิ่งนี้
 
 191
 00:13:01,520 --> 00:13:05,840
-in live. This diagram helps illustrate
-what i just mentioned. 
+เกิดขึ้นมา แผนภาพนี้ช่วยอธิบาย
+สิ่งที่ฉันพึ่งพูดถึง
 
 192
 00:13:06,880 --> 00:13:12,080
-The Acala DEX, the liquid staking
-product and the aUSD stablecoin are 
+Acala DEX ผลิตภัณฑ์ staking สภาพคล่อง
+และ aUSD stablecoin นั้น
 
 193
 00:13:12,080 --> 00:13:17,280
-built into the Layer 1 blockchain
-itself and then on top of our blockchain 
+ถูกสร้างขึ้นมาบนบล็อกเชน Layer1
+อยู่แล้ว และเสริมด้วยบล็อกเชนของเรา
 
 194
 00:13:17,840 --> 00:13:21,680
-we've built front-end applications
-that leverage 
+เราสร้าง applications
+ที่สามารถ leverage
 
 195
 00:13:21,680 --> 00:13:26,400
-these DeFi primitives, as we call them,
-that are built into the blockchain. 
+พื้นฐาน DeFi เหล่านี้ ที่พวกเราเรียกมัน
+มันถูกสร้างเพื่อบล็อกเชน
 
 196
 00:13:27,680 --> 00:13:30,480
-When Acala launches,
-you'll not only be able to build 
+เมื่อ Acala เปิดตัว
+คุณจะไม่ใช่แค่สามารถสร้าง
 
 197
 00:13:30,480 --> 00:13:32,800
-applications on Acala, but you'll be
-able to use 
+application บน Acala เท่านั้น แต่คุณจะ
+สามารถใช้
 
 198
 00:13:32,800 --> 00:13:36,160
-all the applications that we've built
-ourselves. Then of course at the 
+แอปพลิเคชันทั้งหมดที่เราสร้างขึ้น
+และแน่นอนที่
 
 199
 00:13:36,160 --> 00:13:38,080
-bottom here you've got Polkadot, which
-is the 
+ด้านล่างนี้ จะมี Polkadot ซึ่ง
 
 200
 00:13:38,880 --> 00:13:42,160
-the multi-chain network kind
-of securing 
+เป็นเครือข่าย multi-chain ที่รักษาความปลอดภัยให้
 
 201
 00:13:42,160 --> 00:13:44,880
-Acala and providing cross-chain
-capability. 
+Acala และ ให้ความสามารถในการ cross-chain
 
 202
 00:13:46,800 --> 00:13:49,680
-These are the three products that I have just
-mentioned and then the fourth one I'll 
+นี่คือสามผลิตภัณฑ์ที่ฉันพึ่งกล่าวถึง
+และต่อไป อันที่4 ฉันจะ
 
 203
 00:13:49,680 --> 00:13:53,200
-just mention it very quickly.
-The Decentralized Sovereign Wealth Fund 
+พูดถึงมันเร็วๆ มันคือกองทุนความมั่งคั่งแบบกระจายอำนาจ
+(The Decentralized Sovereign Wealth Fund)
 
 204
 00:13:54,080 --> 00:13:57,280
-or our treasury
-will be built up over time in order 
+หรือคลังของเรา
+จะถูกสร้างขึ้นเมื่อเวลาผ่านไปตามลำดับ
 
 205
 00:13:57,280 --> 00:14:01,440
-to help create
-self-sustainability for Acala and for 
+เพื่อช่วยสร้าง
+ความยั่งยืนในตนเองสำหรับ Acala และสำหรับ
 
 206
 00:14:01,440 --> 00:14:05,840
-Karura.
-In Acala's case, we hope to build up this 
+Karura
+ในกรณีของ Acala เราหวังวที่จะสร้าง
 
 207
 00:14:05,840 --> 00:14:08,960
-Decentralized Sovereign Wealth Fund
-enough so that in the future, 
+กองทุนความมั่งคั่งแบบกระจายอำนาจ
+ให้เพียงพอในอนาคต
 
 208
 00:14:08,960 --> 00:14:13,280
-when we need to bid on a slot in a
-parachain auction, 
+เมื่อคุณต้องการ bid ในการประมูล slot ของ parachain
 
 209
 00:14:14,160 --> 00:14:17,840
-we can actually bid with our own
-Sovereign Wealth Fund instead of 
+คุณสามารถ bid ด้วยกองทุนของเราแม้ว่า
 
 210
 00:14:17,840 --> 00:14:22,400
-needing to raise KSM or DOT through
-a crowdloan. 
+ต้องการ KSM หรือ DOT ผ่าน crowdloan
 
 211
 00:14:25,600 --> 00:14:29,120
-When Ruitao, Bette, Fuyao and Bryan
-were deciding 
+เมื่อ Ruitao, Bette, Fuyao และ Bryan
+ตัดสินใจว่า
 
 212
 00:14:29,680 --> 00:14:33,600
-where to build Acala, there were several
-options: there was Ethereum 2, there was 
+จะสร้าง Acala ที่ไหน ซึ่งมีอยู่หลาย
+ตัวเลือก: มี Ethereum 2, มี
 
 213
 00:14:33,600 --> 00:14:36,080
-Cosmos.
-There were several different choices 
+Cosmos
+มีหลายทางเลือก
 
 214
 00:14:36,080 --> 00:14:40,080
-that they evaluated, but of course
-they decided to choose Polkadot. But why 
+ที่พวกเขาประเมิณ แต่แน่นอนว่า
+พวกเขาเลือก Polkadot แต่ทำไม
 
 215
 00:14:40,080 --> 00:14:42,320
-did they choose Polkadot? It's because
-of these 
+พวกเขาถึงเลือก Polkadot? เพราะว่า
 
 216
 00:14:42,320 --> 00:14:46,960
-kind of six core things: the crosschain
-ability and interoperability, 
+6 คอร์นี้: ความสามารถ cross-chain
+และการทำงานร่วมกัน
 
 217
 00:14:47,520 --> 00:14:50,960
-the ability to use Substrate to
-customize the chain specifically for 
+ความสามารถในการใช้ Substrate
+ในการปรับแต่ง chain โดยเฉพาะสำหรับ
 
 218
 00:14:50,960 --> 00:14:54,480
-DeFi,
-the ability to handle extremely high 
+DeFi
+ความสามารถในการรับมือกับ
 
 219
 00:14:54,480 --> 00:14:57,360
-transaction rates or transaction volume
-through Polkadot, 
+เรทการทำธุรกรรม หรือ วอลุ่มการทำธุรกรรม
+ผ่าน Polkadot สูงมาก
 
 220
 00:14:59,120 --> 00:15:03,600
-the ability to govern the network on
-chain, so 
+ความสามารถในการควบคุมเครือขายบน
+chain
 
 221
 00:15:03,600 --> 00:15:08,000
-getting the whole community of ACA
-holders to help take part in governance, 
+ทั้ง community ของผู้ถือ ACA สามารถช่วยเป็นส่วนหนึ่งของ gov ได้
 
 222
 00:15:08,000 --> 00:15:12,720
-versus with Ethereum just one person or
-a group of Founders 
+เทียบกับ Ethereum ที่เป็นเพียง หนึ่งคน หรือ กลุ่ม
+ผู้ก่อตั้ง เท่าั้น
 
 223
 00:15:12,720 --> 00:15:17,200
-get to decide the future of the network.
-The plug-and-play security is a huge 
+สามารถตัดสินอนาคตของเครือข่ายได้
+ระบบความปลอดภัยแบบ plug-and-play นั้นสำคัญ
 
 224
 00:15:17,200 --> 00:15:20,400
-aspect where we don't have to actually
-go out and recruit our own set of 
+ซึ่งจะทำให้เราไม่จำเป็นต้องออกไป
+รับสมัครกลุ่มของ
 
 225
 00:15:20,400 --> 00:15:24,560
-validators to secure our network.
-That's why we want to earn a slot on 
+validator เพื่อรักษาเครือข่าย
+นั่นคือเหตุผลที่พวกเราอยากได้ slot
 
 226
 00:15:24,560 --> 00:15:27,840
-Polkadot and plug into this existing
-network of security. 
+บน Polkadot และ เชื่อมเข้าสู่เครือข่าย
+ความปลอดภัยที่มีอยู่แล้ว
 
 227
 00:15:29,120 --> 00:15:32,160
-Last in the bottom right is the
-ability to upgrade 
+สุดท้ายที่ด้านขวาล่างคือ
+ความสามารถในการอัพเกรด
 
 228
 00:15:32,160 --> 00:15:37,760
-without forking.Over time we'll be
-able to upgrade the blockchain itself 
+โดยไม่ต้อง fork เมื่อเวลาผ่านไปเราจะ
+สามารถอัพเกรดบล็อกเชนได้ด้วยตัวเอง
 
 229
 00:15:37,760 --> 00:15:40,400
-without needing to fork the community
-like we've seen with 
+โดยไม่ต้อง fork คอมมู
+เหมือนกับที่เราเห็นบน
 
 230
 00:15:40,960 --> 00:15:44,160
-maybe ETH and ETH Classic and other
-communities over time. 
+อาจจะ ETH และ ETH Classic และ commu
+อื่นๆที่ผ่านมา
 
 231
 00:15:46,880 --> 00:15:51,200
-Here's a few of our products, just some
-screenshots of them. 
+นี่คือโปรดัคบางส่วนของเรา แค่บาง
+รูปของมัน
 
 232
 00:15:51,200 --> 00:15:55,280
-On YouTube you can see some product
-demos of our products and also 
+บน Youtube คุณจะเห็นโปรดัคทดลองของเราและ
 
 233
 00:15:55,840 --> 00:16:00,320
-on our applications website
-apps.acala.network you can actually go in and 
+แอปพลิเคชัน เว็บไซต์
+apps.acala.network คุณสามารถเข้าไป
 
 234
 00:16:00,320 --> 00:16:05,440
-use them live on testnet.
-This is what our aUSD product looks 
+และใช้มันในช่วง testnet
+นี่คือ aUSD ของเรา
 
 235
 00:16:05,440 --> 00:16:09,520
-like where people can actually come in
-and collateralize, for example, Bitcoin 
+เหมือนกับที่ผู้คนสามารถเข้ามา
+ค้ำประกัน ยกตัวอย่าง Bitcoin
 
 236
 00:16:09,520 --> 00:16:13,120
-and take out a loan
-of aUSD with their Bitcoin as collateral 
+และสามารถกู้เงิน
+aUSD ด้วยการค้ำ Bitcoin
 
 237
 00:16:13,120 --> 00:16:18,560
-without ever having to sell
-their Bitcoin. Liquid DOT staking is the 
+โดยไม่จำเป็นต้องขาย Bitcoin
+Liquid DOT staking คือ
 
 238
 00:16:18,560 --> 00:16:22,720
-process of staking DOT
-to earn interest on your DOT, but, while 
+กระบวนการ staking DOT
+เพื่อรับดอกเบี้ยจาก DOT ของคุณ แต่ระหว่าง
 
 239
 00:16:22,720 --> 00:16:26,160
-your DOT
-is staked in earning staking rewards, 
+ที่ DOT
+ของคุณ stake อยู่ จะได้รับรางวัลการ stake
 
 240
 00:16:26,720 --> 00:16:29,760
-you also receive what's called LDOT or
-liquid DOT 
+โดยรางวัลที่ได้รับเรียกว่า LDOT หรือ
+Liquid DOT
 
 241
 00:16:30,720 --> 00:16:34,000
-and this is kind of like a receipt for
-your DOT that is 
+และนี้เป็นเหมือนใบเสร็จรับเงิน
+ของ DOT ของคุณ
 
 242
 00:16:34,720 --> 00:16:38,080
-staked and the LDOT that you hold will
-actually increase 
+ที่คุณ stake และ LDOT คือสิ่งที่จะเพิ่ม
 
 243
 00:16:39,040 --> 00:16:42,560
-in value, the number will increase,
-because it's going to be reflecting 
+มูลค่า ตัวเลขที่เพิ่มขึ้น
+เพราะว่ามันจะสะท้อนให้เห็นถึง
 
 244
 00:16:43,120 --> 00:16:46,160
-the returns that your underlying stake
-DOT are earning. 
+ผลตอบแทนจาก DOT ที่ stake อยู่
 
 245
 00:16:47,280 --> 00:16:51,520
-With that LDOT you can actually, just
-like the name says, it becomes liquid, so 
+ด้วย LDOT นั้น คุณสามารถ
+อย่างที่ชื่อบอก มันกลายเป็นสภาพคล่อง
 
 246
 00:16:51,520 --> 00:16:54,640
-you can
-come and use your LDTO and use that 
+ดังนั้นคุณสามาถ
+เข้ามาใช้ LDOT และใช้มัน
 
 247
 00:16:54,640 --> 00:16:58,400
-within
-all of our DeFi platforms, like the last 
+เข้าสู่แพล็ตฟอร์ม DeFi ทั้งหมดของเรา เหมือนกับสไลด์
 
 248
 00:16:58,400 --> 00:17:04,240
-slide that i just showed you with aUSD.
-I could stake DOT, take out LDOT 
+สุดท้ายที่ฉันพึ่งโชว์คุณกับ aUSD
+ฉันสามารถ stake DOT, เอา LDOT ออก
 
 249
 00:17:04,240 --> 00:17:07,280
-and then with the LDOT I could
-collateralize that and take out a loan 
+และด้วย LDOT ฉันสามารถ
+ค้ำประกันมันและเอาเงินกู้
 
 250
 00:17:07,280 --> 00:17:10,720
-for aUSD and use that
-for whatever purpose I wanted. 
+aUSD ออก และใช้เพื่อ
+จุดประสงค์ใดก็ตามที่ฉันต้องการ
 
 251
 00:17:16,080 --> 00:17:21,040
-The Acala DEX looks
-some looks like this: so there will be 
+Acala DEX จะเป็น
+ลักษณะนี้: มันจะมี
 
 252
 00:17:21,840 --> 00:17:24,320
-trading pairs that you can trade, so in
-this example it's Acala 
+คู่เทรดที่คุณสามาถเทรด ใน
+ตัวอย่างนี้ มันคือ Acala
 
 253
 00:17:24,880 --> 00:17:30,720
-ACA, an aUSD stablecoin,
-and the way this is is enabled is 
+ACA, aUSD stablecoin,
+ที่เปิดใช้งานอยู่
 
 254
 00:17:30,720 --> 00:17:33,600
-because on the back end there's a whole
-pool of liquidity where people are 
+เพราะว่าเบื้องหลังมีพูลของ
+สภาพคล่องที่ผู้คน
 
 255
 00:17:33,600 --> 00:17:36,800
-earning rewards for providing liquidity
-to certain pairs. 
+มารับรางวัลสำหรับการเติมสภาพคล่องของคู่เหรียญ
 
 256
 00:17:38,320 --> 00:17:42,880
-In this case if I'm trading on the ACA
-and aUSD pair, 
+ในกรณีนี้ ฉันเทรดบนคู่ ACA
+และ aUSD
 
 257
 00:17:42,880 --> 00:17:46,400
-I would be using liquidity from people
-who are providing liquidity to that pair 
+ฉันจะใช้สภาพคล่องจากผู้คน
+ที่ให้สภาพคล่องแก่คู่นั้น
 
 258
 00:17:46,400 --> 00:17:47,120
-on the back end. 
+ในเบื้องหลัง
 
 259
 00:17:49,600 --> 00:17:53,040
-I won't go through all these token
-utility 
+ฉันจะไม่พูดถึงการใช้งานโทเค็น
 
 260
 00:17:53,040 --> 00:17:58,800
-use cases for ACA, but at its most basic
-level, ACA is the governance token for 
+เหล่านี้สำหรับ ACA มันค่อนข้างพื้นฐาน
+ACA เป็นเหรียญ GOV ของ
 
 261
 00:17:58,800 --> 00:17:59,600
-Acala 
+Acala
 
 262
 00:17:59,600 --> 00:18:03,040
-and will be used for processing all the
-transaction fees on the network. 
+และจะถูกใช้สำหรับการประมวลผลทั้งหมดของ
+ค่าธรรมเนียมการทำธุรกรรมบนเครือข่าย
 
 263
 00:18:05,760 --> 00:18:14,560
-Now let's get into Karura.
-Karura is a platform just like Acala, 
+มาพูดกันที่ Karura กันบ้าง
+Karura คือแพล็ตฟอร์มแบบเดียวกับ Acala
 
 264
 00:18:14,560 --> 00:18:17,440
-a blockchain platform and a set of
-applications 
+แพล็ตฟอร์มบล็อกเชนและมีแอปพลิเคชั่น
 
 265
 00:18:18,880 --> 00:18:24,320
-all optimized for innovation
-and experimentation on Kusama. This is 
+ที่สร้างเพื่อเพิ่มประสิทธิภาพสำหรับนวัตกรรม
+และประสบการณ์ที่ดีบน Kusama นี่คือ
 
 266
 00:18:24,320 --> 00:18:27,120
-going to be a really fun
-network to be involved in because 
+เครือข่ายที่น่าสนุกที่จะ
+มีส่วนร่วมเพราะ
 
 267
 00:18:27,120 --> 00:18:29,520
-there's going to be a lot of new
-products launching here, 
+มีโปรดัคมากมายที่จะ
+เปิดตัวที่นี่
 
 268
 00:18:29,520 --> 00:18:32,240
-trying out new risk parameters, new
-features 
+สามารถลองใช้พารามิเตอร์เสี่ยงๆ
+ฟีเจอร์ใหม่ๆ
 
 269
 00:18:33,200 --> 00:18:36,720
-that will go to Karura and then, if proven,
-we'll move on to Acala. 
+นั่นทำได้บน Karura และเมื่อมันถูกพิสูจน์ว่าใช้งานได้
+เราจะย้ายมันไปสู่ Acala
 
 270
 00:18:39,920 --> 00:18:41,680
-We will be launching this
-first 
+เราจะเปิดตัวสิ่งนี้
 
 271
 00:18:41,680 --> 00:18:45,680
-on Kusama and the upcoming parachain
-auction is all about 
+บน Kusamaก่อน และการประมูล parachain
+ที่กำลังจะมาทั้งหมดเกี่ยวกับ
 
 272
 00:18:45,680 --> 00:18:51,680
-Karura. Karura will be launching on Kusama
-and this Layer 1 blockchain will have 
+Karura. Karura จะเปิดตัวบน Kusama
+และบล็อกเชน layer 1 จะมี
 
 273
 00:18:51,680 --> 00:18:57,120
-the same DeFi primitives as Acala does.
-In this case the Karura DEX, the liquid 
+พื้นฐาน DeFi แบบเดียวกับที่ Acala ทำ
+ในกรณีของ Karura DEX, การ staking
 
 274
 00:18:57,120 --> 00:19:01,600
-staking for KSM,
-instead of for DOT on Acala, and then the 
+สภาพคล่องให้ KSM
+แม้ว่า DOT จะอยู่บน Acala และมี
 
 275
 00:19:01,600 --> 00:19:07,200
-Karura dollar kUSD as the stable coin.
-The Karura apps that 
+Karura โดยมี kUSD เป็น stablecoin
+Karura apps ถูก
 
 276
 00:19:07,200 --> 00:19:10,000
-we've already built on top of our
-blockchain will leverage 
+สร้างบนบล็อกเชนของเราอยู่แล้ว
+และจะใช้ประโยชน์
 
 277
 00:19:10,000 --> 00:19:13,120
-all those products that have built been
-built into the blockchain itself. 
+จากโปรดัคทั้งหมดที่สร้างขึ้นมาเพื่อมันเอง
 
 278
 00:19:16,480 --> 00:19:19,040
-Here's a look at the UI at the
-application layer. 
+ตรงนี้ ดูที่ UI ที่
+เลเยอร์ของแอป
 
 279
 00:19:19,840 --> 00:19:22,240
-On the last slide what I showed you up
-here, 
+สไลด์สุดท้ายที่ฉันโชว์อยู่ตอนนี้
 
 280
 00:19:23,280 --> 00:19:32,800
-these apps look like this:
-this would be like creating a loan on 
+โดนแอพจะอยู่ลักษณะนี้:
+โดยจะเหมือนกับการสร้างเงินกู้
 
 281
 00:19:32,800 --> 00:19:38,160
-the left you could go and do a swap,
-do your liquid staking. This will all 
+ด้านซ้ายคุณสามาถไป swap, staking สภาพคล่อง
+ซึ่งพร้อมสำหรับวันที่เปิดตัว Kusama
 
 282
 00:19:38,160 --> 00:19:40,800
-be ready
-the day we launch on Kusama. 
+จงพร้อม
+สำหรับวันเปิดตัว Kusama
 
 283
 00:19:43,520 --> 00:19:47,760
-Just to reiterate, Kusama and
-Polkadot will be bridged and 
+ขอย้ำว่า kusama และ
+Polkadot จะเชื่อมกัน
 
 284
 00:19:47,760 --> 00:19:49,680
-and Karura and Acala will continue to 
+และ Karura กับ Acala จะดำเนินต่อไป
 
 285
 00:19:49,680 --> 00:19:52,000
-operate together even after Acala
-launches. 
+ด้วยกันหลังจาก Acala เปิดตัว
 
 286
 00:19:52,560 --> 00:19:56,880
-After Acala launches, we will be
-operating two networks in parallel 
+หลังจาก Acala เปิดตัว เราจะ
+ดำเนินสองเครือข่ายเป็นคู่ขนาน
 
 287
 00:19:56,880 --> 00:19:59,280
-and those will continue to operate
-together. 
+และมันจะดำเนินการไปด้วยกัน
 
 288
 00:20:02,000 --> 00:20:06,000
-The distribution of the KAR supply looks
-like this: 
+การกระจายเหรียญ KAR จะเป็นดังนี้:
 
 289
 00:20:06,000 --> 00:20:10,160
-so we reduced the amount of tokens going
-to the founding team and and shifted 
+เราลดจำนวนเหรียญให้กับ
+ทีมก่อตั้งและย้ายมัน
 
 290
 00:20:10,160 --> 00:20:13,520
-that to the community.
-We've also got some backers and early 
+ไปสู่ community
+เรายังมีผู้สนับสนุนบางส่วนและผู้สนับสนุน
 
 291
 00:20:13,520 --> 00:20:16,640
-backers from
-when we first started the project and 
+ก่อนหน้าตั้งแต่
+ที่เราเริ่มต้นโปรเจ็คและ
 
 292
 00:20:16,640 --> 00:20:18,400
-then, when you break down the community
-side, 
+เมื่อคุณเข้าใจเกี่ยวกับ community แล้ว
 
 293
 00:20:19,440 --> 00:20:21,920
-we have auction rewards for the
-parachain auction 
+เราจะไปต่อที่รางวัลการประมูล ของการ
+ประมูล parachain
 
 294
 00:20:22,560 --> 00:20:24,720
-and liquidity program, which I'll walk
-through next, 
+และโปรแกรมของ สภาพคล่อง ที่ฉันกำลังจะ
+พูดถึง
 
 295
 00:20:25,920 --> 00:20:29,280
-some ecosystem development and some
-rewards that are 
+บางการพัฒนาระบบนิเวศน์และรางวัล โดยปกติ
 
 296
 00:20:29,280 --> 00:20:31,680
-being kind of reserved, as well as
-treasury 
+จะถูกสงวนไว้ เช่นเดียวกับ
+การจัดสรร
 
 297
 00:20:32,320 --> 00:20:38,800
-allocation to keep in the Karura treasury for
-the development of the network. Same 
+เงินคลัง เพื่อรักษา คลังใน Karura สำหรับ
+การพัฒนาเครือข่าย เหมือนกับ
 
 298
 00:20:38,800 --> 00:20:43,520
-token utility for Karura as Acala. This
-will be used for transaction fees and 
+การใช้งานเหรียญสำหรับ Karura กับ Acala
+โดยจะถูกใช้เพื่อค่าธรรมเนียมการทำธุรกรรมและ
 
 299
 00:20:43,520 --> 00:20:47,440
-governance of the network as well as
-several other different use cases like 
+การกำกับดูแลเครือข่ายตลอดจน
+กรณีการใช้งานอื่นๆอีกหลายกรณีเช่น
 
 300
 00:20:47,440 --> 00:20:50,400
-deploying smart contracts and other
-use cases. 
+การปรับใช้ smart contract และ
+กรณีอื่นๆ
 
 301
 00:20:53,680 --> 00:20:59,440
-How do we launch on Kusama?
-We need to win an auction against 
+เราเปิดตัว Kusama อย่างไร?
+เราต้องการจะชนะการโดยต้องเจอกับ
 
 302
 00:21:00,400 --> 00:21:04,160
-other pairchain teams in order to
-launch in this 
+ทีม parachain อื่นๆ ที่ต้องการเปิดตัว
 
 303
 00:21:04,160 --> 00:21:08,000
-slot here on Kusama. That process
-looks like this. 
+บน slot นี้ของ Kusama การดำเนินเป็นแบบนี้
 
 304
 00:21:10,880 --> 00:21:15,200
-What you can see here, where this
-trophy, is this is the the biggest event, 
+คุณสามารถดูที่นี่ ถ้วยรางวัล,
+นี้เป็นงานอีเวนท์ที่ยิ่งใหญ่ที่สุด
 
 305
 00:21:15,200 --> 00:21:16,240
-from here 
+จากตรงนี้
 
 306
 00:21:16,240 --> 00:21:19,520
-to here. This is the parachain auction,
-where we 
+ถึงนี้ นี่คือการประมูล parachain
+ที่ซึ่ง
 
 307
 00:21:19,520 --> 00:21:22,400
-and other teams are bidding against each
-other in an auction 
+ทีมต่างๆพยายามจะ bid แข่งกับทีมอื่นในการประมูล
 
 308
 00:21:23,360 --> 00:21:29,200
-to try to win this first slot on Kusama.
-The goal for the Karura team is absolutely 
+เพื่อที่จะชนะ slot แรกบน Kusama
+เป้าหมายของ Karura แน่นอนว่า
 
 309
 00:21:29,200 --> 00:21:31,840
-to win
-the auction number one. 
+คือการชนะ
+เป็นที่หนึ่งของการประมูล
 
 310
 00:21:31,840 --> 00:21:34,080
-We want to be the first team to launch on
-Kusama. 
+พวกเราต้องการเป็นทีมแรกที่เปิดตัวบน
+Kusama
 
 311
 00:21:34,880 --> 00:21:38,000
-Before the auction starts, there will
-also be this thing called a crowdloan 
+ก่อนที่การประมูลจะเริ่ม มีอีก
+อย่างหนึ่งเรียกว่า crowdloan
 
 312
 00:21:38,000 --> 00:21:40,800
-that opens.
-A crowdloan is actually how the 
+ที่เปิดขึ้นมา
+จริงๆแล้ว crowdloan เป็นวิธีที่
 
 313
 00:21:40,800 --> 00:21:43,840
-community can contribute KSM as you see
-here 
+community สามาถสนับสนุน KSM ได้ตามที่คุณเห็น
+ที่นี่
 
 314
 00:21:44,640 --> 00:21:48,080
-to our crowdloan, so that we can use all
-the KSM 
+สำหรับ crowdloan เราสามารถใช้ KSM ทั้งหมด
 
 315
 00:21:49,360 --> 00:21:51,360
-that we have in our crowdloan as our
-bid 
+ที่เรามีใน crowdloan เพื่อ bid
 
 316
 00:21:52,480 --> 00:21:55,840
-in the auction. When we win the
-auction, 
+ในการประมูล เมื่อเราชนะ
+การประมูล
 
 317
 00:21:55,840 --> 00:22:00,800
-Karura will then launch on Kusama and
-when that happens all the KSM that was 
+Karura จะ เปิดตัวบน Kusama และ
+เมื่อมันเกิดขึ้น KSM ทั้งหมดที่
 
 318
 00:22:00,800 --> 00:22:04,720
-contributed back here
-to the crowdloan will be locked in the 
+ถูกลงทุนไป จะกลับมาสู่
+crowdloan และจะถูกล็อคใน
 
 319
 00:22:04,720 --> 00:22:08,720
 Kusama
-relaychain. It will not be touched, it 
+relay chain มันจะไม่ถูกแตะต้อง มัน
 
 320
 00:22:08,720 --> 00:22:13,040
-can't be touched by the team at all.
-And then at the same time the native 
+ทีมจะไม่สามารถมายุ่งกับมันได้
+และในเวลาเดียวกัน
 
 321
 00:22:13,040 --> 00:22:18,240
-token of Karura will be issued
-to all the contributors at a 12 to 1 
+เหรียญของ Karura จะถูกส่งออก
+ไปที่ผู้ที่ลงทุนในเรท 12 ต่อ 1
 
 322
 00:22:18,240 --> 00:22:22,720
-minimum
-ratio. KAR gets distributed to everyone 
+เป็นอย่างน้อย
+KAR จะถูกแจกจ่ายไปให้ทุกคน
 
 323
 00:22:22,720 --> 00:22:26,000
-who contributed KSM and then Karura would
-launch, 
+ที่ลงเงิน KSM และเมื่อ Karura เปิดตัว
 
 324
 00:22:26,000 --> 00:22:29,120
-all the DeFi applications would be live
-and we would be 
+แอปพลิเคชัน DeFi ทั้งหมดจะทำงาน
+ซึ่งเป็น
 
 325
 00:22:29,120 --> 00:22:33,200
-kind of in business. At the end
-of the 48-week slot, 
+วิธีการทำงาน หลังจากจบ
+48 สัปดาห์
 
 326
 00:22:34,080 --> 00:22:38,080
-all the KSM that was contributed by
-anyone who 
+KSM ทั้งหมดที่ได้รับการสนับสนุน
+จากใครก็ตามที่
 
 327
 00:22:38,080 --> 00:22:40,880
-participated in the crowdloan would then be
-returned to them. 
+มีส่วนร่วมใน crowdloan จะได้
+รับกลับคืน
 
 328
 00:22:43,040 --> 00:22:45,920
-This is what the Karura crowdloan will
-look like. 
+นี่คือสิ่งที่ Karura crodloan
+เป็น
 
 329
 00:22:45,920 --> 00:22:50,640
-We will start with a minimum of 12 KAR
-for every 1 KSM. 
+เราจะเริ่มที่ 12 KAR
+สำหรับทุกๆ 1 KSM เป็นอย่างน้อย
 
 330
 00:22:51,360 --> 00:22:54,560
-This is the reward that everyone who
-contributes KSM in the  
+นี่คือรางวัลสำหรับทุกคนที่
+สนับสนุน KSM ใน
 
 331
 00:22:54,560 --> 00:22:55,440
-crowdloan would
-get 
+crowdloan จะได้รับ
+
 
 332
 00:22:56,000 --> 00:23:01,120
-in KAR. So depending on the participation,
-the amount of KAR could be much higher 
+KAR ดังนั้นขึ้นอยู่กับการมีส่วนร่วม
+จำนวน KAR ที่ได้รับสามารถมาก
+
 
 333
 00:23:01,120 --> 00:23:03,440
-than 12 but this is just the baseline
-that we've set. 
+กว่า 12 แต่นี่คือขั้นต่ำ
+ที่พวกเราตั้งไว้
 
 334
 00:23:05,840 --> 00:23:07,680
-Down here you can see the
-30%. 
+ข้างล่างนี่คุณจะเห็น
+30%
 
 335
 00:23:08,960 --> 00:23:12,400
-What this is referring to is that 30%
-of the tokens, that are 
+ซึ่งสิ่งนี้หมายความว่า 30%
+ของโทเค็นนี้ 
 
 336
 00:23:12,400 --> 00:23:17,360
-distributed to contributors, will be
-liquid when the network launches, the 
+ถูกแจกจ่าย ผู้สนับสนุน
+จะเป็นสภาพคล่องของเครือข่ายที่เปิดตัว
 
 337
 00:23:17,360 --> 00:23:22,400
-other 70% will then
-will then vest over the remainder of 
+ส่วนอีก 70%
+จะปล่อยให้ส่วนที่เหลือ
 
 338
 00:23:22,400 --> 00:23:25,760
-the 48 weeks, so gradually
-every day. 
+ใน 48 สัปดาห์ ทุกๆวัน
 
 339
 00:23:30,960 --> 00:23:33,360
-Now, in terms of the liquidity mining
-program, 
+ตอนนี้ ในแง่ของโปรแกรม mining สภาพคล่อง
 
 340
 00:23:34,160 --> 00:23:37,840
-another thing that I'm really
-excited to get started, so 19% 
+อีกอย่างที่ฉันตื่นเต้น
+ที่จะเริ่มจริงๆ 19%
 
 341
 00:23:37,840 --> 00:23:41,040
-of the first year's circulating supply
-of KAR 
+ของจำนวน KAR ที่หมุนเวียนในปีแรก
 
 342
 00:23:41,920 --> 00:23:46,400
-will be distributed in the form of
-liquidity mining or liquidity provider 
+จะถูกแจกจ่ายไปในรูปการ mining สภาพคล่อง หรือ
+โปรแกรม
 
 343
 00:23:46,400 --> 00:23:47,440
-programs. 
+การเติมสภาพคล่อง
 
 344
 00:23:47,440 --> 00:23:49,840
-This translates to 6% of the
-total supply 
+นี่หมายถึง 6% ของ
+จำนวน
 
 345
 00:23:50,480 --> 00:23:54,160
-and just keep in mind the supply of
-Karura is fixed, it will never increase. 
+ทั้งหมด และจงจำไว้เสมอว่า จำนวนเหรียญ
+ของ Karura นั้นจะไม่เพิ่มขึ้น
 
 346
 00:23:54,720 --> 00:23:58,080
-So pretty significant opportunity to be
-involved in 
+นี่เป็นโอกาสสำคัญมากที่จะได้เป็น
 
 347
 00:23:58,080 --> 00:24:04,240
-the early liquidity providing program.
-Liquidity mining rewards can be 
+ผู้เติมสภาพคล่องก่อนใครๆ
+รางวัลการ mining สภาพคล่อง สามารถถูก
 
 348
 00:24:04,240 --> 00:24:07,200
-distributed in 3 primary ways:
-through 
+แจกจ่ายไปได้ 3 ทาง:
 
 349
 00:24:07,200 --> 00:24:12,800
-providing liquidity in the DEXs, through
-minting kUSD stablecoins 
+ผ่านการเติมสภาพคล่องใน DEXs, ผ่าน
+การ minting kUSD stablecoin
 
 350
 00:24:12,800 --> 00:24:18,800
-and then for staking KSM
-for liquid KSM or LKSM. 
+และการ staking KSM
+เพื่อเติมสภาพคล่อง KSM หรือ LKSM
 
 351
 00:24:19,760 --> 00:24:24,720
-These interest rates or these APY
-will that will definitely vary over time. 
+อัตราดอกเบี้ยหรือ APY
+จะเปลี่ยนแปลงไปตามเวลา
 
 352
 00:24:24,720 --> 00:24:28,400
-There's going to be times when certain
-trading pairs or certain 
+ย่อมมีบางครั้งที่บางคู่เทรดหรือ
 
 353
 00:24:29,040 --> 00:24:32,320
-protocols need more liquidity and in
-that case 
+บางโปรโคคอลต้องการสภาพคล่องที่มากขึ้น
+ในกรณีนี้
 
 354
 00:24:32,880 --> 00:24:37,840
-the APY would be would rise
-for the ones that need more liquidity 
+APY จะพุ่งสูงขึ้น
+สำหรับอันที่ต้องการสภาพคล่อง
 
 355
 00:24:37,840 --> 00:24:45,840
-and potentially decline for the ones who
-are sufficiently liquid at the time. 
+และอาจลดลงสำหรับอันที่
+มีสภาพคล่องเพียงพอในขณะนั้น
 
 356
 00:24:47,200 --> 00:24:50,000
-This is an example of of one person
-and 
+นี่คือตัวอย่างของคนหนึ่ง
 
 357
 00:24:51,040 --> 00:24:54,080
-having the ability to earn these
-liquidity mining 
+ที่มีความสามารถในการได้รับ
+รางวัลจาก
 
 358
 00:24:54,080 --> 00:24:57,840
-rewards through these three main
-mechanisms, minting stable coins 
+การ mining สภาพคล่องผ่าน 3 กลไกล
+หลัก, การ minting stablecoin
 
 359
 00:24:58,560 --> 00:25:03,200
-for a specific APY at that time,
-providing liquidity to the DEXs, 
+สำหรับ APY เฉพาะในขณะนั้น
+การเติมสภาพคล่องให้ DEX
 
 360
 00:25:03,200 --> 00:25:05,680
-and then minting LKSM. 
+และการ minting LKSM
 
 361
 00:25:08,560 --> 00:25:12,160
-These numbers here are not final
-or set and these will 
+ตัวเลขเหล่านี้ยังไม่ใช่สุดท้าย
+หรือเป็นการเซ็ท และมัน
 
 362
 00:25:12,160 --> 00:25:15,760
-continually vary and be
-adjusted, 
+แปรผันกันต่อไปเรื่อยๆ
 
 363
 00:25:16,560 --> 00:25:20,240
-but this is what the decks could
-look like. One of the first pairs that 
+แต่นี่คือสิ่งที่เด็คทำได้
+หนึ่งในคู่แรกที่
 
 364
 00:25:20,240 --> 00:25:25,360
-will go live is
-the KAR to KSM pair. There will be 
+จะเกิดมีคือ
+คู่ KAR - KSM  มี
 
 365
 00:25:25,360 --> 00:25:29,600
-rewards for that pair
-at some APY given the day. 
+รางวัลสำหรับคู่เหรียญ
+ที่ APY ให้ในวันนั้น
 
 366
 00:25:30,560 --> 00:25:33,200
-There could also be other pairs like KSM,
-kUSD, 
+อาจมีคู่อื่นเช่น KSM - kUSD,
 
 367
 00:25:33,760 --> 00:25:36,640
-kUSD BTC, and this will all continue to 
+kUSD - BTC และจะมีมากขึ้น
 
 368
 00:25:36,640 --> 00:25:39,680
-evolve
-over time. Also 
+ตามกาลเวลา
 
 369
 00:25:40,640 --> 00:25:44,720
-with the stablecoin we will see
-liquidity mining rewards for people who 
+ด้วยกันกับ stablecoin เราจะเห็น
+รางวัลการ mining สภาพคล่อง สำหรับผู้
 
 370
 00:25:44,720 --> 00:25:48,720
-actually go
-and take out a loan of KUSD. 
+ที่นำเงินกู้ kUSD ออก
 
 371
 00:25:49,680 --> 00:25:53,440
-For minting a stablecoin by taking out
-a loan you would earn additional 
+สำหรับการ minting, stablecoin โดยการนำ
+เงินกู้ออก คุณจะได้รับ
 
 372
 00:25:54,400 --> 00:25:55,840
-kUSD on that reward. 
+kUSD เป็นรางวัล
 
 373
 00:25:59,120 --> 00:26:04,560
-And then last LKSM. So there will be
-additional incentives for minting 
+และสุดท้าย LKSM จะมี
+แรงจูงใจเพิ่มเติมสำหรับการ minting
 
 374
 00:26:05,520 --> 00:26:08,640
-LKSM through the action of actually
-staking 
+LKSM ผ่านการ staking
 
 375
 00:26:08,640 --> 00:26:11,120
-KSM and those rewards would be 
+KSM และ รางวัลพวกนั้นจะ
 
 376
 00:26:11,120 --> 00:26:12,560
-distributed in
-KAR. 
+แจกจ่ายในรูปของ KAR
 
 377
 00:26:15,600 --> 00:26:20,320
-There's also crosschain assets that
-will be making it their way to 
+นอกจากนี้ยังมีทรัพย์สิน crosschain
+ทีกำลังจะไปสู่
 
 378
 00:26:20,320 --> 00:26:25,120
-Karura. These are yet to be finalized,
-but things like Bitcoin and Ethereum, 
+Karura สิ่งเหล่านี้ยังไม่ได้รับการสรุป
+แต่สิ่งต่างเช่นๆ Bitcoin และ Ethereum
 
 379
 00:26:25,920 --> 00:26:29,440
-if we needed more Bitcoin liquidity from
-say one of the bridges, we could also 
+ถ้าเราต้องการสภาพคล่องของ Bitcoin จาก
+หนึ่งในการบริดจ์ เราสามารถ
 
 380
 00:26:29,440 --> 00:26:31,920
-incentivize people to bring Bitcoin over
-to 
+ให้แรงจูงใจกับผู้คนที่นำ Bitcoin มาสู่
 
 381
 00:26:31,920 --> 00:26:37,840
-Karura. That's it.
-Thanks for for the patience and 
+Karura จบแล้ว
+ขอบคุณสำหรับความอดทนและ
 
 382
 00:26:37,840 --> 00:26:40,000
-sitting through this. I hope you learned
-something new. 
+นั่งฟังจนถึงตอนนี้ ฉันหวังว่าคุณได้เรียนรู้
+สิ่งใหม่ๆ
 
 383
 00:26:40,880 --> 00:26:45,600
-I know we have a team
-watching at the meetup here in China, 
+พวกเรามีทีม
+ที่กำลังทำงานที่งานมีทอัพ ในประเทศจีน
 
 384
 00:26:45,600 --> 00:26:49,280
-we've also got our team online,
-we're always on Discord 
+พวกเรามีทีมออนไลน์
+และอยู่บน Discord ตลอดเวลา
 
 385
 00:26:49,280 --> 00:26:52,560
-or on Twitter. So feel free to ask us
-questions. 
+หรือบน twitter ดังนั้นอย่าเกรงใจที่จะถาม
+คำถามพวกเรา
 
 386
 00:26:53,120 --> 00:26:56,080
-One thing that I would encourage you to
-do after today is to go to 
+สิ่งหนึ่งที่อยากแนะนำคุณให้
+ทำหลังจากวันนี้คือการไปที่
 
 387
 00:26:56,080 --> 00:27:00,720
-apps.akala.network
-Everything that you've seen today is 
+apps.acala.network
+ทุกอย่างที่คุณเห็นวันนี้
 
 388
 00:27:00,720 --> 00:27:03,680
-live on testnet and ready to launch as
-soon as we win 
+อยู่บน testnet และพร้อมที่จะเปิดตัว
+เมื่อเราชนะ
 
 389
 00:27:03,680 --> 00:27:07,840
-the auction on Kusama and the
-auction on Polkadot. 
+การประมูลบน Kusama และ
+การประมูลบน Polkadot
 
 390
 00:27:08,560 --> 00:27:12,320
-So definitely go in and test out these
-things. You can get testnet 
+เข้าไปทดสอบกันได้เลย
+คุณสามารถลองเหรียญ
 
 391
 00:27:12,320 --> 00:27:16,640
-tokens through that website
-and then try things out. Our goal is to 
+testnet ผ่านเว็บไซต์นั้น
+และทดลองอย่างอื่นด้วย เป้าหมายของเรา
 
 392
 00:27:16,640 --> 00:27:20,240
-win
-the first parachain auction on Kusama 
+คือการชนะ
+การประมูล parachain แรก บน Kusama
 
 393
 00:27:20,240 --> 00:27:23,440
-with Karura and our goal is to win the
-first parachain auction on 
+ด้วย Karura  เป้าหมายของเราคือการชนะ
+การประมูล parachain แรกบน
 
 394
 00:27:23,440 --> 00:27:26,960
-Polkadot with Acala, so we really
-appreciate your 
+Polkadot ด้วย Acala ดังนั้นเราจะ
+ยินดีมากๆ
 
 395
 00:27:26,960 --> 00:27:29,600
-support in helping achieve this this
-goal. 
+กับการสนับสนุนให้เราบรรลุเป้าหมายนี้
 
 396
 00:27:31,680 --> 00:27:38,000
-If you have the desire to follow us on
-any of our Social channels, there's 
+ถ้าคุณอยากที่จะติดตามเราบน
+ช่องทาง Social ต่างๆ
 
 397
 00:27:38,000 --> 00:27:40,880
-the linktree for Acala and a linktree
-for 
+มี linktree สำหรับ Acala และ linktree
+สำหรับ
 
 398
 00:27:40,880 --> 00:27:45,360
-Karura. We've basically put every different
-link that we have in the community 
+Karura โดยพื้นฐานแล้วเราจะใส่ทุกลิงค์
+ที่เรามีใน community
 
 399
 00:27:46,240 --> 00:27:50,160
-on these websites, so you can
-find anywhere to follow us there. 
+บนเว็บไซต์เหล่านี้ ดังนั้นคุณสามารถ
+ไป follow เราได้จากช่องทางไหนก็ได้
 
 400
 00:27:50,960 --> 00:27:54,880
-So that's it. Hopefully you guys have a
-good day/good night. 
+เอาละ จบแล้ว หวังว่าทุกคนจะมีวันที่ดี
+ฝันดี
 
 401
 00:27:54,880 --> 00:27:57,920
-Thanks for watching and we'll talk soon!
-Bye.
+ขอบคุณสำหรับการรับชม ค่อยมาคุยกันต่อ
+บาย
 

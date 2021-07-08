@@ -1,0 +1,2265 @@
+1
+00:00:04,000 --> 00:00:06,240
+เรากำลังเรคคอร์ด ผมอยู่ที่นี่กับ Bette Chen
+
+2
+00:00:06,880 --> 00:00:12,240
+หนึ่งในผู้ร่วมก่อตั้งและ CEO,
+Bette คุณอยากจะเริ่ม
+
+3
+00:00:12,240 --> 00:00:15,920
+แนะนำตัวคร่าวๆ
+และบอกสิ่งที่คุณทำอยู่ให้กับ Acala หรือยัง
+
+4
+00:00:16,480 --> 00:00:21,360
+ได้เลย ขอบคุณ Dan และ
+สวัสดีทุกคน. ฉัน Bette
+
+5
+00:00:21,360 --> 00:00:25,680
+ฉันเป็นผู้ร่วมก่อตั้ง Acala 
+ตอนนี้อยู่ที่ Auckland
+
+6
+00:00:25,680 --> 00:00:30,160
+นิวซีแลนด์. 
+มึหลายคนที่ทำงานอยู่ที่นี่
+
+7
+00:00:30,160 --> 00:00:34,080
+ซึ่งเป็นที่ตั้งของ Acala แต่แน่นอนว่าเรามาจาก
+หลากหลายเชื้อชาติ
+
+8
+00:00:35,360 --> 00:00:37,760
+มี อเมริกา และ อเมริกาใต้
+
+9
+00:00:38,560 --> 00:00:42,400
+จีน ยุโรป และ สิงคโปร์ด้วย
+
+10
+00:00:43,200 --> 00:00:48,000
+นั่นคือสภาพแวดล้อมที่พวกเราทำงานอยู่ 
+ไกลมากและหลากหลายมาก
+
+11
+00:00:48,000 --> 00:00:50,080
+ซึ่งมันกระจายอำนาจจริงๆ
+
+12
+00:00:52,080 --> 00:00:57,040
+โดยตัวฉัน กำลังทำเกี่ยวกับ
+งานวิศวกรรม อยู่เบื้องหลัง
+
+13
+00:00:58,160 --> 00:01:01,680
+โดยฉันจบทางด้าน Software มา
+ฉันเคยเป็น dev
+
+14
+00:01:02,240 --> 00:01:04,560
+หลังจากจบมหาลัย แต่หลังจากนั้น
+
+15
+00:01:04,560 --> 00:01:08,560
+ฉันโฟกัสเกี่ยวกับผลผลิต บน tech มากขึ้น
+
+16
+00:01:09,360 --> 00:01:12,960
+บังเอิญมากๆ เมื่อ 6-7 ปีก่อน
+
+17
+00:01:12,960 --> 00:01:17,200
+ฉันสะดุดตากับ Bitcoin เหมือนกับหลายๆคนที่นี่
+เมื่อคุณเข้ามาแล้ว
+
+18
+00:01:17,200 --> 00:01:20,080
+คุณจะกลับออกไปไม่ได้
+โดยผมเริ่มต้น
+
+19
+00:01:20,080 --> 00:01:23,280
+กับการเรียนรู้ทุกอย่างเกี่ยวกับ Bitcoin
+ต่อมาก็ Ethereum
+
+20
+00:01:23,920 --> 00:01:28,240
+และนั่นคือส่วนหนึ่งที่ทำให้ฉันเปลี่ยนอาชีพ
+
+21
+00:01:28,240 --> 00:01:31,200
+และย้ายเข้ามาทำเกี่ยวกับ crypto เต็มตัวในปีหลังๆ
+
+22
+00:01:32,400 --> 00:01:35,200
+คุณรู้ไหม เมื่อคุณเข้ามาแล้ว
+
+23
+00:01:35,760 --> 00:01:39,360
+คุณจะเจอกับคนที่ใจตรงกับคุณ และเจ๋งมากพอ
+
+24
+00:01:39,360 --> 00:01:43,360
+ที่จะทำให้คุณอยากทำงานด้วย
+นั่นคือที่ที่ฉันเจอกับผู้ร่วมก่อตั้งท่านอื่นคือ
+
+25
+00:01:43,360 --> 00:01:47,760
+Ruitao และ Bryan วิศวกรมากพรสวรรค์
+และเป็นผู้บริหาร
+
+26
+00:01:47,760 --> 00:01:51,920
+ที่มีส่วนสำคัญที่ทำให้เกิด Acala
+พวกเรา มีทีมที่หลากลาย
+
+27
+00:01:52,560 --> 00:01:56,240
+เรามี วิศวกรระดับท็อป 
+และผู้ลงทุนระดับท็อป
+
+28
+00:01:56,240 --> 00:01:59,120
+และมีผู้คนระดับท็อป
+ที่ทำงานและทำให้ทีมเติบโตขึ้นอีกด้วย
+
+29
+00:02:00,480 --> 00:02:02,160
+เช่น Dan ที่ร่วมกับเราปีนี้
+
+30
+00:02:04,160 --> 00:02:06,080
+นั่นคือสิ่งที่เราเป็นมา
+
+31
+00:02:06,080 --> 00:02:10,720
+จนถึงวันนี้ เจ๋งมาก ขอบคุณ
+เรากำลังจะพูดถึง Acala
+
+32
+00:02:10,720 --> 00:02:13,360
+และอาจจะพูดถึงด้านเทคนิค
+
+33
+00:02:13,360 --> 00:02:16,000
+แต่เราจะมาเริ่มต้นกันที่คุณกันก่อน
+
+34
+00:02:16,720 --> 00:02:20,160
+โดยจะให้ผู้คนได้รู้จักเกี่ยวกับคุณมากขึ้น
+
+35
+00:02:20,160 --> 00:02:24,240
+ช่วยพูดเกี่ยวกับสิ่งที่คุณชอบที่จะทำใน
+
+36
+00:02:24,240 --> 00:02:29,440
+เวลาว่างของคุณ เมื่อคุณไม่ได้ทำงาน 
+แน่นอน
+
+37
+00:02:30,080 --> 00:02:33,520
+ผมสนใจหลายอย่างเลย แต่สิ่งที่
+ชอบที่สุด
+
+38
+00:02:33,520 --> 00:02:36,880
+คือการเล่น สโนวบอร์ด มันคือหนึ่งในสิ่ง
+ที่ฉันคิดถึง
+
+39
+00:02:36,880 --> 00:02:40,560
+ตั้งแต่ที่ผมย้ายมาทำงานเกี่บวกับคริปโต
+ฉันย้ายมาจาก
+
+40
+00:02:40,560 --> 00:02:44,080
+Christchurch ซึ่งเป็นเกาะทางใต้ของนิวซีแลนด์
+
+41
+00:02:44,080 --> 00:02:48,000
+ที่จริงเกาะทางเหนือ จะอบอุ่นกว่า 
+เพราะว่าอยู่ห่างไกลจาก
+
+42
+00:02:48,000 --> 00:02:50,640
+ภูเขา
+ฉันเคยไปเล่นสโนวบอร์ดทุกๆ
+
+43
+00:02:50,640 --> 00:02:53,120
+วันหยุดสุดสัปดาห์ ฉันหวังว่าจะได้กลับ
+ไปเล่นในช่วง
+
+44
+00:02:54,400 --> 00:02:59,840
+ฤดูหนาวนี้ เจ๋ง
+นี่หมายถึง
+
+45
+00:02:59,840 --> 00:03:03,760
+สถานที่ที่คุณอยู่ แต่ อะไรที่
+
+46
+00:03:03,760 --> 00:03:06,320
+บอกถึงสิ่งที่น่าสนใจเกี่ยวกับคุณ
+
+47
+00:03:06,320 --> 00:03:09,040
+หลายๆคนไม่รู้เกี่ยวกับเรื่องนี้
+
+48
+00:03:10,400 --> 00:03:16,480
+ฉันนั่งสมาธิ คุณช่วงบอกสิ่งที่คุณทำ
+
+49
+00:03:16,480 --> 00:03:20,880
+ในช่วงต้นปีได้ไหม
+โอ้ แน่นอน ฉันได้ไป"ถ้ำ" มา
+
+50
+00:03:21,840 --> 00:03:25,680
+ฉันได้ไปนั่งสมาธิ ที่เรียกว่า
+
+51
+00:03:25,680 --> 00:03:29,760
+วิปัสสนา โดยหลักๆคือการ
+ปิดสวิตช์ ฉันคิดว่า
+
+52
+00:03:30,400 --> 00:03:33,840
+อาจจะไม่ใช่สำหรับทุกคนในโลกคริปโต
+แต่โดยเฉพาะในคริปโต คุณจะต้อง
+
+53
+00:03:33,840 --> 00:03:37,120
+ตื่นตัวตลอดเวลา ตลาดมีทั้งขึ้นและลง
+
+54
+00:03:37,920 --> 00:03:43,920
+ทำไห้คนเกิดสภาวะทางอารมณ์ได้
+และยิ่งถ้าคุณพัวพันกับ
+
+55
+00:03:43,920 --> 00:03:48,000
+สิ่งที่คุณกำลังทำ คุณอาจจะเสีย
+ตัวตนของคุณไปได้
+
+56
+00:03:48,000 --> 00:03:51,280
+สิ่งเล็กๆอาจจะทำให้เกิดความโกลาหลได้
+
+57
+00:03:52,000 --> 00:03:56,080
+ความวิตกกังวล อย่างไรก็ตาม
+เมื่อคุณปิดสวิตช์
+
+58
+00:03:56,080 --> 00:03:59,520
+ปิดคอมพิวเตอร์ของคุณ มองที่
+ครอบครัว มองที่
+
+59
+00:04:01,040 --> 00:04:03,920
+ความสัมพันธ์ที่คุณมีกับ
+
+60
+00:04:03,920 --> 00:04:06,800
+ชีวิต
+คุณจะรู้สึกว่าคุณอยู่กับตัวเอง
+
+61
+00:04:06,800 --> 00:04:09,440
+หนึ่งในเหตุผลที่ฉันทำ
+
+62
+00:04:09,440 --> 00:04:14,080
+คือการปิดสวิตช์และชาร์ตแบต และมัน
+
+63
+00:04:14,080 --> 00:04:17,920
+ก็ได้ผล ไม่ใช่ทุกคนที่จะต้อง
+
+64
+00:04:17,920 --> 00:04:20,160
+เข้าถ้ำ 10 วัน เพื่อปลดปล่อย
+
+65
+00:04:20,160 --> 00:04:23,840
+หรือแนวๆนี้ มันสุดโต่ง
+แต่ฉันคิดว่าพวกเราสามารถ
+
+66
+00:04:23,840 --> 00:04:27,840
+ปิดสวิตช์ 10 นาที 20 นาที หรือหนึ่งชั่วโมงต่อวัน
+
+67
+00:04:27,840 --> 00:04:30,880
+เพื่อที่จะอยู่กับตัวเองผ่านการนั่งสมาธิ
+
+68
+00:04:30,880 --> 00:04:34,160
+หรือบางทีอาจจะเป็นการออกกำลังกาย
+
+69
+00:04:34,160 --> 00:04:36,960
+กีฬา, วิ่ง หรืออะไรก็ตามที่คุณทำ
+ฉันก็วิ่งบ้าง
+
+70
+00:04:38,880 --> 00:04:41,840
+หวังว่านั่นจะช่วย
+เจ๋งมาก
+
+71
+00:04:43,440 --> 00:04:49,120
+นี่คือคำถามที่ได้รับจาก Tim Ferris 
+ซึ่งเป็นคนดำเนินรายการ
+
+72
+00:04:49,120 --> 00:04:52,400
+podcast และ เขียนหนังสือต่างๆ เขาถามถึง
+
+73
+00:04:52,400 --> 00:04:54,720
+ผู้คนมากมายที่เขาสัมภาษณ์หลายคำถาม
+
+74
+00:04:55,520 --> 00:04:59,280
+หนึ่งในคำถามที่ผมคิดว่าน่าสนใจคือ
+ถ้าคุณมี
+
+75
+00:04:59,280 --> 00:05:02,240
+ป้ายโฆษณาใหญ่ๆที่จะบอกข้อความถึง
+
+76
+00:05:02,960 --> 00:05:06,720
+ผู้คน 1000 ล้านคน
+คุณจะบอกอะไรพวกขา
+
+77
+00:05:08,400 --> 00:05:13,520
+"เลือกสิ่งที่ไม่รู้จัก" หรือ
+"เลือกยาสีแดง"
+(ปรัชญาในหนังเรื่อง the matrix)
+
+78
+00:05:15,280 --> 00:05:16,640
+Bryan ตอบว่า "ซื้อบิตคอยน์"
+
+79
+00:05:23,280 --> 00:05:24,640
+คุณตอบคำถามนี้ไปแล้ว:
+
+80
+00:05:24,640 --> 00:05:28,000
+เมื่อคืนรู้สึกเครียดและไม่สามารถโฟกัสได้ คุณจะทำยังไง
+
+81
+00:05:28,560 --> 00:05:31,360
+นอกจากการทำสมาธิแล้ว
+คุณคิดว่าเป็นประโยชน์เมื่อ
+
+82
+00:05:32,240 --> 00:05:34,400
+คุณรู้สึกโฟกัสไม่ได้อีกไหม
+
+83
+00:05:36,560 --> 00:05:39,520
+ฉันคิดว่าเมื่อคุณรู้สึกแย่
+
+84
+00:05:39,520 --> 00:05:43,920
+เพราะคุณเครียดเกินไป หรือวิตกกังวัล หรือ สภาวะทางอารมณ์
+
+85
+00:05:43,920 --> 00:05:47,920
+ส่วนใหญ่เป็นเพราะคุณไม่ได้อยู่กับปัจจุบัน
+ถ้าคุณ
+
+86
+00:05:47,920 --> 00:05:50,320
+ติดอยู่กับอดีต เช่น สิ่งที่คุณทำผิดพลาด
+
+87
+00:05:51,200 --> 00:05:54,560
+หรือ คุณคาดหวังกับอนาคต คาดเดาสิ่งที่
+
+88
+00:05:54,560 --> 00:05:55,120
+กำลังจะเกิด
+
+89
+00:05:55,760 --> 00:05:59,120
+คุณจะถูกทำให้รู้สึกแย่ตลอด
+
+90
+00:05:59,120 --> 00:06:01,680
+ถูกไหม สิ่งสำคัญคือ
+
+91
+00:06:03,120 --> 00:06:06,560
+ต้องทำยังไงถึงจะหยุดแพทเทิร์นแบบนี้ ส่วนใหญ่คือ
+
+92
+00:06:06,560 --> 00:06:09,680
+วิเคราะห์ สิ่งที่ทำลงไป และกลับมาสู่สถานะ
+
+93
+00:06:09,680 --> 00:06:11,920
+ปัจจุบัน นอกจากการทำสมาธิแล้วยังมี
+
+94
+00:06:11,920 --> 00:06:13,600
+หลายๆอย่างที่คุณทำได้ เช่น เล่นเทนนิส
+
+95
+00:06:14,560 --> 00:06:17,760
+เล่นกีฬาบางประเภทที่ทำให้
+
+96
+00:06:17,760 --> 00:06:22,960
+คุณไม่จดจ่อกับสิ่งที่ทำ
+
+97
+00:06:23,600 --> 00:06:28,320
+การวิ่งก็ดีเหมือนกัน หรือการออกกำลังหรือแค่มี
+
+98
+00:06:28,320 --> 00:06:32,080
+บทสนทนาที่ดี มีส่วนร่วมกับ
+
+99
+00:06:32,080 --> 00:06:36,000
+คนที่คุณรักก็ดีเช่นกัน
+นั่นเจ๋งมากๆ
+
+100
+00:06:38,480 --> 00:06:41,840
+โอเค เรามาเริ่มพูดถึงอาชีพของคุณ
+
+101
+00:06:41,840 --> 00:06:47,200
+หลังจากนั้นจะพูดถึง Acala และ Karura
+คุณบอกถึงเบื้องหลัง
+
+102
+00:06:47,200 --> 00:06:51,040
+การทำงาน อะไรที่ทำให้คุณมาสู่โลกคริปโตเรียบร้อยแล้ว
+
+103
+00:06:51,040 --> 00:06:54,080
+ช่วยพูดถึงการทำงานช่วงที่ผ่านมา
+
+104
+00:06:55,040 --> 00:06:56,480
+12,
+14 ชั่วโมงขึ้นไป
+
+105
+00:06:58,880 --> 00:07:02,080
+what drives you, what inspires you
+to do what you do 
+
+106
+00:07:02,080 --> 00:07:08,320
+every day?
+What drove me to crypto 
+
+107
+00:07:08,880 --> 00:07:13,200
+or the blockchain area, as I see the
+potential of how they can change the 
+
+108
+00:07:14,560 --> 00:07:17,920
+fabric of society, because
+Bitcoin kind of proved the 
+
+109
+00:07:17,920 --> 00:07:21,440
+point
+of value, we can take 
+
+110
+00:07:21,440 --> 00:07:25,840
+their power back to
+individuals, you're not beholden to 
+
+111
+00:07:25,840 --> 00:07:29,200
+any
+authority, everyone has 
+
+112
+00:07:29,200 --> 00:07:31,760
+ownership
+of what they're supposed to own. 
+
+113
+00:07:31,760 --> 00:07:35,680
+So Bitcoin made it possible
+that everyone owns 
+
+114
+00:07:35,680 --> 00:07:39,760
+their value or owns their property. We
+didn't used to have that before. 
+
+115
+00:07:39,760 --> 00:07:44,240
+I don't know if people realize that. When
+you have a 
+
+116
+00:07:44,240 --> 00:07:47,440
+bank card, the money on the bank card
+are not owned by you. 
+
+117
+00:07:47,440 --> 00:07:52,800
+The bank owes you some money. If
+you ask nicely, they will give you some 
+
+118
+00:07:52,800 --> 00:07:57,040
+back, but they could also just close the
+door or shut their servers 
+
+119
+00:07:57,040 --> 00:08:00,560
+and you wouldn't be able to access that
+value or that money! 
+
+120
+00:08:00,560 --> 00:08:03,920
+I think Bitcoin allows us to have
+real ownership, and then secondly, 
+
+121
+00:08:03,920 --> 00:08:07,840
+it allows
+to switch our mindset: 
+
+122
+00:08:09,840 --> 00:08:11,840
+no one actually owns the
+Bitcoin network. 
+
+123
+00:08:12,800 --> 00:08:16,080
+No one actually owns the monetary
+policy or no one actually 
+
+124
+00:08:17,760 --> 00:08:19,840
+controls the rules
+that governs 
+
+125
+00:08:19,840 --> 00:08:24,400
+who owns what. This is all governed
+by the bitcoin network. So those two 
+
+126
+00:08:24,400 --> 00:08:29,120
+things,
+Bitcoin only applies that to money and 
+
+127
+00:08:29,120 --> 00:08:32,320
+value,
+a very specific use case, however 
+
+128
+00:08:33,360 --> 00:08:36,400
+that proof of
+ownership 
+
+129
+00:08:36,400 --> 00:08:40,000
+and also resistance to some
+authority 
+
+130
+00:08:40,000 --> 00:08:44,400
+controlling everything and everyone's
+life, those two things can apply to 
+
+131
+00:08:44,400 --> 00:08:45,200
+almost 
+
+132
+00:08:45,200 --> 00:08:50,400
+every single aspect of our lives.
+That is kind of 
+
+133
+00:08:51,360 --> 00:08:55,120
+mind-bending and also inspiring
+that there are so many things that we 
+
+134
+00:08:55,120 --> 00:08:59,120
+can turn around
+in our life. For example 
+
+135
+00:09:00,720 --> 00:09:02,880
+I think
+we are currently beholden to 
+
+136
+00:09:02,880 --> 00:09:06,080
+many of the
+Web2 companies, which 
+
+137
+00:09:07,600 --> 00:09:11,120
+have done a great job
+providing products and services that 
+
+138
+00:09:11,120 --> 00:09:15,200
+make our lives more convenient,
+but, probably by design, they 
+
+139
+00:09:15,200 --> 00:09:18,640
+converge to this
+giant resource sucker 
+
+140
+00:09:19,600 --> 00:09:22,640
+and they are sucking up everybody's data and
+resource 
+
+141
+00:09:22,640 --> 00:09:27,040
+and are not able, probably also by design,
+to share 
+
+142
+00:09:27,040 --> 00:09:30,080
+any of those wealth or profits they
+generated through 
+
+143
+00:09:30,720 --> 00:09:36,640
+exploiting everyone's data. However,
+blockchain turns the entire model around. 
+
+144
+00:09:36,640 --> 00:09:37,920
+For example, when we built
+Acala, 
+
+145
+00:09:39,120 --> 00:09:44,880
+one thing that drives us every day is:
+how we measure our success ultimately 
+
+146
+00:09:44,880 --> 00:09:49,600
+is that we can actually hand the network over
+to all of the network 
+
+147
+00:09:49,600 --> 00:09:55,520
+I say "token holders", right?
+If we can be hands off like, as a 
+
+148
+00:09:55,520 --> 00:09:58,320
+core
+developer team, if we can actually go 
+
+149
+00:09:58,320 --> 00:10:00,400
+into that cave that I talked about
+earlier 
+
+150
+00:10:01,120 --> 00:10:05,920
+for 10 days 20 days 30 days without
+further monitoring the network, 
+
+151
+00:10:05,920 --> 00:10:10,480
+it can still be
+self-governing through its 
+
+152
+00:10:10,480 --> 00:10:14,560
+governance model
+and also economically sustainable 
+
+153
+00:10:14,560 --> 00:10:18,480
+through economic sovereignty
+from the network and 
+
+154
+00:10:19,840 --> 00:10:22,560
+the token holders can through
+governance 
+
+155
+00:10:22,560 --> 00:10:25,760
+vote to continue to manage and evolve
+the network. 
+
+156
+00:10:26,720 --> 00:10:31,280
+That what the success is! It is very
+idealistic probably, but I think it's 
+
+157
+00:10:31,280 --> 00:10:34,240
+it's very possible through
+the plan that we've put out and 
+
+158
+00:10:36,080 --> 00:10:39,520
+the proof that we've had so far,
+but of course everyone's anticipating 
+
+159
+00:10:40,240 --> 00:10:46,080
+the launch very soon. This is the
+direction that we are heading and this 
+
+160
+00:10:46,080 --> 00:10:50,640
+turns the model around because,
+if I walk into a bank today, while I can 
+
+161
+00:10:50,640 --> 00:10:53,920
+open
+a bank account and borrow a loan, but I 
+
+162
+00:10:53,920 --> 00:10:56,880
+would not be allowed to become a
+shareholder. 
+
+163
+00:10:56,880 --> 00:11:00,880
+Or if the CEO or other companies
+are misconducting, 
+
+164
+00:11:00,880 --> 00:11:03,920
+I would not be able to vote the CEO out.
+I have 
+
+165
+00:11:03,920 --> 00:11:08,000
+none of those rights. In a
+blockchain and in how we design 
+
+166
+00:11:08,000 --> 00:11:12,000
+the next generation network
+there's a co-ownership 
+
+167
+00:11:12,000 --> 00:11:15,920
+model. Anyone who participated,
+contributed in certain ways, 
+
+168
+00:11:15,920 --> 00:11:21,920
+they also co-own the platform or
+the network that they are 
+
+169
+00:11:21,920 --> 00:11:25,200
+participating in.
+This flips around the 
+
+170
+00:11:25,200 --> 00:11:28,800
+whole model
+of how you actually share the 
+
+171
+00:11:28,800 --> 00:11:31,280
+wealth that you generated, how you
+actually share 
+
+172
+00:11:31,280 --> 00:11:34,240
+the ownership and also how you share
+responsibility. 
+
+173
+00:11:35,280 --> 00:11:37,760
+These things all come in proportion
+to 
+
+174
+00:11:37,760 --> 00:11:42,480
+each other, but now at least we have a
+very 
+
+175
+00:11:43,680 --> 00:11:46,720
+reasonable or technological
+capable way 
+
+176
+00:11:46,720 --> 00:11:50,640
+for us to all implement that and roll
+that out to many aspects of life. 
+
+177
+00:11:51,440 --> 00:11:55,680
+For Acala, we are
+trying that out in a finance arena, 
+
+178
+00:11:55,680 --> 00:11:59,760
+but this technology can be used in many
+other fields and we are only at the very 
+
+179
+00:11:59,760 --> 00:12:02,480
+beginning
+of all the stuff that I was talking 
+
+180
+00:12:02,480 --> 00:12:06,480
+about. That's what drives me up every day
+because I know there are so many 
+
+181
+00:12:06,480 --> 00:12:10,400
+things that we could we could do
+and there are also so many things we 
+
+182
+00:12:10,400 --> 00:12:13,120
+haven't got to the point where we can
+hand off 
+
+183
+00:12:13,120 --> 00:12:17,040
+to say we are truly decentralized.
+Those are all the motivators. 
+
+184
+00:12:19,040 --> 00:12:21,120
+That makes me excited and
+inspired. 
+
+185
+00:12:22,080 --> 00:12:25,280
+Awesome. Thanks. And that leads
+into 
+
+186
+00:12:26,160 --> 00:12:33,200
+a couple other questions.
+Sticking to Acala for now. If you 
+
+187
+00:12:33,200 --> 00:12:37,920
+had to use like three adjectives
+or three descriptive words to describe 
+
+188
+00:12:37,920 --> 00:12:40,640
+Acala, what would those
+three words be? 
+
+189
+00:12:44,640 --> 00:12:45,680
+That's a tough question! 
+
+190
+00:12:50,160 --> 00:12:53,280
+So that would be a
+stable, 
+
+191
+00:12:57,200 --> 00:12:58,880
+a trusted (in a trustless way) 
+
+192
+00:13:02,320 --> 00:13:10,480
+and decentralized. That's great.
+Bryan's answer was "Polkadot 
+
+193
+00:13:10,480 --> 00:13:14,400
+DeFi Hub"
+Those were the three words. So I 
+
+194
+00:13:14,400 --> 00:13:18,800
+rephrased the question a little bit.
+Switching to Karura, 
+
+195
+00:13:19,680 --> 00:13:22,000
+how would you describe Karura in three
+words? 
+
+196
+00:13:26,880 --> 00:13:31,600
+It's actually easier.
+Karura is "hot", 
+
+197
+00:13:42,800 --> 00:13:43,440
+"innovative", 
+
+198
+00:13:45,040 --> 00:13:51,120
+and also "cool".
+Perfect! So, going back to 
+
+199
+00:13:52,240 --> 00:13:55,840
+the beginning of all of this
+with Acala, could you maybe just tell 
+
+200
+00:13:56,400 --> 00:14:00,000
+a brief story around how the teams came
+together, how 
+
+201
+00:14:00,000 --> 00:14:05,040
+Acala started, maybe what made you
+realize that there was this need for 
+
+202
+00:14:05,040 --> 00:14:08,160
+this DeFi parachain,
+a stablecoin, because I know you were 
+
+203
+00:14:08,160 --> 00:14:12,880
+working on Laminar at the time.
+So maybe just a little history of Acala. 
+
+204
+00:14:14,320 --> 00:14:17,120
+Sure, so prior to
+Acala, 
+
+205
+00:14:18,560 --> 00:14:24,160
+we set up Laminar.
+When I met 
+
+206
+00:14:24,160 --> 00:14:27,440
+Bryan and Ruitao, we decided to build
+something in 
+
+207
+00:14:27,440 --> 00:14:33,520
+the DeFi space. So we started Laminar, which
+is focused on synthetic asset 
+
+208
+00:14:33,520 --> 00:14:37,360
+margin trading,
+but it's also a sort of DeFi 
+
+209
+00:14:37,360 --> 00:14:41,920
+protocol development
+house basically. It was right 
+
+210
+00:14:41,920 --> 00:14:46,800
+at the point where we decided to
+move all our focus on to Substrate 
+
+211
+00:14:46,800 --> 00:14:50,240
+development, because we built our
+prototype on Ethereum 
+
+212
+00:14:50,240 --> 00:14:53,360
+believe it or not. It actually launched
+on Coven. 
+
+213
+00:14:54,000 --> 00:14:57,120
+There's full synthetic margin
+training protocol in there. 
+
+214
+00:14:57,120 --> 00:15:00,880
+We're about to launch on Ethereum but
+that's also the beginning of you yfarming, 
+
+215
+00:15:01,760 --> 00:15:05,600
+and then we reevaluated
+everything and probably 
+
+216
+00:15:06,160 --> 00:15:09,760
+Substrate and Polkadot is a probably
+much better bet for the model 
+
+217
+00:15:09,760 --> 00:15:14,880
+that we are able to launch.
+Stablecon is actually a 
+
+218
+00:15:14,880 --> 00:15:18,800
+critical path
+in building that protocol and then at 
+
+219
+00:15:18,800 --> 00:15:21,840
+the time,
+when we started building in Substrate, 
+
+220
+00:15:21,840 --> 00:15:26,480
+which was like 2.5 plus
+years ago, it was very very early, not 
+
+221
+00:15:26,480 --> 00:15:30,480
+only the framework,
+Substrate was very in the early stage 
+
+222
+00:15:30,480 --> 00:15:34,080
+of development, but
+also the ecosystem was at a very early 
+
+223
+00:15:34,080 --> 00:15:38,880
+stage. We were probably one of the
+first for quite a while, the only 
+
+224
+00:15:38,880 --> 00:15:41,680
+commercial team that was building
+outside of Parity. 
+
+225
+00:15:42,640 --> 00:15:46,080
+But of course we
+believed 
+
+226
+00:15:46,080 --> 00:15:49,840
+things probably other people only see
+that today or believe that today. 
+
+227
+00:15:51,280 --> 00:15:53,360
+We saw the
+multi-chain future,  
+
+228
+00:15:53,360 --> 00:15:54,720
+we believed that
+Substrate 
+
+229
+00:15:55,680 --> 00:16:00,320
+was at that time the leading
+framework that we could use to achieve 
+
+230
+00:16:00,320 --> 00:16:04,960
+our goals. But of course today
+the gap is miles bigger, but at 
+
+231
+00:16:04,960 --> 00:16:07,040
+the time that was
+our conclusion. 
+
+232
+00:16:10,080 --> 00:16:12,720
+There's a stablecoin that needed
+to be built 
+
+233
+00:16:12,720 --> 00:16:15,280
+at the time. So we were approached by
+Web3 Foundation. 
+
+234
+00:16:15,920 --> 00:16:19,520
+We were thinking about it because in
+Polkadot when you build things 
+
+235
+00:16:19,520 --> 00:16:23,120
+the mindset needs to be way bigger, you
+are not building something that's 
+
+236
+00:16:23,120 --> 00:16:26,800
+preparatory or only serve your own
+purposes. If you are going to build 
+
+237
+00:16:26,800 --> 00:16:30,400
+something like a stablecoin, it will
+need to serve the community like a 
+
+238
+00:16:30,400 --> 00:16:34,080
+multi-chain community, right. Even you are
+talking about just within the Polkadot 
+
+239
+00:16:34,080 --> 00:16:36,800
+network,
+that has to be a community driven 
+
+240
+00:16:37,680 --> 00:16:41,840
+stablecoin
+product. So we 
+
+241
+00:16:41,840 --> 00:16:45,840
+thought it wouldn't be just Laminar to
+boat us, it wouldn't be quite right. 
+
+242
+00:16:46,720 --> 00:16:52,480
+At the time we went to this first
+Substrate Hackathon, held in Hangzhou, 
+
+243
+00:16:53,040 --> 00:16:56,320
+where Bryan, our other Co-founder, was a
+judge alongside Gavin. 
+
+244
+00:16:57,120 --> 00:16:59,600
+That was the time we met the
+Polkawallet team, 
+
+245
+00:17:00,240 --> 00:17:03,920
+led by Fuyao. They were one of the
+earliest developers also, 
+
+246
+00:17:03,920 --> 00:17:10,560
+creating a mobile wallet.
+They are also very solid builders, 
+
+247
+00:17:10,560 --> 00:17:14,400
+and then we saw Fuyao
+waving this hammer on stage and 
+
+248
+00:17:14,400 --> 00:17:17,920
+then raving about
+how much he hated all 
+
+249
+00:17:17,920 --> 00:17:22,880
+the ERC20, ICO
+craze, that kind of destroyed a lot of 
+
+250
+00:17:22,880 --> 00:17:27,120
+the reputation
+or a lot of people's faith in using 
+
+251
+00:17:27,120 --> 00:17:30,240
+crypto, in using blockchain as a new
+innovation 
+
+252
+00:17:30,240 --> 00:17:33,680
+to change many aspects of lives.
+Then everyone's 
+
+253
+00:17:33,680 --> 00:17:35,760
+thinking about ICOs and things like that.
+He's 
+
+254
+00:17:35,760 --> 00:17:39,120
+very angry about that. Anyways.
+So, 
+
+255
+00:17:39,120 --> 00:17:42,400
+that was like how we actually met
+Fuyao and his team, 
+
+256
+00:17:43,040 --> 00:17:46,640
+and then, right after that, it was like
+you know this guy has a very 
+
+257
+00:17:46,640 --> 00:17:50,080
+high moral standard, value-wise
+and also vision-wise. 
+
+258
+00:17:50,080 --> 00:17:54,880
+He was very aligned with us and at
+the same time he wanted to do something 
+
+259
+00:17:54,880 --> 00:17:58,480
+in DeFi as well.
+Then, right after that, 
+
+260
+00:17:58,480 --> 00:18:02,960
+we started dating
+by opening a github ripple and then we 
+
+261
+00:18:02,960 --> 00:18:06,080
+coded for a month or so
+and then that's how we basically 
+
+262
+00:18:06,720 --> 00:18:10,480
+consolidated our
+formal relationship after that. 
+
+263
+00:18:10,480 --> 00:18:13,440
+That's sort of the
+backstory of our Acala. 
+
+264
+00:18:14,640 --> 00:18:21,440
+Perfect. Let's get into a little
+around internal 
+
+265
+00:18:21,440 --> 00:18:26,560
+aspects of Acala. Could you talk about
+how you would describe the 
+
+266
+00:18:26,560 --> 00:18:30,320
+culture of Acala and
+what types of characteristics you look 
+
+267
+00:18:30,320 --> 00:18:34,240
+for and people that
+you're recruiting to join Acala are 
+
+268
+00:18:34,240 --> 00:18:36,160
+considering
+for employment? 
+
+269
+00:18:38,800 --> 00:18:41,840
+All in all, we are a very engineering
+focused 
+
+270
+00:18:43,760 --> 00:18:47,760
+group of people, a team.
+Even Dan turned 
+
+271
+00:18:47,760 --> 00:18:51,520
+into a geek or he's probably
+already a geek in crypto 
+
+272
+00:18:51,520 --> 00:18:53,840
+before he joined and now he's even
+geekier. 
+
+273
+00:18:55,600 --> 00:18:58,720
+This is the culture. We're
+very engineering focused because we 
+
+274
+00:18:58,720 --> 00:19:03,040
+are infrastructure builder. We're at very
+early stage of this technology. 
+
+275
+00:19:03,040 --> 00:19:06,320
+If we are not focusing on solving
+some of the 
+
+276
+00:19:06,320 --> 00:19:10,000
+fundamental or technological problems,
+then we're not doing a good 
+
+277
+00:19:10,000 --> 00:19:13,680
+job because whatever we built today is
+going to be used by 
+
+278
+00:19:13,680 --> 00:19:16,960
+many other developers and many other
+users 
+
+279
+00:19:16,960 --> 00:19:19,840
+in the future to make all of those tech
+mainstream. 
+
+280
+00:19:20,720 --> 00:19:23,840
+This is a very important
+thing that we 
+
+281
+00:19:24,960 --> 00:19:27,120
+feel pretty proud of and also need to
+continue 
+
+282
+00:19:27,840 --> 00:19:31,360
+to carry out in the growth of the
+of the Acala team 
+
+283
+00:19:32,080 --> 00:19:35,040
+and then beyond that. We
+attracted 
+
+284
+00:19:35,680 --> 00:19:38,880
+a lot of talents I think,
+10x 
+
+285
+00:19:38,880 --> 00:19:42,880
+developers tend to attract 10x
+developers and also 10x 
+
+286
+00:19:42,880 --> 00:19:46,800
+operators and also 10x whatever
+attracts 10x 
+
+287
+00:19:47,680 --> 00:19:52,000
+rows, right. Ithink we're lucky
+enough. We started off 
+
+288
+00:19:52,000 --> 00:19:55,280
+with many of the 10x talents founding
+the team 
+
+289
+00:19:55,280 --> 00:19:59,280
+and then we continue to attract
+those talents. So hopefully 
+
+290
+00:19:59,280 --> 00:20:03,120
+that's gonna
+carry on as well. A high performer is 
+
+291
+00:20:03,120 --> 00:20:06,800
+certainly one of the
+culture here as well. And then 
+
+292
+00:20:06,800 --> 00:20:08,960
+the third aspect, which
+we actually rate very 
+
+293
+00:20:08,960 --> 00:20:12,800
+highly, probably number one, is integrity.
+This is 
+
+294
+00:20:14,400 --> 00:20:17,920
+not just saying we have to hold
+ourselves very high standard, but 
+
+295
+00:20:17,920 --> 00:20:20,960
+we are in the industry that is
+evolving. 
+
+296
+00:20:20,960 --> 00:20:26,480
+In any early innovation or field
+you're gonna have a lot of grey areas, 
+
+297
+00:20:26,480 --> 00:20:29,280
+uncertainties
+and you've got to have this wild group 
+
+298
+00:20:29,280 --> 00:20:31,600
+of people who are trying to just
+leverage 
+
+299
+00:20:31,600 --> 00:20:37,200
+technology for purposes other than
+progressing our human 
+
+300
+00:20:37,200 --> 00:20:40,480
+improvement
+and doing good to the society. 
+
+301
+00:20:42,240 --> 00:20:48,160
+And sometimes it's a very fine line.
+So we hold integrity very very 
+
+302
+00:20:48,160 --> 00:20:51,040
+highly
+within the team, through individuals but 
+
+303
+00:20:51,040 --> 00:20:56,160
+also through how we conduct
+all the activities that we do internally 
+
+304
+00:20:56,160 --> 00:20:59,120
+and
+externally. Also, 
+
+305
+00:21:00,400 --> 00:21:05,120
+I think integrity and trust, even though
+we are trying to build trustless network, 
+
+306
+00:21:05,120 --> 00:21:08,000
+but trust is something that is very hard
+to build 
+
+307
+00:21:08,640 --> 00:21:13,120
+and very easy to break. We take that
+very very seriously and every single 
+
+308
+00:21:13,120 --> 00:21:15,200
+person
+in the team holds very high 
+
+309
+00:21:15,200 --> 00:21:19,360
+responsibility
+of making something that could benefit 
+
+310
+00:21:19,360 --> 00:21:23,680
+many people.
+But also many of the information and 
+
+311
+00:21:23,680 --> 00:21:27,120
+and things that we handle are highly
+critical 
+
+312
+00:21:27,120 --> 00:21:30,320
+and sensitive to many of the users that
+we will serve. 
+
+313
+00:21:31,840 --> 00:21:33,440
+I think those three
+things 
+
+314
+00:21:34,240 --> 00:21:38,320
+describe who we are:
+still very nerdy engineering 
+
+315
+00:21:38,320 --> 00:21:41,440
+focused and very passionate about
+what we are doing, 
+
+316
+00:21:42,080 --> 00:21:45,760
+but also holds very high
+integrity 
+
+317
+00:21:45,760 --> 00:21:48,400
+and at the same time we're also kind
+of fun because 
+
+318
+00:21:49,360 --> 00:21:52,800
+we're very straightforward team.
+Mostly because 
+
+319
+00:21:52,800 --> 00:21:55,600
+engineering driven but we're also
+intentionally trying to be very 
+
+320
+00:21:55,600 --> 00:21:59,520
+straightforward.
+We say what we think, we don't hold 
+
+321
+00:21:59,520 --> 00:22:03,280
+anybody
+personally but we discuss things very 
+
+322
+00:22:03,280 --> 00:22:06,080
+openly
+and we have fun together. 
+
+323
+00:22:06,080 --> 00:22:09,760
+There's a whole bunch of snowboarders,
+a whole bunch of game players, 
+
+324
+00:22:11,280 --> 00:22:15,920
+and there's many things that we enjoy,
+not just like working and coding and doing 
+
+325
+00:22:15,920 --> 00:22:19,840
+stuff together, but also
+playing together as well. That's 
+
+326
+00:22:19,840 --> 00:22:22,400
+how we are today.
+Awesome. 
+
+327
+00:22:24,080 --> 00:22:27,200
+So in your role you're doing a
+lot with our 
+
+328
+00:22:27,200 --> 00:22:30,000
+products. One thing that I was
+wondering 
+
+329
+00:22:30,720 --> 00:22:34,080
+is: what would
+you say your 
+
+330
+00:22:34,080 --> 00:22:37,840
+favorite product is or which product
+that we're building you're most excited 
+
+331
+00:22:37,840 --> 00:22:40,720
+about
+and maybe why you're excited 
+
+332
+00:22:40,720 --> 00:22:45,520
+about that product?
+You're trying to ask me which 
+
+333
+00:22:46,080 --> 00:22:47,520
+child
+is my favourite. 
+
+334
+00:22:50,640 --> 00:22:54,240
+It's very hard
+to choose and then it's going to piss 
+
+335
+00:22:54,240 --> 00:23:00,560
+other children off.
+But I would say this: what 
+
+336
+00:23:00,560 --> 00:23:04,640
+we're doing at Acala
+at least at this stage is creating a 
+
+337
+00:23:04,640 --> 00:23:09,520
+completely new category,
+because in the past you would see teams 
+
+338
+00:23:09,520 --> 00:23:11,840
+more focused on Layer 1, building a
+blockchain 
+
+339
+00:23:12,480 --> 00:23:15,600
+and then you would also see teams
+building protocols, 
+
+340
+00:23:16,480 --> 00:23:19,600
+like Compound and Ave,
+they're focusing on the protocol 
+
+341
+00:23:19,600 --> 00:23:24,880
+itself. And you would also see folks who are
+building mostly the front-end, 
+
+342
+00:23:24,880 --> 00:23:28,800
+the portfolio managers
+or the aggregators and things like that. 
+
+343
+00:23:28,800 --> 00:23:30,880
+So people operate at different
+levels. 
+
+344
+00:23:31,600 --> 00:23:37,520
+I think it might be the first time
+that, partly powered by 
+
+345
+00:23:38,080 --> 00:23:40,400
+what Substrate and Polkadot have made
+possible, 
+
+346
+00:23:41,200 --> 00:23:45,200
+we are a team building in multiple
+layers. So this is the entire category 
+
+347
+00:23:45,200 --> 00:23:49,760
+because Acala
+is both a blockchain network as well as 
+
+348
+00:23:49,760 --> 00:23:53,600
+a set of protocols. We have a stablecoin
+borrowing 
+
+349
+00:23:54,640 --> 00:23:58,640
+protocol and then we have an AMM
+decentralized exchange 
+
+350
+00:23:58,640 --> 00:24:02,880
+and then we also have liquid stacking
+that makes your stake asset also liquid 
+
+351
+00:24:02,880 --> 00:24:04,320
+and be used in other 
+
+352
+00:24:04,320 --> 00:24:08,320
+DeFi protocols. We are also protocol
+builders 
+
+353
+00:24:08,320 --> 00:24:11,360
+and then at the same time, on top of that,
+we also have 
+
+354
+00:24:11,360 --> 00:24:15,360
+EVM virtual machine and down the track
+also ink! 
+
+355
+00:24:15,360 --> 00:24:20,640
+smart contract platform as well,
+so then we can empower more developers 
+
+356
+00:24:20,640 --> 00:24:25,280
+to build apps.
+We are all these three things 
+
+357
+00:24:25,280 --> 00:24:28,400
+all together and then sometimes it's
+quite hard 
+
+358
+00:24:29,360 --> 00:24:32,400
+for people to compare us to a
+specific project 
+
+359
+00:24:32,400 --> 00:24:35,920
+or team because we are all three.
+I think it is going to be, 
+
+360
+00:24:36,560 --> 00:24:41,680
+maybe more in the future, that individual
+chains will be more specialized 
+
+361
+00:24:41,680 --> 00:24:43,920
+because if we think the future is
+multi-chain, 
+
+362
+00:24:44,800 --> 00:24:48,720
+then it makes sense that chains are
+gonna be more specialized 
+
+363
+00:24:48,720 --> 00:24:52,560
+in what they do and solve a domain
+problem really well. We 
+
+364
+00:24:52,560 --> 00:24:59,680
+purely focus on finance and trying to
+improve many of the roadblocks and 
+
+365
+00:24:59,680 --> 00:25:04,640
+bottlenecks that we're currently facing
+in traditional finance as well as in DeFi. 
+
+366
+00:25:07,680 --> 00:25:11,520
+If you ask me to pick a
+favourite, it's very hard, 
+
+367
+00:25:12,800 --> 00:25:18,640
+but again I think first of all
+people are gonna be really like to 
+
+368
+00:25:18,640 --> 00:25:21,680
+use all those products especially KSM holders,
+DOTs holders, 
+
+369
+00:25:21,680 --> 00:25:26,160
+or folks who actually want to expose to
+the staking economy. If you have to 
+
+370
+00:25:26,160 --> 00:25:27,280
+ask me to pick one, 
+
+371
+00:25:27,280 --> 00:25:30,800
+I would pick products related to the
+proof-of-stake 
+
+372
+00:25:30,800 --> 00:25:34,000
+economy because this is a completely new
+sort of economy 
+
+373
+00:25:34,000 --> 00:25:38,560
+that grows out of the
+POW or other economy, 
+
+374
+00:25:38,560 --> 00:25:41,120
+because now you can actually have a
+meaningful 
+
+375
+00:25:41,680 --> 00:25:45,200
+and stable income out of
+dot 
+
+376
+00:25:45,200 --> 00:25:48,320
+staking and also if you are a Bitcoin
+holder, 
+
+377
+00:25:48,880 --> 00:25:52,160
+it's also good news to you because
+you no longer need to sit 
+
+378
+00:25:52,720 --> 00:25:56,960
+with your Bitcoin, now it is
+multi-chain, so you can cross your 
+
+379
+00:25:56,960 --> 00:26:00,880
+Bitcoin to Acala and then you can use
+some of the products 
+
+380
+00:26:00,880 --> 00:26:04,480
+to actually participate in the
+proof-of-stake economy, earning the 
+
+381
+00:26:04,480 --> 00:26:06,960
+staking yield
+without selling your Bitcoin. 
+
+382
+00:26:08,240 --> 00:26:12,240
+This is the
+area that becomes very very interesting. 
+
+383
+00:26:14,160 --> 00:26:17,360
+Very very cool.
+The proof-of-state economy 
+
+384
+00:26:17,360 --> 00:26:21,840
+would be my pick. Great.
+That was the one I thought you were 
+
+385
+00:26:21,840 --> 00:26:27,520
+going to take anyway!
+This 
+
+386
+00:26:27,520 --> 00:26:32,560
+is just the last question. So more of
+where you see things going. If we 
+
+387
+00:26:32,560 --> 00:26:34,480
+think maybe five years down the road,
+it's 
+
+388
+00:26:35,040 --> 00:26:40,080
+April 2026,
+we've been working on Acala for 
+
+389
+00:26:40,080 --> 00:26:45,760
+years, maybe building things on Acala,
+how do you see 
+
+390
+00:26:45,760 --> 00:26:48,160
+this playing out in that time frame, like
+DeFi, 
+
+391
+00:26:49,120 --> 00:26:52,800
+multiple chains? What would
+be your guess for how things 
+
+392
+00:26:52,800 --> 00:26:56,400
+play out?
+That's like a lifetime. I mean 
+
+393
+00:26:56,400 --> 00:27:01,440
+that's like a three life time
+in crypto. You're asking me to 
+
+394
+00:27:01,440 --> 00:27:04,480
+predict after three reincarnations
+and what is gonna happen. 
+
+395
+00:27:08,880 --> 00:27:11,120
+How to estimate?
+Because all of those things could 
+
+396
+00:27:11,120 --> 00:27:16,240
+happen within a year or something.
+But certainly I can see a lot of 
+
+397
+00:27:16,240 --> 00:27:18,480
+things that we build will become
+infrastructure, 
+
+398
+00:27:19,280 --> 00:27:23,040
+which means we're gonna power a lot of
+the consumer products 
+
+399
+00:27:23,040 --> 00:27:26,160
+without people actually knowing it comes
+from Polkadot 
+
+400
+00:27:26,160 --> 00:27:29,760
+or it comes from Acala. If you use an
+analogy, 
+
+401
+00:27:29,760 --> 00:27:34,720
+this will be like: today you are
+using Facebook or even Zoom, 
+
+402
+00:27:34,720 --> 00:27:38,080
+right? You wouldn't actually think about
+the cloud service, 
+
+403
+00:27:38,080 --> 00:27:41,440
+which cloud service that is using at the
+back end. Also 
+
+404
+00:27:41,440 --> 00:27:44,560
+you wouldn't actually think about
+what kind of 
+
+405
+00:27:44,560 --> 00:27:49,280
+TCP-IP or internet protocol that is
+using to package up all the data 
+
+406
+00:27:49,280 --> 00:27:53,040
+transmitting across the internet.
+You wouldn't think about 
+
+407
+00:27:53,040 --> 00:27:58,000
+any of those at all, right? We are
+actually operating and building in that 
+
+408
+00:27:58,000 --> 00:27:58,960
+level today 
+
+409
+00:28:00,400 --> 00:28:03,360
+in blockchain. Polkadot is more
+like the internet protocol 
+
+410
+00:28:03,920 --> 00:28:06,400
+and then Acala is more of like finance
+focused 
+
+411
+00:28:06,960 --> 00:28:10,640
+infrastructure to route the
+payments and also 
+
+412
+00:28:10,640 --> 00:28:14,240
+to be able to support many of those
+situations. 
+
+413
+00:28:15,680 --> 00:28:17,760
+If you if you think in a
+few years time, 
+
+414
+00:28:18,720 --> 00:28:22,800
+a user or maybe my mom and dad would
+just like swipe their debit card or 
+
+415
+00:28:22,800 --> 00:28:26,880
+credit card like how they use it today.
+I think the future will be 
+
+416
+00:28:28,280 --> 00:28:31,840
+HyFi, so you know DeFi and CeFi all merge
+together 
+
+417
+00:28:31,840 --> 00:28:36,960
+as a hybrid finance, as HyFi. So my mom
+and dad will probably still interface 
+
+418
+00:28:36,960 --> 00:28:41,520
+with many of the familiar providers.
+There could be new ones but they will 
+
+419
+00:28:41,520 --> 00:28:44,400
+still use the similar interface like
+swap a credit card 
+
+420
+00:28:44,400 --> 00:28:48,720
+or it's an in-app,
+swipe and pay QR code payment 
+
+421
+00:28:48,720 --> 00:28:51,760
+process no different from
+WeChat pay or whatever that we are 
+
+422
+00:28:51,760 --> 00:28:55,840
+familiar
+with today; however behind the scene 
+
+423
+00:28:55,840 --> 00:28:59,200
+it's probably powered by many different
+blockchain 
+
+424
+00:28:59,920 --> 00:29:02,560
+applications and services. So you can
+imagine 
+
+425
+00:29:03,680 --> 00:29:07,200
+my mom is probably going to
+swipe the card 
+
+426
+00:29:07,200 --> 00:29:12,560
+or save some of the dollars into the card
+and that could potentially 
+
+427
+00:29:12,560 --> 00:29:17,360
+route it into
+Acala DeFi swiss 
+
+428
+00:29:17,360 --> 00:29:21,760
+or some of the portfolio or
+investment vehicle built on top of Acala 
+
+429
+00:29:22,400 --> 00:29:25,680
+to make that money work for her. It
+could turn into a 
+
+430
+00:29:25,680 --> 00:29:27,840
+5% percent or 10% percent savings
+account. 
+
+431
+00:29:30,400 --> 00:29:32,400
+Now she's been hearing me
+or hearing Bryan 
+
+432
+00:29:32,400 --> 00:29:37,520
+talking about buy Bitcoin and then
+every 
+
+433
+00:29:37,520 --> 00:29:40,800
+5% of her
+saving 
+
+434
+00:29:40,800 --> 00:29:46,560
+goes automatically into Bitcoin.
+And then maybe 10% goes 
+
+435
+00:29:46,560 --> 00:29:48,960
+into DOT
+staking and then through that 
+
+436
+00:29:48,960 --> 00:29:52,320
+staking automatically gets
+converted back to dollars 
+
+437
+00:29:52,320 --> 00:29:56,480
+and then she can use that to buy
+groceries. All of this 
+
+438
+00:29:56,480 --> 00:30:00,160
+will happen within her debit
+card or just 
+
+439
+00:30:00,160 --> 00:30:03,920
+a simple app that she can see
+how much dollar in, 
+
+440
+00:30:03,920 --> 00:30:07,280
+what is the interest rate,
+probably not much different 
+
+441
+00:30:07,280 --> 00:30:11,520
+apart from the financial aspect that
+looks way better and more liberating. But 
+
+442
+00:30:11,520 --> 00:30:12,480
+behind the scene, 
+
+443
+00:30:12,480 --> 00:30:16,800
+this is all powered by many
+different networks working together. 
+
+444
+00:30:17,680 --> 00:30:20,320
+On top of that, folks
+probably don't want 
+
+445
+00:30:20,880 --> 00:30:24,080
+their transaction history being seen by
+anybody. 
+
+446
+00:30:24,080 --> 00:30:28,000
+So this could be like you go Bitcoin
+and then jump onto Polkadot, 
+
+447
+00:30:28,000 --> 00:30:32,400
+jump onto Acala and then jump onto
+Phala or some other privacy networks 
+
+448
+00:30:32,400 --> 00:30:36,160
+and it comes back with a privacy,
+a sort of token, that hides all the 
+
+449
+00:30:36,160 --> 00:30:39,520
+transaction history,
+but you still get whatever 
+
+450
+00:30:39,520 --> 00:30:43,600
+returns that you get
+through the app. All I'm 
+
+451
+00:30:43,600 --> 00:30:48,160
+trying to say is that
+we will gonna become the bottom of 
+
+452
+00:30:48,160 --> 00:30:51,280
+the iceberg
+and then there will be folks, that we 
+
+453
+00:30:51,280 --> 00:30:54,800
+integrate with, would deliver the tip of
+the iceberg to a 
+
+454
+00:30:54,800 --> 00:30:58,720
+very very wide-mass market.
+That will be 
+
+455
+00:31:00,080 --> 00:31:02,640
+ideal. I would be very happy to see
+that. 
+
+456
+00:31:02,640 --> 00:31:05,760
+Many many more people, like mass-market
+adoption 
+
+457
+00:31:06,320 --> 00:31:09,680
+of what we are building today,
+basically replacing the backbone 
+
+458
+00:31:09,680 --> 00:31:14,160
+of the tradefy. The second thing I
+would be hoping to see 
+
+459
+00:31:14,160 --> 00:31:20,080
+is we are able to get to our angle,
+to actually decentralize and this 
+
+460
+00:31:20,080 --> 00:31:25,200
+network is actually operated,
+owned and governed by all the people 
+
+461
+00:31:26,240 --> 00:31:29,040
+on Acala network rather than just
+a core team. 
+
+462
+00:31:30,720 --> 00:31:32,800
+So those will be the two things.
+Cool. 
+
+463
+00:31:33,840 --> 00:31:36,480
+Well, that's everything I had, so thanks
+for taking us through 
+
+464
+00:31:37,360 --> 00:31:41,040
+a little bit more about you and your
+career and Acala. I know I 
+
+465
+00:31:41,040 --> 00:31:42,960
+learned something new and I think a lot
+of people will. 
+
+466
+00:31:44,000 --> 00:31:47,520
+Thanks for taking the time. No
+problem. Thanks for doing this, Dan.
+

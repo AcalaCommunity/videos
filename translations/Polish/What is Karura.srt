@@ -1,530 +1,530 @@
 1
 00:00:03,360 --> 00:00:06,160
-hey guys
+Witam wszystkich
 
 2
 00:00:04,080 --> 00:00:07,680
-uh this is dan reeser and i'm joined
+Jestem Dan Reeser, dołączyłem
 
 3
 00:00:06,160 --> 00:00:10,160
-here by rui tau
+tutaj wraz z Ruitao Su
 
 4
 00:00:07,680 --> 00:00:11,599
-um we're going to be going over um quite
+Zamierzamy przedstawić całkiem
 
 5
 00:00:10,160 --> 00:00:14,240
-a bit of information today
+sporo informacji
 
 6
 00:00:11,599 --> 00:00:16,640
-over um our network called kubura which
+o Naszej sieci nazwanej KARURA, którą
 
 7
 00:00:14,240 --> 00:00:17,039
-we're building on kusama um you may also
+budujemy na kusama, możesz też
 
 8
 00:00:16,640 --> 00:00:19,359
-know
+znać
 
 9
 00:00:17,039 --> 00:00:20,480
-us as the akala team um so we're also
+Nas jako zespół ACALA. My również
 
 10
 00:00:19,359 --> 00:00:22,080
-preparing for the
+przygotowujemy się do
 
 11
 00:00:20,480 --> 00:00:23,920
-akala lunch on polka dot but that'll
+uruchomienia sieci ACALA na polkadot, ale to
 
 12
 00:00:22,080 --> 00:00:26,000
-come after our career launch so today
+nastąpi później, po uruchomieniu KARURA, więc dzisiaj
 
 13
 00:00:23,920 --> 00:00:28,960
-we're going to spend a little time
+poświęcimy trochę czasu
 
 14
 00:00:26,000 --> 00:00:30,000
-talking through that let me start
+na omówienie tego. Pozwól mi zacząć
 
 15
 00:00:28,960 --> 00:00:31,199
-sharing my screen
+udostępniać mój ekran
 
 16
 00:00:30,000 --> 00:00:34,320
-and i'll just go through a little bit of
+Ja omówię trochę
 
 17
 00:00:31,199 --> 00:00:34,320
-an agenda for us
+plan dla nas
 
 18
 00:00:35,760 --> 00:00:38,800
-and then we can go ahead and get started
+a potem możemy iść naprzód i zacząć
 
 19
 00:00:38,000 --> 00:00:41,120
-so
+więc
 
 20
 00:00:38,800 --> 00:00:42,800
-what what today looks like is is a few
+dzisiaj mamy kilka
 
 21
 00:00:41,120 --> 00:00:44,800
-things so
+rzeczy
 
 22
 00:00:42,800 --> 00:00:46,239
-what is karua in general i'll cover some
+ogólnie na paru slajdach omówię co to jest karua
 
 23
 00:00:44,800 --> 00:00:47,200
-slides on that and just give you an
+tak by dać Tobie
 
 24
 00:00:46,239 --> 00:00:48,800
-overview of
+pogląd na to
 
 25
 00:00:47,200 --> 00:00:50,640
-what everything is what products we're
+czym są produkty, które
 
 26
 00:00:48,800 --> 00:00:51,760
-building and that'll lead into ruitau
+budujemy i to doprowadzi Nas do Ruitao Su
 
 27
 00:00:50,640 --> 00:00:54,160
-going through
+który przedstawi
 
 28
 00:00:51,760 --> 00:00:55,199
-um a demo of each of these products so
+demonstracje każdego z tych produktów
 
 29
 00:00:54,160 --> 00:00:56,480
-most notably
+przede wszystkim
 
 30
 00:00:55,199 --> 00:00:58,800
-um he'll start with the wallet and then
+On zacznie od portfela, a potem
 
 31
 00:00:56,480 --> 00:01:00,320
-we'll go through the kusd the kura
+omówimy kUSD, który jest
 
 32
 00:00:58,800 --> 00:01:03,120
-dollar stable coin
+dolarem Karury - stablecoin`em
 
 33
 00:01:00,320 --> 00:01:03,680
-then we'll go through karua's amm decks
+potem omówimy AMM DEX Karury
 
 34
 00:01:03,120 --> 00:01:06,560
-and then
+a na końcu
 
 35
 00:01:03,680 --> 00:01:08,320
-last we'll end with liquid ksm staking
+omówimy staking płynnego KSM
 
 36
 00:01:06,560 --> 00:01:09,680
-um so it should be really cool like
+więc powinno to wyglądać naprawdę fajnie, tak jak
 
 37
 00:01:08,320 --> 00:01:11,360
-it's going to make it really real for
+będzie to wyglądać w rzeczywistości, tak aby
 
 38
 00:01:09,680 --> 00:01:12,560
-you guys getting in and actually seeing
+zapoznać Was z tym i pokazać
 
 39
 00:01:11,360 --> 00:01:14,720
-the product work
+działający produkt
 
 40
 00:01:12,560 --> 00:01:16,000
-and then what we'll do is robin here in
+a następnie co zrobimy, to Robin jest tutaj na
 
 41
 00:01:14,720 --> 00:01:18,159
-the chat we'll we'll
+czacie, do którego
 
 42
 00:01:16,000 --> 00:01:19,439
-paste at the end our link that you can
+na końcu wkleimy link, żebyście mogli
 
 43
 00:01:18,159 --> 00:01:21,040
-actually go use these
+w rzeczywistości użyć tych
 
 44
 00:01:19,439 --> 00:01:22,640
-these applications on the testnet now
+aplikacji w sieci testowej
 
 45
 00:01:21,040 --> 00:01:25,439
-and get ready for what's going to come
+by być gotowym na to, co będzie
 
 46
 00:01:22,640 --> 00:01:27,119
-live on kusama pretty soon
+już niedługo działać w sieci kusama
 
 47
 00:01:25,439 --> 00:01:28,720
-so first route do you want to give an
+więc czy chcesz na początku
 
 48
 00:01:27,119 --> 00:01:31,040
-intro of yourself and then i'll do the
+przedstawić siebie, a następnie ja zrobię
 
 49
 00:01:28,720 --> 00:01:33,119
-same and we can go ahead and get started
+to samo, po czym możemy zacząć
 
 50
 00:01:31,040 --> 00:01:34,560
-oh yeah thanks dan hi everyone this is
+o tak, dziękuje Dan. Witam wszystkich
 
 51
 00:01:33,119 --> 00:01:36,960
-ray tau a co-founder
+Jestem Ruitao Su współzałożyciel
 
 52
 00:01:34,560 --> 00:01:38,079
-of alkaline obviously um crew as well
+zespołu Acala, oczywiście również
 
 53
 00:01:36,960 --> 00:01:39,759
-working on garuwa
+pracuje w Karura
 
 54
 00:01:38,079 --> 00:01:42,079
-i've been working the blockchain space
+Pracuję nad tematem blockchain
 
 55
 00:01:39,759 --> 00:01:44,240
-for more than seven years i would say
+od ponad siedmiu lat i mogę powiedzieć
 
 56
 00:01:42,079 --> 00:01:46,159
-we started building um the alkaline
+że zaczeliśmy budować sieć Acala
 
 57
 00:01:44,240 --> 00:01:47,600
-network backing two years ago
+dwa lata temu
 
 58
 00:01:46,159 --> 00:01:49,920
-um we are one of the very first
+Jesteśmy jednymi z pierwszych
 
 59
 00:01:47,600 --> 00:01:51,280
-substrate builders i'm an engineer
+programistów Substrate, sam jestem inżynierem
 
 60
 00:01:49,920 --> 00:01:54,000
-myself i'm still
+.
 
 61
 00:01:51,280 --> 00:01:55,920
-i'm here today i love to write code and
+Ja jestem tu dzisiaj, bo uwielbiam pisać kod i
 
 62
 00:01:54,000 --> 00:01:57,680
-that's pretty much uh by my background
+jest tego dosyć dużo w moim doświadczeniu
 
 63
 00:01:55,920 --> 00:02:00,159
-i'm really into building um
+naprawdę lubię budować
 
 64
 00:01:57,680 --> 00:02:02,000
-cutting edge stuff and so excited that
+najnowocześniejsze rzeczy i jestem bardzo podekscytowany, że
 
 65
 00:02:00,159 --> 00:02:04,880
-after almost two years of building
+po prawie dwóch latach tworzenia
 
 66
 00:02:02,000 --> 00:02:08,000
-we are really really close to going live
+jesteśmy naprawdę blisko uruchomienia
 
 67
 00:02:04,880 --> 00:02:11,200
-on on kuzama
+w sieci Kusama
 
 68
 00:02:08,000 --> 00:02:11,840
-cool thanks for tau um and yes i'm dan
+Super. Dziękuje Ci Ruitao. Ja jestem Dan
 
 69
 00:02:11,200 --> 00:02:14,000
-reeser
+Reecer
 
 70
 00:02:11,840 --> 00:02:14,959
-working as vp of growth here at akala
+pracuje jako wiceprezes ds. rozwoju w Acala
 
 71
 00:02:14,000 --> 00:02:16,560
-and karua
+i Karura
 
 72
 00:02:14,959 --> 00:02:18,560
-i've been on the team for a little over
+Jestem w zespole trochę ponad
 
 73
 00:02:16,560 --> 00:02:19,520
-a couple months now had previously
+już kilka miesięcy. A wcześniej
 
 74
 00:02:18,560 --> 00:02:21,280
-worked
+pracowałem
 
 75
 00:02:19,520 --> 00:02:24,239
-kind of part time with akala for about
+w niepełnym wymiarze godzin w Acala przez około
 
 76
 00:02:21,280 --> 00:02:26,319
-six months before joining full-time
+sześć miesięcy przed przystąpieniem do pracy w pełnym wymiarze godzin
 
 77
 00:02:24,239 --> 00:02:27,760
-prior to coming to akala i spent some
+przed przybyciem do Acala spędziłem trochę
 
 78
 00:02:26,319 --> 00:02:30,080
-time at web3 foundation
+czasu pracując w fundacji Web3
 
 79
 00:02:27,760 --> 00:02:31,840
-working on polka dot and kusama so it
+pracując nad polkadot i kusama, więc to
 
 80
 00:02:30,080 --> 00:02:33,599
-was kind of a natural progression moving
+to był naturalny rozwój przechodząc
 
 81
 00:02:31,840 --> 00:02:35,920
-from this base layer up
+z poziomu warstwy podstawowej do
 
 82
 00:02:33,599 --> 00:02:37,040
-up one level to the parachain level and
+warstwy jeden poziom wyżej do poziomu parachain i
 
 83
 00:02:35,920 --> 00:02:38,800
-getting ready for
+przygotowywać się do
 
 84
 00:02:37,040 --> 00:02:40,239
-all this kind of craziness and
+tego całego szaleństwa i
 
 85
 00:02:38,800 --> 00:02:41,760
-excitement that's about to come with all
+podekscytowania, które niedługo przyjdzie ze wszystkimi
 
 86
 00:02:40,239 --> 00:02:45,280
-of these launches
+tymi uruchomieniami
 
 87
 00:02:41,760 --> 00:02:45,920
-so the first uh the first launch that
+więc pierwsze uruchomienie tego
 
 88
 00:02:45,280 --> 00:02:48,319
-we're
+nad czym
 
 89
 00:02:45,920 --> 00:02:50,080
-working on that i mentioned is karura
+pracujemy, wspomniałem jest to karura
 
 90
 00:02:48,319 --> 00:02:51,599
-and i think before we get into the
+Myślę, że zanim przejdziemy do
 
 91
 00:02:50,080 --> 00:02:54,080
-details of
+szczegółów dotyczących
 
 92
 00:02:51,599 --> 00:02:55,200
-karua and akala um it's it's kind of
+Karua i Acala. Zawsze
 
 93
 00:02:54,080 --> 00:02:58,000
-helpful to always start
+pomocnym jest, aby zawsze zacząć
 
 94
 00:02:55,200 --> 00:02:58,560
-at the highest level um so what we're
+na najwyższym poziomie. Więc to co
 
 95
 00:02:58,000 --> 00:03:01,680
-building
+budujemy
 
 96
 00:02:58,560 --> 00:03:02,480
-is one of these para chains these these
+jest jednym z tych parachain`ów, takich
 
 97
 00:03:01,680 --> 00:03:04,959
-little like
+trochę jak
 
 98
 00:03:02,480 --> 00:03:06,560
-uh gray squares here these are each pair
+te tutaj szare kwadraty, to są parachain`y
 
 99
 00:03:04,959 --> 00:03:09,280
-chains or individual block chains that
+albo indywidualne blockchain`y, które
 
 100
 00:03:06,560 --> 00:03:11,200
-are customized for a specific purpose
+są dostosowane do konkretnego celu
 
 101
 00:03:09,280 --> 00:03:13,360
-and what this graphic here shows is kind
+a to, co pokazuje ta grafika, jest czymś w rodzaju
 
 102
 00:03:11,200 --> 00:03:15,120
-of the future this is where
+w przyszłości gdzie
 
 103
 00:03:13,360 --> 00:03:17,280
-we will have a hundred or more pair of
+będziemy mieli sto lub więcej
 
 104
 00:03:15,120 --> 00:03:19,599
-chains connected to kusama
+parachain`ów podłączonych do Kusamy
 
 105
 00:03:17,280 --> 00:03:20,560
-and 100 or more para chains connected to
+i 100 lub więcej parachain`ów podłączonych do
 
 106
 00:03:19,599 --> 00:03:22,640
-polka dot
+Polkadot
 
 107
 00:03:20,560 --> 00:03:23,840
-all in one kind of connected ecosystem
+wszystko w jednym. Rodzaj połączonego ekosystemu
 
 108
 00:03:22,640 --> 00:03:25,280
-because as you can see here in the
+ponieważ, jak możesz tutaj zobaczyć
 
 109
 00:03:23,840 --> 00:03:27,680
-middle there will be a bridge
+na środku będzie zbudowany
 
 110
 00:03:25,280 --> 00:03:28,480
-built between polka dot and kusama but
+pomost pomiędzy polkadot i kusama, jednak
 
 111
 00:03:27,680 --> 00:03:30,879
-at this point
+w tym momencie
 
 112
 00:03:28,480 --> 00:03:32,000
-these two kind of multi-chain networks
+te dwa rodzaje wielołańcuchowych sieci
 
 113
 00:03:30,879 --> 00:03:34,560
-are actually
+są właściwie
 
 114
 00:03:32,000 --> 00:03:36,000
-pretty um bare there's no pair of chains
+gołe, tam nie ma parachain`ów
 
 115
 00:03:34,560 --> 00:03:37,120
-connected to either of them yet it's
+połączony z którymkolwiek z nich, ale to
 
 116
 00:03:36,000 --> 00:03:39,680
-just the beginning
+jest tylko początek
 
 117
 00:03:37,120 --> 00:03:41,200
-and what our goal is at akala and karua
+i naszym celem w Acala i Karua jest
 
 118
 00:03:39,680 --> 00:03:43,040
-is to be the first para chain in the
+zostać pierwszym parachain`em w
 
 119
 00:03:41,200 --> 00:03:45,120
-public slot on kusama
+publicznym slot`cie Kusamy
 
 120
 00:03:43,040 --> 00:03:48,080
-with karua and then be the first para
+z Karurą, anastępnie zostać pierwszym
 
 121
 00:03:45,120 --> 00:03:51,440
-chain on polka dot with akala
+parachain`em na polkadot z Acala
 
 122
 00:03:48,080 --> 00:03:53,280
-so with that as background
+więc z tym jako tłem
 
 123
 00:03:51,440 --> 00:03:55,360
-um like like we mentioned we're going to
+tak jak wspomnieliśmy, zamierzamy
 
 124
 00:03:53,280 --> 00:03:58,159
-be talking about karura today which
+rozmawiaj dziś o Karurze, która
 
 125
 00:03:55,360 --> 00:04:00,239
-um is we're what we're really seeing it
+jest tym, co rzeczywiście widzimy
 
 126
 00:03:58,159 --> 00:04:02,959
-becoming is the kind of defy hub
+staje się rodzajem centrum DeFi
 
 127
 00:04:00,239 --> 00:04:04,640
-of the kusama ecosystem as well as
+w ekosystemie Kusama, jak również|
 
 128
 00:04:02,959 --> 00:04:06,239
-providing many different financial
+dostarcza wiele różnych produktów
 
 129
 00:04:04,640 --> 00:04:07,360
-products to
+finansowych do
 
 130
 00:04:06,239 --> 00:04:09,280
-all the different para chains and
+wszystkich innych parachain`ów i
 
 131
 00:04:07,360 --> 00:04:12,319
-applications that we'll be launching
+aplikacje, które zostaną uruchomione
 
 132
 00:04:09,280 --> 00:04:14,159
-in the kusama ecosystem
+w ekosystemie Kusama
 
 133
 00:04:12,319 --> 00:04:16,560
@@ -532,431 +532,431 @@ in my opinion there's no better way to
 
 134
 00:04:14,159 --> 00:04:17,359
-start the kusama ecosystem than to have
+startu dla ekosystemu Kusama, niż
 
 135
 00:04:16,560 --> 00:04:19,280
-korea launch
+uruchomienie Karura
 
 136
 00:04:17,359 --> 00:04:21,040
-first because of what we're about to
+najpierw z powodów, które chcemy Tobie
 
 137
 00:04:19,280 --> 00:04:23,040
-explain to you and these are not just
+wyjaśnić, i to nie są tylko
 
 138
 00:04:21,040 --> 00:04:26,080
-products that akala and kuru will be
+produkty, które Acala i Kurura będą
 
 139
 00:04:23,040 --> 00:04:27,680
-able to use these are actually
+mogły używać, w rzeczywistości to jest to
 
 140
 00:04:26,080 --> 00:04:29,440
-what are called primitives it's it's
+co nazywamy prymitywami, to jest
 
 141
 00:04:27,680 --> 00:04:31,520
-kind of a new concept but it's built
+rodzaj nowej koncepcji, ale jest to wbudowane
 
 142
 00:04:29,440 --> 00:04:33,199
-kind of into the blockchain itself
+do samego blockchain`a
 
 143
 00:04:31,520 --> 00:04:34,880
-which means that other teams can
+co oznacza, że ​​inne zespoły mogą
 
 144
 00:04:33,199 --> 00:04:36,720
-actually come into the ecosystem and
+faktycznie przyjść do ekosystemu i
 
 145
 00:04:34,880 --> 00:04:39,360
-leverage what our team has built
+wykorzystać to, co zbudował nasz zespół
 
 146
 00:04:36,720 --> 00:04:41,120
-so for example the kura dollar is a
+na przykład dolar Karury jest
 
 147
 00:04:39,360 --> 00:04:42,800
-stable coin that will not only be used
+stablecoin`em, który będzie nie tylko używany
 
 148
 00:04:41,120 --> 00:04:43,600
-in our applications but it can be used
+w naszych aplikacjach, ale może być używany
 
 149
 00:04:42,800 --> 00:04:46,639
-by anyone
+przez każdego
 
 150
 00:04:43,600 --> 00:04:48,240
-in the kusama ecosystem so no better way
+w ekosystemie Kusama, więc nie ma lepszego sposobu
 
 151
 00:04:46,639 --> 00:04:50,000
-to kind of kick start this ecosystem
+aby uruchomić ten ekosystem
 
 152
 00:04:48,240 --> 00:04:52,080
-than to build this kind of
+niż zbudować tego rodzaju
 
 153
 00:04:50,000 --> 00:04:53,600
-um you know important foundation first
+Najpierw ważny fundament
 
 154
 00:04:52,080 --> 00:04:55,440
-with karua and then allow
+z Karuą, a następnie zezwolić
 
 155
 00:04:53,600 --> 00:04:56,800
-kind of other teams to build with what
+innym zespołom na tworzenie z wykorzystaniem tego
 
 156
 00:04:55,440 --> 00:04:59,600
-we're providing to
+dostarczamy do
 
 157
 00:04:56,800 --> 00:05:00,880
-the ecosystem um what you see here on
+ekosystemu, to co tu widzisz na
 
 158
 00:04:59,600 --> 00:05:02,880
-the screen is the
+ekranie jest
 
 159
 00:05:00,880 --> 00:05:04,400
-the ui of the actual kind of the
+to interfejs użytkownika, właściwie jest to rodzaj
 
 160
 00:05:02,880 --> 00:05:05,280
-application layer that our team has
+warstwy aplikacji, którą nasz zespół
 
 161
 00:05:04,400 --> 00:05:06,880
-built out
+zbudował
 
 162
 00:05:05,280 --> 00:05:09,039
-so we do have these products that are
+więc mamy te produkty, które są
 
 163
 00:05:06,880 --> 00:05:11,520
-built into the blockchain itself but our
+wbudowane w sam blockchain, ale nasz
 
 164
 00:05:09,039 --> 00:05:13,680
-team is also built on our own chain
+zespół również zbudował na własnej sieci
 
 165
 00:05:11,520 --> 00:05:14,880
-an entire kind of application layer
+cały szereg aplikacji
 
 166
 00:05:13,680 --> 00:05:18,400
-which you see here and this is what
+które widzisz tutaj i to jest to
 
 167
 00:05:14,880 --> 00:05:22,080
-rutau's going to be demoing today
+Ruitao dziś zademonstruje
 
 168
 00:05:18,400 --> 00:05:24,240
-just to further explain what i mentioned
+aby dokładniej wyjaśnić, o czym wspomniałem
 
 169
 00:05:22,080 --> 00:05:26,400
-about akala being a platform
+że Acala jest platformą
 
 170
 00:05:24,240 --> 00:05:27,680
-for applications and then also an
+dla aplikacji, a następnie również
 
 171
 00:05:26,400 --> 00:05:29,759
-application layer
+warstwą aplikacji
 
 172
 00:05:27,680 --> 00:05:31,199
-if you can see this this diagram here
+jeśli widzisz ten schemat tutaj
 
 173
 00:05:29,759 --> 00:05:34,479
-this is kind of working from the
+to jest rodzaj działania z
 
 174
 00:05:31,199 --> 00:05:37,039
-the base layer of kusama and up so
+warstwy podstawowej Kusamy
 
 175
 00:05:34,479 --> 00:05:38,720
-what this is showing is kusama is this
+To, co jest pokazane to Kusama, to jest
 
 176
 00:05:37,039 --> 00:05:40,479
-of course this multi-chain platform that
+oczywiście ta wielołańcuchowa platforma, którą
 
 177
 00:05:38,720 --> 00:05:41,919
-i showed you and we're trying to get a
+pokazałem i dla której staramy się uzyskać
 
 178
 00:05:40,479 --> 00:05:43,759
-slot in kusama
+slot w Kusamie
 
 179
 00:05:41,919 --> 00:05:45,120
-and what that allows us to do is to plug
+i to pozwala nam podłączyć się
 
 180
 00:05:43,759 --> 00:05:47,840
-in this entire
+do tego
 
 181
 00:05:45,120 --> 00:05:49,199
-kind of orange box here which is kura
+jakby pomarańczowego pudełka, którym jest Karura
 
 182
 00:05:47,840 --> 00:05:50,880
-and this is our blockchain this is a
+i to jest nasz blockchain to jest
 
 183
 00:05:49,199 --> 00:05:52,800
-layer one blockchain equivalent to
+warstwa pierwsza blockchain, równoważna z
 
 184
 00:05:50,880 --> 00:05:55,840
-something like ethereum today
+czymś takim jak ethereum dzisiaj
 
 185
 00:05:52,800 --> 00:05:58,400
-and within karua there are multiple
+W Karurze jest wiele
 
 186
 00:05:55,840 --> 00:05:59,680
-primitives or financial products built
+podstaw lub zbudowanych produktów finansowych
 
 187
 00:05:58,400 --> 00:06:01,919
-with which we can use
+z których możemy korzystać
 
 188
 00:05:59,680 --> 00:06:04,000
-in applications on top of this so you
+w aplikacjach na tym, tak więc
 
 189
 00:06:01,919 --> 00:06:06,560
-can see here the stable coin i mentioned
+możesz zobaczyć stablecoin, o którym wspomniałem
 
 190
 00:06:04,000 --> 00:06:08,960
-liquid ksm staking which allows you to
+staking płynnego KSM, który pozwalaja ci
 
 191
 00:06:06,560 --> 00:06:11,120
-state ksm and actually get a receipt for
+stakować KSM i właściwie uzyskać możliwość
 
 192
 00:06:08,960 --> 00:06:12,960
-that that you can use within defy
+wykorzystania w DeFi
 
 193
 00:06:11,120 --> 00:06:14,560
-instead of just staking your ksm and it
+zamiast tylko stakować swój KSM, i
 
 194
 00:06:12,960 --> 00:06:15,120
-being kind of locked and stuck there and
+być w pewnym rodzaju zablokowanym i
 
 195
 00:06:14,560 --> 00:06:18,720
-not
+nie
 
 196
 00:06:15,120 --> 00:06:21,600
-usable another aspect is our decks
+użytecznym. Kolejnym rodzajem są nasze DEX`y
 
 197
 00:06:18,720 --> 00:06:22,160
-which rutau will will demo here soon and
+które Ruitao zademonstruje tutaj wkrótce i
 
 198
 00:06:21,600 --> 00:06:24,319
-then
+następnie
 
 199
 00:06:22,160 --> 00:06:26,639
-some of the you all we always talk about
+niektórzy z Was, zawsze rozmawiają o tym
 
 200
 00:06:24,319 --> 00:06:27,919
-how blockchains can be customized with
+jak blockchain można dostosować z
 
 201
 00:06:26,639 --> 00:06:30,800
-substrate and built
+Substrate i budować
 
 202
 00:06:27,919 --> 00:06:32,319
-for specific use cases and here is what
+dla konkretnych zastosowań i oto co
 
 203
 00:06:30,800 --> 00:06:34,479
-we mean by that so
+rozumiemy przez sformuowanie
 
 204
 00:06:32,319 --> 00:06:36,319
-bring your own gas is a feature that
+przynieś swój własny gaz, to jest to funkcja, którą
 
 205
 00:06:34,479 --> 00:06:38,080
-route will also show today
+dziś również zademonstruujemy
 
 206
 00:06:36,319 --> 00:06:40,240
-um this is this is a feature that we've
+Jest to funkcja, którą
 
 207
 00:06:38,080 --> 00:06:42,080
-customized specifically for our chain
+dostosowaliśmy specjalnie dla Naszych sieci
 
 208
 00:06:40,240 --> 00:06:44,560
-for kuru and akala because we're trying
+Karura i Acala, ponieważ próbujemy
 
 209
 00:06:42,080 --> 00:06:46,720
-to make them specialized for d5
+wyspecjalizować je w DeFi
 
 210
 00:06:44,560 --> 00:06:48,080
-and what this allows you to do if you've
+i co Ci pozwoli, jeśli kiedykolwiek
 
 211
 00:06:46,720 --> 00:06:49,440
-ever used d5 and ethereum
+korzystałeś z DeFi i ethereum
 
 212
 00:06:48,080 --> 00:06:51,199
-you know that you can't do any
+wiesz, że nie możesz zrobić żadnej
 
 213
 00:06:49,440 --> 00:06:53,759
-transactions without having
+transakcje bez posiadania
 
 214
 00:06:51,199 --> 00:06:55,520
-eth and if you're a new user to ethereum
+eth i jeśli jesteś nowym użytkownikiem ethereum
 
 215
 00:06:53,759 --> 00:06:57,039
-first you have to learn what eth is you
+najpierw musisz się nauczyć, czym jest eth
 
 216
 00:06:55,520 --> 00:06:59,599
-have to go find it
+musisz je zdobyć
 
 217
 00:06:57,039 --> 00:07:01,520
-it's a difficult process but with bring
+to trudny proces, jednak z funkcją przynieś
 
 218
 00:06:59,599 --> 00:07:02,720
-your own gas with kuru and akala it'll
+swój własny gaz z Karura i Acala to
 
 219
 00:07:01,520 --> 00:07:05,599
-allow people to bring in
+pozwoli ludziom wziąć
 
 220
 00:07:02,720 --> 00:07:07,919
-any token and immediately pay the the
+każdy token i natychmiast zapłać
 
 221
 00:07:05,599 --> 00:07:10,560
-initial transaction fee with that token
+wstępną opłatę transakcyjną tym tokenem
 
 222
 00:07:07,919 --> 00:07:11,599
-so for example someone bringing bitcoin
+więc na przykład ktoś wnosi bitcoin`y
 
 223
 00:07:10,560 --> 00:07:14,000
-over to
+do
 
 224
 00:07:11,599 --> 00:07:14,880
-um carrera would be able to bring
+Karura i ma możliwość wziąć
 
 225
 00:07:14,000 --> 00:07:17,759
-bitcoin over
+bitcoin poprzez
 
 226
 00:07:14,880 --> 00:07:19,039
-basically wrap it and issue it on kusama
+po prostu zrobić wrap i używać go na Kusama
 
 227
 00:07:17,759 --> 00:07:21,039
-in kura and then
+w Karurze, a następne
 
 228
 00:07:19,039 --> 00:07:23,120
-be able to pay their initial maybe it's
+być w stanie zapłacić ich transakcję, może to być
 
 229
 00:07:21,039 --> 00:07:23,759
-a swap maybe it's a transfer but paying
+zamiana, czy przesłanie tokenów, ale opłata
 
 230
 00:07:23,120 --> 00:07:26,560
-that fee
+za to fee
 
 231
 00:07:23,759 --> 00:07:27,440
-in in btc instead of having to go out
+w BTC zamiast wychodzić
 
 232
 00:07:26,560 --> 00:07:29,520
-and find
+i szukać
 
 233
 00:07:27,440 --> 00:07:31,520
-kar token which is the kind of utility
+tokenów KAR, który jest rodzajem tokena
 
 234
 00:07:29,520 --> 00:07:33,759
-token of kura
+użyteczności w Karurze
 
 235
 00:07:31,520 --> 00:07:35,199
-and then last the akala evm is kind of
+i na koniec Acala EVM jest czymś w rodzaju
 
 236
 00:07:33,759 --> 00:07:36,800
-another specialized
+następnego wyspecjalizowanego
 
 237
 00:07:35,199 --> 00:07:38,400
-ethereum environment that we've built
+środowiska ethereum, które zbudowaliśmy
 
 238
 00:07:36,800 --> 00:07:41,840
-specifically for kura
+konkretnie dla Karury
 
 239
 00:07:38,400 --> 00:07:43,440
-and akala so with that being said that's
+i Acali, więc można stwierdzić, że to jest
 
 240
 00:07:41,840 --> 00:07:44,080
-layer one here in the middle this is the
+warstwa pierwsza. Tutaj w środku to jest
 
 241
 00:07:43,440 --> 00:07:46,879
@@ -964,135 +964,135 @@ blockchain
 
 242
 00:07:44,080 --> 00:07:48,560
-itself and then on top of that our team
+sam w sobie, i na tym nasz zespół
 
 243
 00:07:46,879 --> 00:07:50,240
-has already built an entire
+już zbudował całą
 
 244
 00:07:48,560 --> 00:07:52,080
-application that leverages all these
+aplikację która wykorzystuje te wszystkie
 
 245
 00:07:50,240 --> 00:07:53,599
-things that i just mentioned to you so
+rzeczy, o których właśnie wspomniałem, więc
 
 246
 00:07:52,080 --> 00:07:55,840
-routeau what he'll be talking through
+Ruitao, to o czym on dziś będzie mówił
 
 247
 00:07:53,599 --> 00:07:58,080
-today is our as our whole kind of suite
+jest naszym całym pakietem
 
 248
 00:07:55,840 --> 00:08:00,400
-of applications that's been built on
+aplikacji, które zbudowano na
 
 249
 00:07:58,080 --> 00:08:01,919
-our blockchain and then keeping that in
+naszym blockchain`ie, miejcie to na
 
 250
 00:08:00,400 --> 00:08:03,599
-mind there's also
+uwadze, że tam jest także
 
 251
 00:08:01,919 --> 00:08:05,120
-of course this is an open platform so
+jest to otwarta platforma, oczywiście, więc
 
 252
 00:08:03,599 --> 00:08:06,560
-it's not going to be just carrera
+to nie będzie tylko Karura
 
 253
 00:08:05,120 --> 00:08:08,319
-building applications it's going to be
+tworzyła aplikacje, to będą również
 
 254
 00:08:06,560 --> 00:08:09,680
-other teams coming in building on this
+inne zespoły przychodzące i budujące w tym
 
 255
 00:08:08,319 --> 00:08:12,720
-open environment that we've
+otwartym środowisku, które
 
 256
 00:08:09,680 --> 00:08:14,080
-we've created
+stworzyliśmy
 
 257
 00:08:12,720 --> 00:08:16,240
-i don't need to go through this because
+Nie muszę tego omawiać, ponieważ
 
 258
 00:08:14,080 --> 00:08:17,759
-i kind of just covered all of those
+po prostu omówiłem to wszystko
 
 259
 00:08:16,240 --> 00:08:20,240
-and then here's just the highest level
+i tutaj jest tylko spojrzenie
 
 260
 00:08:17,759 --> 00:08:20,800
-look at um at carrera in general so
+ogólne na Karurę, tak więc
 
 261
 00:08:20,240 --> 00:08:22,639
-these are
+to są
 
 262
 00:08:20,800 --> 00:08:24,800
-all the products that we've built
+wszystkie produkty, które zbudowaliśmy
 
 263
 00:08:22,639 --> 00:08:26,639
-there's several bridges being built
+jest tam zbudowanych kilka mostów
 
 264
 00:08:24,800 --> 00:08:28,639
-in the ecosystem right now specifically
+w ekosystemie właśnie teraz, w szczególności
 
 265
 00:08:26,639 --> 00:08:31,360
-for or most notably for
+dla lub przede wszystkim, dla
 
 266
 00:08:28,639 --> 00:08:33,039
-bitcoin and ethereum um so pretty soon
+bitcoin`a i ethereum, więc już niedługo
 
 267
 00:08:31,360 --> 00:08:33,680
-after we launch we'll be seeing ethereum
+po uruchomieniu zobaczymy walor
 
 268
 00:08:33,039 --> 00:08:36,399
-assets
+ethereum
 
 269
 00:08:33,680 --> 00:08:37,680
-um tradable and and kind of usable
+którymi będzie można handlować i będące w pewnym sensie użyteczne
 
 270
 00:08:36,399 --> 00:08:41,360
-within our decks and other
+w naszych DEX`ach i w
 
 271
 00:08:37,680 --> 00:08:44,640
-in other products and
+innych produktach
 
 272
 00:08:41,360 --> 00:08:46,800
-yeah like this is essentially karua in a
+tak więc, jak jest w zasadzie Karura w
 
 273
 00:08:44,640 --> 00:08:48,160
-nutshell and and very similar to akala
+w skrócie. Bardzo podobna do Acala
 
 274
 00:08:46,800 --> 00:08:48,720
-but we'll just stick to korea for
+ale po prostu pozostaniemy przy Karurze
 
 275
 00:08:48,160 --> 00:08:52,000
@@ -1100,1943 +1100,1943 @@ today's
 
 276
 00:08:48,720 --> 00:08:54,240
-presentation so last
+prezentacji.
 
 277
 00:08:52,000 --> 00:08:55,839
-i think this is the last slide but um
+Myślę, że jest to ostatni slajd
 
 278
 00:08:54,240 --> 00:08:57,360
-one question that a lot of people ask is
+wiele ludzi pyta
 
 279
 00:08:55,839 --> 00:09:00,320
-why we decided to build
+dlaczego zdecydowaliśmy się zbudować
 
 280
 00:08:57,360 --> 00:09:01,279
-kura on kusama in addition to akala on
+Karura na Kusamie poza Acalą na
 
 281
 00:09:00,320 --> 00:09:03,040
-polka dot
+polkadot
 
 282
 00:09:01,279 --> 00:09:05,200
-and the answer to this question is that
+a odpowiedź na to pytanie brzmi następująco
 
 283
 00:09:03,040 --> 00:09:08,160
-we are we are doing this
+my to robimy
 
 284
 00:09:05,200 --> 00:09:10,320
-based on user demand so this kusama
+w oparciu o zapotrzebowanie użytkowników, aby środowisko
 
 285
 00:09:08,160 --> 00:09:12,000
-ecosystem and the polka dot ecosystem
+Kusamy i Polkadot
 
 286
 00:09:10,320 --> 00:09:13,760
-although there's some overlap they're
+chociaż w pewnym stopniu się pokrywają
 
 287
 00:09:12,000 --> 00:09:14,160
-also quite distinctly different now and
+bardzo wyraźnie różnie się też od siebie różnią
 
 288
 00:09:13,760 --> 00:09:16,560
-they have
+Te sieci mają
 
 289
 00:09:14,160 --> 00:09:18,399
-two different communities of token
+dwie różne społeczności posiadaczy
 
 290
 00:09:16,560 --> 00:09:20,080
-holders with defi demand
+tokenów z różnymi potrzebami DeFi
 
 291
 00:09:18,399 --> 00:09:22,000
-so we're building kura to serve that
+więc budujemy Karurę, aby to zaspokoić
 
 292
 00:09:20,080 --> 00:09:24,320
-defy demand of kusama and we'll be
+potrzeby DeFi Kusamy, jak również będziemy
 
 293
 00:09:22,000 --> 00:09:26,000
-building akala to serve the d5 demand of
+budowali Acalę, aby zaspokoić potrzeby na DeFi
 
 294
 00:09:24,320 --> 00:09:28,399
-polka dot
+Polkadot
 
 295
 00:09:26,000 --> 00:09:30,480
-um but kusama if you have the background
+Jednak Kusama, jeśli znasz podstawy
 
 296
 00:09:28,399 --> 00:09:33,200
-on kusama it's meant to be this place
+projektu Kusama, w znaczeniu, że to być miejsce
 
 297
 00:09:30,480 --> 00:09:33,600
-to have fun to experiment and to kind of
+do zabawy, eksperymentowania i poniekąd
 
 298
 00:09:33,200 --> 00:09:36,320
-launch
+uruchomienia
 
 299
 00:09:33,600 --> 00:09:38,640
-products before moving to polka dot but
+produktów przed przeniesieniem do Polkadot, jednak
 
 300
 00:09:36,320 --> 00:09:40,000
-after being heavily tested on a test net
+już po intensywnych testach w sieci testowej
 
 301
 00:09:38,640 --> 00:09:42,240
-so kusama is
+więc kusama jest
 
 302
 00:09:40,000 --> 00:09:43,040
-absolutely not a test net at all it's
+absolutnie nie nie jest to sieć testowa
 
 303
 00:09:42,240 --> 00:09:46,000
-the the
+.
 
 304
 00:09:43,040 --> 00:09:48,000
-test net is called rococo and west end
+sieć testowa nazywa się rokoko i westend
 
 305
 00:09:46,000 --> 00:09:51,360
-things are tested on testnet then move
+rzeczy są testowane na testnecie, a następnie są przenoszone
 
 306
 00:09:48,000 --> 00:09:52,800
-to kusama and then move to polka dot
+do Kusama, a potem do Polkadot
 
 307
 00:09:51,360 --> 00:09:54,480
-what we're building is also kind of
+to, co budujemy, jest w pewnym rodzaju
 
 308
 00:09:52,800 --> 00:09:56,959
-going to follow a similar path
+będzie podążać podobną ścieżką
 
 309
 00:09:54,480 --> 00:09:58,240
-our test net is called mandala so the
+nasza sieć testowa nazywa się Mandala, więc
 
 310
 00:09:56,959 --> 00:09:59,760
-test net there is where
+sieć testowa jest tam gdzie
 
 311
 00:09:58,240 --> 00:10:01,440
-brand new products will be built and
+nowe produkty będą budowane i
 
 312
 00:09:59,760 --> 00:10:03,600
-tested and refined and
+testowane i dopracowane, i
 
 313
 00:10:01,440 --> 00:10:05,279
-hopefully nearly perfected before they
+miejmy nadzieję, że dopracowane do perfekcji, zanim
 
 314
 00:10:03,600 --> 00:10:06,640
-moved to karua
+zostaną przeniesione do Karury
 
 315
 00:10:05,279 --> 00:10:08,800
-then kuru is where we can actually
+wtedy Karura jest miejscem, gdzie możemy naprawdę
 
 316
 00:10:06,640 --> 00:10:10,800
-experiment in a real life environment
+eksperymentować w uruchomionym rzeczywistym środowisku
 
 317
 00:10:08,800 --> 00:10:12,160
-with real value on a real kind of
+z realną wartością w rzeczywistej
 
 318
 00:10:10,800 --> 00:10:14,160
-thriving network
+prosperującej sieci
 
 319
 00:10:12,160 --> 00:10:15,920
-and then if we decided this is a product
+a następnie, jeśli zdecydujemy, że dany produkt
 
 320
 00:10:14,160 --> 00:10:18,160
-that the kusama community
+który społeczność Kusama
 
 321
 00:10:15,920 --> 00:10:19,839
-liked we got good feedback we were able
+polubiła, otrzymaliśmy dobre opinie będziemy mogli
 
 322
 00:10:18,160 --> 00:10:20,160
-to improve the product then we move it
+ulepszyć produkt, a następnie przenieść go
 
 323
 00:10:19,839 --> 00:10:23,440
-to
+później
 
 324
 00:10:20,160 --> 00:10:23,440
-akala after that
+do Acala
 
 325
 00:10:24,320 --> 00:10:27,839
-and then last this is just kind of a
+a na koniec luźne
 
 326
 00:10:26,160 --> 00:10:28,880
-look at some numbers i don't need to go
+spójrzenie na liczby, nie muszę dokładnie
 
 327
 00:10:27,839 --> 00:10:30,480
-through all of these
+omawiać tego wszystkiego
 
 328
 00:10:28,880 --> 00:10:32,240
-we actually just added up our community
+właśnie wczoraj dodaliśmy wielkość naszej
 
 329
 00:10:30,480 --> 00:10:35,279
-numbers yesterday and we just
+społeczności, i właśnie
 
 330
 00:10:32,240 --> 00:10:38,000
-crossed 200 000 we're at around 205 000
+przekroczyliśmy 200 000. Jesteśmy w okolicach 205 000
 
 331
 00:10:35,279 --> 00:10:39,040
-across the akala and korea channel so
+w kanałach Acala i Karura
 
 332
 00:10:38,000 --> 00:10:40,880
-we're growing at
+rozrastamy się
 
 333
 00:10:39,040 --> 00:10:42,640
-pretty insane speeds right now and
+całkiem szalonej prędkości, teraz, i
 
 334
 00:10:40,880 --> 00:10:44,399
-getting very close to
+jesteśmy bardzo blisko
 
 335
 00:10:42,640 --> 00:10:46,320
-um you know the crowd loan process and
+przeprowadzenia procesu pożyczek publicznych 'crodloan' oraz
 
 336
 00:10:44,399 --> 00:10:48,079
-parachain auction process that
+aukcji na parachain`y, o którym
 
 337
 00:10:46,320 --> 00:10:49,519
-we've talked about before and there are
+mówiliśmy wcześniej i jest jeszcze
 
 338
 00:10:48,079 --> 00:10:50,000
-some videos on that on our youtube
+kilka filmów na naszym kanale
 
 339
 00:10:49,519 --> 00:10:51,600
-channel
+YouTube
 
 340
 00:10:50,000 --> 00:10:55,279
-feel free to check out but we won't get
+Nie krępuj się sprawdzać, bo dzisiaj nie będziemy wchodzić
 
 341
 00:10:51,600 --> 00:10:57,680
-into details on on that process today
+w szczegóły dotyczące tego procesu
 
 342
 00:10:55,279 --> 00:10:59,040
-so uh that's it for my part and now
+więc z mojej strony to wszystko, a teraz
 
 343
 00:10:57,680 --> 00:11:00,640
-we're gonna go into
+przejdziemy do
 
 344
 00:10:59,040 --> 00:11:02,160
-the demos and what we're going to do in
+demonstracji i tego co będziemy robić w
 
 345
 00:11:00,640 --> 00:11:05,040
-terms of
+sensie
 
 346
 00:11:02,160 --> 00:11:05,680
-kind of format here is ruta will go
+tego w jaki sposób Ruitao
 
 347
 00:11:05,040 --> 00:11:07,200
-through
+omówi
 
 348
 00:11:05,680 --> 00:11:09,360
-one of the products and then we'll take
+jeden z produktów, a następnie zrobimy
 
 349
 00:11:07,200 --> 00:11:11,920
-a brief pause and let you guys do q
+krótką pauzę i pozwólimy Wam zadawać pytania i będziemy
 
 350
 00:11:09,360 --> 00:11:12,480
-a and please ask questions specifically
+Proszę o konkretne pytania
 
 351
 00:11:11,920 --> 00:11:14,240
-about
+na temat
 
 352
 00:11:12,480 --> 00:11:16,079
-the demo that he had just done for
+demonstracji, która właśnie się odbyła
 
 353
 00:11:14,240 --> 00:11:18,640
-example if it's if it's the
+Na przykład jeżeli będzie to o
 
 354
 00:11:16,079 --> 00:11:19,839
-the borrow ausd part of this just keep
+pożyczaniu aUSD, po prostu zachowaj
 
 355
 00:11:18,640 --> 00:11:21,279
-your questions to that
+to pytani do tego momentu
 
 356
 00:11:19,839 --> 00:11:23,120
-we'll answer a few questions then he'll
+odpowiemy na kilka pytań, a następnie On
 
 357
 00:11:21,279 --> 00:11:24,000
-move on to the next demo we'll do a
+przejdzie do następnej demonstracji, znowu zrobimy
 
 358
 00:11:23,120 --> 00:11:25,600
-short q a
+krótkie Q&A
 
 359
 00:11:24,000 --> 00:11:27,440
-and then the final demo we'll do another
+a następnie zrobimy ostatnią demonstrację i zrobimy kolejne
 
 360
 00:11:25,600 --> 00:11:29,839
-q a and we'll end up with
+Q&A i w zakończymy
 
 361
 00:11:27,440 --> 00:11:30,880
-with kind of a an open q a session
+pewnego rodzaju otwartą sesją pytań
 
 362
 00:11:29,839 --> 00:11:32,399
-because i know you guys have a lot of
+Wiem, że macie dużo
 
 363
 00:11:30,880 --> 00:11:34,480
-questions so
+pytań, więc
 
 364
 00:11:32,399 --> 00:11:35,519
-go ahead root out take it away from from
+śmiało, zadawajcie pytania
 
 365
 00:11:34,480 --> 00:11:37,200
-here
+tutaj
 
 366
 00:11:35,519 --> 00:11:39,200
-awesome thanks dan that's an awesome
+Wspaniale. Dziękuje Dan za niesamowite
 
 367
 00:11:37,200 --> 00:11:40,800
-introduction so i just share my screen
+wprowadzenie, więc zacznę udostępniać ekran
 
 368
 00:11:39,200 --> 00:11:43,680
-to make sure that um so then can you see
+aby upewnić się, że możesz zobaczyć
 
 369
 00:11:40,800 --> 00:11:47,279
-my screen everyone can see my screen
+mój ekran. Każdy może zobaczyć mój ekran
 
 370
 00:11:43,680 --> 00:11:50,000
-yep we got it awesome um so this is the
+Tak, mamy to, wspaniale, więc to jest
 
 371
 00:11:47,279 --> 00:11:51,760
-um the front-end depth um to kurua or to
+widok strony front-end dla Karura, czy do
 
 372
 00:11:50,000 --> 00:11:53,600
-mandala like this is the test net but
+mandala, która jest siecią testową, ale
 
 373
 00:11:51,760 --> 00:11:54,800
-this is going to be the front and depth
+to będzie widok strony
 
 374
 00:11:53,600 --> 00:11:57,519
-for kuruwa
+Karura
 
 375
 00:11:54,800 --> 00:11:58,959
-it is like what then says um crew itself
+to jest tak, jak mówi zespół
 
 376
 00:11:57,519 --> 00:12:01,200
-is a specialized blockchain
+jest to wyspecjalizowany blockchain
 
 377
 00:11:58,959 --> 00:12:03,120
-with a set of built-in features and this
+z zestawem wbudowanych funkcji i tym
 
 378
 00:12:01,200 --> 00:12:05,760
-is the front end for you to interact
+oto widokiem strony do interakcji
 
 379
 00:12:03,120 --> 00:12:06,560
-as a consumer as a trader to interact
+jako konsument, jako trader do interakcji
 
 380
 00:12:05,760 --> 00:12:09,440
-with this
+z tą
 
 381
 00:12:06,560 --> 00:12:10,880
-specialized network and obviously the
+wyspecjalizowaną siecią i oczywiście
 
 382
 00:12:09,440 --> 00:12:13,279
-most important feature
+najważniejszą funkcją jest
 
 383
 00:12:10,880 --> 00:12:15,680
-overall is that we have a dark mode and
+tryb ciemny, który
 
 384
 00:12:13,279 --> 00:12:17,680
-this fits within the crew us um
+pasuje do ustalonego przez zepół Acala
 
 385
 00:12:15,680 --> 00:12:19,120
-color scheme it looks really awesome um
+schematu kolorów. Wygląda to niesamowicie
 
 386
 00:12:17,680 --> 00:12:20,399
-this is what we're going to be look like
+tak to będzie wyglądać
 
 387
 00:12:19,120 --> 00:12:22,720
-as a d4
+jako skórka domyślna
 
 388
 00:12:20,399 --> 00:12:23,519
-color scheme when we launch this um when
+kiedy
 
 389
 00:12:22,720 --> 00:12:25,760
-we launch the
+uruchamiamy
 
 390
 00:12:23,519 --> 00:12:26,880
-current network and the very first page
+sieć Karura i na pierwszej stronie
 
 391
 00:12:25,760 --> 00:12:29,120
-that i'm going to show
+którą mam zamiar pokazać
 
 392
 00:12:26,880 --> 00:12:30,480
-is the wallet page this is where you
+jest strona portfela, to jest miejsce, w którym Ty
 
 393
 00:12:29,120 --> 00:12:33,279
-manage all your assets
+zarządzaj wszystkimi swoimi aktywami
 
 394
 00:12:30,480 --> 00:12:33,920
-within the kura project um and as you
+w ramach parachain`a Karura oraz możesz
 
 395
 00:12:33,279 --> 00:12:35,680
-can see
+zobaczyć
 
 396
 00:12:33,920 --> 00:12:37,360
-you can have your well this will be
+że to
 
 397
 00:12:35,680 --> 00:12:39,680
-definitely turning to the kr token
+się zmieni na KAR token
 
 398
 00:12:37,360 --> 00:12:40,800
-you have your ksm token you have your k
+masz swój token KSM i masz swoje
 
 399
 00:12:39,680 --> 00:12:43,600
-ausd token
+tokeny kUSD
 
 400
 00:12:40,800 --> 00:12:45,680
-you can freely transfer um to other
+możesz je swobodnie przesłać do innych
 
 401
 00:12:43,600 --> 00:12:46,560
-voltages by just interacting with this
+portfeli przez interakcję z tym
 
 402
 00:12:45,680 --> 00:12:48,399
-front-end app
+widokiem strony aplikacji
 
 403
 00:12:46,560 --> 00:12:50,560
-you can manage your assets as if like
+możesz zarządzać swoimi aktywami, jak
 
 404
 00:12:48,399 --> 00:12:52,720
-one of the
+jeden ze
 
 405
 00:12:50,560 --> 00:12:54,399
-aggregation of your assets um get access
+zgromadzonych Twoich aktywów, masz dostęp
 
 406
 00:12:52,720 --> 00:12:57,760
-to value transfer
+aby przesłać wartość
 
 407
 00:12:54,399 --> 00:13:01,279
-or get access to things like minting btc
+albo uzyskać dostęp do takich rzeczy jak minting btc
 
 408
 00:12:57,760 --> 00:13:03,200
-mint in poca btc or do inter production
+minting polkaBTC, albo przesłać środki do
 
 409
 00:13:01,279 --> 00:13:04,480
-transfer for example if i want to
+innego parachain`a. Na przykład jeżeli chcesz
 
 410
 00:13:03,200 --> 00:13:07,200
-transfer
+przesłać
 
 411
 00:13:04,480 --> 00:13:08,079
-alcohol asset from macula to for example
+aktywa z Acala do na przykład
 
 412
 00:13:07,200 --> 00:13:10,639
-hydra decks
+hydra Dex
 
 413
 00:13:08,079 --> 00:13:12,160
-i can select here and do an interchange
+mogę tutaj wybrać i zrobić wymianę
 
 414
 00:13:10,639 --> 00:13:15,040
-uh transfer so this is
+przelew, więc to
 
 415
 00:13:12,160 --> 00:13:16,240
-almost looks like an uh a user very
+wygląda prawie tak, jak bardzo przyjazny
 
 416
 00:13:15,040 --> 00:13:18,480
-friendly wallet they can
+użytkownikowi portfel
 
 417
 00:13:16,240 --> 00:13:20,320
-you can access like um in my opinion way
+w mojej opinii masz lepszy dostęp
 
 418
 00:13:18,480 --> 00:13:22,560
-better than just um
+niż
 
 419
 00:13:20,320 --> 00:13:23,519
-than just using polkadot.js to to to
+używanie polkadot.js, aby
 
 420
 00:13:22,560 --> 00:13:25,760
-interact with the
+mieć interakcje z
 
 421
 00:13:23,519 --> 00:13:26,959
-blockchain so this is that's what i was
+blockchain`em, więc to jest to, o co
 
 422
 00:13:25,760 --> 00:13:29,040
-gonna ask you right
+chciałem zapytać
 
 423
 00:13:26,959 --> 00:13:30,399
-so as we go through this i'm just gonna
+zanim przez to przejdziemy, po prostu zamierzam
 
 424
 00:13:29,040 --> 00:13:31,839
-ask questions that i think
+zadawać pytania, o których myślę
 
 425
 00:13:30,399 --> 00:13:33,760
-people in the audience might be
+że odbiorcy mogą się
 
 426
 00:13:31,839 --> 00:13:34,000
-wondering so what you're showing here is
+zastanawiać, więc to co tutaj pokazujez
 
 427
 00:13:33,760 --> 00:13:36,240
-a
+jest to
 
 428
 00:13:34,000 --> 00:13:38,880
-wallet that can be used similar to
+portfel, który może być używany podobnie jak
 
 429
 00:13:36,240 --> 00:13:40,399
-people have on polka dot js now or even
+ludzie teraz korzystają z polkadot.js, czy nawet
 
 430
 00:13:38,880 --> 00:13:42,079
-some of their mobile wallets but
+niektóre z portfeli mobilnych, jednak
 
 431
 00:13:40,399 --> 00:13:43,839
-when they connect what they would do to
+kiedy ludzie połączą się, to, to aby
 
 432
 00:13:42,079 --> 00:13:45,040
-actually see these numbers here is it
+zobaczyli te numery, tutaj
 
 433
 00:13:43,839 --> 00:13:45,760
-correct that they would go up to the
+poprawnie, powinni iść do
 
 434
 00:13:45,040 --> 00:13:47,680
-polka dot
+rozszerzenia przeglądarki polkadot.js
 
 435
 00:13:45,760 --> 00:13:49,680
-js extension and connect their polka dot
+i połączyć swoje konta
 
 436
 00:13:47,680 --> 00:13:50,399
-js account to this wallet and it would
+polkadot.js z tym portfelem i
 
 437
 00:13:49,680 --> 00:13:53,040
-show
+pokazałyby się
 
 438
 00:13:50,399 --> 00:13:53,519
-their live balances within this wallet
+ich salda w czasie rzeczywistym w tym portfelu
 
 439
 00:13:53,040 --> 00:13:56,720
-is that
+jest to
 
 440
 00:13:53,519 --> 00:13:58,160
-yes yes yes definitely and the poke.js
+zdecydowanie i rozszerzenie polkadot.js
 
 441
 00:13:56,720 --> 00:14:01,279
-is very similar to the
+jest bardzo podobne do
 
 442
 00:13:58,160 --> 00:14:03,440
-metamask equivalent on polka dots
+metamaska, taki odpowiednik metamask`a na polkadot
 
 443
 00:14:01,279 --> 00:14:04,959
-you can manage multiple account in this
+możesz zarządzać wieloma kontami w
 
 444
 00:14:03,440 --> 00:14:06,399
-wallet section as well so i can change
+sekcji portfela, więc mogę zmienić
 
 445
 00:14:04,959 --> 00:14:08,320
-to another demo account here
+na inne konto demo tutaj
 
 446
 00:14:06,399 --> 00:14:10,320
-you can see all the stuff i refresh on
+możesz tutaj zobaczyć wszystkie rzeczy, odświeżam
 
 447
 00:14:08,320 --> 00:14:11,279
-the fly i can change back to my original
+na bieżąco, i mogę zmienić z powrotem na moje oryginalne
 
 448
 00:14:10,320 --> 00:14:13,279
-demo account
+konto demo
 
 449
 00:14:11,279 --> 00:14:14,399
-and you can also see a history of your
+możesz również zobaczyć historię swoich
 
 450
 00:14:13,279 --> 00:14:16,240
-past transaction
+transakcji
 
 451
 00:14:14,399 --> 00:14:17,440
-so very very user friendly very very
+więc jest to bardzo przyjazny dla użytkownika, bardzo
 
 452
 00:14:16,240 --> 00:14:20,160
-consumer focused
+skoncentrowany na konsumencie
 
 453
 00:14:17,440 --> 00:14:21,920
-this is your your your one stop to
+to twój pojedynczy przystanek do
 
 454
 00:14:20,160 --> 00:14:30,160
-access your your assets
+dostępu do Twoich zasobów
 
 455
 00:14:21,920 --> 00:14:32,560
-on kura
+na Karura
 
 456
 00:14:30,160 --> 00:14:34,079
-so then do do we want to um see if
+Tak, więc, Dan czy
 
 457
 00:14:32,560 --> 00:14:34,480
-there's any questions that would like to
+są jakieś pytania, które chciałbyś zadać?
 
 458
 00:14:34,079 --> 00:14:36,800
-um
+hmm
 
 459
 00:14:34,480 --> 00:14:38,639
-to um to answer regarding this wallet
+w sprawie tego interfejsu portfela
 
 460
 00:14:36,800 --> 00:14:39,199
-interface or should we carry on to work
+czy powinniśmy kontynuować pracę i
 
 461
 00:14:38,639 --> 00:14:41,279
-on the
+przejść do
 
 462
 00:14:39,199 --> 00:14:42,399
-next section which is the borrowing uh
+następnej sekcji, którą jest branie pożyczki
 
 463
 00:14:41,279 --> 00:14:45,600
-the borrowing
+pożyczanie
 
 464
 00:14:42,399 --> 00:14:49,040
-of the stable coin
+stablecoin`ów
 
 465
 00:14:45,600 --> 00:14:49,040
-um let's see
+zobaczmy
 
 466
 00:14:49,519 --> 00:14:52,959
-it might be hard to actually sort
+może być trudne aby posortować
 
 467
 00:14:51,279 --> 00:14:55,600
-through this
+przez to
 
 468
 00:14:52,959 --> 00:14:57,199
-box it okay so if you guys have
+pudełko. W porządku, więc jeśli macie jakieś
 
 469
 00:14:55,600 --> 00:14:59,440
-questions specific to one of these
+specyficzne pytania do którejś z tych
 
 470
 00:14:57,199 --> 00:15:02,000
-demos i'll be actually watching this the
+demonstracji. Będe obserwował
 
 471
 00:14:59,440 --> 00:15:04,079
-chat here so
+czat, więc
 
 472
 00:15:02,000 --> 00:15:05,360
-which wall someone says which wallet is
+ktoś pyta, który portfel
 
 473
 00:15:04,079 --> 00:15:09,040
-chosen for this is it the
+został do tego wybrany
 
 474
 00:15:05,360 --> 00:15:12,160
-ksm wallet um
+portfel KSM
 
 475
 00:15:09,040 --> 00:15:14,639
-well this is like the um
+cóż, jest to tak jak
 
 476
 00:15:12,160 --> 00:15:15,199
-if you use pocket.js as the extension
+Jeżeli używasz rozszerzenia polkadot.js
 
 477
 00:15:14,639 --> 00:15:17,680
-this is
+to jest
 
 478
 00:15:15,199 --> 00:15:18,800
-essentially your access to both kusama
+zasadniczo twój dostęp do obu sieci: Kusama
 
 479
 00:15:17,680 --> 00:15:22,320
-and polkadot
+i Polkadot
 
 480
 00:15:18,800 --> 00:15:24,160
-and kura and alcohol like every single
+do Karura i Acala, każdy
 
 481
 00:15:22,320 --> 00:15:26,320
-subject-based blockchain they go gonna
+tematyczny blockchain, będzie
 
 482
 00:15:24,160 --> 00:15:27,519
-all be manageable by pocket.js
+obsługiwany przez polkadot.js
 
 483
 00:15:26,320 --> 00:15:29,519
-so think about this it's like a
+Więc pomyśl o tym, jak
 
 484
 00:15:27,519 --> 00:15:32,480
-multifunction version of metamask you
+wielofunkcyjna wersja metamask`a
 
 485
 00:15:29,519 --> 00:15:34,360
-arrive at carrura and you access to your
+Łączysz sie z Karura i masz dostęp do swoich
 
 486
 00:15:32,480 --> 00:15:37,920
-current asset using your sam
+zasobów na Karura, używając tego samego
 
 487
 00:15:34,360 --> 00:15:37,920
-pog.js extension
+rozszerzenia polkadot.js
 
 488
 00:15:38,560 --> 00:15:42,560
-yeah so you basically connect one
+tak, więc w zasadzie łączysz jedno
 
 489
 00:15:40,639 --> 00:15:44,399
-account from your polka dot js and then
+konto z polkadot.js, a następnie
 
 490
 00:15:42,560 --> 00:15:45,440
-it shows you every wallet that's kind of
+to pokazuje każdy portfel, który jest
 
 491
 00:15:44,399 --> 00:15:48,560
-connected to that
+połączony z tym
 
 492
 00:15:45,440 --> 00:15:51,040
-account yes yes
+kontem, tak, tak
 
 493
 00:15:48,560 --> 00:15:52,880
-and obviously in pogo.js you have the
+i oczywiście w polkadot.js masz
 
 494
 00:15:51,040 --> 00:15:54,639
-right um your the way to manage like i
+możliwość zarządzania, tak jak
 
 495
 00:15:52,880 --> 00:15:56,800
-would like to use this on alkala
+chciałbyś tego użyć na Acala
 
 496
 00:15:54,639 --> 00:15:58,240
-i only wanted to use this um this
+Chciałbym użyć tego
 
 497
 00:15:56,800 --> 00:16:00,880
-particular water address
+konkretnego adresu portfela
 
 498
 00:15:58,240 --> 00:16:01,920
-maybe only on relay chain on kusama all
+może tylko na Relay Chain na Kusama. Albo
 
 499
 00:16:00,880 --> 00:16:02,320
-you can say that i would like to use
+możesz powiedzieć, że chcesz użyć
 
 500
 00:16:01,920 --> 00:16:05,120
-this
+ten
 
 501
 00:16:02,320 --> 00:16:06,560
-wallet in all the available power chains
+portfel we wszystkich dostępnych parachain`ach
 
 502
 00:16:05,120 --> 00:16:09,920
-and relay chance so you can
+i na Relay Chain`ach, więc
 
 503
 00:16:06,560 --> 00:16:12,320
-get it's the your the user's um
+to zależy od użytkownika
 
 504
 00:16:09,920 --> 00:16:14,000
-um ability to choose like where this
+który wybiera, gdzie dany
 
 505
 00:16:12,320 --> 00:16:15,360
-wallet is going to be made available and
+portfel będzie dostępny
 
 506
 00:16:14,000 --> 00:16:16,959
-if you make it available
+Jeżeli zrobisz go dostępnym
 
 507
 00:16:15,360 --> 00:16:19,440
-for garura it will appear here and you
+dla Karura, to pojawi się tutaj i masz
 
 508
 00:16:16,959 --> 00:16:23,279
-can manage that yep
+możliwość zarządzania
 
 509
 00:16:19,440 --> 00:16:25,920
-yeah um p i see this guy name or this
+Widzę, że ta osoba
 
 510
 00:16:23,279 --> 00:16:26,320
-this person named p just was asking
+nazywająca się Pi, właśnie zapytała
 
 511
 00:16:25,920 --> 00:16:29,360
-about
+o
 
 512
 00:16:26,320 --> 00:16:30,160
-the branding here so when the kala is
+pojawiającą się tu nazwę, kiedy Acala zostanie
 
 513
 00:16:29,360 --> 00:16:32,560
-launched
+uruchomiona
 
 514
 00:16:30,160 --> 00:16:33,600
-um it's going to only say akala and have
+będzie tam tylko Acala i będzie mieć
 
 515
 00:16:32,560 --> 00:16:35,199
-the akala logo
+logo Acala
 
 516
 00:16:33,600 --> 00:16:37,279
-when carrera launches it'll have the
+kiedy Karura zostanie uruchomiona, to będzie miało
 
 517
 00:16:35,199 --> 00:16:38,880
-carrera logo in the upper left
+logo Karura na górze po lewej stronie
 
 518
 00:16:37,279 --> 00:16:41,120
-and then this is always going to say
+w ten sposób zawsze to będzie pokazywać
 
 519
 00:16:38,880 --> 00:16:42,480
-this for the test net so akala mandala
+że to jest tylko sieć testowa, więc Mandala jest siecią testową
 
 520
 00:16:41,120 --> 00:16:44,639
-is the test net
+dla Acala
 
 521
 00:16:42,480 --> 00:16:46,240
-um so yeah that will be that will be
+Więc będzie to
 
 522
 00:16:44,639 --> 00:16:48,800
-only the the name of the
+tylko nazwa
 
 523
 00:16:46,240 --> 00:16:50,399
-the network when they're live yeah and i
+sieci, jak będą uruchomione
 
 524
 00:16:48,800 --> 00:16:50,880
-also want to give a little bit hint here
+również chciałbym podać tutaj trochę wskazówek
 
 525
 00:16:50,399 --> 00:16:53,279
-so
+więc
 
 526
 00:16:50,880 --> 00:16:54,560
-kura is the sister network of alcala
+Karura jest siecią siostrzaną Acali
 
 527
 00:16:53,279 --> 00:16:56,160
-right so when they
+więc kiedy one
 
 528
 00:16:54,560 --> 00:16:58,480
-when they're born they are almost
+powstają, są prawie
 
 529
 00:16:56,160 --> 00:17:01,040
-identical but when they go live and
+identyczne, jednak gdy zostaną uruchomione
 
 530
 00:16:58,480 --> 00:17:03,040
-when the genesis happens um the two
+kiedy nastąpi geneza, obie
 
 531
 00:17:01,040 --> 00:17:04,559
-network might take different paths like
+sieci obiorą różne ścieżki, tak więc
 
 532
 00:17:03,040 --> 00:17:06,640
-you might see assets that will be only
+możesz zobaczyć aktywa, które
 
 533
 00:17:04,559 --> 00:17:07,199
-available on kurura because like they
+będą dostępne tylko na Karura, ponieważ
 
 534
 00:17:06,640 --> 00:17:09,039
-will be
+będą one
 
 535
 00:17:07,199 --> 00:17:10,799
-only available on kusama or you might
+tylko dostępne w sieci Kusama, albo możesz
 
 536
 00:17:09,039 --> 00:17:11,439
-see feature they'll be only available on
+znaleźć funkcje, które będą dostępne tylko na
 
 537
 00:17:10,799 --> 00:17:13,199
-kura
+Karura
 
 538
 00:17:11,439 --> 00:17:15,039
-because like it's the wild cousin of
+ponieważ będzie to taki dziki kuzyn
 
 539
 00:17:13,199 --> 00:17:16,959
-polka dots and you will see the similar
+polkadot i będziesz widział podobne
 
 540
 00:17:15,039 --> 00:17:19,439
-stuff happened on kura as the main
+rzeczy dziejące się głównie na Karura
 
 541
 00:17:16,959 --> 00:17:21,280
-alcohol is the main as well so when they
+czy głównie na Acala, więc można
 
 542
 00:17:19,439 --> 00:17:24,240
-generalize this um it's the same
+generalizować, że są one tym samym
 
 543
 00:17:21,280 --> 00:17:26,000
-but they might evolve into its own
+ale mogą przekształcić się we własny
 
 544
 00:17:24,240 --> 00:17:29,360
-distinctive um
+odmienny
 
 545
 00:17:26,000 --> 00:17:31,760
-set of features perfect
+zestaw funkcji
 
 546
 00:17:29,360 --> 00:17:32,480
-well let's move on to the next uh the
+Przejdźmy do następnej
 
 547
 00:17:31,760 --> 00:17:36,240
-next demo
+demonstracji
 
 548
 00:17:32,480 --> 00:17:38,720
-we've got keith and um
+Mamy Kate
 
 549
 00:17:36,240 --> 00:17:39,600
-who else was that sage are both
+ktoś jeszcze, oboje byli
 
 550
 00:17:38,720 --> 00:17:42,080
-interested in
+zainteresowani
 
 551
 00:17:39,600 --> 00:17:43,200
-in borrowing on the platform so let's
+w zaciąganiu pożyczek na platformie, więc
 
 552
 00:17:42,080 --> 00:17:44,960
-get into that
+przejdźmy do tego
 
 553
 00:17:43,200 --> 00:17:47,360
-yeah no problem and this is one the
+Tak, nie ma problemu. To jest jeden z
 
 554
 00:17:44,960 --> 00:17:47,919
-reason that i we think why kuru is so
+powodów dlaczego myślimy, że Karura jest tak
 
 555
 00:17:47,360 --> 00:17:49,919
-useful
+użyteczna
 
 556
 00:17:47,919 --> 00:17:51,120
-when it's become a project you can
+kiedy zostanie parachain`em, możesz
 
 557
 00:17:49,919 --> 00:17:54,080
-unlock the utility
+odblokować użyteczność
 
 558
 00:17:51,120 --> 00:17:56,000
-of your kusama token and start to um to
+Twoich tokenów KSM i zacząć
 
 559
 00:17:54,080 --> 00:17:59,120
-to to borrow against your your
+brać pożyczki w zastaw za Twoje
 
 560
 00:17:56,000 --> 00:18:01,280
-uh your kyokusama token so this is the
+tokeny KSM, więc to jest
 
 561
 00:17:59,120 --> 00:18:03,280
-borrowing interface you can see an
+Interfejs zaciągania kredytów, który możesz zobaczyć
 
 562
 00:18:01,280 --> 00:18:03,760
-overview of your current position so you
+przegląd Twoich aktualnych pozycji
 
 563
 00:18:03,280 --> 00:18:06,240
-can see
+Możesz zobaczyć
 
 564
 00:18:03,760 --> 00:18:07,679
-you have i have already borrowed open a
+że posiadam już pożyczkę
 
 565
 00:18:06,240 --> 00:18:10,720
-position on ram bdc
+pozycję na renBTC
 
 566
 00:18:07,679 --> 00:18:12,559
-i borrow roughly three thousand dollars
+Pożyczyłem około 3 tysiące dolarów
 
 567
 00:18:10,720 --> 00:18:14,880
-against zero point one run bdc
+w zastaw za 0.1 renBTC
 
 568
 00:18:12,559 --> 00:18:16,880
-that's a little bit risky but i mean
+jest to trochę ryzykowne
 
 569
 00:18:14,880 --> 00:18:18,640
-that's what um the system allows
+To jest to, na co pozwala system
 
 570
 00:18:16,880 --> 00:18:20,160
-um you can actually create loans using
+Możesz właściwie utwożyć pożyczkę używając
 
 571
 00:18:18,640 --> 00:18:22,880
-any sort of asset that will be
+dowolnego rodzaju aktywa, które będą
 
 572
 00:18:20,160 --> 00:18:24,240
-available in the governance process
+dostępne i w procesie zarządzania
 
 573
 00:18:22,880 --> 00:18:26,320
-allowed to be using crypto
+dozwolone do użycia
 
 574
 00:18:24,240 --> 00:18:27,360
-and in this particular interface here i
+w tym konkretnym interfejsie, tutaj, ja
 
 575
 00:18:26,320 --> 00:18:29,840
-have dot
+mam DOT
 
 576
 00:18:27,360 --> 00:18:31,039
-l dot which we'll be covering later and
+LDOT, który będzie zastawem
 
 577
 00:18:29,840 --> 00:18:32,000
-this will be definitely it would be like
+Będzie to z pewnością takie jak
 
 578
 00:18:31,039 --> 00:18:35,200
-kusama
+KSM
 
 579
 00:18:32,000 --> 00:18:35,760
-el kikuzama and bitcoins so what i'm
+LKSM i bitcoins, więc to co
 
 580
 00:18:35,200 --> 00:18:37,679
-going to
+zamierzam
 
 581
 00:18:35,760 --> 00:18:38,960
-demo here is that i'm going to borrow
+tutaj zademonstrować, jest pożyczenie
 
 582
 00:18:37,679 --> 00:18:42,080
-more
+więcej
 
 583
 00:18:38,960 --> 00:18:44,320
-against my 0.1 ram btc position here
+w zastaw za moje 0.1 ramBTC
 
 584
 00:18:42,080 --> 00:18:45,600
-so you can see um the current bitcoin
+więc możesz zobaczyć, że bieżąca dla Bitcoina
 
 585
 00:18:44,320 --> 00:18:48,400
-oracle rate is
+wycena jest
 
 586
 00:18:45,600 --> 00:18:49,919
-roughly that number i'm still quite safe
+mniej więcej tą wartością. Wciąż jestem dość bezpieczny
 
 587
 00:18:48,400 --> 00:18:52,720
-um to borrow a little bit more
+pożyczam trochę więcej
 
 588
 00:18:49,919 --> 00:18:53,760
-against that 0.1 ram bdc so i'm going to
+w zastaw za to 0.1 ramBTC, więc
 
 589
 00:18:52,720 --> 00:18:55,039
-press generate more
+klikam wygeneruj więcej
 
 590
 00:18:53,760 --> 00:18:57,280
-i'm going to press hey i will actually
+Zamierzam nacisnąć tutaj
 
 591
 00:18:55,039 --> 00:18:58,400
-probably ten dollars more and press
+10 dolarów więcej
 
 592
 00:18:57,280 --> 00:19:00,080
-confirm
+potwierdź
 
 593
 00:18:58,400 --> 00:19:01,600
-and this is where the signing comes up i
+i to właśnie tu pojawia się podpis
 
 594
 00:19:00,080 --> 00:19:05,280
-will gonna type in my key
+wpiszę moje
 
 595
 00:19:01,600 --> 00:19:07,360
-password and sign the transaction and
+hasło i podpiszę transakcję
 
 596
 00:19:05,280 --> 00:19:09,280
-boom i have ten dollar more that i can
+BOOM. Mam 10 dolarów więcej, które mogę
 
 597
 00:19:07,360 --> 00:19:11,280
-spend and this is how fast um
+wydać i to jest przykład jak szybko to działa
 
 598
 00:19:09,280 --> 00:19:13,280
-and project network looks like and all
+i jak wygląda sieć projektu
 
 599
 00:19:11,280 --> 00:19:15,600
-this is happening on the fly for real
+wszystko się dzieje na bieżąco
 
 600
 00:19:13,280 --> 00:19:16,880
-um and you can actually see this on the
+właściwie możesz to zobaczyć na
 
 601
 00:19:15,600 --> 00:19:18,080
-on the on the block scanner that's
+skanerze bloków
 
 602
 00:19:16,880 --> 00:19:21,039
-provided by sub scan
+dostarczonego przez SUBSCAN
 
 603
 00:19:18,080 --> 00:19:21,679
-so um this is amazing right this is um
+więc jest to niesamowite. Prawda? to jest
 
 604
 00:19:21,039 --> 00:19:24,480
-much much
+o wiele bardziej
 
 605
 00:19:21,679 --> 00:19:25,600
-more um responsive much much more
+responsywne i o wiele bardziej przyjazne
 
 606
 00:19:24,480 --> 00:19:28,080
-user-friendly
+użytkownikowi
 
 607
 00:19:25,600 --> 00:19:30,160
-also i can also replay i can pay back as
+mogę to również powtórzyć i zwrócić
 
 608
 00:19:28,080 --> 00:19:32,080
-i set a position if i think um
+pozycję, którą ustawiłem, jeżeli myślę, że
 
 609
 00:19:30,160 --> 00:19:34,160
-i'm going to reduce a little bit of risk
+zmniejszę trochę ryzyko
 
 610
 00:19:32,080 --> 00:19:36,400
-here i can pay 100 year ausd
+tutaj mogę zapłacić około 100 aUSD
 
 611
 00:19:34,160 --> 00:19:37,200
-that's like reducing my calculation
+to tak jak zmniejszenie obliczeń mojej
 
 612
 00:19:36,400 --> 00:19:39,520
-ratio
+proporcji
 
 613
 00:19:37,200 --> 00:19:40,960
-and any asset that will be available
+i wszelkie aktywa, które będą dostępne
 
 614
 00:19:39,520 --> 00:19:42,000
-through the governance process can be
+w procesie zarządzania, mogą być
 
 615
 00:19:40,960 --> 00:19:43,760
-borrowed against
+użyte jako zastaw
 
 616
 00:19:42,000 --> 00:19:45,679
-different assets would have different
+różne aktywa będą miały różne
 
 617
 00:19:43,760 --> 00:19:47,039
-risk parameters so for example bitcoin
+parametry ryzyka, więc na przykładzie bitcoina
 
 618
 00:19:45,679 --> 00:19:48,640
-might have a risk parameter
+różne parametry ryzyka mogą być dla
 
 619
 00:19:47,039 --> 00:19:51,600
-on the medieval credit ratio on the
+średniej wartości minimalnego zabezpieczenia, wskaźnika kredytu,
 
 620
 00:19:48,640 --> 00:19:54,640
-liquidation ratio on the liquidation fee
+wskaźnika likwidacji, opłaty likwidacyjnej
 
 621
 00:19:51,600 --> 00:19:55,440
-jobs ldots ksm lksm they might all have
+DOT, LDOT, KSM, LKSM, one wszystkie mogą mieć
 
 622
 00:19:54,640 --> 00:19:57,520
-different
+różne
 
 623
 00:19:55,440 --> 00:19:58,880
-ratio they'll be managed and governed by
+wskaźniki, one będą zarządzane w
 
 624
 00:19:57,520 --> 00:20:01,280
-the governance process
+przez proces zarządzania
 
 625
 00:19:58,880 --> 00:20:02,480
-so that is essentially how you borrow
+tak, tak to zasadniczo wygląda, jak bierzesz kredyt
 
 626
 00:20:01,280 --> 00:20:05,840
-against um
+w zastaw
 
 627
 00:20:02,480 --> 00:20:08,799
-crychos in kura
+za krypto w Karura
 
 628
 00:20:05,840 --> 00:20:09,760
-let so maybe one thing we can do this
+być może możemy zrobić jedną rzecz, ta
 
 629
 00:20:08,799 --> 00:20:12,240
-concept
+koncepcja
 
 630
 00:20:09,760 --> 00:20:13,840
-of collateralization and taking loans is
+zabezpieczeń i zaciągania pożyczek jest
 
 631
 00:20:12,240 --> 00:20:15,360
-probably new to a lot of people i know
+prawdopodobnie nowa dla wielu ludzi, których znam
 
 632
 00:20:13,840 --> 00:20:18,720
-it was new to me
+to było nowe dla mnie
 
 633
 00:20:15,360 --> 00:20:20,880
-um at one point and basically like to to
+w jednym momencie i właściwie chciałbym
 
 634
 00:20:18,720 --> 00:20:23,280
-make this as simple as possible
+uczynić to w miarę możliwości najprostszym
 
 635
 00:20:20,880 --> 00:20:24,720
-um like i think many of us are aware of
+Myślę, że wielu z nas jest świadomych
 
 636
 00:20:23,280 --> 00:20:26,720
-how like a home
+że, tak jak pożyczki na dom
 
 637
 00:20:24,720 --> 00:20:28,720
-loan works where typically you might put
+działają, gdzie zazwyczaj musisz wpłacić
 
 638
 00:20:26,720 --> 00:20:31,200
-like 10 down or 20
+jakieś 10 czy 20 procent
 
 639
 00:20:28,720 --> 00:20:32,080
-down that cash that you put down is what
+tej gotówki, którą pożyczasz
 
 640
 00:20:31,200 --> 00:20:34,240
-you're putting
+dokonujesz wkładu własnego
 
 641
 00:20:32,080 --> 00:20:35,600
-down in order to get the full the full
+aby uzyskać pełną
 
 642
 00:20:34,240 --> 00:20:36,480
-loan of whatever you're getting for that
+pożyczkę na cokolwiek na co pożyczasz, czy na
 
 643
 00:20:35,600 --> 00:20:39,679
-house
+dom
 
 644
 00:20:36,480 --> 00:20:41,440
-but with the way this works in crypto um
+ale w sposób w jaki to działa w kryptowalutach
 
 645
 00:20:39,679 --> 00:20:42,799
-we're actually over you're over
+My właściwie, Ty właściwie więcej
 
 646
 00:20:41,440 --> 00:20:45,039
-collateralizing
+zabezpieczasz, niż
 
 647
 00:20:42,799 --> 00:20:46,240
-the loan so that's why these collateral
+pożyczasz. Więc, to jest powód dlaczego te wskaźniki
 
 648
 00:20:45,039 --> 00:20:49,200
-ratios are over
+zabezpieczenia przekraczają
 
 649
 00:20:46,240 --> 00:20:51,039
-100 and you're what you're doing like
+100 procent. To co robisz, to jest
 
 650
 00:20:49,200 --> 00:20:52,880
-what it really means of collateral
+to co tak naprawdę oznacza zabezpieczenie
 
 651
 00:20:51,039 --> 00:20:54,640
-is that you're actually taking bitcoin
+to jest tak,  że faktycznie bierzesz bitcoiny
 
 652
 00:20:52,880 --> 00:20:57,120
-something like bitcoin
+coś takiego jak bitcoiny
 
 653
 00:20:54,640 --> 00:20:58,080
-you don't need to sell it but you can
+nie musisz tego sprzedawać, ale możesz
 
 654
 00:20:57,120 --> 00:21:01,120
-pull out
+wyjąć
 
 655
 00:20:58,080 --> 00:21:03,280
-um ausd a stablecoin with your bitcoin
+aUSD, "stablecoin" za pomocą Twojego Bitcoina
 
 656
 00:21:01,120 --> 00:21:04,320
-still there not sold and then you can
+nadal nie jest sprzedana, a potem możesz
 
 657
 00:21:03,280 --> 00:21:06,240
-take the ausd
+wziąć aUSD
 
 658
 00:21:04,320 --> 00:21:07,919
-and either you can send that to people
+i albo możesz to wysłać do ludzi
 
 659
 00:21:06,240 --> 00:21:10,080
-you can make payments you can
+możesz dokonać płatności
 
 660
 00:21:07,919 --> 00:21:11,200
-use that to provide liquidity within our
+moższ zapewnić płynność w obrębie naszego
 
 661
 00:21:10,080 --> 00:21:13,200
-decks but
+DEX`a, ale
 
 662
 00:21:11,200 --> 00:21:15,120
-that's essentially what this collateral
+to jest zasadniczo to, co ten wskaźnik zabezpieczenia
 
 663
 00:21:13,200 --> 00:21:16,240
-ratio means and i don't know ruta if you
+znaczy. Nie wiem Ruitao, czy Ty
 
 664
 00:21:15,120 --> 00:21:19,200
-have any more to
+masz coś więcej do
 
 665
 00:21:16,240 --> 00:21:21,200
-add to that yeah essentially give you
+dodania. Tak, zasadniczo to daje Ci
 
 666
 00:21:19,200 --> 00:21:22,240
-more utility um to the asset that you
+większą użyteczność aktywów które możesz
 
 667
 00:21:21,200 --> 00:21:25,120
-are holding to
+trzymać
 
 668
 00:21:22,240 --> 00:21:25,840
-that you might not want to sell or in in
+których możesz nie chcieć sprzedać, albo
 
 669
 00:21:25,120 --> 00:21:28,880
-short term
+w najbliższym czasie
 
 670
 00:21:25,840 --> 00:21:31,679
-and for example for fukusama for for
+dla przykładu, KSM, czy
 
 671
 00:21:28,880 --> 00:21:34,080
-lksm those are perfectly great
+LKSM są dla Ciebie doskonałą możliwością
 
 672
 00:21:31,679 --> 00:21:36,400
-collectors for you to gain more utility
+dającą większą użyteczność
 
 673
 00:21:34,080 --> 00:21:38,480
-out of your 16 kusama holdings you can
+dla posiadanych przez Ciebie KSM, możesz
 
 674
 00:21:36,400 --> 00:21:40,400
-go long you can go short you can
+iść long, albo short
 
 675
 00:21:38,480 --> 00:21:42,080
-it's i mean the option is it's in your
+oznacza to, że opcja jest w twoich
 
 676
 00:21:40,400 --> 00:21:42,960
-hand to decide how you're going to use
+rękach aby zadecydować, jak zamierzasz użyć
 
 677
 00:21:42,080 --> 00:21:46,240
-this collector
+ten kolektor
 
 678
 00:21:42,960 --> 00:21:49,280
-um to trade and ride with the market
+do handlu i poruszać się z rynkiem
 
 679
 00:21:46,240 --> 00:21:51,520
-and broderick asked what about
+i Broderick zapytał o
 
 680
 00:21:49,280 --> 00:21:52,400
-interest so are you paying interest when
+odsetki są płacone w momencie
 
 681
 00:21:51,520 --> 00:21:55,440
-you're taking out
+kiedy wychodzisz z
 
 682
 00:21:52,400 --> 00:21:57,280
-these loans and how does that work yes
+tych pożyczek i w taki sposób to właściwie działa
 
 683
 00:21:55,440 --> 00:21:59,360
-so the interest essentially is what we
+więc, główne oprocentowanie jest tym co
 
 684
 00:21:57,280 --> 00:22:00,559
-call the stabilization fee
+nazywamy opłatą stabilizującą "stabilization fee"
 
 685
 00:21:59,360 --> 00:22:02,720
-if you take a long there will be
+Jeżeli bieżesz pożyczkę na dłuższy czas
 
 686
 00:22:00,559 --> 00:22:04,880
-definitely some interest occur
+z pewnością pojawią się jakieś odsetki
 
 687
 00:22:02,720 --> 00:22:07,200
-and this is also the interest used to
+i to są również odsetki używane podczas
 
 688
 00:22:04,880 --> 00:22:09,919
-manage the supply and demand
+zarządzaniem podażą i popytem
 
 689
 00:22:07,200 --> 00:22:11,600
-of the stablecar as well as like the um
+dla stablecoin`ów, jak również
 
 690
 00:22:09,919 --> 00:22:12,240
-the way to maintain that the stablecoin
+sposób utrzymania tej stablecoiny
 
 691
 00:22:11,600 --> 00:22:14,960
-will be
+będzie
 
 692
 00:22:12,240 --> 00:22:15,760
-packed to to to a dollar in value and
+zapakowane do dolara pod względem wartości oraz
 
 693
 00:22:14,960 --> 00:22:18,320
-the increase
+wzrost
 
 694
 00:22:15,760 --> 00:22:20,159
-um all the stabilization fee will be
+wszystkich opłat stabilizacyjnych będzie
 
 695
 00:22:18,320 --> 00:22:23,600
-managed by the governance process
+zarządzany w ramach procesu zarządzania
 
 696
 00:22:20,159 --> 00:22:25,919
-really depends on demands and supplies
+naprawdę zależy od podaży i popytu
 
 697
 00:22:23,600 --> 00:22:28,240
-and do you know your interest rate
+i znasz swoją stopę procentową
 
 698
 00:22:25,919 --> 00:22:29,679
-before you take out the loan
+przed zaciągnięciem pożyczki
 
 699
 00:22:28,240 --> 00:22:30,799
-obviously definitely so let's say that
+Oczywiście z całą pewnością powiedzmy, że:
 
 700
 00:22:29,679 --> 00:22:33,440
-we want to create a lot we're going to
+chcemy utworzyć pożyczkę
 
 701
 00:22:30,799 --> 00:22:37,360
-create some ldl ksm and scripto
+chcemy utworzyć jakieś LKSM i aUSD
 
 702
 00:22:33,440 --> 00:22:38,880
-i'm going to put in maybe 5l uh l ksm
+zamierzam włożyć w to może jakieś 5 LKSM
 
 703
 00:22:37,360 --> 00:22:39,520
-here and i'm gonna taking maybe like two
+tutaj i teraz zamierzam wziąć, jakieś 2
 
 704
 00:22:38,880 --> 00:22:42,720
-dollar loan
+dolary pożyczki
 
 705
 00:22:39,520 --> 00:22:44,799
-you can already see that um um
+już możesz zobaczyć
 
 706
 00:22:42,720 --> 00:22:45,919
-the amount of money that you can borrow
+kwotę pieniędzy, którą możesz pożyczyć
 
 707
 00:22:44,799 --> 00:22:47,120
-the interest rate in here the
+oprocentowanie tutaj
 
 708
 00:22:45,919 --> 00:22:49,280
-liquidation penalty
+karę za likwidację
 
 709
 00:22:47,120 --> 00:22:50,320
-and if things goes wrong that where how
+Jeżeli sprawy idą źle, to tutaj
 
 710
 00:22:49,280 --> 00:22:52,080
-you can but
+możesz ale
 
 711
 00:22:50,320 --> 00:22:54,080
-in chance that if you over capitalize
+jest szansa, że jeśli przekroczysz kapitalizację
 
 712
 00:22:52,080 --> 00:22:56,480
-and the position becomes risky
+i pozycja staje się ryzykowna
 
 713
 00:22:54,080 --> 00:22:57,280
-you might get liquidated so this is the
+możesz zostać zlikwidowany, więc jest to
 
 714
 00:22:56,480 --> 00:22:59,600
-um the
+hmm
 
 715
 00:22:57,280 --> 00:23:00,640
-the the figure that you're able to see
+obraz, który możesz zobaczyć
 
 716
 00:22:59,600 --> 00:23:02,720
-before you
+zanim
 
 717
 00:23:00,640 --> 00:23:04,080
-create a lawn and the final confirmation
+weźmiesz pożyczkę i ją finalnie zatwierdzisz
 
 718
 00:23:02,720 --> 00:23:06,799
-stage you will be
+etap, na którym będziesz
 
 719
 00:23:04,080 --> 00:23:09,039
-once again so go ahead and confirm all
+jeszcze raz przejdź dalej i potwierdź wszystkie
 
 720
 00:23:06,799 --> 00:23:09,600
-the numbers and press confirm and this
+liczby i naciśnij potwierdź i to
 
 721
 00:23:09,039 --> 00:23:12,159
-is how you
+W taki sposób możesz
 
 722
 00:23:09,600 --> 00:23:12,640
-open a long position so i just created a
+utworzyć długą pozycję, więc właśnie wziąłem
 
 723
 00:23:12,159 --> 00:23:15,280
-loan
+pożyczkę
 
 724
 00:23:12,640 --> 00:23:17,360
-using my lksm and received like two
+używając mojego LKSM i otrzymałem jakieś dwa
 
 725
 00:23:15,280 --> 00:23:18,400
-dollars so you can say if i now go back
+dolary, jeżeli teraz wrócę
 
 726
 00:23:17,360 --> 00:23:20,240
-to an interface
+do interfejsu
 
 727
 00:23:18,400 --> 00:23:22,960
-i have two position open one with
+mam dwie pozycje otwarte, jedną z
 
 728
 00:23:20,240 --> 00:23:25,120
-bitcoin one with um lksm
+bitcoin`em i jedną z LKSM
 
 729
 00:23:22,960 --> 00:23:26,880
-those is like um and i totally have
+tak to wygląda. Całkowicie mam
 
 730
 00:23:25,120 --> 00:23:28,080
-borrowed probably like few thousand
+pożyczone jakieś parę tysięcy
 
 731
 00:23:26,880 --> 00:23:31,200
-dollars against both
+dolarów w zamian za
 
 732
 00:23:28,080 --> 00:23:33,280
-um lksm and ram bdc okay
+LKSM i ramBTC
 
 733
 00:23:31,200 --> 00:23:35,600
-that makes sense and someone asked where
+jest to sensowne i ktoś zapytał gdzie
 
 734
 00:23:33,280 --> 00:23:37,200
-does that interest actually go
+odsetki faktycznie trafiają
 
 735
 00:23:35,600 --> 00:23:38,880
-well the ancient cities actually go to
+więc, odsetki trafiają do
 
 736
 00:23:37,200 --> 00:23:40,720
-the treasury um
+skarbca
 
 737
 00:23:38,880 --> 00:23:42,880
-and being managed by the network right
+i są zarządzane przez sieć
 
 738
 00:23:40,720 --> 00:23:44,960
-it's it's essentially
+jest to właściwie
 
 739
 00:23:42,880 --> 00:23:46,240
-controlled by the network for the long
+kontrolowane przez sieć dla długotrwałego
 
 740
 00:23:44,960 --> 00:23:47,919
-prosperity of the network
+funkcjonowania sieci
 
 741
 00:23:46,240 --> 00:23:50,240
-the interest ultimately would be the
+oprocentowanie ostatecznie byłoby
 
 742
 00:23:47,919 --> 00:23:51,919
-surplus within this system and
+nadwyżką w ramach tego systemu oraz
 
 743
 00:23:50,240 --> 00:23:53,840
-if you read our white paper regarding
+jeśli przeczytałeś nasz whitepaper o
 
 744
 00:23:51,919 --> 00:23:56,880
-the decentralized sovereign wales fund
+zdecentralizowanym niezależnym funduszu
 
 745
 00:23:53,840 --> 00:23:59,360
-the interest is ultimately hold managed
+który ostatecznie trzyma odsetki i jest zarządzany
 
 746
 00:23:56,880 --> 00:24:02,640
-by the token holders
+przez posiadaczy tokenów
 
 747
 00:23:59,360 --> 00:24:06,159
-okay um one other question that's that's
+okay. jeszcze jedno pytanie, które jest
 
 748
 00:24:02,640 --> 00:24:07,760
-relevant i think um the liquidation
+istotne. koncepcja
 
 749
 00:24:06,159 --> 00:24:09,760
-concept i think is new to a lot of
+likwidacji jest nowa dla większości
 
 750
 00:24:07,760 --> 00:24:13,200
-people and
+osób i
 
 751
 00:24:09,760 --> 00:24:14,480
-my so basically what the he he asked uh
+Zasadniczo o co on zapytał jest
 
 752
 00:24:13,200 --> 00:24:17,760
-what happens if the
+co się stanie, jeżeli
 
 753
 00:24:14,480 --> 00:24:20,159
-token that is basically collateralized
+token który jest zasadniczo zabezpieczony
 
 754
 00:24:17,760 --> 00:24:22,480
-with the value drops so
+jego wartość spadnie, więc
 
 755
 00:24:20,159 --> 00:24:24,000
-liquidation in this sense does not mean
+likwidacja w tym znaczeniu nie oznacza
 
 756
 00:24:22,480 --> 00:24:25,600
-that you kind of like
+tego, że stracisz
 
 757
 00:24:24,000 --> 00:24:27,440
-lose everything that you put down that's
+wszystko co włożyłeś, dlatego
 
 758
 00:24:25,600 --> 00:24:27,760
-why there was a liquidation percentage
+tam jest odsetek likwidacyjny
 
 759
 00:24:27,440 --> 00:24:29,840
-so
+więc
 
 760
 00:24:27,760 --> 00:24:31,200
-in the example rota just showed it said
+Na tym przykładzie Ruitao pokazał to, że
 
 761
 00:24:29,840 --> 00:24:33,520
@@ -3044,1631 +3044,1631 @@ in the example rota just showed it said
 
 762
 00:24:31,200 --> 00:24:34,559
-so what that means is if the price of
+co to oznacza, jeżeli cena
 
 763
 00:24:33,520 --> 00:24:36,640
-the underlying
+bazowa
 
 764
 00:24:34,559 --> 00:24:38,480
-collateral asset that you put down say
+aktywa zabezpieczającego, które umieściłeś
 
 765
 00:24:36,640 --> 00:24:39,360
-it's bitcoin for example if the price
+powiedzmy, że jest to bitcoin. Jeżeli cena
 
 766
 00:24:38,480 --> 00:24:41,520
-were to drop
+spadnie
 
 767
 00:24:39,360 --> 00:24:42,720
-to a point where it became risky
+do punktu, w którym stanie się ryzykowna
 
 768
 00:24:41,520 --> 00:24:46,400
-according to what the
+w zależności od tego, co
 
 769
 00:24:42,720 --> 00:24:48,559
-the system says here then your
+system pokazuje tutaj, potem twoja
 
 770
 00:24:46,400 --> 00:24:49,440
-your position would basically be sold at
+pozycja zostałaby zasadniczo sprzedana na
 
 771
 00:24:48,559 --> 00:24:52,559
-a at a
+na poziomie
 
 772
 00:24:49,440 --> 00:24:54,159
-rate of a 20 kind of um fee
+stawki 20. rodzaj opłaty fee
 
 773
 00:24:52,559 --> 00:24:56,799
-for that for that liquidation take
+za tą likwidację
 
 774
 00:24:54,159 --> 00:24:56,799
-taking place
+się odbywa
 
 775
 00:24:56,960 --> 00:25:01,600
-yeah yeah i think to better um think
+Tak, myślę, że lepiej jest myśleć
 
 776
 00:24:59,919 --> 00:25:03,760
-about liquidation it's more of like
+o likwidacji, bardziej jako
 
 777
 00:25:01,600 --> 00:25:05,679
-uh if you collateralize and you borrow
+Jeżeli bierzesz pożyczkę i zabezpieczasz
 
 778
 00:25:03,760 --> 00:25:07,360
-against your bitcoin and then pick a job
+ją bitcoinem, następnie ustawiasz zlecenie
 
 779
 00:25:05,679 --> 00:25:08,960
-to a particular price
+dla określonej ceny
 
 780
 00:25:07,360 --> 00:25:10,480
-a fraction of your collection will be
+część Twojego zabezpieczenia zostanie
 
 781
 00:25:08,960 --> 00:25:12,240
-sold and you will see that if you were
+sprzedane i zobaczysz, że to wygląda
 
 782
 00:25:10,480 --> 00:25:14,480
-just like sold those collectors
+tak jakbyś sprzedał to zabezpieczenie
 
 783
 00:25:12,240 --> 00:25:16,159
-at that price you will still hold on to
+po tej cenie. Nadal będziesz posiadał
 
 784
 00:25:14,480 --> 00:25:16,720
-the the money they borrow against it's
+pieniądze, które pożyczyłeś
 
 785
 00:25:16,159 --> 00:25:19,120
-just like
+tak jakbyś
 
 786
 00:25:16,720 --> 00:25:21,679
-you sold those um characters at a
+sprzedał to zabezpieczenie z
 
 787
 00:25:19,120 --> 00:25:21,679
-penalty
+karą
 
 788
 00:25:22,880 --> 00:25:27,679
-yep cool well let's move on to the next
+Fajnie, przejdźmy do następnego
 
 789
 00:25:26,320 --> 00:25:30,000
-one
+punktu
 
 790
 00:25:27,679 --> 00:25:30,960
-okay so the next um section we're gonna
+W następnej część będzie
 
 791
 00:25:30,000 --> 00:25:33,120
-cover is the
+o
 
 792
 00:25:30,960 --> 00:25:34,320
-uh the decks that's where you can trade
+DEX`ach, gdzie możesz handlować
 
 793
 00:25:33,120 --> 00:25:37,039
-um assets
+walorami
 
 794
 00:25:34,320 --> 00:25:37,840
-are gonna be available on kura and asset
+będą dostępne w Karura i walory
 
 795
 00:25:37,039 --> 00:25:40,400
-is gonna be
+będą
 
 796
 00:25:37,840 --> 00:25:42,159
-available in the wider kusama ecosystem
+dostępne w szerszym ekosystemie Kusamy
 
 797
 00:25:40,400 --> 00:25:44,559
-this is where you can trade so you can
+tutaj możesz handlować, więc możesz
 
 798
 00:25:42,159 --> 00:25:46,080
-see i just borrowed some ausd or kusd
+zobaczyć, że pożyczyłem jakieś aUSD, czy kUSD
 
 799
 00:25:44,559 --> 00:25:47,840
-the stable coin i can already start to
+stablecoin. Mogę już zacząć
 
 800
 00:25:46,080 --> 00:25:51,679
-trade for example to trade
+handlować. Na przykład kupić
 
 801
 00:25:47,840 --> 00:25:54,480
-uh 100 uh kusd for maybe some
+za 100 kUSD może jakieś
 
 802
 00:25:51,679 --> 00:25:55,919
-poker btc and i can say that okay this
+polkaBTC i mogę powiedzieć, że to
 
 803
 00:25:54,480 --> 00:25:58,159
-is what i'm going to trace very similar
+co zamierzam handlować jest bardzo podobne
 
 804
 00:25:55,919 --> 00:26:00,880
-to uni swap
+do uniswap
 
 805
 00:25:58,159 --> 00:26:01,360
-an am type of change i can press one
+giełda typu AMM klikam jeden
 
 806
 00:26:00,880 --> 00:26:02,960
-button
+przycisk
 
 807
 00:26:01,360 --> 00:26:05,279
-and then boom i will be trading and
+i boom będę handlować i
 
 808
 00:26:02,960 --> 00:26:06,799
-bought some some poker btc
+kupiłem trochę polkaBTC
 
 809
 00:26:05,279 --> 00:26:09,440
-um the other way i can also trade
+Innym sposobem w jaki również mogę handlować
 
 810
 00:26:06,799 --> 00:26:11,679
-against by selling for example some some
+poprzez sprzedaż, na przykład
 
 811
 00:26:09,440 --> 00:26:14,400
-program bdc and get some property
+polkaBTC i uzyskać jakieś walory
 
 812
 00:26:11,679 --> 00:26:16,240
-um dots or something else as long as
+DOT albo coś innego, dopóki
 
 813
 00:26:14,400 --> 00:26:18,320
-there's liquidity you can trade
+tam jest płynność, którą możesz handlować
 
 814
 00:26:16,240 --> 00:26:19,520
-within these stacks this stack is super
+na tych DEX`ach, ten DEX jest bardzo
 
 815
 00:26:18,320 --> 00:26:22,159
-useful um when
+użyteczny, kiedy
 
 816
 00:26:19,520 --> 00:26:23,600
-the network um boot shaped it's going to
+sieć zostanie uruchomiona, to będzie
 
 817
 00:26:22,159 --> 00:26:24,880
-be one of the very first stacks that's
+jednym z pierwszych DEX`ów, które
 
 818
 00:26:23,600 --> 00:26:27,360
-going to available
+będą dostępne
 
 819
 00:26:24,880 --> 00:26:28,559
-on kusama that allow you to trade in a
+na Kusamie, która pozwala na handel
 
 820
 00:26:27,360 --> 00:26:30,880
-trustless way
+w sposób nie wymagający zaufania
 
 821
 00:26:28,559 --> 00:26:32,320
-and also because it's like an mm type of
+i dlatego, że jest to typu AMM
 
 822
 00:26:30,880 --> 00:26:34,400
-exchange you can also
+giełda, możesz również
 
 823
 00:26:32,320 --> 00:26:36,240
-provide liquidity so you can provide
+dostarczać płynności, więc możesz dostarczyć
 
 824
 00:26:34,400 --> 00:26:38,799
-liquidity in sense of like
+płynności podobnie jak
 
 825
 00:26:36,240 --> 00:26:40,559
-supplying a set of pairs into the pool
+dostarczanie zestawu par do puli
 
 826
 00:26:38,799 --> 00:26:42,320
-for example electrical by usd
+na przykład aUSD
 
 827
 00:26:40,559 --> 00:26:44,240
-to dodge and you can supply that will
+wraz z DOT i możesz je dostarczyć, to będzie
 
 828
 00:26:42,320 --> 00:26:44,799
-approve x amount of usd and x amount of
+wymagać ilość x aUSD oraz ilość x
 
 829
 00:26:44,240 --> 00:26:47,520
-dots
+DOT
 
 830
 00:26:44,799 --> 00:26:49,600
-by supplying liquidity into this tax you
+dostarczając płynność do tego DEX`a, jesteś
 
 831
 00:26:47,520 --> 00:26:51,600
-are essentially a market maker
+właściwie animatorem rynku
 
 832
 00:26:49,600 --> 00:26:52,880
-and passive money maker you will be
+i jako bierny animator rynku będziesz
 
 833
 00:26:51,600 --> 00:26:55,440
-earning the
+zarabiać
 
 834
 00:26:52,880 --> 00:26:56,400
-the liquidity um the trading fee you'll
+płynność, opłaty transakcyjne będziesz
 
 835
 00:26:55,440 --> 00:27:00,080
-be earning
+zarabiać
 
 836
 00:26:56,400 --> 00:27:01,520
-um all the um rewards um when you are
+wszystkie nagrody, kiedy jesteś
 
 837
 00:27:00,080 --> 00:27:04,000
-providing this liquidity
+dostawcą płynności
 
 838
 00:27:01,520 --> 00:27:05,679
-so every time that people trade um you
+więc za każdym razem, gdy ludzie handlują, Ty
 
 839
 00:27:04,000 --> 00:27:07,600
-essentially help them to trade and
+zasadniczo pomagasz im w handlu i
 
 840
 00:27:05,679 --> 00:27:08,799
-you by doing that you'll be ending some
+robąc to, na końcu będziesz mieć
 
 841
 00:27:07,600 --> 00:27:12,080
-nice share of the
+niezły udział
 
 842
 00:27:08,799 --> 00:27:16,159
-of the trading fees um by providing this
+w opłatach transakcyjnych przez dostarczanie tej
 
 843
 00:27:12,080 --> 00:27:18,880
-liquidity um this this exchange itself
+płynności, ta giełda sama w sobie
 
 844
 00:27:16,159 --> 00:27:20,320
-as for consumer is already quite useful
+jest już całkiem użyteczna dla konsumenta
 
 845
 00:27:18,880 --> 00:27:22,240
-but it also has some
+ale ma też jakąś
 
 846
 00:27:20,320 --> 00:27:25,039
-actual functionality it's actually the
+rzeczywista funkcjonalność jest tak naprawdę
 
 847
 00:27:22,240 --> 00:27:26,960
-backbone the unified source of liquidity
+szkielet jednolitego źródła płynności
 
 848
 00:27:25,039 --> 00:27:28,399
-um for the whole cruel network which i
+suma dla całej sieci, o której
 
 849
 00:27:26,960 --> 00:27:30,559
-will cover later
+omówię później
 
 850
 00:27:28,399 --> 00:27:31,840
-when we show off the gas feed payment
+kiedy pokażemy funkcję płatności za gaz
 
 851
 00:27:30,559 --> 00:27:34,080
-feature but for now
+jednak na razie
 
 852
 00:27:31,840 --> 00:27:34,960
-we can see this is like already a very
+możemy zobaczyć, że to jest bardzo
 
 853
 00:27:34,080 --> 00:27:36,960
-very user
+przyjazne użytkownikowi
 
 854
 00:27:34,960 --> 00:27:39,520
-friendly consumer friendly way for you
+przyjazny dla konsumenta, przyjazny sposób abyś mógł
 
 855
 00:27:36,960 --> 00:27:42,159
-to trade in a trustless way on kusama
+handlować nie wymagając zaufania na Kusamie
 
 856
 00:27:39,520 --> 00:27:42,159
-and kura
+i Karurze
 
 857
 00:27:42,880 --> 00:27:46,799
-and just uh just to mention again what
+i aby jeszcze raz wspomnieć co
 
 858
 00:27:44,960 --> 00:27:49,760
-rutao mentioned earlier
+Ruitao wspomniał wcześniej
 
 859
 00:27:46,799 --> 00:27:50,799
-this this is just our test net so when
+to jest nasz sieć testowa, więc kiedy
 
 860
 00:27:49,760 --> 00:27:54,159
-carrera launches
+Karura zostanie uruchomiona
 
 861
 00:27:50,799 --> 00:27:55,440
-these will be ksm focus so what you see
+będzie skoncentrowana wokół KSM, więc to co tutaj widzisz
 
 862
 00:27:54,159 --> 00:27:58,000
-here is ausd
+jest to aUSD
 
 863
 00:27:55,440 --> 00:27:58,559
-and aca when when carrera launches this
+i ACA, kiedy Karura zostanie uruchomiona
 
 864
 00:27:58,000 --> 00:28:01,200
-will say
+zobaczysz
 
 865
 00:27:58,559 --> 00:28:02,640
-kusd which is the carrera dollar and
+kUSD, będący dolarem Karura i
 
 866
 00:28:01,200 --> 00:28:06,000
-it'll say
+tutaj zobaczysz
 
 867
 00:28:02,640 --> 00:28:11,120
-kar here instead of aca which is the
+KAR zamiast ACA, która jest
 
 868
 00:28:06,000 --> 00:28:11,120
-the utility token of kubura yeah
+tokenem użyteczności Karura
 
 869
 00:28:14,080 --> 00:28:20,240
-um another thing okay so ben is asking
+Kolejną sprawą, o którą pyta Ben jest
 
 870
 00:28:17,440 --> 00:28:22,880
-something like what's the earnings share
+coś takiego jak jaki jest udział w zarobkach
 
 871
 00:28:20,240 --> 00:28:24,960
-for participating in the liquidity pool
+za dostarcznie płynności
 
 872
 00:28:22,880 --> 00:28:26,399
-so one thing to mention is that we've
+więc jedną rzeczą, o której musimy wspomnieć jest to, że mamy
 
 873
 00:28:24,960 --> 00:28:29,520
-set aside
+odłożone
 
 874
 00:28:26,399 --> 00:28:30,320
-um it's six percent uh right rutau of
+to jest 6 procent
 
 875
 00:28:29,520 --> 00:28:33,440
-our of the
+z
 
 876
 00:28:30,320 --> 00:28:34,720
-kar the karua supply for the initial
+podaży KAR dla początkowego programu
 
 877
 00:28:33,440 --> 00:28:37,840
-liquidity provider
+dostawców płynności
 
 878
 00:28:34,720 --> 00:28:39,919
-program so this is this is a bit of an
+więc to jest trochę więcej
 
 879
 00:28:37,840 --> 00:28:41,520
-alpha leak i think on this on this call
+na początku
 
 880
 00:28:39,919 --> 00:28:44,399
-but definitely uh
+ale zdecydowanie
 
 881
 00:28:41,520 --> 00:28:45,919
-something that will reward early
+coś, co wynagrodzi wczesnych
 
 882
 00:28:44,399 --> 00:28:48,559
-liquidity providers who
+dostawców płynności, którzy
 
 883
 00:28:45,919 --> 00:28:49,520
-who bring in whatever it might be if
+wnoszą cokolwiek by to było, jeśli
 
 884
 00:28:48,559 --> 00:28:52,320
-it's ksm
+to jest KSM
 
 885
 00:28:49,520 --> 00:28:53,600
-or what have you um there will be there
+lub to, co masz tam będzie
 
 886
 00:28:52,320 --> 00:28:54,480
-will be an opportunity to provide
+okazja do dostarczania
 
 887
 00:28:53,600 --> 00:28:56,000
-liquidity for
+płynności
 
 888
 00:28:54,480 --> 00:28:58,159
-for any of these pairs on the career
+dla każdej z tych par na Karura
 
 889
 00:28:56,000 --> 00:29:00,320
-decks from day one when we launched
+DEX od pierwszego dnia uruchomienia
 
 890
 00:28:58,159 --> 00:29:01,360
-yes yes i think this is another reason
+tak uważam to za kolejny powód
 
 891
 00:29:00,320 --> 00:29:04,000
-that why um
+dlaczego
 
 892
 00:29:01,360 --> 00:29:06,399
-we think kuru is going to be so amazing
+uważamy, że Karura będzie tak niesamowita
 
 893
 00:29:04,000 --> 00:29:09,600
-for kusama token holders because you can
+dla posiadaczy tokenu Kusama, ponieważ możesz
 
 894
 00:29:06,399 --> 00:29:11,200
-actually put the kusama token into work
+dać token Kusama aby pracował
 
 895
 00:29:09,600 --> 00:29:12,080
-for you right you can simply provide
+dla Ciebie. Możesz po prostu dostarczać
 
 896
 00:29:11,200 --> 00:29:14,159
-liquidity
+płynność
 
 897
 00:29:12,080 --> 00:29:15,360
-uh in the cruel network and start to
+do sieci i zacznij
 
 898
 00:29:14,159 --> 00:29:17,520
-enjoy return
+się cieszyć przychodami
 
 899
 00:29:15,360 --> 00:29:18,399
-um for participating in this network and
+za uczestnictwo w sieci
 
 900
 00:29:17,520 --> 00:29:20,960
-for the uh
+dla
 
 901
 00:29:18,399 --> 00:29:22,880
-for the for the rewards when providing
+dla nagród podczas dostarczania
 
 902
 00:29:20,960 --> 00:29:24,880
-liquidity they actually double reward
+płynności. Oni właściwie podwoili nagrodę
 
 903
 00:29:22,880 --> 00:29:26,480
-in the very first year that we as then
+w pierwszym roku, jak
 
 904
 00:29:24,880 --> 00:29:27,279
-mentioned so you will be earning the
+wspomniano, będziesz zarabiać
 
 905
 00:29:26,480 --> 00:29:29,600
-typical
+typowe
 
 906
 00:29:27,279 --> 00:29:31,200
-liquidity provider fee that's like uh
+opłaty dla dostawców płynności, to jest taki
 
 907
 00:29:29,600 --> 00:29:32,960
-pretty much industry standard if you
+standard branżowy
 
 908
 00:29:31,200 --> 00:29:34,080
-check out like sushi swap you can check
+sprawdź jak działa sushi swap, możesz sprawdzić również
 
 909
 00:29:32,960 --> 00:29:35,679
-out that uni swap
+uniswap
 
 910
 00:29:34,080 --> 00:29:37,840
-um they already pretty much like to eat
+one są właściwie bardzo podobne
 
 911
 00:29:35,679 --> 00:29:38,399
-the standard liquid liquidity provider
+standardowy dostawca płynności
 
 912
 00:29:37,840 --> 00:29:40,399
-fee
+.
 
 913
 00:29:38,399 --> 00:29:42,399
-but in additional you will be earning uh
+ale dodatkowo będziesz zarabiać
 
 914
 00:29:40,399 --> 00:29:43,200
-some liquidity reward for the for early
+pewną nagrodę za wczesny
 
 915
 00:29:42,399 --> 00:29:45,840
-contribution
+udział
 
 916
 00:29:43,200 --> 00:29:46,559
-for kurura and as then said we set aside
+w Karura, jak już wspomniano
 
 917
 00:29:45,840 --> 00:29:48,399
-a set of
+część
 
 918
 00:29:46,559 --> 00:29:50,080
-kura token to be used for that
+tokenów Karura będzie użyta jako
 
 919
 00:29:48,399 --> 00:29:54,000
-particular
+specyficzna
 
 920
 00:29:50,080 --> 00:29:54,960
-incentive as well a couple people are
+zachęta. Parę osób
 
 921
 00:29:54,000 --> 00:29:58,000
-asking about
+pyta o
 
 922
 00:29:54,960 --> 00:30:00,080
-um impermanent loss when providing
+niestałą stratę - impermanent loss, kiedy dostarczamy
 
 923
 00:29:58,000 --> 00:30:02,559
-liquidity
+płynność
 
 924
 00:30:00,080 --> 00:30:03,120
-yeah definitely like if um obviously in
+Tak, na pewno, jeżeli
 
 925
 00:30:02,559 --> 00:30:06,399
-the
+w
 
 926
 00:30:03,120 --> 00:30:06,880
-in in short run or in short term if you
+krótkim czasie
 
 927
 00:30:06,399 --> 00:30:09,120
-check
+sprawdzisz
 
 928
 00:30:06,880 --> 00:30:10,240
-uni swap there's like this problem of
+uniswap, tam występuje tego rodzaju problem jak
 
 929
 00:30:09,120 --> 00:30:12,240
-impediment loss
+nietrwała strata - impediment loss
 
 930
 00:30:10,240 --> 00:30:14,799
-um when you're providing um liquidity
+kiedy dostarczasz płynność
 
 931
 00:30:12,240 --> 00:30:17,360
-pair to let's say two very volatile
+powiedzmy, że dwa bardzo zmienne
 
 932
 00:30:14,799 --> 00:30:19,120
-assets uh it's in the in the very
+walory, na samym początku
 
 933
 00:30:17,360 --> 00:30:20,399
-beginning it's almost the same for
+są prawie takie same dla
 
 934
 00:30:19,120 --> 00:30:23,760
-providing liquidity
+dostawców płynności
 
 935
 00:30:20,399 --> 00:30:25,440
-uh in um in kura as well so you will
+również w Karura, więc
 
 936
 00:30:23,760 --> 00:30:26,000
-experience some of the implement loss in
+doświadczysz jakąś nietrwałą stratę w
 
 937
 00:30:25,440 --> 00:30:28,080
-short term
+krótkim terminie
 
 938
 00:30:26,000 --> 00:30:29,440
-but in long term um if you actually
+ale w dłuższej perspektywie czasowej, jeśli faktycznie
 
 939
 00:30:28,080 --> 00:30:31,360
-check the historic data
+sprawdzisz dane historyczne
 
 940
 00:30:29,440 --> 00:30:33,200
-in long term that pretty much all turns
+w dłuższej perspektywie czasowej, to się zmienia
 
 941
 00:30:31,360 --> 00:30:35,200
-out to be great um the additional
+w świetną dodatkową
 
 942
 00:30:33,200 --> 00:30:38,559
-incentive that we have in place
+zachętę, że w miejsce
 
 943
 00:30:35,200 --> 00:30:39,360
-for kr tokens um as liquidity rewards
+tokenów Karura jako nagroda za dostarczanie
 
 944
 00:30:38,559 --> 00:30:42,159
-for providing
+płynności
 
 945
 00:30:39,360 --> 00:30:43,120
-early liquidity will even offstat that
+wcześni dostawcy będą zarabiać nawet poza planem
 
 946
 00:30:42,159 --> 00:30:45,440
-if there's any
+jeśli jest jakieś
 
 947
 00:30:43,120 --> 00:30:46,960
-even further and we have some exciting
+nawet później mamy jakieś ekscytujące
 
 948
 00:30:45,440 --> 00:30:48,080
-stuff that we may come up later when we
+rzeczy, które możemy przedstawić później, gdy
 
 949
 00:30:46,960 --> 00:30:51,120
-start to roll up
+rozpocznie się uruchamianie
 
 950
 00:30:48,080 --> 00:30:51,840
-stuff one by one as i said uh or as dan
+rzeczy po kolei. Tak, jak powiedziałem, czy Dan
 
 951
 00:30:51,120 --> 00:30:54,799
-described
+opisał
 
 952
 00:30:51,840 --> 00:30:55,679
-um kuru and alkala a specialized network
+w Karura i Acala, wyspecjalizowanej sieci
 
 953
 00:30:54,799 --> 00:30:58,480
-right it's like
+to jest jak
 
 954
 00:30:55,679 --> 00:31:00,240
-a network specialized for finance um so
+sieci wyspecjalizowanej dla finansów
 
 955
 00:30:58,480 --> 00:31:01,760
-when when we go live it's not going to
+kiedy zostaniemy uruchomieni, to nie zostaniemy
 
 956
 00:31:00,240 --> 00:31:02,559
-stay in this straight we're going to
+w tej samej postaci, będziemy
 
 957
 00:31:01,760 --> 00:31:04,640
-continue
+kontynuować
 
 958
 00:31:02,559 --> 00:31:06,080
-to improve and continue to grow up new
+ulepszenia i dalszy rozwój nowych
 
 959
 00:31:04,640 --> 00:31:09,600
-feature on top of that
+funkcji na tym
 
 960
 00:31:06,080 --> 00:31:09,600
-that's the hints i can give up today
+to są wskazówki, którymi mogę się dzisiaj podzielić
 
 961
 00:31:11,919 --> 00:31:16,559
-cool yeah i guess we can move on to the
+fajnie. Możemy przejść do
 
 962
 00:31:15,600 --> 00:31:19,279
-next
+następnej
 
 963
 00:31:16,559 --> 00:31:20,640
-section someone was asking like when you
+sekcji. Ktoś pyta kiedy będzie
 
 964
 00:31:19,279 --> 00:31:22,559
-can do this when you can provide
+można to zrobić, kiedy będzie można dostarczać
 
 965
 00:31:20,640 --> 00:31:24,399
-liquidity when you can use
+płynność, kiedy będzie można użyć
 
 966
 00:31:22,559 --> 00:31:25,760
-um the decks and the answer is the
+DEX, i odpowiedź to
 
 967
 00:31:24,399 --> 00:31:28,399
-moment we launch
+chwila uruchomienia sieci Karura
 
 968
 00:31:25,760 --> 00:31:29,279
-so karua we just need to win the pair
+po prostu musimy wygrać miejsce - slot
 
 969
 00:31:28,399 --> 00:31:31,679
-chain slot
+parachain`a
 
 970
 00:31:29,279 --> 00:31:32,320
-auction and the moment we win that um
+aukcje i moment, w którym wygramy
 
 971
 00:31:31,679 --> 00:31:33,679
-all these
+to wszystko
 
 972
 00:31:32,320 --> 00:31:35,360
-as you can see right now this is all
+jak możesz teraz zobaczyć, to wszystko jest
 
 973
 00:31:33,679 --> 00:31:38,159
-built we've been actually waiting
+zbudowane, i faktycznie czekaliśmy
 
 974
 00:31:35,360 --> 00:31:39,039
-to launch this so the moment we can get
+do tego uruchomienia, więc moment w którym
 
 975
 00:31:38,159 --> 00:31:41,840
-our
+nasze
 
 976
 00:31:39,039 --> 00:31:43,919
-our slots in the kusama network we'll go
+miejsce - slot w sieci Kusama zostanie
 
 977
 00:31:41,840 --> 00:31:47,039
-live and this stuff will all be usable
+uruchomione i te wszystkie rzeczy będą użyteczne
 
 978
 00:31:43,919 --> 00:31:49,679
-um from the moment we we get started
+od momentu rozpoczęcia
 
 979
 00:31:47,039 --> 00:31:52,000
-yeah so the next section is about liquid
+Więc, następna sekcja jest o płynnym
 
 980
 00:31:49,679 --> 00:31:54,080
-staking and this is super amazing i
+staking`u i to jest niesamowite
 
 981
 00:31:52,000 --> 00:31:56,000
-i just can't wait to use this feature so
+Po prostu nie mogę się doczekać, aby użyć tej funkcji
 
 982
 00:31:54,080 --> 00:31:57,120
-the liquid staking in essentially in a
+płynny staking jest w zasadzie
 
 983
 00:31:56,000 --> 00:32:00,000
-nutshell is like
+w skrócie jest to
 
 984
 00:31:57,120 --> 00:32:01,440
-it's a meta a trustless staking pool
+rodzaj staking`u niewymagający zaufania
 
 985
 00:32:00,000 --> 00:32:04,320
-that you can free
+możesz uwolnić
 
 986
 00:32:01,440 --> 00:32:06,320
-your stake asset so think about as like
+Twoje stakowane walory, więc pomyśl o tym jak o
 
 987
 00:32:04,320 --> 00:32:08,720
-if you're holding kusama today
+jeśli posiadasz dzisiaj Kusama
 
 988
 00:32:06,320 --> 00:32:09,840
-and if you stick with validators which
+i jeśli masz walidatorów
 
 989
 00:32:08,720 --> 00:32:11,919
-you should
+powinieneś
 
 990
 00:32:09,840 --> 00:32:13,519
-every time that you want to spend or you
+za każdym razem, kiedy chcesz wydać, albo
 
 991
 00:32:11,919 --> 00:32:14,240
-want to move your kusama you have this
+chcesz przenieść swoje tokeny Kusama, będziesz podlegać
 
 992
 00:32:13,519 --> 00:32:16,559
-typical
+typowemu
 
 993
 00:32:14,240 --> 00:32:17,840
-seven day uploading period for the
+7-dniowemy okresowi oddelegowania dla
 
 994
 00:32:16,559 --> 00:32:19,919
-security of the network
+bezpieczeństwa sieci
 
 995
 00:32:17,840 --> 00:32:22,000
-and on polkadot it's even longer it's 28
+a na Polkadot, ten okres jest nawet dłuższy i trwa 28
 
 996
 00:32:19,919 --> 00:32:23,760
-days for unbounding your stack assets
+dnia aby oddelegować twoje aktywa
 
 997
 00:32:22,000 --> 00:32:25,440
-so what we created as what we call
+tak więc, to co stworzyliśmy i nazywamy
 
 998
 00:32:23,760 --> 00:32:27,440
-liquid staking essentially
+płynnym staking`iem, zasadniczo
 
 999
 00:32:25,440 --> 00:32:28,799
-a trustless staking pool that you can
+pulą staking`u, która nie wymaga zaufania, możesz
 
 1000
 00:32:27,440 --> 00:32:31,200
-stack using
+ulokować używając
 
 1001
 00:32:28,799 --> 00:32:32,880
-a kura and every time that you stake you
+Karura i za każdym razem gdy będziesz stakował
 
 1002
 00:32:31,200 --> 00:32:35,200
-will be getting a receipt
+otrzymasz zaświadczenie o
 
 1003
 00:32:32,880 --> 00:32:37,039
-of your stake assets uh because it's
+Twoich stak`owanych walorach, ponieważ to jest
 
 1004
 00:32:35,200 --> 00:32:38,080
-trustless the receipt of your state
+nie wymagające zaufania zaświadczenie Twoich stakow`anych
 
 1005
 00:32:37,039 --> 00:32:41,279
-asset
+walorów
 
 1006
 00:32:38,080 --> 00:32:43,360
-is what we call lksm so lksm is
+To jest to, co nazywamy lKSM, więc lKSM jest to
 
 1007
 00:32:41,279 --> 00:32:44,320
-you bailing as long as you hold on to
+zarabianie tak długo, jak trzymasz
 
 1008
 00:32:43,360 --> 00:32:46,320
-lksm
+lKSM
 
 1009
 00:32:44,320 --> 00:32:48,399
-you will be earning the staking reward
+będziesz dostawał nagrodę za staking
 
 1010
 00:32:46,320 --> 00:32:49,760
-it's also safe because it's trustless
+Jest to również bezpieczne, ponieważ nie wymaga zaufania
 
 1011
 00:32:48,399 --> 00:32:51,760
-it's always guaranteed that you can
+zawsze masz gwarancję, że możesz
 
 1012
 00:32:49,760 --> 00:32:54,480
-redeem for more
+wymienić na więcej
 
 1013
 00:32:51,760 --> 00:32:55,519
-uh ksm when you want to redeem the the
+KSM, gdy chcesz dostać
 
 1014
 00:32:54,480 --> 00:32:57,840
-ksm back
+KSM z powrotem
 
 1015
 00:32:55,519 --> 00:32:58,720
-so um this is something that's extremely
+więc to jest coś
 
 1016
 00:32:57,840 --> 00:33:00,399
-extremely
+niezwykle
 
 1017
 00:32:58,720 --> 00:33:02,880
-user-friendly i think everyone should be
+przyjazny dla użytkownika. Myślę, że każdy powinien
 
 1018
 00:33:00,399 --> 00:33:04,799
-using this if you hold a hokusama
+tego używać jeżeli posiada Kusamę
 
 1019
 00:33:02,880 --> 00:33:06,720
-um and i'm gonna demonstrate here right
+Teraz zademonstruje
 
 1020
 00:33:04,799 --> 00:33:09,120
-so um for me to stay in this
+więc dla mnie pozostanie w tej
 
 1021
 00:33:06,720 --> 00:33:10,080
-techniques trusting uh in this trustless
+technice wierząc w niewymagającą zaufania
 
 1022
 00:33:09,120 --> 00:33:12,480
-staking pool
+puli staking`u
 
 1023
 00:33:10,080 --> 00:33:15,120
-it's as simple as i just swap some some
+Jest to tak proste jak zamiana jakichś
 
 1024
 00:33:12,480 --> 00:33:16,960
-dots or some ksm into lksm
+DOT, czy zamiana jakichś KSM na lKSM
 
 1025
 00:33:15,120 --> 00:33:18,720
-we make the user interface looks like
+sprawiamy, że interfejs użytkownika wygląda jak
 
 1026
 00:33:16,960 --> 00:33:19,840
-swapping but inside instead this is not
+zamiana, ale zamiast tego
 
 1027
 00:33:18,720 --> 00:33:20,799
-this is staking
+jest to staking
 
 1028
 00:33:19,840 --> 00:33:24,159
-so i'm going to say that i'm going to
+Tak więc powiem, że zamierzamy
 
 1029
 00:33:20,799 --> 00:33:26,399
-stick and this is um
+pozostać przy tym, i to jest
 
 1030
 00:33:24,159 --> 00:33:27,679
-essentially it's taking one ksm and
+w zasadzie to bierze 1 KSM i
 
 1031
 00:33:26,399 --> 00:33:31,679
-exchange i get z
+zamienia
 
 1032
 00:33:27,679 --> 00:33:33,840
-i get 10 lks and bad the the this ratio
+otrzymuję 10 lKSMi ten współczynnik
 
 1033
 00:33:31,679 --> 00:33:35,039
-is determined by the system uh we're
+jest określony przez system
 
 1034
 00:33:33,840 --> 00:33:36,640
-going to improve this
+zamierzamy ulepszyć ten
 
 1035
 00:33:35,039 --> 00:33:38,159
-user interface later so it's always say
+interfejs użytkownika później, więc to zawsze mówi
 
 1036
 00:33:36,640 --> 00:33:41,519
-that uh one
+że jeden
 
 1037
 00:33:38,159 --> 00:33:43,919
-ksm will be equal to one lksm and then
+KSM będzie równy jednemu lKSM, a następnie
 
 1038
 00:33:41,519 --> 00:33:45,679
-one lksm will be equal to more and more
+jeden lKSM będzie równy coraz większej ilości
 
 1039
 00:33:43,919 --> 00:33:47,519
-ksm when you redeem later
+KSM, kiedy wykupisz je później
 
 1040
 00:33:45,679 --> 00:33:49,760
-that's like if you hold on to lksm you
+to jest tak jak trzymasz lKSM
 
 1041
 00:33:47,519 --> 00:33:51,919
-will be growing very similar to how you
+to będzie rosło bardzo podobnie jak w przypadku
 
 1042
 00:33:49,760 --> 00:33:53,519
-save money in compound your money will
+oszczędzanie pieniędzy w Compound. Twoje pieniądze będą
 
 1043
 00:33:51,919 --> 00:33:54,000
-be growing that's like you are earning
+wzrastać. To jest sposób w jaki zarabiasz
 
 1044
 00:33:53,519 --> 00:33:55,840
-interest
+odsetki
 
 1045
 00:33:54,000 --> 00:33:57,360
-but in this particular in the in your
+ale w tym szczególnym przypadku
 
 1046
 00:33:55,840 --> 00:33:58,559
-liquid staking you are earning the
+płynnego staking`u zarabiasz
 
 1047
 00:33:57,360 --> 00:34:02,640
-staking reward
+nagrodę za staking
 
 1048
 00:33:58,559 --> 00:34:05,600
-the lksm go ahead again let me just
+w lKSM. Pozwól mi
 
 1049
 00:34:02,640 --> 00:34:06,960
-explain that so in this case you can see
+wyjaśnić, że w tym przypadku widzisz
 
 1050
 00:34:05,600 --> 00:34:08,800
-dot and l dot so
+DOT i lDOT, więc
 
 1051
 00:34:06,960 --> 00:34:10,960
-that might be easier so what you're
+to może być łatwiejsze, więc to co robisz
 
 1052
 00:34:08,800 --> 00:34:13,280
-doing here is you're staking dot
+tutaj jest to staking DOT
 
 1053
 00:34:10,960 --> 00:34:14,079
-and say you're staking 10 dot you would
+powiedzmy, że stakujesz 10 DOT, mógłbyś
 
 1054
 00:34:13,280 --> 00:34:16,159
-get 10
+dostać 10
 
 1055
 00:34:14,079 --> 00:34:17,839
-l dot in return and those liquid dots
+lDOT w zamian i te płynne DOT
 
 1056
 00:34:16,159 --> 00:34:20,639
-can be used within
+może być użyte w
 
 1057
 00:34:17,839 --> 00:34:21,919
-akala if it's dot um but what what
+Acala, jeżeli jest to DOT, ale to czym
 
 1058
 00:34:20,639 --> 00:34:24,480
-ruitan mentioned is
+Ruitao wspomniał
 
 1059
 00:34:21,919 --> 00:34:26,079
-how this l dot is a receipt for your for
+że to lDOT jest potwierdzeniem Twoich
 
 1060
 00:34:24,480 --> 00:34:28,560
-your staked dot
+stakowanych DOT
 
 1061
 00:34:26,079 --> 00:34:30,560
-so if you can imagine like on the on the
+więc możesz sobie wyobrazić jak
 
 1062
 00:34:28,560 --> 00:34:32,079
-wallet screen that rue tau showed you
+Ruitao pokazał na ekranie portfela
 
 1063
 00:34:30,560 --> 00:34:34,480
-with all of your balances
+całe saldo
 
 1064
 00:34:32,079 --> 00:34:35,520
-your l dot balance will actually always
+Twoje saldo lDOT będzie zawsze
 
 1065
 00:34:34,480 --> 00:34:37,200
-be going up
+wzrastać
 
 1066
 00:34:35,520 --> 00:34:39,119
-because it's it's showing you it's a
+ponieważ to pokazuje Ci
 
 1067
 00:34:37,200 --> 00:34:41,359
-receipt for your staked dot
+pokwitowanie dla twoich stakowanych DOT
 
 1068
 00:34:39,119 --> 00:34:43,359
-so as your staked dot starts earning
+więc kiedy Twoje DOT zaczynają zarabiać 
 
 1069
 00:34:41,359 --> 00:34:44,480
-more and more staking rewards that'll be
+coraz więcej nagród za stakowanie, to będzie
 
 1070
 00:34:43,359 --> 00:34:47,280
-reflected in your
+odzwierciedlać Twoje
 
 1071
 00:34:44,480 --> 00:34:48,720
-ldot balance so when you go to redeem
+saldo lDOT, więc gdy sprzedasz
 
 1072
 00:34:47,280 --> 00:34:52,000
-your ldot
+swoje lDOT
 
 1073
 00:34:48,720 --> 00:34:54,720
-for like native dot at the end
+za natywne DOT na końcu
 
 1074
 00:34:52,000 --> 00:34:55,760
-whenever you want to unstake your l dot
+kiedykolwiek chcesz odstąpić od stakowania. ilość Twoich lDOT
 
 1075
 00:34:54,720 --> 00:34:58,160
-will have gone up
+wzrośnie
 
 1076
 00:34:55,760 --> 00:35:00,320
-since the moment you actually got your
+od momentu, w którym faktycznie masz
 
 1077
 00:34:58,160 --> 00:35:02,000
-original l dot if that makes sense
+oryginalne lDOT. Ma to sens
 
 1078
 00:35:00,320 --> 00:35:04,720
-because it's just it's always reflecting
+ponieważ jest to po prostu odzwierciedlenie
 
 1079
 00:35:02,000 --> 00:35:08,160
-your staking rewards adding on to your
+Twoich nagród za stakowanie dodanych do Twojej
 
 1080
 00:35:04,720 --> 00:35:11,119
-stack of ldap yeah think about
+puli lDOT. tak, pomyśl o tym
 
 1081
 00:35:08,160 --> 00:35:12,160
-as if eldor is a share of the pool of
+że lDOT jest udziałem w puli
 
 1082
 00:35:11,119 --> 00:35:13,920
-the staking pool
+puli staking`u
 
 1083
 00:35:12,160 --> 00:35:15,200
-and the staking pool is growing size
+i pula udziałów rośnie
 
 1084
 00:35:13,920 --> 00:35:16,000
-because there's going to be staking
+ponieważ nagrody za
 
 1085
 00:35:15,200 --> 00:35:18,000
-reward that's
+staking są
 
 1086
 00:35:16,000 --> 00:35:20,079
-praying to the pool but you can always
+dodawane do puli, ale zawsze możesz
 
 1087
 00:35:18,000 --> 00:35:20,720
-redeem um for the same share that you
+wyjąć ten sam udział, który
 
 1088
 00:35:20,079 --> 00:35:23,359
-put it in
+włożyłeś
 
 1089
 00:35:20,720 --> 00:35:25,359
-so your your that up the the redeeming
+więc ilość którą możesz wyjąć
 
 1090
 00:35:23,359 --> 00:35:28,839
-number will be always growing so holding
+zawsze będzie będzie wzrastać
 
 1091
 00:35:25,359 --> 00:35:31,760
-lg holding lksm is as if you are
+posiadanie lKSM jest jak
 
 1092
 00:35:28,839 --> 00:35:34,320
-staking yeah
+staking
 
 1093
 00:35:31,760 --> 00:35:35,280
-and it's slightly if you have l or you
+i jest to tak, że jeśli masz lDOT, albo
 
 1094
 00:35:34,320 --> 00:35:36,720
-have lksm
+masz lKSM
 
 1095
 00:35:35,280 --> 00:35:38,880
-because we call it liquid right it's
+ponieważ nazywamy to płynnym
 
 1096
 00:35:36,720 --> 00:35:39,599
-actually transferable within the archive
+właściwie jest przenośne
 
 1097
 00:35:38,880 --> 00:35:41,839
-shot and
+i
 
 1098
 00:35:39,599 --> 00:35:43,680
-within the wider pocket ecosystem you
+w szerzej pojętym ekosystemie
 
 1099
 00:35:41,839 --> 00:35:45,440
-can send ldap to someone else you can
+możesz wysłać lDOT do kogoś innego, możesz
 
 1100
 00:35:43,680 --> 00:35:48,320
-send lksm to someone else
+wysłać lKSM do kogoś innego
 
 1101
 00:35:45,440 --> 00:35:49,280
-as he was just moving um as if he's just
+tak jak byś przenosił
 
 1102
 00:35:48,320 --> 00:35:52,160
-moving some
+jakieś
 
 1103
 00:35:49,280 --> 00:35:54,800
-of some some transferrable assets um the
+zbywalne aktywa
 
 1104
 00:35:52,160 --> 00:35:57,920
-the recipient who gets lg or google
+odbiorca, który dostaje się lDOT, albo lKSM
 
 1105
 00:35:54,800 --> 00:35:58,400
-gets klksm can choose to continue to
+otrzymuje lKSM i może wybrać, czy będzie kontynuował
 
 1106
 00:35:57,920 --> 00:36:01,200
-hold
+posiadanie
 
 1107
 00:35:58,400 --> 00:36:01,760
-on the the lks ml dot or they can
+lKSM, czy lDOT, albo może
 
 1108
 00:36:01,200 --> 00:36:04,400
-continue to
+zadecydować, aby
 
 1109
 00:36:01,760 --> 00:36:05,760
-decide to redeem um and get the actual
+wypłacić tokeny i otrzymać rzeczywiste
 
 1110
 00:36:04,400 --> 00:36:07,680
-valina dot back
+DOT z powrotem
 
 1111
 00:36:05,760 --> 00:36:09,200
-so this is like the the reason we call
+więc jest to tak jak powód, dlaczego nazywamy
 
 1112
 00:36:07,680 --> 00:36:11,359
-it liquid is that it's transferable it
+to płynnym, bo jest to mobilne
 
 1113
 00:36:09,200 --> 00:36:14,240
-could be used for other utility as well
+może być również wykorzystywany do innych celów
 
 1114
 00:36:11,359 --> 00:36:16,079
-and one big utility that you can use
+i jedna duża użyteczność, którą możesz wykorzystać
 
 1115
 00:36:14,240 --> 00:36:18,720
-with this l ksm is that
+mając lKSM, to
 
 1116
 00:36:16,079 --> 00:36:19,520
-you can actually borrow against um your
+możesz w rzeczywistości wziąć pożyczkę w zastaw za swoje
 
 1117
 00:36:18,720 --> 00:36:21,760
-lksm
+lKSM
 
 1118
 00:36:19,520 --> 00:36:22,880
-in the demo that i showed earlier is
+w demo, które i pokazałem wcześniej
 
 1119
 00:36:21,760 --> 00:36:24,800
-that you can borrow
+że możesz pożyczyć
 
 1120
 00:36:22,880 --> 00:36:26,000
-against your stack asset so you don't
+przeciwko lKSM, więc właściwie nie
 
 1121
 00:36:24,800 --> 00:36:27,280
-actually have to give up your
+musisz rezygnować z
 
 1122
 00:36:26,000 --> 00:36:28,640
-opportunity cost if you say that you
+możliwości, bo możesz
 
 1123
 00:36:27,280 --> 00:36:30,320
-want to borrow against thoughts
+wziąć pożyczkę w zamian za nie
 
 1124
 00:36:28,640 --> 00:36:31,599
-you have to choose that hey do i want to
+możesz wybrać, czy chcesz
 
 1125
 00:36:30,320 --> 00:36:32,800
-select these thoughts or do i want to
+stakować DOT, czy chcesz
 
 1126
 00:36:31,599 --> 00:36:35,200
-borrow against my dog
+pożyczyć w zastaw za DOT
 
 1127
 00:36:32,800 --> 00:36:36,000
-but with ldl always lksm this is the
+ale z lDOT, lKSM to jest
 
 1128
 00:36:35,200 --> 00:36:38,160
-best of both
+najlepszym z obu jest to, że
 
 1129
 00:36:36,000 --> 00:36:39,440
-you could be earning the staking reward
+możesz dostawać nagrody za staking
 
 1130
 00:36:38,160 --> 00:36:41,839
-while you're borrowing against a
+kiedy bierzesz pożyczkę w zamian za Twoją
 
 1131
 00:36:39,440 --> 00:36:41,839
-position
+pozycję
 
 1132
 00:36:42,000 --> 00:36:48,240
-and yeah um dan any any question
+Dan czy są jeszcze jakieś pyania?
 
 1133
 00:36:45,200 --> 00:36:51,359
-yeah one question um from
+Tak, jedno pytanie od
 
 1134
 00:36:48,240 --> 00:36:51,760
-jack here in the chat is it's basically
+Jacka na czacie jest zasadniczo
 
 1135
 00:36:51,359 --> 00:36:53,760
-like
+jak
 
 1136
 00:36:51,760 --> 00:36:56,000
-what he said what happens if you trade
+on zapytał: co się stanie, jeżeli wymieniasz
 
 1137
 00:36:53,760 --> 00:36:58,320
-or sell your ldot so you have like the
+albo sprzedajesz swoje lDOT, więc jeżeli masz jakieś
 
 1138
 00:36:56,000 --> 00:37:01,520
-stake dot you get this l dot
+stakakowane DOT, otrzymasz lDOT
 
 1139
 00:36:58,320 --> 00:37:03,920
-let's say you sell it all and you have
+powiedzmy, że sprzedajesz to wszystko i masz
 
 1140
 00:37:01,520 --> 00:37:06,400
-so what happens then to your original
+więc co stanie się z twoim oryginalnym
 
 1141
 00:37:03,920 --> 00:37:09,440
-dot like how do you actually
+DOT to tak jakbyś w rzeczywistości
 
 1142
 00:37:06,400 --> 00:37:12,079
-either pay for that or get get the dot
+albo zapłałacił za to albo otrzymał DOT
 
 1143
 00:37:09,440 --> 00:37:14,320
-so think about the outdoor it's like an
+Więc pomyśl, że nasz DOT jest jak
 
 1144
 00:37:12,079 --> 00:37:15,920
-a receipt or redeems the receipt for
+paragon, czy pokwitowanie za
 
 1145
 00:37:14,320 --> 00:37:18,000
-your stakedown right so if you sell your
+Twoje stakowane DOT, więc jeżeli sprzedasz swoje
 
 1146
 00:37:15,920 --> 00:37:20,320
-l dot you actually sell the right
+lDOT to właściwie sprzedasz prawa
 
 1147
 00:37:18,000 --> 00:37:22,160
-to redeem those stocks so it's as if you
+aby pobrac te tokeny, tak jakbyś
 
 1148
 00:37:20,320 --> 00:37:23,280
-sell the dollar someone else so in the
+sprzedał komuś dolary
 
 1149
 00:37:22,160 --> 00:37:25,760
-demo that i just showed
+W demonstracji pokazałem
 
 1150
 00:37:23,280 --> 00:37:26,560
-uh earlier if i transfer some ldl to
+że jeżeli prześlę komuś lDOT
 
 1151
 00:37:25,760 --> 00:37:28,560
-somewhere else
+gdzieś indziej
 
 1152
 00:37:26,560 --> 00:37:29,839
-i was transferring the the redeem right
+przesyłam prawa do pobrania
 
 1153
 00:37:28,560 --> 00:37:31,839
-of the underlying dot
+bazowego DOT
 
 1154
 00:37:29,839 --> 00:37:33,760
-to someone else so it's as if i was
+komuś innemu, tak samo jakbym
 
 1155
 00:37:31,839 --> 00:37:34,400
-sending dots so if you sew them then you
+wysyłał DOT, więc jeżeli je sprzedasz to
 
 1156
 00:37:33,760 --> 00:37:36,560
-just slice
+tak jakbyś
 
 1157
 00:37:34,400 --> 00:37:37,440
-your solder dots it's um it's no longer
+sprzedał swoje DOT i one już nie są
 
 1158
 00:37:36,560 --> 00:37:39,839
-yours and
+Twoje i
 
 1159
 00:37:37,440 --> 00:37:41,920
-yeah the redeem right for that length is
+tak samo prawa do pobrania tych DOT również nie są
 
 1160
 00:37:39,839 --> 00:37:45,040
-also no longer yours
+już Twoje
 
 1161
 00:37:41,920 --> 00:37:45,920
-okay so the the l dot isn't connected
+Dobrze, więc lDOT nie są połączone
 
 1162
 00:37:45,040 --> 00:37:48,320
-directly to
+bezpośrednio do
 
 1163
 00:37:45,920 --> 00:37:51,200
-like a specific dot it's kind of that
+tak jak DOT jest połączona do tego rodzaju
 
 1164
 00:37:48,320 --> 00:37:51,680
-pool so if i so if jack here who asked a
+puli, więc jeżeli Jacek który zadał
 
 1165
 00:37:51,200 --> 00:37:53,680
-question
+pytanie
 
 1166
 00:37:51,680 --> 00:37:55,359
-sent me his l dot i could type that l
+wysłałby mi swoje lDOT, ja mógłbym wziąć te tokeny
 
 1167
 00:37:53,680 --> 00:37:59,280
-dot and redeem it for dot
+lDOT i uzyskać za nie tokeny DOT
 
 1168
 00:37:55,359 --> 00:38:01,280
-in the akala pool yes yeah okay
+z puli Acala
 
 1169
 00:37:59,280 --> 00:38:03,280
@@ -5484,7 +5484,7 @@ oh another thing to maybe mention or
 
 1372
 00:44:36,079 --> 00:44:40,960
-show
+pokazać
 
 1373
 00:44:36,800 --> 00:44:42,960
@@ -6708,7 +6708,7 @@ someone also asked about the crowd loan
 
 1678
 00:55:16,720 --> 00:55:21,520
-and
+i
 
 1679
 00:55:17,920 --> 00:55:24,480
@@ -7612,7 +7612,7 @@ a u.s citizen participate in the crowd
 
 1904
 01:03:20,720 --> 01:03:24,720
-on
+na
 
 1905
 01:03:21,200 --> 01:03:25,119
@@ -8172,7 +8172,7 @@ see tps scale at a thousand or above
 
 2044
 01:08:19,520 --> 01:08:23,440
-that
+że
 
 2045
 01:08:20,239 --> 01:08:24,719
@@ -8328,7 +8328,7 @@ future but it's it's pretty interesting
 
 2083
 01:09:43,279 --> 01:09:46,080
-to
+do
 
 2084
 01:09:44,799 --> 01:09:49,679
@@ -8400,39 +8400,39 @@ polka dot in this diagram and this is
 
 2101
 01:10:23,840 --> 01:10:26,560
-potentially
+potencjalnie
 
 2102
 01:10:24,719 --> 01:10:28,159
-where we could be heading in the future
+gdzie moglibyśmy zmierzać w przyszłość
 
 2103
 01:10:26,560 --> 01:10:31,840
-kind of fun to think about
+rodzaj zabawy do zastanowienia się
 
 2104
 01:10:28,159 --> 01:10:31,840
-we'll see if it comes true
+zobaczymy, czy to się ziści
 
 2105
 01:10:33,440 --> 01:10:38,560
-um okay it's let's take like one more
+odpowiedzmy na jeszcze jedno
 
 2106
 01:10:36,239 --> 01:10:38,560
-question
+pytanie
 
 2107
 01:10:41,440 --> 01:10:44,880
-carrera tokenomics i pasted the link in
+o tokenomii Karura. Wkleiłem link
 
 2108
 01:10:43,920 --> 01:10:48,800
-the chat
+w czacie
 
 2109
 01:10:44,880 --> 01:10:50,239
-so akala dot network slash karua slash
+acala.network/karura/
 
 2110
 01:10:48,800 --> 01:10:53,520
@@ -8440,105 +8440,105 @@ token
 
 2111
 01:10:50,239 --> 01:10:53,520
-is a good place to go for that
+jest dobrym miejscem do tego
 
 2112
 01:10:53,920 --> 01:10:59,679
-and yeah let's let's call it a day we've
+dziś
 
 2113
 01:10:57,440 --> 01:11:00,880
-been here for an hour and 15. like i
+jesteśmy tu już jakeś 1.5 godziny
 
 2114
 01:10:59,679 --> 01:11:03,199
-said i'll go through the questions and
+i tak jak powiedziałem, odpowiem na pytania
 
 2115
 01:11:00,880 --> 01:11:05,760
-anything that we didn't answer i'll
+a, jeżeli na coś jeszcze nie odpowiedziałem
 
 2116
 01:11:03,199 --> 01:11:07,040
-try to create a response if it's if it's
+spróbuję odpowiedzieć jeżeli będzie to
 
 2117
 01:11:05,760 --> 01:11:09,600
-a good question
+dobre pytanie
 
 2118
 01:11:07,040 --> 01:11:11,360
-and that's that's about it hopefully you
+to wszystko, mam nadzieję, że
 
 2119
 01:11:09,600 --> 01:11:13,199
-guys learned something new about
+nauczyliście się czegoś nowego
 
 2120
 01:11:11,360 --> 01:11:15,520
-i i know i i learned something new and
+Wiem, że nauczyłem się czegoś nowego i
 
 2121
 01:11:13,199 --> 01:11:17,360
-had fun looking at the product demos
+miałem zabawę patrząc na demonstrację produktów
 
 2122
 01:11:15,520 --> 01:11:18,560
-this will be this is being recorded and
+będzie to nagrywanie i
 
 2123
 01:11:17,360 --> 01:11:22,000
-this is going to be live
+to będzie dostępne
 
 2124
 01:11:18,560 --> 01:11:23,679
-on our youtube so definitely um
+na naszym kanale youtube, więc koniecznie
 
 2125
 01:11:22,000 --> 01:11:25,600
-watch out for our twitter we'll post the
+obserwuj nasz Twitter
 
 2126
 01:11:23,679 --> 01:11:27,280
-link on our twitter and then feel free
+gdzie zamieścimy link, nie krępuj się go
 
 2127
 01:11:25,600 --> 01:11:29,040
-to share it with your friends if you
+udostępnić znajomym, jeżeli
 
 2128
 01:11:27,280 --> 01:11:30,560
-learned something and want to kind of
+nauczyłeś się czegoś i chciałbyś
 
 2129
 01:11:29,040 --> 01:11:32,159
-help spread the word so
+pomóc rozpowszechnić informacje
 
 2130
 01:11:30,560 --> 01:11:33,760
-um thanks everybody for taking the time
+Dziękuję wszystkim za poświęcony czas
 
 2131
 01:11:32,159 --> 01:11:36,960
-to join us
+i dołączenie do nas
 
 2132
 01:11:33,760 --> 01:11:39,920
-and we will definitely see you soon yeah
+z pewnością wkrótce Cię zobaczymy
 
 2133
 01:11:36,960 --> 01:11:41,280
-thank you super excited and can't wait
+dziękuję, jestem super podekscytowany i nie mogę się czekać
 
 2134
 01:11:39,920 --> 01:11:43,120
-for the product to go live please
+kiedy produkt będzie dostępny na żywo
 
 2135
 01:11:41,280 --> 01:11:51,520
-support us
+wspieraj nas
 
 2136
 01:11:43,120 --> 01:11:51,520
-bye guys bye guys
+Do zobaczenia
 

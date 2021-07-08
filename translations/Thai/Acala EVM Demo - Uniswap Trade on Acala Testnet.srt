@@ -1,50 +1,50 @@
 1
 00:00:00,799 --> 00:00:06,879
-so next thing i'm going to show you um
+ต่อไปฉันจะโชว์คุณว่า
 
 2
 00:00:03,280 --> 00:00:09,200
-is how to deploy a uni swap to the akala
+วิธีการปรับใช้ uniswap กับ Acala
 
 3
 00:00:06,879 --> 00:00:10,880
-blockchain
+บล็อคเชน
 
 4
 00:00:09,200 --> 00:00:13,280
-i would like to use the units of ripple
+ฉันอยากจะลองใช้เหรียญ ripple
 
 5
 00:00:10,880 --> 00:00:16,000
-directly but unfortunately the uni swap
+ตรงๆดูแต่น่าเสียดายว่า uniswap
 
 6
 00:00:13,280 --> 00:00:17,440
-ripple is using the very old version of
+ใช้เหรียญ ripple เวอร์ชันเก่ามาก
 
 7
 00:00:16,000 --> 00:00:20,240
-easters
+ 
 
 8
 00:00:17,440 --> 00:00:21,039
-so there needs a lot of water to migrate
+ดังนั้น มันจะยุ่งยากที่จะย้าย
 
 9
 00:00:20,240 --> 00:00:23,119
-into the
+ไปเป็น
 
 10
 00:00:21,039 --> 00:00:25,119
-newer version to be compatible with both
+เวอร์ชันใหม่เพื่อให้เข้ากับทั้งสอง
 
 11
 00:00:23,119 --> 00:00:27,920
-djs so i'm just
+ดังนั้นฉัน
 
 12
 00:00:25,119 --> 00:00:29,760
-taking the artifacts from the unit slope
+จึงนำ artifact มาจาก uniswap
 
 13
 00:00:27,920 --> 00:00:33,280
@@ -52,147 +52,147 @@ ripple
 
 14
 00:00:29,760 --> 00:00:37,200
-so those are the json file
+นี่คือไฟล์ json
 
 15
 00:00:33,280 --> 00:00:37,840
-um so actually let me just run it so
+ความจริงแล้วให้ฉัน เอ่อ
 
 16
 00:00:37,200 --> 00:00:41,680
-this will
+ให้ฉัน
 
 17
 00:00:37,840 --> 00:00:45,280
-deploy the unit contract to
+deploy(แปลง) สัญญา
 
 18
 00:00:41,680 --> 00:00:49,360
-our test net so
+ให้ testnet ของเรา
 
 19
 00:00:45,280 --> 00:00:52,960
-so this is the all the setup required um
+และนี่คือ setup ที่ระบบต้องการ
 
 20
 00:00:49,360 --> 00:00:53,600
-so in the deploy um smart uh deploy.js
+ใน deploy  ใน deploy.js
 
 21
 00:00:52,960 --> 00:00:56,000
-you can see
+คุณจะเห็น
 
 22
 00:00:53,600 --> 00:00:58,320
-the code it's just a pretty standard eso
+โค้ด ซึ่งจะค่อนข้างธรรมดา
 
 23
 00:00:56,000 --> 00:01:00,000
-stress there's nothing special
+ตรงไปตรงมา ไม่มีอะไรพิเศษ
 
 24
 00:00:58,320 --> 00:01:03,039
-to akala it's just a normal ethereal
+สำหรับ acala จะเห็นได้ว่ามันเป็นแค่โปรเจ็ค
 
 25
 00:01:00,000 --> 00:01:06,240
-project so you can see um
+ธรรมดา คุณจะเห็น
 
 26
 00:01:03,039 --> 00:01:07,119
-here i'm creating uh uh the yasay token
+ตรงนี้ ฉันได้สร้าง Aca Token
 
 27
 00:01:06,240 --> 00:01:09,439
-contracts for the
+contract สำหรับ
 
 28
 00:01:07,119 --> 00:01:10,799
-color and the top token this is the
+โทเค็น acala และ dot อันนี้คือ
 
 29
 00:01:09,439 --> 00:01:12,799
-country address
+address ของบัญชี
 
 30
 00:01:10,799 --> 00:01:14,320
-so this is a system contract so we can
+และนี่คือระบบของสัญญาดังนั้นเราสามารถ
 
 31
 00:01:12,799 --> 00:01:16,400
-pick the country address
+คุณสามารถเลือก address
 
 32
 00:01:14,320 --> 00:01:18,880
-so you can see this is a bunch of sales
+คุณจะเห็นได้ว่าเรา
 
 33
 00:01:16,400 --> 00:01:20,560
-to keep things simple
+ตั้งมันให้เรียบง่าย
 
 34
 00:01:18,880 --> 00:01:23,360
-and we'll deploy the units of factory
+จากนั้นเราจะ deploy UniswapFactory
 
 35
 00:01:20,560 --> 00:01:24,640
-contracts and we deploy the uni support
+contract และก็ deploy UniswapRouter
 
 36
 00:01:23,360 --> 00:01:27,680
-contracts
+contract
 
 37
 00:01:24,640 --> 00:01:31,200
-just put in the control address
+โดยแค่ใส่ไปใน address
 
 38
 00:01:27,680 --> 00:01:35,200
-approve um so we can
+approve เราสามารถ
 
 39
 00:01:31,200 --> 00:01:37,600
-do some transfer add some liquidity
+ทำการโยกย้าย หรือเพิ่มสภาพคล่อง
 
 40
 00:01:35,200 --> 00:01:39,680
-and just prints much more information up
+หรือสามารถปริ๊นข้อมูลต่างๆได้
 
 41
 00:01:37,600 --> 00:01:40,640
-so this is basically the scrap to deploy
+นี่คือสิ่งสคริปต์พื้นฐานของทำงานของ
 
 42
 00:01:39,680 --> 00:01:44,479
-units work
+deploy
 
 43
 00:01:40,640 --> 00:01:48,880
-on our test net so you can see
+บนเทสเน็ตของเรา คุณสามารถเห็น
 
 44
 00:01:44,479 --> 00:01:55,840
-it deploys the router to the suggest
+การ deploy เราเตอร์ไปที่ address นี้
 
 45
 00:01:48,880 --> 00:01:55,840
-so i'm going to change it address here
+ฉันไปเปลี่ยน address ตรงนี้
 
 46
 00:01:56,960 --> 00:02:00,479
-and run this square so this square will
+และรันสคริปต์โดยสคริปต์นี้
 
 47
 00:01:58,960 --> 00:02:03,280
-basically
+ 
 
 48
 00:02:00,479 --> 00:02:03,920
-takes the units to broker again do some
+นำยูนิตของ router ไป
 
 49
 00:02:03,280 --> 00:02:06,079
-proof
+พิสูจน์
 
 50
 00:02:03,920 --> 00:02:07,439

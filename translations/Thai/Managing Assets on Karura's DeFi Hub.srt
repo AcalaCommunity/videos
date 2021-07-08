@@ -1,38 +1,38 @@
 1
 00:00:00,000 --> 00:00:02,030
-[Music]
+[เพลง]
 
 2
 00:00:04,640 --> 00:00:06,960
-the very first page that i'm going to
+นี่คือที่แรกที่ฉันจะ
 
 3
 00:00:06,399 --> 00:00:09,200
-show
+โชว์
 
 4
 00:00:06,960 --> 00:00:11,920
-is the wallet page this is where you
+เพจ wallet นี่คือที่ที่คุณ
 
 5
 00:00:09,200 --> 00:00:14,719
-manage all your assets within the kura
+สามารถจัดการทรัพสินย์ทั้งหมดของคุณใน Karura
 
 6
 00:00:11,920 --> 00:00:16,000
-project and as you can see you can have
+โปรเจ็ค และคุณสามารถเห็นได้ว่า
 
 7
 00:00:14,719 --> 00:00:17,359
-your well this will be definitely
+นี่จะเปลี่ยนไปเป็น
 
 8
 00:00:16,000 --> 00:00:19,680
-turning to the kr token
+kar token
 
 9
 00:00:17,359 --> 00:00:20,800
-you have your ksm token you have your k
+คุณมี ksm token คุณมี k
 
 10
 00:00:19,680 --> 00:00:23,600
@@ -40,417 +40,417 @@ ausd token
 
 11
 00:00:20,800 --> 00:00:24,320
-you can freely transfer um to other
+คุณสามารถส่งมันไป
 
 12
 00:00:23,600 --> 00:00:26,080
-voltages
+ที่อื่นได้อิสระ
 
 13
 00:00:24,320 --> 00:00:28,000
-by just interacting with this front-end
+โดยเพียงแค่คุณกดที่ข้างหน้า
 
 14
 00:00:26,080 --> 00:00:31,359
-dap you can manage your assets as
+dapp คุณก็สามารถจัดการทรัพย์สินได้
 
 15
 00:00:28,000 --> 00:00:33,440
-if like one of the aggregation of your
+ราวกับว่ารวมการจัดการของคุณเป็นหนึ่งเดียว
 
 16
 00:00:31,359 --> 00:00:36,000
-assets um get access to
+ไม่ว่าจะเข้ามาโอนถ่าย
 
 17
 00:00:33,440 --> 00:00:36,480
-value transfer or get access to things
+หรือเข้ามาทำบางอย่าง
 
 18
 00:00:36,000 --> 00:00:39,760
-like
+เช่น
 
 19
 00:00:36,480 --> 00:00:42,480
-minting btc mint in poca btc
+การ mint Btc การ mint PolkaBTC
 
 20
 00:00:39,760 --> 00:00:44,079
-or do inter production transfer for
+หรือการถ่ายโอน product ระหว่างกัน
 
 21
 00:00:42,480 --> 00:00:46,879
-example if i want to transfer
+ยกตัวอย่างเช่น ฉันอยากจะส่ง
 
 22
 00:00:44,079 --> 00:00:48,079
-um alcohol asset from my collar to for
+ทรัพสินย์ Acala จาก Acala chain ของฉันไปสู่
 
 23
 00:00:46,879 --> 00:00:50,879
-example hydradex
+ยกตัวอย่าง hydradex
 
 24
 00:00:48,079 --> 00:00:52,160
-i can select here and do a interchange
+ฉันสามารถเลือกตรงนี้และทำการแลกเปลี่ยน
 
 25
 00:00:50,879 --> 00:00:55,039
-transfer so this is
+ได้เลย ซึ่งนี่
 
 26
 00:00:52,160 --> 00:00:56,320
-almost looks like an uh a user very
+จะดูเหมือนค่อนข้าง
 
 27
 00:00:55,039 --> 00:00:58,480
-friendly wallet they can
+ใช้งานง่าย
 
 28
 00:00:56,320 --> 00:01:00,320
-you can access like um in my opinion way
+คุณสามารถเข้าถึงได้อย่าง ความคิดของฉัน
 
 29
 00:00:58,480 --> 00:01:02,559
-better than than just um
+มันใช้งานง่ายกว่า
 
 30
 00:01:00,320 --> 00:01:04,559
-than just using polkadot.js to to to
+โดยใช้แค่ polkadot.js เพื่อที่จะ
 
 31
 00:01:02,559 --> 00:01:06,560
-interact with the the blockchain
+เข้าถึง blockchain
 
 32
 00:01:04,559 --> 00:01:08,560
-what you're showing here is a wallet
+นี่ที่โชว์อยู่คือ wallet
 
 33
 00:01:06,560 --> 00:01:10,720
-that can be used similar to people have
+มันสามารถใช้กับคนที่เคยใช้
 
 34
 00:01:08,560 --> 00:01:12,080
-on polka dot js now or even some of
+polkadot.js หรือแม้กระทั่งบาง
 
 35
 00:01:10,720 --> 00:01:13,760
-their mobile wallets but
+mobile wallet
 
 36
 00:01:12,080 --> 00:01:15,520
-when they connect what they would do to
+เมื่อพวกเขาเชื่อมต่อกับเว็บ
 
 37
 00:01:13,760 --> 00:01:16,640
-actually see these numbers here is it
+จะเห็นเลขตรงนี้
 
 38
 00:01:15,520 --> 00:01:17,360
-correct that they would go up to the
+ตรงกัน ลองมาเปิดบน
 
 39
 00:01:16,640 --> 00:01:19,360
-polka dot
+polkadot.js
 
 40
 00:01:17,360 --> 00:01:21,360
-js extension and connect their polka dot
+extension และเชื่อมมันกับบัญชีบน
 
 41
 00:01:19,360 --> 00:01:22,080
-js account to this wallet and it would
+polkadot.js โดย wallet นี้จะ
 
 42
 00:01:21,360 --> 00:01:24,640
-show
+โชว์
 
 43
 00:01:22,080 --> 00:01:25,200
-their live balances within this wallet
+ยอดเงินใน wallet
 
 44
 00:01:24,640 --> 00:01:28,400
-is that
+ถูกต้องมั้ย
 
 45
 00:01:25,200 --> 00:01:29,840
-yes yes yes definitely and the poke.js
+ใช่ ใช่ ใช่ ถูกต้อง polkadot.js
 
 46
 00:01:28,400 --> 00:01:33,040
-is very similar to the
+จะใกล้เคียงกับ
 
 47
 00:01:29,840 --> 00:01:34,640
-metamask equivalent on polka dots um you
+metamask ที่ใช้อยู่บน polkadot
 
 48
 00:01:33,040 --> 00:01:36,320
-can manage multiple accounts
+คุณสามารถจัดการได้หลายบัญชี
 
 49
 00:01:34,640 --> 00:01:38,000
-in this wallet section as well so i can
+ในหมวด wallet อีกด้วย ดังนั้นคุณสามารถ
 
 50
 00:01:36,320 --> 00:01:39,920
-change to another demo account here
+เปลี่ยนบัญชีทดลองตรงนี้
 
 51
 00:01:38,000 --> 00:01:41,920
-you can see all the stuff i refresh on
+คุณจะเห็นบัญชีทั้งหมด ทันที
 
 52
 00:01:39,920 --> 00:01:42,960
-the fly i can change back to my original
+ฉันสามารถเปลี่ยนกับไปเป็นบัญชีทดลอง
 
 53
 00:01:41,920 --> 00:01:44,960
-demo account
+ดั้งเดิมของฉัน
 
 54
 00:01:42,960 --> 00:01:46,079
-and you can also see a history of your
+และคุณสามารถดูประวัติ
 
 55
 00:01:44,960 --> 00:01:47,920
-past transaction
+การทำธุรกรรมได้
 
 56
 00:01:46,079 --> 00:01:49,119
-so very very user-friendly very very
+มัน ใช้งานง่ายมากๆๆๆๆ
 
 57
 00:01:47,920 --> 00:01:52,240
-consumer-focused
+เราเจาะจงไปที่ผู้บริโภค
 
 58
 00:01:49,119 --> 00:01:53,520
-this is your your one-stop to access
+นี่คือศูนย์รวมการเข้าถึง
 
 59
 00:01:52,240 --> 00:01:56,079
-your your assets
+ทรัพสินย์ของคุณ
 
 60
 00:01:53,520 --> 00:01:56,719
-on cora yeah so you basically connect
+บน acala โอเค คุณแค่เชื่อมต่อ
 
 61
 00:01:56,079 --> 00:01:58,640
-one
+หนึ่ง
 
 62
 00:01:56,719 --> 00:02:00,479
-account from your polka dot js and then
+บัญชีจาก polkadot.js
 
 63
 00:01:58,640 --> 00:02:01,520
-it shows you every wallet that's kind of
+มันจะโชว์ทุก wallet ที่เคย
 
 64
 00:02:00,479 --> 00:02:04,640
-connected to that
+เชื่อมต่อกับ
 
 65
 00:02:01,520 --> 00:02:07,119
-account yes yes
+บัญชี. ใช่ ใช่
 
 66
 00:02:04,640 --> 00:02:08,959
-and obviously in in pogo.js you have the
+และแน่นอนว่า polkadot.js คุณจะมี
 
 67
 00:02:07,119 --> 00:02:10,720
-right um you're the way to manage like i
+การกรอง เพื่อจัดการ เช่น
 
 68
 00:02:08,959 --> 00:02:12,879
-would like to use this on alkala
+คุณอยากจะใช้ดูแค่ Acala
 
 69
 00:02:10,720 --> 00:02:14,319
-i only wanted to use this um this
+อย่างเดียว เพื่อ
 
 70
 00:02:12,879 --> 00:02:16,959
-particular watch address
+ดู address แบบเฉพาะเจาะจง
 
 71
 00:02:14,319 --> 00:02:18,000
-maybe only on relay chain on kusama all
+บางทีอาจจะแค่ relaychain หรือ kusama
 
 72
 00:02:16,959 --> 00:02:18,480
-you can say that i would like to use
+หรือคุณสามารถดูทั้งหมด
 
 73
 00:02:18,000 --> 00:02:21,200
-this
+นี้
 
 74
 00:02:18,480 --> 00:02:22,160
-wallet in all the available power chains
+ที่มี chain ทั้งหมด
 
 75
 00:02:21,200 --> 00:02:25,040
-and relations
+และเกี่ยวข้อง
 
 76
 00:02:22,160 --> 00:02:26,000
-so you can get it's the your the user's
+โดยคุณจะมีสิทธิ์
 
 77
 00:02:25,040 --> 00:02:28,400
-um
+ 
 
 78
 00:02:26,000 --> 00:02:30,080
-um ability to choose like where this
+เลือกว่าจะทำอย่างไร เช่น
 
 79
 00:02:28,400 --> 00:02:31,440
-wallet is going to be made available and
+wallet ไหน ที่ตั้งให้เห็นก็จะ
 
 80
 00:02:30,080 --> 00:02:33,040
-if you make it available
+มองเห็นมัน
 
 81
 00:02:31,440 --> 00:02:35,360
-for garura it will appear here and you
+สำหรับ Karura ก็จะเจอตรงนี้
 
 82
 00:02:33,040 --> 00:02:38,160
-can manage that so when the caller
+สามารถจัดการกับมัน. เมื่อ Acala
 
 83
 00:02:35,360 --> 00:02:40,080
-is launched um it's going to only say
+เปิดตัว มันจะเรียกว่า
 
 84
 00:02:38,160 --> 00:02:41,840
-akala and have the akal logo when
+acala และจะมีโลโก้ Acala เมื่อ
 
 85
 00:02:40,080 --> 00:02:43,519
-carrera launches it'll have the kura
+karura เปิดตัว มันจะมีโลโก้ karura
 
 86
 00:02:41,840 --> 00:02:45,120
-logo in the upper left
+ที่ด้านซ้านบน
 
 87
 00:02:43,519 --> 00:02:47,360
-and then this is always going to say
+และทั้งหมดนี้เรากำลังพูดถึง
 
 88
 00:02:45,120 --> 00:02:49,120
-this for the test net so akala mandala
+testnet ดังนั้น Acala มันดาลา
 
 89
 00:02:47,360 --> 00:02:51,120
-is the test net
+คือ testnet
 
 90
 00:02:49,120 --> 00:02:52,480
-so yeah that will be that will be only
+และนี่ก็เป็นเพียงแค่
 
 91
 00:02:51,120 --> 00:02:54,959
-the the name of the
+ชื่อของ
 
 92
 00:02:52,480 --> 00:02:56,640
-the network when they're live yeah and i
+เครือข่าย เมื่อมันเกิดขึ้นมา. ใช่และฉัน
 
 93
 00:02:54,959 --> 00:02:57,120
-also want to give a little bit hint here
+อยากจะบอกใบ้นิดหน่อยที่นี่
 
 94
 00:02:56,640 --> 00:02:59,519
-so
+ว่า
 
 95
 00:02:57,120 --> 00:03:00,800
-kura is the sister network of akala
+karura คือเครือข่ายน้องของ Acala
 
 96
 00:02:59,519 --> 00:03:02,400
-right so when they
+ดังนั้นเมื่อ
 
 97
 00:03:00,800 --> 00:03:04,080
-when they're born they are almost
+มันเกิดขึ้นมา มันอาจจะ
 
 98
 00:03:02,400 --> 00:03:06,959
-identical but when they go
+ใกล้เคียงกัน แต่เมื่อ
 
 99
 00:03:04,080 --> 00:03:08,959
-live and when the genesis happens um the
+มันเริ่มทำงาน เมื่อกำเนิดขึ้นมา
 
 100
 00:03:06,959 --> 00:03:10,480
-two networks might take different paths
+2 เครือข่ายนี้จะเดินไปคนละทิศทาง
 
 101
 00:03:08,959 --> 00:03:11,360
-like you might see assets that will be
+อย่างที่คุณเห็นทรัพย์สิน
 
 102
 00:03:10,480 --> 00:03:13,440
-only available
+ที่มีเฉพาะ
 
 103
 00:03:11,360 --> 00:03:15,280
-on guru ra because like they will be
+บน Karura เพราะว่ามัน
 
 104
 00:03:13,440 --> 00:03:17,040
-only available on kusama or you might
+อยู่บน Kusama เท่านั้น คุณจะ
 
 105
 00:03:15,280 --> 00:03:17,680
-see feature they'll be only available on
+เห็นลักษณะเฉพาะบน
 
 106
 00:03:17,040 --> 00:03:19,440
-karua
+Karura เท่านั้น
 
 107
 00:03:17,680 --> 00:03:21,280
-because like it's the wild cousin of
+เพราะว่ามันเป็นเครือข่ายญาติของ
 
 108
 00:03:19,440 --> 00:03:23,200
-polka dots and you will see the similar
+polkadot และคุณจะเห็นความคล้ายคลึง
 
 109
 00:03:21,280 --> 00:03:25,680
-stuff happened on kura as the main
+บน Karura ที่มีเมนคือ
 
 110
 00:03:23,200 --> 00:03:26,720
-alcohol is the main as well so when they
+Acala ที่เป็นเมนเช่นกัน ดังนั้น
 
 111
 00:03:25,680 --> 00:03:29,920
-generalize this
+สามารถกล่าวได้ว่า
 
 112
 00:03:26,720 --> 00:03:32,239
-it's the same but they might evolve into
+มันเหมือนกัน แต่มันจะวิวัฒนาการ
 
 113
 00:03:29,920 --> 00:03:40,720
-its own distinctive
+ที่มีคุณสมบติ
 
 114
 00:03:32,239 --> 00:03:40,720
-set of features
+เฉพาะด้านของมันเอง
 

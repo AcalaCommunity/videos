@@ -208,91 +208,91 @@ the fly i can change back to my original
 
 53
 00:01:41,920 --> 00:01:44,960
-demo account
+демо-счёт
 
 54
 00:01:42,960 --> 00:01:46,079
-and you can also see a history of your
+и вы также можете увидеть историю ваших
 
 55
 00:01:44,960 --> 00:01:47,920
-past transaction
+прошлых транзакций
 
 56
 00:01:46,079 --> 00:01:49,119
-so very very user-friendly very very
+очень удобный, очень
 
 57
 00:01:47,920 --> 00:01:52,240
-consumer-focused
+ориентирован на потребителя
 
 58
 00:01:49,119 --> 00:01:53,520
-this is your your one-stop to access
+это ваш универсальный доступ
 
 59
 00:01:52,240 --> 00:01:56,079
-your your assets
+к вашим активам
 
 60
 00:01:53,520 --> 00:01:56,719
-on cora yeah so you basically connect
+на cora, да, так что вы в основном подключаете
 
 61
 00:01:56,079 --> 00:01:58,640
-one
+один
 
 62
 00:01:56,719 --> 00:02:00,479
-account from your polka dot js and then
+аккаунт из polkadot.js, а затем
 
 63
 00:01:58,640 --> 00:02:01,520
-it shows you every wallet that's kind of
+он показывает вам каждый кошелек, который
 
 64
 00:02:00,479 --> 00:02:04,640
-connected to that
+подключен к этому
 
 65
 00:02:01,520 --> 00:02:07,119
-account yes yes
+аккаунту, да 
 
 66
 00:02:04,640 --> 00:02:08,959
-and obviously in in pogo.js you have the
+и, очевидно, в pogo.js у вас есть
 
 67
 00:02:07,119 --> 00:02:10,720
-right um you're the way to manage like i
+способ управлять как
 
 68
 00:02:08,959 --> 00:02:12,879
-would like to use this on alkala
+вы бы хотели использовать это на Acala
 
 69
 00:02:10,720 --> 00:02:14,319
-i only wanted to use this um this
+я только хотел использовать этот 
 
 70
 00:02:12,879 --> 00:02:16,959
-particular watch address
+конкретный адрес просмотра
 
 71
 00:02:14,319 --> 00:02:18,000
-maybe only on relay chain on kusama all
+может быть только на релейной цепи на Kusama все
 
 72
 00:02:16,959 --> 00:02:18,480
-you can say that i would like to use
+что вы можете сказать, что я хотел бы использовать
 
 73
 00:02:18,000 --> 00:02:21,200
-this
+этот
 
 74
 00:02:18,480 --> 00:02:22,160
-wallet in all the available power chains
+кошелек во всех доступных цепях 
 
 75
 00:02:21,200 --> 00:02:25,040
@@ -300,27 +300,27 @@ and relations
 
 76
 00:02:22,160 --> 00:02:26,000
-so you can get it's the your the user's
+так что вы можете получить эту вашу пользовательскую
 
 77
 00:02:25,040 --> 00:02:28,400
-um
+м,
 
 78
 00:02:26,000 --> 00:02:30,080
-um ability to choose like where this
+возможность выбрать, например,
 
 79
 00:02:28,400 --> 00:02:31,440
-wallet is going to be made available and
+где этот кошелек будет доступен, и
 
 80
 00:02:30,080 --> 00:02:33,040
-if you make it available
+если вы сделаете его доступным
 
 81
 00:02:31,440 --> 00:02:35,360
-for garura it will appear here and you
+для Karura, он появится здесь и вы
 
 82
 00:02:33,040 --> 00:02:38,160
@@ -408,49 +408,49 @@ only available
 
 103
 00:03:11,360 --> 00:03:15,280
-on guru ra because like they will be
+на guru, потому что, как будто они будут доступны
 
 104
 00:03:13,440 --> 00:03:17,040
-only available on kusama or you might
+только на Кusama, или вы могли бы
 
 105
 00:03:15,280 --> 00:03:17,680
-see feature they'll be only available on
+увидеть функцию, которую они будут доступны только на
 
 106
 00:03:17,040 --> 00:03:19,440
-karua
+Karura,
 
 107
 00:03:17,680 --> 00:03:21,280
-because like it's the wild cousin of
+потому что это как дикий кузен
 
 108
 00:03:19,440 --> 00:03:23,200
-polka dots and you will see the similar
+Рolkadot и вы увидите то же самое,
 
 109
 00:03:21,280 --> 00:03:25,680
-stuff happened on kura as the main
+что и на Karura, как на главном
 
 110
 00:03:23,200 --> 00:03:26,720
-alcohol is the main as well so when they
+алкоголь также является основным, поэтому, когда они
 
 111
 00:03:25,680 --> 00:03:29,920
-generalize this
+обобщают это
 
 112
 00:03:26,720 --> 00:03:32,239
-it's the same but they might evolve into
+это то же самое, но они могут эволюционировать в
 
 113
 00:03:29,920 --> 00:03:40,720
-its own distinctive
+собственный отличительный
 
 114
 00:03:32,239 --> 00:03:40,720
-set of features
+набор функций
 

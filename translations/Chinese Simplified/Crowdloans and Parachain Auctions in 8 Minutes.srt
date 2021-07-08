@@ -1,202 +1,202 @@
 1
 00:00:01,040 --> 00:00:06,560
-Hey everybody this is Dan Reecer from
+大家好, 我是Dan Reecer
 
 2
 00:00:03,439 --> 00:00:08,639
-Acala, I'm currently VP of growth here.
+来自Acala的增长副总裁
 
 3
 00:00:06,560 --> 00:00:10,800
-I've been on the Acala team for a couple
+我已经在Acala团队中好几个月了
 
 4
 00:00:08,639 --> 00:00:12,320
-months and previously spent my time at
+而之前花时间在
 
 5
 00:00:10,800 --> 00:00:13,920
-Web3 Foundation
+Web3 基金会上
 
 6
 00:00:12,320 --> 00:00:16,080
-where I helped launch Polkadot and
+我曾在那里帮助发起Polkadot以及
 
 7
 00:00:13,920 --> 00:00:17,920
-Kusama. Today I'm going to make this
+Kusama。今天，我可能会
 
 8
 00:00:16,080 --> 00:00:19,119
-really quick. I may talk fast because i'm
+说得很快
 
 9
 00:00:17,920 --> 00:00:21,119
-trying to keep it in
+希望能够把这视频
 
 10
 00:00:19,119 --> 00:00:22,560
-hopefully like five to seven minutes but
+维持在5到7分钟内
 
 11
 00:00:21,119 --> 00:00:24,720
-I'm going to be talking about
+我要谈论的是
 
 12
 00:00:22,560 --> 00:00:26,320
-Polkadot and Kusama parachain auctions
+Polkadot和Kusama 的平行链竞拍
 
 13
 00:00:24,720 --> 00:00:27,680
-and crowdloans, which are the process
+以及众贷相关的过程
 
 14
 00:00:26,320 --> 00:00:30,640
-for how to launch
+及如何在其中一个链上启动
 
 15
 00:00:27,680 --> 00:00:32,480
-a blockchain on one of these networks so
+一个区块链
 
 16
 00:00:30,640 --> 00:00:34,559
-Polkadot and Kusama as you may know are
+你可能知道的 Polkadot 和 Kusama 是
 
 17
 00:00:32,480 --> 00:00:35,840
-these multi-chain ecosystems that are
+一个多链生态系统
 
 18
 00:00:34,559 --> 00:00:37,680
-tying together
+连接在一起
 
 19
 00:00:35,840 --> 00:00:38,879
-a bunch of blockchains that are called
+而这一些区块链被称为
 
 20
 00:00:37,680 --> 00:00:40,399
-parachains.
+平行链
 
 21
 00:00:38,879 --> 00:00:42,559
-In the future there will be up to a
+将来我们会有至少
 
 22
 00:00:40,399 --> 00:00:43,200
-hundred parachains on Polkadot and a
+上百个平行链在Polkadot以及
 
 23
 00:00:42,559 --> 00:00:46,480
-hundred
+上百个
 
 24
 00:00:43,200 --> 00:00:48,480
-plus on Kusama, but as of now there's no
+上百个平行链在Kusama，但到目前为止还没有
 
 25
 00:00:46,480 --> 00:00:50,320
-parachain on either one.
+任何一个平行链在Polkadot或Kusama。
 
 26
 00:00:48,480 --> 00:00:51,760
-So today i'm going to talk about how to
+所以今天我要谈谈如何
 
 27
 00:00:50,320 --> 00:00:53,680
-actually earn a slot
+实际获得一个平行链插槽
 
 28
 00:00:51,760 --> 00:00:55,199
-as one of these little squares here in
+作为图表里的小方块之一
 
 29
 00:00:53,680 --> 00:00:56,079
-this diagram. How do you actually become
+您如何能够成为
 
 30
 00:00:55,199 --> 00:00:58,000
-the first
+第一个
 
 31
 00:00:56,079 --> 00:01:00,320
-parachain on Kusama or the first parachain
+在Kusama的平行链，或者
 
 32
 00:00:58,000 --> 00:01:02,399
-on Polkadot
+在Polkadot的平行链
 
 33
 00:01:00,320 --> 00:01:04,159
-and that process is crowdloans and
+以及众贷(Crowdloan)的进程
 
 34
 00:01:02,399 --> 00:01:06,400
-parachain auctions. So
+还有平行链插槽竞拍。所以
 
 35
 00:01:04,159 --> 00:01:07,920
-this is the timeline. You can see here
+这是时间线。您可以在这里查看
 
 36
 00:01:06,400 --> 00:01:10,240
-that crowdloans come
+那个众贷会先启动
 
 37
 00:01:07,920 --> 00:01:12,080
-first, which i'll get into.. The main
+然后接下来，我们会进入主要
 
 38
 00:01:10,240 --> 00:01:12,640
-event is the parachain auction here in
+的环节，那就是平行链插槽竞拍
 
 39
 00:01:12,080 --> 00:01:15,759
-white
+就在白色这里
 
 40
 00:01:12,640 --> 00:01:17,280
-this is multiple parachain teams
+这将会是多个平行链团队
 
 41
 00:01:15,759 --> 00:01:19,759
-essentially bidding against each other
+基本上是相互竞拍的
 
 42
 00:01:17,280 --> 00:01:21,759
-trying to win this auction
+试图赢得这次的竞拍。
 
 43
 00:01:19,759 --> 00:01:23,119
-the winner of the auction then moves on
+竞拍胜者将会前进
 
 44
 00:01:21,759 --> 00:01:26,240
-and earns a slot
+并获取一个插槽
 
 45
 00:01:23,119 --> 00:01:27,920
-here in the green. Once you earn a slot
+在绿色中。一旦您获取一个插槽
 
 46
 00:01:26,240 --> 00:01:30,000
-then you're officially on
+您已经正式开启
 
 47
 00:01:27,920 --> 00:01:32,000
-Kusama or on Polkadot as a parachain
+Kusama 或 Polkadot 上的平行链
 
 48
 00:01:30,000 --> 00:01:34,560
-team and you can begin
+而您的团队可以开始
 
 49
 00:01:32,000 --> 00:01:35,520
-launching your applications, applications
+启动您的应用程序
 
 50
 00:01:34,560 --> 00:01:37,759
-can build on you
+并在其上面创建应用程序等等。
 
 51
 00:01:35,520 --> 00:01:40,159

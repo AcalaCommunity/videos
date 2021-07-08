@@ -1,356 +1,356 @@
 1
 00:00:00,719 --> 00:00:03,120
-hey everybody this is brett a developer
+สวัสดีทุกคน ฉัน Brett เป็น dev
 
 2
 00:00:02,399 --> 00:00:04,080
-at akala
+ที่ Acala
 
 3
 00:00:03,120 --> 00:00:05,359
-and in this video i'm going to be
+และในวิดิโอนี้ ฉันจะ
 
 4
 00:00:04,080 --> 00:00:07,600
-talking about how addresses work on
+พูดเกี่ยวกับการทำงานของ address บน
 
 5
 00:00:05,359 --> 00:00:08,639
-polkadot and kusama
+Polkadot และ Kasuma
 
 6
 00:00:07,600 --> 00:00:10,160
-so if you're coming from the world of
+ดังนั้น ถ้าคุณเข้ามาในโลกของ
 
 7
 00:00:08,639 --> 00:00:11,920
-ethereum you might be used to addresses
+ethereum คุณอาจจะเคยเห็น address
 
 8
 00:00:10,160 --> 00:00:13,599
-looking something like this
+แบบนี้
 
 9
 00:00:11,920 --> 00:00:15,040
-but in the world of poken kusama you
+แต่บนโลกของ Kusama
 
 10
 00:00:13,599 --> 00:00:16,240
-might be used to something like this
+คุณอาจจะเห็นเป็นประมาณนี้
 
 11
 00:00:15,040 --> 00:00:17,760
-a bunch of different addresses with a
+พวงของ address ที่แตกต่างกัน
 
 12
 00:00:16,240 --> 00:00:18,320
-bunch of different formats all from one
+กับฟอร์แมตที่แตกต่างกันจาก 1
 
 13
 00:00:17,760 --> 00:00:20,800
-account
+บัญชี
 
 14
 00:00:18,320 --> 00:00:22,000
-so how does that work well let's start
+โดยวิธีการทำงานของมัน มาเริ่มที่
 
 15
 00:00:20,800 --> 00:00:23,920
-with an analogy
+อุปมาอุปไมย
 
 16
 00:00:22,000 --> 00:00:25,599
-here we have a bird and in english we
+ที่นี่เรามีนก และในภาษาอังกฤษ
 
 17
 00:00:23,920 --> 00:00:27,359
-can write the word bird like this
+เราสามารถเขียนได้แบบนี้
 
 18
 00:00:25,599 --> 00:00:28,720
-in chinese we might write it like this
+ภาษาจีนจะเขียนแบบนี้
 
 19
 00:00:27,359 --> 00:00:29,599
-and in spanish we might write it like
+และในสเปน จะเขียนแบบ
 
 20
 00:00:28,720 --> 00:00:31,199
-this
+นี้
 
 21
 00:00:29,599 --> 00:00:32,960
-a bunch of different ways to write the
+หลากหลายวิธีที่จะเขียน
 
 22
 00:00:31,199 --> 00:00:34,719
-same exact thing and they all represent
+สิ่งๆเดียวและมันนำเสนอ
 
 23
 00:00:32,960 --> 00:00:36,320
-the same thing
+สิ่งนั้นๆ
 
 24
 00:00:34,719 --> 00:00:38,559
-well your addresses in polkadot and
+โอเค address ใน polkadot และ
 
 25
 00:00:36,320 --> 00:00:40,000
-kusama kind of work the same exact way
+Kusama โดยประเภทงานจะค่อนข้างเหมือนกัน
 
 26
 00:00:38,559 --> 00:00:41,520
-your wallet will hold your public and
+wallet ของคุณจะมี public และ
 
 27
 00:00:40,000 --> 00:00:43,040
-private key and all the different
+private key และจะมีฟอร์แมต
 
 28
 00:00:41,520 --> 00:00:44,719
-formats you see depending on the chains
+แตกต่างกันขึ้นอยู่กับ chain
 
 29
 00:00:43,040 --> 00:00:46,879
-you attach to are all just different
+ที่คุณเลือก มันจะโชว์ออกมา
 
 30
 00:00:44,719 --> 00:00:49,440
-representations of that same public key
+แตกต่างกันบน public key เดียวกัน
 
 31
 00:00:46,879 --> 00:00:50,960
-for example here we have this public key
+ยกตัวอย่างเช่น เรามี public key ตรงนี้
 
 32
 00:00:49,440 --> 00:00:52,559
-and on polka dot it would be represented
+บน polkadot มันจะแสดง
 
 33
 00:00:50,960 --> 00:00:53,199
-like this with a format starting with a
+อย่างอันนี้จะเริ่มต้นด้วย
 
 34
 00:00:52,559 --> 00:00:55,120
-one
+หนึ่ง
 
 35
 00:00:53,199 --> 00:00:57,199
-kusama would be represented like this a
+Kusama จะแสดงแบบนี้
 
 36
 00:00:55,120 --> 00:00:59,199
-format starting with a capital letter
+ฟอร์แมทเริ่มต้นด้วยตัวพิมพ์ใหญ่
 
 37
 00:00:57,199 --> 00:01:00,960
-and in the substrate generic address it
+และบน substrate generic address
 
 38
 00:00:59,199 --> 00:01:03,440
-would be something like this
+มันจะเป็นแบบนี้
 
 39
 00:01:00,960 --> 00:01:04,799
-starting with the number five so that's
+เริ่มต้นด้วยเลขห้า ดังนั้น
 
 40
 00:01:03,440 --> 00:01:06,640
-pretty cool that means that you can use
+มันค่อนข้างเจ๋ง มันหมายถึงว่าคุณสามาถ
 
 41
 00:01:04,799 --> 00:01:07,760
-one address or one account across all
+ใช้หนึ่ง address หรือหนึ่งบัญชีสำหรับ
 
 42
 00:01:06,640 --> 00:01:09,200
-the different chains
+ทุกๆ chain
 
 43
 00:01:07,760 --> 00:01:10,880
-and while that is true it's not
+และถึงแม้ว่ามันจะเป็นเรื่องจริง ก็ไม่
 
 44
 00:01:09,200 --> 00:01:12,400
-recommended
+แนะนำ
 
 45
 00:01:10,880 --> 00:01:14,159
-typically it's better to have distinct
+มันจะดีกว่าถ้าใช้บัญชี
 
 46
 00:01:12,400 --> 00:01:15,119
-accounts with their own private keys for
+ที่แตกต่างกับ private key
 
 47
 00:01:14,159 --> 00:01:17,119
-each network
+แต่ละเครือข่าย
 
 48
 00:01:15,119 --> 00:01:18,720
-the biggest reason is security if one of
+เหตุผลที่ใหญ่ที่สุดคือความปลอดภัย ถ้าหนึ่งใน
 
 49
 00:01:17,119 --> 00:01:20,159
-your accounts becomes compromised
+บัญชีของคุณถูกบุกรุก
 
 50
 00:01:18,720 --> 00:01:24,080
-then the assets in your other accounts
+ทรัพส์สินที่อยู่บนบัญชีอื่นจะ
 
 51
 00:01:20,159 --> 00:01:26,000
-are safe so let's see this in practice
+ปลอดภัย โอเคเรามาเริ่มฝึก
 
 52
 00:01:24,080 --> 00:01:27,520
-here i'm on the polkadot.js website and
+นี่คือ polkadot.js เว็บไซต์
 
 53
 00:01:26,000 --> 00:01:31,439
-we're going to create two new accounts
+เราจะสร้างบัญชีใหม่ 2 บัญชี
 
 54
 00:01:27,520 --> 00:01:33,600
-really quickly so you see that i have a
+อย่างรวดเร็ว คุณจะเห็นว่าฉันมี
 
 55
 00:01:31,439 --> 00:01:35,200
-distinct uh seed phrase right here i'm
+seed phrase ตรงนี้
 
 56
 00:01:33,600 --> 00:01:36,560
-going to click save
+คลิกเซฟ
 
 57
 00:01:35,200 --> 00:01:38,400
-give it a name let's call it make this a
+ตั้งชื่อมัน ผมจะตั้งว่า
 
 58
 00:01:36,560 --> 00:01:41,840
-kusama account
+บัญชี kusama
 
 59
 00:01:38,400 --> 00:01:41,840
-and give it a password
+และตั้งรหัสผ่าน
 
 60
 00:01:43,439 --> 00:01:46,880
-and we're going to create one more
+เราจะสร้างเพิ่มอีกหนึ่ง
 
 61
 00:01:44,479 --> 00:01:49,439
-account for polka dot
+บัญชีสำหรับ polkadot
 
 62
 00:01:46,880 --> 00:01:52,720
-again see it's another distinct seed
+อีกครั้ง นี่คืออีก seed
 
 63
 00:01:49,439 --> 00:01:56,799
-phrase different from the previous one
+phrase แตกต่างจากอันก่อนหน้า
 
 64
 00:01:52,720 --> 00:02:00,079
-it's going gonna call it polka dot
+โดยจะตั้งชื่อว่า polkadot
 
 65
 00:01:56,799 --> 00:02:00,079
-i'm gonna give it a password
+และตั้ง พาสเวิร์ด
 
 66
 00:02:01,920 --> 00:02:05,439
-and now you'll see that i'm connected to
+และตอนนี้คุณจะเป็นฉันเชื่อมต่อ
 
 67
 00:02:03,280 --> 00:02:09,840
-the polka dot network and when i
+กับเครือข่าย polkadot และเมื่อฉัน
 
 68
 00:02:05,439 --> 00:02:09,840
-reload the page
+กดรีเพจ
 
 69
 00:02:11,520 --> 00:02:15,840
-both of the addresses pop up and again
+address ทั้งสองจะเด้งขึ้นมา
 
 70
 00:02:14,319 --> 00:02:17,120
-this is not what we recommend doing
+นี่ไม่ใช่สิ่งที่พวกเราแนะนำ
 
 71
 00:02:15,840 --> 00:02:18,879
-it's recommended you have a distinct
+เราจะแนะนำให้แยก
 
 72
 00:02:17,120 --> 00:02:19,760
-account with its own private key just
+บัญชีที่มี private key
 
 73
 00:02:18,879 --> 00:02:20,959
-like these two
+เหมือนกับ 2 อันนี้
 
 74
 00:02:19,760 --> 00:02:22,720
-and that they're only set up for one
+และตั้งมันให้สำหรับ
 
 75
 00:02:20,959 --> 00:02:23,280
-network each so we're going to change
+แต่ละ network ดังนั้นเราจะเปลี่ยน
 
 76
 00:02:22,720 --> 00:02:26,319
-this one
+อันนี้
 
 77
 00:02:23,280 --> 00:02:29,200
-to only be viewed on kusama and this one
+ให้เห็นได้เฉพาะบน kusama และอันนี้
 
 78
 00:02:26,319 --> 00:02:32,959
-to only be viewed at polka dot
+ให้เห็นได้บน polkadot เท่านั้น
 
 79
 00:02:29,200 --> 00:02:32,959
-and now if i reload this page again
+และถ้าเรารีเฟรชอีกครั้ง
 
 80
 00:02:33,920 --> 00:02:37,040
-you'll notice that only the polka dot
+คุณจะเห็นแค่ polkadot
 
 81
 00:02:35,440 --> 00:02:40,319
-extension account pops up
+extension เด้งขึ้นมา
 
 82
 00:02:37,040 --> 00:02:40,319
-and on the kusama side
+ไปดูที่ด้าน kusama
 
 83
 00:02:43,040 --> 00:02:46,640
-only the kusama network extension pops
+คุณจะเห็นเครือข่าย kusama เด้งขึ้น
 
 84
 00:02:45,680 --> 00:02:48,160
-up
+มา
 
 85
 00:02:46,640 --> 00:02:49,680
-okay that's it for this video i hope
+โอเค จบแล้วสำหรับวิดิโอ
 
 86
 00:02:48,160 --> 00:02:50,800
-everyone learned something and let us
+ฉันหวังว่าทุกคนจะเรียนรู้และ
 
 87
 00:02:49,680 --> 00:02:53,000
-know if there's any other videos you'd
+บอกพวกเราถ้าหากต้องการวิดิโออื่นๆ
 
 88
 00:02:50,800 --> 00:02:56,000
-like us to cover
+ที่ต้องการจะเรียนรู้
 
 89
 00:02:53,000 --> 00:02:56,000
-thanks
+ขอบคุณ
 
