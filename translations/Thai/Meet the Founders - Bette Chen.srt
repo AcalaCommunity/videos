@@ -1053,273 +1053,262 @@ Substrate
 
 229
 00:15:55,680 --> 00:16:00,320
-was at that time the leading
-framework that we could use to achieve 
+ในเวลานั้นเป็นผู้นำ framework ทีเราสามารถใช้เพื่อบรรลุ
 
 230
 00:16:00,320 --> 00:16:04,960
-our goals. But of course today
-the gap is miles bigger, but at 
+เป้าหมายของเรา แต่แน่นอนว่าวันนี้
+ช่องว่างมีขนาดใหญ่เป็นไมล์ แต่ว่า
 
 231
 00:16:04,960 --> 00:16:07,040
-the time that was
-our conclusion. 
+เวลานั้นจะเป็นเครื่อง
+พิสูจน์
 
 232
 00:16:10,080 --> 00:16:12,720
-There's a stablecoin that needed
-to be built 
+มี stablecoinที่ต้องการ
+ที่จะสร้าง
 
 233
 00:16:12,720 --> 00:16:15,280
-at the time. So we were approached by
-Web3 Foundation. 
+ณ เวลานั้น เราจึงได้รับการทาบามโดย
+ผู้ก่อตั้ง Web3
 
 234
 00:16:15,920 --> 00:16:19,520
-We were thinking about it because in
-Polkadot when you build things 
+เราครุ่นคิดเกี่ยวกับมันเพราะใน
+Polkadot เพื่อคุณสร้างบางสิ่ง
 
 235
 00:16:19,520 --> 00:16:23,120
-the mindset needs to be way bigger, you
-are not building something that's 
+ความคิดจะต้องใหญ่กว่า คุณ
+ไม่ได้สร้างบางสิ่งที่
 
 236
 00:16:23,120 --> 00:16:26,800
-preparatory or only serve your own
-purposes. If you are going to build 
+สร้างมาเพื่อจุดประสงค์ของตัวคุณเองเท่านั้น
+ถ้าคุณจะสร้าง
 
 237
 00:16:26,800 --> 00:16:30,400
-something like a stablecoin, it will
-need to serve the community like a 
+บางอย่างเช่น stablecoin มันจะ
+ต้องเสิร์ฟ community เช่น
 
 238
 00:16:30,400 --> 00:16:34,080
-multi-chain community, right. Even you are
-talking about just within the Polkadot 
+multi-chain community ใช่ไหม แม้กระทั่งคุณ
+พูดถึงเกี่ยวกับเครือข่าย
 
 239
 00:16:34,080 --> 00:16:36,800
-network,
-that has to be a community driven 
+Polkadot
+ที่ต้องเป็นโปรดัค stablecoin
 
 240
 00:16:37,680 --> 00:16:41,840
-stablecoin
-product. So we 
+ที่ขับเคลื่อน community
+ดังนั้นเรา
 
 241
 00:16:41,840 --> 00:16:45,840
-thought it wouldn't be just Laminar to
-boat us, it wouldn't be quite right. 
+คิดเกี่ยวกับมัน มันจะไม่ใช่แค่ Laminar ที่จะ
+บรรทุกเรา มันไม่ค่อยพอ
 
 242
 00:16:46,720 --> 00:16:52,480
-At the time we went to this first
-Substrate Hackathon, held in Hangzhou, 
+ณ เวลานั้นพวกเราไปที่งาน
+Substrate Hackathon ครั้งแรก, ที่จัดขึ้นที่ Hangzhou
 
 243
 00:16:53,040 --> 00:16:56,320
-where Bryan, our other Co-founder, was a
-judge alongside Gavin. 
+ที่ที่ Bryan, ผู้ก่อตั้งร่วมของเรา เป็นผู้ตัดสิน
+ร่วมกับ Gavin
 
 244
 00:16:57,120 --> 00:16:59,600
-That was the time we met the
-Polkawallet team, 
+นั่นคือช่วงที่เราเจอกับ
+ทีม Polkawallet
 
 245
 00:17:00,240 --> 00:17:03,920
-led by Fuyao. They were one of the
-earliest developers also, 
+นำโดย Fuyao พวกเขาเป็นหนึ่งใน
+dev รุ่นแรกๆด้วย
 
 246
 00:17:03,920 --> 00:17:10,560
-creating a mobile wallet.
-They are also very solid builders, 
+ที่สร้าง wallet บนมือถือ
+พวกเขาเป็นผู้สร้างที่แข็งแกร่งมากเช่นกัน
 
 247
 00:17:10,560 --> 00:17:14,400
-and then we saw Fuyao
-waving this hammer on stage and 
+แล้วเราก็เห็น Fuyao
+โบกค้อนบนเวที
 
 248
 00:17:14,400 --> 00:17:17,920
-then raving about
-how much he hated all 
+แล้วก็อาละวาดว่าเขาเกลียดทุกคนมากแค่ไหน
 
 249
 00:17:17,920 --> 00:17:22,880
-the ERC20, ICO
-craze, that kind of destroyed a lot of 
+บน ERC20, ICO บ้าๆ
+ที่ทำลาย
 
 250
 00:17:22,880 --> 00:17:27,120
-the reputation
-or a lot of people's faith in using 
+ชื่อเสียง
+หรือหลายคนที่ศรัทธาใน
 
 251
 00:17:27,120 --> 00:17:30,240
-crypto, in using blockchain as a new
-innovation 
+คริปโต ในการใช้บล็อกเชนเพื่อ
+นวัตกรรมใหม่ๆ
 
 252
 00:17:30,240 --> 00:17:33,680
-to change many aspects of lives.
-Then everyone's 
+เพื่อเปลี่ยนหลายๆด้านของหลายๆชีวิต
+เมื่อทุกคน
 
 253
 00:17:33,680 --> 00:17:35,760
-thinking about ICOs and things like that.
-He's 
+คิดเกี่ยวกับ ICO และอะไรแบบนั้น
+เขา
 
 254
 00:17:35,760 --> 00:17:39,120
-very angry about that. Anyways.
-So, 
+โกรธกับมันมาก อย่างไรก็ตาม
 
 255
 00:17:39,120 --> 00:17:42,400
-that was like how we actually met
-Fuyao and his team, 
+นั้นก็เป็นวิธีที่เราได้พบ Fuyao
+และทีมของเขา
 
 256
 00:17:43,040 --> 00:17:46,640
-and then, right after that, it was like
-you know this guy has a very 
+แล้วหลังจากนั้น มันเหมือนกับ
+ที่คุณรู้ เขามี
 
 257
 00:17:46,640 --> 00:17:50,080
-high moral standard, value-wise
-and also vision-wise. 
+มาตรฐานคุณธรรมสูงมากและ
+ยังมีวิสัยทัศน์ที่ชาญฉลาด
 
 258
 00:17:50,080 --> 00:17:54,880
-He was very aligned with us and at
-the same time he wanted to do something 
+เขามีความสอดคล้องกับเราและ
+ในเวลาเดียวกันเขาต้องการทำอะไรบางอย่าง
 
 259
 00:17:54,880 --> 00:17:58,480
-in DeFi as well.
-Then, right after that, 
+ใน DeFi ด้วย
+หลังจากนั้น
 
 260
 00:17:58,480 --> 00:18:02,960
-we started dating
-by opening a github ripple and then we 
+เราเริ่มเจอกัน
+โดยเปิด github ripple และเมื่อเรา
 
 261
 00:18:02,960 --> 00:18:06,080
-coded for a month or so
-and then that's how we basically 
+เขียนโค้ดประมาณเดือนหรือมากกว่านั้น
+และนั่นคือวิธี
 
 262
 00:18:06,720 --> 00:18:10,480
-consolidated our
-formal relationship after that. 
+ที่เราเชื่อมความสัมพันธ์
+หลังจากนั้น
 
 263
 00:18:10,480 --> 00:18:13,440
-That's sort of the
-backstory of our Acala. 
+นั่นคือเบื้องหลังของ 
+Acala ของเรา
 
 264
 00:18:14,640 --> 00:18:21,440
-Perfect. Let's get into a little
-around internal 
+สมบูรณ์แบบ เรามาพูดถึงด้านต่างๆ
 
 265
 00:18:21,440 --> 00:18:26,560
-aspects of Acala. Could you talk about
-how you would describe the 
+ของ Acala กันเถอะ คุณช่วยอธิบายเกี่ยวกับ
 
 266
 00:18:26,560 --> 00:18:30,320
-culture of Acala and
-what types of characteristics you look 
+วัฒนธรรมของ Acala และ
+ลักษณะแบบไหนที่คุณมองหา
 
 267
 00:18:30,320 --> 00:18:34,240
-for and people that
-you're recruiting to join Acala are 
+สำหรับผู้คนที่
+คุณพิจารณาต้องการจ้างงาน
 
 268
 00:18:34,240 --> 00:18:36,160
-considering
-for employment? 
+ให้เข้ามาร่วม Acala?
 
 269
 00:18:38,800 --> 00:18:41,840
-All in all, we are a very engineering
-focused 
+โดยรวมแล้วเราเป็นวิศวกรที่เน้น
 
 270
 00:18:43,760 --> 00:18:47,760
-group of people, a team.
-Even Dan turned 
+กลุ่มของผู้คน ทีม
+แม่กระทั่ง Dan
 
 271
 00:18:47,760 --> 00:18:51,520
-into a geek or he's probably
-already a geek in crypto 
+เปลี่ยนมาเป็น geek หรือเขาอาจจะ
+เป็น geek อยู่แล้วในคริปโต
 
 272
 00:18:51,520 --> 00:18:53,840
-before he joined and now he's even
-geekier. 
+ก่อนที่เขาจะมาร่วม และตอนนี้เขา
+geek กว่าเดิม
 
 273
 00:18:55,600 --> 00:18:58,720
-This is the culture. We're
-very engineering focused because we 
+นี่คือวัฒนธรรม พวกเรา
+เน้นวิศวกรรมมากเพราะ
 
 274
 00:18:58,720 --> 00:19:03,040
-are infrastructure builder. We're at very
-early stage of this technology. 
+มันเป็นโครงสร้างพื้นฐาน พวกเรา
+อยู่จุดเริ่มต้นของเทคโนโลยีนี้มากๆ
 
 275
 00:19:03,040 --> 00:19:06,320
-If we are not focusing on solving
-some of the 
+หากเราไม่เน้นแก้ปัญหาบางส่วนของ
 
 276
 00:19:06,320 --> 00:19:10,000
-fundamental or technological problems,
-then we're not doing a good 
+ปัญหาพื้นฐาน หรือปัญหาทางเทคโนโลยี
+นั้นคือเราทำงาน
 
 277
 00:19:10,000 --> 00:19:13,680
-job because whatever we built today is
-going to be used by 
+ไม่ดี เพราะว่าอะไรก็ตามที่เราสร้างวันนี้
+จะถูกใช้โดย
 
 278
 00:19:13,680 --> 00:19:16,960
-many other developers and many other
-users 
+dev อีกหลายคน และหลายๆผู้ใช้งาน
 
 279
 00:19:16,960 --> 00:19:19,840
-in the future to make all of those tech
-mainstream. 
+ในอนาคตเราจะทำให้เทคโนโลยีทั้งหมดนั้น
+อยู่ในกระแสหลัก
 
 280
 00:19:20,720 --> 00:19:23,840
-This is a very important
-thing that we 
+มันเป็นสิ่งสำคัญมากๆ
+เรา
 
 281
 00:19:24,960 --> 00:19:27,120
-feel pretty proud of and also need to
-continue 
+ค่อนข้างภูมิใจและต้องการ
 
 282
 00:19:27,840 --> 00:19:31,360
-to carry out in the growth of the
-of the Acala team 
+ที่จะพัฒนาทีม Acala
 
 283
 00:19:32,080 --> 00:19:35,040
