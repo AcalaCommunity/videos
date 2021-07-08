@@ -172,35 +172,35 @@ Kusama ฉันจะสาธิต
 
 44
 00:01:22,799 --> 00:01:26,320
-um for me to stay in this stacklist
+สำหรับฉันที่มีลิสต์การ stake
 
 45
 00:01:24,880 --> 00:01:28,720
-trusting in this
+เชื่อใจใน
 
 46
 00:01:26,320 --> 00:01:30,000
-trustless staking pool it's as simple as
+trestles staking pool มันธรรมดา
 
 47
 00:01:28,720 --> 00:01:33,280
-i just swapped some
+ที่จะ swap
 
 48
 00:01:30,000 --> 00:01:35,040
-some dots or some ksm into lksm we make
+เหรียญ DOT หรือ KSM ไปเป็น LKSM พวกเราสร้าง
 
 49
 00:01:33,280 --> 00:01:36,799
-the user interface looks like swapping
+UI ดูเหมือนการ swapping
 
 50
 00:01:35,040 --> 00:01:37,520
-but inside instead this is not this is
+แต่ข้างในจริงๆแล้วไม่ใช่แต่เป็น
 
 51
 00:01:36,799 --> 00:01:39,840
-staking
+การ staking
 
 52
 00:01:37,520 --> 00:01:40,640
