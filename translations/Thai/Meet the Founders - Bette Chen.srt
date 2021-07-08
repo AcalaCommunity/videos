@@ -656,300 +656,285 @@ Acala
 
 145
 00:09:39,120 --> 00:09:44,880
-one thing that drives us every day is:
-how we measure our success ultimately 
+สิ่งหนึ่งที่ขับเคลื่อนเราทุกวันคือ:
+ความสำเร็จที่เราได้ทำขึ้น
 
 146
 00:09:44,880 --> 00:09:49,600
-is that we can actually hand the network over
-to all of the network 
+คือเราสามารถส่งมอบเครือข่ายสู่
+ทุกเครือข่ายได้จริง
 
 147
 00:09:49,600 --> 00:09:55,520
-I say "token holders", right?
-If we can be hands off like, as a 
+ฉันพูดว่า "ผู้ถือเหรียญ" ใช่ไหม?
+เราสามารถปล่อยวางได้เหมือนกับ
 
 148
 00:09:55,520 --> 00:09:58,320
-core
-developer team, if we can actually go 
+ทีมหลักของนักพัฒนา เราสามารถไป
 
 149
 00:09:58,320 --> 00:10:00,400
-into that cave that I talked about
-earlier 
+ในถ้ำที่ฉันเคยพูดถึงก่อนหน้านี้
 
 150
 00:10:01,120 --> 00:10:05,920
-for 10 days 20 days 30 days without
-further monitoring the network, 
+10วัน 20วัน 30วัน โดยไม่
+ต้องอยู่หน้าจอ
 
 151
 00:10:05,920 --> 00:10:10,480
-it can still be
-self-governing through its 
+มันสามารถ
+ทำงานได้ด้วยตัวเองผ่าน
 
 152
 00:10:10,480 --> 00:10:14,560
-governance model
-and also economically sustainable 
+โมเดลการทำงาน
+และยังดำเนินเศรษฐกิจ
 
 153
 00:10:14,560 --> 00:10:18,480
-through economic sovereignty
-from the network and 
+ผ่านอธิปไตยทางเศรษฐกิจ
+จากเครือข่ายและ
 
 154
 00:10:19,840 --> 00:10:22,560
-the token holders can through
-governance 
+ผู้ถือเหรียญสามารถ
 
 155
 00:10:22,560 --> 00:10:25,760
-vote to continue to manage and evolve
-the network. 
+โหวตเพื่อจัดการและพัฒนาเครือข่าย
 
 156
 00:10:26,720 --> 00:10:31,280
-That what the success is! It is very
-idealistic probably, but I think it's 
+นั่นคือความสำเร็จ! มันคือ
+ไอเดียในฝัน แต่ฉันคิดว่า
 
 157
 00:10:31,280 --> 00:10:34,240
-it's very possible through
-the plan that we've put out and 
+มันเป็นไปได้ผ่าน
+แผนที่พวกเขาวางไว้และ
 
 158
 00:10:36,080 --> 00:10:39,520
-the proof that we've had so far,
-but of course everyone's anticipating 
+มันพิสูจน์มาแล้วจากหลักฐานที่ผ่านมา
+แน่นอนว่าทุกคนคาดหวังให้
 
 159
 00:10:40,240 --> 00:10:46,080
-the launch very soon. This is the
-direction that we are heading and this 
+เปิดตัวเร็วๆนี้ นี้เป็น
+ทิศทางที่เรากำลังมุ่งหน้าไปและ
 
 160
 00:10:46,080 --> 00:10:50,640
-turns the model around because,
-if I walk into a bank today, while I can 
+ใช้โมเดลนี้ เพราะว่า
+สมมติเราเดินเข้าธนาคารวันนี้ ระหว่างที่เราสามารถ
 
 161
 00:10:50,640 --> 00:10:53,920
-open
-a bank account and borrow a loan, but I 
+เปิด
+บัญชีธนาคารและกู้ยืม แต่ฉัน
 
 162
 00:10:53,920 --> 00:10:56,880
-would not be allowed to become a
-shareholder. 
+จะไม่สามารถเป็นผู้ถือหุ้น
 
 163
 00:10:56,880 --> 00:11:00,880
-Or if the CEO or other companies
-are misconducting, 
+หรือเป็น CEO หรือถ้าบริษัทอื่นๆ
+กำลังทำสิ่งไม่ถูกต้อง
 
 164
 00:11:00,880 --> 00:11:03,920
-I would not be able to vote the CEO out.
-I have 
+ฉันไม่สามารถโหวตให้ CEO ออกได้
 
 165
 00:11:03,920 --> 00:11:08,000
-none of those rights. In a
-blockchain and in how we design 
+ฉันไม่มีสิทธิเหล่านั้น ในบล็อกเชน
+และวิธีที่เราดีไซน์
 
 166
 00:11:08,000 --> 00:11:12,000
-the next generation network
-there's a co-ownership 
+เครือข่ายเน็กซ์เจน
+มีโมเดลเจ้าของร่วมกัน
 
 167
 00:11:12,000 --> 00:11:15,920
-model. Anyone who participated,
-contributed in certain ways, 
+โดนคนใดที่เข้าร่วม,
+มีส่วนร่วมในบางวิธี
 
 168
 00:11:15,920 --> 00:11:21,920
-they also co-own the platform or
-the network that they are 
+พวกเขาก็จะได้เป็นเจ้าของร่วม platform หรือ
+เครือข่ายที่พวกเขา
 
 169
 00:11:21,920 --> 00:11:25,200
-participating in.
-This flips around the 
+เข้าร่วม
+โดยมันมีผล
 
 170
 00:11:25,200 --> 00:11:28,800
-whole model
-of how you actually share the 
+กับโมเดลของ
+วิธีที่คุณแชร์
 
 171
 00:11:28,800 --> 00:11:31,280
-wealth that you generated, how you
-actually share 
+ทรัพย์สมบัติที่คุณสร้างขึ้น, วิธี
+ที่คุณแชร์
 
 172
 00:11:31,280 --> 00:11:34,240
-the ownership and also how you share
-responsibility. 
+ความเป็นเจ้าของ และวิธีการแชร์
+ความรับผิดชอบ
 
 173
 00:11:35,280 --> 00:11:37,760
-These things all come in proportion
-to 
+สิ่งเหล่านี้ล้วนเป็นไปตามสัดส่วน
 
 174
 00:11:37,760 --> 00:11:42,480
-each other, but now at least we have a
-very 
+แต่ละคน แต่ตอนนี้อย่างน้อยเรามี
 
 175
 00:11:43,680 --> 00:11:46,720
-reasonable or technological
-capable way 
+วิธีที่มีเหตุผลและเทคโนโลยี
+ที่มีความสามารถ
 
 176
 00:11:46,720 --> 00:11:50,640
-for us to all implement that and roll
-that out to many aspects of life. 
+สำหรับเราที่จะนำไปใช้และเปลี่ยนแปลง
+หลายๆด้านของชีวิต
 
 177
 00:11:51,440 --> 00:11:55,680
-For Acala, we are
-trying that out in a finance arena, 
+สำหรับ Acala เรา
+พยายามที่จะไปอยู่ในสังเวียนการเงิน
 
 178
 00:11:55,680 --> 00:11:59,760
-but this technology can be used in many
-other fields and we are only at the very 
+แต่เทคโนโลยีนี้สามารถใช้ได้ใน
+หลายๆพื้นที่ แต่เราจะเริ่มต้น
 
 179
 00:11:59,760 --> 00:12:02,480
-beginning
-of all the stuff that I was talking 
+กับสิ่งทั้งหมดที่ฉันพูดไปแล้ว
 
 180
 00:12:02,480 --> 00:12:06,480
-about. That's what drives me up every day
-because I know there are so many 
+เกี่ยวกับมัน นั่นคือสิ่งที่ขับเคลื่อนฉันทุกวัน
+เพราะว่าฉันรู้ว่ามีหลายๆ
 
 181
 00:12:06,480 --> 00:12:10,400
-things that we could we could do
-and there are also so many things we 
+อย่างที่เราทำได้ และยังมีอีกหลายสิ่ง
+หลายอย่างที่เรา
 
 182
 00:12:10,400 --> 00:12:13,120
-haven't got to the point where we can
-hand off 
+ยังไม่ถึงจุดที่เราจะปล่อยมือได้
 
 183
 00:12:13,120 --> 00:12:17,040
-to say we are truly decentralized.
-Those are all the motivators. 
+ที่จะบอกคือเราเป็นการกระจายอำนาจที่แท้จริง
+สิ่งเหล่านี้ล้วนเป็นแรงจูงใจ
 
 184
 00:12:19,040 --> 00:12:21,120
-That makes me excited and
-inspired. 
+มันทำให้ฉันตื่นเต้นและมีแรงบรรดาลใจ
 
 185
 00:12:22,080 --> 00:12:25,280
-Awesome. Thanks. And that leads
-into 
+เจ๋งมาก ขอบคุณ โอเคมีอีก
 
 186
 00:12:26,160 --> 00:12:33,200
-a couple other questions.
-Sticking to Acala for now. If you 
+สองสามคำถาม
+โอเคเรามาพูดถึง Acala ถ้าคุณ
 
 187
 00:12:33,200 --> 00:12:37,920
-had to use like three adjectives
-or three descriptive words to describe 
+ต้องอธิบายโดยใช้คำ 3 คำ
+ขอ 3 คำสำหรับ
 
 188
 00:12:37,920 --> 00:12:40,640
-Acala, what would those
-three words be? 
+Acala สามคำนั้น
+คือ
 
 189
 00:12:44,640 --> 00:12:45,680
-That's a tough question! 
+โอ้ เป็นคำถามที่ยาก!
 
 190
 00:12:50,160 --> 00:12:53,280
-So that would be a
-stable, 
+คงจะเป็น
+stable(เสถียร)
 
 191
 00:12:57,200 --> 00:12:58,880
-a trusted (in a trustless way) 
+a trusted (ในความหมายของความไม่จำเป็นต้องใช้ความเชื่อใจ)
 
 192
 00:13:02,320 --> 00:13:10,480
-and decentralized. That's great.
-Bryan's answer was "Polkadot 
+และ decentralized (การกระจายอำนาจ) นั่นเยี่ยมมาก
+คำตอบของ Bryan คือ "Polkadot
 
 193
 00:13:10,480 --> 00:13:14,400
 DeFi Hub"
-Those were the three words. So I 
+นั่นเป็น3คำ
 
 194
 00:13:14,400 --> 00:13:18,800
-rephrased the question a little bit.
-Switching to Karura, 
+ฉันเรียบเรียงคำถามใหม่นิดหน่อย
+มาที่ Karura
 
 195
 00:13:19,680 --> 00:13:22,000
-how would you describe Karura in three
-words? 
+ขอสามคำหรับหรับ Karura
 
 196
 00:13:26,880 --> 00:13:31,600
-It's actually easier.
-Karura is "hot", 
+มันง่ายกว่าเดิมนะ
+Karura คือ "hot"
 
 197
 00:13:42,800 --> 00:13:43,440
-"innovative", 
+"innovative"
 
 198
 00:13:45,040 --> 00:13:51,120
-and also "cool".
-Perfect! So, going back to 
+และ "cool"
+เยี่ยมมาก กลับมาที่
 
 199
 00:13:52,240 --> 00:13:55,840
-the beginning of all of this
-with Acala, could you maybe just tell 
+การเริ่มต้นทั้งหมดของ
+Acala คุฯช่วยบอก
 
 200
 00:13:56,400 --> 00:14:00,000
-a brief story around how the teams came
-together, how 
+เกี่ยวกับเรื่องราวว่าวิธีที่ทีมมาเจอกัน
 
 201
 00:14:00,000 --> 00:14:05,040
-Acala started, maybe what made you
-realize that there was this need for 
+Acala เริ่มได้อย่างไร บางทีสิ่งที่ทำให้คุณ
+ตระหนักว่ามีความจำเป็นที่จะต้องมี
 
 202
 00:14:05,040 --> 00:14:08,160
-this DeFi parachain,
-a stablecoin, because I know you were 
+parachain DeFi
+stablecoin เพราะฉันรู้ว่าคุณ
 
 203
 00:14:08,160 --> 00:14:12,880
-working on Laminar at the time.
-So maybe just a little history of Acala. 
+เคยมีทำงานบน Laminar บางทีอดีตของ Acala
 
 204
 00:14:14,320 --> 00:14:17,120
-Sure, so prior to
-Acala, 
+แน่นอน ดังนั้นก่อนหน้า
+Acala
 
 205
 00:14:18,560 --> 00:14:24,160
