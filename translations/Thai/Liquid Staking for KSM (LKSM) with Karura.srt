@@ -204,127 +204,127 @@ UI ดูเหมือนการ swapping
 
 52
 00:01:37,520 --> 00:01:40,640
-so i'm gonna say that i'm gonna stick
+ดังนั้นฉันจะพูดถึงมัน
 
 53
 00:01:39,840 --> 00:01:44,159
-and this is
+และนี้
 
 54
 00:01:40,640 --> 00:01:45,439
-um i'm essentially taking one ksm and
+ฉันจะนำ หนึ่ง KSM ไป
 
 55
 00:01:44,159 --> 00:01:49,360
-exchange i get z
+แลกเปลี่ยน ฉันจะ
 
 56
 00:01:45,439 --> 00:01:51,200
-i get 10 lks and bad the the this ratio
+ฉันจะได้รับ 10 LKSM โอ้ไม่ดีเลย เรทนี้
 
 57
 00:01:49,360 --> 00:01:53,040
-is determined by the system
+ถูกกำหนดโดยระบบ
 
 58
 00:01:51,200 --> 00:01:55,119
-uh we're going to improve this user
+เรากำลังพัฒนา user
 
 59
 00:01:53,040 --> 00:01:58,799
-interface later so it's always say that
+interface ทีหลังให้เป็น
 
 60
 00:01:55,119 --> 00:01:59,200
-one ksm will be equal to one lksm and
+หนึ่ง KSM จะเท่ากับ หนึ่ง LKSM
 
 61
 00:01:58,799 --> 00:02:01,600
-then
+และ
 
 62
 00:01:59,200 --> 00:02:03,360
-one lksm will be equal to more and more
+หนึ่ง LKSM จะกลายเป็น มากกว่า
 
 63
 00:02:01,600 --> 00:02:05,280
-ksm when you redeem later
+Ksm เมื่อคุณถอนในภายหลัง
 
 64
 00:02:03,360 --> 00:02:07,439
-that's like if you hold on to lksm you
+มันเหมือนกับว่าถ้าคุณถือ LKSM
 
 65
 00:02:05,280 --> 00:02:09,679
-will be growing very similar to how you
+มันจะโตขึ้นคล้ายๆกับวิธีที่คุณ
 
 66
 00:02:07,439 --> 00:02:11,200
-save money in compound your money will
+เก็บเงินและดอกเบี้ยจะทบต้นเงินคุณ
 
 67
 00:02:09,679 --> 00:02:11,760
-be growing that's like you are earning
+มันจะโตขึ้นแบบนั้นเหมือนกับคุณได้
 
 68
 00:02:11,200 --> 00:02:13,840
-interest
+ดอกเบี้ย
 
 69
 00:02:11,760 --> 00:02:15,440
-but in this particular in the in liquid
+แต่ในนี้ โดยเฉพาะในการ staking
 
 70
 00:02:13,840 --> 00:02:16,239
-staking you are earning the staking
+สภาพคล่อง คุณจะได้รับรางวัล
 
 71
 00:02:15,440 --> 00:02:20,319
-reward
+การ staking
 
 72
 00:02:16,239 --> 00:02:23,360
-the lksm go ahead again let me just
+LKSM มาที่นี่อีกครั้ง ให้ฉัน
 
 73
 00:02:20,319 --> 00:02:24,720
-explain that so in this case you can see
+อธิบายในกรณีนี้คุณสามารถดูที่
 
 74
 00:02:23,360 --> 00:02:26,560
-dot and l dot so
+Dot และ Dot นี้
 
 75
 00:02:24,720 --> 00:02:28,720
-that might be easier so what you're
+มันอาจจะง่ายกว่า สิ่งที่คุณ
 
 76
 00:02:26,560 --> 00:02:31,040
-doing here is you're staking dot
+กำลังทำอยู่ที่นี่ เมื่อคุณ staking Dot
 
 77
 00:02:28,720 --> 00:02:31,840
-and say you're staking 10 dot you would
+โดย staking 10 dot คุณจะ
 
 78
 00:02:31,040 --> 00:02:33,920
-get 10
+ได้รับ 10
 
 79
 00:02:31,840 --> 00:02:35,519
-l dot in return and those liquid dots
+และเปลี่ยนมันกลับไปเป็นสภาพคล่อง
 
 80
 00:02:33,920 --> 00:02:38,879
-can be used within
+dot สามารถใช้ใน
 
 81
 00:02:35,519 --> 00:02:39,680
-akala if it's dot but what what ruitan
+Acala แต่สิ่งที่ Ruitan พูดถึง
 
 82
 00:02:38,879 --> 00:02:42,239
-mentioned is
+คือ
 
 83
 00:02:39,680 --> 00:02:43,840
