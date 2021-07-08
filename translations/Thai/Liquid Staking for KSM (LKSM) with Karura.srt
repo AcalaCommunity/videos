@@ -4,71 +4,71 @@
 
 2
 00:00:05,759 --> 00:00:09,840
-so the next section is about liquid
+ต่อไปเป็นเรื่องเกี่ยวกับการ staking
 
 3
 00:00:07,520 --> 00:00:11,920
-staking and this is super amazing i
+สภาพคล่อง และมันน่าที่งมาก
 
 4
 00:00:09,840 --> 00:00:13,840
-i just can't wait to use this feature so
+ฉันรอไม่ไหวที่จะใช้ฟีเจอร์นี้
 
 5
 00:00:11,920 --> 00:00:14,960
-the liquid staking in essentially in a
+การ staking สภาพคล่องสรุปโดย
 
 6
 00:00:13,840 --> 00:00:17,760
-nutshell is like
+พื้นฐานแล้ว
 
 7
 00:00:14,960 --> 00:00:19,119
-it's a matter a trustless staking pool
+มันเป็นเรื่องของการ staking pool ที่ไม่จำเป็นต้องมีการเชื่อใจ
 
 8
 00:00:17,760 --> 00:00:22,080
-that you can free
+โดยคุณสามารถ
 
 9
 00:00:19,119 --> 00:00:24,080
-your stack asset so think about as like
+stack ทรัพสินย์ของคุณอย่างอิสระ
 
 10
 00:00:22,080 --> 00:00:26,400
-if you're holding kusama today
+โดยถ้าคุณกำลังถือ Kusama วันนี้
 
 11
 00:00:24,080 --> 00:00:27,519
-and if you stick with validators which
+และถ้าคุณเป็น validator (ผู้ตรวจสอบ) ซึ่ง
 
 12
 00:00:26,400 --> 00:00:29,599
-you should
+คุณควรจะ
 
 13
 00:00:27,519 --> 00:00:31,279
-every time that you want to spend or you
+ทุกๆครั้งที่คุณต้องการใช้จ่ายหรือคุณ
 
 14
 00:00:29,599 --> 00:00:32,000
-want to move your kusama you have this
+ต้องการย้าย Kusama ของคุณ โดย
 
 15
 00:00:31,279 --> 00:00:34,320
-typical
+ทั่วไป
 
 16
 00:00:32,000 --> 00:00:35,600
-seven-day outbound period for the
+จะมีระยะเวลาประมาณ 7 วัน
 
 17
 00:00:34,320 --> 00:00:37,600
-security of the network
+เพื่อความปลอดภัยของเครือข่าย
 
 18
 00:00:35,600 --> 00:00:39,760
-and on polkadot it's even longer it's 28
+และบน Polkadot จะนานกว่า มัน
 
 19
 00:00:37,600 --> 00:00:41,520
