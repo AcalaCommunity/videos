@@ -1516,113 +1516,107 @@ operator ของ 10x และตำแหน่งอะไรก็ตาม
 
 328
 00:22:27,200 --> 00:22:30,000
-products. One thing that I was
-wondering 
+กับโปรดัคของเรา สิ่งหนึ่งที่ฉัน
+สงสัย
 
 329
 00:22:30,720 --> 00:22:34,080
-is: what would
-you say your 
+คือ: อะไรคือ
 
 330
 00:22:34,080 --> 00:22:37,840
-favorite product is or which product
-that we're building you're most excited 
+โปรดัคที่คุณชอบที่สุด หรือโปรดัคไหน
+ที่คุณกำลังสร้างแล้วคุณตื่นเต้นที่สุด
 
 331
 00:22:37,840 --> 00:22:40,720
-about
-and maybe why you're excited 
+เกี่ยวกับมันหรือ
+บางที ทำไมคุณถึงตื่นเต้น
 
 332
 00:22:40,720 --> 00:22:45,520
-about that product?
-You're trying to ask me which 
+เกี่ยวกับโปรดัคนั้น
+คุณกำลังพยายามถามฉันว่า
 
 333
 00:22:46,080 --> 00:22:47,520
-child
-is my favourite. 
+โปรดัคไหนที่ฉันชอบที่สุดใช่ไหม
 
 334
 00:22:50,640 --> 00:22:54,240
-It's very hard
-to choose and then it's going to piss 
+มันยากมากที่จะเลือก และมันจะไปดูถูก
 
 335
 00:22:54,240 --> 00:23:00,560
-other children off.
-But I would say this: what 
+โปรดัคอื่นๆ
+แต่ฉันจะพูดว่า: อะไร
 
 336
 00:23:00,560 --> 00:23:04,640
-we're doing at Acala
-at least at this stage is creating a 
+ที่เรากำลังทำที่ Acala
+อย่างน้อยที่เวทีนี้คือการสร้าง
 
 337
 00:23:04,640 --> 00:23:09,520
-completely new category,
-because in the past you would see teams 
+หมวดหมู่ใหม่ที่สมบูรณ์
+เพราะว่าในอดีตคุณจะเห็นทีม
 
 338
 00:23:09,520 --> 00:23:11,840
-more focused on Layer 1, building a
-blockchain 
+โฟกัสกับ Layer1 สร้าง
+บล็อกเชน
 
 339
 00:23:12,480 --> 00:23:15,600
-and then you would also see teams
-building protocols, 
+และคุณจะเห็นทีมสร้างโปรโตคอลด้วย
 
 340
 00:23:16,480 --> 00:23:19,600
-like Compound and Ave,
-they're focusing on the protocol 
+เช่น Compound และ Aave พวกเขาโฟกัสกับโปรโตคอล
 
 341
 00:23:19,600 --> 00:23:24,880
-itself. And you would also see folks who are
-building mostly the front-end, 
+อันเดียว คุณยังจะได้เห็นคนที่
+สร้าง front-end เป็นส่วนใหญ่
 
 342
 00:23:24,880 --> 00:23:28,800
-the portfolio managers
-or the aggregators and things like that. 
+ผู้จัดการพอร์ต
+หรือ aggregator คือพวกนั้น
 
 343
 00:23:28,800 --> 00:23:30,880
-So people operate at different
-levels. 
+ดังนั้นคนทำงานที่ระดับแตกต่างกัน
 
 344
 00:23:31,600 --> 00:23:37,520
-I think it might be the first time
-that, partly powered by 
+ฉันคิดว่ามันอาจเป็นครั้งแรก
+ซึ่งส่วนใหญ่ขับเคลื่อนโดย
 
 345
 00:23:38,080 --> 00:23:40,400
-what Substrate and Polkadot have made
-possible, 
+Substrate และ Polkadot สามารถทำ
+ให้มันเป็นไปได้
 
 346
 00:23:41,200 --> 00:23:45,200
-we are a team building in multiple
-layers. So this is the entire category 
+เราคือทีมที่สร้างหลากหลาย
+Layer ดังนั้น นี่คือหมวดหมู่ทั้งหมด
 
 347
 00:23:45,200 --> 00:23:49,760
-because Acala
-is both a blockchain network as well as 
+เพราะว่า acala
+คือเครือข่ายบล็อกเชนด้วยกันกับ
 
 348
 00:23:49,760 --> 00:23:53,600
-a set of protocols. We have a stablecoin
-borrowing 
+เซ็ตของโปรโคคอล พวกเรามีโปรโตคอลการยืม
+stablecoin
 
 349
 00:23:54,640 --> 00:23:58,640
-protocol and then we have an AMM
-decentralized exchange 
+และเมื่อเรามี AMM exchange แบบ
+กระจายอำนาจ
 
 350
 00:23:58,640 --> 00:24:02,880
