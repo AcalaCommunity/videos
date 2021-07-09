@@ -1625,206 +1625,197 @@ that makes your stake asset also liquid 
 
 351
 00:24:02,880 --> 00:24:04,320
-and be used in other 
+สภาพคล่องจะถูกใช้กับ
 
 352
 00:24:04,320 --> 00:24:08,320
-DeFi protocols. We are also protocol
-builders 
+โปรโตคอล DeFi อื่น พวกเรากำลังสร้างโปรโตคอล
 
 353
 00:24:08,320 --> 00:24:11,360
-and then at the same time, on top of that,
-we also have 
+ในตอนนี้ด้วย ยิ่งกว่านั้น
+พวกเรามี
 
 354
 00:24:11,360 --> 00:24:15,360
-EVM virtual machine and down the track
-also ink! 
+EVM virtual machine และข้างล่างนี่ก็มี
 
 355
 00:24:15,360 --> 00:24:20,640
-smart contract platform as well,
-so then we can empower more developers 
+แพลตฟอร์ม​ smart contract ด้วย
+ดังนั้นเราสามารถมอบอำนาจให้ dev
 
 356
 00:24:20,640 --> 00:24:25,280
-to build apps.
-We are all these three things 
+เพื่อสร้างแอพ
+พวกเรามี 3 สิ่งนี้
 
 357
 00:24:25,280 --> 00:24:28,400
-all together and then sometimes it's
-quite hard 
+ด้วยกันและเมื่อบางครั้งมัน
+ค่อนข้างยาก
 
 358
 00:24:29,360 --> 00:24:32,400
-for people to compare us to a
-specific project 
+สำหรับผู้คนที่เปรียบเทียบเรากับ
+โปรเจ็ค
 
 359
 00:24:32,400 --> 00:24:35,920
-or team because we are all three.
-I think it is going to be, 
+หรือทีมที่เฉพาะเจาะจง เพราะเรามีครบ 3 เลย
+ฉันคิดว่ามันจะ
 
 360
 00:24:36,560 --> 00:24:41,680
-maybe more in the future, that individual
-chains will be more specialized 
+มีมากขึ้นในอนาคต โดยเชน
+จะค่อนข้างพิเศษมากขึ้น
 
 361
 00:24:41,680 --> 00:24:43,920
-because if we think the future is
-multi-chain, 
+เพราะว่าถ้าเราคิดถึงอนาคตคือ
+multi-chain
 
 362
 00:24:44,800 --> 00:24:48,720
-then it makes sense that chains are
-gonna be more specialized 
+มันจะเมคเซ้นท์ที่เชนจะ
+กลายเป็นสิ่งที่พิเศษ
 
 363
 00:24:48,720 --> 00:24:52,560
-in what they do and solve a domain
-problem really well. We 
+ในสิ่งที่พวกเขาทำและแก้ปัญหาของโดเมน
+ได้ดีมาก พวกเรา
 
 364
 00:24:52,560 --> 00:24:59,680
-purely focus on finance and trying to
-improve many of the roadblocks and 
+โฟกัสด้านการเงินโดนเฉพาะและพยายามที่จะ
+ปรับปรุงแก้ไขสิ่งที่ขวางทางและ
 
 365
 00:24:59,680 --> 00:25:04,640
-bottlenecks that we're currently facing
-in traditional finance as well as in DeFi. 
+คอขวดที่พวกเรากำลังเจอ
+ในการเงินปัจจุบันด้วยกันใน DeFi
 
 366
 00:25:07,680 --> 00:25:11,520
-If you ask me to pick a
-favourite, it's very hard, 
+ถ้าคุณขอให้ฉันเลือก
+อันที่ชอบที่สุด มันยากมาก
 
 367
 00:25:12,800 --> 00:25:18,640
-but again I think first of all
-people are gonna be really like to 
+แต่อีกครั้งฉันคิดว่าสิ่งแรกที่
+ทุกคนน่าจะชอบมากๆที่
 
 368
 00:25:18,640 --> 00:25:21,680
-use all those products especially KSM holders,
-DOTs holders, 
+จะใช้จากโปรดัคทั้งหมดโดยเฉพาะผู้ถือ KSM
+ผู้ถือ DOT
 
 369
 00:25:21,680 --> 00:25:26,160
-or folks who actually want to expose to
-the staking economy. If you have to 
+หรือผู้คนที่ต้องการสัมผัสกับระบบ
+การ staking ถ้าคุณต้อง
 
 370
 00:25:26,160 --> 00:25:27,280
-ask me to pick one, 
+ให้ฉันเลือกหนึ่งอัน
 
 371
 00:25:27,280 --> 00:25:30,800
-I would pick products related to the
-proof-of-stake 
+ฉันจะเลือกโปรดัคที่เชื่อมโยงกับ
+ระบบ proof-of-stake
 
 372
 00:25:30,800 --> 00:25:34,000
-economy because this is a completely new
-sort of economy 
+เพราะว่านี้เป็นระบบเศรษฐกิจแบบใหม่จริงๆ
 
 373
 00:25:34,000 --> 00:25:38,560
-that grows out of the
-POW or other economy, 
+ที่แตกหน่อออกมาจาก POW หรือบริษัทอื่นๆ
 
 374
 00:25:38,560 --> 00:25:41,120
-because now you can actually have a
-meaningful 
+เพราะตอนนี้คุณสามารถมี
 
 375
 00:25:41,680 --> 00:25:45,200
-and stable income out of
-dot 
+รายได้ที่เสถียรจากการ staking
 
 376
 00:25:45,200 --> 00:25:48,320
-staking and also if you are a Bitcoin
-holder, 
+dot และ ถ้าคุณเป็นผู้ถือ
+Bitcoin
 
 377
 00:25:48,880 --> 00:25:52,160
-it's also good news to you because
-you no longer need to sit 
+มันเป็นข่าวดีๆมากๆเพราะ
+คุณไม่จำเป็นที่จะถือ
 
 378
 00:25:52,720 --> 00:25:56,960
-with your Bitcoin, now it is
-multi-chain, so you can cross your 
+Bitcoin ไว้เฉยๆ ตอนนี้มันเป็น
+mult-chain ดังนั้นคุณสามารถข้ามจาก
 
 379
 00:25:56,960 --> 00:26:00,880
-Bitcoin to Acala and then you can use
-some of the products 
+Bitcoin มา Acala และคุณสามารถใช้
+บางโปรดัค
 
 380
 00:26:00,880 --> 00:26:04,480
-to actually participate in the
-proof-of-stake economy, earning the 
+เพื่อเข้าร่วมใน
+ระบบ proof-of-stake เพื่อรับ
 
 381
 00:26:04,480 --> 00:26:06,960
-staking yield
-without selling your Bitcoin. 
+ดอกเบี้ยการ staking
+โดยไม่ต้องขาย Bitcoin ของคุณ
 
 382
 00:26:08,240 --> 00:26:12,240
-This is the
-area that becomes very very interesting. 
+นี้คือ
+พื้นที่ที่น่าสนใจมากๆ
 
 383
 00:26:14,160 --> 00:26:17,360
-Very very cool.
-The proof-of-state economy 
+เจ๋งมากๆเลย
+ระบบ proof-of-stake
 
 384
 00:26:17,360 --> 00:26:21,840
-would be my pick. Great.
-That was the one I thought you were 
+จะเป็นสิ่งที่ฉันจะเลือก เยี่ยมมาก
+นี่คือสิ่งที่ฉันคิดว่า
 
 385
 00:26:21,840 --> 00:26:27,520
-going to take anyway!
-This 
+คุณจะเลือกมัน นี่
 
 386
 00:26:27,520 --> 00:26:32,560
-is just the last question. So more of
-where you see things going. If we 
+คือคำถามสุดท้าย ยิ่งคุณเห็น
+สิ่งต่างๆมากขึ้น ถ้าคุณ
 
 387
 00:26:32,560 --> 00:26:34,480
-think maybe five years down the road,
-it's 
+คิดถึงอาจจะอีก 5 ปีจากตอนนี้
 
 388
 00:26:35,040 --> 00:26:40,080
-April 2026,
-we've been working on Acala for 
+เมษา ปี 2026
+พวกเราจะทำ acala ไปอีก
 
 389
 00:26:40,080 --> 00:26:45,760
-years, maybe building things on Acala,
-how do you see 
+หลายปี เราอาจจะสร้างอีกหลายสิ่งบน Acala
+คุณจะเห็นว่า
 
 390
 00:26:45,760 --> 00:26:48,160
-this playing out in that time frame, like
-DeFi, 
+สิ่งนี้เล่นกำลังเล่นในกรอบเวลา เช่น DeFi
 
 391
 00:26:49,120 --> 00:26:52,800
-multiple chains? What would
-be your guess for how things 
+multi chain ? คุณคิดอย่างไร
+กับในอนาคต
 
 392
 00:26:52,800 --> 00:26:56,400
