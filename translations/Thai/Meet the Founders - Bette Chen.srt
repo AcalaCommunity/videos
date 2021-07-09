@@ -1620,8 +1620,8 @@ stablecoin
 
 350
 00:23:58,640 --> 00:24:02,880
-and then we also have liquid stacking
-that makes your stake asset also liquid 
+เราจะมีการ staking สภาพคล่อง
+ที่จะให้คุณ stake ทรัพย์สินด้วย
 
 351
 00:24:02,880 --> 00:24:04,320
@@ -2136,51 +2136,51 @@ Phala หรือบางเครือข่ายที่เป็นส�
 
 457
 00:31:06,320 --> 00:31:09,680
-of what we are building today,
-basically replacing the backbone 
+ซึ่งเป็นสิ่งที่เราสร้างในตอนนี้
+หรือมันคือกับเปลี่ยนกระดูกสันหลัง
 
 458
 00:31:09,680 --> 00:31:14,160
-of the tradefy. The second thing I
-would be hoping to see 
+ของโลกการเงิน อย่างที่สอง
+ที่ฉันหวังว่าจะเห็น
 
 459
 00:31:14,160 --> 00:31:20,080
-is we are able to get to our angle,
-to actually decentralize and this 
+คือการที่เราสามารถไปถึงเป้าของเรา
+เพื่อกระจายอำนาจจริงๆและ
 
 460
 00:31:20,080 --> 00:31:25,200
-network is actually operated,
-owned and governed by all the people 
+เครือข่ายที่ใช้งานได้จริง
+เป็นเจ้าของและปกครองโดยคนทุกคน
 
 461
 00:31:26,240 --> 00:31:29,040
-on Acala network rather than just
-a core team. 
+ในเครือข่าย acala โดยไม่ใช่แค่
+ทีมหลัก
 
 462
 00:31:30,720 --> 00:31:32,800
-So those will be the two things.
-Cool. 
+ดังนั้นจะเป็นทั้งสองสิ่งนี้
+เจ๋ง
 
 463
 00:31:33,840 --> 00:31:36,480
-Well, that's everything I had, so thanks
-for taking us through 
+โอเคนั่นคือทุกคำถามที่ฉันมี ขอบคุณ
+ที่ให้พวกเรา
 
 464
 00:31:37,360 --> 00:31:41,040
-a little bit more about you and your
-career and Acala. I know I 
+ได้รู้เกี่ยวกับคุณและตำแหน่งของ
+คุณใน Acala ฉันคิดว่า
 
 465
 00:31:41,040 --> 00:31:42,960
-learned something new and I think a lot
-of people will. 
+ได้เรียนรู้สิ่งใหม่ๆแล้วฉันคิดว่า
+อีกหลายๆคนก็เช่นกัน
 
 466
 00:31:44,000 --> 00:31:47,520
-Thanks for taking the time. No
-problem. Thanks for doing this, Dan.
+ขอบคุณสำหรับการสละเวลา ไม่มี
+ปัญหา ขอบคุณที่เข้ามาสัมภาษณ์ Dan
 
