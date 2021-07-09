@@ -290,273 +290,261 @@ Bitcoin"
 
 61
 00:04:59,760 --> 00:05:03,280
-while.
-I'd do something else which could be 
+ซักแปป
+ฉันจะทำสิ่งอื่นซึ่งอาจจะเป็น
 
 62
 00:05:03,280 --> 00:05:06,160
-watching some youtube videos,
-playing a game 
+ดูยูทูป
+เล่นเกม
 
 63
 00:05:10,000 --> 00:05:11,600
-that
-doesn't require me thinking, 
+ที่
+ทำให้ฉันไม่ต้องคิด
 
 64
 00:05:11,600 --> 00:05:16,160
-no strategy game that would use
-more of my mind. So just some relaxing 
+ไม่มีกลยุทธ์ที่จะใช้
+สำหรับฉัน ดังนั้นแค่ผ่อนคลาย
 
 65
 00:05:17,120 --> 00:05:20,320
-game. So I can
-just 
+กับเกม ดังนั้นฉันแค่
 
 66
 00:05:20,320 --> 00:05:23,200
-do something and have my mind not
-thinking of any 
+ทำบางอย่างที่ไม่ต้องคิด
 
 67
 00:05:23,840 --> 00:05:31,120
-hard problems.
-Yeah, Cool. 
+เกี่ยวกับปัญหา
+ใช่เลย เยี่ยม
 
 68
 00:05:33,440 --> 00:05:39,920
-Okay. So Let's move on to kind of more
-your career. You mentioned 
+โอเค เรามาเข้าเรื่องเกี่ยวกับตำแหน่งคุณดีกว่า
+คุณบอกว่า
 
 69
 00:05:40,480 --> 00:05:44,240
-your past with moving to
-New Zealand, working in startups, but 
+ในอดีตคุณย้ายมาที่นิวซีแลนด์
+ทำงาน startup
 
 70
 00:05:44,240 --> 00:05:48,480
-could you maybe talk a little bit
-about what led you to blockchain and 
+คุณช่วยบอกเราซักนิดว่า
+อะไรที่ทำให้คุณเข้ามาสู่บล็อกเชน
 
 71
 00:05:48,480 --> 00:05:51,600
-crypto and
-what got you into the Laminar 
+และคริปโต
+และอะไรทำให้คุณมาสร้าง Laminar
 
 72
 00:05:51,600 --> 00:05:56,240
-and Acala world?
-I don't remember 
+และ Acala
+ฉันจำไม่ได้
 
 73
 00:05:56,240 --> 00:06:00,480
-when I first heard of Bitcoin, but it's
-somewhere when I was still in Uni, so 
+ว่าเมื่อไหร่ที่ฉันได้ยิน Bitcoin แต่มัน
+มาจากบางที่เมื่อตอนที่ฉันยังเรียนมหาลัย ดังนั้น
 
 74
 00:06:01,120 --> 00:06:03,680
-many years ago. The first time I heard
-of Bitcoin, 
+หลายปีแล้ว ครั้งแรกที่ฉันได้รู้จัก
+Bitcoin
 
 75
 00:06:03,680 --> 00:06:06,960
-I heard it's just some kind of digital cash
-thing. 
+ฉันได้ยินมันเป็นประมาณเงินสดดิจิตอล
 
 76
 00:06:08,720 --> 00:06:12,400
-That was very early stage. Actually
-there's a 
+นั่นมันค่อนข้างแรกเริ่มมากๆ ความจริงแล้ว
+มี
 
 77
 00:06:12,400 --> 00:06:14,640
-bit more background story I need to tell
-you first. 
+เรื่องราวเมื่อก่อนฉันต้องบอกคุณก่อน
 
 78
 00:06:17,040 --> 00:06:21,360
-When I was high school,
-as a young kid, my parents 
+เมื่อฉันอยู่มัธยม
+ตอนยังเด็ก พ่อแม่ฉัน
 
 79
 00:06:21,360 --> 00:06:25,920
-didnt't give me a lot of
-pocket money. Many 
+ให้เงินฉันไม่ค่อยมาก
 
 80
 00:06:25,920 --> 00:06:28,800
-young people think try to figure a
-way to make some money so we can buy 
+เด็กหลายคนพยายาม
+หาทางที่จะหาเงินเพื่อให้เราสามารถ
 
 81
 00:06:28,800 --> 00:06:33,680
-things we like.
-As a kind of computer boy, 
+ซื้อสิ่งที่เราอยากได้ได้
+ในฐานะเด็กคอมพิวเตอร์
 
 82
 00:06:33,680 --> 00:06:37,120
-you just need to
-go to the internet, google "how to make money 
+คุณต้องเข้า
+ไปในอินเทอร์เน็ต กูเกิ้ลว่า"วิธีหาเงิน
 
 83
 00:06:37,120 --> 00:06:41,920
-with computer".
-There's a software, I 
+ด้วยคอมพิวเตอร์"
+มีซอร์ฟแวร์ ฉัน
 
 84
 00:06:41,920 --> 00:06:43,280
-don't remember
-the name, but 
+จำชื่อไม่ได้
+แต่
 
 85
 00:06:43,280 --> 00:06:46,080
-you could download. It's from probably
-some research 
+คุณสามารถดาวน์โหลด มันอาจจะ
+มาจากการค้นคว้า
 
 86
 00:06:47,200 --> 00:06:51,440
-labs or some universities. If you run
-some dispute computation software in 
+ในแล็บ หรือบางมหาลัย ถ้าคุณรันซอร์ฟแวร์
+เพื่อหาข้อผิดพลาดบางอย่างใน
 
 87
 00:06:51,440 --> 00:06:55,600
-your computer
-to do some calculations, then you 
+คอมพิวเตอร์ของคุณ
+เพื่อคำนวณมันออกมา คุณ
 
 88
 00:06:55,600 --> 00:06:58,400
-could make some money.
-Just by running a software, you can make money. 
+สามารถหาเงินได้
+โดยแค่เปิดซอร์ฟแวร์ คุณหาเงินได้
 
 89
 00:06:58,400 --> 00:07:02,080
-It sounded great, right? So, I just
-installed software and 
+มันดูดีใช่ไหม ดังนั้นฉัน
+จึงลงโปรแกรมและ
 
 90
 00:07:02,640 --> 00:07:04,880
-after probably a few months
-I earned 
+หลังจากนั้นไม่กี่เดือน
+ฉันได้รับ
 
 91
 00:07:04,880 --> 00:07:09,120
-5 US dollar and then my mom was
-saying 
+5 ดอลลาร์ จากนั้นแม่ฉันพูดว่า
 
 92
 00:07:09,760 --> 00:07:13,200
-"Why are the internet bill and the power bill
-so high this month?!". 
+"ทำไมบิลค่าอินเทอร์เน็ตและค่าไฟ
+เดือนนี้ถึงแพงนัก"
 
 93
 00:07:14,720 --> 00:07:17,760
-I figured that that's just not a
-good idea. 
+ฉันรู้ทันทีว่ามันไม่ใช่ไอเดียที่ดี
 
 94
 00:07:19,040 --> 00:07:23,440
-This is a background story.
-After a few years, I saw  
+นี่คือเรื่องราวในอดีต
+หลังจากนั้นไม่กี่ปี ฉันเห็น
 
 95
 00:07:23,440 --> 00:07:25,360
-Bitcoin saying: download
-the software, 
+Bitcoin พูดว่า: ดาวน์โหลด
+โปรแกรม
 
 96
 00:07:26,080 --> 00:07:30,640
-run it, and then you'd make some money, right?
-This was the same thing I had heard and done 
+เปิดมัน และคุณจะทำเงินได้ ใช่ไหม
+นี่คือสิ่งเดียวกันกับที่ได้เคยได้ยินและทำมัน
 
 97
 00:07:30,640 --> 00:07:33,920
-before,
-which was already proven not to be profitable. 
+มาก่อน
+ซึ่งพิสูจน์แล้วว่ามันไม่คุ้ม
 
 98
 00:07:33,920 --> 00:07:39,280
-So I missed the chance of trying to be
-become a miner. That 
+ดังนั้นฉันพลาดโอกาสที่จะ
+กลายเป็น miner นั่น
 
 99
 00:07:39,280 --> 00:07:41,280
-is probably
-one of my biggest regrets! 
+อาจจะเป็นหนึ่งในสิ่งที่ฉันเสียใจที่สุด
 
 100
 00:07:45,040 --> 00:07:45,840
-When was that?
-I was at Uni,  
+เมื่อไหร่?
+เมื่อตอนฉันอยู่มหาลัย
 
 101
 00:07:45,840 --> 00:07:49,360
-so it's probably 2009
-or 2010. 
+บางทีอาจจะ 2009
+หรือ 2010
 
 102
 00:07:50,000 --> 00:07:52,160
-Wow, so Bitcoin had just come
-out! 
+ว้าว ช่วงนั้น Bitcoin พึ่งจะมีเอง
 
 103
 00:07:52,720 --> 00:07:57,200
-Yeah just come out.
-I missed the chance to become 
+ใช่ พึ่งมี
+ฉันพลาดโอกาสที่จะกลายเป็น
 
 104
 00:07:57,200 --> 00:08:00,800
-a very early miner. I
-haven't 
+miner ในยุคแรกๆ ฉันไม่ได้
 
 105
 00:08:00,800 --> 00:08:04,240
-actually read too much about Bitcoin back
-then. I just thought, oh we have 
+อ่านให้ดีเกี่ยวกับ Bitcoin หลังจากนั้น
+ฉันแค่คิดว่า โอ้ฉันมี
 
 106
 00:08:04,240 --> 00:08:08,640
-Paypal, we have Alipay,
-that's internet money. You can 
+Paypal เรามี Alipay
+นั่นคือเงินบนอินเทอร์เน็ต คุณสามารถ
 
 107
 00:08:08,640 --> 00:08:11,840
-send money on internet very easily.
-Why would we need another thing? 
+ส่งเงินนั้นบนอินเทอร์เน็ตง่ายดาย
+ทำไมเราต้องการอย่างอื่นอีก
 
 108
 00:08:14,400 --> 00:08:16,320
-After
-many years, 
+หลังจากนั้นหลายปี
 
 109
 00:08:19,600 --> 00:08:22,160
-at the time when Bitcoin
-Cash forked 
+ช่วงที่ Bitcoin
+พุ่งขึ้นมา
 
 110
 00:08:22,720 --> 00:08:25,840
-and when Bitcoin went to news, I read
-it again. 
+และเมื่อช่วงที่ Bitcoin อยู่ในหน้าหนังสือพิมพ์
+ฉันเรียนเกี่ยวกับมันอีกครั้ง
 
 111
 00:08:27,600 --> 00:08:31,120
-My colleague also had
-some bitcoin and he was talking with me 
+เพื่อนร่วมงานของฉันก็มี
+Bitcoin และเขาคุยกับฉัน
 
 112
 00:08:33,120 --> 00:08:34,480
-about that.
-People were 
+เกี่ยวกับมัน
+ผู้คน
 
 113
 00:08:37,840 --> 00:08:38,400
-surprised
-that 
+เซอร์ไพรซ์ที่
 
 114
 00:08:38,400 --> 00:08:40,480
-when they added up the price,
-it shouldn't be more. 
+เมื่อพวกเขาเพิ่มราคา
+มันไม่ควรจะมากกว่าเดิม
 
 115
 00:08:41,280 --> 00:08:44,480
