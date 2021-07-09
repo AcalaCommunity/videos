@@ -9,293 +9,284 @@
 
 3
 00:00:13,360 --> 00:00:16,160
-where you live and where you work
-from? 
+อาศัยอยู่ที่ไหนและทำงานจากที่ไหน?
 
 4
 00:00:16,160 --> 00:00:20,960
-Yeah. This is Bryan Chen. I
-live in Oakland County, New Zealand. 
+ได้เลย ฉัน Bryan Chen ฉัน
+อาศัยอยู่ที่ Oakland ประเทศ นิวซีแลนด์
 
 5
 00:00:22,720 --> 00:00:24,720
-I'm the CTO and the
-Co-founder of Acala. 
+ฉันเป็น CTO และ
+เป็นผู้ร่วมก่อตั้ง Acala
 
 6
 00:00:26,640 --> 00:00:30,800
-Cool. I'm going to ask you a couple of
-just personal questions for us to get to 
+เจ๋ง ฉันจะถามคุณเกี่ยวกับเรื่องส่วนตัว
+ซัก2-3คำถาม เพื่อให้พวกเรา
 
 7
 00:00:30,800 --> 00:00:35,920
-know you a little bit better.
-Could you maybe tell people when 
+รู้เกี่ยวกับคุณมากขึ้น
+คุณช่วยบอกผู้คนว่าเมื่อ
 
 8
 00:00:35,920 --> 00:00:37,920
-you're not
-coding and building 
+คุณไม่ได้เขียนโค้ด
+หรือสร้าง
 
 9
 00:00:37,920 --> 00:00:41,200
-everything on Acala,
-what do you like to do in your free time? 
+สิ่งต่างๆบน Acala
+คุณชอบทำอะไรเมื่อคุณมีเวลาว่าง
 
 10
 00:00:42,480 --> 00:00:49,280
-In a lot of my free time essentially, I just
-like to code 
+ในเวลาว่างที่เยอะมากของฉัน ฉันชอบที่
+จะเขียนโค้ด
 
 11
 00:00:50,080 --> 00:00:54,080
-or maybe read new things, learn new
-things. So 
+หรืออ่านสิ่งใหม่ๆ เพื่อ
+เรียนรู้สิ่งใหม่ๆ ดังนั้น
 
 12
 00:00:54,080 --> 00:01:00,560
-not necessarily writing the code.
-I usually spend quite a lot of time 
+ไม่ใช่แค่เขียนโค้ด
+ฉันมักใช้เวลาค่อนข้างมาก
 
 13
 00:01:00,560 --> 00:01:03,440
-learning for example different new
-programming languages and different 
+กับการเรียนรู้ เช่นภาษาโปรแกรมมิ่ง
+ใหม่อันอื่นๆและ
 
 14
 00:01:04,160 --> 00:01:08,320
-new technologies and
-browsing the hackers news 
+เทคโนโลยีใหม่ๆและ
+การค้นหาข่าวของแฮกเกอร์
 
 15
 00:01:10,640 --> 00:01:14,960
-to check out any new
-interesting 
+เพื่อค้นหาสิ่งที่น่าสนใจ
 
 16
 00:01:14,960 --> 00:01:17,040
-things. So,
-I probably spend a lot of time on 
+ดังนั้น
+ฉันอาจจะใช้เวลาเป็นส่วนมาก
 
 17
 00:01:17,040 --> 00:01:22,000
-those activities. But other than
-those ones, I play some games, 
+กับกิจกรรมพวกนั้น แต่นอกเหนือ
+จากนั้น ฉันเล่นเกมบ้าง
 
 18
 00:01:22,000 --> 00:01:26,240
-just for PS5. I
-spend some times on that. I have a 
+เล่นเกม PS ฉัน
+ใช้เวลากับมัน ฉันมี
 
 19
 00:01:26,240 --> 00:01:31,680
-Nintendo Switch, also
-spend a lot of time on that. 
+Nintendo Switch
+ฉันก็ใช้เวลากับมันเหมือนกัน
 
 20
 00:01:36,240 --> 00:01:38,160
-If I get to choose
-where 
+ถ้าฉันต้องเลือก
 
 21
 00:01:38,160 --> 00:01:41,280
-to spend my spare time on, so those
-two things will be the main things. 
+ว่าที่ไหนที่ฉันจะใช้เวลาว่าง
+2อย่างที่บอกไปจะเป็นส่วนใหญ่
 
 22
 00:01:42,320 --> 00:01:48,720
-Coding, learning and gaming.
-Cool. What about something 
+เขียนโค้ด เรียนรู้ และ เล่นเกม
+เจ๋งเลย งั้นช่วยบอกบางอย่าง
 
 23
 00:01:49,440 --> 00:01:52,560
-about you, maybe something that you've
-done in your past or something 
+เกี่ยวกับคุณ บางทีเป็นบางสิ่งที่คุณ
+ทำสำเร็จแล้วในอดีตหรือบางสิ่ง
 
 24
 00:01:53,760 --> 00:01:56,000
-interesting that people
-might not know about you? 
+ที่สนใจที่ผู้คนยังไม่รู้เกี่ยวกับคุณ
 
 25
 00:01:58,240 --> 00:02:05,440
-Well, my
-life journey is not that exciting in a 
+อืมม
+ชีวิตฉันไม่ค่อยน่าตื่นเต้น
 
 26
 00:02:05,440 --> 00:02:09,200
-sense.
-I was born in 
+ซักเท่าไหร่
+ฉันเกิดที่
 
 27
 00:02:09,200 --> 00:02:12,160
-China
-and came to New Zealand when I was 13. 
+ประเทศจีน
+และย้ายมาที่ นิวซีแลนด์เมื่อฉันอายุ 13 ปี
 
 28
 00:02:13,600 --> 00:02:17,680
-I went then to high school,
-went to university. 
+ฉันเข้าเรียนมัธยม
+เข้าเรียนมหาลัย
 
 29
 00:02:22,000 --> 00:02:27,680
-All of my jobs have been
-programming jobs and writing softwares for 
+ทุกๆงานของฉัน
+เกี่ยวกับโปรแกรมมิ่ง และเขียนซอร์ฟแวร์
 
 30
 00:02:27,680 --> 00:02:32,160
-startups.
-It's kind of a normal pathway. 
+สำหรับ startup
+ค่อนข้างธรรมดา
 
 31
 00:02:32,160 --> 00:02:35,840
-There's no
-like this, yeah. 
+ไม่มีอะไร
+น่าตื่นเต้น
 
 32
 00:02:37,120 --> 00:02:46,320
-What was your first startup?
-Laminar is the first one I'm the 
+อะไรคือ startup แรกของคุณ
+Laminar คืออันแรก ฉันเป็น
 
 33
 00:02:46,320 --> 00:02:49,440
-Co-founder of, for
-all the other ones I was 
+ผู้ร่วมก่อตั้ง ส่วน
+อันอื่นๆฉัน
 
 34
 00:02:49,440 --> 00:02:53,600
-just an employee.
-The first startup I joined was 
+เป็นแค่พนักงาน
+startup แรกที่ฉันร่วมงาน
 
 35
 00:02:53,600 --> 00:02:57,360
-actually
-founded by my friends and 
+ด้วยจริงๆแล้วก่อตั้งโดยเพื่อนฉันและ
 
 36
 00:03:00,480 --> 00:03:05,040
-classmates at
-Auckland Uni. They had this idea 
+เพื่อนร่วมห้องที่
+มหาลัย Auckland พวกเขามีไอเดีย
 
 37
 00:03:05,920 --> 00:03:11,200
-as the final project
-and then they took this idea and built a 
+เป็นโปรเจ็คจบของพวกเขา
+จากนั้นพวกเขานำไอเดียไปสร้าง
 
 38
 00:03:11,840 --> 00:03:16,320
-startup from it, which is quite
-interesting. It's 
+startup ขึ้นมา มันค่อนข้าง
+น่าสนใจ มัน
 
 39
 00:03:16,320 --> 00:03:22,640
-called Kami. It's a
-PDF annotation web app. 
+ชื่อว่า Kami มัน
+เป็นเว็ปแอปคำอธิบายประกอบ PDF
 
 40
 00:03:24,000 --> 00:03:26,640
-It's getting quite a big
-traction during Covid. 
+มันเริ่มที่จะโตเพราะ
+ช่วงนี้มีโควิด
 
 41
 00:03:28,160 --> 00:03:31,360
-Due to Covid, because people need to
-study 
+เนื่องจากโควิด เพราะว่าผู้คนต้อง
+เรียน
 
 42
 00:03:31,360 --> 00:03:33,440
-from home and there's a lot of
-homeschooling. So 
+ที่บ้านและมีโฮมสคูล
+มากมาย ดังนั้น
 
 43
 00:03:34,160 --> 00:03:40,800
-those tools are getting quite useful.
-So, yeah. I was the first employee there. 
+เครื่องมือนั้นจะมีประโยชน์ทีเดียว
+ดังนั้น ใช่ ฉันทำงานที่แรกที่นั่น
 
 44
 00:03:40,800 --> 00:03:43,120
-That's
-also the time that I learned a 
+นั่นคือ
+เวลาที่ฉันได้เรียนรู้
 
 45
 00:03:43,120 --> 00:03:45,520
-lot of things,
-especially about startups. 
+หลายๆอย่าง
+โดยเฉพาะเกี่ยวกับ startup
 
 46
 00:03:50,080 --> 00:03:52,960
-Let's see. An interesting question
-that I actually 
+เอาละมาดูคำถามกัน คำถามที่น่าสนใจ
+นั่นฉัน
 
 47
 00:03:52,960 --> 00:03:56,240
-took from Tim Ferris, one of the
-podcasts that I listened to. 
+ได้รับมาจาก Tim Ferris หนึ่งใน
+podcast ที่ฉันฟังอยู่
 
 48
 00:03:56,960 --> 00:04:01,600
-This question is: "if you had a huge
-gigantic billboard that could reach 
+คำถามนี้คือ: "ถ้าคุณมีป้าย
+โฆษณาขนาดใหญ่ยักษ์ที่
 
 49
 00:04:02,160 --> 00:04:05,760
-a billion people, what would you put on
-that billboard? 
+ผู้คนอีกพันล้านจะเห็นมัน คุณจะเขียนอะไร
+ลงไปบนป้ายนั้น
 
 50
 00:04:05,760 --> 00:04:07,920
-What message would you tell
-people?" 
+ข้อความอะไรที่คุณจะบอกผู้คน"
 
 51
 00:04:09,600 --> 00:04:14,160
-The first thing come to my mind is "buy
-Bitcoin!". 
+สิ่งแรกที่เข้ามาในหัวฉันคือ"ซื้อ
+Bitcoin"
 
 52
 00:04:14,160 --> 00:04:20,640
-Yeah, that's good.
-That would have been a good 
+ใช่เลย นั่นดีมาก
+คงจะดีไม่น้อย
 
 53
 00:04:20,640 --> 00:04:22,720
-billboard in like
-2010. 
+ถ้าป้ายนั้นอยู่ในปี 2010
 
 54
 00:04:27,280 --> 00:04:32,560
-So, I know you mentioned you
-code, you learn a lot and you 
+ฉันรู้ว่าคุณพูดถึงโค้ด
+คุณเรียนรู้เยอะมากและคุณ
 
 55
 00:04:32,560 --> 00:04:35,120
-game.
-Maybe this is the same answer, but, when 
+เล่นเกม บางที่นี่อาจจะได้คำตอบเหมือนเดิม
 
 56
 00:04:35,120 --> 00:04:38,720
-you feel stressed or unfocused and you
-need 
+เมื่อคุณรู้สึกเครียดหรือไม่โฟกัสและคุณ
+ต้องการ
 
 57
 00:04:39,600 --> 00:04:43,200
-a way to get out of that,
-do you have any tactics that you use 
+ทางออก
+คุณมีวิธีการ
 
 58
 00:04:43,200 --> 00:04:44,640
-for
-dealing with that? 
+รับมืออย่างไรกับมัน
 
 59
 00:04:48,960 --> 00:04:53,600
-I would say I work very hard
-but I also fail 
+ฉันบอกเลยว่าฉันทำงานหนักมาก
+แต่ฉันก็ล้มเหลวเช่นกัน
 
 60
 00:04:53,600 --> 00:04:59,760
-when I am not productive. So I will just
-stop working for a 
+เมื่อฉันไม่สามารถผลิตผลงานได้ ฉันจะ
+หยุดทำงาน
 
 61
 00:04:59,760 --> 00:05:03,280
