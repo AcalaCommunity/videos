@@ -1819,326 +1819,320 @@ multi chain ? คุณคิดอย่างไร
 
 392
 00:26:52,800 --> 00:26:56,400
-play out?
-That's like a lifetime. I mean 
+มันยังมีอยู่ไหม
+มันเป็นช่วงเวลาชีวิต ฉันหมายถึง
 
 393
 00:26:56,400 --> 00:27:01,440
-that's like a three life time
-in crypto. You're asking me to 
+เหมือนกับ 3 เวลาชีวิตใน
+คริปโต คุณถามฉันให้
 
 394
 00:27:01,440 --> 00:27:04,480
-predict after three reincarnations
-and what is gonna happen. 
+คาดเดาหลังจากการกลับมาสามครั้ง
+และอะไรจะเกิดขึ้น
 
 395
 00:27:08,880 --> 00:27:11,120
-How to estimate?
-Because all of those things could 
+ประมาณการยังไง?
+เพราะว่าทุกส่งต่างๆนั้นสามารถ
 
 396
 00:27:11,120 --> 00:27:16,240
-happen within a year or something.
-But certainly I can see a lot of 
+เกิดขึ้นภายในหนึ่งปีหรือประมาณนั้น
+แต่ฉันสามารถเห็นหลายๆ
 
 397
 00:27:16,240 --> 00:27:18,480
-things that we build will become
-infrastructure, 
+สิ่งที่เราสร้างจะกลายเป็น
+โครงสร้างพื้นฐาน(infrastructure)
 
 398
 00:27:19,280 --> 00:27:23,040
-which means we're gonna power a lot of
-the consumer products 
+ซึ่งหมายความว่าเราเพิ่ม
+โปรดัคให้ผู้บริโภค
 
 399
 00:27:23,040 --> 00:27:26,160
-without people actually knowing it comes
-from Polkadot 
+โดยผู้คนจะไม่รู้ว่ามันมาจาก
+Polkadot
 
 400
 00:27:26,160 --> 00:27:29,760
-or it comes from Acala. If you use an
-analogy, 
+หรือมาจาก Acala ถ้าคุณใช้
+การเปรียบเทียบ
 
 401
 00:27:29,760 --> 00:27:34,720
-this will be like: today you are
-using Facebook or even Zoom, 
+มันจะเหมือนกับ: วันนี้คุณ
+ใช้ Facebook หรือแม้แต่ Zoom
 
 402
 00:27:34,720 --> 00:27:38,080
-right? You wouldn't actually think about
-the cloud service, 
+ใช่ไหม คุณจะไม่คิดเกี่ยวกับ
+บริการคลาวด์
 
 403
 00:27:38,080 --> 00:27:41,440
-which cloud service that is using at the
-back end. Also 
+ซึ่งบริการคลาวด์นั่นใช้
+อยู่ในเบื้องหลัง ดังนั้น
 
 404
 00:27:41,440 --> 00:27:44,560
-you wouldn't actually think about
-what kind of 
+คุณจะไม่คิดถึงมัน
+เหมือนกัน
 
 405
 00:27:44,560 --> 00:27:49,280
-TCP-IP or internet protocol that is
-using to package up all the data 
+TCP-IP หรือโปรโตคอลอินเทอร์เน็ต ที่ใช้
+เพื่อบรรจุข้อมูลทั้งหมด
 
 406
 00:27:49,280 --> 00:27:53,040
-transmitting across the internet.
-You wouldn't think about 
+ถ่ายทอดผ่านอินเทอร์เน็ต
+คุณจะไม่คิดเกี่ยวกับ
 
 407
 00:27:53,040 --> 00:27:58,000
-any of those at all, right? We are
-actually operating and building in that 
+สิ่งที่พูดไปทั้งหมดเมื่อกี้ ถูกมั้ย เรา
+กำลังดำเนินงานและสร้างใน
 
 408
 00:27:58,000 --> 00:27:58,960
-level today 
+ระดับนั้น วันนี้
 
 409
 00:28:00,400 --> 00:28:03,360
-in blockchain. Polkadot is more
-like the internet protocol 
+ในบล็อกเชน Polkadot เป็น
+เหมือนกับโปรโตคอลอินเทอร์เน็ต
 
 410
 00:28:03,920 --> 00:28:06,400
-and then Acala is more of like finance
-focused 
+และ acala จะเป็นเหมือนกับโครงสร้างพื้นฐาน
 
 411
 00:28:06,960 --> 00:28:10,640
-infrastructure to route the
-payments and also 
+ที่โฟกัสกับระบบการเงิน
+เพื่อกำหนดเส้นทางการชำระเงินและ
 
 412
 00:28:10,640 --> 00:28:14,240
-to be able to support many of those
-situations. 
+เพื่อที่จะสนับสนันสถานการณ์แบบนั้น
 
 413
 00:28:15,680 --> 00:28:17,760
-If you if you think in a
-few years time, 
+ถ้าคุณคิดว่าในอีก
+ไม่กี่ปีข้างหน้า
 
 414
 00:28:18,720 --> 00:28:22,800
-a user or maybe my mom and dad would
-just like swipe their debit card or 
+ผู้ใช้หรือบางทีอาจจะเป็นแม่ฉันหรือพ่อฉันจะ
+รูดบัตรเดบิตหรือ
 
 415
 00:28:22,800 --> 00:28:26,880
-credit card like how they use it today.
-I think the future will be 
+บัตรเครดิตเช่นเดียวกับที่พวกเขาใช้วันนี้
+ฉันคิดว่าในอนาคตจะ
 
 416
 00:28:28,280 --> 00:28:31,840
-HyFi, so you know DeFi and CeFi all merge
-together 
+เป็น Hyfi ที่เหมือนกับ DeFiและ CeFi มารวมอยู่
+ด้วยกัน
 
 417
 00:28:31,840 --> 00:28:36,960
-as a hybrid finance, as HyFi. So my mom
-and dad will probably still interface 
+เหมือนเป็นระบบการเงินแบบไฮบริดแบบ HyFi ดังนั้น
+แม่ฉันและพ่อบางทีอาจจะยังอยู่กับ
 
 418
 00:28:36,960 --> 00:28:41,520
-with many of the familiar providers.
-There could be new ones but they will 
+ผู้ให้บริการที่คุ้นเคยมากมาย
+อาจมีใหม่เกิดขึ้นแต่พวกเขาจะ
 
 419
 00:28:41,520 --> 00:28:44,400
-still use the similar interface like
-swap a credit card 
+ยังคงใช้แบบเดิมๆเหมือนกับ
+การรูดบัตรเครดิต
 
 420
 00:28:44,400 --> 00:28:48,720
-or it's an in-app,
-swipe and pay QR code payment 
+หรือในแอป
+รูดและจ่ายผ่าน QR code
 
 421
 00:28:48,720 --> 00:28:51,760
-process no different from
-WeChat pay or whatever that we are 
+ไม่ต่างจาก
+การจ่ายผ่าน WeChat หรืออะไรก็ตามที่พวกเรา
 
 422
 00:28:51,760 --> 00:28:55,840
-familiar
-with today; however behind the scene 
+คุ้นเคย
+ในทุกวันนี้; อย่างไรก็ตามเบื้องหลัง
 
 423
 00:28:55,840 --> 00:28:59,200
-it's probably powered by many different
-blockchain 
+มันอาจจะถูกขับเคลื่อนโดยบล็อกเชน
+หลายๆเชน
 
 424
 00:28:59,920 --> 00:29:02,560
-applications and services. So you can
-imagine 
+ที่เป็นแอปพลิเคชันและบริการ ดังนั้นคุณสามารถ
+จินตนาการ
 
 425
 00:29:03,680 --> 00:29:07,200
-my mom is probably going to
-swipe the card 
+ว่าแม่ฉันอาจจะ
+รูดบัตรเครดิต
 
 426
 00:29:07,200 --> 00:29:12,560
-or save some of the dollars into the card
-and that could potentially 
+หรือเก็บเงิน dollar ไว้ในบัตร
+และนั่นสามารถเป็นเส้นทาง
 
 427
 00:29:12,560 --> 00:29:17,360
-route it into
-Acala DeFi swiss 
+ที่มีโพเทนเชียลมาสู่
+Acala Defi swiss
 
 428
 00:29:17,360 --> 00:29:21,760
-or some of the portfolio or
-investment vehicle built on top of Acala 
+หรือบางพอร์ทหรือ
+การลงทุนยานพาหนะสร้างโดย acala
 
 429
 00:29:22,400 --> 00:29:25,680
-to make that money work for her. It
-could turn into a 
+เพื่อให้เงินเหล่านั้นทำงานให้เธอ มัน
+สามารถเป็น
 
 430
 00:29:25,680 --> 00:29:27,840
-5% percent or 10% percent savings
-account. 
+5% หรือ 10% ของบัญชีเงินฝาก
 
 431
 00:29:30,400 --> 00:29:32,400
-Now she's been hearing me
-or hearing Bryan 
+ตอนนี้เธอได้ยินฉัน
+หรือได้ยินจาก bryan
 
 432
 00:29:32,400 --> 00:29:37,520
-talking about buy Bitcoin and then
-every 
+พูดเกีย่วกับการซื้อ Bitcoin และ
+ทุกๆ
 
 433
 00:29:37,520 --> 00:29:40,800
-5% of her
-saving 
+5%ของเงินเก็บเธอ
 
 434
 00:29:40,800 --> 00:29:46,560
-goes automatically into Bitcoin.
-And then maybe 10% goes 
+จะเข้ามาสู่ Bitcoin อัตโนมัติ
+และบางที 10%
 
 435
 00:29:46,560 --> 00:29:48,960
-into DOT
-staking and then through that 
+มาสู่การ staking
+DOT และเมื่อเวลาผ่านไป
 
 436
 00:29:48,960 --> 00:29:52,320
-staking automatically gets
-converted back to dollars 
+การ staking จะเปลี่ยนเป็น dollar
+ให้อัตโนมัติ
 
 437
 00:29:52,320 --> 00:29:56,480
-and then she can use that to buy
-groceries. All of this 
+แล้วเธอก็สามารถใช้มันเพื่อซื้อของ
+ได้ ทั้งหมดนี้
 
 438
 00:29:56,480 --> 00:30:00,160
-will happen within her debit
-card or just 
+จะเกิดขึ้นในบัตรเดบิตของเธอ
+หรือ
 
 439
 00:30:00,160 --> 00:30:03,920
-a simple app that she can see
-how much dollar in, 
+แค่แอพธรรมดาๆที่เธอสามารถเห็น
+เงินดอลลาร์
 
 440
 00:30:03,920 --> 00:30:07,280
-what is the interest rate,
-probably not much different 
+อะไรคือเรทดอกเบี้ย
+บางทีอาจจะไม่ต่างจาก
 
 441
 00:30:07,280 --> 00:30:11,520
-apart from the financial aspect that
-looks way better and more liberating. But 
+ระบบการเงินที่
+ดูดีกว่าและเสรีกว่า แต่
 
 442
 00:30:11,520 --> 00:30:12,480
-behind the scene, 
+เบื้องหลัง
 
 443
 00:30:12,480 --> 00:30:16,800
-this is all powered by many
-different networks working together. 
+มันจะขับเคลื่อนโดย
+หลายๆเครือข่ายทำงานด้วยกัน
 
 444
 00:30:17,680 --> 00:30:20,320
-On top of that, folks
-probably don't want 
+ยิ่งไปกว่านั้น ผู้คน
+อาจจะไม่อยาก
 
 445
 00:30:20,880 --> 00:30:24,080
-their transaction history being seen by
-anybody. 
+ให้ประวัติการธุรกรรมถูกเห็นจากผู้อื่น
 
 446
 00:30:24,080 --> 00:30:28,000
-So this could be like you go Bitcoin
-and then jump onto Polkadot, 
+ดังนั้นนี้สามารถเป็นเหมือน Bitcoin
+และกระโดดมาสู่ Polkadot
 
 447
 00:30:28,000 --> 00:30:32,400
-jump onto Acala and then jump onto
-Phala or some other privacy networks 
+กระโดดมาที่ acala และการโดดไปที่
+Phala หรือบางเครือข่ายที่เป็นส่วนตัว
 
 448
 00:30:32,400 --> 00:30:36,160
-and it comes back with a privacy,
-a sort of token, that hides all the 
+และมันมากับนโยบายความเป็นส่วนตัว
+เป็นเหรียญ ที่ซ่อน
 
 449
 00:30:36,160 --> 00:30:39,520
-transaction history,
-but you still get whatever 
+ประวัติการทำธุรกรรม
+แต่คุณจะยังคงได้รับ
 
 450
 00:30:39,520 --> 00:30:43,600
-returns that you get
-through the app. All I'm 
+ผลตอบแทนที่คัณได้รับ
+ผ่านแอพ ทั้งหมด
 
 451
 00:30:43,600 --> 00:30:48,160
-trying to say is that
-we will gonna become the bottom of 
+ที่ฉันพยายามจะพูดคือ
+เราจะกลายเป็นด้านล่าง
 
 452
 00:30:48,160 --> 00:30:51,280
-the iceberg
-and then there will be folks, that we 
+ของภูเขาน้ำแข็ง
+และเมื่อมีคน ที่เรา
 
 453
 00:30:51,280 --> 00:30:54,800
-integrate with, would deliver the tip of
-the iceberg to a 
+รวมเข้ากัน จะส่งมอบส่วนยอด
+ของภูเขาน้ำแข็ง
 
 454
 00:30:54,800 --> 00:30:58,720
-very very wide-mass market.
-That will be 
+ไปสู่ตลาดแมสที่กว้างใหญ่ไพศาล
+มันจะ
 
 455
 00:31:00,080 --> 00:31:02,640
-ideal. I would be very happy to see
-that. 
+เป็นสิ่งในอุดมคติ ฉันจะมีความสุขมาก
+ที่เห็นมัน
 
 456
 00:31:02,640 --> 00:31:05,760
-Many many more people, like mass-market
-adoption 
+หลายๆๆคน เช่นตลาดแมส
 
 457
 00:31:06,320 --> 00:31:09,680
