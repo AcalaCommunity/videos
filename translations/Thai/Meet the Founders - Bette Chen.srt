@@ -1317,222 +1317,202 @@ dev อีกหลายคน และหลายๆผู้ใช้งา
 284
 00:19:35,680 --> 00:19:38,880
 ผู้มีความสามารถ ฉันคิดว่า
-10เท่า
+dev ของ 10x
 
 285
 00:19:38,880 --> 00:19:42,880
-developers tend to attract 10x
-developers and also 10x 
+มีแนวโน้มที่จะจูงใจ dev 10x ด้วยกัน
+และ
 
 286
 00:19:42,880 --> 00:19:46,800
-operators and also 10x whatever
-attracts 10x 
+operator ของ 10x และตำแหน่งอะไรก็ตาม
 
 287
 00:19:47,680 --> 00:19:52,000
-rows, right. Ithink we're lucky
-enough. We started off 
+ที่จูงใจตำแหน่ง 10x ใช่ ฉันคิดว่า
+พวกเราโชคดีพอ เราเริ่ม
 
 288
 00:19:52,000 --> 00:19:55,280
-with many of the 10x talents founding
-the team 
+ด้วยผู้มีความสามาถจาก 10x มาก่อตั้งทีม
 
 289
 00:19:55,280 --> 00:19:59,280
-and then we continue to attract
-those talents. So hopefully 
+และเราก็ดึงดูดผู้มีความสามารถเหล่านั้นต่อไป
+หวังว่า
 
 290
 00:19:59,280 --> 00:20:03,120
-that's gonna
-carry on as well. A high performer is 
+มันจะไปต่อได้ ผู้ที่เพอร์ฟอร์มได้สูง
 
 291
 00:20:03,120 --> 00:20:06,800
-certainly one of the
-culture here as well. And then 
+เป็นหนึ่งในวัฒนธรรมที่นี่เช่นกัน และ
 
 292
 00:20:06,800 --> 00:20:08,960
-the third aspect, which
-we actually rate very 
+ด้านที่สาม ซึ่งเรา
+ให้เรทคะแนน
 
 293
 00:20:08,960 --> 00:20:12,800
-highly, probably number one, is integrity.
-This is 
+สูงมาก บางทีอาจจะอันดับหนึ่ง คือความซื่อสัตย์
 
 294
 00:20:14,400 --> 00:20:17,920
-not just saying we have to hold
-ourselves very high standard, but 
+นี้ไม่ได้หมายความว่าเรามาตรฐานสูงนะ แต่
 
 295
 00:20:17,920 --> 00:20:20,960
-we are in the industry that is
-evolving. 
+เราอยู่ในอุตสาหกรรมที่มีการพัฒนา
 
 296
 00:20:20,960 --> 00:20:26,480
-In any early innovation or field
-you're gonna have a lot of grey areas, 
+ในนวัฒกรรมหรือพื้นที่ก่อนคนอื่น
+เราต้องมีพื้นที่สีเทาเยอะๆ
 
 297
 00:20:26,480 --> 00:20:29,280
-uncertainties
-and you've got to have this wild group 
+ความไม่แน่นอน
+และต้องมีกลุ่มคน
 
 298
 00:20:29,280 --> 00:20:31,600
-of people who are trying to just
-leverage 
+แบบนี้ที่พยายามใช้ประโยชน์
 
 299
 00:20:31,600 --> 00:20:37,200
-technology for purposes other than
-progressing our human 
+จากเทคโนโลยีเพื่อวัตถุประสงค์อื่น
+มากกว่าความก้าวหน้าของมนุษย์
 
 300
 00:20:37,200 --> 00:20:40,480
-improvement
-and doing good to the society. 
+การปรับปรุง
+และการทำความดีเพื่อสังคม
 
 301
 00:20:42,240 --> 00:20:48,160
-And sometimes it's a very fine line.
-So we hold integrity very very 
+และบางครั้งก็เป็นเส้นทางที่ดีมาก
+ดังนั้นเราจึงยึดมั่นในความซื่อสัตย์สูง
 
 302
 00:20:48,160 --> 00:20:51,040
-highly
-within the team, through individuals but 
+มากๆกับทีม แต่ละบุคคลแต่
 
 303
 00:20:51,040 --> 00:20:56,160
-also through how we conduct
-all the activities that we do internally 
+ด้วยวิธีการที่เราปฏิบัติ
+กิจกรรมทั้งหมดที่เราทำทั้งภายใน
 
 304
 00:20:56,160 --> 00:20:59,120
-and
-externally. Also, 
+และภายนอก
 
 305
 00:21:00,400 --> 00:21:05,120
-I think integrity and trust, even though
-we are trying to build trustless network, 
+ฉันคิดว่าความซื่อสัตย์และความไว้วางใจแม้ว่า
+เรากำลังพยายามสร้างเครือข่าย trustless
 
 306
 00:21:05,120 --> 00:21:08,000
-but trust is something that is very hard
-to build 
+แต่ความเชื่อใจเป็นสิ่งที่ยากมากในการสร้าง
 
 307
 00:21:08,640 --> 00:21:13,120
-and very easy to break. We take that
-very very seriously and every single 
+และง่ายมากที่จะพังลง เราจริงจัง
+มากๆกับทุกๆ
 
 308
 00:21:13,120 --> 00:21:15,200
-person
-in the team holds very high 
+คนในทีม รับผิดชอบ
 
 309
 00:21:15,200 --> 00:21:19,360
-responsibility
-of making something that could benefit 
+ในการทำที่อาจเป็นประโยชน์ต่อ
 
 310
 00:21:19,360 --> 00:21:23,680
-many people.
-But also many of the information and 
+คนจำนวนมาก แต่ยังมีข้อมูลมากมาย
 
 311
 00:21:23,680 --> 00:21:27,120
-and things that we handle are highly
-critical 
+ที่เราจัดการค่อนข้างสำคัญ
 
 312
 00:21:27,120 --> 00:21:30,320
-and sensitive to many of the users that
-we will serve. 
+และเซนซิทีฟสำหรับผู้ใช้หลายคนที่เรา
+จะให้บริการ
 
 313
 00:21:31,840 --> 00:21:33,440
-I think those three
-things 
+ฉันคิดว่าสามสิ่งนี้
 
 314
 00:21:34,240 --> 00:21:38,320
-describe who we are:
-still very nerdy engineering 
+อธิบายว่าเราเป็นใคร:
+ยังคงโฟกัสที่วิศวกรรม
 
 315
 00:21:38,320 --> 00:21:41,440
-focused and very passionate about
-what we are doing, 
+และแพสชั่นกับสิ่งที่เราทำ
 
 316
 00:21:42,080 --> 00:21:45,760
-but also holds very high
-integrity 
+แต่ยังยึดถือกับความซื่อสัตย์
 
 317
 00:21:45,760 --> 00:21:48,400
-and at the same time we're also kind
-of fun because 
+และในขณะเดียวกัน พวกเราก็สนุก
+กับมันเพราะ
 
 318
 00:21:49,360 --> 00:21:52,800
-we're very straightforward team.
-Mostly because 
+เราเป็นทีมที่ตรงไปตรงมามากๆ
+ส่วนใหญ่เป็นเพราะ
 
 319
 00:21:52,800 --> 00:21:55,600
-engineering driven but we're also
-intentionally trying to be very 
+ขับเคลื่อนโดยวิศวกรรม
+แต่เราก็ยังตั้งใจพยายาม
 
 320
 00:21:55,600 --> 00:21:59,520
-straightforward.
-We say what we think, we don't hold 
+ตรงไปตรงมา
+เราพูดสิ่งที่คิด เราไม่ยกย่อง
 
 321
 00:21:59,520 --> 00:22:03,280
-anybody
-personally but we discuss things very 
+ใครเป็นส่วนตัว แต่เราคุยกับแบบ
 
 322
 00:22:03,280 --> 00:22:06,080
-openly
-and we have fun together. 
+เปิดกว้างและเรามีความสุขไปด้วยกัน
 
 323
 00:22:06,080 --> 00:22:09,760
-There's a whole bunch of snowboarders,
-a whole bunch of game players, 
+มีนักเล่นสโนว์บอร์ดเต็มหมดเลย
+มีนักเล่นเกม
 
 324
 00:22:11,280 --> 00:22:15,920
-and there's many things that we enjoy,
-not just like working and coding and doing 
+และอีกมากมายที่เราสนุกด้วยกัน
+ไม่ใช่แค่ทำงานหรือโค้ดดิ้งหรือทำบางสิ่ง
 
 325
 00:22:15,920 --> 00:22:19,840
-stuff together, but also
-playing together as well. That's 
+ขึ้นมาด้วยกัน แต่พวกเรา
+เล่นด้วยกันด้วย นั่น
 
 326
 00:22:19,840 --> 00:22:22,400
-how we are today.
-Awesome. 
+คือพวกเราทุกวันนี้
+เจ๋งมาก
 
 327
 00:22:24,080 --> 00:22:27,200
-So in your role you're doing a
-lot with our 
+ดังนั้นในบทบาทของคุณ
+คุณกำลังทำสิ่งมากมาย
 
 328
 00:22:27,200 --> 00:22:30,000
