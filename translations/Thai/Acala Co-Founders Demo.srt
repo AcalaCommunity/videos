@@ -40,35 +40,35 @@ cross-chain defi ไว้สำหรับคุณ
 
 11
 00:00:20,800 --> 00:00:25,359
-um i guess before diving in um because a
+ก่อนที่ฉันจะเข้าสู่เนื้อหาเพราะ
 
 12
 00:00:23,519 --> 00:00:26,560
-color has been around for a while last
+ฉันเคยนำเสนอเดโม
 
 13
 00:00:25,359 --> 00:00:29,279
-year we run
+เมื่อปีที่แล้ว
 
 14
 00:00:26,560 --> 00:00:30,000
-again the same poker d5 demo we've
+เกี่ยวกับ Defi ของ Polkadot
 
 15
 00:00:29,279 --> 00:00:33,440
-already run
+พวกเราเคยนำเสนอ
 
 16
 00:00:30,000 --> 00:00:35,280
-a full suite of d5 applications
+ตัวเต็มของ defi แอพพลิเคชั่น
 
 17
 00:00:33,440 --> 00:00:37,360
-and then it's great to see this year
+และปีนี้มันยอดเยี่ยมมากที่เห็น
 
 18
 00:00:35,280 --> 00:00:39,760
-everyone you know has got their
+ทุกๆคนได้ติดตั้ง
 
 19
 00:00:37,360 --> 00:00:41,680
