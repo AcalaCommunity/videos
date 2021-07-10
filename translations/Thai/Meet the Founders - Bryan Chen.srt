@@ -563,148 +563,141 @@ Bitcoin fork
 
 118
 00:08:52,000 --> 00:08:55,120
-and then combined value of both is
-much higher than 
+และเมื่อรวมมูลค่าของทั้งคู่
+มันจะสูงกว่า
 
 119
 00:08:55,120 --> 00:09:00,080
-original value and this was quite
-interesting. That was the thing that 
+มูลค่าปกติ และมันค่อนข้าง
+น่าสนใจเลย นี่คือสิ่งที่
 
 120
 00:09:00,080 --> 00:09:04,080
-got me looking into bitcoin
-again. 
+ทำให้ฉันหันมามอง bitcoin
+อีกครั้ง
 
 121
 00:09:05,680 --> 00:09:08,400
-I was previously following
-Bitcoin, but just reading it, 
+ก่อนหน้านี้ฉันติดตาม
+Bitcoin แต่แค่อ่านๆ
 
 122
 00:09:08,400 --> 00:09:11,760
-I never actually thought about buying it.
-But this event got 
+ฉันไม่เคยคิดที่จะซื้อมัน
+แต่อีเวนท์นี้
 
 123
 00:09:11,760 --> 00:09:14,720
-me more interesting, so I considered
-that maybe I should buy some. 
+ทำให้ฉันสนใจมากขึ้น
 
 124
 00:09:15,680 --> 00:09:21,120
-Of course, you really
-would have the motivation to study all 
+แน่นอน คุณมี
+แรงจูงใจในการศึกษา
 
 125
 00:09:21,120 --> 00:09:24,720
-these things if you have your stake
-into it. it's not a big stake but of 
+สิ่งต่างๆนั้นถ้าคุณมีการ stake
+มัน ไม่ต้อง stake เยอะแต่
 
 126
 00:09:24,720 --> 00:09:30,400
-course it's some stake. Then I
-spent more time researching, 
+ต้อง stake บ้าง จากนั้นฉัน
+ใช้เวลาค้นคว้า
 
 127
 00:09:31,520 --> 00:09:32,720
-reading
-Bitcoin news and 
+อ่านเกี่ยวกับข่าวบิตคอยน์และ
 
 128
 00:09:37,120 --> 00:09:41,200
-actually spent time in
-reading the bitcoin white paper, reading 
+ใช้เวลาในการอ่านไวท์เปเปอร์ของ bitcoin อ่าน
 
 129
 00:09:41,200 --> 00:09:44,800
-all those new technologies.
-I started thinking that 
+เทคโนโลยีทั้งหมดนั่น
+ฉันเริ่มคิดว่า
 
 130
 00:09:44,800 --> 00:09:47,440
-this could change
-everything! 
+มันจะเปลี่ยนแปลงทุกสิ่ง
 
 131
 00:09:52,480 --> 00:09:54,800
-I guess
-that led to your path of 
+ฉันเดา
+ว่านั่นนำไปสู่เส้นทางของ
 
 132
 00:09:54,800 --> 00:10:00,560
-of Co-founding Laminar and Acala?
-Yes, that made me think 
+ผู้ร่วมก่อตั้ง Laminar และ Acala ใช่ไหม
+ใช่ นั่นทำให้ฉันคิด
 
 133
 00:10:00,560 --> 00:10:03,840
-that
-I really wanted to work in this industry 
+ว่าฉันอยากที่จะทำงานในอุตสาหกรรมนี้จริงๆ
 
 134
 00:10:04,800 --> 00:10:11,040
-I spent more time
-understanding the low-level thing, how it 
+ฉันใช้เวลามากขึ้น
+ในการเข้าใจสิ่งเล็กๆน้อยๆ วิธี
 
 135
 00:10:11,040 --> 00:10:15,120
-actually works
-and think about if I am 
+ที่มันทำงาน
+และคิดว่าถ้าฉัน
 
 136
 00:10:15,120 --> 00:10:18,160
-the guy
-designing the things, then how I want to 
+เป็นคนที่ออกแบบมัน ฉันจะออกแบบ
 
 137
 00:10:18,160 --> 00:10:20,880
-design those things?
-I started thinking about those things. 
+มันอย่างไร
+ฉันเริ่มคิดเกี่ยวกับมัน
 
 138
 00:10:22,000 --> 00:10:26,160
-Cool.
-I know we're all working 
+เจ๋งเลย
+ฉันรู้ว่าเราทำงาน
 
 139
 00:10:26,720 --> 00:10:30,640
-really hard right now, and we will
-be for the foreseeable future, but 
+หนักกันมากๆตอนนี้ และเรา
+มองไปถึงอนาคต แต่
 
 140
 00:10:32,400 --> 00:10:35,200
-when you do have late
-nights and early mornings, 
+เมื่อคุณมีเวลาช่วงดึก
+หรือช่วงเช้าตรู่
 
 141
 00:10:35,200 --> 00:10:38,640
-what would you say is your
-inspiration to keep 
+อะไรที่เป็นแรงบรรดาลใจให้
 
 142
 00:10:39,440 --> 00:10:42,080
-going? What's your
-ultimate goal? 
+คุณไปต่อ อะไรคือ
+เป้าหมายของคุณ
 
 143
 00:10:43,920 --> 00:10:46,480
-I like to build stuff. I like to
-see 
+ฉันชอบที่สร้างสิ่งต่างๆ ฉันชอบ
+ที่จะเห็น
 
 144
 00:10:47,280 --> 00:10:56,080
-the stuff I have been working on.
-In my previous job, I helped 
+สิ่งที่ฉันสร้างขึ้นมา
+ในงานก่อนหน้านี้ ฉันช่วย
 
 145
 00:10:56,080 --> 00:11:00,320
-build a product series, see it launched and
-see how it's helping people. It's really 
+สร้างซีรีย์โปรดัค เมื่อเห็นมันเปิดตัว
+และเห็นว่ามันช่วยผู้คนได้อย่างไร มัน
 
 146
 00:11:00,320 --> 00:11:03,760
-making things better
-and improving people's lives. But, 
+มันช่วยให้หลายๆสิ่งดีขึ้น
+และพัฒนาคุณภาพชีวิตผู้คน
 
 147
 00:11:04,880 --> 00:11:08,720
