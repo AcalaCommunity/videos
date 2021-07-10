@@ -124,111 +124,111 @@ cross-chain defi ไว้สำหรับพวกคุณ
 
 32
 00:01:00,559 --> 00:01:04,239
-um where everything as a service um
+ที่ทุกๆอย่างจะเป็นเซอร์วิส
 
 33
 00:01:03,440 --> 00:01:06,479
-that's where
+นั้นคือที่ที่
 
 34
 00:01:04,239 --> 00:01:08,240
-we're heading i think um so we kind of
+เรากำลังมุ่งไป พวกเรา
 
 35
 00:01:06,479 --> 00:01:11,439
-believe that you know future will be
+เชื่อว่า ในอนาคต
 
 36
 00:01:08,240 --> 00:01:14,000
-multi-chain and then a specialization
+multi-chain และความเชี่ยวชาญพิเศษ
 
 37
 00:01:11,439 --> 00:01:14,560
-uh it's gonna trump uh generalization so
+จะมาเหนือกว่าดีกว่าที่ทั่วไป
 
 38
 00:01:14,000 --> 00:01:16,640
-you're gonna
+คุณกำลังทำให้
 
 39
 00:01:14,560 --> 00:01:18,240
-your chain is gonna specialize in a
+เชนของคุณมีความพิเศษขึ้นมาใน
 
 40
 00:01:16,640 --> 00:01:20,000
-specific domain and do
+โดเมนเฉพาะเจาะจงและทำงาน
 
 41
 00:01:18,240 --> 00:01:21,439
-uh certain things really well and solve
+บางสิ่งบางอย่างได้ดีและแก้
 
 42
 00:01:20,000 --> 00:01:23,759
-some problems very well
+ปัญหาได้ดีอีกด้วย
 
 43
 00:01:21,439 --> 00:01:25,040
-um and also change shouldn't be rigid it
+และเชนต่างๆไม่ควรเป็นแบบตายตัว
 
 44
 00:01:23,759 --> 00:01:26,880
-should be upgradable
+แต่ควรที่จะสามารถอัพเกรดได้
 
 45
 00:01:25,040 --> 00:01:28,640
-so that's that's what we think it's
+นั้นคือสิ่งที่พวกเราคิดว่ามัน
 
 46
 00:01:26,880 --> 00:01:30,960
-going to happen and also
+กำลังจะเกิดขึ้นและ
 
 47
 00:01:28,640 --> 00:01:31,920
-where we put our words out and build our
+นั้นคือสิ่งที่พวกเราบอกพวกคุณและสร้าง
 
 48
 00:01:30,960 --> 00:01:35,520
-application
+แอพพลิเคชั่นของพวกเราขึ้นมา
 
 49
 00:01:31,920 --> 00:01:38,159
-so this is the akala stack if you
+ดังนั้นนี่คือ acala stack ถ้าคุณ
 
 50
 00:01:35,520 --> 00:01:39,600
-uh haven't seen this one yet so a color
+ยังไม่เคยเห็นมันมาก่อน acala
 
 51
 00:01:38,159 --> 00:01:40,479
-is still you know a full-fledged
+คือบล็อคเชนแบบ
 
 52
 00:01:39,600 --> 00:01:42,720
-blockchain
+เต็มรูปแบบ
 
 53
 00:01:40,479 --> 00:01:44,560
-but it's ledger and trust is provided by
+แต่บัญชีและความน่าเชื่อถือนั้นจะได้มาจาก
 
 54
 00:01:42,720 --> 00:01:47,119
-polka dot so this is what uh
+ระบบ polkadot นั้นก็คือสิ่งที่
 
 55
 00:01:44,560 --> 00:01:47,600
-you know i uh originally you know term
+รู้จักกันในคำนิยาม
 
 56
 00:01:47,119 --> 00:01:50,320
-as
+ที่ว่า
 
 57
 00:01:47,600 --> 00:01:51,360
-uh network security or trust as a
+network security หรือความน่าเชื่อถือคือ
 
 58
 00:01:50,320 --> 00:01:53,360
-service
+เซอร์วิส
 
 59
 00:01:51,360 --> 00:01:55,280
