@@ -232,31 +232,31 @@ network security หรือความน่าเชื่อถือคื
 
 59
 00:01:51,360 --> 00:01:55,280
-um and also in the middle of it as
+และส่วนตรงกลางนั้นคือ
 
 60
 00:01:53,360 --> 00:01:57,119
-oakare's default offerings
+สิ่งที่ acala เสนอให้ผู้ใช้
 
 61
 00:01:55,280 --> 00:01:59,040
-uh they're offered you know a service
+สิ่งเหล่านี้คือเซอร์วิส
 
 62
 00:01:57,119 --> 00:02:00,479
-like customizable modules right
+ที่สามารถปรับแต่งโมดูลได้
 
 63
 00:01:59,040 --> 00:02:02,079
-um so for example you know we've got
+ยกตัวอย่างเช่น เรามี
 
 64
 00:02:00,479 --> 00:02:04,640
-this multicollato
+หลักประกันจาก
 
 65
 00:02:02,079 --> 00:02:06,240
-uh stablecoin uh backed by dot liquid
+stablecoins ซึ่งได้รับมาจากสภาพคล่องของ pokaldot
 
 66
 00:02:04,640 --> 00:02:07,680
