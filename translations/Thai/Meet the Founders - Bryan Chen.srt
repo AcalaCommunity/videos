@@ -977,201 +977,193 @@ Substrate
 
 205
 00:15:35,040 --> 00:15:38,320
-problems we have in the current
-society. 
+ปัญหาที่เรามีในสังคม
+ตอนนี้
 
 206
 00:15:39,520 --> 00:15:43,120
-You can see he has a really big
-energy and big passion about it 
+คุณสามารถเห็น energy 
+และแพสชั่นที่ยิ่งใหญ่ของเขาเกี่ยวกับมัน
 
 207
 00:15:43,120 --> 00:15:46,640
-and so we talked with each other.
-They had already created 
+เราก็เลยคุยกัน
+พวกเขาสร้าง
 
 208
 00:15:46,640 --> 00:15:49,360
-a Polkawallet
-product but they're also thinking about 
+โปรดัค Polkawallet เรียบร้อยแล้ว
+แต่พวกเขาก็คิดที่จะสร้าง
 
 209
 00:15:49,360 --> 00:15:49,677
-building a stablecoin
-as well. 
+stablecoin ด้วยเช่นกัน
 
 210
 00:15:49,677 --> 00:15:50,800
-If they wanted to build a
-stablecoin, we want to build a stablecoin, 
+ถ้าพวกเขาต้องการจะสร้าง
+stablecoin พวกเราต้องการจะสร้าง stablecoin
 
 211
 00:15:55,680 --> 00:15:59,760
-maybe we could try to build it together!
-That is kind of the 
+บางทีพวกเราสามารถลองสร้างมันด้วยกัน
+นี่ก็เป็น
 
 212
 00:16:00,960 --> 00:16:04,080
-how the founders of Acala met and how
-we 
+เหตุการณ์ว่าเราเจอกันได้ยังไงและเรา
 
 213
 00:16:06,240 --> 00:16:10,160
-started this journey.
-Then after this hackathon, 
+เริ่มต้นกันได้อย่างไร
+หลังจากงาน hackathon
 
 214
 00:16:11,040 --> 00:16:13,600
-we're back to New Zealand and they went
-back to Shanghai. 
+เรากลับมาที่นิวซีแลนด์และพวกเขา
+กลับไปที่เซี่ยงไฮ้
 
 215
 00:16:13,600 --> 00:16:18,400
-Then we started,
-as Bette would say, "cold-dating for females". 
+จากนั้นเราก็เริ่ม
+อย่างที่ Bette ว่า "เป็นการเดทที่เย็นชาสำหรับผู้หญิง"
 
 216
 00:16:18,400 --> 00:16:22,080
-So we just
-started trying to work together 
+เราเริ่มต้นทำงานด้วยกัน
 
 217
 00:16:22,080 --> 00:16:26,480
-to
-have daily stand-ups and just build the 
+เพื่อ daily stand-ups และสร้างมัน
 
 218
 00:16:26,480 --> 00:16:30,120
-thing
-and see if everything 
+และดูว่าทุกอย่าง
 
 219
 00:16:30,120 --> 00:16:34,240
-would work out.
-It ended up being pretty well. We 
+เรียบร้อยดี
+มันจบลงค่อนข้างดี พวกเรา
 
 220
 00:16:35,200 --> 00:16:40,240
-enjoyed working with each other and we
-managed not to have 
+สนุกกับการทำงานกับผู้อื่นและเรา
+จัดการให้มัน
 
 221
 00:16:40,240 --> 00:16:43,120
-too much issue size,
-because we had two things 
+ไม่ให้มีขนาดปัญหามากเกินไป เพราะว่าเรามีสองทีม
 
 222
 00:16:43,120 --> 00:16:46,480
-in two parts of growth but we didn't have
-a lot of time. For example the typical 
+ในสองส่วนของการเติบโต แต่เราไม่ได้มีเวลา
+ขนาดนั้น ตัวอย่างเช่น การ
 
 223
 00:16:46,480 --> 00:16:49,200
-remote
-working issues. It went all 
+ทำงานระยะไกล มันผ่านไป
 
 224
 00:16:49,760 --> 00:16:54,000
-very well.
-That's how it all started. Cool. 
+ด้วยดี
+นั่นเป็นวิธีที่เราเริ่มต้นขึ้น เจ๋งมาก
 
 225
 00:16:59,120 --> 00:17:02,960
-When you're talking to potential future
-developers to join your team, 
+เมื่อคุณกำลังพูดถึง dev
+ที่มีโพเทนเชียลในอนาคตมาร่วมทีม
 
 226
 00:17:03,840 --> 00:17:08,240
-how would you describe the culture
-of working at Acala and what types of 
+คุณจะอธิบายวัฒนธรรม
+ของการทำงานที่ Acala อย่างไร และ
 
 227
 00:17:10,000 --> 00:17:12,400
-technical characteristics but
-also what type of 
+คาแรกเตอร์ของเทคนิคอลเป็นประเภทไหน 
+และ
 
 228
 00:17:13,600 --> 00:17:16,320
-personality characteristics do you look 
+บุคลิกแบบไหนที่คุณมองหา
 
 229
 00:17:16,320 --> 00:17:18,080
-for
-in potential hires? 
+เพื่อจ้างงาน
 
 230
 00:17:20,240 --> 00:17:26,000
-Working in the blockchain space is
-a bleeding-edge technology sector, so 
+การทำงานในพื้นที่บล็อกเชนคือ
+พื้นที่เทคโนโลยีที่ก้าวหน้า ดังนั้น
 
 231
 00:17:26,640 --> 00:17:29,840
-you need to be very motivated,
-because 
+คุณต้องมีแรงจูงใจมากๆ
+เพราะว่า
 
 232
 00:17:30,800 --> 00:17:34,160
-things change every day. I know a
-lot of people 
+หลายๆสิ่งเปลี่ยนทุกวัน ฉันรู้ว่า
+หลายๆคน
 
 233
 00:17:34,160 --> 00:17:36,800
-that learn Substrate, they try to work on
-Substrate but 
+เรียนเกี่ยวกับ Substrate พวกเขาพยายามทำงาน
+บน Substrate แต่
 
 234
 00:17:37,520 --> 00:17:42,400
-there are so many new things coming up
-every day that you need to constantly 
+มีสิ่งใหม่ๆเกิดขึ้นมากมาย
+ทุกๆวันที่คุณต้อง
 
 235
 00:17:42,400 --> 00:17:45,840
-adapt your code with the latest
-change, because otherwise 
+ปรับเปลี่ยนโค้ดของคุณอย่างต่อเนื่องเพราะการเปลี่ยนแปลง
+เพราะไม่เช่นนั้น
 
 236
 00:17:46,880 --> 00:17:48,720
-almost daily or weekly 
+เกือบทุกวัน หรือ สัปดาห์
 
 237
 00:17:49,280 --> 00:17:52,080
-if you don't update Substrate, everything
-breaks and falls apart. 
+ถ้าคุณไม่อัพเดท Substrate ทุกอย่าง
+จะพังลง
 
 238
 00:17:53,440 --> 00:17:57,200
-There's a big frustration there,
-but you need to get over it, 
+มีความน่ารำคาญอยู่มาก
+แต่เราต้องผ่านมันไปให้ได้
 
 239
 00:17:57,200 --> 00:18:00,080
-you need to get used to it and then you
-need to be 
+เราต้องชินกับมันและคุณ
+ต้อง
 
 240
 00:18:00,880 --> 00:18:03,102
-already motivated to learn the new
-things. You should be able to understand 
+มีแรงจูงใจในการเรียนรู้สิ่งใหม่ๆ
+คุณควรเข้าใจ
 
 241
 00:18:03,102 --> 00:18:08,800
-why things break, you should not
-get frustrated "Oh this doesn't work, 
+ว่าทำไมมันถึงพัง คุณไม่ควร
+หงุดหงิด "โอ้ มันไม่ทำงาน
 
 242
 00:18:08,800 --> 00:18:13,200
-then I need to fix it again!". You should see it
-as "well let's introduce a new feature, I can 
+ฉันต้องซ่อมมันอีกแล้ว!!" คุณควรจะ
+"ดี แนะนำคุณสมบัติใหม่ ฉันสามารถ
 
 243
 00:18:13,200 --> 00:18:15,600
-do those things that previously were not
-possible." 
+ทำสิ่งเหล่านั้นที่เมื่อก่อนมันเป็นไป
+ไม่ได้"
 
 244
 00:18:16,880 --> 00:18:22,960
-That's why we want people who
-constantly want to learn new things, 
+เราจึงต้องการคนที่
+ต้องการเรียนรู้สิ่งใหม่ๆอย่างต่อเนื่อง
 
 245
 00:18:22,960 --> 00:18:27,520
