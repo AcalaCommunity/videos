@@ -336,103 +336,103 @@ tokenized staked dot หรือ L-dot
 
 85
 00:02:43,519 --> 00:02:47,120
-you can build smart contracts or any
+คุณสามารถสร้าง smart contracts หรือ
 
 86
 00:02:45,200 --> 00:02:50,720
-type of dap on top of a color
+dapp แบบไหนก็ได้บน acala
 
 87
 00:02:47,120 --> 00:02:54,000
-so basically you know akala offers d5
+โดยพื้นฐานแล้ว acala เสนอ defi
 
 88
 00:02:50,720 --> 00:02:58,080
-as a service and then
+ซึ่งเป็นเซอร์วิสและ
 
 89
 00:02:54,000 --> 00:02:59,280
-yeah so and as we're demoing today is
+พวกเรากำลังจะโชว์เดโมในวันนี้
 
 90
 00:02:58,080 --> 00:03:02,239
-probably the beginning of
+น่าจะเป็นที่จุดเริ่มต้น
 
 91
 00:02:59,280 --> 00:03:03,200
-you will see composable services so that
+คุณจะเห็น composable services นั้น
 
 92
 00:03:02,239 --> 00:03:05,440
-means
+หมายถึง
 
 93
 00:03:03,200 --> 00:03:06,400
-depths are composable with each other
+Dapp สามารถทำงานรวมกับโมดูลตัวอื่น
 
 94
 00:03:05,440 --> 00:03:09,519
-that's a given
+ที่ให้มาได้
 
 95
 00:03:06,400 --> 00:03:10,800
-um but also smart contracts and depths
+เช่นเดียวกับ smart contracts และ dapp
 
 96
 00:03:09,519 --> 00:03:12,800
-from other blockchains will be
+จากบล็อคเชนอื่นๆจะทำงาน
 
 97
 00:03:10,800 --> 00:03:15,360
-composable uh with akala
+ร่วมกับ acala ได้
 
 98
 00:03:12,800 --> 00:03:16,159
-and anyone you know who's be able to do
+และใครๆก็สามารถทำ
 
 99
 00:03:15,360 --> 00:03:18,480
-crushing
+ธุระกรรม
 
 100
 00:03:16,159 --> 00:03:20,640
-transactions together um so hopefully
+ข้ามเน็ตเวิร์คได้ หวังว่า
 
 101
 00:03:18,480 --> 00:03:22,640
-you uh you'll get a taste of it today
+คุณจะได้รับความรู้มากมายในวันนี้
 
 102
 00:03:20,640 --> 00:03:23,760
-and uh that's my introduction i'll hand
+และนี่คือบทนำของฉัน ต่อไปนี้
 
 103
 00:03:22,640 --> 00:03:30,560
-over to brian
+ไบรอันจะมาพรีเซ็น
 
 104
 00:03:23,760 --> 00:03:30,560
-now yeah sexpedit um so let me share my
+โอเค ผมขอแชร์หน้าจอ
 
 105
 00:03:30,840 --> 00:03:33,840
-screen
+ของผม
 
 106
 00:03:38,400 --> 00:03:42,000
-cool so you should be able to see my
+โอเค คุณควรที่จะเห็น
 
 107
 00:03:40,000 --> 00:03:45,680
-screen now um yeah so
+หน้าจอของผมแล้วนะครับ
 
 108
 00:03:42,000 --> 00:03:48,159
-this is our um test net this is not
+นี่คือ testnet ของพวกเรา อันนี้ไม่ใช่
 
 109
 00:03:45,680 --> 00:03:49,760
-the mandana test that we're running on
+mandana test ที่พวกเรารัน
 
 110
 00:03:48,159 --> 00:03:51,280
