@@ -1167,405 +1167,391 @@ stablecoin พวกเราต้องการจะสร้าง stableco
 
 245
 00:18:22,960 --> 00:18:27,520
-because there are a lot of new things
-out there every day and I want people 
+เพราะว่ามีสิ่งใหม่ๆมากๆ
+เกิดขึ้นทุกๆวันและเราต้องการคน
 
 246
 00:18:27,520 --> 00:18:32,240
-that are
-also goal-orientated. 
+ที่มีเป้าหมายด้วย
 
 247
 00:18:33,520 --> 00:18:39,360
-The goal is "get things done",
-not just sitting in front of the computer typing 
+เป้าหมายคือ "ทำสิ่งต่างๆให้สำเร็จ"
+ไม่ใช่แค่นั่งพิมพ์อยู่หน้าคอม
 
 248
 00:18:39,360 --> 00:18:43,680
-eight hours a day.
-We don't want you to 
+8ชั่วโมงต่อสัปดาห์
+พวกเราไม่ต้องการคุณ
 
 249
 00:18:43,680 --> 00:18:47,520
-just sit in front of the computer typing
-but actually doing anything 
+เพื่อมานั่งพิมพ์หน้าจอคม
+แต่จริงๆแล้ว
 
 250
 00:18:48,080 --> 00:18:50,960
-productive, because this is
-meaningless! 
+ไม่ทำอะไร เพราะว่ามันไร้
+ความหมาย!
 
 251
 00:18:51,600 --> 00:18:53,280
-We want to just get things done. 
+พวกเราต้องการให้สิ่งต่างๆสำเร็จ
 
 252
 00:18:55,440 --> 00:18:57,360
-Different people have different ways and
-we 
+ต่างคนต่างมีวิธีและเรา
 
 253
 00:18:59,520 --> 00:19:02,640
-would like you to use the most
-productive ways for you. 
+อยากให้คุณใช้วิธีที่มีประสิทธิภาพ
+ที่สุดสำหรับคุณ
 
 254
 00:19:02,640 --> 00:19:06,000
-For example, some people
-they enjoy working from home, 
+ยกตัวอย่างเช่น บางคน
+พวกเขาสนุกกับการทำงานที่บ้าน
 
 255
 00:19:06,560 --> 00:19:10,400
-some people
-prefer to 
+บางคน
+ต้องการ
 
 256
 00:19:10,400 --> 00:19:14,560
-work at night. That's fine, as long as
-things get done, 
+ทำงานกลางคืน นั่นไม่เป็นไรตราบเท่าที่
+ทำสิ่งต่างได้เสร็จ
 
 257
 00:19:14,560 --> 00:19:19,840
-I'm happy.
-As we are a remote team, we 
+ฉันแฮปปี้
+ด้วยว่าเราเป็นทีมที่ทำงานระยะไกล เรา
 
 258
 00:19:19,840 --> 00:19:24,800
-have people all over the world,
-so communication is a super important 
+มีผู้คนหลากหลายทั่วโลก
+ดังนั้นการสื่อสารจรึงมีความสำคัญมากๆ
 
 259
 00:19:24,800 --> 00:19:29,520
-piece,
-a super important skill you must possess. 
+ทักษะที่สำคัญยิ่งที่คุณต้องมี
 
 260
 00:19:29,520 --> 00:19:35,200
-Some people will maybe
-need a week get something done, 
+บางคนอาจจะ
+ต้องการเป็นสัปดาห์เพื่อทำบางอย่างให้เสร็จ
 
 261
 00:19:35,200 --> 00:19:37,040
-and
-present the thing and other are 
+และมาแจ้ง และอีกหลายๆอย่าง
 
 262
 00:19:38,480 --> 00:19:42,240
-kind of fine with that.
-During this absent period, 
+นั่นฉันก็โอเค
+ในช่วงที่ขาดไป
 
 263
 00:19:42,240 --> 00:19:48,800
-some people might
-question or say "are you really 
+บางคนอาจจะ
+ถามหรือพูดว่า "คุณได้
 
 264
 00:19:48,800 --> 00:19:49,760
-doing anything?" This attitude 
+ทำอะไรจริงๆหรือเปล่า" ทัศนคติแบบนี้
 
 265
 00:19:51,120 --> 00:19:55,360
-doesn't help. So communication
-is a very important skill. 
+ไม่ช่วยอะไร ดังนั้นการสื่อสาร
+เป็นทักษะที่สำคัญมาก
 
 266
 00:19:57,120 --> 00:20:00,960
-Another thing I don't want to see is
-that some people get stuck 
+อีกอย่างที่ไม่อยากเห็นคือ
+ที่บางคนติดปัญหา
 
 267
 00:20:00,960 --> 00:20:04,080
-and they try to fix the problem, but they
-just spend 
+และพวกเขาพยายามแก้ปัญหานั้น แต่พวกเขา
+ใช้เวลา
 
 268
 00:20:04,880 --> 00:20:11,840
-a long time trying to fix a problem and
-that isn't very productive. 
+นานเพื่อพยายามแก้ปัญหา และ
+มันไม่เป็นผล
 
 269
 00:20:11,840 --> 00:20:14,960
-So you should be open-minded and
-simply be able to ask for help. 
+ดังนั้นคุณควรเปิดใจและ
+สามารถถามเพื่อขอความช่วยเหลือ
 
 270
 00:20:14,960 --> 00:20:18,800
-Feel free to ask for help.
-Maybe we cannot help, in that case 
+อย่าเกรงใจที่จะถาม
+บางทีเราอาจช่วยไม่ได้ ในกรณีนั้น
 
 271
 00:20:18,800 --> 00:20:21,680
-you just need to spend more time
-trying to fix it, but 
+คุณเพียงแค่ต้องใช้เวลามากขึ้น
+เพื่อแก้ไข แต่
 
 272
 00:20:22,240 --> 00:20:27,840
-there's a chance that someone else is
-able to offer a different opinion, 
+ก็มีโอกาสเป็นคนอื่นที่
+สามาถเสนอความเห็นที่แตกต่าง
 
 273
 00:20:28,560 --> 00:20:30,000
-maybe they have seen this issue
-before. 
+บางทีพวกเขาอาจเห็นปัญหานี้มาก่อน
 
 274
 00:20:33,200 --> 00:20:36,720
-Communication is
-also first, so important. 
+การสื่อสารคือ
+อันดับแรก สำคัญมากๆ
 
 275
 00:20:36,720 --> 00:20:39,680
-What types of people are you
-looking for right now? I know we've got a 
+คนประเภทไหนที่คุณ
+กำลังมองหาตอนนี้? ฉันรู้ว่าเรามี
 
 276
 00:20:39,680 --> 00:20:45,520
-few roles
-posted. Yes, we're 
+ไม่กี่ตำแหน่ง
+ใช่เรา
 
 277
 00:20:45,520 --> 00:20:50,160
-looking for different areas and
-positions. For example, 
+กำลังมองหาพื้นที่และตำแหน่ง
+ที่แตกต่าง ยกตัวอย่างเช่น
 
 278
 00:20:50,160 --> 00:20:52,800
-we're definitely looking for Runtime
-Substrate developers, 
+เรากำลังมองหา dev ที่ทำ
+Runtime Substrate
 
 279
 00:20:54,480 --> 00:20:57,680
-helping to build the core products, the
-blockchain nodes 
+เพื่อช่วยสร้างโปรดัคหลัก,
+โหนดบล็อกเชน
 
 280
 00:20:57,680 --> 00:21:02,480
-implement new pallets, improve existing
-pallets and maintain them. 
+ใช้พาเลทใหม่ ปรับปรุงพาเลทที่
+มีอยู่ และ บำรุงรักษามัน
 
 281
 00:21:02,480 --> 00:21:06,640
-We're also looking for the Solidity
-developers because we have the Acala EVM, 
+เรายังมองหา dev Solidity
+เพราะว่าพวกเรามี Acala EVM
 
 282
 00:21:07,280 --> 00:21:11,840
-which is a very unique EVM. It's unlike
-other 
+ซึ่งเป็น EBM ที่ไม่เหมือนใคร มันไม่เหมือน
+กับ
 
 283
 00:21:12,640 --> 00:21:16,800
-standard EVMs. We have done a lot of
-modifications, introduced new features 
+EVM ธรรมดา พวกเราทำการ
+ดัดแปลงมาแล้ว แนะนำฟีเจอร์ใหม่ๆ
 
 284
 00:21:16,800 --> 00:21:21,040
-and made adjustments. So we will need
-Solidity developers to 
+และทำการปรับเปลี่ยน ดังนั้นเราต้องการ
+dev Solidity เพื่อ
 
 285
 00:21:21,600 --> 00:21:26,480
-help us to shape this; also to help other
-things like building 
+ช่วยพวกเราสร้างมัน; และช่วยเหลือ
+สิ่งอื่นๆเช่นการสร้าง
 
 286
 00:21:27,040 --> 00:21:30,880
-and deploying the smart contracts on
-the Acala EVM, to help to shape the 
+และปรับใช้ smart contract บน
+Acala EVM ช่วยสร้าง
 
 287
 00:21:31,920 --> 00:21:35,040
-the contracts, to take
-most advantage of the  
+contract เพื่อ
+เพิ่มความได้เปรียบ
 
 288
 00:21:35,040 --> 00:21:36,560
-unique features of
-Acala EVM. 
+ของฟีเจอร์ที่ไม่เหมือนใคร
+ของ Acala EVM
 
 289
 00:21:37,520 --> 00:21:40,320
-We need Solidity developers for
-this and we also need 
+พวกเราต้องการ dev Solidity เพื่อ
+สิ่งนี้ และพวกเราต้องการ
 
 290
 00:21:41,120 --> 00:21:43,840
-the front and back and full stack
-developers 
+dev ที่ทำทั้งเบื้องหน้าและเบื้องหลัง
 
 291
 00:21:44,400 --> 00:21:47,120
-because obviously we have a lot of frontend
-we need to build. 
+เพราะเห็นได้ชัดว่าเรามี frontend มากมายที่เรา
+จำเป็นต้องสร้าง
 
 292
 00:21:49,360 --> 00:21:51,280
-We already have the depth
-but 
+งานเรามีความลึกซึ้ง
 
 293
 00:21:51,280 --> 00:21:55,840
-we also have a lot of new things in the
-plan. We also for example need 
+และเรามีสิ่งใหม่ๆอยู่มากในแผน
+ของเรา เราต้องการยกตัวอย่าง
 
 294
 00:21:55,840 --> 00:22:01,360
-some nice governance, UI. We also
-probably need some nice dashboards UI. 
+เช่นการจัดการ UI ที่ดี พวกเรา
+อาจจะต้องการ แดชบอร์ด UI ที่ดีด้วย
 
 295
 00:22:02,080 --> 00:22:06,720
-There's a lot of front-end work
-waiting to be completed. 
+มีงานเบื้องหน้าอยู่เยอะ
+ที่รอการทำให้เสร็จ
 
 296
 00:22:07,520 --> 00:22:12,160
-We are also looking for tech
-educators, 
+เรายังมองหานักศึกษาเทคโนโลยี
 
 297
 00:22:12,160 --> 00:22:15,600
-because we have a lot of new unique
-features, especially for Acala EVM. 
+เพราะว่าเรามีฟีเจอร์ที่ไม่เหมือนใคร
+โดยเฉพาะ Acala EVM
 
 298
 00:22:16,160 --> 00:22:18,640
-So we would like to have someone who's able
-to help us 
+ดังนั้นเราจึงอยากมีคนที่มีความสามารถ
+มาช่วยเรา
 
 299
 00:22:20,640 --> 00:22:26,160
-write documentations examples and
-tutorials in order to help 
+เขียนตัวอย่างเอกสารและ
+บทเรียนเพื่อช่วย
 
 300
 00:22:26,720 --> 00:22:31,920
-other developers to learn the
-advantage and how to 
+dev อื่นๆให้เรียนรู้
+ได้เร็ว และวิธี
 
 301
 00:22:33,600 --> 00:22:38,000
-integrate with Acala or learn how to
-deploy the smart contracts or migrate 
+ประสานงานกับ Acala หรือเรียนรู้วิธี
+การปรับใช้ smart contract หรือโยกย้าย
 
 302
 00:22:38,000 --> 00:22:41,040
-the smart contracts
-and getting deployed to Acala EVM. 
+smart contract
+และปรับใช้มันกับ Acala EVM
 
 303
 00:22:42,400 --> 00:22:48,960
-Okay great. Just a few more questions.
-What would you say makes the Acala and 
+โอเค เยี่ยมมาก อีกไม่กี่คำถามแล้ว
+คุณช่วยบอกทีว่าทำไมทีม acala และ
 
 304
 00:22:48,960 --> 00:22:53,840
-Karura team
-unique and special to you? 
+Karura
+ถึงแตกต่างและพิเศษสำหรับคุณ
 
 305
 00:22:57,520 --> 00:23:00,640
-First, I think
-all of our team members are 
+หนึ่ง ฉันคิดว่าสมาชิกในทีมของเรา
 
 306
 00:23:01,360 --> 00:23:03,680
-at least
-10 x engineers. 
+อย่างน้อยเป็นวิศวกรของ 10x
 
 307
 00:23:06,640 --> 00:23:08,720
-We all work very hard and we
-all 
+พวกเราทำงานหนักมากและเราทั้งหมด
 
 308
 00:23:08,720 --> 00:23:11,920
-are very keen to learn new things. We
-are not afraid of 
+กระตือรือร้นที่จะเรียนรู้สิ่งใหม่ๆ เรา
+ไม่กลัว
 
 309
 00:23:11,920 --> 00:23:16,640
-being blocked, not afraid of deep dive
-into the code base to the low  
+ถูกบล็อก ไม่กลัวที่จะเจาะลึกไป
+ถึงแก่นของโค้ดถึง
 
 310
 00:23:16,640 --> 00:23:17,520
-level of
-things, to 
+ขั้นย่อยของมัน
 
 311
 00:23:18,560 --> 00:23:22,480
-debug why things don't work.
-This is 
+แก้บัคว่าทำไมมันถึงไม่ทำงาน
+นี่
 
 312
 00:23:22,480 --> 00:23:24,800
-a very important mindset. We're
-all willing to 
+คือแนวคิดที่สำคัญ เรา
+เต็มใจที่จะ
 
 313
 00:23:26,800 --> 00:23:30,080
-go to the bleeding edge and pushing it
-forward. 
+ทำโดยไม่รู้ว่ามันจะพัฒนาได้จริงไหม และผลักดันมัน
+ไปข้างหน้า
 
 314
 00:23:30,080 --> 00:23:31,680
-For us it is very important to expand. 
+สำหรับเรามันสำคัญมากที่จะขยาย
 
 315
 00:23:36,240 --> 00:23:39,840
-If you were to pick
-one product that you're 
+ถ้าคุณจะเลือกหนึ่งโปรดัค
+ที่คุณ
 
 316
 00:23:39,840 --> 00:23:42,640
-building
-with Acala and Karura, what would you say 
+สร้างกับ acala และ karura ช่วยบอกทีว่า
 
 317
 00:23:42,640 --> 00:23:45,520
-you're most excited about
-and why is that? 
+ชิ้นไหนที่คุณตื่นเต้นที่สุด
+และทำไม
 
 318
 00:23:50,000 --> 00:23:54,320
-I think Acala EVM will be
-a super exciting product because 
+ฉันคิดว่า Acala EVM จะ
+เป็นโปรดัคที่น่าสนใจอย่างยิ่ง เพราะว่า
 
 319
 00:23:55,200 --> 00:24:00,480
-that is not built for us. It's built for
-the developers, it's built for 
+ไม่ได้สร้างมาเพื่อเรา มันสร้างเพื่อ
+dev มันสร้าง
 
 320
 00:24:00,480 --> 00:24:05,280
-other projects.
-We will hopefully see a lot of 
+เพื่อโปรเจ็คอื่นๆ
+เราหวังว่าจะได้เห็น
 
 321
 00:24:05,280 --> 00:24:10,000
-projects
-either migrate from existing 
+โปรเจ็คมากมาย
+โยกย้ายมาจาก
 
 322
 00:24:10,640 --> 00:24:13,760
-smart contracts to Acala EVM, or just
-develop for some 
+smart contract ที่มีอยู่เป็น Acala EVM หรือ
+แค่พัฒนา
 
 323
 00:24:13,760 --> 00:24:18,320
-brand new smart contracts for Acala EVM.
-We have a lot of unique features 
+smart contract ใหม่สำหรับ Acala EVM
+พวกเรามีฟีเจอร์ที่ไม่เหมือนใคร
 
 324
 00:24:18,320 --> 00:24:20,480
-that
-don't exist elsewhere, like for example 
+ที่
+ไม่เคยมีที่ไหนมาก่อน ยกตัวอย่างเช่น
 
 325
 00:24:20,480 --> 00:24:23,280
-the scheduler which allows a smart contract to
-be 
+ตัวกำหนดตารางเวลาซึ่งอนุญาติให้ smart contract
 
 326
 00:24:24,080 --> 00:24:29,920
