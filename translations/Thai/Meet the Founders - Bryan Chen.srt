@@ -548,18 +548,18 @@ Bitcoin และเขาคุยกับฉัน
 
 115
 00:08:41,280 --> 00:08:44,480
-When you cut something,
-the price should be the same. 
+เมื่อคุณคัทบางอย่าง
+ราคาควรจะเหมือนเดิม
 
 116
 00:08:45,040 --> 00:08:47,760
-The Bitcoin cash fork proved that's
-wrong on 
+ซึ่ง Bitcoin cash fork พิสูจน์
+แล้วว่ามันไม่จริง
 
 117
 00:08:48,320 --> 00:08:52,000
-internet or on blockchain.
-The Bitcoin fork 
+บนอินเทอร์เน็ตและบนบล็อกเชน
+Bitcoin fork
 
 118
 00:08:52,000 --> 00:08:55,120
