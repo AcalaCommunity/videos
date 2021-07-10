@@ -300,39 +300,39 @@ decks และการประมูลเข้าด้วยกัน
 
 76
 00:02:23,760 --> 00:02:29,040
-a tokenized uh staked dot uh or l dot
+tokenized staked dot หรือ L-dot 
 
 77
 00:02:27,520 --> 00:02:31,040
-uh so it's a bit like die and see that
+ระบบนี้จะทำให้คุณ
 
 78
 00:02:29,040 --> 00:02:33,920
-right allows you to earn staking
+ได้รับผลตอบแทนจากการ staking
 
 79
 00:02:31,040 --> 00:02:35,760
-rewards while youth farming in d5
+ขณะที่คุณกำลัง
 
 80
 00:02:33,920 --> 00:02:38,080
-chestlessly
+ฟาร์มบน defi
 
 81
 00:02:35,760 --> 00:02:40,160
-and you can also say you know evm is a
+และคุณสามารถพูดได้ว่า evm คือ
 
 82
 00:02:38,080 --> 00:02:42,640
-module on on our you know
+โมดูลบนเซอร์วิสของเรา
 
 83
 00:02:40,160 --> 00:02:43,519
-service modules so we're fully evm
+ดังนั้นระบบของเรารับรองระบบ evm
 
 84
 00:02:42,640 --> 00:02:45,200
-compatible
+อย่างเต็มรูปแบบ
 
 85
 00:02:43,519 --> 00:02:47,120
