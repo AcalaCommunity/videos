@@ -1609,122 +1609,118 @@ Karura ใน
 330
 00:21:03,360 --> 00:21:07,840
 สามารถทำได้บน Karura ดีกว่า
-Acala ฉันรู้ว่ามี การค้ำประกัน
+Acala ฉันรู้ว่ามันเหมือนกับการค้ำประกัน
 
 331
 00:21:07,840 --> 00:21:10,880
-Could you explain more about that?
-I think that's like the 
+คุณช่วยอธิบายมากขึ้นได้ไหม
+ฉันคิดว่ามันเหมือนกับ
 
 332
 00:21:10,880 --> 00:21:14,320
-collaterals which
-might be slightly relaxed, 
+การค้ำประกันซึ่ง
+อาจจะค่อนข้างผ่อนคลาย
 
 333
 00:21:14,960 --> 00:21:17,600
-but we still want to make sure
-the whole system is secure. 
+แต่เราก็ยังต้องการให้แน่ใจว่า
+ทั้งระบบมีความปลอดภัย
 
 334
 00:21:17,600 --> 00:21:21,440
-There's a lot of stuff. For example, I
-play game, right. I think 
+มีของเยอะมาก ตัวอย่างเช่น
+ฉันเล่นเกม ใช่ไหม ฉันคิดว่า
 
 335
 00:21:22,080 --> 00:21:24,960
-gamification plus finance could be a
-very very 
+gamification + ระบบการเงินอาจเป็น
+ความคิดที่
 
 336
 00:21:25,840 --> 00:21:29,840
-vital idea, a very very fun idea to explore.
-Maybe we can start to 
+จำเป็นมาก เป็นไอเดียที่สนุกมาๆที่จะค้นหา
+บางทีเราสามารถเริ่ม
 
 337
 00:21:30,960 --> 00:21:34,000
-play with some gamification on
-finance on Karura. 
+เล่นด้วย gamificaion บน
+การเงินบน Karura
 
 338
 00:21:36,320 --> 00:21:38,800
-Nothing is promised, but
-I'm thinking about stuff that coming 
+ไม่มีการสัญญา แต่
+ฉันคิดว่ามีของอีกหลายอย่าง
 
 339
 00:21:38,800 --> 00:21:43,040
-out of my head right now.
-Maybe there might be a lottery 
+ที่กำลังแล่นมาในหัวฉันตอนนี้
+อาจจะมีหวย
 
 340
 00:21:43,040 --> 00:21:45,360
-somewhere. If you mint stablecoin, maybe
-you get 
+ที่ไหนซักแห่ง ถ้าคุณ mint stablecoin บางที
+คุณจะได้
 
 341
 00:21:45,360 --> 00:21:49,600
-an extra interest or something like that.
-This is the stuff that we can 
+รับดอกเบี้ยที่มากขึ้นหรืออะไรแบบนั้น
+นั่นเป็นสิ่งที่เราสามารถ
 
 342
 00:21:49,600 --> 00:21:53,680
-definitely explore
-on the more vibrant and wilder community. 
+สำรวจบน community ที่ดุดันแล้วกังวาน ฮ่าๆ
 
 343
 00:21:55,360 --> 00:21:58,800
-And also evaluating
-what sort of character we want to 
+และยังประเมิน
+คาแรกเตอร์แบบที่เรา
 
 344
 00:21:58,800 --> 00:22:02,480
-accept
-for a bankrupt security product like 
+ยอมรับสำหรับโปรดัคที่มีระบบความปลอดภัยเช่น
 
 345
 00:22:02,480 --> 00:22:07,440
-Acala. You're gonna be very very
-solid. You have to prove liquidity, 
+Acala คุณจะต้องแข็งแกร่งมาก
+คุณต้องพิสูจน์สภาพคล่อง
 
 346
 00:22:07,440 --> 00:22:10,960
-you have to be very very conservative
-because you don't want it to fail. 
+คุณต้องระมัดระวังมากๆ
+เพราะว่าคุณไม่อยากให้มันล้มเหลว
 
 347
 00:22:18,240 --> 00:22:22,400
-So for example, if the liquidity is not quite
-there yet, but we can explore 
+ยกตัวอย่างเช่น แม้สภาพคล่องยัง
+ไม่ค่อยมาก แต่เราสามารถสำรวจ
 
 348
 00:22:22,400 --> 00:22:26,240
-a number of
-characters or things like that 
+จำนวนของคนใช้หรืออะไรทำนองนั้น
 
 349
 00:22:26,240 --> 00:22:30,320
-in the Karura network, as long as like if
-it doesn't go wrong. 
+ในเครือข่าย Karura ตราบเท่าที่
+มันไม่ไปผิดทาง
 
 350
 00:22:32,000 --> 00:22:35,440
-Well, maybe it's another good idea to
-explore as well. You can think about a 
+ก็อาจจะเป็นอีกไอเดียที่ดีที่
+จะสำรวจ คุณสามารถคิดเกี่ยวกับ
 
 351
 00:22:35,440 --> 00:22:39,840
-lot of like
-newly opened and very very 
+เหรีญที่เปิดใหม่
 
 352
 00:22:40,400 --> 00:22:44,960
-hot coins or tokens being accepted as
-collateral. 
+และกำลังมาแรงได้รับการยอมรับว่า
+มีหลักประกัน
 
 353
 00:22:44,960 --> 00:22:47,280
-Maybe. These are some of the general
-thoughts I have. 
+บางทีนี่อาจเป็นเรื่องทั่วไป
+ที่ฉันคิด
 
 354
 00:22:48,320 --> 00:22:52,640
