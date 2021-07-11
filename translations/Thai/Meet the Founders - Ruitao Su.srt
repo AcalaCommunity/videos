@@ -1045,128 +1045,126 @@ startup เริ่มต้นอย่างรวดเร็ว
 
 215
 00:13:48,960 --> 00:13:52,480
-and I'm very very fortunate to have met
-Bryan 
+และฉันโชคดีมากๆๆ ที่ได้พบกับไบรอัน
 
 216
 00:13:52,480 --> 00:13:55,600
-and Bette. They are all Co-founders of
-Acala. I worked with them 
+และ Bette พวกเขาทั้งหมดเป็นผู้ร่วมก่อตั้ง
+Acala ฉันทำงานกับพวกเขา
 
 217
 00:13:56,960 --> 00:14:00,080
-in the previous
-project and I know them because I 
+ในโปรเจ็คที่แล้ว
+และฉันรู้จักพวกเขาเพราะฉัน
 
 218
 00:14:00,080 --> 00:14:03,520
-worked directly with them for over
-a year. I would say that 
+ทำงานโดยตรงกับพวกเขามา
+เป็นปี ฉันจะบอกว่า
 
 219
 00:14:03,520 --> 00:14:06,400
-we share the same value proposition, we
-share the same 
+พวกเราแชร์ปัญหา
+เราแชร์
 
 220
 00:14:07,760 --> 00:14:10,960
-personality and we think we are
-a perfect match 
+ตัวตนของเราและเราคิดว่าเรา
+เป็นการรวมกันที่ยอดเยี่ยม
 
 221
 00:14:11,600 --> 00:14:16,480
-for building a team together. At
-some point I started thinking: 
+ที่จะสร้างทีมขึ้นมาด้วยกัน
+จุดๆหนึ่งฉันเริ่มคิดว่า:
 
 222
 00:14:16,480 --> 00:14:18,560
-if I want to create
-something 
+ถ้าฉันต้องการสร้าง
+บางสิ่ง
 
 223
 00:14:19,840 --> 00:14:23,360
-that's actually useful and that
-has an 
+นั่นต้องมีประโยชน์จริงๆและ
+มี
 
 224
 00:14:23,360 --> 00:14:27,280
-impact in this industry, then I need to
-start my own venture. That's when 
+อิมแพ็คกับอุตสาหกรรม เมื่อฉันต้องการ
+เริ่มลองเสี่ยง นั่นคือเมื่อ
 
 225
 00:14:27,280 --> 00:14:33,280
-I had the idea of creating this new venture.
-I had Ruitao, I had Bette as Co-founders. 
+ต้องมีไอเดียที่จะสร้างสิ่งใหม่
+ฉันมี Ruitao, ฉันมี Bette เป็นผู้ร่วมก่อตั้ง
 
 226
 00:14:33,280 --> 00:14:36,240
-I wanted to work in this sector.
-That's when 
+ฉันอยากทำงานในแผนกนี้
+นั่นคือเมื่อ
 
 227
 00:14:37,280 --> 00:14:40,560
-I started to work on this. About two
-years or two and a half years ago, 
+ฉันเริ่มทำงานนี้ ประมาณ
+2ปีหรือ2ปีครึ่งที่ผ่านมา
 
 228
 00:14:40,560 --> 00:14:43,760
-we started this new venture
-with Bette and Bryan. 
+เราเริ่มสร้าง
+กับ Bette และ Bryan
 
 229
 00:14:43,760 --> 00:14:48,000
-We got fully committed to this new venture.
-We talked about the idea of 
+เรามีความมุ่งมั่นอย่างเต็มที่ในการสร้างนี้
+เราคุยเกี่ยวกับไอเดีย
 
 230
 00:14:48,000 --> 00:14:50,880
-what we could or
-should work on. I think the core 
+ว่าเราสามารถหรือควรจะทำมัน
+ฉันคิดว่าจุด
 
 231
 00:14:50,880 --> 00:14:54,240
-value of this team is that we believe
-that, regardless where we 
+หลักของทีมนี้คือเราเชื่อว่าเรา
+ทำได้ ไม่ว่าเราจะทำงาน
 
 232
 00:14:54,240 --> 00:14:57,040
-work on, it needs to be viable, it needs
-to have a market 
+อยู่ที่ไหน มันต้องเป็นไปได้
+มันต้องมีตลาด
 
 233
 00:14:57,040 --> 00:15:00,560
-product fit. That's where we see
-the finance sector is going to be the 
+รองรับ นั่นคือที่เราเห็น
+ภาคการเงินจะเป็น
 
 234
 00:15:00,560 --> 00:15:02,640
-very first sector to have this product
-market fit. 
+ภาคแรกๆที่มีตลาดรองรับ
 
 235
 00:15:03,760 --> 00:15:09,600
-About two and a half years ago
-we started this new venture and I'm very 
+ประมาณ 2 หรือ 2 ปีครึ่งที่ผ่านมา
+เราเริ่มต้นสิ่งใหม่และฉันก็
 
 236
 00:15:09,600 --> 00:15:11,120
-fortunate.
-At that time,  
+ดีใจมาก
+ตอนนั้น
 
 237
 00:15:11,120 --> 00:15:13,520
-I went to the very first
-hackathon that 
+ฉันไปที่งาน hackathon
+ที่
 
 238
 00:15:14,400 --> 00:15:17,920
-took place in China, in Hangzhou. This was
-a Polkadot hackathon. 
+จัดขึ้นที่ประเทศจีน ใน Hangzhou มั่นเป็น
+งาน Polkadot hackathon
 
 239
 00:15:18,880 --> 00:15:22,000
-That's where I met the
-other Co-founder Fuyao in China. 
+นั่นคือที่ที่ฉันเจอกับ
+ผู้ก่อตั้งอีกคน Fuyao ในประเทศจีน
 
 240
 00:15:22,000 --> 00:15:27,520
