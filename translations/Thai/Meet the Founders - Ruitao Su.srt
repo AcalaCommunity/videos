@@ -729,327 +729,319 @@ StarCraft 2 ด้วย
 
 150
 00:09:31,120 --> 00:09:33,840
-We already have a Polkadot and
-Kusama meetup here 
+เรามีมีตติ้ง Polkadot และ
+Kusama ที่นี่
 
 151
 00:09:33,840 --> 00:09:37,280
-in New Zealand. We haven't posted
-any events yet, but we will. 
+ในประเทศนิวซีแลนด์ เรายังไม่ได้ประกาศ
+กิจกรรมเลย แต่เราจะจัดมัน
 
 152
 00:09:39,680 --> 00:09:41,920
-Let's move onto a little bit
-about your career. 
+เข้าเรื่องกันหน่อย
+เกี่ยวกับอาชีพของคุณ
 
 153
 00:09:42,800 --> 00:09:46,800
-Could you walk us through your
-career path and what led you to the 
+คุณช่วยพูดถึง
+เส้นทางอาชีพและสิ่งที่นำคุณไปสู่
 
 154
 00:09:46,800 --> 00:09:48,960
-blockchain world and
-ultimately starting Acala? 
+โลกบล็อกเชนและ
+การเริ่มต้น Acala
 
 155
 00:09:51,440 --> 00:09:56,320
-I would say that I have
-this entrepreneurial mind 
+ฉันจะบอกว่าฉันมี
+หัวใจของผู้ประกอบการ
 
 156
 00:09:56,320 --> 00:10:00,640
-built into my brain.
-After graduating from the university, I 
+ฝังอยู่ในหัว
+หลังจากจบมหาวิทยาลัย ฉัน
 
 157
 00:10:00,640 --> 00:10:03,600
-only had one job, which
-was a financial-related job. 
+มีแค่อาชีพเดียว ซึ่ง
+เกี่ยวกับการเงิน
 
 158
 00:10:03,600 --> 00:10:06,480
-I'm still in very good relation with
-my very first boss. 
+ฉันยังคงมีสัมพันธ์ที่ดี
+กับหัวหน้าคนแรกของฉัน
 
 159
 00:10:07,840 --> 00:10:09,360
-After that, I've been pretty
-much on my own. 
+หลังจากนั้น ฉัน
+ก็ทำด้วยตัวเอง
 
 160
 00:10:11,360 --> 00:10:14,000
-For the past 18 plus years, I've been
-an 
+ในอดีตเมื่อ 18 ปีที่แล้ว
 
 161
 00:10:14,000 --> 00:10:19,040
-entrepreneur and I work for myself.
-Before I got into the crypto, I was an 
+ฉันเป็นผู้ประกอบการและทำงานด้วยตัวเอง
+ก่อนที่ฉันเข้าสู่คริปโต ฉัน
 
 162
 00:10:19,040 --> 00:10:22,880
-independent app developer. Because
-I'm an engineer myself, 
+เคยเป็น dev สร้างแอพอิสระ เพราะว่า
+ฉันเป็นวิศวกรเอง
 
 163
 00:10:22,880 --> 00:10:29,680
-I'm also pretty good at
-(maybe with a bit of sarcasm) 
+แล้วฉันก็ทำได้ดีกับ
+(อันนี้ประชดนะ)
 
 164
 00:10:30,480 --> 00:10:33,920
-designing stuff. I'm a
-fullstack 
+งานดีไซน์ ฉัน
+เป็น app dev
 
 165
 00:10:33,920 --> 00:10:40,560
-app developer. I created a number of apps.
-It has been a 
+แบบรอบด้าน ฉันสร้างแอพมานับไม่ถ้วน
+มันเป็น
 
 166
 00:10:40,560 --> 00:10:42,000
-very good experience
-working 
+ประสบการณ์ที่ดี
+ที่ทำงาน
 
 167
 00:10:42,000 --> 00:10:45,360
-with the app store, with working with
-Apple. Pretty much all the apps that I did 
+กับ App Store ตอนทำงานกับ
+Apple หลายๆโปรแกรมที่ฉันทำ
 
 168
 00:10:45,360 --> 00:10:48,880
-were featured
-by Apple. I created one app for 
+ทำให้กับ
+Apple ฉันสร้างแอพเป็นงาน
 
 169
 00:10:48,880 --> 00:10:51,600
-myself as a hobby. I created a
-ski tracker 
+อดิเรกของฉัน ฉันสร้าง
+ตัวติดตามสกี
 
 170
 00:10:52,320 --> 00:10:56,560
-that would tell you like what time it is, 
+ที่จะบอกคุณว่าตอนนี้กี่โมงแล้ว
 
 171
 00:10:56,560 --> 00:10:59,600
-what your current speed is
-and that at the end of your day 
+ความเร็วปัจจุบันเท่าไหร่
+และเมื่อสิ้นสุดวัน
 
 172
 00:10:59,600 --> 00:11:02,960
-would tell you how
-how much ride 
+จะบอกว่าราคาเท่าไหร่
 
 173
 00:11:02,960 --> 00:11:04,960
-you did for that day and would give you a
-whole 
+ในหนึ่งวัน และจะแสดง
 
 174
 00:11:05,520 --> 00:11:09,200
-map of where you've been to in the
-mountain. That 
+แผนที่ว่าคุณตรงที่ไหนบนภูเขา
 
 175
 00:11:09,808 --> 00:11:12,640
-was probably one of the last
-apps I created. It 
+นั่นน่าจะเป็นแอพสุดท้าย
+ที่ฉันสร้าง มัน
 
 176
 00:11:12,640 --> 00:11:17,040
-was again featured by Apple. I loved the
-idea of working on something that can bring 
+ก็อยู่บน Apple ด้วยเช่นกัน ฉันรัก
+ไอเดียการทำงานกับบางสิ่งที่สามารถ
 
 177
 00:11:18,320 --> 00:11:21,200
-meaningful value for users and for
-other people. 
+มีความหมายกับผู้ใช้และผู้อื่น
 
 178
 00:11:22,880 --> 00:11:28,240
-I was very surprised to
-find that, I when I was 
+ฉันเซอไพรซ์มากที่
+พบว่า
 
 179
 00:11:28,240 --> 00:11:31,280
-riding in Breckenridge back
-I don't know how many years ago, 
+ตอนที่ฉันไปเล่นที่ Breckenridge
+ฉันไม่รู้ว่ากี่ปีมาแล้ว
 
 180
 00:11:32,400 --> 00:11:34,960
-there's another rider that's sitting
-in a shared lift 
+มีคนเล่นอีกคนที่กำลังนั่น
+บนแชร์ลิฟ
 
 181
 00:11:34,960 --> 00:11:39,280
-beside me and he's using the app that I
-developed and that's like what makes me 
+ข้างๆฉัน เขาใช้แอพที่ฉัน
+สร้างขึ้นและนั่นทำให้ฉัน
 
 182
 00:11:39,280 --> 00:11:44,080
-really really happy about that.
-Since I was developing the app in 
+มีความสุขมากๆเกี่ยวกับมัน
+เนื่องจากว่าผมสร้างแอพที่
 
 183
 00:11:44,080 --> 00:11:47,100
-New Zealand, I had to test it.
-It was summer in New Zealand and 
+นิวซีแลนด์ ฉันต้องทดลองมัน
+มันเป็นฤดูร้อนในนิวซีแลนด์ และ
 
 184
 00:11:47,100 --> 00:11:51,280
-there was no mountain to test.
-So I drive the car upside down 
+ไม่มีภูเขาที่จะทดลอง
+ดังนั้นฉันขับรถจากเหนือลงใต้
 
 185
 00:11:51,280 --> 00:11:55,840
-in a tiny park to test if
-that worked. So that's it, before 
+ไปในสวนสาธารณะเล็กๆเพื่อทดสอบว่า
+มันทำงานหรือไม่ นั่นละ ก่อน
 
 186
 00:11:56,480 --> 00:12:01,200
-blockchain I was pretty much
-into all the areas that have 
+เข้ามาในโลกบล็อกเชน ฉันเคย
+ไปในทุกพื้นที่ที่มี
 
 187
 00:12:01,200 --> 00:12:05,360
-potentials on new
-sectors. I discovered a bit 
+ศักยภาพใหม่ๆ
+ฉันค้นหาเล็กน้อย
 
 188
 00:12:05,360 --> 00:12:08,320
-about Bitcoin when it was less than a
-hundred dollars. I don't know when was 
+เกี่ยวกับ Bitcoin เมื่อมันราคายังอยู่ที่
+ประมาณ100 ดอลลาร์ ฉันไม่รู้ว่า
 
 189
 00:12:08,320 --> 00:12:11,280
-that.
-By then I wasn't convinced. I thought 
+เมื่อไหร่
+ตอนนั้นฉันไม่มั่นใจ ฉันคิด
 
 190
 00:12:13,120 --> 00:12:15,920
-it was impossible.
-I knew the idea but I didn't 
+ว่ามันเป็นไปไม่ได้
+ฉันรู้ไอเดียเป็นยังไงแต่ฉันไม่
 
 191
 00:12:15,920 --> 00:12:19,680
-think it would
-become something  
+คิดว่ามันจะกลายเป็นสิ่ง
 
 192
 00:12:19,680 --> 00:12:22,320
-that's actually viable.
-But after Bitcoin rose to 
+ที่ใช้งานได้จริงๆ
+แต่หลังจากที่ Bitcoin พุ่งไปที่
 
 193
 00:12:22,880 --> 00:12:24,480
-a 1000 dollar / 2000
-dollar, 
+1000 ดอลลาร์ / 2000
+ดอลลาร์
 
 194
 00:12:25,360 --> 00:12:29,760
-at that point I was convinced.
-The impossible happened. 
+เมื่อถึงจุดนั้นฉันก็มั่นใจ
+เรื่องที่เป็นไปไม่ได้ก็เกิดขึ้น
 
 195
 00:12:29,760 --> 00:12:32,480
-What will come after
-that would be the inevitable. 
+อะไรจะเกิดขึ้นตามมา
+เป็นสิ่งที่หลีกเลี่ยงไม่ได้
 
 196
 00:12:32,480 --> 00:12:36,240
-That's when I decided I needed
-to get onto this sector, 
+นั่นคือตอนที่ฉันตัดสินใจว่าฉันต้องการ
+เข้าเป็นส่วนหนึ่ง
 
 197
 00:12:36,240 --> 00:12:41,440
-get into this blockchain movement.
-So, I joined a venture in New Zealand. It's a 
+ที่จะเคลื่อนไหวในบล็อกเชน
+ดังนั้น ฉันเสี่ยงเข้ามาในนิวซีแลนด์
 
 198
 00:12:41,440 --> 00:12:45,600
-blockchain startup. This
-startup was grow rapidly 
+มันเป็น startup บล็อกเชน
+startup เริ่มต้นอย่างรวดเร็ว
 
 199
 00:12:46,640 --> 00:12:50,000
-during the
-2017 ICO boom. 
+ในช่วงปี
+2017 ที่ ICO บูม
 
 200
 00:12:50,000 --> 00:12:56,160
-In that period, I learned a lot.
-From that experience, 
+ในช่วงเวลานั้น ฉันเรียนู้
+จากประสบการณ์นั้น
 
 201
 00:12:57,600 --> 00:13:00,240
-there's a number of things that
-I still 
+มีหลายสิ่งที่ฉันต้อง
 
 202
 00:13:01,200 --> 00:13:03,513
-consider valuable lessons today.
-One thing is 
+พิจารณาบทเรียนที่มีค่าในวันนี้
+สิ่งหนึ่งคือ
 
 203
 00:13:03,513 --> 00:13:04,400
-how to stay motivated when
-there are so many things happening; how to 
+วิธีที่จะเติมแรงจูงใจเมื่อ
+มีหลายๆสิ่งถาโถมเข้ามา; วิธีที่จะ
 
 204
 00:13:08,640 --> 00:13:11,200
-stay motivated and create something
-that's actually 
+เพิ่มแรงจูงใจและสร้างสิ่งต่างๆ
+ที่
 
 205
 00:13:11,200 --> 00:13:16,240
-viable and can bring value for all the
-token holders, all the users, 
+เป็นไปได้จริงๆและสามารถนำคุณค่าเพื่อให้
+กับผู้ถือเหรียญ, ผู้ใช้ทั้งหมด
 
 206
 00:13:16,240 --> 00:13:19,520
-everyone evolved in the ecosystem of the
-product that you are creating. 
+ทุกคนที่ช่วยพัฒนาระบบนิเวศน์ของโปรดัค
+ที่คุณกำลังสร้าง
 
 207
 00:13:19,520 --> 00:13:22,240
-That's something I learned. The other
-thing that I also learned is that how 
+นั่นคือสิ่งที่ฉันได้เรียนรู้ สิ่งอื่น
+ที่ฉันได้รู้ด้วยก็คือ
 
 208
 00:13:22,240 --> 00:13:26,560
-to scale and stay focused.
-Because like we are in the 
+วิธีที่จะปรับและจดจ่อกับมัน
+เพราะว่าเราอยู่ใน
 
 209
 00:13:26,560 --> 00:13:30,800
-exponential growth
-era in this industry, 
+การเติบโตแบบทวีคูณ
+ในยุคอุตสาหกรรมนี้
 
 210
 00:13:31,440 --> 00:13:34,240
-you can see that companies grow very very
-fast, but 
+คุณจะเห็นว่าหลายๆบริษัทเติบโตเร็วมาก
+แต่
 
 211
 00:13:34,800 --> 00:13:38,560
-growing a company while stay focused,
-stay tuned 
+เติบโตและยังคงมีเป้าหมาย
+และมีความอดทน
 
 212
 00:13:38,560 --> 00:13:41,200
-to your value proposition is
-quite challenging. 
+นั่นเป็นสิ่งที่ค่อนข้างท้าทาย
 
 213
 00:13:41,920 --> 00:13:44,560
-it's about team building, it's about
-bringing together people with the same mindset. 
+มันเกี่ยวกับการสร้างทีม เกี่ยวกับ
+การนำผู้คนที่มีมายด์เซ็ตเดียวกันมารวมเข้าด้วยกัน
 
 214
 00:13:45,680 --> 00:13:48,960
-It's the hardest thing to do.
-That's the lesson I learned 
+นั่นเป็นสิ่งที่ยากที่สุด
+นั่นคือบทเรียนที่ฉันได้เรียน
 
 215
 00:13:48,960 --> 00:13:52,480
