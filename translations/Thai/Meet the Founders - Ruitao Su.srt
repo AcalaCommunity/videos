@@ -1225,396 +1225,391 @@ Laminar และมันพัฒนากลายเป็น
 
 252
 00:16:09,840 --> 00:16:13,360
-Acala and maybe the process you guys
-went through? 
+Acala ได้อย่างไร อาจจะพูดถึงกระบวนการ
+ของมัน
 
 253
 00:16:13,920 --> 00:16:17,760
-You didn't just pick Polkadot
-you evaluated several different options. 
+คุณไม่ได้แค่เลือก Polkadot
+คุณประเมินตัวเลือกต่างๆมากมาย
 
 254
 00:16:18,480 --> 00:16:21,680
-I think maybe talking about that and how
-you chose Polkadot would be interesting 
+ฉันคิดว่าอาจจะพูดถึงสิ่งนั้น
+และเราเลือก Polkadot ได้อย่างไร นั่นน่าสนใจ
 
 255
 00:16:21,680 --> 00:16:24,320
-too.
-I think back then we already 
+เช่นกัน
+คิดย้อนกลับไปตอนนั้นเรา
 
 256
 00:16:24,320 --> 00:16:26,640
-connected with Parity, so we already knew
-Substrate. 
+เกี่ยวพันกับ Parity อยู่แล้ว ดังนั้นเรารู้จัก
+Substrate อยู่ก่อนแล้ว
 
 257
 00:16:26,640 --> 00:16:29,360
-But when we started this new venture,
-Laminar, 
+แต่เมื่อเราเริ่มต้นสิ่งใหม่นี้
+Laminar
 
 258
 00:16:31,200 --> 00:16:34,560
-we were thinking about what we should do,
-what we should work on, 
+เรากำลังคิดว่าเราควรทำอย่างไร
+อะไรที่เราควรทำงานกับมัน
 
 259
 00:16:34,560 --> 00:16:40,080
-and, as I mentioned previously, we thought that,
-whatever we would work on, we needed to work 
+และอย่างที่บอกไปก่อนหน้านี้ เราคิดว่า
+ไม่ว่างานอะไรก็ตาม เราต้องทำ
 
 260
 00:16:40,080 --> 00:16:43,680
-on something that's viable and has a
-market product fit. 
+บนความเป็นไปได้และมีตลาดรองรับมัน
 
 261
 00:16:43,680 --> 00:16:46,080
-Finance is the first sector that we
-could see 
+การเงินคือภาคแรกที่ฉัน
+มองเห็น
 
 262
 00:16:46,080 --> 00:16:50,560
-it could bring real useful applications on top
-of blockchain. No matter what we do, 
+มันสามารถนำแอปพลิเคชั่นที่มีประโยชน์จริงๆมาไว้
+บนบล็อกเชน ไม่ว่าเราจะทำอะไร
 
 263
 00:16:52,000 --> 00:16:55,840
-our belief is that we need to
-work on something finance-related. 
+ความเชื่อของเราคือเราต้อง
+ทำงานที่เกี่ยวข้องกับการเงิน
 
 264
 00:16:55,840 --> 00:17:00,160
-We thought about all the stuff that we
-could do. We had the idea of 
+เราคิดเกี่ยวกับสิ่งทั้งหมดที่เรา
+ทำได้ เรามีไอเดีย
 
 265
 00:17:00,160 --> 00:17:03,200
-bringing a synthetic asset training
-protocol that can allow 
+ที่จะนำโปรโตคอลสินทรัพย์สังเคราะห์
+ที่จะอนุญาติ
 
 266
 00:17:03,200 --> 00:17:06,080
-trader to trade in a leveraged way -
-which is 
+เทรดเดอร์สามารถเทรดแบบ leverage ได้
+ซึ่ง
 
 267
 00:17:06,880 --> 00:17:07,920
-under development still today. 
+อยู่ระหว่างการพัฒนาจนถึงทุกวันนี้
 
 268
 00:17:10,640 --> 00:17:12,160
-We thought that
-we needed to work on something that's like 
+เราคิดว่า
+เราต้องทำงานบางอย่างที่เหมือนกับ
 
 269
 00:17:12,160 --> 00:17:15,520
-financial base layer or primitive or
-something like that. 
+ชั้นพื้นฐานทางการเงินหรือแบบดั้งเดิม
+หรืออะไรประมาณนั้น
 
 270
 00:17:15,520 --> 00:17:18,880
-We started evaluating that: where do
-we wanted to deploy 
+เราเริ่มประเมินว่า: ที่ไหน
+ที่เราอยากปรับ
 
 271
 00:17:18,880 --> 00:17:23,520
-our solution onto? Back then Ethereum
-wasn't that congested 
+ให้เป็นโซลูชันของเรา ย้อนกลับไปช่วงที่ Ethereum
+ยังไม่ได้อึดอัดขนาดนี้
 
 272
 00:17:23,520 --> 00:17:25,840
-but we researched every
-single 
+เราเรียนรู้
+พื้นฐาน
 
 273
 00:17:26,880 --> 00:17:30,880
-viable base layer out there. We did some
-research on Ethereum 2. 
+ทุก layer ของมัน เราค้นคว้า
+เกี่ยวกับ Ethereum 2 บ้าง
 
 274
 00:17:30,880 --> 00:17:34,960
-We did research on Cosmos and, although
-we already knew Parity, we also 
+เราค้นคว้าบน Cosmos และถึงแม้ว่า
+เรารู้จัก Parity แล้ว เรา
 
 275
 00:17:34,960 --> 00:17:38,240
-did an independent assessment about
-Substrate and Polkadot. 
+ยังทำการประเมินเกี่ยวกับ
+Substrate และ Polkadot เองด้วย
 
 276
 00:17:39,600 --> 00:17:43,040
-We think Ethereum 2 is super cool,
-but we do not know when it's gonna 
+เราคิดว่า Ethereum 2 นั้นเจ๋งมาก
+แต่เราไม่รู้ว่าเมื่อไหร่
 
 277
 00:17:43,040 --> 00:17:43,840
-become available. 
+ที่มันจะเสร็จ
 
 278
 00:17:44,720 --> 00:17:48,080
-We think Cosmos is also a very good
-framework. It allows 
+เราคิดว่า Cosmos ก็เป็น framework ที่ดี
+เหมือนกัน มันให้
 
 279
 00:17:49,200 --> 00:17:54,240
-builders to build a blockchain
-in a very fast way. But again we bounced 
+ผู้สร้างสามารถสร้างบล็อกเชน
+ได้เร็วมาก แต่เราก็เจอ
 
 280
 00:17:54,240 --> 00:17:56,480
-into a problem: if we want to
-build something that's 
+ปัญหา ถ้าเราต้อง
+สร้างบางอย่างที่
 
 281
 00:17:57,040 --> 00:18:00,880
-bankrate security, how do we boost our
-security? 
+ปลอดภัยระดับธนาคาร เราจะเพิ่มประสิทธิภาพ
+ของระบบความปลอดภัยอย่างไร
 
 282
 00:18:00,880 --> 00:18:04,400
-Ultimately we reached the conclusion
-that, if you look at Substrate, 
+ในที่สุดเราก็ได้ข้อสรุป
+ว่าถ้าคุณไปดูท่ Substrate
 
 283
 00:18:04,400 --> 00:18:07,760
-it is the best
-among all 
+มันดีที่สุด
+ท่ามกลาง
 
 284
 00:18:07,760 --> 00:18:10,160
-other base layers. It offers the
-flexibility 
+layer พื้นฐานอื่นๆ มันให้
+ความยืดหยุ่น
 
 285
 00:18:10,160 --> 00:18:13,520
-for developers like us to create
-blockchain with 
+กับ dev แบบพวกเราที่จะสร้าง
+บล็อกเชน
 
 286
 00:18:15,360 --> 00:18:20,080
-full customizability. It offers
-the security needed to deploy a 
+ที่ปรับแต่งได้เต็มที่ มันให้
+ระบบความปลอดภัยที่จำเป็นในการปรับใช้
 
 287
 00:18:20,080 --> 00:18:23,840
-blockchain
-onto Kusama or onto Polkadot network. 
+บล็อกเชนกับเครือข่าย Kusama หรือ Polkadot
 
 288
 00:18:24,480 --> 00:18:27,520
-It also enables the
-interoperability that 
+นอกจากนี้ยังช่วยให้
+การทำงานร่วมกัน
 
 289
 00:18:28,240 --> 00:18:30,720
-will create no
-longer a liquidity sylo. 
+ที่จะไม่ต้องสร้างสภาพคล่อง
 
 290
 00:18:32,880 --> 00:18:36,160
-Then we will be working
-using Substrate and we're going to 
+ฉะนั้นเราจะทำงาน
+โดยใช้ Substrate และเรากำลังจะ
 
 291
 00:18:36,160 --> 00:18:39,440
-work on Polkadot.
-That's pretty much an educated decision. 
+ทำงานบน Polkadot
+นั่นเป็นการตัดสินใจหลังจากที่ศึกษา
 
 292
 00:18:39,440 --> 00:18:43,120
-it's less than a guess, it's
-actually more of an informed 
+มีดีกว่าการเดา เป็นการตัดสินใจจาก
+ข้อมูลที่เรา
 
 293
 00:18:43,120 --> 00:18:47,680
-educated decision. When we're looking
-back two years ago, the Polkadot 
+ศึกษาจริงๆ เมื่อเรามองไป
+เมื่อ2ปีก่อน Ecosystem
 
 294
 00:18:47,680 --> 00:18:50,240
-ecosystem was very different from what we
-know today. 
+ของ Polkadot นั้นแตกต่างจากที่เรา
+รู้จักวันนี้มาก
 
 295
 00:18:51,520 --> 00:18:53,680
-There were few teams that were building
-on Polkadot, 
+มีไม่กี่ทีมที่สร้างบน
+Polkadot
 
 296
 00:18:54,720 --> 00:18:57,280
-only a handful teams
-were building. We pretty much 
+มีเพียงไม่กี่ทีม
+ที่สร้าง เรา
 
 297
 00:18:57,280 --> 00:19:00,720
-knew all the other teams that were building
-in the Polkadot ecosystem. 
+ค่อนข้างรู้จักกับทีมอื่นๆที่สร้างบน
+Polkadot ecosystem
 
 298
 00:19:00,720 --> 00:19:03,840
-We saw a lot of stuff that's lacking,
-for example there's no stablecoin. 
+เราเห็นหลายๆอย่างขาดหายไป
+ยกตัวอย่างเช่น stablecoin
 
 299
 00:19:04,640 --> 00:19:07,200
-Substrate wasn't very mature
-back then, I mean even the 
+Substrate เมื่อก่อนยังไม่ได้
+พัฒนาขนาดนี้ ฉันหมายถึง
 
 300
 00:19:07,200 --> 00:19:12,720
-idea project wasn't
-in 
+ไอเดียของโปรเจ็คก็ไม่ใช่
 
 301
 00:19:12,720 --> 00:19:15,600
-the reach of light launch.
-We thought there were so many 
+อยู่ในช่วงของการเปิดตัว
+เราคิดว่ามีหลายอย่าง
 
 302
 00:19:15,600 --> 00:19:18,560
-things lacking at that time. If we wanted
-to work on something that's finance 
+ที่ขาดหายไปในขณะนั้น ถ้าเราอยาก
+ทำงานบนบางสิ่งที่้เกี่ยวกับการเงิน
 
 303
 00:19:18,560 --> 00:19:21,280
-related, we're gonna
-work on those financial primitives. 
+เราจะ
+ทำงานกับพื้นฐานทางการเงินเหล่านั้น
 
 304
 00:19:21,280 --> 00:19:24,880
-That's when we met Fuyao.
-Fuyao had the same idea, 
+นั่นคือตอนที่เราได้พบกับ Fuyao
+Fuyao มีไอเดียแบบเดียวกัน
 
 305
 00:19:24,880 --> 00:19:28,720
-we shared the same idea.
-That's essentially how Acala network 
+เราแชร์ไอเดียที่เหมือนกัน
+นั่นคือเหตุผลที่เครือข่าย Acala
 
 306
 00:19:28,720 --> 00:19:31,680
-was born: a set of financial primitives
-to make sure that 
+ถือกำเนิดขึ้น: ชุดของพื้นฐานทางการเงิน
+เมื่อให้แน่ใจว่า
 
 307
 00:19:31,680 --> 00:19:34,080
-the whole financial sector, the whole
-financial 
+ครอบคลุมภาคการเงินทั้งหมด
 
 308
 00:19:35,040 --> 00:19:38,240
-application can be enabled on top of
-Polkadot. 
+สามารถใช้งานแอปพลิเคชันทางการเงินบน
+Polkadot ได้ทั้งหมด
 
 309
 00:19:38,240 --> 00:19:41,760
-That's awesome. I just learned some
-things myself, so appreciate that. 
+นั่นเจ๋งมาก ฉันได้เรียนรู้
+บางอย่างเหมือนกัน ขอบคุณมาก
 
 310
 00:19:44,480 --> 00:19:47,920
-Let's move on to
-Acala and Karura. 
+มาต่อกันที่
+Acala และ Karura
 
 311
 00:19:49,280 --> 00:19:53,360
-One thing I was just wondering,
-if you were to describe 
+สิ่งหนึ่งที่ฉันสงสัย
+ถ้าคุณจะอธิบายเกี่ยวกับ
 
 312
 00:19:54,240 --> 00:19:57,840
-Karura. So for people's
-background who may not be aware, so we're 
+Karura สำหรับผู้คน
+เบื้องหลังที่อาจไม่รู้ เรา
 
 313
 00:19:57,840 --> 00:20:00,800
-building
-Acala as this DeFi hub for Polkadot and 
+กำลังสร้าง
+Acala เป็นจุดศูนย์รวม DeFi บน Polkadot และ
 
 314
 00:20:00,800 --> 00:20:03,680
-then Karura is our DeFi hub we're
-building for Kusama. 
+Karura เป็นจุดศูนย์รวม DeFiของเราที่เรา
+สร้างขึ้นเพื่อ Kusama
 
 315
 00:20:05,840 --> 00:20:07,920
-Could you just describe
-if you were to pick three 
+คุณช่วยอธิบายโดย
+ถ้าคุณต้องเลือก3
 
 316
 00:20:08,560 --> 00:20:11,280
-characteristics, how would you
-describe Karura in 
+คุณสมบัติ อะไรที่คุณจะอธิบาย
+Karura ใน
 
 317
 00:20:11,280 --> 00:20:15,120
-three words? This is an
-interesting question. In three 
+3คำ นี่เป็นคำถาม
+ที่น่าสนใจ ใน 3
 
 318
 00:20:16,240 --> 00:20:21,920
-words.
-I would say "wild", that's really the 
+คำ
+ฉันจะพูดว่า "เถื่อน(wild)" นั่นเป็น
 
 319
 00:20:21,920 --> 00:20:24,800
-very first word that I can think of,
-that's the nature of Kusama. 
+ทำแรกๆที่ฉันคิดออก
+นั่นคือธรรมชาติของ Kusama
 
 320
 00:20:25,360 --> 00:20:29,120
-The second one I would say "vibrant",
-because that's 
+อันที่สองฉันจะพูดว่า "กังวาน(vibrant)"
+เพราะว่า
 
 321
 00:20:29,120 --> 00:20:32,800
-my feeling for the Kusama community. It's
-even more distributed. 
+ฉันรู้สึกมันกับcommunity ของ Kusama มัน
+กำลังกระจายไป
 
 322
 00:20:34,080 --> 00:20:38,080
-Finally, I wouldn't use
-the word "chaos", but I would like to use 
+สุดท้าย ฉันจะ
+ไม่ใช้คำว่า "อลเวง(chaos)" แต่ฉันจะใช้
 
 323
 00:20:38,080 --> 00:20:39,120
-something ...
-let me think  
+บางอย่าง
+คิดแปป
 
 324
 00:20:39,120 --> 00:20:43,040
-about what world ...
-"aggressive", probably is the word. 
+เกี่ยวกับโลก
+"ดุดัน(aggressive)" อาจจะคำนี้
 
 325
 00:20:43,040 --> 00:20:47,840
-We would like to roll out
-new and brave ideas on Karura. It's the 
+เราต้องการที่จะเปิดตัว
+ไอเดียที่ใหม่และกล้าหาญบน Karura มัน
 
 326
 00:20:47,840 --> 00:20:52,640
-canary network. It's also
-to serve this model of more 
+เป็นเครือข่าย canary มัน
+เป็นโมเดลที่ให้
 
 327
 00:20:52,640 --> 00:20:55,360
-fast-paced, more aggressive communities.
-Those are probably the 
+ความรวดเร็ว community ที่ดุดันกว่า
+พวกนั้นน่าจะเป็น
 
 328
 00:20:55,920 --> 00:20:59,360
-three words that I can think of as my
-initial shots. 
+3 คำที่ฉันคิดออก
+มาแรกๆ
 
 329
 00:21:00,160 --> 00:21:03,360
-Just for people's background,
-what are some examples of things that we 
+เพื่อผู้คนเบื้องหลัง
+ช่วยยกตัวอย่างสิ่งที่เรา
 
 330
 00:21:03,360 --> 00:21:07,840
-could do differently on Karura than
-Acala. I know there's like collaterals. 
+สามารถทำได้บน Karura ดีกว่า
+Acala ฉันรู้ว่ามี การค้ำประกัน
 
 331
 00:21:07,840 --> 00:21:10,880
