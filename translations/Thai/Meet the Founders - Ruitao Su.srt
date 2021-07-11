@@ -1168,63 +1168,60 @@ Acala ฉันทำงานกับพวกเขา
 
 240
 00:15:22,000 --> 00:15:27,520
-That's how Acala was
-conceived. Pretty much after 
+นั่นทำให้ acala
+เกิดขึ้นมา หลังจากนั้น
 
 241
 00:15:27,520 --> 00:15:31,920
-that, we've been working
-every day 
+เราทำงานกันทุกวัน
 
 242
 00:15:31,920 --> 00:15:35,360
-24/7, working on the product,
-getting the product out, 
+24 ชั่วโมง ทำงานเกี่ยวกับโปรดัค
+สร้างโปรดัคให้สำเร็จ
 
 243
 00:15:36,000 --> 00:15:41,120
-getting all the code ready.
-Everything went and is going very well. 
+ทำให้โค้ดพร้อมใช้งาน
+ทุกอย่างกำลังไปได้สวย
 
 244
 00:15:42,160 --> 00:15:44,000
-I see this is only
-the beginning, right. 
+ฉันคิดว่ามัน
+กำลังเริ่มต้น ใช่
 
 245
 00:15:46,480 --> 00:15:49,360
-We have the code
-pretty much ready to go, but we 
+เรามีโค้ด
+ที่ค่อนข้างพร้อม แต่เรา
 
 246
 00:15:49,360 --> 00:15:52,400
-haven't launched the network yet.
-I think that, once we launch 
+ยังไม่ได้เปิดตัวเครือขาย
+ฉันคิดว่า เมื่อเราเปิดตัว
 
 247
 00:15:52,400 --> 00:15:56,400
-the network, it is still the very
-beginning of what would be possible 
+เครือข่าย มันยังคง
+เป็นการเริ่มต้นสิ่งที่เป็นไปได้
 
 248
 00:15:56,400 --> 00:15:59,680
-in the upcoming two or
-three years. 
+ในอีก2-3ปีที่จะถึง
 
 249
 00:16:00,640 --> 00:16:02,560
-There was a period in there where
-you guys, 
+มีช่วงเวลาหนึ่งที่พวกคุณ
 
 250
 00:16:02,560 --> 00:16:05,840
-the three of you, started Laminar. Is that
-right? Yes. 
+3คน เริ่มสร้าง Laminar ถูกไหม
+ใช่
 
 251
 00:16:05,840 --> 00:16:09,840
-Can you talk about starting
-Laminar and then how that evolved into 
+คุณช่วยพูดถึงการเริ่มต้น
+Laminar และมันพัฒนากลายเป็น
 
 252
 00:16:09,840 --> 00:16:13,360
