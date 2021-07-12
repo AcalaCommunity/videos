@@ -1062,23 +1062,23 @@ Acala,
 
 213
 00:14:54,000 --> 00:14:57,120
-There's full synthetic margin
-training protocol in there. 
+Там есть полный протокол 
+синтетической тренировки маржи.
 
 214
 00:14:57,120 --> 00:15:00,880
-We're about to launch on Ethereum but
-that's also the beginning of you yfarming, 
+Мы собираемся запустить на Ethereum, но 
+это также начало вашего фермерства,
 
 215
 00:15:01,760 --> 00:15:05,600
-and then we reevaluated
-everything and probably 
+а затем мы пересмотрели 
+все и, вероятно,
 
 216
 00:15:06,160 --> 00:15:09,760
-Substrate and Polkadot is a probably
-much better bet for the model 
+Substrate и Polkadot, вероятно, 
+намного лучше подходят для этой модели,
 
 217
 00:15:09,760 --> 00:15:14,880
