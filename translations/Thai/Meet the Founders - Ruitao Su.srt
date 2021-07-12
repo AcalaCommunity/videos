@@ -1724,98 +1724,92 @@ Acala คุณจะต้องแข็งแกร่งมาก
 
 354
 00:22:48,320 --> 00:22:52,640
-Awesome. On a similar question,
-let's switch to Acala now. 
+เจ๋งมาก คำถามคล้ายๆเดิม
+เปลี่ยนมาที่ Acala
 
 355
 00:22:53,360 --> 00:22:55,680
-How would you describe Acala in three
-words? 
+คุณช่วยอธิบาย Acala ใน 3 คำ
 
 356
 00:22:56,960 --> 00:22:59,680
-Well in three words again, let me think
-about that. 
+ใน 3 คำอีกแล้วหรอ ให้ฉันคิด
+แปปนึง
 
 357
 00:23:06,080 --> 00:23:08,320
-I think the very
-first one should be "secure" 
+ฉันคิดว่า
+คำแรกควรจะเป็น "ปลอดภัย(secure)"
 
 358
 00:23:08,880 --> 00:23:12,160
-or "safe" or something like that. So the
-very first way should give 
+หรือ "safe" หรืออะไรทำนองนี้ สิ่ง
+แรกๆที่มันควรจะให้เราคือ
 
 359
 00:23:12,160 --> 00:23:14,960
-a sense of security. I think that's
-the most important thing if you want to 
+ความปลอดภัย ฉันคิดว่านั่น
+เป็นสิ่งที่สำคัญที่สุดถ้าเราอยาก
 
 360
 00:23:14,960 --> 00:23:19,280
-become the financial Layer.
-It has to be secure. The second would be 
+เป็นขั้นพื้นฐานของระบบการเงิน
+มันต้องปลอดภัย อย่างที่สอง
 
 361
 00:23:25,040 --> 00:23:29,760
-focused on
-something that's about 
+จะมุ่งเน้นไปที่เกี่ยวกับ
 
 362
 00:23:30,640 --> 00:23:32,320
-a word we
-can use for 
+คำที่เป็นประมาณว่า
 
 363
 00:23:32,320 --> 00:23:36,800
-"owning your own bank", like as a sense of
-ownership. Right. So maybe a "sense of 
+"เป็นเจ้าของธนาคารของคุณเอง" เหมือนความรู้สึก
+ว่าเราเป็นเจ้าของ ดังนั้นบางที
 
 364
 00:23:36,800 --> 00:23:39,600
-ownership", that's it.
-It's something secure, it's something 
+"ความรู้สึกเป็นเจ้าของ" นั่นละ
+มันปลอดภัย มันแข็ง
 
 365
 00:23:39,600 --> 00:23:42,000
-solid, but also you can have a part of
-that. 
+แกร่ง แต่คุณสามารถเป็นส่วนหนึ่งของมัน
 
 366
 00:23:44,160 --> 00:23:47,840
-If Acala would be your own bank,
-you can actually own 
+ถ้า Acala เป็นธนาคารของคุณ
+คุณสามารถเป็น
 
 367
 00:23:47,840 --> 00:23:51,760
-a fraction of that by ourselves.
-Secure. 
+ส่วนหนึงของพวกเราได้
+ปลอดภัย
 
 368
 00:23:51,760 --> 00:23:58,400
-Ownership.
-The final word that I would 
+ความเป็นเจ้าของ
+คำสุดท้ายฉันจะอาจ
 
 369
 00:23:58,400 --> 00:24:00,160
-say
-is probably like "long-term". 
+จะบอกว่า "ระยะยาว(long-term)"
 
 370
 00:24:01,920 --> 00:24:05,040
-Because we're here and it would align
-with 
+เพราะว่าเรามาถึงจุดนี้ และมันก็สอดคล้อง
+กับ
 
 371
 00:24:05,040 --> 00:24:10,160
-our value proposition. We think the DeFi
-movement is on a very early stage 
+ความเป็นเรา เราคิดว่า DeFi
+ยังอยู่ในช่วงเริ่มต้น
 
 372
 00:24:10,160 --> 00:24:14,000
-and essentially I believe that the DeFi is
-going to 
+และฉันเชื่อมั่นว่า DeFi จะ
 
 373
 00:24:14,720 --> 00:24:18,480
