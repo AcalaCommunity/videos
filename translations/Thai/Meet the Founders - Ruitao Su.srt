@@ -2203,527 +2203,509 @@ Robin เรามีผู้มีส่วนร่วมใน
 
 454
 00:29:37,600 --> 00:29:39,360
-needs
-to share the same value 
+แบ่งปันในสิ่งเดียวกัน
 
 455
 00:29:39,360 --> 00:29:42,480
-as what we believe such as the true 
+เหมือนที่เราเชื่อว่าเป็น
 
 456
 00:29:42,480 --> 00:29:45,440
-nature of decentralization, the
-opportunity that we are enabling, 
+ธรรมชาติของการกระจายอำนาจ
+โอกาสที่เราเอื้อ
 
 457
 00:29:46,560 --> 00:29:49,360
-the opportunities that
-we can bring 
+โอกาสที่เราสามารถนำ
 
 458
 00:29:49,360 --> 00:29:54,880
-to all the people that are not yet
-using blockchain. Second, 
+ผู้คนที่ยังไม่เคยใช้
+blockchain สอง
 
 459
 00:29:55,840 --> 00:29:58,400
-the new team member also need to have
-this same 
+สมาชิกใหม่ในทีมต้องมี
 
 460
 00:29:59,120 --> 00:30:03,840
-values of
-accountability, responsibility, as part 
+ความรับผิดชอบระดับเดียวกัน ทั้ง
 
 461
 00:30:03,840 --> 00:30:07,600
-of the the protocol and of the
-product that you will work on, 
+ส่วนของโปรโตคอลและโปรดัคที่
+เราจะทำงานกับมัน
 
 462
 00:30:07,600 --> 00:30:10,800
-that you treat it as your own baby and
-deliver it. 
+คุณปฎิบัติกับมันเหมือนลูกของคุณเองและ
+ส่งมอบมัน
 
 463
 00:30:13,520 --> 00:30:16,160
-With blockchain
-it is pretty much walking around the clock. 
+ด้วยบล็อกเชน
+มันจะเดินไปรอบๆนาฬิกา
 
 464
 00:30:18,640 --> 00:30:23,360
-Maybe one sentence can describe that:
-"work hard and play hard", when 
+บางทีประโยคนี้สามารถอธิบายได้:
+"work hard and play hard" เมื่อ
 
 465
 00:30:23,360 --> 00:30:26,720
-it's needed. Maybe you will work hard for a
-number of weeks, like 
+มันต้องการ บางทีคุณจะทำงานตลอด
+หลายสัปดาห์ เหมือน
 
 466
 00:30:26,720 --> 00:30:29,440
-we're facing right now as we think
-we're going to launch the Karura 
+อย่างที่เรากำลังทำตอนนี้ และเราคิด
+ว่าเราจะเปิดตัวเครือข่าย Karura
 
 467
 00:30:29,440 --> 00:30:33,600
-network pretty soon, so everyone is in
-battle station mode. But, when you are not 
+อีกไม่นาน ดังนั้นทุกคนจึง
+อยู่ในโหมดพร้อมรบ แต่เมื่อคุณ
 
 468
 00:30:33,600 --> 00:30:36,640
-that busy, then maybe
-learn something, new explore 
+ว่าง บางที
+อาจจะเรียนรู้สิ่งใหม่ สำรวจโปรโตคอล
 
 469
 00:30:36,640 --> 00:30:40,080
-protocol or something like that. I
-think that's pretty much the culture 
+ใหม่ๆหรืออะไรทำนองนั้น
+ฉันคิดว่านั่นเป็นวัฒนธรรม
 
 470
 00:30:40,080 --> 00:30:43,360
-of the current team members 
+ของทีมเราในตอนนี้
 
 471
 00:30:43,360 --> 00:30:46,400
-that's working on the Acala or on
-the other products. 
+ที่ทำงานบน Acala หรือบน
+โปรดัคอื่นๆ
 
 472
 00:30:47,680 --> 00:30:51,200
-Perfect. You kind of touched on
-this a little bit, but, 
+เพอร์เฟ็ค คุณสัมผัส
+ได้ถึงมัน แต่
 
 473
 00:30:52,720 --> 00:30:54,960
-in these times when we're working so
-much and 
+ในช่วงเวลาเหล่านี้เมื่อเราทำงาน
+หนักและ
 
 474
 00:30:55,520 --> 00:30:57,920
-we've got all everything going on, what
-would you say 
+เมื่อทุกอย่างถาโถมเข้ามา อะไร
+ที่ทำให้คุณ
 
 475
 00:30:59,920 --> 00:31:02,000
-gets you out of bed in the
-morning? What it 
+ลุกขึ้นมาจากเตียงใน
+ตอนเช้า อะไร
 
 476
 00:31:02,000 --> 00:31:05,520
-inspires you to do what you do every day
-and keeps you motivated? 
+เป็นแรงบรรดาลใจให้คุณทำอย่างที่คุณทำในทุกๆวัน
+และรักษาแรงจูงใจไว้ได้
 
 477
 00:31:09,200 --> 00:31:12,560
-About what really keeps me
-motivated right now, 
+เกี่ยวกับสิ่งที่ทำให้ฉัน
+มีแรงบรรดาลใจในตอนนี้
 
 478
 00:31:13,840 --> 00:31:15,440
-I don't know who said
-that 
+ฉันไม่รู้ใครพูด
 
 479
 00:31:15,440 --> 00:31:19,280
-but I read the Twitter
-some time ago saying: 
+แต่ฉันอา่นใน Twitter
+เมื่อนานมาแล้วมันบอกว่า:
 
 480
 00:31:19,280 --> 00:31:21,840
-"hey,
-the crypto market is doing great that's 
+"เฮ้
+ตลาดคริปโตกำลังไปได้สวยนั่น
 
 481
 00:31:21,840 --> 00:31:24,880
-all right but,
-the question is that, if 
+ดีเลยแต่
+คำถามคือ ถ้า
 
 482
 00:31:25,440 --> 00:31:27,760
-everyone's better off with the crypto
-going up, 
+ทุกคนชีวิตดีเมื่อคริปโตราคาขึ้น
 
 483
 00:31:27,760 --> 00:31:30,880
-then who is going to build the crypto?
-Who is going to build the products? Who's 
+ใครจะเป็นคนสร้างคริปโต
+ใครจะเป็นคนสร้างโปรดัค ใคร
 
 484
 00:31:33,360 --> 00:31:34,960
-continuing to
-stay motivated 
+จะยังคง
+มีแรงบรรดาลใจ
 
 485
 00:31:34,960 --> 00:31:38,320
-and deliver products to make this
-crypto 
+ที่จะส่งมอบโปรดัคให้คริปโต
 
 486
 00:31:38,320 --> 00:31:40,960
-a reality for
-our future?" 
+เป็นไปได้จริงในอนาคต"
 
 487
 00:31:41,840 --> 00:31:45,760
-I think what keeps me motivated 
+ฉันคิดว่านั่นเป็นแรงกระตุ้น
 
 488
 00:31:46,640 --> 00:31:47,920
-it's not
-about 
+มันไม่ใช่แค่
 
 489
 00:31:47,920 --> 00:31:51,600
-hey Bitcoin is going up few thousand
-dollars or something like that. It's more 
+เฮ่ Bitcoin ราคาขึ้นหลายพันดอลลาร์
+หรืออะไรทำนองนั้น แต่มันมากกว่านั้น
 
 490
 00:31:51,600 --> 00:31:54,080
-like every
-day every morning I wake up and I think 
+เหมือนกับทุกๆ
+วันทุกๆเช้า ฉันตื่นขึ้นและคิด
 
 491
 00:31:54,080 --> 00:31:59,200
-about how to be able to create
-a product / a protocol that I have a part in 
+ว่าเราจะสร้างโปรดัคให้สำเร็จได้อย่างไร
+โปรโตคอลที่ฉันมีส่วน
 
 492
 00:31:59,200 --> 00:32:02,720
-making but it's not totally owned by me.
-It's owned by thousands of people. 
+ในการสร้างแต่มันไม่ได้เป็นเจ้าของโดนฉัน
+มันเป็นเจ้าของโดยคนกว่าพันคน
 
 493
 00:32:03,280 --> 00:32:07,120
-It has like millions of users.
-Their life 
+มีผู้ใช้งานเป็นล้านคน
+ชัวิตพวกเขา
 
 494
 00:32:07,120 --> 00:32:09,360
-is better because I
-created this product. 
+ดีขึ้นเพราะว่า
+ฉันสร้างโปรดัคขึ้นมา
 
 495
 00:32:09,360 --> 00:32:13,040
-They're able to exchange faster, they're
-able to have higher interest rate in 
+พวกเขาสามารถแลกเปลี่ยนอย่างรวดเร็ว
+พวกเขาสามารถได้รับดอกเบี้ยที่สูง
 
 496
 00:32:13,040 --> 00:32:17,360
-their bank account.
-The millions of users, 
+กว่าบัญชีธนาคาร
+ผู้ใช้กว่าล้านคน
 
 497
 00:32:18,080 --> 00:32:21,360
-or token holders or traders or
-whatever committee members, 
+หรือผู้ถือเหรียญหรือเทรดเดอร์หรือ
+ใครก็ตามเป็นสมาชิก
 
 498
 00:32:22,560 --> 00:32:25,440
-they are better off because of what I
-am creating and I am part of this 
+พวกเขาดีขึ้นเพราะสิ่งที่
+ฉันสร้างและฉันเป็นส่วนหนึ่ง
 
 499
 00:32:25,440 --> 00:32:27,840
-movement. That's what made me
-stay motivated. 
+ของการขับเคลื่อน นั่นทำให้ฉัน
+มีแรงกระตุ้น
 
 500
 00:32:30,480 --> 00:32:31,840
-In our office, we
-have a 
+ในออฟฟิซของเรา เรามี
 
 501
 00:32:31,840 --> 00:32:36,640
-screen, showing all the latest metrics of
-the product that we're building - 
+หน้าจอ ที่จะโชว์ตัวชี้วัดของโปรดัค
+ทั้งหมดที่เรากำลังสร้าง
 
 502
 00:32:36,640 --> 00:32:40,400
-because we haven't gone live yet.
-The metrics that are being shown are 
+เพราะว่าเรายังไม่ได้เปิดตัว
+ตัวชี้วัดที่กำลังแสดงคือ
 
 503
 00:32:40,400 --> 00:32:43,040
-basically how the testnet
-is getting hit, 
+ดูว่า testnet ถูกใช้งานแค่ไหน
 
 504
 00:32:43,040 --> 00:32:46,480
-what's the server load, what's
-our community 
+อะไรคือเซิร์ฟเวอร์โหลด community
 
 505
 00:32:46,480 --> 00:32:50,400
-size, which is growing every day.
-Those numbers actually make me 
+มีขนาดเท่าไหร่ อะไรที่กำลังโตขึ้นทุกวัน
+ตัวเลขนั้นทำให้ฉัน
 
 506
 00:32:50,400 --> 00:32:53,280
-stay motivated. I would like to see that,
-once we go live, 
+มีแรงกระตุ้น ฉันอยากจะเห็น
+เมื่อมันเกิดขึ้น
 
 507
 00:32:54,320 --> 00:32:57,440
-the number of um transactions they're
-able to facilitate, 
+ตัวเลขของธุรกรรมที่พวกเขาสามารถ
+ใช้อย่างง่ายดาย
 
 508
 00:32:57,440 --> 00:33:02,240
-the number of users, the number of
-financial application, 
+จำนวนผู้ใช้งาน จำนวนของ
+แอปพลิเคชันการเงิน
 
 509
 00:33:03,120 --> 00:33:08,400
-traders that we are able to serve,
-grow and that's what keeps me going every 
+เทรดเดอร์ที่เราสามารถให้บริการ
+เติบโตขึ้นและนั่นคือสิ่งที่ทำให้ฉันสามารถ
 
 510
 00:33:08,400 --> 00:33:12,320
-day.
-Great. Let's wrap up with one 
+ไปต่อ
+เยี่ยมมาก มาปิดท้ายกัน
 
 511
 00:33:12,320 --> 00:33:16,880
-more question.
-If you were to think forward in 
+ด้วยอีกหนึ่งคำถาม
+ถ้าคุณคิดไปถึงข้างหน้า
 
 512
 00:33:16,880 --> 00:33:20,400
-terms of how you're mentally preparing
-for the next, maybe three to five years, 
+คุณจะเตีรยมตัวกับมันอย่างไร
+บางทีอาจจะ 3-5 ปีข้างหน้า
 
 513
 00:33:20,400 --> 00:33:24,720
-in terms of where you see
-our product going but also DeFi and 
+ในส่วนของโปรดัคของเราจะอยู่ที่ไหน
+DeFi และ
 
 514
 00:33:24,720 --> 00:33:27,600
-blockchain,
-how would you describe that future 
+บล็อกเชน
+คุณช่วยอธิบาย
 
 515
 00:33:31,360 --> 00:33:32,720
-of
-what DeFi might look like? 
+ว่าในอนาคต DeFi จะเป็นอย่างไร
 
 516
 00:33:34,640 --> 00:33:37,840
-I think the DeFi movement or
-actually I would call it the 
+ฉันคิดว่าการเคลื่อนที่ของ DeFi หรือ
+ฉันจะเรียกว่า
 
 517
 00:33:38,960 --> 00:33:42,400
-the whole financial sector
-on blockchain movement, it's very very 
+การเคลื่อนที่ของภาคการเงินทั้งหมด
+บนบล็อกเชน มันค่อนข้าง
 
 518
 00:33:42,400 --> 00:33:46,240
-early at this stage. If you
-compare the existing DeFi market 
+แรกเริ่มมากๆๆ ถ้าคุณ
+เปรียบเทียบกับตลาด DeFi ที่มีอยู่แล้ว
 
 519
 00:33:46,800 --> 00:33:49,920
-to the conventional financial
-market, 
+กับตลาดการเงินแบบปกติ
 
 520
 00:33:50,960 --> 00:33:54,480
-it's peanuts. Well ultimately I do
-believe that 
+มันมีน้อยมาก ฉันเชื่อมั่นว่า
 
 521
 00:33:55,120 --> 00:33:59,040
-the current blockchain is going to
-be the backbone of 
+บล็อกเชนในตอนนี้จะกลายเป็น
+กระดูกสันหลัง
 
 522
 00:33:59,040 --> 00:34:02,720
-everything finance-related in the future.
-We don't know how it's going to happen. 
+ของทุกๆระบบการเงินในอนาคต
+เราไม่รู้ว่ามันจะเกิดขึ้นอย่างไร
 
 523
 00:34:02,720 --> 00:34:07,360
-We don't know when,
-how long it will take 
+เราไม่รู้ว่าเมื่อไหร่
+จะใช้เวลานานแค่ไหน
 
 524
 00:34:07,360 --> 00:34:11,040
-for us to get to that stage.
-I also believe that 
+ที่จะไปถึงระดับนั้น ฉันเชื่อว่า
 
 525
 00:34:11,680 --> 00:34:15,120
-during this movement it's not going to
-be like a 100% percent that everyone 
+ระหว่างการเคลื่อนไหวนี้ มันคงจะไม่
+100% ที่ทุกคน
 
 526
 00:34:15,120 --> 00:34:18,640
-will be making transaction directly
-on the blockchain. It is also not 100% 
+จะมาทำธุรกรรมบนบล็อกเชน
+โดยตรง มันไม่ 100%
 
 527
 00:34:18,640 --> 00:34:21,840
-that the blockchain is just used as
-a server, being set up by a 
+ที่บล็อกเชนจะเป็นเซิร์ฟเวอร์ที่จัดตั้ง
 
 528
 00:34:21,840 --> 00:34:25,040
-few financial institutions as well.
-I believe in a 
+โดยสถาบันการเงินไม่กี่แห่งเช่นกัน
+ฉันเชื่อใน
 
 529
 00:34:25,600 --> 00:34:32,160
-in a mix, in a fusion of both.
-Someone like me or some engineer, some 
+การผสม การฟิวชั่นของทั้งคู่
+บางคนเช่นฉันหรือวิศวกร
 
 530
 00:34:32,160 --> 00:34:36,320
-new younger generations, they might
-prefer to transact directly 
+คนรุ่นใหม่ พวกเขาต้องการ
+ทำธุรกรรมโดยตรง
 
 531
 00:34:36,320 --> 00:34:38,720
-with the blockchain and that's possible,
-that's viable. 
+กับบล็อกเชนและนั่นเป็นไปได้
+มันเป็นจริงได้
 
 532
 00:34:39,600 --> 00:34:44,160
-And someone like my mom or
-someone that's not that nerdy, 
+และบางคนเช่นแม่ของฉัน
+หรือบางคนที่ไม่ได้เนิร์ด
 
 533
 00:34:44,160 --> 00:34:48,320
-they might want to to choose to get the
-benefit of DeFi 
+พวกเขาอาจจะอยากเลือกที่จะมาหาผลประโยชน์
+กับ DeFi
 
 534
 00:34:48,320 --> 00:34:51,600
-or get a benefit for blockchain, but they
-will translate through some sort of 
+หรือหาผลประโยชน์กับบล็อกเชน แต่พวกเขา
+อาจจะทำผ่าน
 
 535
 00:34:51,600 --> 00:34:56,080
-crypto finance service provider
-or new generation type of bank. I 
+ผู้ให้บริการระบบการเงินคริปโต
+หรือธนาคารยุคใหม่ ฉัน
 
 536
 00:34:56,080 --> 00:34:58,960
-think this is a movement that will take
-take at least 
+คิดว่านี่เป็นการเคลื่อนไหวที่จะใช้
+เวลาอย่างน้อย
 
 537
 00:34:58,960 --> 00:35:04,000
-five years, ten years
-to move. But again, this is purely a 
+5ปี 10ปี
+เพื่อไปถึง แต่อีกครั้ง นี่เป็น
 
 538
 00:35:04,000 --> 00:35:07,760
-software movement, so
-it might happen sooner than we expected. 
+การเคลื่อนไหวของซอร์ฟแวร์เฟี้ยวๆ
+ดังนั้นมันอาจจะเกิดขึ้นเร็วกว่าที่เราคาดคิด
 
 539
 00:35:07,760 --> 00:35:09,680
-We just need to make sure that we are
-prepared for that. 
+เราแค่ต้องแน่ใจว่าเราเตรียม
+พร้อมสำหรับมัน
 
 540
 00:35:11,440 --> 00:35:13,280
-Lastly, I would just say that
-this is something that's 
+สุดท้าย ฉันอยากจะบอกว่า
+นี่เป็นบางสิ่ง
 
 541
 00:35:14,160 --> 00:35:17,520
-very very early but the potential that
-we are able to achieve, 
+ที่อยู่ในยุคแรกเริ่มมากๆแต่โพเท็นเชี่ยลนั่น
+สามารถบรรลุได้
 
 542
 00:35:17,520 --> 00:35:21,440
-the potential we're able to bring for
-the whole population is limitless. 
+โพเท็นเชียลที่เราสามารถนำ
+ให้ประชากรทั้งโลกได้แบบไม่มีจำกัด
 
 543
 00:35:21,440 --> 00:35:24,560
-Think about all the unbanked people in
-the world, they are 
+คิดถึงคนที่ไม่มีบัญชีธนาคารใน
+โลก พวกเขา
 
 544
 00:35:24,560 --> 00:35:28,400
-possibly switch to being able, by using DeFi, to 
+สามารถเปลี่ยนมาใช้ได้ โดยการใช้ DeFi
 
 545
 00:35:28,400 --> 00:35:34,800
-finally access
-financial instruments. For 
+เพื่อเข้าสู่
+เครื่องมือทางการเงินได้
 
 546
 00:35:35,600 --> 00:35:38,800
-people that already have access to the
-conventional finance sector, 
+สำหรับผู้คนที่มีการเข้าถึงภาคส่วนระบบ
+การเงินอยู่แล้ว
 
 547
 00:35:38,800 --> 00:35:42,320
-they might be better off with using
-transact 
+พวกเขาอาจจะมีชีวิตดีขึ้นด้วยการ
+ทำธุรกรรม
 
 548
 00:35:42,320 --> 00:35:46,800
-with blockchain directly, they might have
-interest rates, they might have better 
+ด้วยบล็อกเชนโดยตรง พวกเขาจะ
+ได้รับดอกเบี้ย พวกเขาจะได้รับอิสระ
 
 549
 00:35:46,800 --> 00:35:47,920
-freedom
-in what they are doing. 
+ที่ดีกว่าที่พวกเขาเป็นในตอนนี้
 
 550
 00:35:50,480 --> 00:35:54,080
-I'm fully committed to this sector
-and I will say that maybe 
+ฉันมุ่งมั่นอย่างเต็มที่กับภาคส่วนนี้
+และฉันจะบอกว่าบางที
 
 551
 00:35:54,080 --> 00:35:58,560
-we will be laser focused for the next
-six months/ next one year on Acala, 
+เราจะมุ่งเล้นไปที่ 6 เดือนถัดไป
+1ปีถัดไป บน Acala
 
 552
 00:35:59,440 --> 00:36:04,880
-an that is the short term for the
-improvement of product and the movement, but in 
+และนั่นคือระยะสั้นที่เรา
+จะปรับปรุงโปรดัคและเคลื่อนไหวมัน แต่ใน
 
 553
 00:36:04,880 --> 00:36:07,760
-long-term, we'll all be thinking that we
-will be keep improving, 
+ระยะยาว เราจะคิดถึงการ
+พัฒนาอย่างต่อเนื่อง
 
 554
 00:36:07,760 --> 00:36:11,760
-we'll be keep innovating and that's how
-we stay relevant in this industry 
+เราจะสร้างสรรค์สิ่งใหม่ๆต่อไป และนั่นคือ
+วิธีที่เรายังเกี่ยวข้องในอุตสาหกรรมนี้
 
 555
 00:36:11,760 --> 00:36:16,640
-until at least half of the world
-population is connecting to blockchain. 
+จนถึงอย่างน้อยครึ่งของ
+ประชากรโลกเชื่อมต่อกับบล็อกเชน
 
 556
 00:36:16,640 --> 00:36:20,640
-And that will probably take five years,
-10 years, but we are committed to do that! 
+และนั่นอาจจะใช้เวลา 5 ปี
+10 ปี แต่เรามุ่งมั่นที่จะทำอย่างนั้น
 
 557
 00:36:22,000 --> 00:36:25,840
-Great. Well I think that's about it. I
-learned a lot and appreciate the time. 
+เยี่ยมมาก ฉันคิดว่านั่นคือทั้งหมด
+ฉันได้เรียนรู้หลายๆอย่าง ขอบคุณสำหรับเวลา
 
 558
 00:36:27,920 --> 00:36:32,560
-Let's get back to work.
-Well, yeah, let's get back to launch 
+กลับไปทำงานกันเถอะ
+ใช่ กลับไปเปิดตัว
 
 559
 00:36:32,560 --> 00:36:36,800
-Karura.
-yeah thanks thank you then.
+Karura
+ใช่เลย ขอบคุณมากๆ
 
