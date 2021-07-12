@@ -768,75 +768,75 @@ staking ก็ได้หรือ
 
 193
 00:07:06,240 --> 00:07:12,720
-much more easier so this is the express
+ง่ายกว่า และนี่คือหน้า ui
 
 194
 00:07:10,960 --> 00:07:14,400
-ui so you just enter the amount of dots
+ซึ่งคุณสามารถใส่จำนวนของ dot
 
 195
 00:07:12,720 --> 00:07:18,160
-you would like to stake and
+ที่คุณต้องการจะ stake และ
 
 196
 00:07:14,400 --> 00:07:21,360
-click save button and that's
+คลิกปุ่ม stake และนี่คือ
 
 197
 00:07:18,160 --> 00:07:25,039
-all you need to do to stake dot and
+สิ่งที่คุณต้องทำถ้าคุณอยากจะ stake dot และ
 
 198
 00:07:21,360 --> 00:07:28,000
-the protocol are decentralized and
+โปรโตคอลเป็นแบบdecentralized
 
 199
 00:07:25,039 --> 00:07:31,120
-protocol will handle all the data
+โปรโตคอลจะจัดการ
 
 200
 00:07:28,000 --> 00:07:34,639
-selections domination nominations etc
+ข้อมูลต่างๆให้คุณเอง และอื่นๆ
 
 201
 00:07:31,120 --> 00:07:36,720
-but of course you can also vote for your
+และแน่นอน คุณสามารถโหวต
 
 202
 00:07:34,639 --> 00:07:39,440
-favorite validators if you want to with
+validator ที่คุณชื่นชอบถ้าคุณต้องการ
 
 203
 00:07:36,720 --> 00:07:40,960
-your l dots
+โดยใช้ L-dot ได้
 
 204
 00:07:39,440 --> 00:07:43,599
-so now i've changed all my dots to
+ตอนนี้ผมได้เปลี่ยน dot ทั้งหมดของผมเป็น
 
 205
 00:07:40,960 --> 00:07:43,599
-eldors and
+l-dot และ
 
 206
 00:07:43,759 --> 00:07:47,360
-then you will be able to later and
+หลังจากนั้นคุณสามารถ
 
 207
 00:07:45,440 --> 00:07:47,919
-better vote for the metadata if you want
+โหวต validator ได้ถ้าคุณ
 
 208
 00:07:47,360 --> 00:07:50,400
-to
+ต้องการ
 
 209
 00:07:47,919 --> 00:07:51,199
-um we are still uh working on the ui for
+ขณะนี้พวกเรากำลังพัฒนาในส่วนของ ui ใน
 
 210
 00:07:50,400 --> 00:07:55,039
-this
+ส่วนนี้
 
 211
 00:07:51,199 --> 00:07:58,479
