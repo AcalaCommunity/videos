@@ -1082,88 +1082,88 @@ Substrate и Polkadot, вероятно,
 
 217
 00:15:09,760 --> 00:15:14,880
-that we are able to launch.
-Stablecon is actually a 
+которую мы можем запустить.
+Стейблкоин, на самом деле,
 
 218
 00:15:14,880 --> 00:15:18,800
-critical path
-in building that protocol and then at 
+является критическим путем 
+в построении этого протокола, а затем в
 
 219
 00:15:18,800 --> 00:15:21,840
-the time,
-when we started building in Substrate, 
+и тогда, 
+когда мы начали создавать Substrate,
 
 220
 00:15:21,840 --> 00:15:26,480
-which was like 2.5 plus
-years ago, it was very very early, not 
+что было около 2,5 с лишним 
+лет назад, это было очень-очень рано, а не
 
 221
 00:15:26,480 --> 00:15:30,480
-only the framework,
-Substrate was very in the early stage 
+только структура, 
+Substrate был на очень ранней стадии
 
 222
 00:15:30,480 --> 00:15:34,080
-of development, but
-also the ecosystem was at a very early 
+развития, но 
+и экосистема была на очень ранней
 
 223
 00:15:34,080 --> 00:15:38,880
-stage. We were probably one of the
-first for quite a while, the only 
+ стадии. Мы, наверное, долгое время были одними из 
+первых, единственной
 
 224
 00:15:38,880 --> 00:15:41,680
-commercial team that was building
-outside of Parity. 
+коммерческой командой, которая создавала
+вне Parity.
 
 225
 00:15:42,640 --> 00:15:46,080
-But of course we
-believed 
+Но, конечно, мы
+верили,
 
 226
 00:15:46,080 --> 00:15:49,840
-things probably other people only see
-that today or believe that today. 
+вещи, вероятно, другие люди видят 
+это только сегодня или верят в это сегодня.
 
 227
 00:15:51,280 --> 00:15:53,360
-We saw the
-multi-chain future,  
+Мы видели 
+мультичейн будущее,
 
 228
 00:15:53,360 --> 00:15:54,720
-we believed that
-Substrate 
+мы верили, что 
+Substrate
 
 229
 00:15:55,680 --> 00:16:00,320
-was at that time the leading
-framework that we could use to achieve 
+был в то время ведущим 
+фреймворком, который мы могли использовать для достижения
 
 230
 00:16:00,320 --> 00:16:04,960
-our goals. But of course today
-the gap is miles bigger, but at 
+наших целей. Но, конечно, сегодня 
+разрыв намного больше, но
 
 231
 00:16:04,960 --> 00:16:07,040
-the time that was
-our conclusion. 
+но тогда мы пришли 
+к такому выводу.
 
 232
 00:16:10,080 --> 00:16:12,720
-There's a stablecoin that needed
-to be built 
+В то время нужно было 
+создать стейблкоин.
 
 233
 00:16:12,720 --> 00:16:15,280
-at the time. So we were approached by
-Web3 Foundation. 
+Так что к нам обратился 
+Web3 Foundation.
 
 234
 00:16:15,920 --> 00:16:19,520
@@ -1286,28 +1286,28 @@ and also vision-wise. 
 
 258
 00:17:50,080 --> 00:17:54,880
-He was very aligned with us and at
-the same time he wanted to do something 
+Он был очень близок с нами, и в 
+то же время он хотел что-то сделать.
 
 259
 00:17:54,880 --> 00:17:58,480
-in DeFi as well.
-Then, right after that, 
+в DeFi.
+Затем, сразу после этого,
 
 260
 00:17:58,480 --> 00:18:02,960
-we started dating
-by opening a github ripple and then we 
+мы начали встречаться, 
+открыв github ripple, а затем
 
 261
 00:18:02,960 --> 00:18:06,080
-coded for a month or so
-and then that's how we basically 
+мы кодировали в течение месяца или около того, 
+и вот как мы в основном
 
 262
 00:18:06,720 --> 00:18:10,480
-consolidated our
-formal relationship after that. 
+после этого укрепили наши 
+официальные отношения.
 
 263
 00:18:10,480 --> 00:18:13,440
