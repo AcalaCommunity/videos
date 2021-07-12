@@ -4672,83 +4672,83 @@ z puli Acala
 
 1169
 00:37:59,280 --> 00:38:03,280
-yeah the moment that you the moment that
+w momencie w którym
 
 1170
 00:38:01,280 --> 00:38:05,599
-you stick with the the
+przyłączysz się do
 
 1171
 00:38:03,280 --> 00:38:06,320
-liquid sticking pool um the dog enter
+puli płynnego stakingu, DOT zostaje zdeponowane
 
 1172
 00:38:05,599 --> 00:38:08,400
-the pool
+w puli
 
 1173
 00:38:06,320 --> 00:38:10,000
-and you essentially get is that what you
+i w zasadzie to, co otrzymujesz
 
 1174
 00:38:08,400 --> 00:38:10,640
-essentially get back is the right to
+jest prawem do
 
 1175
 00:38:10,000 --> 00:38:12,480
-redeem
+pobrania
 
 1176
 00:38:10,640 --> 00:38:14,480
-for the dog and because dog itself is
+DOT, ponieważ sam w sobie DOT jest
 
 1177
 00:38:12,480 --> 00:38:15,599
-not functional it's fungible like every
+zamienny. On jest zamienny, jak każdy
 
 1178
 00:38:14,480 --> 00:38:17,280
-single dog is the same
+pojedyńczy DOT
 
 1179
 00:38:15,599 --> 00:38:18,800
-you can't say that okay that dog is my
+Nie możesz powiedzieć, że ten DOT jest mój, a
 
 1180
 00:38:17,280 --> 00:38:20,960
-dog and that dog is your dog they are
+ten DOT jest Twój
 
 1181
 00:38:18,800 --> 00:38:23,440
-all dogs
+one wszystkie są DOT`ami
 
 1182
 00:38:20,960 --> 00:38:25,359
-yes this guy this sage law said so the
+Tak, Ten chłopak powiedział, że
 
 1183
 00:38:23,440 --> 00:38:27,599
-ldad is like the title to a car
+lDOT jest jak prawo posiadania samochodu
 
 1184
 00:38:25,359 --> 00:38:29,280
-so if you sell the title someone else
+kiedy sprzedasz to komuś innemu
 
 1185
 00:38:27,599 --> 00:38:33,200
-kind of owns the car
+rodzaj praw własności samochodu
 
 1186
 00:38:29,280 --> 00:38:36,079
-yes since um another good question is
+następne dobre pytanie
 
 1187
 00:38:33,200 --> 00:38:36,800
-basically could you explain how the the
+Czy mógłbyś wytłumaczyć, jak
 
 1188
 00:38:36,079 --> 00:38:38,560
-interest
+odsetki
 
 1189
 00:38:36,800 --> 00:38:40,000
@@ -8360,43 +8360,43 @@ i czym potencjalnie może być
 
 2091
 01:10:01,199 --> 01:10:07,679
-and what he what retal is referring to
+To do czeo Ruitao się odniósł
 
 2092
 01:10:04,320 --> 01:10:09,520
-is like relay chains within relay chains
+jest jak łańcuch (relay chain) przekażnikowy w obrębie łańcucha przekażnikowego
 
 2093
 01:10:07,679 --> 01:10:11,679
-so what you could have is a kala
+więc co możesz zobaczyć to Acala
 
 2094
 01:10:09,520 --> 01:10:13,679
-starting as a para chain here
+zostaje uruchomiona jako parachain tutaj
 
 2095
 01:10:11,679 --> 01:10:16,080
-but then this eventually deciding to
+ale w końcu, gdy zdecyduje się na
 
 2096
 01:10:13,679 --> 01:10:17,840
-branch out and build our own relay chain
+odłączenie i zbudowanie własnego łańcucha przekaźnikowego (relay chain)
 
 2097
 01:10:16,080 --> 01:10:20,000
-which then connects into the original
+który następnie łączy się z oryginalnym
 
 2098
 01:10:17,840 --> 01:10:20,960
-polka dot so you've got polka dot within
+łańcuchem polkadot, więc mamy polkadot w obrębie
 
 2099
 01:10:20,000 --> 01:10:23,840
-polka dot within
+polkadot
 
 2100
 01:10:20,960 --> 01:10:24,719
-polka dot in this diagram and this is
+na tym wykresie, a to jest
 
 2101
 01:10:23,840 --> 01:10:26,560
