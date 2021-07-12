@@ -8152,7 +8152,7 @@ transakcji w sieci i
 
 2039
 01:08:09,920 --> 01:08:13,039
-że są to rzeczy, które
+są to rzeczy, które
 
 2040
 01:08:11,440 --> 01:08:16,159
@@ -8160,43 +8160,43 @@ podnoszą wartość sieci
 
 2041
 01:08:13,039 --> 01:08:16,719
-um in our rough test as a project and i
+Z testów przeprowadzonych przez projekt
 
 2042
 01:08:16,159 --> 01:08:19,520
-think we
+Myślę, że widzimy
 
 2043
 01:08:16,719 --> 01:08:20,239
-see tps scale at a thousand or above
+skalę tps jako tysiąc lub więcej
 
 2044
 01:08:19,520 --> 01:08:23,440
-że
+.
 
 2045
 01:08:20,239 --> 01:08:24,719
-so um the way that we calculate gas is
+Sposób w jaki obliczamy gaz jest
 
 2046
 01:08:23,440 --> 01:08:26,640
-weight based rather than the
+zależny od wielkości, raczej niż
 
 2047
 01:08:24,719 --> 01:08:28,319
-the mechanism you most of people
+mechanizm, który większość ludzi
 
 2048
 01:08:26,640 --> 01:08:28,880
-familiar with the ethereum which is like
+zna z ethereum, które jest jakby
 
 2049
 01:08:28,319 --> 01:08:31,920
-building
+zbudowane
 
 2050
 01:08:28,880 --> 01:08:34,560
-for the photogas fee because
+dla opłat za gas, ponieważ
 
 2051
 01:08:31,920 --> 01:08:36,319
@@ -8208,155 +8208,155 @@ in processing transactions
 
 2053
 01:08:36,319 --> 01:08:40,719
-we think um we're able to maintain a
+myślimy, że jesteśmy w stanie osiągnąć
 
 2054
 01:08:39,520 --> 01:08:44,560
-very low gas fee
+bardzo niskie opłaty za gaz
 
 2055
 01:08:40,719 --> 01:08:46,239
-um for for for as extend extend
+W celu uzupełnienia
 
 2056
 01:08:44,560 --> 01:08:48,000
-i would say for the for the near short
+powiedziałbym, że w najbliższej
 
 2057
 01:08:46,239 --> 01:08:49,600
-term to medium term futures um i don't
+przyszłości, czy w średnim terminie nie uważam, że
 
 2058
 01:08:48,000 --> 01:08:52,880
-think that's going to be a problem
+to będzie problemem
 
 2059
 01:08:49,600 --> 01:08:54,239
-and if we are hitting even hitting that
+i nawet jeśli myślimy o osiągnięciu tego
 
 2060
 01:08:52,880 --> 01:08:56,480
-bottleneck of like two thousand
+wąskiego gardła dwóch tysięcy
 
 2061
 01:08:54,239 --> 01:08:58,400
-or a thousand transaction per second uh
+czy tysięcy transakcji na sekundę
 
 2062
 01:08:56,480 --> 01:09:00,960
-the ultimate solution um
+ostateczne rozwiązanie
 
 2063
 01:08:58,400 --> 01:09:02,640
-it's just like in the imagination um
+to tak jak w wyobraźni
 
 2064
 01:09:00,960 --> 01:09:04,640
-stage at this stage is always
+na tym etapie jest zawsze
 
 2065
 01:09:02,640 --> 01:09:06,480
-what scavenges polkadot within pogba
+jak Gavin powiedział polkadot w polkadot
 
 2066
 01:09:04,640 --> 01:09:06,960
-does there's a little bit long term but
+Jest trochę informacji o długoterminowej perspektywie, ale
 
 2067
 01:09:06,480 --> 01:09:08,799
-i don't
+nie chcę
 
 2068
 01:09:06,960 --> 01:09:10,640
-want to get kept to carry too much on
+mówić o tym zbyt wiele
 
 2069
 01:09:08,799 --> 01:09:11,279
-that i would say there's always scalable
+Powiedziałbym, że zawsze jest skalowalne
 
 2070
 01:09:10,640 --> 01:09:12,880
-solution
+rozwiązanie
 
 2071
 01:09:11,279 --> 01:09:16,880
-when building a polka dot and we always
+podczas budowania na Polkadot, i my zawsze
 
 2072
 01:09:12,880 --> 01:09:16,880
-have a way to maintain low gas fee
+będziemy w stanie utrzymać niską opłatę za gas
 
 2073
 01:09:17,040 --> 01:09:20,080
-yeah i want to pulse i showed something
+Chciałbym wspomnieć o czymś, co pokazywałem
 
 2074
 01:09:19,199 --> 01:09:23,359
-last time that
+ostatnim razem,
 
 2075
 01:09:20,080 --> 01:09:25,279
-that people i think liked and i'll just
+myślę, że ludzie to polubili, po prostu
 
 2076
 01:09:23,359 --> 01:09:28,960
-share just to add on to what you're
+udostępnię aby dodać to o czym
 
 2077
 01:09:25,279 --> 01:09:32,239
-saying about polka dot within polka dot
+wspomniałeś: o polkadot w polkadot
 
 2078
 01:09:28,960 --> 01:09:35,839
-um if i can find it real quick oh yeah
+jeżeli znajdę to szybko
 
 2079
 01:09:32,239 --> 01:09:35,839
-here it is
+tutaj to jest
 
 2080
 01:09:36,400 --> 01:09:41,040
-so it's it's
+więc to jest
 
 2081
 01:09:39,759 --> 01:09:43,279
-definitely something that's in the
+coś co jest w
 
 2082
 01:09:41,040 --> 01:09:44,799
-future but it's it's pretty interesting
+przyszłaści, ale jest dość interesujące
 
 2083
 01:09:43,279 --> 01:09:46,080
-do
+aby
 
 2084
 01:09:44,799 --> 01:09:49,679
-to kind of think about so i'll just
+o tym myśleć, więc tylko
 
 2085
 01:09:46,080 --> 01:09:52,319
-share this real quick
+udostępnię to szybko
 
 2086
 01:09:49,679 --> 01:09:54,560
-and i will i will say that this is this
+i powiem, że to jest
 
 2087
 01:09:52,319 --> 01:09:56,560
-is nothing official
+nieoficjalne
 
 2088
 01:09:54,560 --> 01:09:58,880
-this is a this is something that i built
+to jest coś, co zbudowałem
 
 2089
 01:09:56,560 --> 01:10:01,199
-myself when i heard about polka dot 2.0
+kiedy usłyszałem o polkadot 2.0
 
 2090
 01:09:58,880 --> 01:10:04,320
-and what it could potentially be
+i czym potencjalnie może być
 
 2091
 01:10:01,199 --> 01:10:07,679
