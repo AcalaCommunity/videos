@@ -1813,407 +1813,393 @@ Acala คุณจะต้องแข็งแกร่งมาก
 
 373
 00:24:14,720 --> 00:24:18,480
-cover pretty much the whole world's
-population, that will be translating on top of 
+ครอบคลุมประชากรทั้งโลก
+นั่นหมายถึงบนโลก
 
 374
 00:24:18,480 --> 00:24:20,800
-blockchain.
-Regardless of the trend that was 
+บล็อกเชน
+โดยไม่คำนึงถึงแนวโน้มที่
 
 375
 00:24:20,800 --> 00:24:23,360
-defined directly or that's
-strengthening with some sort 
+จะถูกกำหนด หรือ
+การทำให้ระบบการเงิน
 
 376
 00:24:23,360 --> 00:24:27,600
-of financial service, they're
-actually using 
+แข็งแกร่งขึ้น พวกเรา
+กำลังใช้
 
 377
 00:24:27,600 --> 00:24:31,440
-blockchain as a backend. But,
-ultimately, the whole financial sector 
+บล็อกเชนเป็น backend แต่
+ในที่สุด ภาคการเงินทั้งหมด
 
 378
 00:24:31,440 --> 00:24:34,560
-will be generating on top of blockchain.
-If you want to 
+จะสร้างขึ้นบน blockchain
+ถ้าคุณอยาก
 
 379
 00:24:34,560 --> 00:24:39,360
-build something that's part of
-this revolution, we would like to 
+สร้างสิ่งที่เป็นส่วนหนึ่ง
+ของการปฏิวัติครั้งนี้ เราอยากจะ
 
 380
 00:24:39,360 --> 00:24:42,960
-have Acala as one of the
-projects 
+มี Acala เป็นหนึ่งในโปรเจ็คนั้น
 
 381
 00:24:45,920 --> 00:24:51,840
-that will exist not only within the the hype
-cycle but also have a long-term plan 
+ที่จะคงอยู่ไม่ใช่แค่อยู่ในช่วงไฮป์
+แต่จะอยู่ในแผนระยะยาว
 
 382
 00:24:52,960 --> 00:24:54,720
-of seven to
-ten years. 
+ใน 7-10 ปี
 
 383
 00:24:54,720 --> 00:25:00,240
-I want to be take part of this history.
-The last word I would use is 
+ฉันต้องการเป็นส่วนหนึ่งของประวัติศาสตร์
+คำสุดท้ายที่ฉันอยากจะใช้คือ
 
 384
 00:25:00,240 --> 00:25:04,560
-"long-term" or "committed".
-Cool. So, we've gone over 
+"ระยะยาว"หรือ "มุ่งมั่น(committed)"
+เจ๋งเลย โอเคเรียบร้อย
 
 385
 00:25:05,200 --> 00:25:08,000
-both of our networks. We're
-running these in parallel and they'll 
+กับเครือข่ายทั้งสอง เรา
+กำลังทำสิ่งเหล่านั้นแบบคู่ขนาน และพวกมัน
 
 386
 00:25:08,560 --> 00:25:14,160
-continue to be run in parallel and,
-just for people's background, Polkadot 
+จะทำงานแบบคู่ขนานต่อไป
+และสำหรับเบื้องหลัง Polkadot
 
 387
 00:25:14,160 --> 00:25:18,960
-and Kusama will be bridged,
-so there will be assets flowing between 
+และ Kusama จะถูกบริดจ์
+จึงมีทรัพย์สินไหลเวียนระหว่าง
 
 388
 00:25:18,960 --> 00:25:22,720
-Polkadot and Kusama, and then of course
-Acala and Karura on top of those networks. 
+Polkadot และ Kusama แน่นอนว่า
+Acala และ Karura อยู่บนเครือข่ายเหล่านั้น
 
 389
 00:25:23,840 --> 00:25:26,000
-Let's move on to kind of more
-internal stuff. 
+ไปต่อกันดีที่ภายในดีกว่า
 
 390
 00:25:28,240 --> 00:25:30,640
-As I just mentioned, we're building
-these two networks. 
+อย่างที่ฉันพูดไป เราสร้าง
+2เครือข่ายนี่
 
 391
 00:25:31,200 --> 00:25:35,520
-We have a rapidly growing team of what I
-would consider a lot of just 
+เรามีทีมงานที่เติบโตอย่างรวดเร็วที่
+พิจารณาจากผู้ทดลอง
 
 392
 00:25:36,080 --> 00:25:39,120
-A players. Everyone's hard worker, smart, 
+ทุกคนทำงานหนัก, ฉลาด
 
 393
 00:25:39,120 --> 00:25:43,040
-we all work really well together, been on
-fire recently. 
+พวกเราทุกคนทำงานร่วมกันได้ดีจริงๆ
+จากช่วงที่เดือดๆที่ผ่านมา
 
 394
 00:25:43,040 --> 00:25:47,440
-How do you look at our culture?
-How would you describe our culture 
+คุณคิดว่าวัฒนธรรมของเราเป็นอย่างไร?
+คุณช่วยอธิบายเกี่ยวกับวัฒนธรรมภายใน
 
 395
 00:25:47,440 --> 00:25:51,120
-internally?
-On a similar note, how do you evaluate 
+ของเราหน่อย
+ฉันหมายถึง คุณประเมินว่าจะจ้าง
 
 396
 00:25:52,000 --> 00:25:55,040
-new hires? What kind of characteristics
-do you look for in 
+คนใหม่อย่างไร คุณสมบัติอะไรที่คุณ
+มองหา
 
 397
 00:25:55,040 --> 00:26:01,280
-potential new hires? I think
-pretty much in the whole team we 
+เพื่อที่จะจ้างมาทำงาน ฉันคิดว่า
+ในทีมทั้งหมดของเรา
 
 398
 00:26:01,280 --> 00:26:06,000
-have a number of
-unique 
+มีคุณสมบัติที่ไม่เหมือนใคร
 
 399
 00:26:06,560 --> 00:26:10,480
-characteristics. So, one characteristic is
-there we are very very engineering 
+ดังนั้น หนึ่งคุณสมบัติคือ
+มีการขับเคลื่อนด้วยวิศวกรรม
 
 400
 00:26:11,280 --> 00:26:14,480
-driven. That's very
-essential for 
+มากๆ มันจะเป็นสำหรับ
 
 401
 00:26:14,480 --> 00:26:17,520
-pretty much all the blockchain staff
-- that you have an 
+บล็อกเชน
+- นั่นคือคุณต้องมี
 
 402
 00:26:17,520 --> 00:26:23,360
-engineer-driven culture. Because
-it is on a very early stage of movement, 
+ความเป้นวิศวกร เพราะว่า
+มันเป็นช่วงแรกเริ่ม
 
 403
 00:26:23,360 --> 00:26:25,920
-you need to get your hand dirty, you need
-to understand 
+คุณต้องทำงานหนัก
+คุณต้องเข้าใจ
 
 404
 00:26:25,920 --> 00:26:30,080
-how every single bit of piece works,
-essentially for the whole team. 
+ทุกๆส่วนของชิ้นงาน
+มันจำเป็นสำหรับทั้งทีม
 
 405
 00:26:30,080 --> 00:26:33,440
-I think Dan understands pretty much how
-the product works inside out 
+ฉันคิดว่า Dan ค่อนข้างเข้าใจดีว่า
+โปรดัคนั้นทำงานแบบไหน
 
 406
 00:26:33,440 --> 00:26:36,240
-and pretty much everyone that's in the
-team understands how the product 
+และทุกๆคนในทีมเข้าใจ
+ว่าโปรดัคนั้น
 
 407
 00:26:36,240 --> 00:26:39,520
-works inside out.
-It's a very engineer focus or 
+ทำงานแบบไหนเช่นกัน
+มันค่อนข้างมุ่งเน้นที่วิศวกร หรือ
 
 408
 00:26:39,520 --> 00:26:46,000
-engineer-driven culture.
-With blockchain you can code a 
+วัฒนธรรมที่ขับเคลื่อนแบบวิศวกร
+ด้วยบล็อกเชนคุณสามารถเขียนโค้ด
 
 409
 00:26:46,000 --> 00:26:48,800
-bank and that's essentially what we're
-doing: a set of engineers 
+ธนาคารและนั่นคือสิ่งที่เรา
+กำลังทำ: กลุ่มของวิศวกร
 
 410
 00:26:48,800 --> 00:26:52,480
-code a bank out of nowhere. That's the
-very first 
+นั่นคือคุณสมบัติ
 
 411
 00:26:53,680 --> 00:26:57,280
-characteristic. The next characteristic is that
-we are a very distributed team and 
+แรกที่เราต้องการ คุณสมบัติต่อไป
+คือเราเป็ฯทีมที่มีการกระจายตัวมากและ
 
 412
 00:26:57,280 --> 00:26:59,520
-that's the nature of any
-blockchain staff as well. 
+นั่นเป็นธรรมชาติ
+ของบล็อกเชนด้วย
 
 413
 00:27:00,560 --> 00:27:03,040
-I'm in New Zealand, San is in
-Brazil or 
+ฉันอยู่ที่นิวซีแลนด์ Sanอยู่
+ที่บราซิลหรือ
 
 414
 00:27:03,040 --> 00:27:06,240
-in the US, depending on the time of the year.
-We have 
+อเมริกา ขึ้นอญู่กับ timezone
+เรามี
 
 415
 00:27:06,880 --> 00:27:10,880
-Robin, we have our contributor in the
-United States, we have contributor in 
+Robin เรามีผู้มีส่วนร่วมใน
+อเมริกา เรามีผู้มีส่วนร่วมใน
 
 416
 00:27:10,880 --> 00:27:14,720
-Shanghai, in Albania,
-in New York and will be 
+เซี่ยงไฮ้ ใน Albenia
+ในนิวยอร์ค และจะ
 
 417
 00:27:14,720 --> 00:27:18,400
-growing
-in the same way: acquiring new 
+เติมโตไป
+ในทิศทางเดียวกัน: รับ
 
 418
 00:27:18,400 --> 00:27:22,480
-talents in a distributed way.
-There's a number of reasons for 
+ผู้มีความสามารถจากทั่วโลก
+มีหลายเหตุผลสำหรับ
 
 419
 00:27:22,480 --> 00:27:25,840
-that. One of the reason is that the
-blockchain market is still a very niche 
+สิ่งนั้น เหตุผลแรกคือ
+ตลาดบล็อกเชนนั้นยังคงเป็นตลาด
 
 420
 00:27:25,840 --> 00:27:29,360
-market
-to acquire the best talents. They are 
+เฉพาะกลุ่ม
+เพื่อหาผู้มีความสามารถที่ดีที่สุด พวกเขา
 
 421
 00:27:29,360 --> 00:27:32,640
-pretty much
-not around, they are not like in the 
+คงไม่ได้อยู่
+แค่รอบๆ มันไม่เหมือนกับอยู่
 
 422
 00:27:32,640 --> 00:27:34,720
-neighborhood, you can't find them in the
-local market! 
+แถวๆบ้าน คุณไม่สามารถหาในตลาด
+ทั่วไปได้
 
 423
 00:27:36,400 --> 00:27:40,160
-If you want to find the
-best teammates, it's pretty much 
+ถ้าคุณต้องการหา
+เพื่อนร่วมทีมที่ดีที่สุด มัน
 
 424
 00:27:40,160 --> 00:27:43,200
-unlikely to be your neighbor. So we have
-a 
+คงไม่ใช่แค่แถวข้างๆบาน ดังนั้นเรามี
 
 425
 00:27:43,200 --> 00:27:47,680
-distributed team.
-We also have this sense of 
+ทีมจากทั่วโลก
+เรามีความเป็นเจ้าของและ
 
 426
 00:27:47,680 --> 00:27:50,720
-ownership
-and accountability. For a distributed 
+ความรับผิดชอบร่วมกัน สำหรับ
 
 427
 00:27:50,720 --> 00:27:55,600
-team to move and
-to 
+ทีมที่กระจัดกระจาย เพื่อเคลื่อนที่
 
 428
 00:27:55,600 --> 00:28:00,080
-work in a very productive way, it
-is very essential that every one of us 
+และทำงานได้อย่างมีประสิทธิผล มัน
+เป็นสิ่งสำคัญมากที่เราทุกคน
 
 429
 00:28:00,080 --> 00:28:04,480
-has a sense of accountability,
-has a sense of ownership. That is, 
+มีความรับผิดชอบร่วมกัน
+มีความเป็นเจ้าของร่วมกัน
 
 430
 00:28:04,480 --> 00:28:11,875
-realising that what you are working on
-has an effect and dependence on you 
+นั่นทำให้เราตระหนักว่าสิ่งที่กำลังอยู่
+นั่นส่งผลกระทบกับผู้
 
 431
 00:28:11,875 --> 00:28:12,240
-peer and team members.
-As long 
+ร่วมงานอื่นๆในทีม
+ตราบเท่าที
 
 432
 00:28:12,240 --> 00:28:17,840
-as we communicate clearly,
-as long as we deliver and a have sense of 
+เราสื่อสารอย่างชัดเจนแล้ว
+ตราบเท่าที่เราส่งมอบและมีความรู้สึก
 
 433
 00:28:17,840 --> 00:28:20,800
-we are building this
-product together, we can move in a much 
+ว่าเรากำลังสร้างโปรดัค
+ด้วยกัน เราสามารถเติบโต
 
 434
 00:28:20,800 --> 00:28:25,040
-much
-smoother and productive way. I think, 
+ไปได้ไหลลื่นกว่าและมีประสิทธิภาพ ฉันคิด
 
 435
 00:28:25,040 --> 00:28:28,080
-ultimately,
-the final characteristic, that we have in 
+ว่าจริงๆแล้ว
+คุณสมบัติสุดท้ายที่เรามีใน
 
 436
 00:28:28,080 --> 00:28:31,600
-the current team, is that
-it's essentially and literally flat. 
+ทีมตอนนี้ คือ
+ความเท่าเทียมกันอย่างแท้จริง
 
 437
 00:28:33,680 --> 00:28:36,720
-In everyday work,
-everyone 
+ในทุกวันการทำงาน
+ทุกคน
 
 438
 00:28:36,720 --> 00:28:42,240
-understands how their part
-is contributing into creating these 
+เข้าใจว่าส่วนของพวกเขา
+มีส่วนทำให้เกิดโปรดัค
 
 439
 00:28:42,240 --> 00:28:44,560
-products and everyone takes that role.
-There's 
+เหล่านี้และทุกคนรับหน้าที่นั้น
+มี
 
 440
 00:28:45,760 --> 00:28:48,480
-the culture that you can
-talk to everyone directly, talking about 
+วัฒนธรรมที่คุณสามารถ
+พูดกับทุกคนได้โดยตรง พูดเกี่ยวกับ
 
 441
 00:28:48,480 --> 00:28:50,320
-how we can make this product better, how
-we can 
+วิธีที่เราสามารถทำให้โปรดัคดีกว่าเดิม
+วิธีที่เราสามารถ
 
 442
 00:28:50,880 --> 00:28:54,400
-make this product viable, how we
-can launch the product properly. 
+ทำให้โปรดัคเป็นจริงได้ วิธีที่จะ
+เปิดตัวโปรดัคได้เป็นอย่างดี
 
 443
 00:28:54,400 --> 00:28:57,120
-That's essentially
-the way we communicate, 
+ที่สำคัญคือ
+วิธีการที่เราสื่อสาร
 
 444
 00:28:57,120 --> 00:29:01,680
-that's the way we work with every
-team members. We're lucky that pretty 
+นั่นคือวิธีที่เราทำงานกับ
+ทุกๆคนในทีม เราโชคดีที่
 
 445
 00:29:01,680 --> 00:29:03,760
-much all the team members that we bring
-on today 
+ทุกคนในทีมเราทำจนมาถึงทุกวันนี้
 
 446
 00:29:04,320 --> 00:29:08,400
-are very very accountable, very very
-responsible and already very good at 
+ด้วยความรับผิดชอบสูงมากๆ มีความ
+รับผิดชอบและทำในสิ่งที่
 
 447
 00:29:08,400 --> 00:29:11,440
-what they are doing.
-We like to keep it that way, right. 
+ตัวเองทำได้ดีมากๆ
+เราชอบที่จะให้มันเป็นเช่นนี้
 
 448
 00:29:11,440 --> 00:29:14,480
-Thats's the lesson
-I mentioned that I had learned: 
+นั่นคือบทเรียน
+ฉันเคยบอกว่าฉันได้เรียนรู้:
 
 449
 00:29:14,480 --> 00:29:16,560
-you want to scale but you also want to
-scale 
+คุณต้องการที่จะปรับ แต่คุณอยากที่จะปรับ
 
 450
 00:29:16,560 --> 00:29:18,400
-in an effective way. You don't want to
-bring 
+ในทางที่ได้ผล คุณไมอยากทีจะนำ
 
 451
 00:29:19,920 --> 00:29:23,360
-players that might drag down the team
-morale 
+ผู้เล่นที่อาจจะลากทีมลงมา
 
 452
 00:29:23,360 --> 00:29:26,880
-or push down the productivity, because, by
-then, it will be 
+หรือทำให้ประสิทธิภาพลดลง เพราะ
+เมื่อถึงตอนนั้น มันจะ
 
 453
 00:29:26,880 --> 00:29:31,440
-very very hard to correct. Every new
-team member that we want to bring on 
+แก้ไขยากมากๆๆ ทุกๆสมาชิกใหม่ในทีม
+ที่เราต้องการทำเข้ามาต้อง
 
 454
 00:29:37,600 --> 00:29:39,360
