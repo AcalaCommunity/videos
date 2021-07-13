@@ -1497,63 +1497,63 @@ and also vision-wise. 
 
 300
 00:20:37,200 --> 00:20:40,480
-improvement
-and doing good to the society. 
+потенциала 
+и блага для общества.
 
 301
 00:20:42,240 --> 00:20:48,160
-And sometimes it's a very fine line.
-So we hold integrity very very 
+И иногда это очень тонкая грань.
+Таким образом, мы очень высоко ценим
 
 302
 00:20:48,160 --> 00:20:51,040
-highly
-within the team, through individuals but 
+целостность 
+внутри команды, через отдельных людей, но
 
 303
 00:20:51,040 --> 00:20:56,160
-also through how we conduct
-all the activities that we do internally 
+также и через то, как мы проводим 
+все действия, которые мы делаем внутри компании
 
 304
 00:20:56,160 --> 00:20:59,120
-and
-externally. Also, 
+и
+снаружи. Кроме того,
 
 305
 00:21:00,400 --> 00:21:05,120
-I think integrity and trust, even though
-we are trying to build trustless network, 
+Я считаю, что честность и доверие, даже если 
+мы пытаемся построить ненадежную сеть,
 
 306
 00:21:05,120 --> 00:21:08,000
-but trust is something that is very hard
-to build 
+но доверие - это то, что очень сложно 
+построить
 
 307
 00:21:08,640 --> 00:21:13,120
-and very easy to break. We take that
-very very seriously and every single 
+и очень легко сломать. Мы очень 
+серьезно относимся к этому, и каждый
 
 308
 00:21:13,120 --> 00:21:15,200
-person
-in the team holds very high 
+человек 
+в команде очень высоко ценит
 
 309
 00:21:15,200 --> 00:21:19,360
-responsibility
-of making something that could benefit 
+ответственность
+за то, чтобы сделать что-то, что могло бы принести пользу
 
 310
 00:21:19,360 --> 00:21:23,680
-many people.
-But also many of the information and 
+многим людям.
+Но также много информации и
 
 311
 00:21:23,680 --> 00:21:27,120
-and things that we handle are highly
-critical 
+и вещи, с которыми мы справляемся, очень
+критически
 
 312
 00:21:27,120 --> 00:21:30,320
