@@ -840,231 +840,231 @@ l-dot และ
 
 211
 00:07:51,199 --> 00:07:58,479
-area so this is the advanced screen
+และอันนี้ก็เป็นหน้าของแอดวาน
 
 212
 00:07:55,039 --> 00:08:01,680
-so um you can see the uh history
+คุณสามารถเห็นธุรกรรมก่อนหน้าได้
 
 213
 00:07:58,479 --> 00:08:04,560
-um you can if you want to redeem you can
+ตรงนี้ คุณสามารถถอนเงินคืนได้ถ้าคุณต้องการ
 
 214
 00:08:01,680 --> 00:08:06,400
-you can so you can uh just wait for the
+หรือคุณสามารถที่จะรอจนกระทั่ง
 
 215
 00:08:04,560 --> 00:08:08,800
-whole unbounding period which will be
+ช่วงเวลาของunbounding periodจบลง ซึ่งนั้นก็เป็น
 
 216
 00:08:06,400 --> 00:08:09,840
-um seven days okay summer 28 days on
+เวลา 7 วันใน Kusama และ 28 วันใน
 
 217
 00:08:08,800 --> 00:08:12,319
-pokeball
+polkadot
 
 218
 00:08:09,840 --> 00:08:12,879
-and then just wait and which we won't
+และหลังจากนั้นคุณก็แค่รอ ซึ่งทางเราจะไม่
 
 219
 00:08:12,319 --> 00:08:15,599
-charge
+ชาร์จคุณ
 
 220
 00:08:12,879 --> 00:08:18,400
-you an extra redeeming fee but if you
+ค่าธรรมเนียมในการถอนแบบนี้ แต่ถ้าคุณ
 
 221
 00:08:15,599 --> 00:08:21,120
-really need the money right now
+ต้องการจะถอนเงินเดียวนั้นจริงๆ
 
 222
 00:08:18,400 --> 00:08:22,720
-and up to the certain amounts then you
+และขึ้นอยู่กับจำนวนเงินที่คุณจะ
 
 223
 00:08:21,120 --> 00:08:26,240
-will be able to redeem them
+ถอนมันออกมา ณ ตอนนั้น
 
 224
 00:08:22,720 --> 00:08:26,560
-immediately but we'll be charging you
+ทางเราจะคิดค่าธรรมเนียมแก่คุณ
 
 225
 00:08:26,240 --> 00:08:28,400
-some
+จำนวน
 
 226
 00:08:26,560 --> 00:08:30,879
-of the redeeming fee because uh you're
+หนึ่งเพราะว่าคุณกำลัง
 
 227
 00:08:28,400 --> 00:08:33,200
-skipping the unbounded period
+ไม่รอ unbounded period ให้จบลงซะก่อน
 
 228
 00:08:30,879 --> 00:08:34,560
-but if you really need money uh need the
+แต่ถ้าคุณต้องการเงินด่วนมากจริงๆ
 
 229
 00:08:33,200 --> 00:08:37,839
-dots right now this will be
+dot ตรงนี้ก็จะมีประโยชน์สำหรับคุณ
 
 230
 00:08:34,560 --> 00:08:38,399
-handy so now you have the outdoors and
+ตอนนี้คุณก็มี l-dot stakingและ
 
 231
 00:08:37,839 --> 00:08:41,919
-the
+คุณก็มี
 
 232
 00:08:38,399 --> 00:08:45,200
-you the staking rewards
+รางวัลจากการ staking อีกด้วย
 
 233
 00:08:41,919 --> 00:08:48,560
-and how could you and like boots like
+และอีกวิธีหนึ่งที่คุณสามารถจะทำการ
 
 234
 00:08:45,200 --> 00:08:51,200
-increase the um
+เพิ่มเรท
 
 235
 00:08:48,560 --> 00:08:52,240
-the rates from the thoughts so another
+จากความคิดของผม ก็คือ
 
 236
 00:08:51,200 --> 00:08:55,760
-way to do that
+วิธีนี้ ซึ่ง
 
 237
 00:08:52,240 --> 00:08:58,880
-is good for example you can do is
+เป็นตัวอย่างที่ดีที่คุณสามารถทำได้
 
 238
 00:08:55,760 --> 00:09:00,880
-add liquidity to our decks so that is
+นั้นก็คือการเพิ่ม liquidity ไปใน dex ของเรา
 
 239
 00:08:58,880 --> 00:09:05,360
-basically lost certain amount of
+พูดง่ายๆก็คือคุณล็อคจำนวนสินทรัพย์
 
 240
 00:09:00,880 --> 00:09:07,760
-asd and lot your assets
+และล็อคอีกหนึ่งสินทรัพย์
 
 241
 00:09:05,360 --> 00:09:09,279
-and then you will be supplying the
+แล้วหลังจากนั้นคุณก็ฝากสินทรัพย์
 
 242
 00:09:07,760 --> 00:09:12,480
-liquidity to our decks
+ของคุณใน dex ของทางเรา
 
 243
 00:09:09,279 --> 00:09:14,399
-and which will um
+แล้วหลังจากนั้น
 
 244
 00:09:12,480 --> 00:09:16,320
-if people when people make trades you'll
+เมื่อผู้ใช้คนอื่นๆได้ทำการเทรด คุณก็จะได้
 
 245
 00:09:14,399 --> 00:09:19,279
-earn additional
+รับค่าธรรมเนียม
 
 246
 00:09:16,320 --> 00:09:20,640
-fees as rewards we also have the
+เป็นรางวัล ทางเราก็ยังมี
 
 247
 00:09:19,279 --> 00:09:23,200
-liquidity
+โปรแกรม
 
 248
 00:09:20,640 --> 00:09:24,080
-incentive program so you also at the
+liquidity incentive ซึ่งในขณะเดียวกันคุณ
 
 249
 00:09:23,200 --> 00:09:26,399
-same time
+ได้รับ
 
 250
 00:09:24,080 --> 00:09:28,320
-in addition to the fees you any
+ผลตอบแทนที่เป็น usd นอกเหนือจากค่าธรรมเนียม
 
 251
 00:09:26,399 --> 00:09:31,760
-additional usd
+ที่คุณได้
 
 252
 00:09:28,320 --> 00:09:31,760
-um as rewards as well
+อีกด้วย
 
 253
 00:09:32,000 --> 00:09:38,560
-so this is adding the liquidity to
+ดังนั้นนี้คือการใส่ liquidity ใน
 
 254
 00:09:35,200 --> 00:09:40,640
-the decks and once and
+dex ของเราและหลังจากนั้น
 
 255
 00:09:38,560 --> 00:09:43,360
-then at later stage if you want to you
+ถ้าคุณต้องการที่จะถอนเงิน คุณ
 
 256
 00:09:40,640 --> 00:09:46,800
-can also redeem the liquidity
+สามารถถอนได้จาก liquidity
 
 257
 00:09:43,360 --> 00:09:46,800
-reading a token back later
+ซึ่งคุณจะได้รับ token กลับมา
 
 258
 00:09:47,920 --> 00:09:51,760
-yes so the next thing i want to show you
+สิ่งต่อไปที่ผมอยากจะโชว์คุณ
 
 259
 00:09:51,279 --> 00:09:53,920
-just a
+อย่างรวดเร็ว
 
 260
 00:09:51,760 --> 00:09:55,680
-little quick this is still again working
+ก็คืออันนี้ และในส่วนนี้ทางเราก็กำลังพัฒนามันอยู่
 
 261
 00:09:53,920 --> 00:09:56,959
-progress and we're still finalizing all
+และพวกเรากำลังสรุปเนื้อหา
 
 262
 00:09:55,680 --> 00:09:58,640
-the details and
+ทั้งหมด และ
 
 263
 00:09:56,959 --> 00:10:00,399
-finalizing the ui but we have the
+กำลังสรุปในส่วนของ ui ด้วย แต่พวกเราจะมี
 
 264
 00:09:58,640 --> 00:10:01,760
-governance feature so it will be
+ในส่วนของ governance feature ซึ่ง
 
 265
 00:10:00,399 --> 00:10:03,440
-somewhat similar to pogba
+มันก็จะเหมือนกัน polkadot
 
 266
 00:10:01,760 --> 00:10:04,800
-and kusama but will be slightly more
+และ kusama แต่ feature ของเราจะมีความซับซ้อน
 
 267
 00:10:03,440 --> 00:10:06,320
-complicated
+มากกว่านิดหน่อย
 
 268
 00:10:04,800 --> 00:10:07,920
