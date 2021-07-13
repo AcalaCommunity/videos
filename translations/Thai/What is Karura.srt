@@ -1,34 +1,34 @@
 1
 00:00:03,360 --> 00:00:06,160
-hey guys
+สวัสดีทุกคน
 
 2
 00:00:04,080 --> 00:00:07,680
-uh this is dan reeser and i'm joined
+ผม Dan Reeser จะมาร่วมพูดคุย
 
 3
 00:00:06,160 --> 00:00:10,160
-here by rui tau
+ที่นี กับ  Ruitao
 
 4
 00:00:07,680 --> 00:00:11,599
-um we're going to be going over um quite
+วันนี้เราจะมาเจาะลึก
 
 5
 00:00:10,160 --> 00:00:14,240
-a bit of information today
+ข้อมูลกันสักหน่อย
 
 6
 00:00:11,599 --> 00:00:16,640
-over um our network called kubura which
+เกี่ยวกับเครือข่ายของเรา Karura ที่
 
 7
 00:00:14,240 --> 00:00:17,039
-we're building on kusama um you may also
+พวกเราพัฒนากันบน Kusama คุณอาจจะ
 
 8
 00:00:16,640 --> 00:00:19,359
-know
+รู้
 
 9
 00:00:17,039 --> 00:00:20,480
