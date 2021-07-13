@@ -32,91 +32,91 @@
 
 9
 00:00:17,039 --> 00:00:20,480
-us as the akala team um so we're also
+พวกเราในชื่อของ ทีม Acala พวกเรายัง
 
 10
 00:00:19,359 --> 00:00:22,080
-preparing for the
+กำลังเตรียมสำหรับ
 
 11
 00:00:20,480 --> 00:00:23,920
-akala lunch on polka dot but that'll
+การใช้งาน Acala บน Polkadot อีกด้วย แต่มันจะ
 
 12
 00:00:22,080 --> 00:00:26,000
-come after our career launch so today
+เกิดขึ้นหลังจากเราได้เริ่มใข้งาน  Karura แล้ว วันนี้
 
 13
 00:00:23,920 --> 00:00:28,960
-we're going to spend a little time
+เราจะใช้เวลากันสักหน่อย
 
 14
 00:00:26,000 --> 00:00:30,000
-talking through that let me start
+ในการพูดคุยเกี่ยวกับสิ่งนั้น ให้ฉันเริ่ม
 
 15
 00:00:28,960 --> 00:00:31,199
-sharing my screen
+แชร์หน้าจอของฉัน
 
 16
 00:00:30,000 --> 00:00:34,320
-and i'll just go through a little bit of
+ฉันจะอธิบายสั้นๆ เกี่ยวกับ
 
 17
 00:00:31,199 --> 00:00:34,320
-an agenda for us
+วาระต่างๆ ของพวกเรา
 
 18
 00:00:35,760 --> 00:00:38,800
-and then we can go ahead and get started
+หลังจากนั้น พวกเราจะสามารถเริ่มได้
 
 19
 00:00:38,000 --> 00:00:41,120
-so
+เช่นนั้น
 
 20
 00:00:38,800 --> 00:00:42,800
-what what today looks like is is a few
+วันนี้ฉันจะมาพูดบาง
 
 21
 00:00:41,120 --> 00:00:44,800
-things so
+สิ่งเกี่ยวกับ
 
 22
 00:00:42,800 --> 00:00:46,239
-what is karua in general i'll cover some
+Karura โดยทั่วไปคืออะไร ฉันจะอธิบาย
 
 23
 00:00:44,800 --> 00:00:47,200
-slides on that and just give you an
+ด้วยสไลด์บางส่วนและให้คุณเข้าใจ
 
 24
 00:00:46,239 --> 00:00:48,800
-overview of
+ภาพรวมของ
 
 25
 00:00:47,200 --> 00:00:50,640
-what everything is what products we're
+ทุกสิ่ง และ รู้จักผลิตภัณฑ์ ที่เรา
 
 26
 00:00:48,800 --> 00:00:51,760
-building and that'll lead into ruitau
+พัฒนา และผมจะพาไปคุยกับ Ruitao
 
 27
 00:00:50,640 --> 00:00:54,160
-going through
+ที่จะมา
 
 28
 00:00:51,760 --> 00:00:55,199
-um a demo of each of these products so
+สาธิตเกี่ยวกับ ผลิตภัณฑ์แต่ละชิ้น
 
 29
 00:00:54,160 --> 00:00:56,480
-most notably
+ที๋โดดเด่นที่สุด
 
 30
 00:00:55,199 --> 00:00:58,800
-um he'll start with the wallet and then
+Ruitao จะเริ่มต้นด้วย กระเป๋า Wallet จากนั้น
 
 31
 00:00:56,480 --> 00:01:00,320
