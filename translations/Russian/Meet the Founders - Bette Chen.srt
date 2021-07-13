@@ -1311,33 +1311,33 @@ and also vision-wise. 
 
 263
 00:18:10,480 --> 00:18:13,440
-That's sort of the
-backstory of our Acala. 
+Это своего рода 
+предыстория нашей Acala.
 
 264
 00:18:14,640 --> 00:18:21,440
-Perfect. Let's get into a little
-around internal 
+Идеально. Давайте немного 
+поговорим о внутреннем
 
 265
 00:18:21,440 --> 00:18:26,560
-aspects of Acala. Could you talk about
-how you would describe the 
+аспектах Acala. Не могли бы вы рассказать, 
+как бы вы описали
 
 266
 00:18:26,560 --> 00:18:30,320
-culture of Acala and
-what types of characteristics you look 
+культуру Acala и 
+на какие характеристики вы ищите
 
 267
 00:18:30,320 --> 00:18:34,240
-for and people that
-you're recruiting to join Acala are 
+а также о людях, которых 
+вы нанимаете, чтобы присоединились к Acala
 
 268
 00:18:34,240 --> 00:18:36,160
-considering
-for employment? 
+рассматривают 
+для работы?
 
 269
 00:18:38,800 --> 00:18:41,840
@@ -1396,103 +1396,104 @@ for employment? 
 
 280
 00:19:20,720 --> 00:19:23,840
-This is a very important
-thing that we 
+Это очень важная вещь, 
+которую мы
 
 281
 00:19:24,960 --> 00:19:27,120
-feel pretty proud of and also need to
-continue 
+очень гордимся, и им тоже нужно 
+продолжать
 
 282
 00:19:27,840 --> 00:19:31,360
-to carry out in the growth of the
-of the Acala team 
+развивать 
+команду Acala
 
 283
 00:19:32,080 --> 00:19:35,040
-and then beyond that. We
-attracted 
+а затем и дальше. Мы 
+привлекли
 
 284
 00:19:35,680 --> 00:19:38,880
-a lot of talents I think,
-10x 
+много талантов, я думаю, примерно,
+10x
 
 285
 00:19:38,880 --> 00:19:42,880
-developers tend to attract 10x
-developers and also 10x 
+разработчиков, как правило, привлекают в 10 х
+разработчиков, а также 10x
 
 286
 00:19:42,880 --> 00:19:46,800
-operators and also 10x whatever
-attracts 10x 
+операторы, а также 10x любых, 
+которые притягивают 10x
 
 287
 00:19:47,680 --> 00:19:52,000
-rows, right. Ithink we're lucky
-enough. We started off 
+строк, ладно. Думаю, нам повезло
+достаточно. Мы начали с того,
 
 288
 00:19:52,000 --> 00:19:55,280
-with many of the 10x talents founding
-the team 
+что многие из 10х талантов основали 
+команду,
 
 289
 00:19:55,280 --> 00:19:59,280
-and then we continue to attract
-those talents. So hopefully 
+а затем продолжаем привлекать 
+эти таланты. Надеюсь,
 
 290
 00:19:59,280 --> 00:20:03,120
-that's gonna
-carry on as well. A high performer is 
+это тоже продолжится.
+Хороший исполнитель,
+
 
 291
 00:20:03,120 --> 00:20:06,800
-certainly one of the
-culture here as well. And then 
+безусловно, здесь 
+тоже часть культуры. И
 
 292
 00:20:06,800 --> 00:20:08,960
-the third aspect, which
-we actually rate very 
+третий аспект, который 
+мы действительно очень высоко
 
 293
 00:20:08,960 --> 00:20:12,800
-highly, probably number one, is integrity.
-This is 
+ценим, наверное, номер один - это честность.
+Это
 
 294
 00:20:14,400 --> 00:20:17,920
-not just saying we have to hold
-ourselves very high standard, but 
+не просто говорит о том, что мы должны 
+придерживаться очень высоких стандартов, но
 
 295
 00:20:17,920 --> 00:20:20,960
-we are in the industry that is
-evolving. 
+мы работаем в развивающейся 
+отрасли.
 
 296
 00:20:20,960 --> 00:20:26,480
-In any early innovation or field
-you're gonna have a lot of grey areas, 
+В любых ранних инновациях или в любой сфере 
+у вас будет много серых зон,
 
 297
 00:20:26,480 --> 00:20:29,280
-uncertainties
-and you've got to have this wild group 
+неопределенности, 
+и у вас должна быть эта дикая группа
 
 298
 00:20:29,280 --> 00:20:31,600
-of people who are trying to just
-leverage 
+людей, которые пытаются просто 
+использовать
 
 299
 00:20:31,600 --> 00:20:37,200
-technology for purposes other than
-progressing our human 
+технологии для других целей, 
+кроме улучшения человеческого
 
 300
 00:20:37,200 --> 00:20:40,480
