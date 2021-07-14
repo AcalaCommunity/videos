@@ -456,179 +456,179 @@ polkadot
 
 115
 00:03:34,560 --> 00:03:37,120
-connected to either of them yet it's
+ที่เชื่อมต่อกับทั้งสองอย่างเลย
 
 116
 00:03:36,000 --> 00:03:39,680
-just the beginning
+มันก็แค่จุดเริ่มต้น
 
 117
 00:03:37,120 --> 00:03:41,200
-and what our goal is at akala and karua
+และเป้าหมายของเราอยู่ที่ acala และ karura
 
 118
 00:03:39,680 --> 00:03:43,040
-is to be the first para chain in the
+จะเป็นparachainแรกใน
 
 119
 00:03:41,200 --> 00:03:45,120
-public slot on kusama
+ในช่องสาธารณะบน kusama
 
 120
 00:03:43,040 --> 00:03:48,080
-with karua and then be the first para
+กับ karura หลังจากนั้น จะเป็น
 
 121
 00:03:45,120 --> 00:03:51,440
-chain on polka dot with akala
+parachain แรกบน polkadot และ acala
 
 122
 00:03:48,080 --> 00:03:53,280
-so with that as background
+ด้วยเบื้องหลังนี้
 
 123
 00:03:51,440 --> 00:03:55,360
-um like like we mentioned we're going to
+อย่างที่เราบอกไปว่าเราจะ
 
 124
 00:03:53,280 --> 00:03:58,159
-be talking about karura today which
+พูดถึง karura กันในวันนี้
 
 125
 00:03:55,360 --> 00:04:00,239
-um is we're what we're really seeing it
+เราเห็นกันจริงๆ
 
 126
 00:03:58,159 --> 00:04:02,959
-becoming is the kind of defy hub
+มันกลายเป็น defy hub นั่นเอง
 
 127
 00:04:00,239 --> 00:04:04,640
-of the kusama ecosystem as well as
+ของระบบนิเวศ kusama
 
 128
 00:04:02,959 --> 00:04:06,239
-providing many different financial
+ตลอดจนการจัดหาผลิตภัณฑ์ ทางการเงินที่แตกต่างกัน
 
 129
 00:04:04,640 --> 00:04:07,360
-products to
+มากมายให้กับ
 
 130
 00:04:06,239 --> 00:04:09,280
-all the different para chains and
+parachains ต่างๆ และ
 
 131
 00:04:07,360 --> 00:04:12,319
-applications that we'll be launching
+application ที่เรากำลังจพเปิดตัว
 
 132
 00:04:09,280 --> 00:04:14,159
-in the kusama ecosystem
+ในระบบนิเวศของ kusama
 
 133
 00:04:12,319 --> 00:04:16,560
-in my opinion there's no better way to
+ในความคิดของฉัน ไม่มีวิธีใด
 
 134
 00:04:14,159 --> 00:04:17,359
-start the kusama ecosystem than to have
+ที่จะเริ่มต้นระบบนิเวศของ kusama ได้ดีไปกว่า
 
 135
 00:04:16,560 --> 00:04:19,280
-korea launch
+การเปิดตัวของ karura ก่อน
 
 136
 00:04:17,359 --> 00:04:21,040
-first because of what we're about to
+เพราะสิ่งที่เรากำลังจะ
 
 137
 00:04:19,280 --> 00:04:23,040
-explain to you and these are not just
+อธิบายให้คุณฟัง และสิ่งเหล่านี้ไม่ใช่เพียง
 
 138
 00:04:21,040 --> 00:04:26,080
-products that akala and kuru will be
+ผลิตภัณฑ์ที่ akala และ kuru จะ
 
 139
 00:04:23,040 --> 00:04:27,680
-able to use these are actually
+สามารถใช้สิ่งเหล่านี้ได้ จริงๆ
 
 140
 00:04:26,080 --> 00:04:29,440
-what are called primitives it's it's
+แล้วเรียกว่า primitives
 
 141
 00:04:27,680 --> 00:04:31,520
-kind of a new concept but it's built
+เป็นแนวคิดใหม่ แต่มันถูกสร้างขึ้น
 
 142
 00:04:29,440 --> 00:04:33,199
-kind of into the blockchain itself
+ในบล็อกเชนนั่นเอง
 
 143
 00:04:31,520 --> 00:04:34,880
-which means that other teams can
+ซึ่งหมายความว่า ที่ทีมอื่นสามารถ
 
 144
 00:04:33,199 --> 00:04:36,720
-actually come into the ecosystem and
+เข้ามาในระบบนิเวศได้จริงและ
 
 145
 00:04:34,880 --> 00:04:39,360
-leverage what our team has built
+ใช้ประโยชน์จากสิ่งที่ทีมของเราสร้างขึ้น
 
 146
 00:04:36,720 --> 00:04:41,120
-so for example the kura dollar is a
+ตัวอย่างเช่น Dollart ของ Kusamaเป็น
 
 147
 00:04:39,360 --> 00:04:42,800
-stable coin that will not only be used
+stable coin ซึ่งไม่เพียงแต่จะใช้ใน
 
 148
 00:04:41,120 --> 00:04:43,600
-in our applications but it can be used
+แอปพลิเคชันของเราเท่านั้น แต่
 
 149
 00:04:42,800 --> 00:04:46,639
-by anyone
+ยังใช้ได้กับทุกคน
 
 150
 00:04:43,600 --> 00:04:48,240
-in the kusama ecosystem so no better way
+บนระบบนิเวศของ kusamaอีกด้วย ดังนั้นจึงไม่มีวิธีใดที่จะดีไปกว่า
 
 151
 00:04:46,639 --> 00:04:50,000
-to kind of kick start this ecosystem
+ที่จะเริ่มต้นระบบนิเวศนี้
 
 152
 00:04:48,240 --> 00:04:52,080
-than to build this kind of
+มากกว่าที่จะสร้างแบบนี้
 
 153
 00:04:50,000 --> 00:04:53,600
-um you know important foundation first
+คุณรู้พื้นฐานที่สำคัญกับ karura ก่อน
 
 154
 00:04:52,080 --> 00:04:55,440
-with karua and then allow
+แล้วจึงอนุญาต
 
 155
 00:04:53,600 --> 00:04:56,800
-kind of other teams to build with what
+ให้ทีมอื่นสร้างด้วย
 
 156
 00:04:55,440 --> 00:04:59,600
-we're providing to
+สิ่งที่เรามอบให้กับ
 
 157
 00:04:56,800 --> 00:05:00,880
-the ecosystem um what you see here on
+ระบบนิเวศ สิ่งที่คุณเห็นตอนนี้
 
 158
 00:04:59,600 --> 00:05:02,880
-the screen is the
+หน้าจอตอนนี้ คือ
 
 159
 00:05:00,880 --> 00:05:04,400
