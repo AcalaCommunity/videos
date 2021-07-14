@@ -400,59 +400,59 @@ gray squares นี่คือแต่ละคู่
 
 101
 00:03:09,280 --> 00:03:13,360
-and what this graphic here shows is kind
+และสิ่งที่กราฟิคนี้แสดงให้เห็น
 
 102
 00:03:11,200 --> 00:03:15,120
-of the future this is where
+คืออนาคต ที่ซึ่ง
 
 103
 00:03:13,360 --> 00:03:17,280
-we will have a hundred or more pair of
+เราจะมี 100 หรือมากกว่าคู่ ที่
 
 104
 00:03:15,120 --> 00:03:19,599
-chains connected to kusama
+เชื่อมต่อกับเชน เข้ากับ kusama
 
 105
 00:03:17,280 --> 00:03:20,560
-and 100 or more para chains connected to
+และ 100 หรือ มากกว่า parachains เชื่อมต่อเข้ากับ
 
 106
 00:03:19,599 --> 00:03:22,640
-polka dot
+polkadot
 
 107
 00:03:20,560 --> 00:03:23,840
-all in one kind of connected ecosystem
+ทั้งหมดในระบบนิเวศที่เชื่อมโยงกันเป็นหนึ่งเดียว
 
 108
 00:03:22,640 --> 00:03:25,280
-because as you can see here in the
+เพราะที่เห็น
 
 109
 00:03:23,840 --> 00:03:27,680
-middle there will be a bridge
+ตรงกลางนี้จะมีสะพานเชื่อม (Bridge)
 
 110
 00:03:25,280 --> 00:03:28,480
-built between polka dot and kusama but
+ระหว่าง polkadot และ kusama แต่
 
 111
 00:03:27,680 --> 00:03:30,879
-at this point
+ณ จุดนี้
 
 112
 00:03:28,480 --> 00:03:32,000
-these two kind of multi-chain networks
+เครือข่าย multi-chain สองประเภทนี้
 
 113
 00:03:30,879 --> 00:03:34,560
-are actually
+จริงๆ แล้ว
 
 114
 00:03:32,000 --> 00:03:36,000
-pretty um bare there's no pair of chains
+ค่อนข้างว่างเปล่า ยังไม่มีคู่เชน
 
 115
 00:03:34,560 --> 00:03:37,120
