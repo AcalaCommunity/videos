@@ -636,175 +636,175 @@ User Interface ของจริง
 
 160
 00:05:02,880 --> 00:05:05,280
-application layer that our team has
+บน Application Layer ที่่ทีมเรา
 
 161
 00:05:04,400 --> 00:05:06,880
-built out
+ได้สร้างขึ้น
 
 162
 00:05:05,280 --> 00:05:09,039
-so we do have these products that are
+ดังนั้นเราจึงมีผลิตภัณฑ์เหล่านี้
 
 163
 00:05:06,880 --> 00:05:11,520
-built into the blockchain itself but our
+ที่สร้างขึ้นในบล็อกเชน แต่ทีมของเรา
 
 164
 00:05:09,039 --> 00:05:13,680
-team is also built on our own chain
+ก็สร้างขึ้นบนเครือข่ายของเราเองด้วย
 
 165
 00:05:11,520 --> 00:05:14,880
-an entire kind of application layer
+เลเยอร์แอปพลิเคชันทั้งหมด
 
 166
 00:05:13,680 --> 00:05:18,400
-which you see here and this is what
+ทื่คุณกำลังเห็น และนี้คือสิ่งที่
 
 167
 00:05:14,880 --> 00:05:22,080
-rutau's going to be demoing today
+ruitao กำลังจะสาธิตในวันนี้
 
 168
 00:05:18,400 --> 00:05:24,240
-just to further explain what i mentioned
+เพื่ออธิบายเพิ่มเติมในสิ่งที่ฉันพูดถึง
 
 169
 00:05:22,080 --> 00:05:26,400
-about akala being a platform
+เกี่ยวกับ acala ว่าเป็นแพลตฟอร์ม
 
 170
 00:05:24,240 --> 00:05:27,680
-for applications and then also an
+สำหรับแอปพลิเคชันแล้วยัง
 
 171
 00:05:26,400 --> 00:05:29,759
-application layer
+เป็นชั้นแอปพลิเคชัน
 
 172
 00:05:27,680 --> 00:05:31,199
-if you can see this this diagram here
+ถ้าคุณเห็นไดอะแกรมนี้
 
 173
 00:05:29,759 --> 00:05:34,479
-this is kind of working from the
+นี่เป็นการทำงานจาก
 
 174
 00:05:31,199 --> 00:05:37,039
-the base layer of kusama and up so
+ชั้น Base Layer ของ kusana ขึ้นไป ดังนั้น
 
 175
 00:05:34,479 --> 00:05:38,720
-what this is showing is kusama is this
+สิ่งที่แสดงให้เห็น kusama นี้คือ
 
 176
 00:05:37,039 --> 00:05:40,479
-of course this multi-chain platform that
+แพลตฟอร์ม multi-chain ที่
 
 177
 00:05:38,720 --> 00:05:41,919
-i showed you and we're trying to get a
+ฉันแสดงให้คุณเห็น และเรากำลังพยายาม
 
 178
 00:05:40,479 --> 00:05:43,759
-slot in kusama
+หาช่องใน kusama
 
 179
 00:05:41,919 --> 00:05:45,120
-and what that allows us to do is to plug
+และสิ่งที่ทำให้เราทำได้คือ plug-in
 
 180
 00:05:43,759 --> 00:05:47,840
-in this entire
+ภายในทั้งหมด
 
 181
 00:05:45,120 --> 00:05:49,199
-kind of orange box here which is kura
+ของกล่องสีส้มนี้ ซึ่งก็คือ kurara
 
 182
 00:05:47,840 --> 00:05:50,880
-and this is our blockchain this is a
+และนี่คือ บล็อคเชนของเรา นี่คือ
 
 183
 00:05:49,199 --> 00:05:52,800
-layer one blockchain equivalent to
+บล็อคเชน Layer 1 ที่เทียบเท่า
 
 184
 00:05:50,880 --> 00:05:55,840
-something like ethereum today
+อีเธอเรียมในปัจจุบัน
 
 185
 00:05:52,800 --> 00:05:58,400
-and within karua there are multiple
+และภายใน karura มีการ
 
 186
 00:05:55,840 --> 00:05:59,680
-primitives or financial products built
+สร้างผลิตภัณฑ์ทางการเงินดั้งเดิมหรือผลิตภัณฑ์ทางการเงินมากมาย
 
 187
 00:05:58,400 --> 00:06:01,919
-with which we can use
+ที่เราสามารถใช้ได้
 
 188
 00:05:59,680 --> 00:06:04,000
-in applications on top of this so you
+ในแอปพลิเคชันด้านบนนี้ ดังนั้นคุณ
 
 189
 00:06:01,919 --> 00:06:06,560
-can see here the stable coin i mentioned
+สามารถที่จะเห็น Stable Coin ที่ฉันได้กล่าวถึง
 
 190
 00:06:04,000 --> 00:06:08,960
-liquid ksm staking which allows you to
+liquid ksm staking ที่ช่วยให้คุณ
 
 191
 00:06:06,560 --> 00:06:11,120
-state ksm and actually get a receipt for
+stake ksm และรับใบเสร็จรับเงินได้จริง
 
 192
 00:06:08,960 --> 00:06:12,960
-that that you can use within defy
+สำหรับสิ่งที่คุณสามารถใช้ได้ภายใน defi
 
 193
 00:06:11,120 --> 00:06:14,560
-instead of just staking your ksm and it
+แทนที่จะเพียงแค่ staking ksm ของคุณเท่านั้น และมัน
 
 194
 00:06:12,960 --> 00:06:15,120
-being kind of locked and stuck there and
+ถูกล็อคและติดอยู่ที่นั่นและ
 
 195
 00:06:14,560 --> 00:06:18,720
-not
+ไม่สามารถ
 
 196
 00:06:15,120 --> 00:06:21,600
-usable another aspect is our decks
+ใช้งานได้อีกแง่มุมหนึ่งคือเด็คของเรา
 
 197
 00:06:18,720 --> 00:06:22,160
-which rutau will will demo here soon and
+ที่ ruitao จะสาธิต ที่นี่ เร็วๆ นี้ และ
 
 198
 00:06:21,600 --> 00:06:24,319
-then
+จากนี้
 
 199
 00:06:22,160 --> 00:06:26,639
-some of the you all we always talk about
+พวกคุณบางคน เรามักจะพูดถึง
 
 200
 00:06:24,319 --> 00:06:27,919
-how blockchains can be customized with
+วิธีปรับแต่งบล็อคเชนด้วย
 
 201
 00:06:26,639 --> 00:06:30,800
-substrate and built
+substrate และสร้างขึ้น
 
 202
 00:06:27,919 --> 00:06:32,319
-for specific use cases and here is what
+สำหรับกรณีการใช้งานเฉพาะ และนี่คือสิ่งที่
 
 203
 00:06:30,800 --> 00:06:34,479
