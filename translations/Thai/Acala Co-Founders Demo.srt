@@ -1500,81 +1500,81 @@ parachain อื่นๆ
 
 376
 00:14:35,120 --> 00:14:39,519
-so i've like well we have created open
+พวกเราได้สร้างไลบรารี่ open-
 
 377
 00:14:37,760 --> 00:14:41,120
-runner module library and created some
+runtime-module ขึ้นมาและสร้างสินทรัพย์
 
 378
 00:14:39,519 --> 00:14:42,639
-of the question
+โทเค็นแบบที่สามารถ
 
 379
 00:14:41,120 --> 00:14:44,639
-token transfer asset which is kind of
+โอนข้ามเชนกันได้ ซึ่งโทเค็นเหล่านี้ก็
 
 380
 00:14:42,639 --> 00:14:47,279
-used by quite a few
+ถูกใช้งานโดยบางส่วนของ
 
 381
 00:14:44,639 --> 00:14:48,399
-project things including platinum phalla
+parachain นั้นก็รวม platimum, phalla และ
 
 382
 00:14:47,279 --> 00:14:51,760
-and
+อื่นๆ
 
 383
 00:14:48,399 --> 00:14:53,920
-a few others and so to implement the
+อยู่ด้วย สำหรับการพัฒนาการโอน
 
 384
 00:14:51,760 --> 00:14:57,120
-question transfer so i'm also creating
+แบบ cross-chain นั้นผมได้สร้าง
 
 385
 00:14:53,920 --> 00:15:00,240
-some implementation guides and
+ไกด์แนะนำวิธีการพัฒนาและ
 
 386
 00:14:57,120 --> 00:15:01,040
-some implementation plans um to in the
+แผนการทำงานที่จะเกิดขึ้นใน
 
 387
 00:15:00,240 --> 00:15:04,480
-future to
+อนาคต
 
 388
 00:15:01,040 --> 00:15:05,279
-further help everyone um to implement
+ความช่วยเหลือจากทุกๆคนในการพัฒนา
 
 389
 00:15:04,480 --> 00:15:07,360
-the question
+การโอนสินทรัพย์
 
 390
 00:15:05,279 --> 00:15:08,320
-asset transfer so this will allow
+แบบcross-chain ซึ่งนั้นจะอนุญาติ
 
 391
 00:15:07,360 --> 00:15:10,560
-everyone
+ให้ทุกๆคน
 
 392
 00:15:08,320 --> 00:15:11,440
-to be able to compose with each other
+สามารถโอนไปมาหากันได้
 
 393
 00:15:10,560 --> 00:15:15,040
-more easily
+ง่ายขึ้น
 
 394
 00:15:11,440 --> 00:15:20,720
-just by integrating our library
+ด้วยการนำ libray ของเราไปใช้
 
 395
 00:15:15,040 --> 00:15:20,720
-so that's all i have for you today
+และนั้นคือสิ่งที่ผมนำเสนอให้คุณในวันนี้
 
