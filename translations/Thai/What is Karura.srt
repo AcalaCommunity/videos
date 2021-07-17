@@ -1440,123 +1440,123 @@ Q&A อีกครั้ง และจบลงด้วย
 
 361
 00:11:27,440 --> 00:11:30,880
-with kind of a an open q a session
+หัวข้อ Q&A 
 
 362
 00:11:29,839 --> 00:11:32,399
-because i know you guys have a lot of
+เพราะฉันรู้ว่าพวกคุณมี
 
 363
 00:11:30,880 --> 00:11:34,480
-questions so
+คำถามมากมาย
 
 364
 00:11:32,399 --> 00:11:35,519
-go ahead root out take it away from from
+ruitao จะตอบปัญหา
 
 365
 00:11:34,480 --> 00:11:37,200
-here
+ทีนี่
 
 366
 00:11:35,519 --> 00:11:39,200
-awesome thanks dan that's an awesome
+ยอดเยี่ยม ขอบคุณแดน
 
 367
 00:11:37,200 --> 00:11:40,800
-introduction so i just share my screen
+บทนำที่ยอดเยี่ยมมาก ฉันพึ่งแชร์หน้าจอ
 
 368
 00:11:39,200 --> 00:11:43,680
-to make sure that um so then can you see
+ของฉันเพื่อให้แน่ใจ Dan เห็นหน้าจอไหมครับ
 
 369
 00:11:40,800 --> 00:11:47,279
-my screen everyone can see my screen
+ทุกคนสามารถเห็นหน้าจอของฉันได้ ใช่ไหมครับ
 
 370
 00:11:43,680 --> 00:11:50,000
-yep we got it awesome um so this is the
+ใช่ เราทำให้มันยอดเยี่ยม นี่คือ
 
 371
 00:11:47,279 --> 00:11:51,760
-um the front-end depth um to kurua or to
+ส่วนของหน้าตาเว็บไซต์ของ karura หรือ
 
 372
 00:11:50,000 --> 00:11:53,600
-mandala like this is the test net but
+mandala บน testnet แต่
 
 373
 00:11:51,760 --> 00:11:54,800
-this is going to be the front and depth
+แต่นี่จะเป็นหน้าตาเว็บไซต์
 
 374
 00:11:53,600 --> 00:11:57,519
-for kuruwa
+ของ karura
 
 375
 00:11:54,800 --> 00:11:58,959
-it is like what then says um crew itself
+มันเหมือนกับที่แดนบอกว่า karura เอง
 
 376
 00:11:57,519 --> 00:12:01,200
-is a specialized blockchain
+เป็นบล็อคเชนเฉพาะ
 
 377
 00:11:58,959 --> 00:12:03,120
-with a set of built-in features and this
+พร้อมชุดคุณสมบัติในตัว และนี่คือ
 
 378
 00:12:01,200 --> 00:12:05,760
-is the front end for you to interact
+ส่วนหน้าเว็ปไซต์สำหรับคุณในการโต้ตอบ
 
 379
 00:12:03,120 --> 00:12:06,560
-as a consumer as a trader to interact
+ในฐานะผู้บริโภคในฐานะผู้ค้าเพื่อโต้ตอบ
 
 380
 00:12:05,760 --> 00:12:09,440
-with this
+กับสิ่งนี้
 
 381
 00:12:06,560 --> 00:12:10,880
-specialized network and obviously the
+เครือข่ายเฉพาะและเห็นได้ชัดว่า
 
 382
 00:12:09,440 --> 00:12:13,279
-most important feature
+คุณสมบัติที่สำคัญที่สุด
 
 383
 00:12:10,880 --> 00:12:15,680
-overall is that we have a dark mode and
+โดยรวมคือเรามีโหมดกลางคืน และ
 
 384
 00:12:13,279 --> 00:12:17,680
-this fits within the crew us um
+ที่เข้ากับชุดสีของ karura พอดี
 
 385
 00:12:15,680 --> 00:12:19,120
-color scheme it looks really awesome um
+ชุดสีมันดู ยอดเยี่ยมาก
 
 386
 00:12:17,680 --> 00:12:20,399
-this is what we're going to be look like
+เราจะได้หน้าตาประมาณนี้
 
 387
 00:12:19,120 --> 00:12:22,720
-as a d4
+เหมือินกับ d4
 
 388
 00:12:20,399 --> 00:12:23,519
-color scheme when we launch this um when
+ชุดสีเมื่อเราเปิดตัวสิ่งนี้
 
 389
 00:12:22,720 --> 00:12:25,760
-we launch the
+เราเปิดตัว
 
 390
 00:12:23,519 --> 00:12:26,880
-current network and the very first page
+เครือข่าย karura และหน้าแรกสุด
 
 391
 00:12:25,760 --> 00:12:29,120
