@@ -1084,119 +1084,119 @@ bitcoin และ ethereum เร็วๆนี้
 
 272
 00:08:41,360 --> 00:08:46,800
-yeah like this is essentially karua in a
+และนี่คือพื้นฐานของ karura
 
 273
 00:08:44,640 --> 00:08:48,160
-nutshell and and very similar to akala
+ โดยสังเขปและคล้ายกับ acalaมาก
 
 274
 00:08:46,800 --> 00:08:48,720
-but we'll just stick to korea for
+แต่เราจะยึดติดกับ karura เพื่อ
 
 275
 00:08:48,160 --> 00:08:52,000
-today's
+สำหรับการนำเสนอ
 
 276
 00:08:48,720 --> 00:08:54,240
-presentation so last
+ในวันนี้เท่านั้น
 
 277
 00:08:52,000 --> 00:08:55,839
-i think this is the last slide but um
+ดังนั้นสุดท้ายฉันคิดว่านี่เป็นสไลด์สุดท้าย แต่
 
 278
 00:08:54,240 --> 00:08:57,360
-one question that a lot of people ask is
+คำถามหนึ่งที่หลายคนถามคือ
 
 279
 00:08:55,839 --> 00:09:00,320
-why we decided to build
+ทำไมเราถึงตัดสินใจสร้าง
 
 280
 00:08:57,360 --> 00:09:01,279
-kura on kusama in addition to akala on
+karura บน kusama นอกเหนือจาก acala บน
 
 281
 00:09:00,320 --> 00:09:03,040
-polka dot
+polkadot
 
 282
 00:09:01,279 --> 00:09:05,200
-and the answer to this question is that
+และคำตอบสำหรับคำถามนี้คือ
 
 283
 00:09:03,040 --> 00:09:08,160
-we are we are doing this
+เรากำลังทำเช่นนี้
 
 284
 00:09:05,200 --> 00:09:10,320
-based on user demand so this kusama
+ตามความต้องการของผู้ใช้ ดังนั้น ระบบนิเวศ kusama
 
 285
 00:09:08,160 --> 00:09:12,000
-ecosystem and the polka dot ecosystem
+และระบบนิเวศ polkadot
 
 286
 00:09:10,320 --> 00:09:13,760
-although there's some overlap they're
+แม้ว่าจะมีการทับซ้อนกันอยู่บ้าง
 
 287
 00:09:12,000 --> 00:09:14,160
-also quite distinctly different now and
+แต่ก็มีความแตกต่างกันอย่างชัดเจนในตอนนี้ และ
 
 288
 00:09:13,760 --> 00:09:16,560
-they have
+พวกเขามี
 
 289
 00:09:14,160 --> 00:09:18,399
-two different communities of token
+ชุมชนผู้ถือโทเค็นสองแห่ง
 
 290
 00:09:16,560 --> 00:09:20,080
-holders with defi demand
+ที่มีความต้องการทาง defi
 
 291
 00:09:18,399 --> 00:09:22,000
-so we're building kura to serve that
+ดังนั้นเราจึงสร้าง karura เพื่อตอบสนอง
 
 292
 00:09:20,080 --> 00:09:24,320
-defy demand of kusama and we'll be
+ความต้องการทางdefy ของ kusama และเราจะสร้าง
 
 293
 00:09:22,000 --> 00:09:26,000
-building akala to serve the d5 demand of
+acala เพื่อตอบสนองความต้องการ d5 ของ
 
 294
 00:09:24,320 --> 00:09:28,399
-polka dot
+polkadot
 
 295
 00:09:26,000 --> 00:09:30,480
-um but kusama if you have the background
+แต่ kusama ถ้าคุณมีพื้นฐาน
 
 296
 00:09:28,399 --> 00:09:33,200
-on kusama it's meant to be this place
+บน kusamaมาก่อน มันควรจะเป็นสถานที่
 
 297
 00:09:30,480 --> 00:09:33,600
-to have fun to experiment and to kind of
+เพื่อสนุกกับการทดลองและ
 
 298
 00:09:33,200 --> 00:09:36,320
-launch
+และเปิดตัว
 
 299
 00:09:33,600 --> 00:09:38,640
-products before moving to polka dot but
+ผลิตภัณฑ์ก่อนที่จะย้ายไปที่ polkadot แต่
 
 300
 00:09:36,320 --> 00:09:40,000
-after being heavily tested on a test net
+หลังจากทดสอบอย่างหนักบน test net
 
 301
 00:09:38,640 --> 00:09:42,240
