@@ -1653,151 +1653,151 @@ hydra decks
 
 414
 00:13:10,639 --> 00:13:15,040
-ดังนั้นนี่คือ
+ดังนั้นนี่
 
 415
 00:13:12,160 --> 00:13:16,240
-almost looks like an uh a user very
+ดูเหมือน กระเป๋าที่ใช้งาน
 
 416
 00:13:15,040 --> 00:13:18,480
-friendly wallet they can
+ได้ง่ายมาก พวกเขา
 
 417
 00:13:16,240 --> 00:13:20,320
-you can access like um in my opinion way
+สามารถเข้าถึงง่าย ในความคิดของฉัน
 
 418
 00:13:18,480 --> 00:13:22,560
-better than just um
+มันดีกว่าการใช้
 
 419
 00:13:20,320 --> 00:13:23,519
-than just using polkadot.js to to to
+polkadot.js
 
 420
 00:13:22,560 --> 00:13:25,760
-interact with the
+เพื่อโต้ตอบกับ
 
 421
 00:13:23,519 --> 00:13:26,959
-blockchain so this is that's what i was
+บล็อคเชน ดังนั้นนี่คือสิ่งที่
 
 422
 00:13:25,760 --> 00:13:29,040
-gonna ask you right
+ฉันจะถามคุณจากนี้ไป
 
 423
 00:13:26,959 --> 00:13:30,399
-so as we go through this i'm just gonna
+ฉันจะถามคำถาม
 
 424
 00:13:29,040 --> 00:13:31,839
-ask questions that i think
+ที่ฉันคิดว่า
 
 425
 00:13:30,399 --> 00:13:33,760
-people in the audience might be
+คนในกลุ่มผู้ชมอาจสงสัย
 
 426
 00:13:31,839 --> 00:13:34,000
-wondering so what you're showing here is
+ในสิ่งที่คุณกำลังแสดงอยู่นี้
 
 427
 00:13:33,760 --> 00:13:36,240
-a
+คือ
 
 428
 00:13:34,000 --> 00:13:38,880
-wallet that can be used similar to
+กระเป๋าที่ใช้งานได้เหมือนกับ
 
 429
 00:13:36,240 --> 00:13:40,399
-people have on polka dot js now or even
+คนมีใน polkadotjs ในตอนนี้หรือแม้แต่
 
 430
 00:13:38,880 --> 00:13:42,079
-some of their mobile wallets but
+กระเป๋าเงินในมือถือบางส่วนของพวกเขา แต่
 
 431
 00:13:40,399 --> 00:13:43,839
-when they connect what they would do to
+แต่เมื่อพวกเขาเชื่อมต่อสิ่งที่พวกเขาจะทำ
 
 432
 00:13:42,079 --> 00:13:45,040
-actually see these numbers here is it
+ที่เห็นตัวเลขพวกนี้นี่
 
 433
 00:13:43,839 --> 00:13:45,760
-correct that they would go up to the
+ถูกต้องแล้วใช่ไหมที่พวกมันจะขึ้นไป
 
 434
 00:13:45,040 --> 00:13:47,680
-polka dot
+polkadotjs extension
 
 435
 00:13:45,760 --> 00:13:49,680
-js extension and connect their polka dot
+และเชื่อมต่อบัญชีpolkadotjs
 
 436
 00:13:47,680 --> 00:13:50,399
-js account to this wallet and it would
+พวกเขากับกระเป๋าเงินนี้และมันจะ
 
 437
 00:13:49,680 --> 00:13:53,040
-show
+แสดง
 
 438
 00:13:50,399 --> 00:13:53,519
-their live balances within this wallet
+ยอดคงเหลือจริงภายในกระเป๋าเงินนี้
 
 439
 00:13:53,040 --> 00:13:56,720
-is that
+นั่นถูกต้องใช่ไหม
 
 440
 00:13:53,519 --> 00:13:58,160
-yes yes yes definitely and the poke.js
+ใช่แน่นอนและ polkadotjs
 
 441
 00:13:56,720 --> 00:14:01,279
-is very similar to the
+นั้นคล้ายกับ
 
 442
 00:13:58,160 --> 00:14:03,440
-metamask equivalent on polka dots
+metamask ที่เทียบเท่ากับ polkadot
 
 443
 00:14:01,279 --> 00:14:04,959
-you can manage multiple account in this
+คุณสามารถจัดการหลายบัญชี
 
 444
 00:14:03,440 --> 00:14:06,399
-wallet section as well so i can change
+ในส่วนกระเป๋าเงินนี้ได้เช่นกัน ดังนั้นฉันสามารถเปลี่ยน
 
 445
 00:14:04,959 --> 00:14:08,320
-to another demo account here
+เป็นบัญชีทดลองอื่นที่นี่
 
 446
 00:14:06,399 --> 00:14:10,320
-you can see all the stuff i refresh on
+คุณสามารถดูทุกสิ่งที่ฉันรีเฟรช
 
 447
 00:14:08,320 --> 00:14:11,279
-the fly i can change back to my original
+ได้ทันที ฉันสามารถเปลี่ยนกลับเป็นบัญชีทดลองเดิมของฉัน
 
 448
 00:14:10,320 --> 00:14:13,279
-demo account
+ได้
 
 449
 00:14:11,279 --> 00:14:14,399
-and you can also see a history of your
+และคุณยังสามารถดู
 
 450
 00:14:13,279 --> 00:14:16,240
-past transaction
+ประวัติการทำธุรกรรมที่ผ่านมาของคุณได้อีกด้วย
 
 451
 00:14:14,399 --> 00:14:17,440
