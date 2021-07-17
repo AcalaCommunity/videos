@@ -1200,27 +1200,27 @@ polkadot
 
 301
 00:09:38,640 --> 00:09:42,240
-so kusama is
+ดังนั้น kusama จึง
 
 302
 00:09:40,000 --> 00:09:43,040
-absolutely not a test net at all it's
+จึงไม่ใช่ testnet เลย
 
 303
 00:09:42,240 --> 00:09:46,000
-the the
+มันคือ
 
 304
 00:09:43,040 --> 00:09:48,000
-test net is called rococo and west end
+ครือข่ายทดสอบที่เรียกว่า rococo และ westend
 
 305
 00:09:46,000 --> 00:09:51,360
-things are tested on testnet then move
+ได้รับการทดสอบบน testnet
 
 306
 00:09:48,000 --> 00:09:52,800
-to kusama and then move to polka dot
+จากนั้นย้ายไปที่ kusama แล้วย้ายไปที่ polka dot
 
 307
 00:09:51,360 --> 00:09:54,480
@@ -1232,27 +1232,27 @@ to kusama and then move to polka dot
 
 309
 00:09:54,480 --> 00:09:58,240
-our test net is called mandala so the
+testnet ของเราเรียกว่า mandala
 
 310
 00:09:56,959 --> 00:09:59,760
-test net there is where
+testnet จะมีการสร้าง
 
 311
 00:09:58,240 --> 00:10:01,440
-brand new products will be built and
+ละทดสอบและกลั่นกรองผลิตภัณฑ์ใหม่
 
 312
 00:09:59,760 --> 00:10:03,600
-tested and refined and
+ทดสอบ และ
 
 313
 00:10:01,440 --> 00:10:05,279
-hopefully nearly perfected before they
+หวังว่าจะเกือบจะสมบูรณ์แบบก่อน
 
 314
 00:10:03,600 --> 00:10:06,640
-moved to karua
+ที่จะย้ายไปที่ karura
 
 315
 00:10:05,279 --> 00:10:08,800
@@ -1328,115 +1328,115 @@ acala หลังจากนั้น
 
 333
 00:10:39,040 --> 00:10:42,640
-pretty insane speeds right now and
+อย่างรวดเร็วมากขณะนี้ และ
 
 334
 00:10:40,880 --> 00:10:44,399
-getting very close to
+และใกล้เคียงมากขึ้น
 
 335
 00:10:42,640 --> 00:10:46,320
-um you know the crowd loan process and
+ขั้นตอนการทำ crowdloanและ
 
 336
 00:10:44,399 --> 00:10:48,079
-parachain auction process that
+กระบวนการประมูล Parachain ที่
 
 337
 00:10:46,320 --> 00:10:49,519
-we've talked about before and there are
+เราเคยพูดถึงมาก่อน และมี
 
 338
 00:10:48,079 --> 00:10:50,000
-some videos on that on our youtube
+วิดีโอบางส่วนในช่อง YouTube
 
 339
 00:10:49,519 --> 00:10:51,600
-channel
+ของเรา
 
 340
 00:10:50,000 --> 00:10:55,279
-feel free to check out but we won't get
+สามรารถลองได้อย่างอิสระ แต่พวกเราจะไม่
 
 341
 00:10:51,600 --> 00:10:57,680
-into details on on that process today
+ลงรายละเอียดเกี่ยวกับกระบวนการนั้นในวันนี้
 
 342
 00:10:55,279 --> 00:10:59,040
-so uh that's it for my part and now
+ดังนั้น นี่คือส่วนของฉัน และตอนนี้
 
 343
 00:10:57,680 --> 00:11:00,640
-we're gonna go into
+เราจะเข้าสู่
 
 344
 00:10:59,040 --> 00:11:02,160
-the demos and what we're going to do in
+การสาธิตและสิ่งที่เราจะทำใน
 
 345
 00:11:00,640 --> 00:11:05,040
-terms of
+ในรูปแบบของ
 
 346
 00:11:02,160 --> 00:11:05,680
-kind of format here is ruta will go
+ที่นี่ ruitao จะมาเจาะลึก
 
 347
 00:11:05,040 --> 00:11:07,200
-through
+เกี่ยวกับ
 
 348
 00:11:05,680 --> 00:11:09,360
-one of the products and then we'll take
+หนึ่งในผลิตภัณฑ์แล้วเราจะ
 
 349
 00:11:07,200 --> 00:11:11,920
-a brief pause and let you guys do q
+หยุดสักครู่แล้วปล่อยให้พวกคุณทำ Q&A
 
 350
 00:11:09,360 --> 00:11:12,480
-a and please ask questions specifically
+และโปรดถามคำถามโดยเฉพาะ
 
 351
 00:11:11,920 --> 00:11:14,240
-about
+เกี่ยวกับ
 
 352
 00:11:12,480 --> 00:11:16,079
-the demo that he had just done for
+ตัวอย่างที่เขาเพิ่งทำไป
 
 353
 00:11:14,240 --> 00:11:18,640
-example if it's if it's the
+ตัวอย่างเช่น หากเป็น
 
 354
 00:11:16,079 --> 00:11:19,839
-the borrow ausd part of this just keep
+ส่วนของการยืม ausd นี้เป็นพียงแค่
 
 355
 00:11:18,640 --> 00:11:21,279
-your questions to that
+เก็บคำถามของคุณไว้
 
 356
 00:11:19,839 --> 00:11:23,120
-we'll answer a few questions then he'll
+เราจะตอบคำถามสองสามข้อ จากนั้นเขา
 
 357
 00:11:21,279 --> 00:11:24,000
-move on to the next demo we'll do a
+จะไปยังการสาธิตถัดไป เราจะทำ
 
 358
 00:11:23,120 --> 00:11:25,600
-short q a
+Q&A สั้นๆ
 
 359
 00:11:24,000 --> 00:11:27,440
-and then the final demo we'll do another
+จากนั้นเดโมสุดท้ายเราจะทำ
 
 360
 00:11:25,600 --> 00:11:29,839
-q a and we'll end up with
+Q&A อีกครั้ง และจบลงด้วย
 
 361
 00:11:27,440 --> 00:11:30,880
