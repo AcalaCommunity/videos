@@ -1104,131 +1104,131 @@ homa council ได้
 
 277
 00:10:21,200 --> 00:10:26,640
-by using your elder to vote for um
+โดยใช้ l-dot ในการโหวต
 
 278
 00:10:24,560 --> 00:10:28,800
-as the sa holder account holder you will
+สำหรับคนที่ถือ acala คุณสามาถที่จะ
 
 279
 00:10:26,640 --> 00:10:30,480
-be person able to participate the
+เป็นหนึ่งในผู้เข้าร่วมการโหวตของ
 
 280
 00:10:28,800 --> 00:10:33,040
-general counsel and the hong kong
+general council และ honzon
 
 281
 00:10:30,480 --> 00:10:35,519
-council governors
+council ได้นะครับ
 
 282
 00:10:33,040 --> 00:10:36,240
-so yes so those are still working for
+ในส่วนนี้ พวกเรากำลังพัฒนา
 
 283
 00:10:35,519 --> 00:10:38,720
-ways so it's
+มันอยู่นะครับ
 
 284
 00:10:36,240 --> 00:10:40,000
-not empty but hopefully a later stage
+มันถึงได้โชว์หน้าว่าง แต่หลังจากนั้นผม
 
 285
 00:10:38,720 --> 00:10:43,519
-will have much more thing
+หวังว่าเราจะมีหลายๆฟังชั่น
 
 286
 00:10:40,000 --> 00:10:43,519
-in our test net to shoot
+ในผลิตภัณฑ์ของพวกเรา
 
 287
 00:10:44,160 --> 00:10:50,240
-so now um you have already um
+และตอนนี้คุณก็จะมี
 
 288
 00:10:47,600 --> 00:10:51,200
-having the thoughts making your profiles
+ความคิดให้การทำเงินขณะที่
 
 289
 00:10:50,240 --> 00:10:54,160
-while you sleep
+คุณกำลังนอนหลับ
 
 290
 00:10:51,200 --> 00:10:54,480
-what can you do with um what else can i
+อีกสิ่งหนึ่ง
 
 291
 00:10:54,160 --> 00:10:57,360
-do
+ที่
 
 292
 00:10:54,480 --> 00:10:57,600
-so another thing you can do is um you as
+คุณสามารถจะทำได้ก็คือ
 
 293
 00:10:57,360 --> 00:11:01,760
-i
+การ
 
 294
 00:10:57,600 --> 00:11:04,720
-show you i generally a bunch of aoc from
+เดียวผมจะโชว์ให้ดูนะครับ จาก
 
 295
 00:11:01,760 --> 00:11:07,200
-my poker pdc and then next thing if i
+polka-btc ของผมและหลังจากนั้นถ้าผม
 
 296
 00:11:04,720 --> 00:11:07,200
-want to be
+ต้องการที่จะ
 
 297
 00:11:09,200 --> 00:11:13,200
-increase my profit by taking some more
+เพิ่มกำไรของผมโดยการเพิ่มความเสี่ยงให้สูงขึ้น
 
 298
 00:11:11,680 --> 00:11:16,880
-risks i can transfer my
+ผมสามารถโอน acala
 
 299
 00:11:13,200 --> 00:11:20,240
-akala usd to the laminar network
+ของผมไปยังเน็ตเวิร์ค laminar
 
 300
 00:11:16,880 --> 00:11:23,279
-so let's just transfer to some account
+ดังนั้นผมจะโอนมันไปให้หนึ่งในบัญชีของผม
 
 301
 00:11:20,240 --> 00:11:25,440
-so let's say how to transfer 2000 a
+สมมติว่าผมจะโอน aUsd ไป
 
 302
 00:11:23,279 --> 00:11:28,720
-little bit
+ประมาณ $2000
 
 303
 00:11:25,440 --> 00:11:31,040
-so let's do a question transfer
+หลังจากนั้นมันจะโชว์การโอนแบบ cross-chain
 
 304
 00:11:28,720 --> 00:11:33,040
-from akala to the laminar so you can see
+จาก acala ไปยัง laminar ดังนั้นคุณจะเห็น
 
 305
 00:11:31,040 --> 00:11:33,920
-the method is x token transfer to
+method ซึ่งจะโอนโทเค็นไปยัง
 
 306
 00:11:33,040 --> 00:11:36,720
-protein
+parachain
 
 307
 00:11:33,920 --> 00:11:39,279
-so this will transfer the money to the
+อันนี้จะเป็นการโอนเงินไปยัง
 
 308
 00:11:36,720 --> 00:11:41,440
-laminar technique
+เน็ตเวิร์ค laminar
 
 309
 00:11:39,279 --> 00:11:42,720
