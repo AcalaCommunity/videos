@@ -1400,103 +1400,103 @@ forex ซักอย่างก็ได้
 
 351
 00:13:25,519 --> 00:13:29,519
-um yep so we have the question token
+เราได้มีการโอนโทเค็นข้าม
 
 352
 00:13:28,880 --> 00:13:32,639
-transferred
+เชน
 
 353
 00:13:29,519 --> 00:13:35,440
-here so you can see this is sending
+ดังนั้นจากตัวอย่างตรงนี้คุณสามารถ
 
 354
 00:13:32,639 --> 00:13:36,800
-uh uh for example relay message so from
+เห็นได้ว่าอันนี้กำลังส่งข้อความจาก
 
 355
 00:13:35,440 --> 00:13:40,000
-a paragraph to passion
+parachainถึงparachain
 
 356
 00:13:36,800 --> 00:13:43,279
-uh message uh relates through the uh
+ซึ่งเกี่ยวข้องกับ
 
 357
 00:13:40,000 --> 00:13:46,399
-religion which is the roku
+ความสัมพันธ์ซึ่งนั้นก็คือโรโคโค
 
 358
 00:13:43,279 --> 00:13:48,000
-of home fork of the roku in this case so
+ของ home fork ของโรโคโค ดังนั้นในกรณีนี้
 
 359
 00:13:46,399 --> 00:13:52,079
-on the laminar side you can see
+คุณสามารถเห็นได้ว่าทางฝั่ง laminar
 
 360
 00:13:48,000 --> 00:13:55,680
-uh we have a deposit event
+เราจะมีอีเว้นการฝากเงิน
 
 361
 00:13:52,079 --> 00:13:58,480
-should be this one so uh so 2000 aod is
+ซึ่งมันควรจะเป็นเงินจำนวน $2000 usd
 
 362
 00:13:55,680 --> 00:14:01,279
-deposited into this account
+ได้ทำการฝากเข้ามาในบัญชีนี้
 
 363
 00:13:58,480 --> 00:14:02,639
-so this is basically um so the industry
+ดังนั้นอันนี้
 
 364
 00:14:01,279 --> 00:14:05,600
-is basically
+การโอนแบบ
 
 365
 00:14:02,639 --> 00:14:08,720
-the equestrian aoc transfer between
+cross-chain aoc พื้นฐานระหว่าง
 
 366
 00:14:05,600 --> 00:14:12,079
-color and the lamina
+acala และ laminar
 
 367
 00:14:08,720 --> 00:14:14,880
-yeah so um that's all of the
+และนี่คือทั้งหมดของเดโมที่ผม
 
 368
 00:14:12,079 --> 00:14:16,079
-demo i'm going to show you so um just
+อยากจะโชว์ให้คุณได้เห็นในวันนี้
 
 369
 00:14:14,880 --> 00:14:20,079
-last but not least
+สุดท้าย แต่ไม่ท้ายสุด
 
 370
 00:14:16,079 --> 00:14:24,160
-um we are also working on
+พวกเรากำลังทำงานในส่วนของโทเค็น
 
 371
 00:14:20,079 --> 00:14:27,600
-the xcm functional token implementation
+ที่สามารถแลกเปลี่ยนกันได้ ซึ่งตรงนี้
 
 372
 00:14:24,160 --> 00:14:30,880
-so this will allow everything including
+จะอนุญาติให้โทเค็นต่างๆจาก
 
 373
 00:14:27,600 --> 00:14:33,920
-other powertrains to
+parachain อื่นๆ
 
 374
 00:14:30,880 --> 00:14:35,120
-more easily just compose compostable
+สามารถที่จะทำการแลกเปลี่ยนระหว่าง
 
 375
 00:14:33,920 --> 00:14:37,760
-with each other
+กันได้ง่ายขึ้น
 
 376
 00:14:35,120 --> 00:14:39,519
