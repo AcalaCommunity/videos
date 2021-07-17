@@ -808,199 +808,199 @@ substrate และสร้างขึ้น
 
 203
 00:06:30,800 --> 00:06:34,479
-we mean by that so
+เราหมายความตามนั้น
 
 204
 00:06:32,319 --> 00:06:36,319
-bring your own gas is a feature that
+นำค่า gas ของคุณมาเป็นคุณลักษณะที่
 
 205
 00:06:34,479 --> 00:06:38,080
-route will also show today
+ruitao จะแสดงให้ดูในวันนี้
 
 206
 00:06:36,319 --> 00:06:40,240
-um this is this is a feature that we've
+นี่คือคุณลักษณะที่เรา
 
 207
 00:06:38,080 --> 00:06:42,080
-customized specifically for our chain
+ได้ปรับแต่งเฉพาะสำหรับเชนของเรา
 
 208
 00:06:40,240 --> 00:06:44,560
-for kuru and akala because we're trying
+สำหรับ karura และ acala เพราะ พวกเรากำลังพยายาม
 
 209
 00:06:42,080 --> 00:06:46,720
-to make them specialized for d5
+เพื่อให้มันพิเศษสำหรับ D5
 
 210
 00:06:44,560 --> 00:06:48,080
-and what this allows you to do if you've
+และสิ่งนี้ช่วยให้คุณทำอะไรได้หากคุณ
 
 211
 00:06:46,720 --> 00:06:49,440
-ever used d5 and ethereum
+เคยใช้ d5 และ ethereum
 
 212
 00:06:48,080 --> 00:06:51,199
-you know that you can't do any
+คุณรู้ว่าคุณไม่สามารถ
 
 213
 00:06:49,440 --> 00:06:53,759
-transactions without having
+ทำธุรกรรมใดๆ ได้โดยไม่ต้องมี
 
 214
 00:06:51,199 --> 00:06:55,520
-eth and if you're a new user to ethereum
+eth และ หากคุณเป็นผู้ใช้ใหม่ของ ethereum
 
 215
 00:06:53,759 --> 00:06:57,039
-first you have to learn what eth is you
+ก่อนอื่นคุณต้องเรียนรู้ว่า eth คืออะไร
 
 216
 00:06:55,520 --> 00:06:59,599
-have to go find it
+คุณต้องไปหามัน
 
 217
 00:06:57,039 --> 00:07:01,520
-it's a difficult process but with bring
+เป็นกระบวนการที่ยาก แต่ด้วยการนำ
 
 218
 00:06:59,599 --> 00:07:02,720
-your own gas with kuru and akala it'll
+ค่า gas ของคุณเองด้วย kurara และ acala มันจะ
 
 219
 00:07:01,520 --> 00:07:05,599
-allow people to bring in
+จะช่วยให้ผู้คนนำ
 
 220
 00:07:02,720 --> 00:07:07,919
-any token and immediately pay the the
+เหรียญต่าง ๆ มาและ
 
 221
 00:07:05,599 --> 00:07:10,560
-initial transaction fee with that token
+ชำระค่าธรรมเนียมการทำธุรกรรมเริ่มต้นด้วยโทเค็นนั้นทันที
 
 222
 00:07:07,919 --> 00:07:11,599
-so for example someone bringing bitcoin
+ตัวอย่างเช่น มีคนนำ bitcoin
 
 223
 00:07:10,560 --> 00:07:14,000
-over to
+มาที่
 
 224
 00:07:11,599 --> 00:07:14,880
-um carrera would be able to bring
+karura ก็จะสามารถนำ
 
 225
 00:07:14,000 --> 00:07:17,759
-bitcoin over
+bitcoin มา
 
 226
 00:07:14,880 --> 00:07:19,039
-basically wrap it and issue it on kusama
+ห่อ (wrap)และออกบน kusama
 
 227
 00:07:17,759 --> 00:07:21,039
-in kura and then
+ใน karura แล้ว
 
 228
 00:07:19,039 --> 00:07:23,120
-be able to pay their initial maybe it's
+แล้วสามารถจ่ายเงินเริ่มต้นได้ บางทีอาจเป็น
 
 229
 00:07:21,039 --> 00:07:23,759
-a swap maybe it's a transfer but paying
+การ swap อาจเป็นการโอน แต่การจ่าย
 
 230
 00:07:23,120 --> 00:07:26,560
-that fee
+ค่าธรรมเนียมนั้น
 
 231
 00:07:23,759 --> 00:07:27,440
-in in btc instead of having to go out
+ใน btc แทนที่จะต้องออก
 
 232
 00:07:26,560 --> 00:07:29,520
-and find
+ไปหา
 
 233
 00:07:27,440 --> 00:07:31,520
-kar token which is the kind of utility
+KAR โทเค็นซึ่งเป็น
 
 234
 00:07:29,520 --> 00:07:33,759
-token of kura
+โทเค็นยูทิลิตี้ของ karura
 
 235
 00:07:31,520 --> 00:07:35,199
-and then last the akala evm is kind of
+และสุดท้าย acala evm ก็เป็น
 
 236
 00:07:33,759 --> 00:07:36,800
-another specialized
+อีกสภาพแวดล้อมหนึ่ง
 
 237
 00:07:35,199 --> 00:07:38,400
-ethereum environment that we've built
+ของ ethereum เฉพาะ ที่เราสร้างขึ้น
 
 238
 00:07:36,800 --> 00:07:41,840
-specifically for kura
+สำหรับ karura โดยเฉพาะ
 
 239
 00:07:38,400 --> 00:07:43,440
-and akala so with that being said that's
+และ acala อย่างที่บอกว่าเป็น
 
 240
 00:07:41,840 --> 00:07:44,080
-layer one here in the middle this is the
+layer 1 ตรงกลางนี่คือ
 
 241
 00:07:43,440 --> 00:07:46,879
-blockchain
+บล็อกเชน
 
 242
 00:07:44,080 --> 00:07:48,560
-itself and then on top of that our team
+และจากนั้นทีมของเรา
 
 243
 00:07:46,879 --> 00:07:50,240
-has already built an entire
+ด้สร้างแอปพลิเคชันทั้งหมด
 
 244
 00:07:48,560 --> 00:07:52,080
-application that leverages all these
+ใช้ประโยชน์จากสิ่งเหล่านี้
 
 245
 00:07:50,240 --> 00:07:53,599
-things that i just mentioned to you so
+ที่ฉันเพิ่งพูดถึงคุณไป
 
 246
 00:07:52,080 --> 00:07:55,840
-routeau what he'll be talking through
+ruitao สิ่งที่เขาจะพูดถึงในวันนี้
 
 247
 00:07:53,599 --> 00:07:58,080
-today is our as our whole kind of suite
+คือชุดแอปพลิเคชัน
 
 248
 00:07:55,840 --> 00:08:00,400
-of applications that's been built on
+ทั้งหมดของเราที่สร้างขึ้นบน
 
 249
 00:07:58,080 --> 00:08:01,919
-our blockchain and then keeping that in
+บล็อคเชนของเรา และจำไว้
 
 250
 00:08:00,400 --> 00:08:03,599
-mind there's also
+ว่าแน่นอนว่านี่เป็น
 
 251
 00:08:01,919 --> 00:08:05,120
-of course this is an open platform so
+แพลตฟอร์มแบบเปิด ดังนั้น
 
 252
 00:08:03,599 --> 00:08:06,560
