@@ -1224,11 +1224,11 @@ to kusama and then move to polka dot
 
 307
 00:09:51,360 --> 00:09:54,480
-what we're building is also kind of
+สิ่งที่เรากำลังสร้างก็
 
 308
 00:09:52,800 --> 00:09:56,959
-going to follow a similar path
+เป็นไปตามเส้นทางที่คล้ายกัน
 
 309
 00:09:54,480 --> 00:09:58,240
@@ -1256,55 +1256,55 @@ moved to karua
 
 315
 00:10:05,279 --> 00:10:08,800
-then kuru is where we can actually
+karura เป็นที่ที่เราสามารถทดลองได้จริง
 
 316
 00:10:06,640 --> 00:10:10,800
-experiment in a real life environment
+ในสภาพแวดล้อมจริง
 
 317
 00:10:08,800 --> 00:10:12,160
-with real value on a real kind of
+ด้วยคุณค่าที่แท้จริงบน
 
 318
 00:10:10,800 --> 00:10:14,160
-thriving network
+เครือข่ายที่อุดมสมบูรณ์
 
 319
 00:10:12,160 --> 00:10:15,920
-and then if we decided this is a product
+แล้วถ้าเราตัดสินใจว่านี่เป็นผลิตภัณฑ์
 
 320
 00:10:14,160 --> 00:10:18,160
-that the kusama community
+ที่ชุมชน kusama
 
 321
 00:10:15,920 --> 00:10:19,839
-liked we got good feedback we were able
+เราก็ได้รับการตอบรับที่ดี เราสามารถ
 
 322
 00:10:18,160 --> 00:10:20,160
-to improve the product then we move it
+ปรับปรุงผลิตภัณฑ์ได้ จากนั้นเราจะย้าย
 
 323
 00:10:19,839 --> 00:10:23,440
-to
+ไปยัง
 
 324
 00:10:20,160 --> 00:10:23,440
-akala after that
+acala หลังจากนั้น
 
 325
 00:10:24,320 --> 00:10:27,839
-and then last this is just kind of a
+และสุดท้าย นี่เป็นแค่
 
 326
 00:10:26,160 --> 00:10:28,880
-look at some numbers i don't need to go
+การดูตัวเลขบางตัว ฉันไม่จําเป็นต้อง
 
 327
 00:10:27,839 --> 00:10:30,480
-through all of these
+เจาะลึกทั้งหมดนี้
 
 328
 00:10:28,880 --> 00:10:32,240
