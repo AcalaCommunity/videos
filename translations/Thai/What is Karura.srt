@@ -1901,307 +1901,307 @@ stable coin
 
 476
 00:15:12,160 --> 00:15:15,199
-if you use pocket.js as the extension
+ถ้าคุณใช้ polkadot.js เป็นส่วนขยาย
 
 477
 00:15:14,639 --> 00:15:17,680
-this is
+นี่คือ
 
 478
 00:15:15,199 --> 00:15:18,800
-essentially your access to both kusama
+หลักการเข้าถึงของคุณทั้ง kusama
 
 479
 00:15:17,680 --> 00:15:22,320
-and polkadot
+และ polkadot
 
 480
 00:15:18,800 --> 00:15:24,160
-and kura and alcohol like every single
+และ karura และ acala เช่นเดียวกับ
 
 481
 00:15:22,320 --> 00:15:26,320
-subject-based blockchain they go gonna
+subject-based blockchain
 
 482
 00:15:24,160 --> 00:15:27,519
-all be manageable by pocket.js
+พวกมันทั้งหมดจะถูกจัดการโดย pocket.js
 
 483
 00:15:26,320 --> 00:15:29,519
-so think about this it's like a
+ลองคิดดูว่ามันเหมือนกับ metamask
 
 484
 00:15:27,519 --> 00:15:32,480
-multifunction version of metamask you
+เวอร์ชันมัลติฟังก์ชั่นของคุณ
 
 485
 00:15:29,519 --> 00:15:34,360
-arrive at carrura and you access to your
+มาถึง karura และคุณเข้าถึง
 
 486
 00:15:32,480 --> 00:15:37,920
-current asset using your sam
+สินทรัพย์ปัจจุบันของคุณโดยใช้
 
 487
 00:15:34,360 --> 00:15:37,920
-pog.js extension
+ส่วนขยาย polkadot.js ของคุณ
 
 488
 00:15:38,560 --> 00:15:42,560
-yeah so you basically connect one
+ดังนั้นโดยพื้นฐานแล้วคุณเชื่อมต่อหนึ่งบัญชี
 
 489
 00:15:40,639 --> 00:15:44,399
-account from your polka dot js and then
+จาก polkadotjs ของคุณ จากนั้น
 
 490
 00:15:42,560 --> 00:15:45,440
-it shows you every wallet that's kind of
+จะแสดงกระเป๋าเงินทุกใบ
 
 491
 00:15:44,399 --> 00:15:48,560
-connected to that
+ที่เชื่อมโยงกับ
 
 492
 00:15:45,440 --> 00:15:51,040
-account yes yes
+บัญชี ใช่ ใช่
 
 493
 00:15:48,560 --> 00:15:52,880
-and obviously in pogo.js you have the
+และชัดเจนใน polkadotjs
 
 494
 00:15:51,040 --> 00:15:54,639
-right um your the way to manage like i
+คุณมีสิทธิ์ วิธีจัดการเหมือนที่ฉัน
 
 495
 00:15:52,880 --> 00:15:56,800
-would like to use this on alkala
+ต้องการใช้บน acala
 
 496
 00:15:54,639 --> 00:15:58,240
-i only wanted to use this um this
+ฉันเพียงต้องการใช้
 
 497
 00:15:56,800 --> 00:16:00,880
-particular water address
+ที่อยู่กระเป๋าเงินนี้เท่านั้น
 
 498
 00:15:58,240 --> 00:16:01,920
-maybe only on relay chain on kusama all
+อาจจะแค่บน relay chain บน kusama เท่านั้น
 
 499
 00:16:00,880 --> 00:16:02,320
-you can say that i would like to use
+คุณสามารถพูดได้ว่าฉันต้องการใช้
 
 500
 00:16:01,920 --> 00:16:05,120
-this
+กระเป๋าเงินนี้
 
 501
 00:16:02,320 --> 00:16:06,560
-wallet in all the available power chains
+ใน parachains และ
 
 502
 00:16:05,120 --> 00:16:09,920
-and relay chance so you can
+relay chain ที่มีอยู่ทั้งหมด
 
 503
 00:16:06,560 --> 00:16:12,320
-get it's the your the user's um
+คุณมีสิทธิ์
 
 504
 00:16:09,920 --> 00:16:14,000
-um ability to choose like where this
+จะให้กระเป๋าเงินนี้ที่ไหนที่จะเลือกใช้
 
 505
 00:16:12,320 --> 00:16:15,360
-wallet is going to be made available and
+จะให้กระเป๋าเงินใบไหน
 
 506
 00:16:14,000 --> 00:16:16,959
-if you make it available
+และถ้าคุณทำให้มันพร้อมใช้งาน
 
 507
 00:16:15,360 --> 00:16:19,440
-for garura it will appear here and you
+สำหรับ karura จะปรากฏที่นี่
 
 508
 00:16:16,959 --> 00:16:23,279
-can manage that yep
+ละคุณสามารถจัดการได้
 
 509
 00:16:19,440 --> 00:16:25,920
-yeah um p i see this guy name or this
+เห็นชื่อผู้ชายคนนี้
 
 510
 00:16:23,279 --> 00:16:26,320
-this person named p just was asking
+หรือ คนนี้ชื่อ พี ถาม
 
 511
 00:16:25,920 --> 00:16:29,360
-about
+เกี่ยวกับ
 
 512
 00:16:26,320 --> 00:16:30,160
-the branding here so when the kala is
+การสร้างแบรนด์ที่นี่ ดังนั้นเมื่อ acala
 
 513
 00:16:29,360 --> 00:16:32,560
-launched
+เปิดตัว
 
 514
 00:16:30,160 --> 00:16:33,600
-um it's going to only say akala and have
+มันจะพูดแค่ acala และมี
 
 515
 00:16:32,560 --> 00:16:35,199
-the akala logo
+โลโก้ acala
 
 516
 00:16:33,600 --> 00:16:37,279
-when carrera launches it'll have the
+เมื่อ karura เปิดตัว มันจะมี
 
 517
 00:16:35,199 --> 00:16:38,880
-carrera logo in the upper left
+มีโลโก้ karura บริเวณบน ซ้าย
 
 518
 00:16:37,279 --> 00:16:41,120
-and then this is always going to say
+แล้วนี่จะพูดแบบนี้เสมอ
 
 519
 00:16:38,880 --> 00:16:42,480
-this for the test net so akala mandala
+สำหรับเน็ตทดสอบดังนั้น acala mandala
 
 520
 00:16:41,120 --> 00:16:44,639
-is the test net
+จึงเป็น testnet
 
 521
 00:16:42,480 --> 00:16:46,240
-um so yeah that will be that will be
+ที่จะ
 
 522
 00:16:44,639 --> 00:16:48,800
-only the the name of the
+ตั้งชื่อ
 
 523
 00:16:46,240 --> 00:16:50,399
-the network when they're live yeah and i
+เครือข่ายเมื่อมันเริ่มทำงานและ
 
 524
 00:16:48,800 --> 00:16:50,880
-also want to give a little bit hint here
+ฉันต้องการให้คำแนะนำเล็กน้อยที่นี่
 
 525
 00:16:50,399 --> 00:16:53,279
-so
+อืม
 
 526
 00:16:50,880 --> 00:16:54,560
-kura is the sister network of alcala
+karura จึงเป็นเครือข่ายน้องของ acala
 
 527
 00:16:53,279 --> 00:16:56,160
-right so when they
+ดังนั้นเมื่อ
 
 528
 00:16:54,560 --> 00:16:58,480
-when they're born they are almost
+ทั้งสองเกิดมาเกือบจะเหมือนกัน
 
 529
 00:16:56,160 --> 00:17:01,040
-identical but when they go live and
+แต่เมื่อพวกมันเริ่มทำงานและ
 
 530
 00:16:58,480 --> 00:17:03,040
-when the genesis happens um the two
+เมื่อกำเนิดเกิดขึ้น เครือข่ายทั้งสอง
 
 531
 00:17:01,040 --> 00:17:04,559
-network might take different paths like
+อาจใช้เส้นทางที่แตกต่างกัน
 
 532
 00:17:03,040 --> 00:17:06,640
-you might see assets that will be only
+เช่น คุณอาจเห็นสินทรัพย์ที่จะพร้อมใช้งานบน
 
 533
 00:17:04,559 --> 00:17:07,199
-available on kurura because like they
+karura เท่านั้น
 
 534
 00:17:06,640 --> 00:17:09,039
-will be
+เพราะเหมือนกับ
 
 535
 00:17:07,199 --> 00:17:10,799
-only available on kusama or you might
+จะมีให้ใน kusama เท่านั้น หรือคุณอาจเห็น
 
 536
 00:17:09,039 --> 00:17:11,439
-see feature they'll be only available on
+คุณสมบัติที่จะใช้งานได้
 
 537
 00:17:10,799 --> 00:17:13,199
-kura
+เฉพาะบน karuraเท่านั้น
 
 538
 00:17:11,439 --> 00:17:15,039
-because like it's the wild cousin of
+พราะเหมือนเป็นลูกพี่ลูกน้องของ
 
 539
 00:17:13,199 --> 00:17:16,959
-polka dots and you will see the similar
+polkadot และคุณจะเห็นสิ่งที่คล้ายกันเกิดขึ้นบน
 
 540
 00:17:15,039 --> 00:17:19,439
-stuff happened on kura as the main
+karura และ
 
 541
 00:17:16,959 --> 00:17:21,280
-alcohol is the main as well so when they
+Acala ที่เป็นเมนเช่นกัน ดังนั้นเมื่อพวกเขาสรุปสิ่งนี้
 
 542
 00:17:19,439 --> 00:17:24,240
-generalize this um it's the same
+มันก็เหมือนกัน
 
 543
 00:17:21,280 --> 00:17:26,000
-but they might evolve into its own
+แต่อาจมีวิวัฒนาการ
 
 544
 00:17:24,240 --> 00:17:29,360
-distinctive um
+เป็นชุดคุณสมบัติ
 
 545
 00:17:26,000 --> 00:17:31,760
-set of features perfect
+ที่โดดเด่นของตัวเอง
 
 546
 00:17:29,360 --> 00:17:32,480
-well let's move on to the next uh the
+ไปต่อกันที่ส่วนถัดไป
 
 547
 00:17:31,760 --> 00:17:36,240
-next demo
+การสาธิตครั้งต่อไป
 
 548
 00:17:32,480 --> 00:17:38,720
-we've got keith and um
+เรามี keith และ
 
 549
 00:17:36,240 --> 00:17:39,600
-who else was that sage are both
+sageที่ทั้งคู่
 
 550
 00:17:38,720 --> 00:17:42,080
-interested in
+สนใจเกี่ยวกับ
 
 551
 00:17:39,600 --> 00:17:43,200
-in borrowing on the platform so let's
+การยืมเงินบนแพลตฟอร์ม
 
 552
 00:17:42,080 --> 00:17:44,960
