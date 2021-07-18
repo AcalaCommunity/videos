@@ -1,322 +1,322 @@
 1
 00:00:08,800 --> 00:00:13,360
-Thanks everybody for coming out
+ขอขอบคุณทุกๆท่านที่เข้ามารับชม รับฟังกัน
 
 2
 00:00:10,320 --> 00:00:15,280
-this is awesome for the Acala team and I
+นี้คือสิ่งที่ยอดเยี่ยมมากสำหรับทีม Acala และฉัน
 
 3
 00:00:13,360 --> 00:00:17,279
-think everyone else to actually be
+คิดว่าทุกคนต้องอยู่กับ
 
 4
 00:00:15,280 --> 00:00:18,960
-physically with everybody in person
+ทุกๆคน
 
 5
 00:00:17,279 --> 00:00:20,640
-doing an event where you can actually
+ในกิจกรรมที่คุณสามารถทำได้จริง
 
 6
 00:00:18,960 --> 00:00:22,080
-talk about crypto with people
+ในการพูดคุยเรื่อง crypto กับผู้คน
 
 7
 00:00:20,640 --> 00:00:24,400
-outside of something like twitter
+ที่นอกเหนือจากบนทวิตเตอร์
 
 8
 00:00:22,080 --> 00:00:26,160
-or telegram it's just awesome to be
+หรือ เทเลแกรม นี้เป็นสิ่งที่ยอดเยี่ยมมากๆที่
 
 9
 00:00:24,400 --> 00:00:27,599
-here with everybody. I appreciate you
+ได้อยู่ร่วมกับทุกคนในวันนี้ ฉับซาบซึ้งใจที่คุณ
 
 10
 00:00:26,160 --> 00:00:30,320
-taking the time I met
+ได้สละเวลามา ฉันได้พบ
 
 11
 00:00:27,599 --> 00:00:32,000
-somebody who drove in from Iowa, I flew
+บางคนที่ขับรถไกลมาจาก lowa ฉันซึ่งบิน
 
 12
 00:00:30,320 --> 00:00:33,200
-in from Sao Paulo Brazil. We've got a
+มาจาก Sao Paulo Brazil พวกเราได้พบกับ
 
 13
 00:00:32,000 --> 00:00:36,880
-teammate from
+เพื่อนร่วมทีมซึ่งมาจาก
 
 14
 00:00:33,200 --> 00:00:39,120
-Atlanta, New York, L.A so we're excited to
+Atlanta และ New York และ L.A พวกเราตื่นเต้นเป็นอย่างมาก
 
 15
 00:00:36,880 --> 00:00:41,200
-be here with you guys in Chicago.
+ที่มาอยู่ที่นี้พร้อมกับพวกคุณใน Chicago
 
 16
 00:00:39,120 --> 00:00:42,480
-We're going to try to keep my part
+ฉันจะพยายามทำให้ส่วนของฉัน
 
 17
 00:00:41,200 --> 00:00:44,399
-pretty short. I have
+นั้นกระชับที่สุด โดยฉันมี
 
 18
 00:00:42,480 --> 00:00:45,520
-too many slides that I could spend too
+สไลด์มากมาย ที่อาจจะทำให้ฉันต้องใช้เวลา
 
 19
 00:00:44,399 --> 00:00:47,440
-much time on.
+กับมันนานหน่อย
 
 20
 00:00:45,520 --> 00:00:49,360
-But I'll just run through a little bit
+แต่ฉันจะเล่าคร่าวๆเกี่ยวกับ
 
 21
 00:00:47,440 --> 00:00:50,079
-of background on Polkadot and Kusama
+พื้นฐานของ Polkadot และ Kusama
 
 22
 00:00:49,360 --> 00:00:52,399
-and then
+และหลังจากนั้น
 
 23
 00:00:50,079 --> 00:00:54,480
-Acala and Karura that that we're building
+เรื่องของ Acala และ Karura ซึ่งเป็นสิ่งที่พวกเรากำลังสร้างกันขึ้นมา
 
 24
 00:00:52,399 --> 00:00:55,920
-right now and launching right now.
+ในขณะนี้ และได้เปิดตัวในขณะนี้
 
 25
 00:00:54,480 --> 00:00:58,079
-then we'll have DeFi Alliance and
+หลังจากนั้นเราจะมีพันธมิตรด้าน Defi และ
 
 26
 00:00:55,920 --> 00:01:00,000
-Cumberland come up and answer questions
+Cumberland จะมา และตอบคำถาม
 
 27
 00:00:58,079 --> 00:01:01,760
-tell us a little bit about what they do
+บอกเล่าเกี่ยวกับเรื่องที่พวกเขาทำเล็กน้อย
 
 28
 00:01:00,000 --> 00:01:02,160
-and then we can go back to having drinks
+และหลังจากนั้นพวกเราจะพักเพื่อทานน้ำ
 
 29
 00:01:01,760 --> 00:01:05,600
-and
+และ
 
 30
 00:01:02,160 --> 00:01:05,920
-snacks. My name is Dan Reecer I'm from
+ของหวานกัน ขอแนะนำตัวก่อน ฉันชื่อ Dan Reecer ฉันมา
 
 31
 00:01:05,600 --> 00:01:08,560
-the
+จาก
 
 32
 00:01:05,920 --> 00:01:10,159
-Acala team. I previously was at Web3
+ทีม Acala ก่อนหน้านี้ฉันอยู่ที่ Web3
 
 33
 00:01:08,560 --> 00:01:11,840
-Foundation and got to launch
+Foundation และได้เปิดตัว
 
 34
 00:01:10,159 --> 00:01:13,439
-Kusama and Polkadot and have been
+Kusama และ Polkadot และได้
 
 35
 00:01:11,840 --> 00:01:16,159
-spending a lot of time now
+ใช้เวลานานมากในขณะนี้
 
 36
 00:01:13,439 --> 00:01:16,960
-at Acala launching Karura which is our
+ที่ Acala ในการเปิดตัวของ Karura ที่ซึ่ง
 
 37
 00:01:16,159 --> 00:01:19,600
-network on
+มีเครือข่ายอยู่บน
 
 38
 00:01:16,960 --> 00:01:21,439
-Kusama and then getting ready to launch
+Kusuma และ หลังจากนั้นจะเริ่มเตรียมตัวที่จะเปิดตัว
 
 39
 00:01:19,600 --> 00:01:24,080
-Acala on Polkadot here hopefully
+Acala บน Polkadot นี้ โดยหวังว่า
 
 40
 00:01:21,439 --> 00:01:24,080
-pretty soon.
+จะเกิดขึ้นในเร็วๆนี้
 
 41
 00:01:24,320 --> 00:01:28,560
-I'm just gonna go in first starting with
+ฉันจะเริ่มต้นด้วย
 
 42
 00:01:26,960 --> 00:01:31,520
-the results that we just saw
+ผลลัพธ์ที่พวกเราเพิ่งได้พบ
 
 43
 00:01:28,560 --> 00:01:33,920
-from Karura this week. Brett and I
+จาก Karura เมื่อสัปดาห์นี้ โดย Brett และฉัน
 
 44
 00:01:31,520 --> 00:01:35,759
-were up at 4:30 in the morning on
+ได้ตื่นขึ้นมาตอน 04.30 น. ในตอนเช้าใน
 
 45
 00:01:33,920 --> 00:01:37,200
-on Tuesday watching the launch with the
+วันอังคาร ได้ดูการเปิดตัวกับ
 
 46
 00:01:35,759 --> 00:01:39,119
-team in New Zealand
+ทีมงานใน New Zealand
 
 47
 00:01:37,200 --> 00:01:40,720
-they were cheersing with whiskey and
+พวกเขากำลังฉลองด้วยวิสกี้และ
 
 48
 00:01:39,119 --> 00:01:43,759
-champagne as we were cheersing with
+แชมเปญ โดยที่พวกเรากำลังฉลองด้วย
 
 49
 00:01:40,720 --> 00:01:46,240
-water and coffee but
+น้ำเปล่าและกาแฟ แต่
 
 50
 00:01:43,759 --> 00:01:48,240
-it's been a crazy last few weeks doing
+มันเป็นเรื่องที่บ้าไปแล้วเมื่อไม่กี่สัปดาห์ที่ผ่านมาที่ทำ
 
 51
 00:01:46,240 --> 00:01:49,200
-the first ever crowd loan on Kusama that
+การ crowd loan ครั้งแรกบน Kusuma
 
 52
 00:01:48,240 --> 00:01:52,079
-I'll explain
+ฉันจะอธิบายว่า
 
 53
 00:01:49,200 --> 00:01:53,360
-how that works and in a pretty fantastic
+มันทำงานอย่างไร และในความอัศจรรย์
 
 54
 00:01:52,079 --> 00:01:54,159
-result and I think some of you in the
+ของผลลัพธ์ และฉันคิดว่าใครบางคนใน
 
 55
 00:01:53,360 --> 00:01:55,840
-room even were
+ห้องนี้ได้เคย
 
 56
 00:01:54,159 --> 00:01:58,399
-were contributors to the crowd loan for
+มีส่วนร่วมใน crowd loan ของ
 
 57
 00:01:55,840 --> 00:02:00,640
-Karura. Who in the room is not aware of
+Karura มา มีใครในห้องนี้ไม่รู้จักกับ
 
 58
 00:01:58,399 --> 00:02:02,799
-of how Polkadot and Kusama works because
+การทำงานของ Polkadot และ Kusama ว่าทำงานอย่างไรบ้าง เพราะว่า
 
 59
 00:02:00,640 --> 00:02:06,159
-I just want to get a feel for
+ฉันแค่อยากจะรับรู้ถึง
 
 60
 00:02:02,799 --> 00:02:08,239
-for the room so one two okay so I'll
+คนในห้องนี้ ดังนั้น มีหนึ่ง สอง คน โอเค เราจะมา
 
 61
 00:02:06,159 --> 00:02:09,200
-keep it quick but I will explain
+สรุปอธิบายอย่างสั้นๆ
 
 62
 00:02:08,239 --> 00:02:11,840
-so
+คือ
 
 63
 00:02:09,200 --> 00:02:13,440
-Polkadot and Kusama, Polkadot was the
+Polkadot และ Kusama เริ่มจาก Polkadot ซึ่งเป็น
 
 64
 00:02:11,840 --> 00:02:14,640
-first project to start this was
+โปรเจคแรกที่เริ่ม
 
 65
 00:02:13,440 --> 00:02:17,280
-founded by
+ก่อตั้งโดย
 
 66
 00:02:14,640 --> 00:02:18,800
-a guy named Gavin Wood who built
+คนที่ชื่อว่า Gavin Wood ผู้ซึ่งสร้าง
 
 67
 00:02:17,280 --> 00:02:20,720
-Ethereum he invented the Ethereum
+Ethereum โดยเขาได้คิดค้น
 
 68
 00:02:18,800 --> 00:02:22,239
-virtual machine he invented the Solidity
+virtual machine และ เขาได้คิดค้น
 
 69
 00:02:20,720 --> 00:02:23,760
-programming language
+ภาษาโปรแกรมความแข็งแกร่ง
 
 70
 00:02:22,239 --> 00:02:26,480
-and then around i think it was around
+และหลังจากนั้น ฉันคิดว่าประมาณ
 
 71
 00:02:23,760 --> 00:02:28,080
-2014, 2015 decided to
+ปี 2014 หรือ 2015 เขาได้ตัดสินใจ
 
 72
 00:02:26,480 --> 00:02:30,000
-start Polkadot which is this
+เริ่ม Polkadot ที่ซึ่งเป็น
 
 73
 00:02:28,080 --> 00:02:30,640
-multi-chain ecosystem instead of a
+ระบบนิเวศแบบหลากหลายเชนแทน
 
 74
 00:02:30,000 --> 00:02:33,360
-single
+แบบบล็อคเชนเดียว
 
 75
 00:02:30,640 --> 00:02:34,640
-blockchain that I'll get into some of
+โดยฉันจะบอกถึง
 
 76
 00:02:33,360 --> 00:02:37,840
-the details around
+รายละเอียดของ
 
 77
 00:02:34,640 --> 00:02:40,480
-what the network does. Gavin I mentioned
+เครือข่ายว่าทำอะไรต่อไป Gavin ที่ฉันได้กล่าวถึงไปแล้ว
 
 78
 00:02:37,840 --> 00:02:42,400
-Rob a young brilliant guy who
+คราวนี้ Rob เด็กหนุ่มผู้ฉลาดที่ซึ่ง
 
 79
 00:02:40,480 --> 00:02:45,519
-co-founded  Polkadot with with Gavin as
+เป็นผู้ร่วมก่อตั้ง Polkadot กับ Gavin และ
 
 80
 00:02:42,400 --> 00:02:45,519
-well as Peter Shabon
+มี Peter Shabon
 
 81
 00:02:45,680 --> 00:02:49,120
