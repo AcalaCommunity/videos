@@ -48,171 +48,171 @@
 
 13
 00:00:26,560 --> 00:00:33,200
-um that's where quite a few of us
+ที่นี่มีสองสามคนในทีม acala ของเรา
 
 14
 00:00:30,160 --> 00:00:34,960
-in akala based but of course we are a
+ทำงานอยู่ที่นี่ แต่แน่นอนฉันคิดว่าทีม
 
 15
 00:00:33,200 --> 00:00:37,280
-very diverse team i think
+ของพวกเรานั้นมีความหลากหลายมาก
 
 16
 00:00:34,960 --> 00:00:38,559
-uh there are folks in the u.s and south
+ยกตัวอย่างเช่น บางคนก็ทำงานอยู่ที่อเมริกาและ
 
 17
 00:00:37,280 --> 00:00:41,520
-america
+อเมริกาใต้
 
 18
 00:00:38,559 --> 00:00:43,200
-in china also in parts of europe and
+ในจีน ในยุโรปและ
 
 19
 00:00:41,520 --> 00:00:45,440
-singapore as well so
+สิงค์โปร์ด้วย
 
 20
 00:00:43,200 --> 00:00:48,000
-that is the environment that we are
+นั้นคือบรรยายกาศในที่ทำงานของ
 
 21
 00:00:45,440 --> 00:00:48,480
-working in uh very remote very diverse
+พวกเรา ทุกคนต้องติดต่อกันทางเน็ต และมีความหลากหลายมากๆ
 
 22
 00:00:48,000 --> 00:00:51,600
-very
+มีความ
 
 23
 00:00:48,480 --> 00:00:54,879
-uh decentralized i guess so
+decentralized มากๆด้วยเช่นกัน
 
 24
 00:00:51,600 --> 00:00:58,160
-uh yeah so a bit of uh myself um i
+อ้อใช้แล้ว เกี่ยวกับตัวฉัน ฉัน
 
 25
 00:00:54,879 --> 00:01:00,399
-had an engineering background uh
+มีความรู้ทางด้านวิศวกรรมจากมหาวิทยาลัย
 
 26
 00:00:58,160 --> 00:01:02,239
-from university uh specialized in
+โดยเฉพาะในด้าน
 
 27
 00:01:00,399 --> 00:01:04,559
-software so i was a developer
+software ฉันเคยเป็นนักพัฒนา software
 
 28
 00:01:02,239 --> 00:01:05,840
-right after school but then later on
+หลังจากฉันจบมหาลัย แต่หลังจากนั้น
 
 29
 00:01:04,559 --> 00:01:09,360
-there was more focus on
+ฉันก็โฟกัสงานของฉันไปที่
 
 30
 00:01:05,840 --> 00:01:11,360
-product development uh in in tech
+product development เกี่ยวกับเทคโนโลยี
 
 31
 00:01:09,360 --> 00:01:12,960
-and it was a rare chance that i think
+และฉันคิดว่ามันคือโอกาสที่หายากนะเมื่อ
 
 32
 00:01:11,360 --> 00:01:15,520
-six or seven years ago
+หกหรือเจ็ดปีก่อน
 
 33
 00:01:12,960 --> 00:01:17,200
-i stumbled across bitcoin like many of
+ที่ฉันได้รู้จักกับบิตคอยเหมือนใครหลายๆ
 
 34
 00:01:15,520 --> 00:01:18,000
-us here right once you got into that
+คนในที่นี่ ที่เมื่อคุณได้ทำความเข้าใจ
 
 35
 00:01:17,200 --> 00:01:20,080
-rabbit hole
+บิตคอยแล้ว
 
 36
 00:01:18,000 --> 00:01:22,000
-you never come back so basically dig
+คุณจะไม่มีทางกลับมาเป็นเหมือนเดิม ง่ายๆเลยก็
 
 37
 00:01:20,080 --> 00:01:23,920
-into everything about bitcoin and
+ฉันศึกษาข้อมูลมากมายเกี่ยวกับบิตคอยและ
 
 38
 00:01:22,000 --> 00:01:26,960
-subsequent ethereum
+ตามมาด้วย ethereum
 
 39
 00:01:23,920 --> 00:01:28,240
-and that's how somehow magically i i had
+และนั้นก็เป็นเหมือนเวทมนต์วิเศษที่ทำให้ฉัน
 
 40
 00:01:26,960 --> 00:01:30,640
-a career change
+มีโอกาสทำงาน
 
 41
 00:01:28,240 --> 00:01:31,680
-and moved into crypto full-time uh a few
+ในด้านคริปโตแบบเต็มตัว เมื่อสองสาม
 
 42
 00:01:30,640 --> 00:01:34,720
-years back
+ปีก่อนนั้น
 
 43
 00:01:31,680 --> 00:01:35,759
-um and you know once you are in the
+เวลาคุณอยู่ในสังเวียน
 
 44
 00:01:34,720 --> 00:01:38,240
-arena
+คริปโต
 
 45
 00:01:35,759 --> 00:01:39,360
-you meet like-minded people and cool
+คุณจะได้พบผู้คนมากมายที่ทั้งเก่ง และ
 
 46
 00:01:38,240 --> 00:01:40,720
-people that you
+เจ๋ง นั้นทำให้คุณ
 
 47
 00:01:39,360 --> 00:01:43,360
-really like to work with and that's
+ชอบทำงานกับคนเหล่านี้ด้วยมากๆเลย และนั้น
 
 48
 00:01:40,720 --> 00:01:46,320
-where i met the other co-founders like
+ก็คือที่ที่ฉันได้พบกับผู้ก่อตั้ง acala คนอื่นๆ
 
 49
 00:01:43,360 --> 00:01:47,759
-retail and brian very talented engineer
+เช่น Ruitao และ ไบรอัน เขาทั้งสองคือวิศวกร
 
 50
 00:01:46,320 --> 00:01:49,680
-and also entrepreneur
+ที่เก่งมากๆและผู้บริหารธุรกิจ
 
 51
 00:01:47,759 --> 00:01:52,560
-which is very important for the makeup
+นี่คือสิ่งที่สำคัญมากๆสำหรับการสร้าง
 
 52
 00:01:49,680 --> 00:01:54,880
-of akala is we have a diverse team so
+acala ขึ้นมา เพราว่าพวกเราเป็นทีมที่มีความหลากหลาย
 
 53
 00:01:52,560 --> 00:01:56,000
-we've got top engineers also got top
+พวกเรามีวิศวกรที่เก่ง และผู้บริหาร
 
 54
 00:01:54,880 --> 00:01:58,079
-entrepreneurs
+ที่เก่งมากๆ
 
 55
 00:01:56,000 --> 00:01:59,280
