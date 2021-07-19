@@ -2805,47 +2805,47 @@ ldot lksm
 
 702
 00:22:33,440 --> 00:22:38,880
-i'm going to put in maybe 5l uh l ksm
+ฉันจะใส่ในบางที 5 lksm
 
 703
 00:22:37,360 --> 00:22:39,520
-here and i'm gonna taking maybe like two
+ทีนี่ และฉันกำลังจะกู้เงิน
 
 704
 00:22:38,880 --> 00:22:42,720
-dollar loan
+สองดอลลาร์
 
 705
 00:22:39,520 --> 00:22:44,799
-you can already see that um um
+คุณจะเห็นว่า
 
 706
 00:22:42,720 --> 00:22:45,919
-the amount of money that you can borrow
+จำนวนเงินที่คุณสามารถยืม
 
 707
 00:22:44,799 --> 00:22:47,120
-the interest rate in here the
+อัตราดอกเบี้ยในนี้
 
 708
 00:22:45,919 --> 00:22:49,280
-liquidation penalty
+โทษการชำระบัญชี
 
 709
 00:22:47,120 --> 00:22:50,320
-and if things goes wrong that where how
+และหากสิ่งผิดปกติเกิดขึ้น
 
 710
 00:22:49,280 --> 00:22:52,080
-you can but
+คุณจะทำได้อย่างไร แต่
 
 711
 00:22:50,320 --> 00:22:54,080
-in chance that if you over capitalize
+แต่ในโอกาสที่หากคุณใช้เงินทุนเกิน
 
 712
 00:22:52,080 --> 00:22:56,480
-and the position becomes risky
+และตำแหน่งมีความเสี่ยง
 
 713
 00:22:54,080 --> 00:22:57,280
