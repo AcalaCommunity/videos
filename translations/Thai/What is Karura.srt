@@ -2297,15 +2297,15 @@ position ของ renbtc
 
 575
 00:18:26,320 --> 00:18:29,840
-have dot
+ในทีนี้ฉันมีเหรียญ dot
 
 576
 00:18:27,360 --> 00:18:31,039
-l dot which we'll be covering later and
+LDOT ที่เราจะเล่าต่อไป
 
 577
 00:18:29,840 --> 00:18:32,000
-this will be definitely it would be like
+และจะเป็นเช่นเดียวกับ
 
 578
 00:18:31,039 --> 00:18:35,200
@@ -2313,179 +2313,179 @@ kusama
 
 579
 00:18:32,000 --> 00:18:35,760
-el kikuzama and bitcoins so what i'm
+และ lkusama และ bitcoins อย่างแน่นอน
 
 580
 00:18:35,200 --> 00:18:37,679
-going to
+ดังนั้นสิ่งที่ฉันจะสาธิต
 
 581
 00:18:35,760 --> 00:18:38,960
-demo here is that i'm going to borrow
+ที่นี่คือ ฉันจะยืม
 
 582
 00:18:37,679 --> 00:18:42,080
-more
+เพิ่มเติม
 
 583
 00:18:38,960 --> 00:18:44,320
-against my 0.1 ram btc position here
+เทียบกับ 0.1 renbtc
 
 584
 00:18:42,080 --> 00:18:45,600
-so you can see um the current bitcoin
+เพื่อให้คุณเห็น อืม oracle rate
 
 585
 00:18:44,320 --> 00:18:48,400
-oracle rate is
+ของ bitcoin ในปัจจุบัน
 
 586
 00:18:45,600 --> 00:18:49,919
-roughly that number i'm still quite safe
+เป็นตัวเลขคร่าวๆ ที่ฉันยังค่อนข้างปลอดภัย
 
 587
 00:18:48,400 --> 00:18:52,720
-um to borrow a little bit more
+ยืมเพิ่มอีกนิด
 
 588
 00:18:49,919 --> 00:18:53,760
-against that 0.1 ram bdc so i'm going to
+เทียบกับ 0.1 renbtc
 
 589
 00:18:52,720 --> 00:18:55,039
-press generate more
+ฉันจะกด generate อีกครั้ง
 
 590
 00:18:53,760 --> 00:18:57,280
-i'm going to press hey i will actually
+ฉันจะฉันน่าจะเพิ่มอีก
 
 591
 00:18:55,039 --> 00:18:58,400
-probably ten dollars more and press
+10 ดอลลาร์
 
 592
 00:18:57,280 --> 00:19:00,080
-confirm
+แล้วกดยืนยัน
 
 593
 00:18:58,400 --> 00:19:01,600
-and this is where the signing comes up i
+หน้าต่างของการ siging จะปรากฏขึ้น
 
 594
 00:19:00,080 --> 00:19:05,280
-will gonna type in my key
+ฉันจะพิมพ์รหัสของฉัน
 
 595
 00:19:01,600 --> 00:19:07,360
-password and sign the transaction and
+password และ sign transactionนี้
 
 596
 00:19:05,280 --> 00:19:09,280
-boom i have ten dollar more that i can
+เรียบร้อย ฉันมีเงินอีกสิบเหรียญ
 
 597
 00:19:07,360 --> 00:19:11,280
-spend and this is how fast um
+ที่ฉันสามารถใช้จ่ายได้
 
 598
 00:19:09,280 --> 00:19:13,280
-and project network looks like and all
+และนี่คือความรวดเร็วของเครือข่ายโครงการ
 
 599
 00:19:11,280 --> 00:19:15,600
-this is happening on the fly for real
+ละทั้งหมดนี้เกิดขึ้นทันที
 
 600
 00:19:13,280 --> 00:19:16,880
-um and you can actually see this on the
+และคุณสามารถเห็นสิ่งนี้ได้จริงบน
 
 601
 00:19:15,600 --> 00:19:18,080
-on the on the block scanner that's
+บน block scanner
 
 602
 00:19:16,880 --> 00:19:21,039
-provided by sub scan
+ที่ให้บริการโดย subscan
 
 603
 00:19:18,080 --> 00:19:21,679
-so um this is amazing right this is um
+อืม นี่มันน่าทึ่งมาก
 
 604
 00:19:21,039 --> 00:19:24,480
-much much
+มันตอบสนอง
 
 605
 00:19:21,679 --> 00:19:25,600
-more um responsive much much more
+ได้ดีกว่ามาก
 
 606
 00:19:24,480 --> 00:19:28,080
-user-friendly
+เป็นมิตรกับผู้ใช้มาก
 
 607
 00:19:25,600 --> 00:19:30,160
-also i can also replay i can pay back as
+ขึ้นด้วย นอกจากนี้ ฉันยังชำระคืนได้
 
 608
 00:19:28,080 --> 00:19:32,080
-i set a position if i think um
+ฉันสามารถจ่ายคืนได้ในขณะที่ฉันกำหนดตำแหน่ง
 
 609
 00:19:30,160 --> 00:19:34,160
-i'm going to reduce a little bit of risk
+ฉันคิดว่า ฉันจะลดความเสี่ยงเล็กน้อยที่นี่
 
 610
 00:19:32,080 --> 00:19:36,400
-here i can pay 100 year ausd
+ฉันสามารถจ่าย 100 ausd
 
 611
 00:19:34,160 --> 00:19:37,200
-that's like reducing my calculation
+ที่เหมือนกับการลดอัตราส่วน
 
 612
 00:19:36,400 --> 00:19:39,520
-ratio
+calculation ratio
 
 613
 00:19:37,200 --> 00:19:40,960
-and any asset that will be available
+และสินทรัพย์ใดๆ ที่จะสามารถใช้ได้
 
 614
 00:19:39,520 --> 00:19:42,000
-through the governance process can be
+กระบวนการกำกับดูแล
 
 615
 00:19:40,960 --> 00:19:43,760
-borrowed against
+สามารถยืม
 
 616
 00:19:42,000 --> 00:19:45,679
-different assets would have different
+สินทรัพย์ที่แตกต่างกันจะมีพารามิเตอร์ความเสี่ยงที่แตกต่างกัน
 
 617
 00:19:43,760 --> 00:19:47,039
-risk parameters so for example bitcoin
+ตัวอย่างเช่น Bitcoin
 
 618
 00:19:45,679 --> 00:19:48,640
-might have a risk parameter
+อาจมีพารามิเตอร์ความเสี่ยง
 
 619
 00:19:47,039 --> 00:19:51,600
-on the medieval credit ratio on the
+ในอัตราส่วนเครดิตปานกลาง
 
 620
 00:19:48,640 --> 00:19:54,640
-liquidation ratio on the liquidation fee
+ทั้งในอัตราส่วนการชำระบัญชี ในงานค่าธรรมเนียมการชำระบัญชี
 
 621
 00:19:51,600 --> 00:19:55,440
-jobs ldots ksm lksm they might all have
+DOT LDOT KSM LKSM
 
 622
 00:19:54,640 --> 00:19:57,520
-different
+ทั้งหมดอาจมีอัตราส่วนที่แตกต่างกัน
 
 623
 00:19:55,440 --> 00:19:58,880
