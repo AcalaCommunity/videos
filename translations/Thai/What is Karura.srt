@@ -2645,163 +2645,163 @@ decks แต่
 
 662
 00:21:11,200 --> 00:21:15,120
-that's essentially what this collateral
+นั่นคือความหมายโดยพื้นฐาน
 
 663
 00:21:13,200 --> 00:21:16,240
-ratio means and i don't know ruta if you
+ของ อัตราส่วนหลักประกันนี้หมายถึงอะไร
 
 664
 00:21:15,120 --> 00:21:19,200
-have any more to
+ruitao มีอะไรจะเสริมใช่ไหมครับ
 
 665
 00:21:16,240 --> 00:21:21,200
-add to that yeah essentially give you
+ใช่แล้ว มันช่วยให้คุณได้รับ
 
 666
 00:21:19,200 --> 00:21:22,240
-more utility um to the asset that you
+ประโยชน์มากขึ้น สินทรัพย์ที่คุณถือครองไว้ซึ่งคุณ
 
 667
 00:21:21,200 --> 00:21:25,120
-are holding to
+ถือครองไว้
 
 668
 00:21:22,240 --> 00:21:25,840
-that you might not want to sell or in in
+คุณอาจไม่ต้องการขาย
 
 669
 00:21:25,120 --> 00:21:28,880
-short term
+หรือในระยะสั้น
 
 670
 00:21:25,840 --> 00:21:31,679
-and for example for fukusama for for
+และ ตัวอย่างเช่นสำหรับ kusama สำหรับ
 
 671
 00:21:28,880 --> 00:21:34,080
-lksm those are perfectly great
+lksm สิ่งเหล่านี้เป็นตัวสะสมที่ยอดเยี่ยม
 
 672
 00:21:31,679 --> 00:21:36,400
-collectors for you to gain more utility
+สำหรับคุณเพื่อให้ได้ประโยชน์มากขึ้น
 
 673
 00:21:34,080 --> 00:21:38,480
-out of your 16 kusama holdings you can
+จากการถือครอง kusama 16 รายการของคุณ
 
 674
 00:21:36,400 --> 00:21:40,400
-go long you can go short you can
+คุณสามารถที่จะเก็งกำไรหรือลงทุนระยะยาวได้
 
 675
 00:21:38,480 --> 00:21:42,080
-it's i mean the option is it's in your
+ฉันหมายความว่ามันเป็นตัวเลือกอยู่ในมือของคุณ
 
 676
 00:21:40,400 --> 00:21:42,960
-hand to decide how you're going to use
+เพื่อตัดสินใจว่าคุณจะใช้
 
 677
 00:21:42,080 --> 00:21:46,240
-this collector
+สะสมนี้
 
 678
 00:21:42,960 --> 00:21:49,280
-um to trade and ride with the market
+เพื่อแลกเปลี่ยนและเข้าสู่ตลาด
 
 679
 00:21:46,240 --> 00:21:51,520
-and broderick asked what about
+Broderick ถามว่า
 
 680
 00:21:49,280 --> 00:21:52,400
-interest so are you paying interest when
+ดอกเบี้ยเป็นอย่างไร คุณจ่ายดอกเบี้ยเมื่อ
 
 681
 00:21:51,520 --> 00:21:55,440
-you're taking out
+คุณกู้เงินเหล่านี้
 
 682
 00:21:52,400 --> 00:21:57,280
-these loans and how does that work yes
+และทำงานอย่างไร ใช่
 
 683
 00:21:55,440 --> 00:21:59,360
-so the interest essentially is what we
+ดอกเบี้ยเป็นหลัก สิ่งที่เราเรียกว่า
 
 684
 00:21:57,280 --> 00:22:00,559
-call the stabilization fee
+ค่ารักษาเสถียรภาพ
 
 685
 00:21:59,360 --> 00:22:02,720
-if you take a long there will be
+ถ้าคุณถือระยะยาว
 
 686
 00:22:00,559 --> 00:22:04,880
-definitely some interest occur
+จะมีดอกเบี้ยเกิดขึ้นอย่างแน่นอน
 
 687
 00:22:02,720 --> 00:22:07,200
-and this is also the interest used to
+และนี่คือดอกเบี้ยที่ใช้เพื่อ
 
 688
 00:22:04,880 --> 00:22:09,919
-manage the supply and demand
+จัดการอุปสงค์และอุปทานของ Stablecoin
 
 689
 00:22:07,200 --> 00:22:11,600
-of the stablecar as well as like the um
+เช่นเดียวกับ
 
 690
 00:22:09,919 --> 00:22:12,240
-the way to maintain that the stablecoin
+วิธีที่จะรักษา Stablecoin
 
 691
 00:22:11,600 --> 00:22:14,960
-will be
+ที่มีมูลค่า
 
 692
 00:22:12,240 --> 00:22:15,760
-packed to to to a dollar in value and
+เท่ากับดอลลาร์
 
 693
 00:22:14,960 --> 00:22:18,320
-the increase
+และการเพิ่ม
 
 694
 00:22:15,760 --> 00:22:20,159
-um all the stabilization fee will be
+ขึ้น ค่าธรรมเนียมการรักษาเสถียรภาพทั้งหมดจะได้รับการ
 
 695
 00:22:18,320 --> 00:22:23,600
-managed by the governance process
+จัดการโดยกระบวนการกำกับดูแล
 
 696
 00:22:20,159 --> 00:22:25,919
-really depends on demands and supplies
+ขึ้นอยู่กับความต้องการซื้อและความต้องการขาย
 
 697
 00:22:23,600 --> 00:22:28,240
-and do you know your interest rate
+และคุณรู้หรือไม่ว่าอัตราดอกเบี้ยของคุณ
 
 698
 00:22:25,919 --> 00:22:29,679
-before you take out the loan
+ก่อนที่คุณจะถอนเงิน เงินกู้แน่นอน
 
 699
 00:22:28,240 --> 00:22:30,799
-obviously definitely so let's say that
+สมมติว่าเราต้องการ
 
 700
 00:22:29,679 --> 00:22:33,440
-we want to create a lot we're going to
+สร้างจำนวนมาก เรากำลังจะสร้าง
 
 701
 00:22:30,799 --> 00:22:37,360
-create some ldl ksm and scripto
+ldot lksm
 
 702
 00:22:33,440 --> 00:22:38,880
