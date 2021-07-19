@@ -2249,51 +2249,51 @@ sageที่ทั้งคู่
 
 563
 00:18:03,280 --> 00:18:06,240
-ดังนั้นคุณจะเห็นว่า
+และอย่างที่คุณเห็น
 
 564
 00:18:03,760 --> 00:18:07,679
-you have i have already borrowed open a
+ฉันได้เปิดการยืม
 
 565
 00:18:06,240 --> 00:18:10,720
-position on ram bdc
+position ของ renbtc
 
 566
 00:18:07,679 --> 00:18:12,559
-i borrow roughly three thousand dollars
+ฉันยืมประมาณสามพันดอลลาร์
 
 567
 00:18:10,720 --> 00:18:14,880
-against zero point one run bdc
+เทียบกับ 0.1 renbtc
 
 568
 00:18:12,559 --> 00:18:16,880
-that's a little bit risky but i mean
+ที่มีความเสี่ยงเล็กน้อย แต่ฉันหมายความว่า
 
 569
 00:18:14,880 --> 00:18:18,640
-that's what um the system allows
+นั่นคือสิ่งที่ระบบอนุญาต
 
 570
 00:18:16,880 --> 00:18:20,160
-um you can actually create loans using
+อืม จริง ๆ แล้วคุณสามารถสร้างสินเชื่อ
 
 571
 00:18:18,640 --> 00:18:22,880
-any sort of asset that will be
+ดยใช้สินทรัพย์ประเภทใดก็ได้
 
 572
 00:18:20,160 --> 00:18:24,240
-available in the governance process
+ที่จะมีอยู่ในกระบวนการกำกับดูแล
 
 573
 00:18:22,880 --> 00:18:26,320
-allowed to be using crypto
+ที่อนุญาตให้ใช้ crypto
 
 574
 00:18:24,240 --> 00:18:27,360
-and in this particular interface here i
+และในอินเทอร์เฟซเฉพาะนี้ที่นี่
 
 575
 00:18:26,320 --> 00:18:29,840
