@@ -2849,127 +2849,127 @@ ldot lksm
 
 713
 00:22:54,080 --> 00:22:57,280
-you might get liquidated so this is the
+คุณอาจถูกชำระบัญชี ดังนั้น
 
 714
 00:22:56,480 --> 00:22:59,600
-um the
+นี่คือ
 
 715
 00:22:57,280 --> 00:23:00,640
-the the figure that you're able to see
+ตัวเลขที่คุณสามารถดูได้
 
 716
 00:22:59,600 --> 00:23:02,720
-before you
+ก่อนที่คุณ
 
 717
 00:23:00,640 --> 00:23:04,080
-create a lawn and the final confirmation
+จะสร้างเงินกู้และขั้นตอนการยืนยันขั้นสุดท้าย
 
 718
 00:23:02,720 --> 00:23:06,799
-stage you will be
+คุณจะกลับมาอีกครั้ง
 
 719
 00:23:04,080 --> 00:23:09,039
-once again so go ahead and confirm all
+และยืนยันตัวเลขทั้งหมด
 
 720
 00:23:06,799 --> 00:23:09,600
-the numbers and press confirm and this
+แล้วกดยืนยัน
 
 721
 00:23:09,039 --> 00:23:12,159
-is how you
+และนี่คือ
 
 722
 00:23:09,600 --> 00:23:12,640
-open a long position so i just created a
+วิธีที่คุณเปิด long position ดังนั้นฉันเพิ่งสร้าง
 
 723
 00:23:12,159 --> 00:23:15,280
-loan
+เงินกู้
 
 724
 00:23:12,640 --> 00:23:17,360
-using my lksm and received like two
+โดยใช้ lksm ของฉัน และได้รับเงินสองดอลลาร์
 
 725
 00:23:15,280 --> 00:23:18,400
-dollars so you can say if i now go back
+ตอนนี้ถ้าฉันกลับไปที่
 
 726
 00:23:17,360 --> 00:23:20,240
-to an interface
+อินเทอร์เฟซ
 
 727
 00:23:18,400 --> 00:23:22,960
-i have two position open one with
+ฉันมีสองตำแหน่งเปิดหนึ่งด้วย
 
 728
 00:23:20,240 --> 00:23:25,120
-bitcoin one with um lksm
+bitcoin หนึ่งกับ lksm
 
 729
 00:23:22,960 --> 00:23:26,880
-those is like um and i totally have
+นั่นก็เหมือน
 
 730
 00:23:25,120 --> 00:23:28,080
-borrowed probably like few thousand
+ฉันได้ยืมไปทั้งหมดแล้ว ประมาณสองสามพันเหรียญ
 
 731
 00:23:26,880 --> 00:23:31,200
-dollars against both
+ต่อทั้ง
 
 732
 00:23:28,080 --> 00:23:33,280
-um lksm and ram bdc okay
+lksm และ renbtc
 
 733
 00:23:31,200 --> 00:23:35,600
-that makes sense and someone asked where
+มีเหตุผลและมีคนถามว่า
 
 734
 00:23:33,280 --> 00:23:37,200
-does that interest actually go
+ดอกเบี้ยไปที่ไหน
 
 735
 00:23:35,600 --> 00:23:38,880
-well the ancient cities actually go to
+ดอกเบี้ยถูกส่งไปที่
 
 736
 00:23:37,200 --> 00:23:40,720
-the treasury um
+คลัง
 
 737
 00:23:38,880 --> 00:23:42,880
-and being managed by the network right
+และได้รับการจัดการโดยเครือข่ายที่ถูกต้อง
 
 738
 00:23:40,720 --> 00:23:44,960
-it's it's essentially
+มันถูกควบคุมโดย
 
 739
 00:23:42,880 --> 00:23:46,240
-controlled by the network for the long
+เครือข่ายเป็นหลัก
 
 740
 00:23:44,960 --> 00:23:47,919
-prosperity of the network
+ความเจริญของเครือข่ายในระยะยาว
 
 741
 00:23:46,240 --> 00:23:50,240
-the interest ultimately would be the
+ดอกเบี้ยในที่สุด
 
 742
 00:23:47,919 --> 00:23:51,919
-surplus within this system and
+จะเป็นส่วนเกินภายใน ระบบนี้
 
 743
 00:23:50,240 --> 00:23:53,840
-if you read our white paper regarding
+หากคุณอ่านเอกสารทางเทคนิคของเรา
 
 744
 00:23:51,919 --> 00:23:56,880
@@ -2977,27 +2977,27 @@ the decentralized sovereign wales fund
 
 745
 00:23:53,840 --> 00:23:59,360
-the interest is ultimately hold managed
+อกเบี้ยจะได้รับการจัดการในที่สุด
 
 746
 00:23:56,880 --> 00:24:02,640
-by the token holders
+โดยผู้ถือโทเค็น
 
 747
 00:23:59,360 --> 00:24:06,159
-okay um one other question that's that's
+อีกคำถามหนึ่งที่
 
 748
 00:24:02,640 --> 00:24:07,760
-relevant i think um the liquidation
+กี่ยวข้อง ฉันคิดว่า แนวคิดการชำระบัญชี
 
 749
 00:24:06,159 --> 00:24:09,760
-concept i think is new to a lot of
+ฉันคิดว่าเป็นเรื่องใหม่ สำหรับผู้คนจำนวนมาก
 
 750
 00:24:07,760 --> 00:24:13,200
-people and
+และ
 
 751
 00:24:09,760 --> 00:24:14,480
