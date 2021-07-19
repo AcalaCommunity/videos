@@ -2489,159 +2489,159 @@ DOT LDOT KSM LKSM
 
 623
 00:19:55,440 --> 00:19:58,880
-ratio they'll be managed and governed by
+พวกนี้จะได้รับการจัดการและควบคุมโดย
 
 624
 00:19:57,520 --> 00:20:01,280
-the governance process
+กระบวนการกำกับดูแล
 
 625
 00:19:58,880 --> 00:20:02,480
-so that is essentially how you borrow
+ดังนั้นโดยพื้นฐานแล้ววิธีที่คุณยืมกับ
 
 626
 00:20:01,280 --> 00:20:05,840
-against um
+กับ
 
 627
 00:20:02,480 --> 00:20:08,799
-crychos in kura
+crychos บน karura
 
 628
 00:20:05,840 --> 00:20:09,760
-let so maybe one thing we can do this
+ดังนั้นบางทีสิ่งหนึ่งที่เราสามารถทำ
 
 629
 00:20:08,799 --> 00:20:12,240
-concept
+เกี่ยวกับแนวคิด
 
 630
 00:20:09,760 --> 00:20:13,840
-of collateralization and taking loans is
+เรื่องการค้ำประกันและการกู้ยืมเงิน
 
 631
 00:20:12,240 --> 00:20:15,360
-probably new to a lot of people i know
+อาจเป็นเรื่องใหม่สำหรับคนจำนวนมาก
 
 632
 00:20:13,840 --> 00:20:18,720
-it was new to me
+ฉันรู้ว่ามันใหม่สำหรับฉัน
 
 633
 00:20:15,360 --> 00:20:20,880
-um at one point and basically like to to
+ณ จุดหนึ่งและโดยพื้นฐานแล้วชอบที่จะ
 
 634
 00:20:18,720 --> 00:20:23,280
-make this as simple as possible
+ทำให้มันง่ายที่สุดเท่าที่จะทำได้
 
 635
 00:20:20,880 --> 00:20:24,720
-um like i think many of us are aware of
+อย่างที่ฉันคิดว่าพวกเราหลายคนตระหนักดีว่า
 
 636
 00:20:23,280 --> 00:20:26,720
-how like a home
+สินเชื่อบ้านทำงานอย่างไร
 
 637
 00:20:24,720 --> 00:20:28,720
-loan works where typically you might put
+ดยปกติคุณอาจวางเงิน 10
 
 638
 00:20:26,720 --> 00:20:31,200
-like 10 down or 20
+หรือ 20
 
 639
 00:20:28,720 --> 00:20:32,080
-down that cash that you put down is what
+ลงนั้นสิ่งที่คุณใส่ลงไปเพื่อให้ได้
 
 640
 00:20:31,200 --> 00:20:34,240
-you're putting
+เงินกู้
 
 641
 00:20:32,080 --> 00:20:35,600
-down in order to get the full the full
+เต็มจำนวน
 
 642
 00:20:34,240 --> 00:20:36,480
-loan of whatever you're getting for that
+สำหรับสิ่งที่คุณได้รับจาก
 
 643
 00:20:35,600 --> 00:20:39,679
-house
+บ้านหลังนั้น
 
 644
 00:20:36,480 --> 00:20:41,440
-but with the way this works in crypto um
+แต่ด้วยวิธีการทำงานของ crypto
 
 645
 00:20:39,679 --> 00:20:42,799
-we're actually over you're over
+ที่จริงแล้ว เราถือว่า คุณค้ำประกันเงินกู้
 
 646
 00:20:41,440 --> 00:20:45,039
-collateralizing
+มากเกินไป
 
 647
 00:20:42,799 --> 00:20:46,240
-the loan so that's why these collateral
+นั่นคือเหตุผลที่อัตราส่วนหลักประกันเหล่านี้
 
 648
 00:20:45,039 --> 00:20:49,200
-ratios are over
+มีมากกว่า
 
 649
 00:20:46,240 --> 00:20:51,039
-100 and you're what you're doing like
+100 และคุณกำลังทำอะไรเหมือนกับ
 
 650
 00:20:49,200 --> 00:20:52,880
-what it really means of collateral
+ความหมายของหลักประกัน
 
 651
 00:20:51,039 --> 00:20:54,640
-is that you're actually taking bitcoin
+ก็คือ คุณกำลังรับ bitcoin บางอย่าง
 
 652
 00:20:52,880 --> 00:20:57,120
-something like bitcoin
+เช่น bitcoin
 
 653
 00:20:54,640 --> 00:20:58,080
-you don't need to sell it but you can
+ที่คุณไม่จำเป็นต้องขาย
 
 654
 00:20:57,120 --> 00:21:01,120
-pull out
+แต่คุณสามารถดึง
 
 655
 00:20:58,080 --> 00:21:03,280
-um ausd a stablecoin with your bitcoin
+ausd stable coin ออกมาได้ โดยที่ bitcoin
 
 656
 00:21:01,120 --> 00:21:04,320
-still there not sold and then you can
+ของคุณยังไม่ได้ขาย แล้ว
 
 657
 00:21:03,280 --> 00:21:06,240
-take the ausd
+คุณสามารถใช้ ausd
 
 658
 00:21:04,320 --> 00:21:07,919
-and either you can send that to people
+และคุณสามารถส่งสิ่งนั้นให้คน
 
 659
 00:21:06,240 --> 00:21:10,080
-you can make payments you can
+ที่คุณสามารถชำระเงินได้
 
 660
 00:21:07,919 --> 00:21:11,200
-use that to provide liquidity within our
+คุณสามารถใช้เพื่อจัดหาสภาพคล่องภายใน
 
 661
 00:21:10,080 --> 00:21:13,200
-decks but
+decks แต่
 
 662
 00:21:11,200 --> 00:21:15,120
