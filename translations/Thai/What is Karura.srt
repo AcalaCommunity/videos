@@ -3405,311 +3405,311 @@ dot เช่นกัน
 
 852
 00:27:31,840 --> 00:27:34,960
-we can see this is like already a very
+เราสามารถเห็นได้ว่า
 
 853
 00:27:34,080 --> 00:27:36,960
-very user
+นี่เป็นวิธีที่เป็นมิตร
 
 854
 00:27:34,960 --> 00:27:39,520
-friendly consumer friendly way for you
+ต่อผู้ใช้มากแล้ว
 
 855
 00:27:36,960 --> 00:27:42,159
-to trade in a trustless way on kusama
+สำหรับคุณในการแลกเปลี่ยนบน kusama
 
 856
 00:27:39,520 --> 00:27:42,159
-and kura
+และ karura
 
 857
 00:27:42,880 --> 00:27:46,799
-and just uh just to mention again what
+ขอย้ำสิ่งที่
 
 858
 00:27:44,960 --> 00:27:49,760
-rutao mentioned earlier
+ruitao กล่าวถึงก่อนหน้านี้
 
 859
 00:27:46,799 --> 00:27:50,799
-this this is just our test net so when
+นี่เป็นเพียงเครือข่าย testnet
 
 860
 00:27:49,760 --> 00:27:54,159
-carrera launches
+ดังนั้นเมื่ karura เปิดตัวสิ่งเหล่านี้
 
 861
 00:27:50,799 --> 00:27:55,440
-these will be ksm focus so what you see
+จะเป็นการโฟกัสไปที่ ksm
 
 862
 00:27:54,159 --> 00:27:58,000
-here is ausd
+ดังสิ่งที่คุณเห็นนี่คือ ausd
 
 863
 00:27:55,440 --> 00:27:58,559
-and aca when when carrera launches this
+และ aca เมื่อ karura เปิดตัว
 
 864
 00:27:58,000 --> 00:28:01,200
-will say
+มันจะบอกว่า
 
 865
 00:27:58,559 --> 00:28:02,640
-kusd which is the carrera dollar and
+kusd ซึ่งเป็นดอลลาร์ของ karura
 
 866
 00:28:01,200 --> 00:28:06,000
-it'll say
+เหมือนจะบอกว่า
 
 867
 00:28:02,640 --> 00:28:11,120
-kar here instead of aca which is the
+kar จะแทนที่ aca
 
 868
 00:28:06,000 --> 00:28:11,120
-the utility token of kubura yeah
+ซึ่งเป็นโทเค็นยูทิลิตี้ของ karura
 
 869
 00:28:14,080 --> 00:28:20,240
-um another thing okay so ben is asking
+เบ็นถามประมาณว่า
 
 870
 00:28:17,440 --> 00:28:22,880
-something like what's the earnings share
+ส่วนแบ่งรายได้
 
 871
 00:28:20,240 --> 00:28:24,960
-for participating in the liquidity pool
+จากการเข้าร่วมกลุ่มสภาพคล่องประมาณเท่าไหร่
 
 872
 00:28:22,880 --> 00:28:26,399
-so one thing to mention is that we've
+สิ่งหนึ่งที่ต้องพูดถึงคือ
 
 873
 00:28:24,960 --> 00:28:29,520
-set aside
+เราได้กันไว้
 
 874
 00:28:26,399 --> 00:28:30,320
-um it's six percent uh right rutau of
+หกเปอร์เซ็นต์ ใช่ไหม ruitao
 
 875
 00:28:29,520 --> 00:28:33,440
-our of the
+kar ของเรา
 
 876
 00:28:30,320 --> 00:28:34,720
-kar the karua supply for the initial
+ที่ karua จัดหาสำหรับ
 
 877
 00:28:33,440 --> 00:28:37,840
-liquidity provider
+โปรแกรมผู้ให้บริการสภาพคล่องเริ่มต้น
 
 878
 00:28:34,720 --> 00:28:39,919
-program so this is this is a bit of an
+ดังนั้นนี่คือการ
 
 879
 00:28:37,840 --> 00:28:41,520
-alpha leak i think on this on this call
+รั่วของข้อมูลเล็กน้อย ในการคอลครั้งนี้
 
 880
 00:28:39,919 --> 00:28:44,399
-but definitely uh
+แต่แน่นอนว่า
 
 881
 00:28:41,520 --> 00:28:45,919
-something that will reward early
+มีบางสิ่งที่จะให้รางวัล
 
 882
 00:28:44,399 --> 00:28:48,559
-liquidity providers who
+แก่ผู้ให้บริการสภาพคล่องคนแรกๆ
 
 883
 00:28:45,919 --> 00:28:49,520
-who bring in whatever it might be if
+ที่นำอะไรมาก็ตาม
 
 884
 00:28:48,559 --> 00:28:52,320
-it's ksm
+อาจจะเป็น ksm
 
 885
 00:28:49,520 --> 00:28:53,600
-or what have you um there will be there
+หรืออะไรก็ตามที่คุณ จัดหาสภาพคล่องให้
 
 886
 00:28:52,320 --> 00:28:54,480
-will be an opportunity to provide
+ตามโอกาส
 
 887
 00:28:53,600 --> 00:28:56,000
-liquidity for
+สำหรับคู่ใดๆ
 
 888
 00:28:54,480 --> 00:28:58,159
-for any of these pairs on the career
+เหล่านี้บน decks
 
 889
 00:28:56,000 --> 00:29:00,320
-decks from day one when we launched
+ตั้งแต่วันแรกที่เราเปิดตัว
 
 890
 00:28:58,159 --> 00:29:01,360
-yes yes i think this is another reason
+ใช่ ฉันคิดว่านี่เป็นอีกเหตุผลหนึ่ง
 
 891
 00:29:00,320 --> 00:29:04,000
-that why um
+ที่เราคิดว่า
 
 892
 00:29:01,360 --> 00:29:06,399
-we think kuru is going to be so amazing
+karura จะน่าทึ่งมาก
 
 893
 00:29:04,000 --> 00:29:09,600
-for kusama token holders because you can
+สำหรับผู้ถือโทเค็น kusama เพราะคุณสามารถ
 
 894
 00:29:06,399 --> 00:29:11,200
-actually put the kusama token into work
+นำโทเค็น kusama ไปใช้งานได้จริง
 
 895
 00:29:09,600 --> 00:29:12,080
-for you right you can simply provide
+คุณสามารถให้สภาพคล่อง
 
 896
 00:29:11,200 --> 00:29:14,159
-liquidity
+สภาพคล่อง
 
 897
 00:29:12,080 --> 00:29:15,360
-uh in the cruel network and start to
+ในเครือข่ายที่ karura
 
 898
 00:29:14,159 --> 00:29:17,520
-enjoy return
+และเริ่มเพลิดเพลิน
 
 899
 00:29:15,360 --> 00:29:18,399
-um for participating in this network and
+ไปกับผลตอบแทน สำหรับการเข้าร่วมในเครือข่ายนี้และ
 
 900
 00:29:17,520 --> 00:29:20,960
-for the uh
+สำหรับ
 
 901
 00:29:18,399 --> 00:29:22,880
-for the for the rewards when providing
+สำหรับรางวัลที่
 
 902
 00:29:20,960 --> 00:29:24,880
-liquidity they actually double reward
+ให้สภาพคล่องจริง ๆ แล้วพวกเขาได้รับรางวัลสองเท่า
 
 903
 00:29:22,880 --> 00:29:26,480
-in the very first year that we as then
+ในปีแรกที่เรากล่าวไปแล้วดังนั้น
 
 904
 00:29:24,880 --> 00:29:27,279
-mentioned so you will be earning the
+คุณจะได้รับค่า
 
 905
 00:29:26,480 --> 00:29:29,600
-typical
+ธรรมเนียม
 
 906
 00:29:27,279 --> 00:29:31,200
-liquidity provider fee that's like uh
+ผู้ให้บริการสภาพคล่องทั่วไป
 
 907
 00:29:29,600 --> 00:29:32,960
-pretty much industry standard if you
+เหมือนกับมาตรฐานอุตสาหกรรมนี้ หากคุณเช็คเอาท์
 
 908
 00:29:31,200 --> 00:29:34,080
-check out like sushi swap you can check
+เหมือนกับบน sushiswap
 
 909
 00:29:32,960 --> 00:29:35,679
-out that uni swap
+หรือบน uniswap
 
 910
 00:29:34,080 --> 00:29:37,840
-um they already pretty much like to eat
+อืม พวกเขาค่อนข้างชอบที่จะกิน
 
 911
 00:29:35,679 --> 00:29:38,399
-the standard liquid liquidity provider
+ค่าธรรมเนียมผู้ให้บริการสภาพคล่อง
 
 912
 00:29:37,840 --> 00:29:40,399
-fee
+มาตรฐาน
 
 913
 00:29:38,399 --> 00:29:42,399
-but in additional you will be earning uh
+แต่ยิ่งไปกว่านั้น คุณจะได้รับ
 
 914
 00:29:40,399 --> 00:29:43,200
-some liquidity reward for the for early
+รางวัลสำหรับการปล่อยสภาพคล่องบางส่วนช่วงแรกๆ
 
 915
 00:29:42,399 --> 00:29:45,840
-contribution
+ที่เป็นผลงาน
 
 916
 00:29:43,200 --> 00:29:46,559
-for kurura and as then said we set aside
+สำหรับ karura และอย่างที่เราบอกไป
 
 917
 00:29:45,840 --> 00:29:48,399
-a set of
+แล้วว่าเราได้ชุด
 
 918
 00:29:46,559 --> 00:29:50,080
-kura token to be used for that
+โทเค็นของ karura ไว้ใช้
 
 919
 00:29:48,399 --> 00:29:54,000
-particular
+สำหรับ
 
 920
 00:29:50,080 --> 00:29:54,960
-incentive as well a couple people are
+สิ่งจูงใจนั้น ๆ เช่นกัน มีคนสองสามคน
 
 921
 00:29:54,000 --> 00:29:58,000
-asking about
+ถามเกี่ยวกับ
 
 922
 00:29:54,960 --> 00:30:00,080
-um impermanent loss when providing
+impermanent lossเมื่อมีการให้
 
 923
 00:29:58,000 --> 00:30:02,559
-liquidity
+สภาพคล่อง
 
 924
 00:30:00,080 --> 00:30:03,120
-yeah definitely like if um obviously in
+ใช่ แน่นอนชัดเจน
 
 925
 00:30:02,559 --> 00:30:06,399
-the
+ที่
 
 926
 00:30:03,120 --> 00:30:06,880
-in in short run or in short term if you
+ในระยะสั้น หากคุณ
 
 927
 00:30:06,399 --> 00:30:09,120
-check
+ตรวจสอบ
 
 928
 00:30:06,880 --> 00:30:10,240
-uni swap there's like this problem of
+บน uniswap มีปัญหาเช่น
 
 929
 00:30:09,120 --> 00:30:12,240
