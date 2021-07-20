@@ -3049,99 +3049,99 @@ the decentralized sovereign wales fund
 
 763
 00:24:33,520 --> 00:24:36,640
-the underlying
+พื้นฐาน
 
 764
 00:24:34,559 --> 00:24:38,480
-collateral asset that you put down say
+หลักทรัพย์ค้ำประกันที่คุณวางไว้ เช่น
 
 765
 00:24:36,640 --> 00:24:39,360
-it's bitcoin for example if the price
+bitcoin เช่น ถ้าราคา
 
 766
 00:24:38,480 --> 00:24:41,520
-were to drop
+ลดลง
 
 767
 00:24:39,360 --> 00:24:42,720
-to a point where it became risky
+จนถึงจุดนึง ที่กลายเป็นความเสี่ยง
 
 768
 00:24:41,520 --> 00:24:46,400
-according to what the
+ตามที่
 
 769
 00:24:42,720 --> 00:24:48,559
-the system says here then your
+ระบบบอกว่าตำแหน่งนี้ ที่คุณ
 
 770
 00:24:46,400 --> 00:24:49,440
-your position would basically be sold at
+วางตำแหน่งไว้ จะถูกบังคับขาย
 
 771
 00:24:48,559 --> 00:24:52,559
-a at a
+ที่
 
 772
 00:24:49,440 --> 00:24:54,159
-rate of a 20 kind of um fee
+เรทประมาณ 20
 
 773
 00:24:52,559 --> 00:24:56,799
-for that for that liquidation take
+เพื่อการชำระบัญชีนั้น
 
 774
 00:24:54,159 --> 00:24:56,799
-taking place
+ที่เกิดขึ้น
 
 775
 00:24:56,960 --> 00:25:01,600
-yeah yeah i think to better um think
+ใช่ ใช่ ฉันคิดว่าดีกว่า
 
 776
 00:24:59,919 --> 00:25:03,760
-about liquidation it's more of like
+คิดเกี่ยวกับ การชำระบัญชีมันเหมือน
 
 777
 00:25:01,600 --> 00:25:05,679
-uh if you collateralize and you borrow
+ถ้าคุณค้ำประกันและคุณยืม
 
 778
 00:25:03,760 --> 00:25:07,360
-against your bitcoin and then pick a job
+เทียบกับ bitcoin ของคุณแล้วเลือก
 
 779
 00:25:05,679 --> 00:25:08,960
-to a particular price
+ในราคาเฉพาะ
 
 780
 00:25:07,360 --> 00:25:10,480
-a fraction of your collection will be
+จะมีบางส่วนของคุณที่จะถูก
 
 781
 00:25:08,960 --> 00:25:12,240
-sold and you will see that if you were
+ขายออกไปแล้ว จะเห็นว่าถ้าคุณเป็น
 
 782
 00:25:10,480 --> 00:25:14,480
-just like sold those collectors
+เป็นคนขายสินทรัพย์เหล่านั้น
 
 783
 00:25:12,240 --> 00:25:16,159
-at that price you will still hold on to
+ในราคานั้น คุณจะยังถือ
 
 784
 00:25:14,480 --> 00:25:16,720
-the the money they borrow against it's
+เงิน ที่พวกเขายืมมา
 
 785
 00:25:16,159 --> 00:25:19,120
-just like
+เหมือนกับว่า
 
 786
 00:25:16,720 --> 00:25:21,679
-you sold those um characters at a
+คุณขายสินทรัพย์นั้นที่ราคา
 
 787
 00:25:19,120 --> 00:25:21,679
@@ -3149,259 +3149,259 @@ penalty
 
 788
 00:25:22,880 --> 00:25:27,679
-yep cool well let's move on to the next
+โอเค เยี่ยมเลย ไปต่อกันที่
 
 789
 00:25:26,320 --> 00:25:30,000
-one
+หัวข้อถัดไป
 
 790
 00:25:27,679 --> 00:25:30,960
-okay so the next um section we're gonna
+โอเค ส่วนถัดไป
 
 791
 00:25:30,000 --> 00:25:33,120
-cover is the
+ที่เราจะพูดถึงคือ
 
 792
 00:25:30,960 --> 00:25:34,320
-uh the decks that's where you can trade
+decks ที่คุณสามารถแลกเปลี่ยน
 
 793
 00:25:33,120 --> 00:25:37,039
-um assets
+ทรัพย์สิน
 
 794
 00:25:34,320 --> 00:25:37,840
-are gonna be available on kura and asset
+จะพร้อมใช้งานบน karura และสินทรัพย์
 
 795
 00:25:37,039 --> 00:25:40,400
-is gonna be
+จะพร้อมใช้
 
 796
 00:25:37,840 --> 00:25:42,159
-available in the wider kusama ecosystem
+งานในระบบนิเวศ kusama ที่กว้างขึ้น
 
 797
 00:25:40,400 --> 00:25:44,559
-this is where you can trade so you can
+นี่คือที่ที่คุณสามารถแลกเปลี่ยนเพื่อให้คุณสามารถ
 
 798
 00:25:42,159 --> 00:25:46,080
-see i just borrowed some ausd or kusd
+เห็นว่าฉันเพิ่งยืม ausd หรือ kusd
 
 799
 00:25:44,559 --> 00:25:47,840
-the stable coin i can already start to
+stable coin ที่ฉันได้เริ่ม
 
 800
 00:25:46,080 --> 00:25:51,679
-trade for example to trade
+แลกเปลี่ยนเป็นตัวอย่าง
 
 801
 00:25:47,840 --> 00:25:54,480
-uh 100 uh kusd for maybe some
+100 kusd สำหรับ
 
 802
 00:25:51,679 --> 00:25:55,919
-poker btc and i can say that okay this
+polkabtc บางส่วนและฉันสามารถพูดได้ว่าโอเคนี่คือ
 
 803
 00:25:54,480 --> 00:25:58,159
-is what i'm going to trace very similar
+สิ่งที่ฉันจะแลกเปลี่ยนคล้ายกับ
 
 804
 00:25:55,919 --> 00:26:00,880
-to uni swap
+uniswap
 
 805
 00:25:58,159 --> 00:26:01,360
-an am type of change i can press one
+ประเภท am องการเปลี่ยนแปลงฉันสามารถ
 
 806
 00:26:00,880 --> 00:26:02,960
-button
+กดเพียงแค่ปุ่มเดียว
 
 807
 00:26:01,360 --> 00:26:05,279
-and then boom i will be trading and
+เรียบร้อย ฉันจะซื้อขายและ
 
 808
 00:26:02,960 --> 00:26:06,799
-bought some some poker btc
+ซื้อ polkabtc
 
 809
 00:26:05,279 --> 00:26:09,440
-um the other way i can also trade
+อีกวิธีหนึ่ง ที่ฉันสามารถแลก
 
 810
 00:26:06,799 --> 00:26:11,679
-against by selling for example some some
+ปลี่ยนโดยการขายเช่น
 
 811
 00:26:09,440 --> 00:26:14,400
-program bdc and get some property
+polkabtc บางส่วนและรับ
 
 812
 00:26:11,679 --> 00:26:16,240
-um dots or something else as long as
+dot มา หรืออย่างอื่นตราบใด่ที่มี
 
 813
 00:26:14,400 --> 00:26:18,320
-there's liquidity you can trade
+สภาพคล่องคุณสามารถแลกเปลี่ยน
 
 814
 00:26:16,240 --> 00:26:19,520
-within these stacks this stack is super
+ภายในสแต็กเหล่านี้สแต็กนี้
 
 815
 00:26:18,320 --> 00:26:22,159
-useful um when
+มีประโยชน์มากเมื่อ
 
 816
 00:26:19,520 --> 00:26:23,600
-the network um boot shaped it's going to
+มันจะเป็น
 
 817
 00:26:22,159 --> 00:26:24,880
-be one of the very first stacks that's
+หนึ่งในกองแรก
 
 818
 00:26:23,600 --> 00:26:27,360
-going to available
+ที่จะพร้อมใช้งานบน
 
 819
 00:26:24,880 --> 00:26:28,559
-on kusama that allow you to trade in a
+kusama ที่ให้คุณซื้อขาย
 
 820
 00:26:27,360 --> 00:26:30,880
-trustless way
+ได้
 
 821
 00:26:28,559 --> 00:26:32,320
-and also because it's like an mm type of
+และเนื่องจากมันเหมือนกับการแลกเปลี่ยนประเภท mm
 
 822
 00:26:30,880 --> 00:26:34,400
-exchange you can also
+คุณยังสามารถ
 
 823
 00:26:32,320 --> 00:26:36,240
-provide liquidity so you can provide
+จัดหาสภาพคล่องได้
 
 824
 00:26:34,400 --> 00:26:38,799
-liquidity in sense of like
+เช่นเดียวกับ
 
 825
 00:26:36,240 --> 00:26:40,559
-supplying a set of pairs into the pool
+การจัดหาชุดของคู่เงินลงในกลุ่ม
 
 826
 00:26:38,799 --> 00:26:42,320
-for example electrical by usd
+ตัวอย่างเช่น การจัดหาโดย usd
 
 827
 00:26:40,559 --> 00:26:44,240
-to dodge and you can supply that will
+กับ dot และคุณสามารถจัดหา
 
 828
 00:26:42,320 --> 00:26:44,799
-approve x amount of usd and x amount of
+จำนวน usd ที่อนุมัติได้ และ จำนวนของ
 
 829
 00:26:44,240 --> 00:26:47,520
-dots
+dot เช่นกัน
 
 830
 00:26:44,799 --> 00:26:49,600
-by supplying liquidity into this tax you
+โดยการจัดหาสภาพคล่องในรายการนี้
 
 831
 00:26:47,520 --> 00:26:51,600
-are essentially a market maker
+คุณเป็นผู้ทำตลาด
 
 832
 00:26:49,600 --> 00:26:52,880
-and passive money maker you will be
+และผู้ดูแลสภาพคล่อง คุณจะมี
 
 833
 00:26:51,600 --> 00:26:55,440
-earning the
+รายได้
 
 834
 00:26:52,880 --> 00:26:56,400
-the liquidity um the trading fee you'll
+จากสภาพคล่อง และค่าธรรมเนียม
 
 835
 00:26:55,440 --> 00:27:00,080
-be earning
+คุณจะได้รับ
 
 836
 00:26:56,400 --> 00:27:01,520
-um all the um rewards um when you are
+ผลตอบแทนทั้งหมด เมื่อคุณ
 
 837
 00:27:00,080 --> 00:27:04,000
-providing this liquidity
+ให้สภาพคล่องนี้
 
 838
 00:27:01,520 --> 00:27:05,679
-so every time that people trade um you
+ดังนั้นทุกครั้งที่มีคนซื้อขาย
 
 839
 00:27:04,000 --> 00:27:07,600
-essentially help them to trade and
+คุณเป็นหลักในการช่วยแลกเปลี่ยน และ
 
 840
 00:27:05,679 --> 00:27:08,799
-you by doing that you'll be ending some
+โดยการทำเช่นนั้นคุณจะได้ส่วนแบ่ง
 
 841
 00:27:07,600 --> 00:27:12,080
-nice share of the
+ที่ดีของ
 
 842
 00:27:08,799 --> 00:27:16,159
-of the trading fees um by providing this
+ค่าธรรมเนียมการซื้อขาย โดยการจัดหาสภาพคล่องนี้
 
 843
 00:27:12,080 --> 00:27:18,880
-liquidity um this this exchange itself
+การแลกเปลี่ยนนี้เอง
 
 844
 00:27:16,159 --> 00:27:20,320
-as for consumer is already quite useful
+ค่อนข้างมีประโยชน์สำหรับผู้ใช้งานมาก
 
 845
 00:27:18,880 --> 00:27:22,240
-but it also has some
+แต่ก็มี
 
 846
 00:27:20,320 --> 00:27:25,039
-actual functionality it's actually the
+ฟังก์ชันการทำงานหลัก
 
 847
 00:27:22,240 --> 00:27:26,960
-backbone the unified source of liquidity
+ซึ่งเป็นกระดูกสันหลัง แหล่งรวมสภาพคล่อง
 
 848
 00:27:25,039 --> 00:27:28,399
-um for the whole cruel network which i
+สำหรับเครือข่าย karura ทั้งหมดซึ่งฉัน
 
 849
 00:27:26,960 --> 00:27:30,559
-will cover later
+จะกล่าวถึงในภายหลัง
 
 850
 00:27:28,399 --> 00:27:31,840
-when we show off the gas feed payment
+เมื่อเราแสดงคุณลักษณะการจ่ายค่าธรรมเนียมก๊าซ
 
 851
 00:27:30,559 --> 00:27:34,080
-feature but for now
+แต่ตอนนี้
 
 852
 00:27:31,840 --> 00:27:34,960
