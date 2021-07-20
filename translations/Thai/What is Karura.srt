@@ -3713,95 +3713,95 @@ impermanent lossเมื่อมีการให้
 
 929
 00:30:09,120 --> 00:30:12,240
-impediment loss
+impermanent loss
 
 930
 00:30:10,240 --> 00:30:14,799
-um when you're providing um liquidity
+เมื่อคุณ จัดหาคู่
 
 931
 00:30:12,240 --> 00:30:17,360
-pair to let's say two very volatile
+เหรียญที่มีสภาพคล่องแบบผันผวนสูง
 
 932
 00:30:14,799 --> 00:30:19,120
-assets uh it's in the in the very
+ในช่วงเริ่มต้น
 
 933
 00:30:17,360 --> 00:30:20,399
-beginning it's almost the same for
+มันเกือบจะเหมือนกันสำหรับ
 
 934
 00:30:19,120 --> 00:30:23,760
-providing liquidity
+การให้สภาพคล่อง
 
 935
 00:30:20,399 --> 00:30:25,440
-uh in um in kura as well so you will
+บน karura ก็เช่นกัน ดังนั้นคุณ จะ
 
 936
 00:30:23,760 --> 00:30:26,000
-experience some of the implement loss in
+ประสบกับ impermanent loss
 
 937
 00:30:25,440 --> 00:30:28,080
-short term
+บางส่วนในระยะสั้น
 
 938
 00:30:26,000 --> 00:30:29,440
-but in long term um if you actually
+แต่ในระยะยาว อืม หากคุณ
 
 939
 00:30:28,080 --> 00:30:31,360
-check the historic data
+ตรวจสอบข้อมูลที่ผ่านมาจริง ๆ
 
 940
 00:30:29,440 --> 00:30:33,200
-in long term that pretty much all turns
+ในระยะยาว ซึ่งเกือบทั้งหมดกลายเป็น
 
 941
 00:30:31,360 --> 00:30:35,200
-out to be great um the additional
+สิ่งที่ยอดเยี่ยม อืม สิ่งจูงใจเพิ่มเติม
 
 942
 00:30:33,200 --> 00:30:38,559
-incentive that we have in place
+ที่เรามีสำหรับ
 
 943
 00:30:35,200 --> 00:30:39,360
-for kr tokens um as liquidity rewards
+โทเค็น kar เป็นรางวัลสภาพคล่อง
 
 944
 00:30:38,559 --> 00:30:42,159
-for providing
+สำหรับการจัดหา
 
 945
 00:30:39,360 --> 00:30:43,120
-early liquidity will even offstat that
+สภาพคล่องช่วงแรกๆ
 
 946
 00:30:42,159 --> 00:30:45,440
-if there's any
+หากมีเพิ่มเติม
 
 947
 00:30:43,120 --> 00:30:46,960
-even further and we have some exciting
+และเรามีสิ่งที่น่าตื่นเต้น
 
 948
 00:30:45,440 --> 00:30:48,080
-stuff that we may come up later when we
+ที่เราอาจมาในภายหลังเมื่อเรา
 
 949
 00:30:46,960 --> 00:30:51,120
-start to roll up
+เริ่มที่จะไปข้างหน้า
 
 950
 00:30:48,080 --> 00:30:51,840
-stuff one by one as i said uh or as dan
+ทีละอย่างอย่างที่ฉันพูด แดน
 
 951
 00:30:51,120 --> 00:30:54,799
-described
+ได้อธิบาย
 
 952
 00:30:51,840 --> 00:30:55,679
