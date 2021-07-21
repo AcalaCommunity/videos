@@ -3277,7 +3277,7 @@ kusama ที่ให้คุณซื้อขาย
 
 820
 00:26:27,360 --> 00:26:30,880
-ได้
+ในรูปแบบ trustless wayได้
 
 821
 00:26:28,559 --> 00:26:32,320
@@ -3417,7 +3417,7 @@ dot เช่นกัน
 
 855
 00:27:36,960 --> 00:27:42,159
-สำหรับคุณในการแลกเปลี่ยนบน kusama
+สำหรับคุณในการแลกเปลี่ยนแบบ trustless way บน kusama
 
 856
 00:27:39,520 --> 00:27:42,159
@@ -3805,211 +3805,211 @@ impermanent loss
 
 952
 00:30:51,840 --> 00:30:55,679
-um kuru and alkala a specialized network
+karura และ acala เครือข่ายเฉพาะทาง
 
 953
 00:30:54,799 --> 00:30:58,480
-right it's like
+มันเหมือนกับ
 
 954
 00:30:55,679 --> 00:31:00,240
-a network specialized for finance um so
+เครือข่ายที่เชี่ยวชาญด้านการเงิน
 
 955
 00:30:58,480 --> 00:31:01,760
-when when we go live it's not going to
+เมื่อเราใช้งานจริง มันจะไม่
 
 956
 00:31:00,240 --> 00:31:02,559
-stay in this straight we're going to
+อยู่ในแนวนี้อย่างเดียว เราจะ
 
 957
 00:31:01,760 --> 00:31:04,640
-continue
+ปรับปรุงและพัฒนา
 
 958
 00:31:02,559 --> 00:31:06,080
-to improve and continue to grow up new
+คุณสมบัติใหม่
 
 959
 00:31:04,640 --> 00:31:09,600
-feature on top of that
+ต่อไป
 
 960
 00:31:06,080 --> 00:31:09,600
-that's the hints i can give up today
+คำแนะนำที่ฉันสามารถให้ได้ในวันนี้
 
 961
 00:31:11,919 --> 00:31:16,559
-cool yeah i guess we can move on to the
+ใช่ ฉันเดาว่าเราสามารถไปยัง
 
 962
 00:31:15,600 --> 00:31:19,279
-next
+ส่วนถัดไปได้
 
 963
 00:31:16,559 --> 00:31:20,640
-section someone was asking like when you
+มีคนถามเช่น
 
 964
 00:31:19,279 --> 00:31:22,559
-can do this when you can provide
+เมื่อใดที่คุณสามารถทำได้ เมื่อใดคุณ
 
 965
 00:31:20,640 --> 00:31:24,399
-liquidity when you can use
+สามารถให้สภาพคล่องได้ เมื่อใดคุณจะสามารถใช้
 
 966
 00:31:22,559 --> 00:31:25,760
-um the decks and the answer is the
+decks ได้ และคำตอบคือ
 
 967
 00:31:24,399 --> 00:31:28,399
-moment we launch
+ช่วงเวลาที่เราเปิดตัว
 
 968
 00:31:25,760 --> 00:31:29,279
-so karua we just need to win the pair
+karura ดังนั้น เราแค่ต้องชนะการประมูล
 
 969
 00:31:28,399 --> 00:31:31,679
-chain slot
+สล็อต parachain
 
 970
 00:31:29,279 --> 00:31:32,320
-auction and the moment we win that um
+และในขณะที่เราชนะ
 
 971
 00:31:31,679 --> 00:31:33,679
-all these
+ทั้งหมดเหล่านี้
 
 972
 00:31:32,320 --> 00:31:35,360
-as you can see right now this is all
+อย่างที่คุณเห็นในตอนนี้ ทั้งหมดนี้
 
 973
 00:31:33,679 --> 00:31:38,159
-built we've been actually waiting
+สร้างขึ้น เรารอคอยที่จะ
 
 974
 00:31:35,360 --> 00:31:39,039
-to launch this so the moment we can get
+เปิดตัวจริง ๆ ดังนั้นช่วงเวลาที่เราจะได้
 
 975
 00:31:38,159 --> 00:31:41,840
-our
+รับสล็อต
 
 976
 00:31:39,039 --> 00:31:43,919
-our slots in the kusama network we'll go
+ของเราใน kusama network เราจะ
 
 977
 00:31:41,840 --> 00:31:47,039
-live and this stuff will all be usable
+เริ่มใช้งานและ ทุกอย่างจะใช้งานได้
 
 978
 00:31:43,919 --> 00:31:49,679
-um from the moment we we get started
+ตั้งแต่เราเริ่มต้น
 
 979
 00:31:47,039 --> 00:31:52,000
-yeah so the next section is about liquid
+หัวข้อถัดไปเกี่ยวกับการทำ
 
 980
 00:31:49,679 --> 00:31:54,080
-staking and this is super amazing i
+liquid staking และมันน่าทึ่งมาก
 
 981
 00:31:52,000 --> 00:31:56,000
-i just can't wait to use this feature so
+ฉันแทบรอไม่ไหวที่จะใช้งานมัน
 
 982
 00:31:54,080 --> 00:31:57,120
-the liquid staking in essentially in a
+liquid staking โดยพื้นฐาน
 
 983
 00:31:56,000 --> 00:32:00,000
-nutshell is like
+แบบสั้นๆ ก็คือ
 
 984
 00:31:57,120 --> 00:32:01,440
-it's a meta a trustless staking pool
+เหมือนเป็น META trustless staking pool
 
 985
 00:32:00,000 --> 00:32:04,320
-that you can free
+ซึ่งคุณสามารถปลดปล่อย
 
 986
 00:32:01,440 --> 00:32:06,320
-your stake asset so think about as like
+ทรัพย์สินที่คุณวางไว้ ดังนั้นให้คิดเหมือนว่า
 
 987
 00:32:04,320 --> 00:32:08,720
-if you're holding kusama today
+คุณกำลังถือ kusama ในวันนี้
 
 988
 00:32:06,320 --> 00:32:09,840
-and if you stick with validators which
+และหากคุณวางสินทรัพย์ กับ Validators 
 
 989
 00:32:08,720 --> 00:32:11,919
-you should
+ที่คุณเลือก
 
 990
 00:32:09,840 --> 00:32:13,519
-every time that you want to spend or you
+ทุกครั้งที่คุณต้องการใช้หรือ
 
 991
 00:32:11,919 --> 00:32:14,240
-want to move your kusama you have this
+คุณต้องการย้าย kusama ของคุณ คุณใช้
 
 992
 00:32:13,519 --> 00:32:16,559
-typical
+เวลา
 
 993
 00:32:14,240 --> 00:32:17,840
-seven day uploading period for the
+เจ็ดวันในการยกเลิกการวางทรัพย์สิน
 
 994
 00:32:16,559 --> 00:32:19,919
-security of the network
+สำหรับการรักษาความปลอดภัยของเครือข่าย
 
 995
 00:32:17,840 --> 00:32:22,000
-and on polkadot it's even longer it's 28
+และบน polkadot มันจะมากกว่า มันคือ 28 วัน
 
 996
 00:32:19,919 --> 00:32:23,760
-days for unbounding your stack assets
+สำหรับการยกเลิกการวางทรัพย์สินของคุณ
 
 997
 00:32:22,000 --> 00:32:25,440
-so what we created as what we call
+ดังนั้นสิ่งที่เราสร้างขึ้นในสิ่งที่เราเรียก
 
 998
 00:32:23,760 --> 00:32:27,440
-liquid staking essentially
+liquid staking โดยพื้นฐานคือ
 
 999
 00:32:25,440 --> 00:32:28,799
-a trustless staking pool that you can
+trustless staking pool ที่คุณสามารถ
 
 1000
 00:32:27,440 --> 00:32:31,200
-stack using
+วางทรัพย์สินด้วย
 
 1001
 00:32:28,799 --> 00:32:32,880
-a kura and every time that you stake you
+karura และทุกครั้งที่คุณวางทรัพย์สิน
 
 1002
 00:32:31,200 --> 00:32:35,200
-will be getting a receipt
+จะได้รับใบเสร็จ
 
 1003
 00:32:32,880 --> 00:32:37,039
-of your stake assets uh because it's
+ของทรัพย์สินที่คุณ วางไว้ เพราะมันคือ
 
 1004
 00:32:35,200 --> 00:32:38,080
