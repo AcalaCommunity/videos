@@ -3913,7 +3913,7 @@ karura ดังนั้น เราแค่ต้องชนะการป
 
 979
 00:31:47,039 --> 00:31:52,000
-หัวข้อถัดไปเกี่ยวกับการทำ
+หัวข้อถัดไปเกี่ยวกับ สภาพคล่อง
 
 980
 00:31:49,679 --> 00:31:54,080
@@ -4209,399 +4209,399 @@ dot และ ldot
 
 1053
 00:34:10,960 --> 00:34:14,079
-and say you're staking 10 dot you would
+และบอกว่า คุณกำลังวาง 10 dot ที่คุณจะ
 
 1054
 00:34:13,280 --> 00:34:16,159
-get 10
+ได้รับผลตอบแทนที่ 10
 
 1055
 00:34:14,079 --> 00:34:17,839
-l dot in return and those liquid dots
+เป็นการตอบแทนและ dots เหล่านั้น
 
 1056
 00:34:16,159 --> 00:34:20,639
-can be used within
+สามารถใช้ได้ภายใน
 
 1057
 00:34:17,839 --> 00:34:21,919
-akala if it's dot um but what what
+acala ถ้ามันคือ dot แต่
 
 1058
 00:34:20,639 --> 00:34:24,480
-ruitan mentioned is
+สิ่งที่ ruitao กล่าวถึงคือ
 
 1059
 00:34:21,919 --> 00:34:26,079
-how this l dot is a receipt for your for
+สิ่งที่ทำให้ ldot นี้เป็นใบเสร็จรับเงินสำหรับของคุณได้อย่างไร
 
 1060
 00:34:24,480 --> 00:34:28,560
-your staked dot
+จากการที่คุณทำการ staked dot
 
 1061
 00:34:26,079 --> 00:34:30,560
-so if you can imagine like on the on the
+ดังนั้นถ้าคุณสามารถจินตนาการเหมือนบน
 
 1062
 00:34:28,560 --> 00:34:32,079
-wallet screen that rue tau showed you
+หน้าจอกระเป๋าสตางค์ที่ ruitao แสดงให้คุณดู
 
 1063
 00:34:30,560 --> 00:34:34,480
-with all of your balances
+ด้วยยอดคงเหลือทั้งหมดของคุณ
 
 1064
 00:34:32,079 --> 00:34:35,520
-your l dot balance will actually always
+ldot balance ของคุณจะมากขึ้น
 
 1065
 00:34:34,480 --> 00:34:37,200
-be going up
+อยู่เสมอ
 
 1066
 00:34:35,520 --> 00:34:39,119
-because it's it's showing you it's a
+เพราะมันกำลังแสดงให้คุณเห็นว่ามันคือ
 
 1067
 00:34:37,200 --> 00:34:41,359
-receipt for your staked dot
+ใบเสร็จรับเงินสำหรับจุด staked ของคุณ
 
 1068
 00:34:39,119 --> 00:34:43,359
-so as your staked dot starts earning
+เพื่อที่จุดstaked ของคุณเริ่มรับรายได้
 
 1069
 00:34:41,359 --> 00:34:44,480
-more and more staking rewards that'll be
+ผลตอบแทนที่มากขึ้นที่จะ
 
 1070
 00:34:43,359 --> 00:34:47,280
-reflected in your
+สะท้อนอยู่ใน
 
 1071
 00:34:44,480 --> 00:34:48,720
-ldot balance so when you go to redeem
+ldot balance ของคุณ ดังนั้นเมื่อคุณไปแลกรับ
 
 1072
 00:34:47,280 --> 00:34:52,000
-your ldot
+ldot
 
 1073
 00:34:48,720 --> 00:34:54,720
-for like native dot at the end
+มาเป็น dot ปกติ ในตอนท้าย
 
 1074
 00:34:52,000 --> 00:34:55,760
-whenever you want to unstake your l dot
+เมื่อใดก็ตามที่คุณต้องการปลด ldot ของคุณ
 
 1075
 00:34:54,720 --> 00:34:58,160
-will have gone up
+จะขึ้นไปแล้ว
 
 1076
 00:34:55,760 --> 00:35:00,320
-since the moment you actually got your
+ตั้งแต่วินาทีที่คุณได้รับ
 
 1077
 00:34:58,160 --> 00:35:02,000
-original l dot if that makes sense
+ldot ตั้งต้น มันสมเหตุสมผล
 
 1078
 00:35:00,320 --> 00:35:04,720
-because it's just it's always reflecting
+เพราะมันสะท้อน
 
 1079
 00:35:02,000 --> 00:35:08,160
-your staking rewards adding on to your
+รางวัลการstaking เหรียญจะถูกเพิ่มในกอง staked ของคุญอยู่เสมอ
 
 1080
 00:35:04,720 --> 00:35:11,119
-stack of ldap yeah think about
+ใช่ ลองคิดถึง
 
 1081
 00:35:08,160 --> 00:35:12,160
-as if eldor is a share of the pool of
+ราวกับว่า ldot เป็นส่วนแบ่งของ pool
 
 1082
 00:35:11,119 --> 00:35:13,920
-the staking pool
+staking pool
 
 1083
 00:35:12,160 --> 00:35:15,200
-and the staking pool is growing size
+และ staking pool ก็มีขนาดใหญ่ขึ้น
 
 1084
 00:35:13,920 --> 00:35:16,000
-because there's going to be staking
+เพราะมันกำลังมีการ staking
 
 1085
 00:35:15,200 --> 00:35:18,000
-reward that's
+รางวัลที่
 
 1086
 00:35:16,000 --> 00:35:20,079
-praying to the pool but you can always
+จ่ายลงไปใน pool แต่คุณสามารถ
 
 1087
 00:35:18,000 --> 00:35:20,720
-redeem um for the same share that you
+แลก สำหรับหุ้นเดียวกันกับที่คุณ
 
 1088
 00:35:20,079 --> 00:35:23,359
-put it in
+ใส่เข้าไป
 
 1089
 00:35:20,720 --> 00:35:25,359
-so your your that up the the redeeming
+ดังนั้นการไถ่ถอน
 
 1090
 00:35:23,359 --> 00:35:28,839
-number will be always growing so holding
+ตัวเลขจะเพิ่มขึ้นเรื่อยๆ ดังนั้นถือ
 
 1091
 00:35:25,359 --> 00:35:31,760
-lg holding lksm is as if you are
+ldot ถือ lksm ราวกับว่าคุณเป็น
 
 1092
 00:35:28,839 --> 00:35:34,320
-staking yeah
+staking
 
 1093
 00:35:31,760 --> 00:35:35,280
-and it's slightly if you have l or you
+ถ้าคุณมี ldot หรือ
 
 1094
 00:35:34,320 --> 00:35:36,720
-have lksm
+มี lksm
 
 1095
 00:35:35,280 --> 00:35:38,880
-because we call it liquid right it's
+เพราะเราเรียกมันว่า สภาพคล่อง
 
 1096
 00:35:36,720 --> 00:35:39,599
-actually transferable within the archive
+โอนได้จริงภายใน
 
 1097
 00:35:38,880 --> 00:35:41,839
-shot and
+acala และ
 
 1098
 00:35:39,599 --> 00:35:43,680
-within the wider pocket ecosystem you
+ภายในระบบนิเวศของ polkadot
 
 1099
 00:35:41,839 --> 00:35:45,440
-can send ldap to someone else you can
+สามารถส่ง ldot ไปให้คนอื่นได้
 
 1100
 00:35:43,680 --> 00:35:48,320
-ที่อาจง่ายกว่า ดังนั้นสิ่งที่คุณทำอยู่คือ
+ส่ง lksm ให้คนอื่น
 
 1101
 00:35:45,440 --> 00:35:49,280
-as he was just moving um as if he's just
+ในขณะที่เขาเพิ่งเคลื่อนย้าย อืม ราวกับว่าเขาเพิ่ง
 
 1102
 00:35:48,320 --> 00:35:52,160
-moving some
+การย้ายสินทรัพย์
 
 1103
 00:35:49,280 --> 00:35:54,800
-of some some transferrable assets um the
+ที่โอนได้บางส่วน
 
 1104
 00:35:52,160 --> 00:35:57,920
-the recipient who gets lg or google
+ผู้รับที่ได้รับ ldot หรือ ใครที่ได้รับ
 
 1105
 00:35:54,800 --> 00:35:58,400
-gets klksm can choose to continue to
+ได้รับ lksmสามารถเลือกที่จะ
 
 1106
 00:35:57,920 --> 00:36:01,200
-hold
+ถือ
 
 1107
 00:35:58,400 --> 00:36:01,760
-on the the lks ml dot or they can
+lksm ldot หรือพวกเขาสามารถ
 
 1108
 00:36:01,200 --> 00:36:04,400
-continue to
+ที่จะ
 
 1109
 00:36:01,760 --> 00:36:05,760
-decide to redeem um and get the actual
+ตัดสินใจแลก และได้รับ
 
 1110
 00:36:04,400 --> 00:36:07,680
-valina dot back
+dot กลับคืนมา
 
 1111
 00:36:05,760 --> 00:36:09,200
-so this is like the the reason we call
+นี่จึงเป็นเหตุผลที่เราเรียกว่า
 
 1112
 00:36:07,680 --> 00:36:11,359
-it liquid is that it's transferable it
+liquid stake ที่สามารถถ่ายโอนได้
 
 1113
 00:36:09,200 --> 00:36:14,240
-could be used for other utility as well
+สามารถนำไปใช้ประโยชน์อย่างอื่นได้เช่นกัน
 
 1114
 00:36:11,359 --> 00:36:16,079
-and one big utility that you can use
+และยูทิลิตี้หลัก หนึ่งตัวที่คุณสามารถใช้ได้
 
 1115
 00:36:14,240 --> 00:36:18,720
-with this l ksm is that
+ด้วย lksm นี้คือ
 
 1116
 00:36:16,079 --> 00:36:19,520
-you can actually borrow against um your
+คุณสามารถทำการยืมด้วย
 
 1117
 00:36:18,720 --> 00:36:21,760
-lksm
+lksm ของคุณ
 
 1118
 00:36:19,520 --> 00:36:22,880
-in the demo that i showed earlier is
+ในการสาธิตที่ฉันแสดงก่อนหน้านี้คือ
 
 1119
 00:36:21,760 --> 00:36:24,800
-that you can borrow
+ที่คุณสามารถยืมได้
 
 1120
 00:36:22,880 --> 00:36:26,000
-against your stack asset so you don't
+เทียบกับสินทรัพย์ที่คุณวางไว้ ดังนั้นคุณจึงไม่ต้อง
 
 1121
 00:36:24,800 --> 00:36:27,280
-actually have to give up your
+คุณไม่จำเป็นต้องเสีย
 
 1122
 00:36:26,000 --> 00:36:28,640
-opportunity cost if you say that you
+ค่าเสียโอกาสถ้าคุณบอกว่าคุณ
 
 1123
 00:36:27,280 --> 00:36:30,320
-want to borrow against thoughts
+ต้องการยืมกับ dot
 
 1124
 00:36:28,640 --> 00:36:31,599
-you have to choose that hey do i want to
+คุณต้องเลือกว่า เฮ้ ฉันต้องการ
 
 1125
 00:36:30,320 --> 00:36:32,800
-select these thoughts or do i want to
+stake dot ของฉันหรือ ต้องการที่จะ
 
 1126
 00:36:31,599 --> 00:36:35,200
-borrow against my dog
+ยืมกับ dot ของฉัน
 
 1127
 00:36:32,800 --> 00:36:36,000
-but with ldl always lksm this is the
+แต่ด้วย ldot หรือ lksm นี่คือ
 
 1128
 00:36:35,200 --> 00:36:38,160
-best of both
+ดีที่สุดของทั้งสอง
 
 1129
 00:36:36,000 --> 00:36:39,440
-you could be earning the staking reward
+คุณอาจจะได้รับรางวัลการ staking
 
 1130
 00:36:38,160 --> 00:36:41,839
-while you're borrowing against a
+ในขณะที่คุณกำลังยืมเงินกับ
 
 1131
 00:36:39,440 --> 00:36:41,839
-position
+position ที่ถูกเปิด
 
 1132
 00:36:42,000 --> 00:36:48,240
-and yeah um dan any any question
+Dan มีคำถามไหม
 
 1133
 00:36:45,200 --> 00:36:51,359
-yeah one question um from
+ใช่หนึ่งคำถามจาก
 
 1134
 00:36:48,240 --> 00:36:51,760
-jack here in the chat is it's basically
+แจ็คจากช่อง พูดคุย
 
 1135
 00:36:51,359 --> 00:36:53,760
-like
+คือโดยทั่วไป
 
 1136
 00:36:51,760 --> 00:36:56,000
-what he said what happens if you trade
+จะเกิดอะไรขึ้นถ้าคุณเทรด
 
 1137
 00:36:53,760 --> 00:36:58,320
-or sell your ldot so you have like the
+หรือขาย ldot ของคุณ ถ้าคุณมีการ
 
 1138
 00:36:56,000 --> 00:37:01,520
-stake dot you get this l dot
+stake dotเอาไว้ เพื่อจะได้ ldot
 
 1139
 00:36:58,320 --> 00:37:03,920
-let's say you sell it all and you have
+สมมุติว่าคุณขายหมดและคุณมี
 
 1140
 00:37:01,520 --> 00:37:06,400
-so what happens then to your original
+แล้วจะเกิดอะไรขึ้นกับตัว dot ดั้งเดิมของคุณ
 
 1141
 00:37:03,920 --> 00:37:09,440
-dot like how do you actually
+คุณจะต้องทำอย่างไร
 
 1142
 00:37:06,400 --> 00:37:12,079
-either pay for that or get get the dot
+จ่ายเงินหรือรับ dot
 
 1143
 00:37:09,440 --> 00:37:14,320
-so think about the outdoor it's like an
+ดังนั้นคิดเกี่ยวกับ ldot มันเหมือน
 
 1144
 00:37:12,079 --> 00:37:15,920
-a receipt or redeems the receipt for
+ใบเสร็จรับเงินหรือแลกใบเสร็จสำหรับ
 
 1145
 00:37:14,320 --> 00:37:18,000
-your stakedown right so if you sell your
+สิทธิการ stake dot ขอคุณ ดังนั้นหากคุณขาย
 
 1146
 00:37:15,920 --> 00:37:20,320
-l dot you actually sell the right
+ldot ของคุณ มันเหมือนกับการที่คุณขายสิทธิ์
 
 1147
 00:37:18,000 --> 00:37:22,160
-to redeem those stocks so it's as if you
+ที่จะได้รับ dotกลับคืนมา ราวกับว่าคุณ
 
 1148
 00:37:20,320 --> 00:37:23,280
-sell the dollar someone else so in the
+ขายดอลลาร์ให้คนอื่น
 
 1149
 00:37:22,160 --> 00:37:25,760
-demo that i just showed
+เหมือนในตัวอย่างที่ฉันเพิ่งแสดง
 
 1150
 00:37:23,280 --> 00:37:26,560
-uh earlier if i transfer some ldl to
+อนหน้านี้ถ้าฉันโอน ldot ไปที่
 
 1151
 00:37:25,760 --> 00:37:28,560
-somewhere else
+ใครสักคน
 
 1152
 00:37:26,560 --> 00:37:29,839
