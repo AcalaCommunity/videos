@@ -208,35 +208,35 @@ Tak więc powiem, że zamierzamy
 
 53
 00:01:39,840 --> 00:01:44,159
-a to jest
+i to jest
 
 54
 00:01:40,640 --> 00:01:45,439
-um, zasadniczo biorę jeden ksm i
+właściwie biorę jeden KSM i
 
 55
 00:01:44,159 --> 00:01:49,360
-wymiana dostaję z
+zamieniam go i otrzymuję
 
 56
 00:01:45,439 --> 00:01:51,200
-dostaję 10 lks i źle ten stosunek
+10 lKSM, a ten współczynnik
 
 57
 00:01:49,360 --> 00:01:53,040
-zależy od systemu
+jest ustalany przez system
 
 58
 00:01:51,200 --> 00:01:55,119
-uh zamierzamy ulepszyć tego użytkownika
+zamierzamy ulepszyć ten interfejs
 
 59
 00:01:53,040 --> 00:01:58,799
-interfejs później, więc zawsze tak mówisz
+użytkownika później, więc zawsze można powiedzieć, że
 
 60
 00:01:55,119 --> 00:01:59,200
-jeden ksm będzie równy jednemu lksm i
+jeden KSM będzie równy jednemu lKSM i
 
 61
 00:01:58,799 --> 00:02:01,600
@@ -244,87 +244,87 @@ następnie
 
 62
 00:01:59,200 --> 00:02:03,360
-jeden lksm będzie równy coraz więcej
+jeden lKSM będzie wart coraz więcej i więcej
 
 63
 00:02:01,600 --> 00:02:05,280
-ksm, kiedy odkupisz później
+KSM, kiedy wykupisz je później
 
 64
 00:02:03,360 --> 00:02:07,439
-to tak, jakbyś się trzymał lksm ciebie
+to jest tak, że jak trzymasz lKSM, to
 
 65
 00:02:05,280 --> 00:02:09,679
-będzie rósł bardzo podobnie jak ty
+wartość będzie rosła bardzo podobnie jak w przypadku
 
 66
 00:02:07,439 --> 00:02:11,200
-oszczędzaj pieniądze w związku, twoje pieniądze będą
+oszczędzanie pieniędzy w Compound. Twoje pieniądze będą
 
 67
 00:02:09,679 --> 00:02:11,760
-rozwijać się tak, jakbyś zarabiał
+wzrastać. To jest sposób w jaki zarabiasz
 
 68
 00:02:11,200 --> 00:02:13,840
-interest
+odsetki
 
 69
 00:02:11,760 --> 00:02:15,440
-ale w tym konkretnym w płynie
+ale w tym szczególnym przypadku płynnego
 
 70
 00:02:13,840 --> 00:02:16,239
-obstawianie zarabiasz na obstawianie
+staking`u. Zarabiasz
 
 71
 00:02:15,440 --> 00:02:20,319
-nagroda
+nagroda za staking
 
 72
 00:02:16,239 --> 00:02:23,360
-lksm śmiało, pozwól mi po prostu
+w lKSM. Pozwól mi
 
 73
 00:02:20,319 --> 00:02:24,720
-wyjaśnij, że tak w tym przypadku możesz zobaczyć
+wyjaśnić, że w tym przypadku widzisz
 
 74
 00:02:23,360 --> 00:02:26,560
-kropka i ja kropka tak
+DOT i lDOT, więc
 
 75
 00:02:24,720 --> 00:02:28,720
-to może być łatwiejsze, więc kim jesteś what
+to może być łatwiejsze, więc to co robisz
 
 76
 00:02:26,560 --> 00:02:31,040
-robisz tutaj to ty stawiasz kropka
+tutaj jest to staking DOT
 
 77
 00:02:28,720 --> 00:02:31,840
-i powiedz, że stawiasz 10 punktów, byś zrobił
+powiedzmy, że stakujesz 10 DOT, mógłbyś
 
 78
 00:02:31,040 --> 00:02:33,920
-get 10
+dostać 10
 
 79
 00:02:31,840 --> 00:02:35,519
-Kropka w zamian i te płynne kropki
+lDOT w zamian i te płynne DOT
 
 80
 00:02:33,920 --> 00:02:38,879
-can be used within
+może być użyte w
 
 81
 00:02:35,519 --> 00:02:39,680
-akala jeśli to kropka, ale co za ruitan
+Acala, jeżeli jest to DOT, ale to czym Ruitao
 
 82
 00:02:38,879 --> 00:02:42,239
-wspomniany jest
+wspomniał jest
 
 83
 00:02:39,680 --> 00:02:43,840
