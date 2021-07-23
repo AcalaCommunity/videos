@@ -1,30 +1,30 @@
 1
 00:00:00,060 --> 00:00:02,470
-[Music]
+[Muzyka]
 
 2
 00:00:05,759 --> 00:00:09,840
-so the next section is about liquid
+Więc, następna sekcja jest o płynnym
 
 3
 00:00:07,520 --> 00:00:11,920
-staking and this is super amazing i
+staking`u i to jest niesamowite
 
 4
 00:00:09,840 --> 00:00:13,840
-i just can't wait to use this feature so
+Po prostu nie mogę się doczekać, aby użyć tej funkcji
 
 5
 00:00:11,920 --> 00:00:14,960
-the liquid staking in essentially in a
+płynny staking jest w zasadzie
 
 6
 00:00:13,840 --> 00:00:17,760
-nutshell is like
+w skrócie jest to
 
 7
 00:00:14,960 --> 00:00:19,119
-it's a matter a trustless staking pool
+rodzaj staking`u niewymagający zaufania
 
 8
 00:00:17,760 --> 00:00:22,080
@@ -36,7 +36,7 @@ your stack asset so think about as like
 
 10
 00:00:22,080 --> 00:00:26,400
-if you're holding kusama today
+jeśli trzymasz dzisiaj kusamę
 
 11
 00:00:24,080 --> 00:00:27,519
@@ -48,7 +48,7 @@ you should
 
 13
 00:00:27,519 --> 00:00:31,279
-every time that you want to spend or you
+za każdym razem, gdy chcesz wydać lub ty
 
 14
 00:00:29,599 --> 00:00:32,000
@@ -56,7 +56,7 @@ want to move your kusama you have this
 
 15
 00:00:31,279 --> 00:00:34,320
-typical
+typowy
 
 16
 00:00:32,000 --> 00:00:35,600
@@ -64,43 +64,43 @@ seven-day outbound period for the
 
 17
 00:00:34,320 --> 00:00:37,600
-security of the network
+bezpieczeństwo sieci
 
 18
 00:00:35,600 --> 00:00:39,760
-and on polkadot it's even longer it's 28
+a na polkadocie jeszcze dłużej to 28
 
 19
 00:00:37,600 --> 00:00:41,520
-days for unbounding your stack assets
+dni na uwolnienie zasobów stosu
 
 20
 00:00:39,760 --> 00:00:43,360
-so what we created as what we call
+więc to, co stworzyliśmy jako to, co nazywamy
 
 21
 00:00:41,520 --> 00:00:45,200
-liquid staking essentially
+płynne stakowanie zasadniczo
 
 22
 00:00:43,360 --> 00:00:46,559
-a trustless staking pool that you can
+nieufna pula, którą możesz
 
 23
 00:00:45,200 --> 00:00:48,879
-stack using
+stos przy użyciu
 
 24
 00:00:46,559 --> 00:00:50,559
-a kura and every time that you stake you
+kura i za każdym razem, gdy cię stawiasz
 
 25
 00:00:48,879 --> 00:00:52,879
-will be getting a receipt
+dostanie paragon
 
 26
 00:00:50,559 --> 00:00:53,600
-of your stake assets because it's
+swoich aktywów stawki, ponieważ jest
 
 27
 00:00:52,879 --> 00:00:56,000
@@ -108,7 +108,7 @@ trustless
 
 28
 00:00:53,600 --> 00:00:57,280
-the receipt of your state asset what is
+otrzymanie twojego majątku państwowego, co jest
 
 29
 00:00:56,000 --> 00:01:00,480
@@ -120,7 +120,7 @@ so lksm is you bailing as long as you
 
 31
 00:01:00,480 --> 00:01:04,080
-hold on to lksm
+trzymaj się lksm
 
 32
 00:01:02,079 --> 00:01:06,080
@@ -128,63 +128,63 @@ you will be earning the staking reward
 
 33
 00:01:04,080 --> 00:01:07,439
-it's also safe because it's trustless
+jest również bezpieczny, ponieważ jest nieufny
 
 34
 00:01:06,080 --> 00:01:10,159
-it's always guaranteed that you can
+zawsze masz gwarancję, że możesz
 
 35
 00:01:07,439 --> 00:01:12,720
-redeem for more
+zrealizuj na więcej
 
 36
 00:01:10,159 --> 00:01:13,280
-ksm when you want to redeem the the ksm
+ksm, kiedy chcesz odkupić ksm
 
 37
 00:01:12,720 --> 00:01:15,600
-back
+plecy
 
 38
 00:01:13,280 --> 00:01:16,400
-so um this is something that's extremely
+więc to jest coś, co jest bardzo
 
 39
 00:01:15,600 --> 00:01:18,159
-extremely
+niezwykle
 
 40
 00:01:16,400 --> 00:01:19,439
-user-friendly i think everyone should be
+przyjazny dla użytkownika, myślę, że każdy powinien być
 
 41
 00:01:18,159 --> 00:01:22,000
-using this if you hold
+używając tego, jeśli trzymasz
 
 42
 00:01:19,439 --> 00:01:22,799
-a hokusama um and i'm gonna demonstrate
+Hokusama um i zamierzam zademonstrować
 
 43
 00:01:22,000 --> 00:01:24,880
-here right so
+tutaj w porządku więc
 
 44
 00:01:22,799 --> 00:01:26,320
-um for me to stay in this stacklist
+um, żebym został na tej liście stosów
 
 45
 00:01:24,880 --> 00:01:28,720
-trusting in this
+ufając w to
 
 46
 00:01:26,320 --> 00:01:30,000
-trustless staking pool it's as simple as
+pula bez zaufania to tak proste, jak
 
 47
 00:01:28,720 --> 00:01:33,280
-i just swapped some
+właśnie zamieniłem trochę
 
 48
 00:01:30,000 --> 00:01:35,040
@@ -192,79 +192,79 @@ some dots or some ksm into lksm we make
 
 49
 00:01:33,280 --> 00:01:36,799
-the user interface looks like swapping
+interfejs użytkownika wygląda jak zamiana
 
 50
 00:01:35,040 --> 00:01:37,520
-but inside instead this is not this is
+ale zamiast tego w środku to nie jest to
 
 51
 00:01:36,799 --> 00:01:39,840
-staking
+obstawianie
 
 52
 00:01:37,520 --> 00:01:40,640
-so i'm gonna say that i'm gonna stick
+więc powiem, że będę się trzymał
 
 53
 00:01:39,840 --> 00:01:44,159
-and this is
+a to jest
 
 54
 00:01:40,640 --> 00:01:45,439
-um i'm essentially taking one ksm and
+um, zasadniczo biorę jeden ksm i
 
 55
 00:01:44,159 --> 00:01:49,360
-exchange i get z
+wymiana dostaję z
 
 56
 00:01:45,439 --> 00:01:51,200
-i get 10 lks and bad the the this ratio
+dostaję 10 lks i źle ten stosunek
 
 57
 00:01:49,360 --> 00:01:53,040
-is determined by the system
+zależy od systemu
 
 58
 00:01:51,200 --> 00:01:55,119
-uh we're going to improve this user
+uh zamierzamy ulepszyć tego użytkownika
 
 59
 00:01:53,040 --> 00:01:58,799
-interface later so it's always say that
+interfejs później, więc zawsze tak mówisz
 
 60
 00:01:55,119 --> 00:01:59,200
-one ksm will be equal to one lksm and
+jeden ksm będzie równy jednemu lksm i
 
 61
 00:01:58,799 --> 00:02:01,600
-then
+następnie
 
 62
 00:01:59,200 --> 00:02:03,360
-one lksm will be equal to more and more
+jeden lksm będzie równy coraz więcej
 
 63
 00:02:01,600 --> 00:02:05,280
-ksm when you redeem later
+ksm, kiedy odkupisz później
 
 64
 00:02:03,360 --> 00:02:07,439
-that's like if you hold on to lksm you
+to tak, jakbyś się trzymał lksm ciebie
 
 65
 00:02:05,280 --> 00:02:09,679
-will be growing very similar to how you
+będzie rósł bardzo podobnie jak ty
 
 66
 00:02:07,439 --> 00:02:11,200
-save money in compound your money will
+oszczędzaj pieniądze w związku, twoje pieniądze będą
 
 67
 00:02:09,679 --> 00:02:11,760
-be growing that's like you are earning
+rozwijać się tak, jakbyś zarabiał
 
 68
 00:02:11,200 --> 00:02:13,840
@@ -272,39 +272,39 @@ interest
 
 69
 00:02:11,760 --> 00:02:15,440
-but in this particular in the in liquid
+ale w tym konkretnym w płynie
 
 70
 00:02:13,840 --> 00:02:16,239
-staking you are earning the staking
+obstawianie zarabiasz na obstawianie
 
 71
 00:02:15,440 --> 00:02:20,319
-reward
+nagroda
 
 72
 00:02:16,239 --> 00:02:23,360
-the lksm go ahead again let me just
+lksm śmiało, pozwól mi po prostu
 
 73
 00:02:20,319 --> 00:02:24,720
-explain that so in this case you can see
+wyjaśnij, że tak w tym przypadku możesz zobaczyć
 
 74
 00:02:23,360 --> 00:02:26,560
-dot and l dot so
+kropka i ja kropka tak
 
 75
 00:02:24,720 --> 00:02:28,720
-that might be easier so what you're
+to może być łatwiejsze, więc kim jesteś what
 
 76
 00:02:26,560 --> 00:02:31,040
-doing here is you're staking dot
+robisz tutaj to ty stawiasz kropka
 
 77
 00:02:28,720 --> 00:02:31,840
-and say you're staking 10 dot you would
+i powiedz, że stawiasz 10 punktów, byś zrobił
 
 78
 00:02:31,040 --> 00:02:33,920
@@ -312,7 +312,7 @@ get 10
 
 79
 00:02:31,840 --> 00:02:35,519
-l dot in return and those liquid dots
+Kropka w zamian i te płynne kropki
 
 80
 00:02:33,920 --> 00:02:38,879
@@ -320,83 +320,83 @@ can be used within
 
 81
 00:02:35,519 --> 00:02:39,680
-akala if it's dot but what what ruitan
+akala jeśli to kropka, ale co za ruitan
 
 82
 00:02:38,879 --> 00:02:42,239
-mentioned is
+wspomniany jest
 
 83
 00:02:39,680 --> 00:02:43,840
-how this l dot is a receipt for your for
+jak ta kropka jest pokwitowaniem za twoje pieniądze?
 
 84
 00:02:42,239 --> 00:02:46,319
-your staked dot
+twoja postawiona kropka
 
 85
 00:02:43,840 --> 00:02:47,360
-so if you can imagine like on the on the
+więc jeśli możesz sobie wyobrazić jak na
 
 86
 00:02:46,319 --> 00:02:48,800
-wallet screen that
+ekran portfela, który
 
 87
 00:02:47,360 --> 00:02:50,720
-route showed you with all of your
+trasa pokazała ci wszystkie twoje
 
 88
 00:02:48,800 --> 00:02:53,280
-balances your l dot
+równoważy twoją l kropkę
 
 89
 00:02:50,720 --> 00:02:54,879
-balance will actually always be going up
+równowaga właściwie zawsze będzie rosła
 
 90
 00:02:53,280 --> 00:02:56,879
-because it's it's showing you it's a
+ponieważ to pokazuje ci, że jest
 
 91
 00:02:54,879 --> 00:02:59,120
-receipt for your staked dot
+pokwitowanie za postawioną kropkę
 
 92
 00:02:56,879 --> 00:03:01,040
-so as your staked dot starts earning
+aby Twoja postawiona kropka zaczęła zarabiać
 
 93
 00:02:59,120 --> 00:03:04,080
-more and more staking rewards that'll be
+coraz więcej nagród za stawkowanie, które będą
 
 94
 00:03:01,040 --> 00:03:06,480
-reflected in your ldot balance so when
+odzwierciedlone w twoim bilansie ldot, więc kiedy
 
 95
 00:03:04,080 --> 00:03:09,760
-you go to redeem your l dot
+idziesz odebrać swoją l kropkę
 
 96
 00:03:06,480 --> 00:03:12,400
-for like native dot at the end
+jak natywna kropka na końcu
 
 97
 00:03:09,760 --> 00:03:13,440
-whenever you want to unstake your l dot
+kiedy chcesz rozbić swoją l kropkę
 
 98
 00:03:12,400 --> 00:03:15,920
-will have gone up
+pójdzie w górę
 
 99
 00:03:13,440 --> 00:03:18,000
-since the moment you actually got your
+od momentu, w którym faktycznie dostałeś swój
 
 100
 00:03:15,920 --> 00:03:19,760
-original l dot if that makes sense
+oryginalna kropka, jeśli to ma sens
 
 101
 00:03:18,000 --> 00:03:22,480
@@ -404,107 +404,107 @@ because it's just it's always reflecting
 
 102
 00:03:19,760 --> 00:03:26,400
-your staking rewards adding on to your
+Twoje nagrody za stawianie dodają się do Twojego
 
 103
 00:03:22,480 --> 00:03:28,720
-stack of ldap yeah think about as if
+stos ldap, tak pomyśl o tym, jakby
 
 104
 00:03:26,400 --> 00:03:30,480
-eldor is a share of the pool
+Eldor jest częścią puli?
 
 105
 00:03:28,720 --> 00:03:32,159
-of the sticking pool and the staking
+sklejania puli i obstawiania
 
 106
 00:03:30,480 --> 00:03:33,760
-pool is growing in size because there's
+basen rośnie, ponieważ jest
 
 107
 00:03:32,159 --> 00:03:35,760
-going to be staking reward that's
+będzie to nagroda za stawianie
 
 108
 00:03:33,760 --> 00:03:37,760
-praying to the pool but you can always
+modląc się do basenu, ale zawsze możesz?
 
 109
 00:03:35,760 --> 00:03:38,480
-redeem um for the same share that you
+odkup um na ten sam udział, co ty
 
 110
 00:03:37,760 --> 00:03:41,040
-put it in
+włóż to
 
 111
 00:03:38,480 --> 00:03:43,120
-so your your that up the the redeeming
+więc twoje to do odkupienia
 
 112
 00:03:41,040 --> 00:03:46,480
-number will be always growing so holding
+liczba zawsze będzie rosła, więc trzymaj
 
 113
 00:03:43,120 --> 00:03:50,799
-lg holding lksm is as if you are
+lg trzymając lksm jest tak, jakbyś był
 
 114
 00:03:46,480 --> 00:03:51,840
-staking yeah and it's slightly if you
+tak obstawiasz i to trochę, jeśli ty
 
 115
 00:03:50,799 --> 00:03:53,680
-have ldl
+mieć ldl
 
 116
 00:03:51,840 --> 00:03:55,680
-or you have lksm because we call it
+albo masz lksm bo tak to nazywamy
 
 117
 00:03:53,680 --> 00:03:57,840
-liquid right it's actually transferable
+płyn, dobrze, że można go przenosić
 
 118
 00:03:55,680 --> 00:03:59,439
-within the archive shot and within the
+w kadrze archiwalnym i w ramach
 
 119
 00:03:57,840 --> 00:04:01,280
-wider pocket ecosystem
+szerszy ekosystem kieszeni
 
 120
 00:03:59,439 --> 00:04:03,200
-you can send ldot to someone else you
+możesz wysłać ldota do kogoś innego
 
 121
 00:04:01,280 --> 00:04:06,080
-can send lksm to someone else
+może wysłać lksm do kogoś innego
 
 122
 00:04:03,200 --> 00:04:07,040
-as he was just moving um as if he's just
+jak on tylko poruszał um, jakby był po prostu
 
 123
 00:04:06,080 --> 00:04:09,920
-moving some
+ruszam trochę
 
 124
 00:04:07,040 --> 00:04:11,200
-of some some transferable assets um the
+niektórych aktywów zbywalnych um
 
 125
 00:04:09,920 --> 00:04:15,120
-the recipient who gets
+odbiorca, który dostaje
 
 126
 00:04:11,200 --> 00:04:18,000
-elder or google gets klks can choose to
+starszy lub google dostaje klks może wybrać
 
 127
 00:04:15,120 --> 00:04:18,400
-continue to hold on the the lksm or l
+nadal trzymaj lksm lub l
 
 128
 00:04:18,000 --> 00:04:20,639
@@ -512,19 +512,19 @@ dot
 
 129
 00:04:18,400 --> 00:04:23,440
-or they can continue to decide to redeem
+lub mogą nadal decydować o wykupie
 
 130
 00:04:20,639 --> 00:04:25,520
-um and get the actual valence dot back
+hm i odzyskaj rzeczywistą kropkę walencyjną
 
 131
 00:04:23,440 --> 00:04:26,960
-so this is like the reason we call it
+więc to jest powód, dla którego to nazywamy
 
 132
 00:04:25,520 --> 00:04:29,120
-liquid is that it's transferable it
+płyn jest to, że można go przenieść
 
 133
 00:04:26,960 --> 00:04:32,000
@@ -532,7 +532,7 @@ could be used for other utility as well
 
 134
 00:04:29,120 --> 00:04:34,320
-and one big utility that you can use
+i jedno duże narzędzie, którego możesz użyć
 
 135
 00:04:32,000 --> 00:04:34,960
@@ -540,11 +540,11 @@ with this lksm is that you can actually
 
 136
 00:04:34,320 --> 00:04:38,639
-borrow
+pożyczać
 
 137
 00:04:34,960 --> 00:04:40,639
-against your lksm and the demo that i
+przeciwko twojemu lksm i demo, które ja
 
 138
 00:04:38,639 --> 00:04:42,080
@@ -552,15 +552,15 @@ showed earlier is that you can borrow
 
 139
 00:04:40,639 --> 00:04:43,600
-against your stack asset
+w stosunku do twojego stosu aktywów
 
 140
 00:04:42,080 --> 00:04:45,040
-so you don't actually have to give up
+więc tak naprawdę nie musisz się poddawać
 
 141
 00:04:43,600 --> 00:04:46,400
-the opportunity cost if you say that you
+koszt alternatywny, jeśli powiesz, że
 
 142
 00:04:45,040 --> 00:04:48,000
@@ -568,107 +568,107 @@ want to borrow against stocks
 
 143
 00:04:46,400 --> 00:04:49,360
-you have to choose that hey do i want to
+musisz wybrać, że hej, ja chcę
 
 144
 00:04:48,000 --> 00:04:51,440
-select these stocks or do i want to
+wybierz te akcje, czy chcę?
 
 145
 00:04:49,360 --> 00:04:53,680
-borrow against my dollar but with ldl
+pożyczyć za mojego dolara, ale z ldl
 
 146
 00:04:51,440 --> 00:04:55,840
-always lksm this is the best of both
+zawsze lksm to jest najlepsze z obu
 
 147
 00:04:53,680 --> 00:04:57,120
-it could be earning the staking reward
+to może być zdobywanie nagrody za obstawianie
 
 148
 00:04:55,840 --> 00:04:58,240
-while you're borrowing against a
+podczas gdy pożyczasz przeciwko
 
 149
 00:04:57,120 --> 00:05:01,600
-position
+pozycja
 
 150
 00:04:58,240 --> 00:05:02,960
-one question um from jack here in the
+jedno pytanie od Jacka tutaj w
 
 151
 00:05:01,600 --> 00:05:04,560
-chat is
+czat jest
 
 152
 00:05:02,960 --> 00:05:07,120
-it's basically like what he said what
+to w zasadzie to, co powiedział, co
 
 153
 00:05:04,560 --> 00:05:08,639
-happens if you trade or sell your ldot
+dzieje się, jeśli handlujesz lub sprzedajesz swój ldot
 
 154
 00:05:07,120 --> 00:05:12,320
-so you have like the stake
+więc masz lubię stawkę
 
 155
 00:05:08,639 --> 00:05:14,960
-dot you get this l dot let's say you
+kropka, rozumiesz, kropka, powiedzmy ci
 
 156
 00:05:12,320 --> 00:05:16,800
-sell it all and you have so what happens
+sprzedaj to wszystko i masz więc co się dzieje
 
 157
 00:05:14,960 --> 00:05:18,560
-then to your original dot like how do
+następnie do oryginalnej kropki, jak to zrobić
 
 158
 00:05:16,800 --> 00:05:21,680
-you actually
+ty właściwie
 
 159
 00:05:18,560 --> 00:05:24,720
-either pay for that or get get the dot
+albo zapłać za to, albo zdobądź kropkę
 
 160
 00:05:21,680 --> 00:05:26,639
-so think about the aldol it's like an a
+więc pomyśl o aldol, to jest jak a
 
 161
 00:05:24,720 --> 00:05:28,320
-receipt or redeems the receipt for your
+paragon lub realizuje paragon dla Twojego
 
 162
 00:05:26,639 --> 00:05:30,240
-stakedown right so if you sell your l
+prawo do obstawiania, więc jeśli sprzedasz swoje l
 
 163
 00:05:28,320 --> 00:05:32,479
-dot you actually sell the right
+czy faktycznie sprzedajesz prawo?
 
 164
 00:05:30,240 --> 00:05:34,080
-to redeem those dots so it's as if you
+odkupić te kropki, żeby to było tak, jakbyś
 
 165
 00:05:32,479 --> 00:05:36,560
-sell the dot to someone else so
+sprzedaj kropkę komuś innemu, więc
 
 166
 00:05:34,080 --> 00:05:38,240
-in the demo that i just showed earlier
+w demo, które właśnie pokazałem wcześniej
 
 167
 00:05:36,560 --> 00:05:38,720
-if i transfer some elder to somewhere
+jeśli przeniosę kogoś starszego gdzieś?
 
 168
 00:05:38,240 --> 00:05:40,720
-else
+w przeciwnym razie
 
 169
 00:05:38,720 --> 00:05:42,080
@@ -676,7 +676,7 @@ i was transferring the the redeem right
 
 170
 00:05:40,720 --> 00:05:43,840
-of the underlying dot
+podstawowej kropki
 
 171
 00:05:42,080 --> 00:05:45,600
@@ -684,35 +684,35 @@ to someone else so it's as if i was
 
 172
 00:05:43,840 --> 00:05:47,280
-transcending dots so if you sew them
+przekraczając kropki, więc jeśli je uszyjesz
 
 173
 00:05:45,600 --> 00:05:47,600
-then you just like as you saw the dots
+wtedy po prostu tak jak widziałeś kropki
 
 174
 00:05:47,280 --> 00:05:50,240
-it's
+jego
 
 175
 00:05:47,600 --> 00:05:51,440
-um it's no longer yours and yeah the
+um, to już nie jest twoje i tak
 
 176
 00:05:50,240 --> 00:05:54,560
-redeem right for that
+wykorzystaj prawo do tego
 
 177
 00:05:51,440 --> 00:05:57,199
-length is also no longer yours okay
+długość też nie jest już twoja w porządku
 
 178
 00:05:54,560 --> 00:05:58,080
-so the the l dot isn't connected
+więc kropka l nie jest połączona
 
 179
 00:05:57,199 --> 00:06:00,479
-directly to
+bezpośrednio
 
 180
 00:05:58,080 --> 00:06:02,000
@@ -720,7 +720,7 @@ like a specific dot it's kind of that
 
 181
 00:06:00,479 --> 00:06:03,840
-pool so if i
+basen, więc jeśli ja?
 
 182
 00:06:02,000 --> 00:06:05,840
@@ -728,207 +728,207 @@ so if jack here who asked the question
 
 183
 00:06:03,840 --> 00:06:07,520
-sent me his l dot i could type that l
+wysłał mi swoją kropkę, mógłbym to napisać l
 
 184
 00:06:05,840 --> 00:06:11,520
-dot and redeem it for dot
+kropka i wymień ją na kropkę
 
 185
 00:06:07,520 --> 00:06:13,440
-in the akala pool yes yeah okay
+w basenie akala tak tak dobrze?
 
 186
 00:06:11,520 --> 00:06:14,960
-yeah the moment that you the moment that
+tak, chwila, w której ty, chwila, w której
 
 187
 00:06:13,440 --> 00:06:17,520
-you stick with the the
+trzymasz się
 
 188
 00:06:14,960 --> 00:06:18,479
-um the liquid sticking pool um the dog
+um kałuża cieczy um psa?
 
 189
 00:06:17,520 --> 00:06:20,560
-enter the pool
+wejdź do basenu
 
 190
 00:06:18,479 --> 00:06:22,160
-and you essentially get is that what you
+i zasadniczo dostajesz to, co ty
 
 191
 00:06:20,560 --> 00:06:22,800
-essentially get back is the right to
+zasadniczo powrót to prawo do
 
 192
 00:06:22,160 --> 00:06:24,479
-redeem
+odkupić
 
 193
 00:06:22,800 --> 00:06:26,400
-for the dog and because thought itself
+dla psa i dlatego, że sama myśl
 
 194
 00:06:24,479 --> 00:06:27,759
-is not functional it's fungible like
+nie jest funkcjonalny jest wymienny jak
 
 195
 00:06:26,400 --> 00:06:29,520
-every single dog is the same
+każdy pies jest taki sam
 
 196
 00:06:27,759 --> 00:06:30,960
-you can't say that okay that dog is my
+nie możesz powiedzieć, że ok, ten pies jest mój
 
 197
 00:06:29,520 --> 00:06:33,120
-dog and that dog is your dog they are
+pies i ten pies jest twoim psem, oni są
 
 198
 00:06:30,960 --> 00:06:35,600
-all dots
+wszystkie kropki
 
 199
 00:06:33,120 --> 00:06:37,520
-yes this guy the sage law said so the
+tak, ten facet, tak powiedziało prawo mędrca
 
 200
 00:06:35,600 --> 00:06:39,840
-l-dot is like the title to a car
+l-dot jest jak tytuł samochodu
 
 201
 00:06:37,520 --> 00:06:41,440
-so if you sell the title someone else
+więc jeśli sprzedasz tytuł komuś innemu
 
 202
 00:06:39,840 --> 00:06:45,360
-kind of owns the car
+rodzaj posiada samochód
 
 203
 00:06:41,440 --> 00:06:48,240
-yes since um another good question is
+tak, ponieważ innym dobrym pytaniem jest
 
 204
 00:06:45,360 --> 00:06:48,960
-basically could you explain how the the
+w zasadzie czy mógłbyś wyjaśnić, w jaki sposób
 
 205
 00:06:48,240 --> 00:06:50,800
-interest
+zainteresowanie
 
 206
 00:06:48,960 --> 00:06:52,160
-or the staking interest works since
+lub zainteresowanie stawką działa od
 
 207
 00:06:50,800 --> 00:06:54,960
-you're staking
+ty stawiasz
 
 208
 00:06:52,160 --> 00:06:56,240
-with a kala versus i guess in the in
+z kala kontra chyba w in
 
 209
 00:06:54,960 --> 00:06:58,080
-this case with kerra so if you're
+ten przypadek z Kerra, więc jeśli jesteś
 
 210
 00:06:56,240 --> 00:06:59,199
-staking your ksm with kura it's not
+Stawiasz swój ksm z kurą, to nie jest
 
 211
 00:06:58,080 --> 00:07:01,680
-staking like
+obstawianie jak
 
 212
 00:06:59,199 --> 00:07:03,280
-directly into the kusama chain there's
+bezpośrednio do łańcucha kusama jest
 
 213
 00:07:01,680 --> 00:07:04,160
-this there's this kind of application
+to jest taki rodzaj aplikacji
 
 214
 00:07:03,280 --> 00:07:05,919
-layer so
+warstwa tak
 
 215
 00:07:04,160 --> 00:07:07,599
-they're asking who is paying that
+pytają, kto to płaci
 
 216
 00:07:05,919 --> 00:07:10,720
-percent interest for
+procent odsetek za
 
 217
 00:07:07,599 --> 00:07:12,160
-um in the career case lksm staking like
+um w przypadku kariery lksm staking jak
 
 218
 00:07:10,720 --> 00:07:13,360
-how does that work
+Jak to działa
 
 219
 00:07:12,160 --> 00:07:15,199
-well awesome like this is a good
+dobrze, jak to jest dobre?
 
 220
 00:07:13,360 --> 00:07:17,360
-question right so the um
+słuszne pytanie, więc um
 
 221
 00:07:15,199 --> 00:07:19,280
-think about the um the liquid staking
+pomyśl o um płynnym stakingu
 
 222
 00:07:17,360 --> 00:07:21,680
-pool as a trustless staking pool
+pula jako nieufna pula do obstawiania
 
 223
 00:07:19,280 --> 00:07:23,360
-the dot order the ksm that you deposit
+kropka zamów KSM, który wpłacasz
 
 224
 00:07:21,680 --> 00:07:24,319
-into the pool will be managed by the
+do puli będzie zarządzany przez
 
 225
 00:07:23,360 --> 00:07:26,479
-network and the
+sieć i
 
 226
 00:07:24,319 --> 00:07:27,360
-network will then nominate those dots
+sieć wyznaczy te kropki
 
 227
 00:07:26,479 --> 00:07:30,240
-into the
+do
 
 228
 00:07:27,360 --> 00:07:31,599
-um validator within the kusama network
+um walidator w sieci kusama
 
 229
 00:07:30,240 --> 00:07:33,840
-and if this dot is
+a jeśli ta kropka to
 
 230
 00:07:31,599 --> 00:07:36,720
-this full size is growing size it will
+ten pełny rozmiar rośnie, będzie
 
 231
 00:07:33,840 --> 00:07:38,960
-be managed it will be nominated across
+być zarządzany będzie nominowany w całej
 
 232
 00:07:36,720 --> 00:07:40,160
-multiple validators uh in the in the
+wiele walidatorów uh w in the
 
 233
 00:07:38,960 --> 00:07:43,280
-kusama network
+sieć kusama
 
 234
 00:07:40,160 --> 00:07:44,000
@@ -936,7 +936,7 @@ so ultimately the staking reward of the
 
 235
 00:07:43,280 --> 00:07:47,280
-of
+z
 
 236
 00:07:44,000 --> 00:07:49,680
@@ -944,31 +944,31 @@ staking by minting the lksm would be
 
 237
 00:07:47,280 --> 00:07:50,319
-equivalent to the average eu of the
+równoważne średniej ue z of
 
 238
 00:07:49,680 --> 00:07:52,479
-network
+sieć
 
 239
 00:07:50,319 --> 00:07:53,599
-it will be safer because like d2 is
+będzie bezpieczniej bo jak d2 to
 
 240
 00:07:52,479 --> 00:07:55,919
-spread across
+rozłożone
 
 241
 00:07:53,599 --> 00:07:56,639
-multiple validators so even a slash
+wiele walidatorów, więc nawet ukośnik
 
 242
 00:07:55,919 --> 00:07:59,680
-happens
+dzieje się
 
 243
 00:07:56,639 --> 00:08:02,240
-the risk of like the pool is
+ryzyko jak basen jest?
 
 244
 00:07:59,680 --> 00:08:04,000
@@ -976,7 +976,7 @@ sort of like meditated um because only
 
 245
 00:08:02,240 --> 00:08:04,400
-slash a proportion a tiny portion of
+uciąć proporcję niewielką część
 
 246
 00:08:04,000 --> 00:08:06,560
@@ -984,27 +984,27 @@ that
 
 247
 00:08:04,400 --> 00:08:08,319
-but the same um the sticking reward is
+ale ta sama nagroda jest the
 
 248
 00:08:06,560 --> 00:08:10,400
-also the average yield
+również średnia wydajność
 
 249
 00:08:08,319 --> 00:08:11,520
-it's like a safe average view of the
+to jak bezpieczny przeciętny widok view
 
 250
 00:08:10,400 --> 00:08:15,520
-expected return
+spodziewany powrót
 
 251
 00:08:11,520 --> 00:08:19,280
-of the network and one key other um
+sieci i jeden klucz inny um
 
 252
 00:08:15,520 --> 00:08:22,400
-fact we need to understand is also the
+faktem, który musimy zrozumieć, jest również
 
 253
 00:08:19,280 --> 00:08:24,000
@@ -1012,7 +1012,7 @@ l ksm holders actually uh can vote for
 
 254
 00:08:22,400 --> 00:08:25,039
-validators so this is what we are
+walidatorami, więc tacy właśnie jesteśmy
 
 255
 00:08:24,000 --> 00:08:27,360
@@ -1020,11 +1020,11 @@ working progress so
 
 256
 00:08:25,039 --> 00:08:28,400
-when you meet lksm you get you have the
+kiedy spotykasz lksm, masz
 
 257
 00:08:27,360 --> 00:08:32,080
-the right to say that i
+prawo do powiedzenia, że ​​ja
 
 258
 00:08:28,400 --> 00:08:34,959
@@ -1032,43 +1032,43 @@ prefer the pool to validate and delegate
 
 259
 00:08:32,080 --> 00:08:35,599
-the ksm into this set of validators and
+KSM do tego zestawu walidatorów i
 
 260
 00:08:34,959 --> 00:08:38,080
-ultimately
+ostatecznie
 
 261
 00:08:35,599 --> 00:08:39,519
-the pool will check all the input from
+pula sprawdzi wszystkie dane wejściowe z
 
 262
 00:08:38,080 --> 00:08:42,640
-the lksm holders
+posiadacze lksm
 
 263
 00:08:39,519 --> 00:08:44,880
-and nominate those um those kikusama
+i nominuj tych um tych kikusama
 
 264
 00:08:42,640 --> 00:08:46,800
-for across all the validators as
+dla wszystkich walidatorów, jak
 
 265
 00:08:44,880 --> 00:08:48,800
-proportion as a portion
+proporcja jako porcja
 
 266
 00:08:46,800 --> 00:08:50,959
-with kusama now if you're staking
+z kusamą teraz, jeśli obstawiasz
 
 267
 00:08:48,800 --> 00:08:52,560
-through polka dot js it's you as a user
+przez polka dot js to ty jako użytkownik
 
 268
 00:08:50,959 --> 00:08:55,279
-staking directly to
+stawianie bezpośrednio na
 
 269
 00:08:52,560 --> 00:08:56,000
@@ -1076,95 +1076,95 @@ a validator or a set of validators in
 
 270
 00:08:55,279 --> 00:08:57,920
-this case
+ta sprawa
 
 271
 00:08:56,000 --> 00:08:59,279
-in this case there's kirura in the
+w tym przypadku jest kirura w
 
 272
 00:08:57,920 --> 00:09:01,680
-middle so you
+środek więc ty
 
 273
 00:08:59,279 --> 00:09:02,320
-stake with karua karua distributes the
+kołek z karua karua rozdziela
 
 274
 00:09:01,680 --> 00:09:04,959
-stake of
+stawka
 
 275
 00:09:02,320 --> 00:09:06,959
-everyone on karua to an evenly
+wszyscy na karua do równo
 
 276
 00:09:04,959 --> 00:09:09,279
-distributed set of validators across
+rozproszony zestaw walidatorów w całej
 
 277
 00:09:06,959 --> 00:09:10,080
-kusama and then all the returns coming
+kusama, a potem wszystkie powroty nadchodzą
 
 278
 00:09:09,279 --> 00:09:12,480
-in from
+w od
 
 279
 00:09:10,080 --> 00:09:14,640
-those validators are pooled and then
+te walidatory są łączone, a następnie
 
 280
 00:09:12,480 --> 00:09:16,640
-evenly distributed at the average
+równomiernie rozłożone średnio
 
 281
 00:09:14,640 --> 00:09:18,640
-across all the validators that carrera
+we wszystkich walidatorach, które Carrera
 
 282
 00:09:16,640 --> 00:09:20,720
-is staking with
+Stawiasz z
 
 283
 00:09:18,640 --> 00:09:22,480
-yes and if this is like a centralized
+tak, a jeśli to jest jak scentralizowane
 
 284
 00:09:20,720 --> 00:09:22,800
-staking service then you have the risk
+usługa stakingu to masz ryzyko
 
 285
 00:09:22,480 --> 00:09:25,440
-of
+z
 
 286
 00:09:22,800 --> 00:09:27,120
-the centralized entity being default you
+scentralizowany podmiot jest domyślnym tobą
 
 287
 00:09:25,440 --> 00:09:28,240
-have this chart you have to trust the
+masz ten wykres, musisz zaufać
 
 288
 00:09:27,120 --> 00:09:30,320
-centralized entity
+scentralizowana jednostka
 
 289
 00:09:28,240 --> 00:09:32,560
-um to do the right thing but since um
+hm zrobić właściwą rzecz, ale skoro hm
 
 290
 00:09:30,320 --> 00:09:33,279
-the liquid staking protocol that we
+protokół tyczenia płynów, który my
 
 291
 00:09:32,560 --> 00:09:35,680
-currently have
+obecnie mam
 
 292
 00:09:33,279 --> 00:09:36,399
-is trustless everything is managed on
+jest nieufny, wszystko jest zarządzane
 
 293
 00:09:35,680 --> 00:09:38,000
@@ -1172,59 +1172,59 @@ chen
 
 294
 00:09:36,399 --> 00:09:39,920
-uh you can think of like it's like an
+uh możesz myśleć, jakby to było jak
 
 295
 00:09:38,000 --> 00:09:42,160
-advanced version of smart contract
+zaawansowana wersja smart kontraktu
 
 296
 00:09:39,920 --> 00:09:43,600
-um everyone is staking in a trustless
+hm wszyscy stawiają w nieufnym
 
 297
 00:09:42,160 --> 00:09:46,800
-way and there's no risk of
+sposób i nie ma ryzyka
 
 298
 00:09:43,600 --> 00:09:47,920
-um of being um managed by one single
+um bycia zarządzanym przez jednego singla
 
 299
 00:09:46,800 --> 00:09:49,760
-centralized entity
+scentralizowana jednostka
 
 300
 00:09:47,920 --> 00:09:51,680
-so this is the i think this is awesome
+więc myślę, że to jest niesamowite
 
 301
 00:09:49,760 --> 00:09:54,880
-this is the way to go um for
+to jest droga do um
 
 302
 00:09:51,680 --> 00:09:56,880
-um in a sense yokusama even you stick
+um w pewnym sensie yokusama nawet ty się trzymasz
 
 303
 00:09:54,880 --> 00:09:59,920
-through the liquid staking
+przez tyczenie płynów
 
 304
 00:09:56,880 --> 00:10:02,399
-the yokusama never leave your custody
+yokusama nigdy nie opuszczają twojej opieki
 
 305
 00:09:59,920 --> 00:10:04,560
-okay so by staking or by making dot
+okej więc przez postawienie lub zrobienie kropki
 
 306
 00:10:02,399 --> 00:10:05,519
-liquid are we compromising the safety of
+płyn czy zagrażamy bezpieczeństwu?
 
 307
 00:10:04,560 --> 00:10:08,720
-the polka dot
+kropka
 
 308
 00:10:05,519 --> 00:10:10,320
@@ -1232,15 +1232,15 @@ chain the dot can be slash uh still be
 
 309
 00:10:08,720 --> 00:10:13,360
-slashed right
+przecięte w prawo
 
 310
 00:10:10,320 --> 00:10:14,880
-um what happens then the
+co się wtedy dzieje?
 
 311
 00:10:13,360 --> 00:10:17,760
-so basically he's asking what happens
+więc w zasadzie pyta, co się dzieje
 
 312
 00:10:14,880 --> 00:10:19,440
@@ -1248,7 +1248,7 @@ with like network security and slashing
 
 313
 00:10:17,760 --> 00:10:21,519
-okay i think this is an awesome question
+ok, myślę, że to niesamowite pytanie
 
 314
 00:10:19,440 --> 00:10:23,760
@@ -1256,11 +1256,11 @@ right so um if the
 
 315
 00:10:21,519 --> 00:10:24,880
-polka dots network security can be
+Bezpieczeństwo sieci w kropki może być
 
 316
 00:10:23,760 --> 00:10:27,600
-compromised
+skompromitowany
 
 317
 00:10:24,880 --> 00:10:28,800
@@ -1276,7 +1276,7 @@ and make it transferable and making
 
 320
 00:10:31,360 --> 00:10:34,399
-liquids
+płyny
 
 321
 00:10:32,000 --> 00:10:35,200
@@ -1284,7 +1284,7 @@ then i think it's going to happen anyway
 
 322
 00:10:34,399 --> 00:10:36,959
-like there's always
+jak zawsze
 
 323
 00:10:35,200 --> 00:10:38,640
@@ -1296,35 +1296,35 @@ stick with finance today
 
 325
 00:10:38,640 --> 00:10:41,440
-you can already transfer your stack
+możesz już przenieść swój stos
 
 326
 00:10:40,079 --> 00:10:42,240
-asset you can trade it in the market or
+aktywa, którymi możesz handlować na rynku lub
 
 327
 00:10:41,440 --> 00:10:44,160
-things like that
+Rzeczy jak te
 
 328
 00:10:42,240 --> 00:10:46,079
-so the thing is that i we don't think
+więc chodzi o to, że nie myślimy
 
 329
 00:10:44,160 --> 00:10:47,920
-this is going to affect the um the
+to wpłynie na um
 
 330
 00:10:46,079 --> 00:10:48,800
-pokedex network security at all because
+bezpieczeństwo sieci pokedex w ogóle, ponieważ
 
 331
 00:10:47,920 --> 00:10:52,160
-ultimately
+ostatecznie
 
 332
 00:10:48,800 --> 00:10:54,399
-if by simply reprogram or by gaming
+jeśli po prostu przeprogramuj lub grając
 
 333
 00:10:52,160 --> 00:10:55,680
@@ -1332,19 +1332,19 @@ by by building something on top of the
 
 334
 00:10:54,399 --> 00:10:56,959
-network and you can affect
+sieć i możesz wpływać
 
 335
 00:10:55,680 --> 00:10:59,200
-security then there's actually a
+bezpieczeństwo to właściwie jest
 
 336
 00:10:56,959 --> 00:11:00,800
-security problem of the underlying layer
+problem bezpieczeństwa warstwy podstawowej
 
 337
 00:10:59,200 --> 00:11:02,480
-in this in our case we don't think
+w tym przypadku nie myślimy
 
 338
 00:11:00,800 --> 00:11:05,040
@@ -1352,31 +1352,31 @@ that's going to have any problem
 
 339
 00:11:02,480 --> 00:11:05,519
-um the other key stuff to think about if
+um inne kluczowe rzeczy do przemyślenia, jeśli
 
 340
 00:11:05,040 --> 00:11:07,760
-you step
+Ty kroczysz
 
 341
 00:11:05,519 --> 00:11:08,560
-through this particular liquid staking
+przez ten konkretny płynny staking
 
 342
 00:11:07,760 --> 00:11:11,040
-pool you
+basen ty?
 
 343
 00:11:08,560 --> 00:11:12,560
-actually do not have the like the
+w rzeczywistości nie mają czegoś takiego
 
 344
 00:11:11,040 --> 00:11:14,640
-risk-free way to say that you are no
+wolny od ryzyka sposób na powiedzenie, że nie jesteś
 
 345
 00:11:12,560 --> 00:11:18,160
-longer getting chance of getting slashed
+już ma szansę na cięcie
 
 346
 00:11:14,640 --> 00:11:20,000
@@ -1392,59 +1392,59 @@ let's say across um 50
 
 349
 00:11:23,200 --> 00:11:27,040
-validators and one of those getting
+walidatory i jeden z tych, którzy otrzymują
 
 350
 00:11:24,959 --> 00:11:28,399
-slashed the pool actually will get a hit
+przeciął basen faktycznie dostanie trafienie?
 
 351
 00:11:27,040 --> 00:11:31,279
-of getting this slashed
+dostania tego cięcia
 
 352
 00:11:28,399 --> 00:11:32,160
-but the the the result of like spreading
+ale wynik podobnego rozprzestrzeniania się
 
 353
 00:11:31,279 --> 00:11:34,480
-this pool
+ten basen?
 
 354
 00:11:32,160 --> 00:11:36,160
-um across 50 validator is that even
+um w walidatorze 50, czy to nawet
 
 355
 00:11:34,480 --> 00:11:37,120
-though you you're getting slash in one
+chociaż w jednym dostajesz cięcie
 
 356
 00:11:36,160 --> 00:11:39,440
-validator
+walidator
 
 357
 00:11:37,120 --> 00:11:41,200
-the overall damage for the whole pool is
+ogólne szkody dla całej puli są?
 
 358
 00:11:39,440 --> 00:11:41,680
-uh particularly low and that's why i say
+uh szczególnie nisko i dlatego mówię
 
 359
 00:11:41,200 --> 00:11:43,680
-it's a
+to jest
 
 360
 00:11:41,680 --> 00:11:45,279
-safe way to stake it's getting the
+bezpieczny sposób na stawkę to robi getting
 
 361
 00:11:43,680 --> 00:11:47,120
-average view of the network
+przeciętny widok sieci
 
 362
 00:11:45,279 --> 00:11:48,399
-it's not trying to seek for the maximum
+nie próbuje dążyć do maksimum
 
 363
 00:11:47,120 --> 00:11:50,000
@@ -1452,7 +1452,7 @@ return um
 
 364
 00:11:48,399 --> 00:11:52,079
-but it's also a very very user-friendly
+ale jest też bardzo przyjazny dla użytkownika
 
 365
 00:11:50,000 --> 00:11:54,639
@@ -1464,27 +1464,27 @@ the expected return of the network
 
 367
 00:11:54,639 --> 00:11:57,680
-if you were stating by yourself and if
+czy stwierdzałeś sam i czy
 
 368
 00:11:56,240 --> 00:11:58,240
-you're nominating your dot to one
+nominujesz swoją kropkę do jednego
 
 369
 00:11:57,680 --> 00:12:00,560
-particular
+szczególny
 
 370
 00:11:58,240 --> 00:12:02,480
-um validator and then if that validator
+um walidator, a następnie jeśli ten walidator
 
 371
 00:12:00,560 --> 00:12:04,079
-was misbehaving is slashed
+źle się zachowywał jest cięty
 
 372
 00:12:02,480 --> 00:12:06,160
-then you will get a you will take a
+wtedy dostaniesz, że weźmiesz
 
 373
 00:12:04,079 --> 00:12:08,000
@@ -1496,7 +1496,7 @@ if you stick through this pool there's
 
 375
 00:12:08,000 --> 00:12:12,079
-still chances that value
+wciąż szanse, że wartość
 
 376
 00:12:09,440 --> 00:12:13,040
@@ -1504,19 +1504,19 @@ gets less but the overall cost for the
 
 377
 00:12:12,079 --> 00:12:17,279
-pool holders
+posiadacze basenu
 
 378
 00:12:13,040 --> 00:12:19,279
-will be even out and will be reduced
+zostanie wyrównana i zmniejszona
 
 379
 00:12:17,279 --> 00:12:20,480
-one of the current issues on polka dot
+jeden z aktualnych numerów na polka dot
 
 380
 00:12:19,279 --> 00:12:22,079
-and kusama right now
+i teraz kusama
 
 381
 00:12:20,480 --> 00:12:23,600
@@ -1532,19 +1532,19 @@ becoming super high on polka dot and
 
 384
 00:12:25,920 --> 00:12:30,560
-also on kusama
+także na kusama
 
 385
 00:12:27,519 --> 00:12:33,839
-um so what this allows is
+um, więc pozwala to
 
 386
 00:12:30,560 --> 00:12:36,240
-for people to come in and stake dot with
+aby ludzie mogli wejść i postawić kropkę
 
 387
 00:12:33,839 --> 00:12:37,120
-like virtually no minimum right like
+jak praktycznie nie ma minimalnego prawa jak
 
 388
 00:12:36,240 --> 00:12:40,000
@@ -1552,7 +1552,7 @@ what would the yes
 
 389
 00:12:37,120 --> 00:12:41,040
-what would the actual minimum be so this
+jakie byłoby faktyczne minimum, więc to?
 
 390
 00:12:40,000 --> 00:12:43,440
@@ -1564,11 +1564,11 @@ i have friends that has like 40 dots
 
 392
 00:12:43,440 --> 00:12:46,560
-right and my friend really want to stake
+racja, a mój przyjaciel naprawdę chce się postawić
 
 393
 00:12:45,200 --> 00:12:47,839
-but you can't because the minimum
+ale nie możesz, bo minimum
 
 394
 00:12:46,560 --> 00:12:50,000
@@ -1576,7 +1576,7 @@ staking amount on product
 
 395
 00:12:47,839 --> 00:12:51,200
-currently i think it's over 200 which is
+obecnie myślę, że to ponad 200, co jest
 
 396
 00:12:50,000 --> 00:12:53,920
@@ -1584,7 +1584,7 @@ um a lot
 
 397
 00:12:51,200 --> 00:12:55,440
-but in this if you stick through um kura
+ale w tym, jeśli przetrwasz um kura
 
 398
 00:12:53,920 --> 00:12:56,959
@@ -1592,31 +1592,31 @@ or if you stick through alcala
 
 399
 00:12:55,440 --> 00:12:58,639
-you actually can get you can actually
+faktycznie możesz dostać, naprawdę możesz
 
 400
 00:12:56,959 --> 00:13:01,040
-bypass this limitation
+omiń to ograniczenie
 
 401
 00:12:58,639 --> 00:13:02,399
-because like the pool itself like this
+bo jak sam basen tak?
 
 402
 00:13:01,040 --> 00:13:04,320
-particular address uh
+konkretny adres uh
 
 403
 00:13:02,399 --> 00:13:06,079
-controlled by the protocol uh will
+kontrolowane przez protokół uh będzie
 
 404
 00:13:04,320 --> 00:13:08,800
-actually definitely have more than 200
+faktycznie na pewno mają ponad 200
 
 405
 00:13:06,079 --> 00:13:10,399
-dots to nominate so no matter how much
+kropki do nominowania, więc nie ważne ile
 
 406
 00:13:08,800 --> 00:13:12,160
@@ -1644,11 +1644,11 @@ we can definitely bypass that and then
 
 412
 00:13:22,160 --> 00:13:25,760
-the other thing is
+druga rzecz to
 
 413
 00:13:23,519 --> 00:13:26,639
-um people who are staking through polka
+hm ludzie, którzy obstawiają polkę
 
 414
 00:13:25,760 --> 00:13:30,079
@@ -1656,31 +1656,31 @@ dot js
 
 415
 00:13:26,639 --> 00:13:32,959
-or um any of the other kind of
+lub um innego rodzaju
 
 416
 00:13:30,079 --> 00:13:34,639
-more native staking like not exchanges
+bardziej natywne obstawianie jak nie giełdy
 
 417
 00:13:32,959 --> 00:13:37,680
-and centralized stuff
+i scentralizowane rzeczy
 
 418
 00:13:34,639 --> 00:13:39,680
-with polka dot js right now you stake
+z polka dot js teraz stawiasz
 
 419
 00:13:37,680 --> 00:13:41,199
-ksm and you have to do this seven day
+ksm i musisz to zrobić siedem dni
 
 420
 00:13:39,680 --> 00:13:42,959
-unbonding period
+okres rozwiązania
 
 421
 00:13:41,199 --> 00:13:45,360
-and then with polka dot it's even longer
+a potem z polka dot jeszcze dłużej
 
 422
 00:13:42,959 --> 00:13:46,880
@@ -1692,7 +1692,7 @@ unlock
 
 424
 00:13:46,880 --> 00:13:50,320
-with uh with karua and with akala you
+z uh z karua i z akala you
 
 425
 00:13:49,519 --> 00:13:52,000
@@ -1700,7 +1700,7 @@ can
 
 426
 00:13:50,320 --> 00:13:53,360
-and we're talking maybe you can show
+i rozmawiamy, może możesz pokazać
 
 427
 00:13:52,000 --> 00:13:56,480
@@ -1708,7 +1708,7 @@ this but um
 
 428
 00:13:53,360 --> 00:13:56,959
-basically you can unstake early for a
+w zasadzie możesz rozłożyć wcześnie na
 
 429
 00:13:56,480 --> 00:14:00,000
@@ -1716,7 +1716,7 @@ small
 
 430
 00:13:56,959 --> 00:14:01,519
-fee yes so the design of the liquid
+opłata tak, więc projekt płynu
 
 431
 00:14:00,000 --> 00:14:02,000
@@ -1724,7 +1724,7 @@ sticking pool is that if i go to the
 
 432
 00:14:01,519 --> 00:14:03,839
-advanced
+zaawansowane
 
 433
 00:14:02,000 --> 00:14:06,079
@@ -1732,47 +1732,47 @@ tab you will see that we always have
 
 434
 00:14:03,839 --> 00:14:08,320
-some maintenance some free
+trochę konserwacji trochę za darmo
 
 435
 00:14:06,079 --> 00:14:09,600
-dots or some free kusama available for
+kropki lub trochę darmowej kusamy dostępnej za
 
 436
 00:14:08,320 --> 00:14:11,760
-redeem immediately
+odbierz natychmiast
 
 437
 00:14:09,600 --> 00:14:13,279
-so let's say that if an user we really
+więc powiedzmy, że jeśli użytkownik naprawdę
 
 438
 00:14:11,760 --> 00:14:16,560
-want to redeem
+chcesz odkupić
 
 439
 00:14:13,279 --> 00:14:18,320
-the l back to dots immediately you can
+l z powrotem do kropek natychmiast możesz
 
 440
 00:14:16,560 --> 00:14:21,680
-do so because there's always
+rób to, bo zawsze jest
 
 441
 00:14:18,320 --> 00:14:22,320
-a portion to set aside um for free um to
+porcja do odłożenia um za darmo um do
 
 442
 00:14:21,680 --> 00:14:23,760
-redeem
+odkupić
 
 443
 00:14:22,320 --> 00:14:25,680
-but if you want to redeem immediately
+ale jeśli chcesz odkupić natychmiast
 
 444
 00:14:23,760 --> 00:14:28,320
-you need to pay a fee to cover the
+musisz uiścić opłatę, aby pokryć
 
 445
 00:14:25,680 --> 00:14:29,519
@@ -1780,7 +1780,7 @@ otherwise lost return of those free
 
 446
 00:14:28,320 --> 00:14:31,440
-portion of the pool
+część basenu?
 
 447
 00:14:29,519 --> 00:14:32,720
@@ -1788,7 +1788,7 @@ um and also like this is not option this
 
 448
 00:14:31,440 --> 00:14:33,279
-is not compulsory so if you want to
+nie jest obowiązkowe, więc jeśli chcesz
 
 449
 00:14:32,720 --> 00:14:35,120
@@ -1796,23 +1796,23 @@ redeem
 
 450
 00:14:33,279 --> 00:14:36,399
-there's actually three way for you to
+właściwie są trzy sposoby, aby
 
 451
 00:14:35,120 --> 00:14:37,839
-redeem you can say that i want to redeem
+odkupić możesz powiedzieć, że chcę odkupić
 
 452
 00:14:36,399 --> 00:14:38,480
-now then i will so i will have to pay
+teraz to zrobię, więc będę musiał zapłacić
 
 453
 00:14:37,839 --> 00:14:40,800
-some fee
+trochę opłaty
 
 454
 00:14:38,480 --> 00:14:41,600
-all you said i was gonna redeem the
+wszystko, co powiedziałeś, że wykupię to
 
 455
 00:14:40,800 --> 00:14:43,920
@@ -1820,7 +1820,7 @@ typical way
 
 456
 00:14:41,600 --> 00:14:44,880
-um that's like waiting for the standard
+um to jak czekanie na standard
 
 457
 00:14:43,920 --> 00:14:47,279
@@ -1828,63 +1828,63 @@ unbounding period
 
 458
 00:14:44,880 --> 00:14:48,800
-you can free to do so or you can also
+możesz to zrobić swobodnie lub możesz też
 
 459
 00:14:47,279 --> 00:14:49,279
-redeem to say that i want to redeem and
+odkupić, aby powiedzieć, że chcę odkupić i
 
 460
 00:14:48,800 --> 00:14:52,560
-there's
+jest
 
 461
 00:14:49,279 --> 00:14:54,399
-a cue of unbounding um dots on the
+wskazówka nieograniczonych kropek um na
 
 462
 00:14:52,560 --> 00:14:55,760
-on the on the on the on the staking pool
+z dnia na dzień na puli do obstawiania
 
 463
 00:14:54,399 --> 00:14:58,399
-because like will be always
+bo jak zawsze będzie
 
 464
 00:14:55,760 --> 00:14:59,279
-rebalanced between the stick dots and on
+zrównoważono między kropkami drążka i wł.
 
 465
 00:14:58,399 --> 00:15:00,959
-an unstacked dot
+nieułożona kropka
 
 466
 00:14:59,279 --> 00:15:02,720
-so you can choose that which maybe like
+więc możesz wybrać to, co może Ci się spodobać
 
 467
 00:15:00,959 --> 00:15:04,399
-five days later you need the dots that
+pięć dni później potrzebujesz kropek, które
 
 468
 00:15:02,720 --> 00:15:06,560
-would be at that particular price
+byłby w tej konkretnej cenie
 
 469
 00:15:04,399 --> 00:15:07,920
-so it's actually a lot of like advanced
+więc to właściwie jest bardzo zaawansowane
 
 470
 00:15:06,560 --> 00:15:08,480
-feature hidden in here that you can
+ukryta tutaj funkcja, którą możesz
 
 471
 00:15:07,920 --> 00:15:10,639
-redeem
+odkupić
 
 472
 00:15:08,480 --> 00:15:12,480
-in multiple way um you can redeem at no
+na wiele sposobów, które możesz wykorzystać w nie
 
 473
 00:15:10,639 --> 00:15:13,920
@@ -1900,7 +1900,7 @@ just showed um
 
 476
 00:15:16,880 --> 00:15:20,240
-basically the main difference would be
+w zasadzie główna różnica byłaby
 
 477
 00:15:19,440 --> 00:15:23,199
@@ -1924,7 +1924,7 @@ that right yes yes
 
 482
 00:15:27,519 --> 00:15:31,279
-so thinking about that you want to
+więc myślisz o tym, że chcesz
 
 483
 00:15:29,360 --> 00:15:32,000
@@ -1932,7 +1932,7 @@ withdraw money from a fixed term deposit
 
 484
 00:15:31,279 --> 00:15:33,680
-account
+konto
 
 485
 00:15:32,000 --> 00:15:35,040
@@ -1940,7 +1940,7 @@ right so you have to pay some fee or you
 
 486
 00:15:33,680 --> 00:15:37,040
-have to lose some interest if you want
+musisz stracić zainteresowanie, jeśli chcesz
 
 487
 00:15:35,040 --> 00:15:39,120
@@ -1948,11 +1948,11 @@ to withdraw money from a fixed um
 
 488
 00:15:37,040 --> 00:15:40,160
-from a fixed um deposit account and how
+z rachunku lokaty stałej um i jak
 
 489
 00:15:39,120 --> 00:15:42,639
-much you want to
+bardzo chcesz
 
 490
 00:15:40,160 --> 00:15:43,839
@@ -1960,9 +1960,9 @@ how urgently you need the money depend
 
 491
 00:15:42,639 --> 00:15:53,600
-and you'll forfeit
+i przepadniesz
 
 492
 00:15:43,839 --> 00:15:53,600
-how much interest you'll be giving back
+ile zainteresowania oddasz
 
