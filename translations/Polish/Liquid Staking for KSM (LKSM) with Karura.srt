@@ -28,107 +28,107 @@ rodzaj staking`u niewymagający zaufania
 
 8
 00:00:17,760 --> 00:00:22,080
-that you can free
+w którym możesz uwolnić
 
 9
 00:00:19,119 --> 00:00:24,080
-your stack asset so think about as like
+Twoje stakowane walory, więc pomyśl o tym jak o
 
 10
 00:00:22,080 --> 00:00:26,400
-jeśli trzymasz dzisiaj kusamę
+jeśli posiadasz dzisiaj Kusama
 
 11
 00:00:24,080 --> 00:00:27,519
-and if you stick with validators which
+i jeśli masz walidatorów
 
 12
 00:00:26,400 --> 00:00:29,599
-you should
+powinieneś
 
 13
 00:00:27,519 --> 00:00:31,279
-za każdym razem, gdy chcesz wydać lub ty
+za każdym razem, kiedy chcesz wydać, albo
 
 14
 00:00:29,599 --> 00:00:32,000
-want to move your kusama you have this
+chcesz przenieść swoje tokeny Kusama, będziesz podlegać
 
 15
 00:00:31,279 --> 00:00:34,320
-typowy
+typowemu
 
 16
 00:00:32,000 --> 00:00:35,600
-seven-day outbound period for the
+7-dniowemy okresowi oddelegowania dla
 
 17
 00:00:34,320 --> 00:00:37,600
-bezpieczeństwo sieci
+bezpieczeństwa sieci
 
 18
 00:00:35,600 --> 00:00:39,760
-a na polkadocie jeszcze dłużej to 28
+a na Polkadot, ten okres jest nawet dłuższy i trwa 28
 
 19
 00:00:37,600 --> 00:00:41,520
-dni na uwolnienie zasobów stosu
+dnia aby oddelegować twoje aktywa
 
 20
 00:00:39,760 --> 00:00:43,360
-więc to, co stworzyliśmy jako to, co nazywamy
+tak więc, to co stworzyliśmy i nazywamy
 
 21
 00:00:41,520 --> 00:00:45,200
-płynne stakowanie zasadniczo
+płynnym staking`iem, zasadniczo jest
 
 22
 00:00:43,360 --> 00:00:46,559
-nieufna pula, którą możesz
+pulą staking`u, która nie wymaga zaufania, możesz
 
 23
 00:00:45,200 --> 00:00:48,879
-stos przy użyciu
+ulokować używając
 
 24
 00:00:46,559 --> 00:00:50,559
-kura i za każdym razem, gdy cię stawiasz
+Karura i za każdym razem gdy będziesz stakował
 
 25
 00:00:48,879 --> 00:00:52,879
-dostanie paragon
+otrzymasz zaświadczenie o
 
 26
 00:00:50,559 --> 00:00:53,600
-swoich aktywów stawki, ponieważ jest
+Twoich stak`owanych walorach, ponieważ to jest
 
 27
 00:00:52,879 --> 00:00:56,000
-trustless
+nie wymagające zaufania
 
 28
 00:00:53,600 --> 00:00:57,280
-otrzymanie twojego majątku państwowego, co jest
+potwierdzenie / paragon dla Twoich stakowanych walorów. Jest to to
 
 29
 00:00:56,000 --> 00:01:00,480
-what we call lksm
+co nazywamy lKSM
 
 30
 00:00:57,280 --> 00:01:02,079
-so lksm is you bailing as long as you
+więc lKSM jest jak kaucja tak długo, jak
 
 31
 00:01:00,480 --> 00:01:04,080
-trzymaj się lksm
+trzymasz lKSM
 
 32
 00:01:02,079 --> 00:01:06,080
-you will be earning the staking reward
+możesz dostawać nagrody za staking
 
 33
 00:01:04,080 --> 00:01:07,439
-jest również bezpieczny, ponieważ jest nieufny
+Jest to również bezpieczne, ponieważ nie wymaga zaufania
 
 34
 00:01:06,080 --> 00:01:10,159
@@ -136,15 +136,15 @@ zawsze masz gwarancję, że możesz
 
 35
 00:01:07,439 --> 00:01:12,720
-zrealizuj na więcej
+wymienić na więcej
 
 36
 00:01:10,159 --> 00:01:13,280
-ksm, kiedy chcesz odkupić ksm
+KSM, gdy chcesz dostać KSM
 
 37
 00:01:12,720 --> 00:01:15,600
-plecy
+z powrotem
 
 38
 00:01:13,280 --> 00:01:16,400
@@ -156,15 +156,15 @@ niezwykle
 
 40
 00:01:16,400 --> 00:01:19,439
-przyjazny dla użytkownika, myślę, że każdy powinien być
+przyjazne dla użytkownika. Myślę, że każdy powinien
 
 41
 00:01:18,159 --> 00:01:22,000
-używając tego, jeśli trzymasz
+używać tego, jeśli trzymasz
 
 42
 00:01:19,439 --> 00:01:22,799
-Hokusama um i zamierzam zademonstrować
+KSM. Teraz zamierzam zademonstrować
 
 43
 00:01:22,000 --> 00:01:24,880
@@ -172,39 +172,39 @@ tutaj w porządku więc
 
 44
 00:01:22,799 --> 00:01:26,320
-um, żebym został na tej liście stosów
+dla mnie aby pozostać w tym staking`u
 
 45
 00:01:24,880 --> 00:01:28,720
-ufając w to
+zaufanie do tej
 
 46
 00:01:26,320 --> 00:01:30,000
-pula bez zaufania to tak proste, jak
+puli bez powiernictwa, nie wymagającej zaufania. Jest to tak proste, jak
 
 47
 00:01:28,720 --> 00:01:33,280
-właśnie zamieniłem trochę
+zamiana jakichś
 
 48
 00:01:30,000 --> 00:01:35,040
-some dots or some ksm into lksm we make
+kilku DOT lub kilku KSM w lKSM, tworzymy
 
 49
 00:01:33,280 --> 00:01:36,799
-interfejs użytkownika wygląda jak zamiana
+interfejs użytkownika, który wygląda jak wymienianie
 
 50
 00:01:35,040 --> 00:01:37,520
-ale zamiast tego w środku to nie jest to
+ale w środku zamiast tego jest
 
 51
 00:01:36,799 --> 00:01:39,840
-obstawianie
+staking
 
 52
 00:01:37,520 --> 00:01:40,640
-więc powiem, że będę się trzymał
+Tak więc powiem, że zamierzamy
 
 53
 00:01:39,840 --> 00:01:44,159
