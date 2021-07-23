@@ -328,127 +328,127 @@ wspomniał jest
 
 83
 00:02:39,680 --> 00:02:43,840
-jak ta kropka jest pokwitowaniem za twoje pieniądze?
+że to lDOT jest potwierdzeniem Twoich
 
 84
 00:02:42,239 --> 00:02:46,319
-twoja postawiona kropka
+stakowanych DOT
 
 85
 00:02:43,840 --> 00:02:47,360
-więc jeśli możesz sobie wyobrazić jak na
+więc możesz sobie wyobrazić jak na
 
 86
 00:02:46,319 --> 00:02:48,800
-ekran portfela, który
+ekranie portfela, który
 
 87
 00:02:47,360 --> 00:02:50,720
-trasa pokazała ci wszystkie twoje
+Rutao pokazał z całym twoim
 
 88
 00:02:48,800 --> 00:02:53,280
-równoważy twoją l kropkę
+saldem. Saldo Twojego lDOT
 
 89
 00:02:50,720 --> 00:02:54,879
-równowaga właściwie zawsze będzie rosła
+będzie zawsze rosnąć
 
 90
 00:02:53,280 --> 00:02:56,879
-ponieważ to pokazuje ci, że jest
+ponieważ to pokazuje Ci
 
 91
 00:02:54,879 --> 00:02:59,120
-pokwitowanie za postawioną kropkę
+pokwitowanie dla twoich stakowanych DOT
 
 92
 00:02:56,879 --> 00:03:01,040
-aby Twoja postawiona kropka zaczęła zarabiać
+więc kiedy Twoje stakowane DOT zaczynają zarabiać
 
 93
 00:02:59,120 --> 00:03:04,080
-coraz więcej nagród za stawkowanie, które będą
+coraz więcej nagród za stakowanie, to będzie
 
 94
 00:03:01,040 --> 00:03:06,480
-odzwierciedlone w twoim bilansie ldot, więc kiedy
+odzwierciedlone w twoim bilansie lDOT, więc kiedy
 
 95
 00:03:04,080 --> 00:03:09,760
-idziesz odebrać swoją l kropkę
+będziesz wypłacać swoje lDOT
 
 96
 00:03:06,480 --> 00:03:12,400
-jak natywna kropka na końcu
+za natywne DOT. Na końcu
 
 97
 00:03:09,760 --> 00:03:13,440
-kiedy chcesz rozbić swoją l kropkę
+kiedykolwiek chcesz odstąpić od stakowania Twoich lDOT
 
 98
 00:03:12,400 --> 00:03:15,920
-pójdzie w górę
+wzrośnie
 
 99
 00:03:13,440 --> 00:03:18,000
-od momentu, w którym faktycznie dostałeś swój
+od momentu, w którym faktycznie masz
 
 100
 00:03:15,920 --> 00:03:19,760
-oryginalna kropka, jeśli to ma sens
+oryginalne lDOT. Ma to sens
 
 101
 00:03:18,000 --> 00:03:22,480
-because it's just it's always reflecting
+ponieważ jest to po prostu odzwierciedlenie
 
 102
 00:03:19,760 --> 00:03:26,400
-Twoje nagrody za stawianie dodają się do Twojego
+Twoich nagród za stakowanie dodanych do Twojej
 
 103
 00:03:22,480 --> 00:03:28,720
-stos ldap, tak pomyśl o tym, jakby
+puli lDOT. tak, pomyśl o tym
 
 104
 00:03:26,400 --> 00:03:30,480
-Eldor jest częścią puli?
+że lDOT jest udziałem w puli
 
 105
 00:03:28,720 --> 00:03:32,159
-sklejania puli i obstawiania
+stakowania i staking
 
 106
 00:03:30,480 --> 00:03:33,760
-basen rośnie, ponieważ jest
+pul rośnie, ponieważ jest
 
 107
 00:03:32,159 --> 00:03:35,760
-będzie to nagroda za stawianie
+nagroda za stawianie, która jest
 
 108
 00:03:33,760 --> 00:03:37,760
-modląc się do basenu, ale zawsze możesz?
+wypłacana do puli, ale zawsze możesz
 
 109
 00:03:35,760 --> 00:03:38,480
-odkup um na ten sam udział, co ty
+wyjąć ten sam udział, który
 
 110
 00:03:37,760 --> 00:03:41,040
-włóż to
+włożyłeś
 
 111
 00:03:38,480 --> 00:03:43,120
-więc twoje to do odkupienia
+więc ilość którą możesz wyjąć
 
 112
 00:03:41,040 --> 00:03:46,480
-liczba zawsze będzie rosła, więc trzymaj
+zawsze będzie będzie wzrastać, więc
 
 113
 00:03:43,120 --> 00:03:50,799
-lg trzymając lksm jest tak, jakbyś był
+posiadanie lKSM jest jak
 
 114
 00:03:46,480 --> 00:03:51,840
