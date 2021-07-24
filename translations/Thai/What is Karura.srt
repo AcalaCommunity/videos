@@ -4813,315 +4813,315 @@ stake ksm บน karura มันไม่ใช่
 
 1204
 00:39:02,640 --> 00:39:07,040
-um think about the um the liquid staking
+ลองคิดถึงการทำ liquid staking pool
 
 1205
 00:39:05,200 --> 00:39:09,440
-pool as a trustless staking pool
+ที่เป็นรูปแบบ trustless
 
 1206
 00:39:07,040 --> 00:39:11,200
-the dot other the ksm that you deposit
+dot หรือ ksm ที่คุณฝากไว้
 
 1207
 00:39:09,440 --> 00:39:12,160
-into the pool will be managed by the
+ใน pool ที่ถูกจัดการโดย
 
 1208
 00:39:11,200 --> 00:39:14,320
-network and the
+เครือข่าย และ
 
 1209
 00:39:12,160 --> 00:39:15,200
-network will then nominate those dots
+ซึ่งเครือข่ายนั้นจะนำ dotเหล่านั้น
 
 1210
 00:39:14,320 --> 00:39:18,000
-into the
+ส่งไปยัง
 
 1211
 00:39:15,200 --> 00:39:19,440
-um validator within the kusama network
+Validator ต่างๆ ภายใน เครือข่าย kusama
 
 1212
 00:39:18,000 --> 00:39:21,760
-and if this dot is
+และถ้า dot นี้
 
 1213
 00:39:19,440 --> 00:39:24,480
-these pool sizes grow in size it will be
+จะทำให้ขนา่ดของ pool ใหญ่ขึ้นเรื่อยๆ
 
 1214
 00:39:21,760 --> 00:39:27,280
-managed it will be nominated across
+ถูกจัดการและนำส่งข้ามไป
 
 1215
 00:39:24,480 --> 00:39:28,000
-multiple validators in the in the kusama
+ที่validator ตัวอื่่นๆ ภายใน
 
 1216
 00:39:27,280 --> 00:39:31,119
-network
+เครือข่าย kusama
 
 1217
 00:39:28,000 --> 00:39:34,480
-so ultimately the staking reward of the
+ดังนั้นในที่สุดรางวัลของการ staking
 
 1218
 00:39:31,119 --> 00:39:35,119
-of um staking by minting the lksm would
+โดยการทำ lksm ขึ้นมาจะ
 
 1219
 00:39:34,480 --> 00:39:37,520
-be
+มี
 
 1220
 00:39:35,119 --> 00:39:40,160
-equivalent to the average eu of the
+ค่าเทียบเท่ากับค่าเฉลี่ยของ yield
 
 1221
 00:39:37,520 --> 00:39:41,359
-network it will be safer because like d2
+ของเครือข่าย มันจะปลอดภัยกว่า เพราะ
 
 1222
 00:39:40,160 --> 00:39:43,760
-is spread across
+มันถูกกระจาย
 
 1223
 00:39:41,359 --> 00:39:44,480
-multiple validators so even a slash
+ไปยัง validator หลายตัว แม้จะมี
 
 1224
 00:39:43,760 --> 00:39:47,760
-happens
+บางส่วนเสียหายเกิดขึ้น
 
 1225
 00:39:44,480 --> 00:39:49,440
-the risk of like the pool is sort of
+ความเสี่ยงของ pool แทบจะเป็น
 
 1226
 00:39:47,760 --> 00:39:51,440
-like meditated
+เล็กน้อย
 
 1227
 00:39:49,440 --> 00:39:53,040
-because only slash a portion a tiny
+เพราะเฉือนแค่ส่วนเล็กๆ
 
 1228
 00:39:51,440 --> 00:39:55,200
-portion of that but the same
+ส่วนหนึ่งแต่เท่าเดิม
 
 1229
 00:39:53,040 --> 00:39:56,079
-um the sticking reward is also the
+รางวัลที่ติดมาก็ยัง
 
 1230
 00:39:55,200 --> 00:39:58,240
-average eu
+มีค่าตามค่าเฉลี่ย yield
 
 1231
 00:39:56,079 --> 00:39:59,359
-it's like a safe average view of the
+มันเหมือนกับผลผลิตเฉลี่ยที่ปลอดภัยของ
 
 1232
 00:39:58,240 --> 00:40:03,359
-expected return
+ผลตอบแทนที่คาดไว้
 
 1233
 00:39:59,359 --> 00:40:07,119
-of the network and one key other
+ของเครือข่ายและอีกหนึ่งคีย์อื่น ๆ
 
 1234
 00:40:03,359 --> 00:40:10,240
-fact we need to understand is also the
+ความจริงที่เราต้องเข้าใจก็คือ
 
 1235
 00:40:07,119 --> 00:40:11,760
-lksm holders actually can vote for
+ผู้ถือ lksm สามารถลงคะแนนให้ ได้จริง
 
 1236
 00:40:10,240 --> 00:40:12,880
-validators so this is what we are
+กับผู้ตรวจสอบความถูกต้อง นี่คือสิ่งที่พวกเรากำลัง
 
 1237
 00:40:11,760 --> 00:40:15,200
-working progress so
+ทำงานอยู่
 
 1238
 00:40:12,880 --> 00:40:16,240
-when you meet lksm you guys you have the
+เมื่อคุณมี lksm พวกคุณมี
 
 1239
 00:40:15,200 --> 00:40:19,920
-the right to say that i
+สิทธิที่จะบอกว่าฉัน
 
 1240
 00:40:16,240 --> 00:40:22,720
-prefer the pool to validate and delegate
+ต้องการพูลเพื่อตรวจสอบและมอบหมาย
 
 1241
 00:40:19,920 --> 00:40:23,440
-the ksm into this set of validators and
+ksm ลงในชุดเครื่องมือตรวจสอบความถูกต้องและ
 
 1242
 00:40:22,720 --> 00:40:25,839
-ultimately
+ในที่สุด
 
 1243
 00:40:23,440 --> 00:40:27,359
-the pool would check all the input from
+pool จะตรวจสอบอินพุตทั้งหมดจาก
 
 1244
 00:40:25,839 --> 00:40:30,480
-the lksm holders
+ผู้ถือ lksm
 
 1245
 00:40:27,359 --> 00:40:32,640
-and nominate those um those um kusama
+และนำเสนอ kusama นั้น
 
 1246
 00:40:30,480 --> 00:40:35,680
-for across all the validators um as
+ไปยัง ตัวตรวจสอบความถูกต้องทั้งหมด
 
 1247
 00:40:32,640 --> 00:40:37,599
-proportion as a portion
+สัดส่วนเป็นสัดส่วน
 
 1248
 00:40:35,680 --> 00:40:38,880
-okay so yeah so if i'm understanding
+โอเค ตามที่ฉันเข้าใจ
 
 1249
 00:40:37,599 --> 00:40:41,359
-correctly just to
+ถูกต้อง เพียงเพื่อที่จะ
 
 1250
 00:40:38,880 --> 00:40:43,040
-to reiterate this for um i forget who
+ยืนยันเรื่องนี้ ฉันลืมใครที่
 
 1251
 00:40:41,359 --> 00:40:45,040
-who asked that question but
+ที่ถามคำถามนั้นแต่
 
 1252
 00:40:43,040 --> 00:40:47,200
-with kusama now if you're staking
+กับ kusama ตอนนี้ ถ้าคุณกำลัง stake อยู่
 
 1253
 00:40:45,040 --> 00:40:48,800
-through polka dot js it's you as a user
+ผ่าน polkadot js คุณในฐานะผู้ใช้
 
 1254
 00:40:47,200 --> 00:40:51,520
-staking directly to
+stake โดยตรงผ่าน
 
 1255
 00:40:48,800 --> 00:40:52,240
-a validator or a set of validators in
+เครื่องมือตรวจสอบ หรือ ชุดเครื่องมือตรวจสอบ ใน
 
 1256
 00:40:51,520 --> 00:40:54,160
-this case
+กรณีนี้
 
 1257
 00:40:52,240 --> 00:40:55,520
-in this case there's kirura in the
+ในกรณีนี้มี karura อยู่
 
 1258
 00:40:54,160 --> 00:40:57,920
-middle so you
+ตรงกลางดังนั้นคุณ
 
 1259
 00:40:55,520 --> 00:40:58,560
-stake with karua karua distributes the
+stake กับ karura และ karura แจกจ่าย
 
 1260
 00:40:57,920 --> 00:41:01,200
-stake of
+สัดส่วนการถือหุ้นของ
 
 1261
 00:40:58,560 --> 00:41:03,200
-everyone on karua to an evenly
+ทุกคนบน karura อย่างเท่าเทียมกัน
 
 1262
 00:41:01,200 --> 00:41:05,520
-distributed set of validators across
+ชุดตรวจสอบแบบกระจายทั่ว
 
 1263
 00:41:03,200 --> 00:41:06,319
-kusama and then all the returns coming
+kusama แล้วการตอบแทนจะกลับมา
 
 1264
 00:41:05,520 --> 00:41:08,720
-in from
+จาก
 
 1265
 00:41:06,319 --> 00:41:10,880
-those validators are pooled and then
+เครื่องมือตรวจสอบเหล่านั้นถูกรวมเข้าด้วยกันแล้ว
 
 1266
 00:41:08,720 --> 00:41:13,280
-evenly distributed at the average
+กระจายอย่างสม่ำเสมอที่ค่าเฉลี่ย
 
 1267
 00:41:10,880 --> 00:41:14,880
-across all the validators that career is
+ในบรรดาผู้ตรวจสอบทั้งหมด นั้นคือจุดหลัก
 
 1268
 00:41:13,280 --> 00:41:17,040
-staking with
+ของการ stake
 
 1269
 00:41:14,880 --> 00:41:18,720
-yes and if this is like a centralized
+ใช่และถ้าเป็นเหมือนการรวมศูนย์
 
 1270
 00:41:17,040 --> 00:41:19,599
-staking service then you have the risk
+บริการ Stake แล้วคุณจะมีความเสี่ยง
 
 1271
 00:41:18,720 --> 00:41:21,680
-of the
+ของ
 
 1272
 00:41:19,599 --> 00:41:23,359
-centralized entity being default you
+เอนทิตีส่วนกลาง deforce คุณ
 
 1273
 00:41:21,680 --> 00:41:24,480
-have this chart you have to trust the
+คุณต้องไว้วางใจ
 
 1274
 00:41:23,359 --> 00:41:26,560
-centralized entity
+เอนทิตีที่รวมศูนย์
 
 1275
 00:41:24,480 --> 00:41:28,800
-um to do the right thing but since um
+อืม ทำในสิ่งที่ถูกต้อง แต่ตั้งแต่ อืม
 
 1276
 00:41:26,560 --> 00:41:29,520
-the the liquid staking protocol that we
+โปรโตคอล liquid staking ที่เรา
 
 1277
 00:41:28,800 --> 00:41:31,920
-currently have
+มีในปัจจุบัน
 
 1278
 00:41:29,520 --> 00:41:32,640
-is trustless everything is managed on
+เป็นรูปแบบ trustless ทุกอย่างถูกจัดการบน
 
 1279
 00:41:31,920 --> 00:41:34,240
-chen
+เครือข่าย
 
 1280
 00:41:32,640 --> 00:41:36,160
-uh you can think of like it's like an
+เอ่อ คุณคิดได้เหมือนอย่างกับว่า
 
 1281
 00:41:34,240 --> 00:41:38,400
-advanced version of smart contract
+smart contract advanced version
 
 1282
 00:41:36,160 --> 00:41:39,839
