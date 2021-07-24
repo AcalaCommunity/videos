@@ -1212,415 +1212,415 @@ acala
 
 304
 00:10:14,560 --> 00:10:19,519
-through you know economic sovereignty
+ทางอธิปไตยทางเศรษฐกิจซึ่ง
 
 305
 00:10:16,399 --> 00:10:22,000
-uh from the network and you know
+มันจะมาจากเน็ตเวิร์คและคุณรู้มั้ยว่า
 
 306
 00:10:19,519 --> 00:10:22,560
-the the token holders can through
+คนที่ถือเหรียญโทเค็นสามารถที่จะ
 
 307
 00:10:22,000 --> 00:10:25,200
-governance
+โหวต governance
 
 308
 00:10:22,560 --> 00:10:26,160
-vote to continue to manage and evolve
+เพื่อที่จะจัดการและพัฒนาได้ต่อไปบน
 
 309
 00:10:25,200 --> 00:10:29,360
-the network
+เน็ตเวิร์ค
 
 310
 00:10:26,160 --> 00:10:31,279
-then that's the success uh it is very
+นั้นคือความสำเร็จที่ฉันเคยกล่าวถึง ถึงมันจะ
 
 311
 00:10:29,360 --> 00:10:32,640
-idealistic probably but i think it's
+เพ้อฝันไปหน่อยแต่ฉันคิดว่า
 
 312
 00:10:31,279 --> 00:10:34,800
-it's very possible through
+มันมีความเป็นไปได้ผ่าน
 
 313
 00:10:32,640 --> 00:10:35,680
-the plan that we've put out and so far
+แผนการของเรา ที่พวเราได้ทำและพัฒนา
 
 314
 00:10:34,800 --> 00:10:38,000
-the uh
+มาต่อเนื่อง
 
 315
 00:10:35,680 --> 00:10:39,760
-you know the proof that we've had so far
+นั้นพิสูจน์ได้บ้างแล้วในขณะนี้
 
 316
 00:10:38,000 --> 00:10:40,240
-but of course everyone's anticipating uh
+แต่แน่นอน ทุกๆคนกำลังจะเข้าร่วม
 
 317
 00:10:39,760 --> 00:10:43,440
-you know
+การเปิดตัว
 
 318
 00:10:40,240 --> 00:10:46,079
-the launch very soon um but this is the
+โปรดักในอนาคตอันใกล้นี้แต่นี้คือ
 
 319
 00:10:43,440 --> 00:10:47,920
-direction that we are heading and this
+ทิศทางที่พวกเรากำลังมุ่งหน้าไปและนี้
 
 320
 00:10:46,079 --> 00:10:50,640
-turns the model around because
+ยังเปลี่ยนโมเดลแบบเก่าอีกด้วย เพราะ
 
 321
 00:10:47,920 --> 00:10:51,279
-if i walk into a bank today while i can
+ถ้าฉันเดินเข้าไปในธนาคารวันนี้เพื่อ
 
 322
 00:10:50,640 --> 00:10:53,920
-open
+เปิด
 
 323
 00:10:51,279 --> 00:10:55,760
-a bank account and borrow a loan but i
+บัญชีธนาคารและยืมเงินจากธนาคาร แต่ฉัน
 
 324
 00:10:53,920 --> 00:10:56,880
-would not be possible to become a
+ไม่สามารถที่จะเป็นผู้
 
 325
 00:10:55,760 --> 00:10:59,839
-shareholder
+ถือหุ้น
 
 326
 00:10:56,880 --> 00:11:00,880
-or if the ceo or all the companies
+ในธนาคารหรือ ceo หรือถ้าบริษัท
 
 327
 00:10:59,839 --> 00:11:03,360
-misconducted
+ประพฤติมิชอบ
 
 328
 00:11:00,880 --> 00:11:03,920
-i would not be able to vote the ceo out
+ฉันก็ไม่สามารถที่จะโหวตให้ ceo คนนั้นลาออก
 
 329
 00:11:03,360 --> 00:11:06,240
-i have
+ฉันไม่มี
 
 330
 00:11:03,920 --> 00:11:08,000
-none of those rights right so in a
+สิทธ์ที่จะทำสิ่งเหล่านี้ แต่ใน
 
 331
 00:11:06,240 --> 00:11:10,560
-blockchain and how we design
+บล็อคเชนและวิธีที่พวกเราออกแบบ
 
 332
 00:11:08,000 --> 00:11:12,000
-the sort of the next generation network
+มันคือรุ่นต่อไปของเน็ตเวิร์ค
 
 333
 00:11:10,560 --> 00:11:14,000
-is this co-ownership
+มันคือโมเดล
 
 334
 00:11:12,000 --> 00:11:15,920
-model anyone who participated
+กรรมสิทธิ์ร่วมที่ใครก็ตามที่
 
 335
 00:11:14,000 --> 00:11:19,360
-contributed in certain ways
+เข้าร่วมในระบบด้วยวิธีการที่กำหนด
 
 336
 00:11:15,920 --> 00:11:21,920
-they also co-own uh the the platform or
+พวกเขาก็จะเป็นเจ้าของส่วนหนึ่งของ platform
 
 337
 00:11:19,360 --> 00:11:23,040
-uh the the network that they are
+หรือเน็ตเวิร์คที่พวกเขาได้
 
 338
 00:11:21,920 --> 00:11:25,200
-participating in
+เข้าร่วมหรือใช้งาน
 
 339
 00:11:23,040 --> 00:11:26,640
-so this kind of flips around uh the
+และนี่คือการพลิกโฉม
 
 340
 00:11:25,200 --> 00:11:28,800
-whole model
+ทั้งโมเดล
 
 341
 00:11:26,640 --> 00:11:30,399
-of you know how you actually share the
+นี่ก็คือการแชร์ผลกำไร
 
 342
 00:11:28,800 --> 00:11:31,279
-wealth that you generated how you
+ที่คุณสร้างขึ้นมา และ
 
 343
 00:11:30,399 --> 00:11:33,279
-actually share
+คุณก็แชร์
 
 344
 00:11:31,279 --> 00:11:34,399
-the ownership and also how you share
+ความเป็นเจ้าของและความรับผิดชอบ
 
 345
 00:11:33,279 --> 00:11:37,360
-responsibility
+อีกด้วย
 
 346
 00:11:34,399 --> 00:11:37,760
-right so these all come in proportion uh
+สิ่งเหล่านี้จะมาแบ่งเป็นสัดส่วน
 
 347
 00:11:37,360 --> 00:11:40,560
-to
+สำหรับ
 
 348
 00:11:37,760 --> 00:11:42,880
-each other uh but now at least we have a
+ทุกๆคน อย่างน้อยพวกเราก็มี
 
 349
 00:11:40,560 --> 00:11:45,680
-uh i guess a very
+วิธีการ
 
 350
 00:11:42,880 --> 00:11:46,720
-uh reasonable or technological uh
+โดยการใช้เหตุลหรือเทคโล
 
 351
 00:11:45,680 --> 00:11:48,720
-capable way
+โลยีที่สามารถทำให้
 
 352
 00:11:46,720 --> 00:11:50,880
-for us to all implement that and roll
+พวกเราพัฒนาสิ่งเหล่านี้และ
 
 353
 00:11:48,720 --> 00:11:52,639
-that out to many aspects of life and of
+นำมันมาใช้ ประยุกต์มันได้หลากหลายในชีวิตของเรา
 
 354
 00:11:50,880 --> 00:11:55,680
-course you know for a caller we are
+และแน่นอน สำหรับ acala แล้วนั้น
 
 355
 00:11:52,639 --> 00:11:57,760
-trying that out in a finance arena
+พวกเราพยายามทำงานในส่วนของการเงิน
 
 356
 00:11:55,680 --> 00:11:59,760
-but this technology can be used in many
+แต่เทคโนโลยีอันนี้สามารถนำไปประยุกต็ใช้งาน
 
 357
 00:11:57,760 --> 00:12:00,639
-other fields and we are only at the very
+ได้กับหลายๆด้านและพวกเรากำลังอยู่แค่ในจุด
 
 358
 00:11:59,760 --> 00:12:02,480
-beginning
+เริ่มต้นเท่านั้น
 
 359
 00:12:00,639 --> 00:12:05,040
-of all the stuff that i was talking
+ต่อทุกๆสิ่งสิ่งที่ฉันพูดมาก่อนหน้านี้
 
 360
 00:12:02,480 --> 00:12:06,480
-about that's what drives me up every day
+นั้นก็คือสิ่งที่เป็นแรงจูงใจให้ฉันในทุกๆวัน
 
 361
 00:12:05,040 --> 00:12:08,800
-right because i know there's so many
+เพราะฉันรู้ว่ามันมีหลายๆสิ่งหลายๆอย่าง
 
 362
 00:12:06,480 --> 00:12:10,399
-things that we could we could do
+ที่พวกเราสามารถทำได้
 
 363
 00:12:08,800 --> 00:12:12,079
-and then there's also so many things we
+และมันอย่างมีอีกหลายๆอย่างที่พวกเรา
 
 364
 00:12:10,399 --> 00:12:12,880
-haven't got to the point where we can
+ยังทำมันไม่สำเร็จ ไปถึงจุดที่พวกเราสามารถ
 
 365
 00:12:12,079 --> 00:12:15,360
-hand off
+ที่จะปล่อยมือ
 
 366
 00:12:12,880 --> 00:12:17,920
-uh to say we are truly decentralized um
+จากมันและพวกเราสามารถเรียกโปรดักของเราว่า decentralized
 
 367
 00:12:15,360 --> 00:12:20,560
-so those are all the motivators i guess
+นี่คือแรงบันดาลใจที่ฉันคิดว่า
 
 368
 00:12:17,920 --> 00:12:21,279
-uh that that makes me exciting and uh
+มันทำให้ฉันตื้นเต้นและ
 
 369
 00:12:20,560 --> 00:12:24,800
-inspired
+ได้รับแรงบันดาลใจ
 
 370
 00:12:21,279 --> 00:12:25,760
-yeah awesome thanks and that that leads
+เจ๋งมาก ขอบคุณครับ ตอนนี้ผมจะ
 
 371
 00:12:24,800 --> 00:12:29,519
-into
+เข้าสู่
 
 372
 00:12:25,760 --> 00:12:32,880
-um a couple other questions so um
+คำถาม สองสามคำถามเกี่ยวกับ
 
 373
 00:12:29,519 --> 00:12:35,760
-sticking to akala for now so if you
+acala นะครับ คุณคิดว่า
 
 374
 00:12:32,880 --> 00:12:37,920
-if you had to use like three adjectives
+มีคำคุณศัพท์ 3 คำอันไหน
 
 375
 00:12:35,760 --> 00:12:39,519
-or three descriptive words to describe
+หรือ 3 คำอธิบายที่สามารถอธิบาย
 
 376
 00:12:37,920 --> 00:12:42,639
-akala what would those
+acala ได้ดี คำพวกนั้น
 
 377
 00:12:39,519 --> 00:12:42,639
-three words be
+จะเป็นคำอะไรครับ
 
 378
 00:12:44,399 --> 00:12:48,240
-uh that's a tough question um
+นั้นเป็นคำถามที่ยากนะเนี่ย อืมมมม
 
 379
 00:12:48,800 --> 00:12:55,279
-uh okay so that would be a
+โอเค คำพวกนั้นก็มี
 
 380
 00:12:52,800 --> 00:12:55,279
-stable
+มั่นคง
 
 381
 00:12:57,200 --> 00:13:00,880
-a trusted in a trustless way
+ความไว้วางใจในวิถีความไม่ไว้วางใจ
 
 382
 00:13:02,320 --> 00:13:10,480
-and decentralized okay that's great
+และ decentralized โอเคครับ มันเยี่ยมมากครับ
 
 383
 00:13:07,200 --> 00:13:12,560
-brian's brian's answer was polka dot
+คำตอบของไบรอันคือ polkadot
 
 384
 00:13:10,480 --> 00:13:14,399
-defy hub
+Defi Hub
 
 385
 00:13:12,560 --> 00:13:16,320
-there's a three three words so i
+นั้นคือคำสามคำที่ไบรอันตอบ นั้นเป็นเหตุผล
 
 386
 00:13:14,399 --> 00:13:19,680
-rephrase the question a little bit
+ว่าทำไมผมเปลี่ยนคำถามไปนิดหน่อย
 
 387
 00:13:16,320 --> 00:13:21,680
-um and then i guess switching to karua
+เอางี้ครับ เรามาเปลี่ยนเรื่องมาพูดเกี่ยวกับ Karura
 
 388
 00:13:19,680 --> 00:13:24,000
-how would you describe kirura in three
+กันบ้างดีกว่า คุณจะอธิบายคำจำกัดความของ karura
 
 389
 00:13:21,680 --> 00:13:24,000
-words
+ใน 3 คำ
 
 390
 00:13:25,680 --> 00:13:32,959
-uh it's actually easier so
+อันที่จริง คำถามนี่ง่ายนะ
 
 391
 00:13:29,440 --> 00:13:37,120
-kura is kura is hot
+karura คือเร่าร้อน
 
 392
 00:13:32,959 --> 00:13:40,639
-uh kora is uh uh
+[กำลังคิด]
 
 393
 00:13:37,120 --> 00:13:44,079
-so yeah so so hot um
+โอเค เร่าร้อน
 
 394
 00:13:40,639 --> 00:13:47,519
-and uh innovative
+นวัตกรรม
 
 395
 00:13:44,079 --> 00:13:51,839
-um and also cool yeah
+แล้วก็ เจ๋งมาก
 
 396
 00:13:47,519 --> 00:13:54,160
-perfect um okay so going back to
+เฟอร์แฟค โอเคเรากลับมาที่
 
 397
 00:13:51,839 --> 00:13:56,399
-i guess the beginning of of all of this
+จุดเริ่มต้นของทุกๆอย่างที่เกี่ยวกับ
 
 398
 00:13:54,160 --> 00:13:59,279
-with akala could you maybe just tell
+acala คุณช่วยบอกผมหน่อยได้มั้ยครับ
 
 399
 00:13:56,399 --> 00:14:00,000
-a brief story around how the teams came
+เรื่องราวของคนในทีมมาร่วมตัวกันได้
 
 400
 00:13:59,279 --> 00:14:03,360
-together how
+ยังไง
 
 401
 00:14:00,000 --> 00:14:05,040
-call started um maybe what made you
+หรือว่าจุดที่ทำให้คุณตระหนัก
 
 402
 00:14:03,360 --> 00:14:06,720
-realize that there was this need for
+ได้ว่านี่คือ defi parachain
 
 403
 00:14:05,040 --> 00:14:08,160
-this d5 para chain
+จะเป็นที่ต้องการ
 
 404
 00:14:06,720 --> 00:14:10,639
-a stable coin because i know you were
+สเตเบิ้ลคอย เพราะผมรู้ว่าคุณเคย
 
 405
 00:14:08,160 --> 00:14:14,000
-working on um laminar at the time
+ทำงานเกี่ยวกับ laminar มาก่อน
 
 406
 00:14:10,639 --> 00:14:16,639
-so maybe just a little history of akala
+ดังนั้นคำตอบตรงนี้อาจจะเป็นเรื่องราวสั้นๆเกี่ยวกับ acala
 
 407
 00:14:14,000 --> 00:14:17,680
