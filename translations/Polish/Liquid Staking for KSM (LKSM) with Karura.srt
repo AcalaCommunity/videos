@@ -452,19 +452,19 @@ posiadanie lKSM jest jak
 
 114
 00:03:46,480 --> 00:03:51,840
-tak obstawiasz i to trochę, jeśli ty
+byś stakował, jeżeli
 
 115
 00:03:50,799 --> 00:03:53,680
-mieć ldl
+posiadasz lDOT
 
 116
 00:03:51,840 --> 00:03:55,680
-albo masz lksm bo tak to nazywamy
+albo masz lKSM, ponieważ nazywamy to
 
 117
 00:03:53,680 --> 00:03:57,840
-płyn, dobrze, że można go przenosić
+płynnym, można to przesyłać
 
 118
 00:03:55,680 --> 00:03:59,439
