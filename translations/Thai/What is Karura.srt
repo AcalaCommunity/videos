@@ -5801,211 +5801,211 @@ ldot กลับไป dot ทันที
 
 1451
 00:47:13,280 --> 00:47:16,400
-there's actually three way for you to
+มีสามวิธีสำหรับคุณที่จะ
 
 1452
 00:47:15,119 --> 00:47:17,200
-redeem you can say that i want to redeem
+แลก คุณสามารถพูดได้ว่าฉันต้องการแลก
 
 1453
 00:47:16,400 --> 00:47:18,800
-now then i will
+ตอนนี้ ฉันจะ
 
 1454
 00:47:17,200 --> 00:47:20,480
-i will have to pay some fee all you say
+ฉันจะต้องจ่ายค่าธรรมเนียมบางส่วน ทั้งหมดที่คุณพูดมา
 
 1455
 00:47:18,800 --> 00:47:23,119
-that i was gonna redeem
+ที่ฉันกำลังจะไถ่ถอน
 
 1456
 00:47:20,480 --> 00:47:24,800
-the typical way um that's like waiting
+วิธีธรรมดา อืม ก็เหมือนการรอ
 
 1457
 00:47:23,119 --> 00:47:27,200
-for the standard unbounding period
+สำหรับระยะเวลาการ unbounding ทั่วไป
 
 1458
 00:47:24,800 --> 00:47:28,720
-you can free to do so or you can also
+คุณสามารถทำได้อย่างอิสระหรือคุณยังสามารถ
 
 1459
 00:47:27,200 --> 00:47:29,280
-redeem to say that i want to redeem and
+แลกบอกว่าฉันต้องการแลกและ
 
 1460
 00:47:28,720 --> 00:47:32,480
-there's
+มี
 
 1461
 00:47:29,280 --> 00:47:34,319
-a queue of unbounding um dots on the
+คิวของการ unbounding dot
 
 1462
 00:47:32,480 --> 00:47:35,680
-on the on the on the on the staking pool
+บน staking pool
 
 1463
 00:47:34,319 --> 00:47:38,079
-because like will be always
+เพราะมันจะ
 
 1464
 00:47:35,680 --> 00:47:39,760
-rebalanced between the stick dots and
+ปรับสมดุลเสมอ ระหว่าง staking dot และ
 
 1465
 00:47:38,079 --> 00:47:40,960
-the an unstacked dot so you can choose
+unstake dot เพื่อให้คุณสามารถเลือกได้
 
 1466
 00:47:39,760 --> 00:47:42,720
-that which may be like
+ที่อาจเหมือน
 
 1467
 00:47:40,960 --> 00:47:44,400
-five player later you need the dots that
+ห้าวัน ที่คุณต้องการ dot
 
 1468
 00:47:42,720 --> 00:47:46,480
-will be at that particular price
+จะอยู่ที่ราคานั้น
 
 1469
 00:47:44,400 --> 00:47:47,839
-so it's actually a lot of like advanced
+ดังนั้นมันจึงเหมือนมีขั้นตอนซับซ้อนมาก
 
 1470
 00:47:46,480 --> 00:47:48,480
-feature hidden in here that you can
+คุณสมบัติที่ซ่อนอยู่ ที่คุณสามารถ
 
 1471
 00:47:47,839 --> 00:47:50,559
-redeem
+ไถ่ถอน
 
 1472
 00:47:48,480 --> 00:47:52,400
-in multiple way um you can redeem at no
+คุณสามารถแลกได้หลายวิธีโดย
 
 1473
 00:47:50,559 --> 00:47:53,839
-cost or you can redeem immediately
+ไม่มีค่าใช้จ่ายหรือแลกได้ทันที
 
 1474
 00:47:52,400 --> 00:47:56,800
-so in that in the middle one that you
+ดังนั้นในตรงกลางที่คุณ
 
 1475
 00:47:53,839 --> 00:47:59,440
-just showed um
+เพิ่งแสดง
 
 1476
 00:47:56,800 --> 00:48:00,240
-basically the main difference would be
+โดยพื้นฐานแล้วความแตกต่างหลักจะเป็น
 
 1477
 00:47:59,440 --> 00:48:03,119
-every
+ทุก
 
 1478
 00:48:00,240 --> 00:48:03,760
-every day closer to the current date
+ทุกวัน ใกล้กับวันที่ปัจจุบัน
 
 1479
 00:48:03,119 --> 00:48:05,599
-you're just
+คุณก็แค่
 
 1480
 00:48:03,760 --> 00:48:07,440
-paying a little bit higher of a fee is
+จ่ายค่าธรรมเนียมสูงขึ้นเล็กน้อยคือ
 
 1481
 00:48:05,599 --> 00:48:09,280
-that right yes yes
+ใช่ ถูกต้อง
 
 1482
 00:48:07,440 --> 00:48:10,720
-so thinking about that you want to um
+ดังนั้นการคิดว่าคุณต้องการ
 
 1483
 00:48:09,280 --> 00:48:12,000
-with your money from a fixed term
+ถอนเงินจากบัญชี
 
 1484
 00:48:10,720 --> 00:48:13,680
-deposit account
+งินฝากที่มีระยะเวลาคงที่
 
 1485
 00:48:12,000 --> 00:48:15,040
-right so you have to pay some fee or you
+คุณจะต้องเสียค่าธรรมเนียมหรือคุณ
 
 1486
 00:48:13,680 --> 00:48:17,040
-have to lose some interest if you want
+ต้องเสียดอกเบี้ยหากต้องการ
 
 1487
 00:48:15,040 --> 00:48:19,119
-to withdraw money from a fixed um
+ถอนเงินจากบัญชีเงินฝากประจำ
 
 1488
 00:48:17,040 --> 00:48:20,079
-from a fixed um deposit account and how
+และ
 
 1489
 00:48:19,119 --> 00:48:22,160
-much you want to
+ต้องการเท่าไหร่
 
 1490
 00:48:20,079 --> 00:48:23,839
-how urgently you need the money um
+คุณต้องใช้เงินอย่างเร่งด่วน
 
 1491
 00:48:22,160 --> 00:48:25,760
-depend and you will forfeit
+แค่ไหน อืม ขึ้นอยู่กับคุณ
 
 1492
 00:48:23,839 --> 00:48:28,000
-how much interest you will be giving
+และคุณจะเสียดอกเบี้ยเท่าไหร่ที่คุณจะให้คืนที่
 
 1493
 00:48:25,760 --> 00:48:28,000
-back
+คืน
 
 1494
 00:48:30,880 --> 00:48:34,160
-awesome so i think that's um the the
+ยอดเยี่ยม ฉันคิดว่านั่น
 
 1495
 00:48:33,520 --> 00:48:37,680
-show off
+เป็นการแสดงให้เห็นถึง
 
 1496
 00:48:34,160 --> 00:48:40,480
-of the uh of the liquid staking protocol
+โปรโตคอล liquid staking
 
 1497
 00:48:37,680 --> 00:48:41,680
-and um all these three particles like
+โปรโตคอลทั้งสามนี้เหมือนกับ
 
 1498
 00:48:40,480 --> 00:48:44,800
-they work with each other
+พวกมันทำงานร่วมกัน
 
 1499
 00:48:41,680 --> 00:48:47,280
-um the liquid staking dots on the lksm
+liquid staking dot และ lksm
 
 1500
 00:48:44,800 --> 00:48:48,079
-can be used um to borrow um can be used
+สามารถใช้ยืม
 
 1501
 00:48:47,280 --> 00:48:51,280
-as character
+ได้
 
 1502
 00:48:48,079 --> 00:48:53,680
-can betray in the decks as well um and
+สามารถใช้ แลกเปลี่ยน บน deck ได้เช่นเดียวกัน
 
 1503
 00:48:51,280 --> 00:48:54,960
