@@ -5317,39 +5317,39 @@ liquid ได้
 
 1330
 00:43:13,599 --> 00:43:17,359
-liquid staking pool you actually do not
+โดยเฉพาะนี้ แล้วคุณ
 
 1331
 00:43:15,920 --> 00:43:18,880
-have the
+ไม่มี
 
 1332
 00:43:17,359 --> 00:43:20,319
-like the risk-free way to say that you
+วิธีที่ปราศจากความเสี่ยงที่จะบอกว่าคุณ
 
 1333
 00:43:18,880 --> 00:43:21,280
-are no longer getting chance of getting
+ไม่มีโอกาส ที่จะ
 
 1334
 00:43:20,319 --> 00:43:24,720
-slashed
+ถูกเฉือนอีกต่อไป
 
 1335
 00:43:21,280 --> 00:43:26,560
-so if the liquid staking pool was
+ดังนั้นหาก liquid staking pool
 
 1336
 00:43:24,720 --> 00:43:30,880
-delegating or nominating
+ถูกมอบหมายหรือเสนอชื่อ
 
 1337
 00:43:26,560 --> 00:43:32,160
-let's say across 50 validators and one
+สมมุติว่า Validator 50 และ 1 ใน
 
 1338
 00:43:30,880 --> 00:43:33,839
-of those getting slashed
+นั้นที่โดนเฉือนไปบางส่วน
 
 1339
 00:43:32,160 --> 00:43:35,280
