@@ -5353,127 +5353,127 @@ liquid ได้
 
 1339
 00:43:32,160 --> 00:43:35,280
-the pool actually will get a hit of
+กลุ่มนี้จริง ๆ แล้วจะได้รับความเสียหาย
 
 1340
 00:43:33,839 --> 00:43:38,160
-getting this slashed but
+จากการถูกเฉือนนี้ แต่
 
 1341
 00:43:35,280 --> 00:43:39,040
-the the result of like spreading this
+ผลลัพธ์ของการที่เหมือนกับการกระจายกลุ่มนี้
 
 1342
 00:43:38,160 --> 00:43:41,359
-pool
+กลุ่มนี้
 
 1343
 00:43:39,040 --> 00:43:42,800
-across 50 validator is that even though
+ผ่าน validator ทั้ง 50 รายการ แม้ว่า
 
 1344
 00:43:41,359 --> 00:43:43,680
-you you're getting slash in one
+คุณจะถูกเฉือนใน
 
 1345
 00:43:42,800 --> 00:43:46,240
-validator
+1 validator
 
 1346
 00:43:43,680 --> 00:43:47,839
-the overall damage for the whole pool is
+ความเสียหายโดยรวมสำหรับทั้งกลุ่ม
 
 1347
 00:43:46,240 --> 00:43:48,240
-particularly low and that's why i say
+ต่ำเป็นพิเศษและนั่นเป็นเหตุผลที่ฉัน
 
 1348
 00:43:47,839 --> 00:43:50,319
-it's a
+บอกว่ามันเป็น
 
 1349
 00:43:48,240 --> 00:43:51,839
-safe way to stake uh it's getting the
+วิธีที่ปลอดภัยในการ stake มันจะได้
 
 1350
 00:43:50,319 --> 00:43:53,680
-average view of the network
+อัตราผลตอบแทนเฉลี่ยของเครือข่าย
 
 1351
 00:43:51,839 --> 00:43:54,960
-it's not trying to seek for the maximum
+มันไม่ได้พยายามแสวงหา
 
 1352
 00:43:53,680 --> 00:43:56,640
-return
+ผลตอบแทนสูงสุด
 
 1353
 00:43:54,960 --> 00:43:58,720
-but it's also a very very user-friendly
+แต่มันเป็นสิ่งที่ใช้งานง่ายมาก
 
 1354
 00:43:56,640 --> 00:44:00,960
-way that you can always expect to earn
+ซึ่งคุณสามารถคาดหวังว่าจะได้รับรายได้
 
 1355
 00:43:58,720 --> 00:44:02,720
-the expected return of the network
+ผลตอบแทนที่คาดหวังของเครือข่าย
 
 1356
 00:44:00,960 --> 00:44:04,240
-um if you were stating by yourself and
+อืมถ้าคุณ stake ด้วยตัวเองและ
 
 1357
 00:44:02,720 --> 00:44:05,040
-if you're nominating your dot to one
+หากคุณกำลังเสนอ dot ของคุณ ให้หนึ่ง
 
 1358
 00:44:04,240 --> 00:44:07,440
-particular
+ใน
 
 1359
 00:44:05,040 --> 00:44:09,040
-validator and then if that validator was
+validator โดยเฉพาะ แล้วถ้า validator นั้นคือ
 
 1360
 00:44:07,440 --> 00:44:10,640
-misbehaving it slashed
+ทำงานผิดพลาด
 
 1361
 00:44:09,040 --> 00:44:12,720
-then you will get a you will take a
+แล้วคุณจะได้
 
 1362
 00:44:10,640 --> 00:44:14,319
-touch by normally getting that validator
+การติดต่อโดยปกติจาก validator นั้นๆ
 
 1363
 00:44:12,720 --> 00:44:16,319
-if you stick through this pool
+หากคุณ stake ผ่านพูลนี้
 
 1364
 00:44:14,319 --> 00:44:18,400
-there's still chances that value gets
+ยังมีโอกาสที่ validator จะได้รับ
 
 1365
 00:44:16,319 --> 00:44:20,880
-latched but the overall cost
+การเฉือน แต่ต้นทุนโดยรวม
 
 1366
 00:44:18,400 --> 00:44:21,520
-for the pool holders will be even out
+สำหรับผู้ถือ pool จะยิ่งออก
 
 1367
 00:44:20,880 --> 00:44:23,839
-and will be
+และจะ
 
 1368
 00:44:21,520 --> 00:44:23,839
-reduced
+ลดลง
 
 1369
 00:44:24,720 --> 00:44:31,459
-cool so hopefully that helps kalyan
+เจ๋งมาก หวังว่านี้จะช่วยคุณนะ kalyan
 
 1370
 00:44:28,400 --> 00:44:31,459
@@ -5481,323 +5481,323 @@ cool so hopefully that helps kalyan
 
 1371
 00:44:33,440 --> 00:44:36,800
-oh another thing to maybe mention or
+อ้อ อีกอย่างที่อาจจะพูดถึงหรือ
 
 1372
 00:44:36,079 --> 00:44:40,960
-show
+แสดง
 
 1373
 00:44:36,800 --> 00:44:42,960
-is um one of the current issues on
+เป็นหนึ่งในประเด็นปัจจุบันของ
 
 1374
 00:44:40,960 --> 00:44:44,720
-polka dot and kusama right now is are
+polkadot และ kusama ตอนนี้ คือ
 
 1375
 00:44:42,960 --> 00:44:45,440
-the there are two things the staking
+มีสองสิ่งที่เกี่ยกับ staking
 
 1376
 00:44:44,720 --> 00:44:48,079
-minimums
+ขั้นต่ำ
 
 1377
 00:44:45,440 --> 00:44:49,599
-are becoming super high on polka dot and
+กำลังสูงมากบน polkadot
 
 1378
 00:44:48,079 --> 00:44:52,720
-also on kusama
+และ kusama
 
 1379
 00:44:49,599 --> 00:44:55,920
-um so what this allows is
+อืม ที่อนุญาตคือ
 
 1380
 00:44:52,720 --> 00:44:58,400
-for people to come in and stake dot with
+ให้คนเข้ามา stake dot
 
 1381
 00:44:55,920 --> 00:44:59,280
-like virtually no minimum right like
+ไม่มีสิทธิขั้นต่ำ
 
 1382
 00:44:58,400 --> 00:45:02,160
-what would the yes
+เหมือน
 
 1383
 00:44:59,280 --> 00:45:03,200
-what would the actual minimum be so this
+ขั้นต่ำที่แท้จริง
 
 1384
 00:45:02,160 --> 00:45:05,599
-is like um
+เช่น
 
 1385
 00:45:03,200 --> 00:45:06,880
-i have friends that has like 40 dots
+ฉันมีเพื่อนที่มี dots ประมาณ 40 tokens
 
 1386
 00:45:05,599 --> 00:45:08,560
-right and my friend really wants to
+เพื่อนของฉันต้องการ
 
 1387
 00:45:06,880 --> 00:45:10,000
-steak but you can't because the mini
+stake แต่ทำไม่ได้เพราะว่า
 
 1388
 00:45:08,560 --> 00:45:12,079
-mistaking amount on product
+จำนวนการstake
 
 1389
 00:45:10,000 --> 00:45:13,359
-currently i think it's over 200 which is
+ตอนนี้ฉันคิดว่ามันมากกว่า 200 token ซึ่งก็คือ
 
 1390
 00:45:12,079 --> 00:45:16,000
-um a lot
+จำนวนมาก
 
 1391
 00:45:13,359 --> 00:45:17,599
-but in this if you stick through um kura
+แต่ในนี้ถ้าคุณstake ผ่าน karura
 
 1392
 00:45:16,000 --> 00:45:19,119
-or if you stick through alcohol
+หรือถ้าคุณ stake ผ่าน acala
 
 1393
 00:45:17,599 --> 00:45:20,800
-you actually can get you can actually
+คุณสามารถ
 
 1394
 00:45:19,119 --> 00:45:23,200
-bypass this limitation
+ข้ามข้อจำกัดนี้
 
 1395
 00:45:20,800 --> 00:45:24,560
-because like the pool itself like this
+เพราะ pool ตัวนี้ มัน
 
 1396
 00:45:23,200 --> 00:45:26,480
-particular gs uh
+ถูกควบคุมพิเศษ
 
 1397
 00:45:24,560 --> 00:45:28,240
-controlled by the protocol uh will
+โดยโปรโตคอล
 
 1398
 00:45:26,480 --> 00:45:28,640
-actually definitely have more than 200
+จริงๆแล้วมีมากกว่า200
 
 1399
 00:45:28,240 --> 00:45:31,119
-dots
+dots token
 
 1400
 00:45:28,640 --> 00:45:32,880
-to nominate so no matter how much how
+ที่จะ nominate เท่าไรก็ได้
 
 1401
 00:45:31,119 --> 00:45:34,319
-how small amount you have you can still
+คุณมีเท่าไหร่ก็ยังได้
 
 1402
 00:45:32,880 --> 00:45:38,000
-deposit into this pool
+ฝากเข้า pool นี้ได้
 
 1403
 00:45:34,319 --> 00:45:40,319
-and the pool by itself can nominate um
+pool นี้เองก็สามารถ ส่ง
 
 1404
 00:45:38,000 --> 00:45:41,359
-the total amount of install to all the
+ยอดรวมของที่มีการติดตั้งทั้งหมด
 
 1405
 00:45:40,319 --> 00:45:44,319
-validators so yes
+ไปvalidator ทั้งหมด ใช่
 
 1406
 00:45:41,359 --> 00:45:46,160
-we can definitely bypass that and then
+เราสามารถหลีกเลี่ยงสิ่งนั้นได้อย่างแน่นอนแล้ว
 
 1407
 00:45:44,319 --> 00:45:48,079
-the other thing is um
+อีกอย่างคือ อืม
 
 1408
 00:45:46,160 --> 00:45:49,760
-people who are staking through polka dot
+คนที่มี stake ผ่าน polkadot
 
 1409
 00:45:48,079 --> 00:45:52,880
-js or
+หรือ
 
 1410
 00:45:49,760 --> 00:45:54,160
-um any of the other kind of more native
+ประเภทอื่นๆ แบบ native
 
 1411
 00:45:52,880 --> 00:45:57,119
-staking like not
+ไม่เหมือน
 
 1412
 00:45:54,160 --> 00:45:58,480
-uh exchanges and centralized stuff with
+แลกเปลี่ยนและรวมศูนย์กับ
 
 1413
 00:45:57,119 --> 00:46:01,200
-polka dot js right now
+polka dot js ตอนนี้
 
 1414
 00:45:58,480 --> 00:46:03,359
-you stake ksm and you have to do this
+คุณ stake ksm และคุณต้องทำเช่นนี้
 
 1415
 00:46:01,200 --> 00:46:05,119
-seven day unbonding period
+ระยะเวลาปลดพันธนาการเจ็ดวัน
 
 1416
 00:46:03,359 --> 00:46:07,520
-and then with polka dot it's even longer
+แต่สำหรับ polkadot ก็จะยาวนานกว่า
 
 1417
 00:46:05,119 --> 00:46:09,040
-it's 28 days so it just takes forever to
+28 วัน ดังนั้นมันจึงใช้เวลาตลอดไปเพื่อ
 
 1418
 00:46:07,520 --> 00:46:11,680
-unlock
+การปลดล็อค
 
 1419
 00:46:09,040 --> 00:46:12,560
-with uh with karua and with akala you
+แต่ใน karura และ acala
 
 1420
 00:46:11,680 --> 00:46:14,800
-can
+คุณ สามารถ
 
 1421
 00:46:12,560 --> 00:46:16,960
-in talking maybe you can show this but
+ruitao บางทีคุณสามารถแสดงสิ่งนี้ได้ แต่
 
 1422
 00:46:14,800 --> 00:46:20,000
-um basically you can un-stake
+โดยพื้นฐานแล้วคุณสามารถยกเลิกการ stake ได้
 
 1423
 00:46:16,960 --> 00:46:22,079
-early for a small fee
+แต่เนิ่นๆ ด้วยค่าธรรมเนียมเล็กน้อย
 
 1424
 00:46:20,000 --> 00:46:23,440
-um and that fee is shown i think as
+และค่าธรรมเนียมที่ถูกแสดงนั้น ฉันคิดว่าเป็น
 
 1425
 00:46:22,079 --> 00:46:26,079
-you're kind of um
+เป็นประเภท
 
 1426
 00:46:23,440 --> 00:46:27,680
-not checking out but as you're kind of
+ไม่ได้เช็คเอาท์ แต่
 
 1427
 00:46:26,079 --> 00:46:32,079
-going through this process
+กำลังผ่านกระบวนการนี้
 
 1428
 00:46:27,680 --> 00:46:34,480
-yeah so fee so in this case you're
+ใช่ดังนั้นค่าธรรมเนียมในกรณีนี้
 
 1429
 00:46:32,079 --> 00:46:36,079
-you're basically unstaking instantly
+คุณกำลัง unstake ทันที
 
 1430
 00:46:34,480 --> 00:46:37,839
-right and then you're paying a fee of
+ถูกต้องแล้วคุณจ่ายค่าธรรมเนียมของ
 
 1431
 00:46:36,079 --> 00:46:40,319
-.02 dot
+คุณ 0.02 dot
 
 1432
 00:46:37,839 --> 00:46:42,000
-yes so the design of the liquid sticking
+ใช่แล้ว การออกแบบ liquid staking pool
 
 1433
 00:46:40,319 --> 00:46:43,760
-pool is that if i go to the advanced
+ถ้าฉันไปที่ ตัวเลือกขั้นสูง
 
 1434
 00:46:42,000 --> 00:46:46,000
-tab you will see that we always have
+ณจะเห็นว่าเรามักจะมี
 
 1435
 00:46:43,760 --> 00:46:48,319
-some maintenance some free
+การบำรุงรักษาบางส่วน
 
 1436
 00:46:46,000 --> 00:46:49,599
-dots or some free kusama available for
+dot ฟรี และ kusama ฟรีบางส่วน ที่มีให้
 
 1437
 00:46:48,319 --> 00:46:51,680
-redeem immediately
+แลกรับทันที
 
 1438
 00:46:49,599 --> 00:46:52,720
-so let's say that if an user we really
+สมมุติว่าถ้าผู้ใช้เป็นเราจริงๆ
 
 1439
 00:46:51,680 --> 00:46:56,319
-want to redeem
+ต้องการไถ่ถอน
 
 1440
 00:46:52,720 --> 00:46:58,240
-um the l dot back to dots immediately
+ldot กลับไป dot ทันที
 
 1441
 00:46:56,319 --> 00:47:01,599
-you can do so because there's always
+คุณสามารถทำได้เสมอ เพราะ เรามี
 
 1442
 00:46:58,240 --> 00:47:02,319
-a portion to set aside um for free um to
+ส่วนที่กันไว้แลก ฟรี
 
 1443
 00:47:01,599 --> 00:47:03,760
-redeem
+ไถ่ถอน
 
 1444
 00:47:02,319 --> 00:47:05,680
-but if you want to redeem immediately
+แต่ถ้าอยากแลกทันที
 
 1445
 00:47:03,760 --> 00:47:08,240
-you need to pay a fee to cover the
+คุณต้องจ่ายค่าธรรมเนียมเพื่อครอบคลุม
 
 1446
 00:47:05,680 --> 00:47:09,520
-otherwise lost return of those free
+มิฉะนั้นจะสูญเสียผลตอบแทนของ
 
 1447
 00:47:08,240 --> 00:47:11,359
-portion of the
+จากส่วนที่ว่างของ pool
 
 1448
 00:47:09,520 --> 00:47:12,640
-um and also like this is not option this
+และแบบนี้ไม่ใช่ตัวเลือก
 
 1449
 00:47:11,359 --> 00:47:13,280
-is not compulsory so if you want to
+ไม่ได้บังคับดังนั้นหากคุณต้องการ
 
 1450
 00:47:12,640 --> 00:47:15,119
-redeem
+ไถ่ถอน
 
 1451
 00:47:13,280 --> 00:47:16,400
