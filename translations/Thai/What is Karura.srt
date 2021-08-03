@@ -5201,119 +5201,119 @@ dot สามารถถูกเฉือน
 
 1301
 00:42:21,520 --> 00:42:26,079
-with like network security and slashing
+ด้วยเช่นการรักษาความปลอดภัยเครือข่ายและการตัดเฉือน
 
 1302
 00:42:24,400 --> 00:42:28,160
-okay i think this is an awesome question
+โอเค ฉันคิดว่านี่เป็นคำถามที่ยอดเยี่ยม
 
 1303
 00:42:26,079 --> 00:42:30,319
-right so um if the
+ดังนั้น อืม ถ้า
 
 1304
 00:42:28,160 --> 00:42:31,440
-polka dots network security can be
+ความปลอดภัยของเครือข่าย polka dots สามารถ
 
 1305
 00:42:30,319 --> 00:42:34,240
-compromised
+ประนีประนอมได้
 
 1306
 00:42:31,440 --> 00:42:35,359
-by saying that you simply pull up the um
+โดยบอกว่าคุณเพียงแค่ดึง
 
 1307
 00:42:34,240 --> 00:42:37,920
-the dot together
+dot ร่วมกัน
 
 1308
 00:42:35,359 --> 00:42:38,560
-and make it transferable and make it
+และทำให้สามารถถ่ายโอนและทำให้เป็น
 
 1309
 00:42:37,920 --> 00:42:40,960
-liquid
+liquid ได้
 
 1310
 00:42:38,560 --> 00:42:42,720
-then i think um it's gonna happen anyway
+ฉันคิดว่า อืม มันจะเกิดขึ้นต่อไป
 
 1311
 00:42:40,960 --> 00:42:44,000
-like there's always a lot of centralized
+ราวกับว่ามีหน่วยงานที่ centralized อยู่เสมอ
 
 1312
 00:42:42,720 --> 00:42:46,160
-entities so if you stick with
+ดังนั้นหากคุณ stake กับ
 
 1313
 00:42:44,000 --> 00:42:47,680
-finance today you can already transfer
+การเงินในวันนี้ คุณสามารถโอนสินทรัพย์
 
 1314
 00:42:46,160 --> 00:42:48,880
-your stack asset you can trade it in the
+สแต็กของคุณแล้ว คุณสามารถแลกเปลี่ยนมันใน
 
 1315
 00:42:47,680 --> 00:42:50,800
-market or things like that
+ตลาดหรือสิ่งต่าง ๆ เช่นนั้น
 
 1316
 00:42:48,880 --> 00:42:52,240
-so the thing is that i we don't think
+สิ่งที่เราไม่คิดว่า
 
 1317
 00:42:50,800 --> 00:42:54,160
-this is going to affect the
+จะส่งผลกระทบต่อ
 
 1318
 00:42:52,240 --> 00:42:55,359
-um the pokers network security at all
+ความปลอดภัยของเครือข่าย Pokadot
 
 1319
 00:42:54,160 --> 00:42:58,960
-because ultimately
+เพราะ ท้ายที่สุด
 
 1320
 00:42:55,359 --> 00:42:59,440
-if by simply reprogram or by gaming by
+ถ้าเพียงแค่โปรแกรมใหม่หรือโดยการเล่นเกมโดย
 
 1321
 00:42:58,960 --> 00:43:01,440
-by
+โดย
 
 1322
 00:42:59,440 --> 00:43:02,880
-building something on top of the network
+การสร้างบางสิ่งบนเครือข่าย
 
 1323
 00:43:01,440 --> 00:43:04,640
-and you can affect security
+และคุณสามารถส่งผลกระทบต่อความปลอดภัย
 
 1324
 00:43:02,880 --> 00:43:06,560
-then there's actually a security problem
+แสดงว่ามีปัญหาด้านความปลอดภัย
 
 1325
 00:43:04,640 --> 00:43:07,839
-of the underlying layer in this in our
+ของเลเยอร์พื้นฐานในกรณีนี้
 
 1326
 00:43:06,560 --> 00:43:10,319
-case we don't think that's
+เราไม่คิดว่ามันจะมี
 
 1327
 00:43:07,839 --> 00:43:12,079
-gonna have any problem um the other key
+ปัญหาต่างๆ สิ่งสำคัญอื่น ๆ
 
 1328
 00:43:10,319 --> 00:43:13,599
-stuff to think about if you stick
+ที่ควรพิจารณาหากคุณ staking
 
 1329
 00:43:12,079 --> 00:43:15,920
-through this particular
+ผ่าน liquid staking
 
 1330
 00:43:13,599 --> 00:43:17,359
