@@ -5125,79 +5125,79 @@ smart contract advanced version
 
 1282
 00:41:36,160 --> 00:41:39,839
-um everyone is staking in a trustless
+อืม ทุกคนกำลัง staking ในแบบ
 
 1283
 00:41:38,400 --> 00:41:43,040
-way and there's no risk of
+trustless ที่ไม่มีความเสี่ยง
 
 1284
 00:41:39,839 --> 00:41:44,160
-um of being um managed by one single
+จะถูกจัดการโดย
 
 1285
 00:41:43,040 --> 00:41:46,000
-centralized entity
+หน่วยงานส่วนกลางเพียงแห่งเดียว
 
 1286
 00:41:44,160 --> 00:41:48,000
-so this is the i think this is awesome
+ดังนั้น ฉันคิดว่านี่ยอดเยี่ยมมาก
 
 1287
 00:41:46,000 --> 00:41:51,119
-this is the way to go um for
+นี่คือหนทางที่จะ
 
 1288
 00:41:48,000 --> 00:41:53,359
-um in a sense yokusama even you stick
+ของ kusama แม้ว่าคุณจะ staking
 
 1289
 00:41:51,119 --> 00:41:57,040
-through the liquid staking
+ผ่าน liquid staking
 
 1290
 00:41:53,359 --> 00:42:00,160
-yokusama never leave your custody
+kusama ไม่เคยออกจากการดูแลของคุณ
 
 1291
 00:41:57,040 --> 00:42:02,160
-yep we have some just really good
+ใช่เรามีคำถามที่ดี
 
 1292
 00:42:00,160 --> 00:42:06,560
-questions here so um
+ที่นี่ดังนั้น
 
 1293
 00:42:02,160 --> 00:42:09,040
-kalyan asked um
+kalyan ถาม
 
 1294
 00:42:06,560 --> 00:42:11,200
-okay so by staking or by making dot
+เกี่ยวกับการ staking หรือ การทำ dot liquid
 
 1295
 00:42:09,040 --> 00:42:12,160
-liquid are we compromising the safety of
+เรากำลังกังวลเกี่ยวกับความปลอดภัยของ
 
 1296
 00:42:11,200 --> 00:42:15,280
-the polka dot
+polkadot chain
 
 1297
 00:42:12,160 --> 00:42:16,880
-chain the dot can be slash still be
+dot สามารถถูกเฉือน
 
 1298
 00:42:15,280 --> 00:42:19,920
-slashed right
+ออกไปบางส่วนใช่ไหม
 
 1299
 00:42:16,880 --> 00:42:21,520
-um what happens then the
+เกิดอะไรขึ้นหลังจากนั้น
 
 1300
 00:42:19,920 --> 00:42:24,400
-so basically he's asking what happens
+ดยพื้นฐานแล้วเขาถามว่าเกิดอะไรขึ้น
 
 1301
 00:42:21,520 --> 00:42:26,079
