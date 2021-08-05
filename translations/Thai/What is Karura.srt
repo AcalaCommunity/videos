@@ -6009,495 +6009,495 @@ liquid staking dot และ lksm
 
 1503
 00:48:51,280 --> 00:48:54,960
-because we call ourselves like as a as a
+เพราะเราเรียกตัวเองว่าเป็น
 
 1504
 00:48:53,680 --> 00:48:56,079
-specialized network
+เครือข่ายเฉพาะทาง
 
 1505
 00:48:54,960 --> 00:48:58,240
-i would like to really show off
+ฉันอยากจะแสดง
 
 1506
 00:48:56,079 --> 00:49:00,079
-something that's like why we call
+บางอย่างที่เหมือนกับว่าเหตุใดเราจึงเรียก
 
 1507
 00:48:58,240 --> 00:49:01,760
-ourselves as a specialized network is
+ตัวเองว่าเครือข่ายเฉพาะ
 
 1508
 00:49:00,079 --> 00:49:04,800
-because like we can
+เพราะเราสามารถ
 
 1509
 00:49:01,760 --> 00:49:06,720
-customize stuff that's outside um the
+กำหนดสิ่งที่อยู่นอก
 
 1510
 00:49:04,800 --> 00:49:08,480
-um outside application layer we can
+ชั้นแอปพลิเคชัน เราสามารถ
 
 1511
 00:49:06,720 --> 00:49:10,000
-customize a logic has
+ปรับแต่งตรรกะที่มี
 
 1512
 00:49:08,480 --> 00:49:11,760
-in the blockchain layer that can create
+ในชั้นบล็อคเชนที่สามารถสร้าง
 
 1513
 00:49:10,000 --> 00:49:14,000
-something that's like amazing
+บางสิ่งที่น่าทึ่ง
 
 1514
 00:49:11,760 --> 00:49:15,760
-to boost the user experience much much
+เพื่อเพิ่มประสบการณ์ของผู้ใช้
 
 1515
 00:49:14,000 --> 00:49:17,119
-friendlier so what i'm going to do here
+ที่เป็นมิตรกว่านี้ ดังนั้นสิ่งที่ฉันจะทำ
 
 1516
 00:49:15,760 --> 00:49:18,079
-is i'm going to switch to a brand new
+คือฉันจะเปลี่ยนไปใช้
 
 1517
 00:49:17,119 --> 00:49:20,480
-account right
+บัญชีใหม่
 
 1518
 00:49:18,079 --> 00:49:22,240
-i have this brand new account and i have
+ฉันมีบัญชีใหม่นี้และ
 
 1519
 00:49:20,480 --> 00:49:27,040
-nothing else but 500
+ฉันไม่มีอะไรอื่นนอกจาก 500
 
 1520
 00:49:22,240 --> 00:49:27,040
-usd or kusd in this case i have no other
+usd หรือ kusd ในกรณีนี้ ฉันไม่มี
 
 1521
 00:49:28,839 --> 00:49:31,839
-assets
+ทรัพย์สินอื่น
 
 1522
 00:49:34,319 --> 00:49:38,000
-we have this like pay as a goal or like
+เรามีสิ่งนี้เช่นจ่ายเป็นเป้าหมายหรือ
 
 1523
 00:49:36,160 --> 00:49:40,480
-fix the fee or bring your own gas
+แก้ไขค่าธรรมเนียมหรือนำก๊าซของคุณ
 
 1524
 00:49:38,000 --> 00:49:41,760
-i can start to trade immediately as i as
+ฉันสามารถเริ่มซื้อขายได้ทันทีตราบใด
 
 1525
 00:49:40,480 --> 00:49:43,920
-long as i have some assets
+ที่ฉันมีทรัพย์สินบางส่วน
 
 1526
 00:49:41,760 --> 00:49:45,440
-in the guru network so i'm going to send
+ในguru network ดังนั้นฉันจะส่ง
 
 1527
 00:49:43,920 --> 00:49:47,280
-a hundred dollars to
+หนึ่งร้อยดอลลาร์ไปให้
 
 1528
 00:49:45,440 --> 00:49:50,400
-an another address i will just press
+บัญชีอื่น ฉันจะกด
 
 1529
 00:49:47,280 --> 00:49:52,480
-confirm i'm going to type in my password
+ยืนยัน ฉันจะพิมพ์รหัสผ่านของฉัน
 
 1530
 00:49:50,400 --> 00:49:54,079
-and i can send it and the network is
+ละฉันสามารถส่งมันได้ และเครือข่ายกำลัง
 
 1531
 00:49:52,480 --> 00:49:57,359
-happily taking
+เรียกข้อมูล
 
 1532
 00:49:54,079 --> 00:49:59,359
-a fetch uh uh the iusd that i sent it
+iusd ที่ฉันส่งไป
 
 1533
 00:49:57,359 --> 00:50:02,000
-was it will charge
+มันจะคิดเงิน
 
 1534
 00:49:59,359 --> 00:50:02,960
-like a half of a dollar of the usd as
+ประมาณครึ่งดอลลาร์ usd
 
 1535
 00:50:02,000 --> 00:50:06,160
-the network fee
+เป็น ค่าธรรมเนียมเครือข่าย
 
 1536
 00:50:02,960 --> 00:50:06,800
-so this is already a huge um user
+ดังนั้นนี่เป็น
 
 1537
 00:50:06,160 --> 00:50:09,040
-experience
+ประสบการณ์ผู้ใช้ขนาดใหญ่
 
 1538
 00:50:06,800 --> 00:50:10,240
-boost compared to other blockchains this
+เมื่อเทียบกับ blockchains อื่น ๆ
 
 1539
 00:50:09,040 --> 00:50:13,200
-is like making the
+มันเหมือนกับ
 
 1540
 00:50:10,240 --> 00:50:13,520
-transaction in akala or in kura much
+การทำธุรกรรมใน acala หรือใน karura
 
 1541
 00:50:13,200 --> 00:50:15,920
-much
+ที่เป็น
 
 1542
 00:50:13,520 --> 00:50:16,640
-friendlier and another very common
+มิตรมากกว่า และใน
 
 1543
 00:50:15,920 --> 00:50:18,960
-scenario
+สถานการณ์ทั่วไป
 
 1544
 00:50:16,640 --> 00:50:20,000
-um that you experience is that uh if you
+ประสบการณ์ของคุณ ถ้าคุณ
 
 1545
 00:50:18,960 --> 00:50:22,960
-arrive on
+เข้าถึง
 
 1546
 00:50:20,000 --> 00:50:24,720
-kuru or you arrive on kala kala you have
+karura หรือ acala คุณมี
 
 1547
 00:50:22,960 --> 00:50:25,599
-only dots right you have nothing else
+เพียง dot และ ไม่มีอะไรอื่นนอกจาก
 
 1548
 00:50:24,720 --> 00:50:27,839
-but dogs
+dot
 
 1549
 00:50:25,599 --> 00:50:29,040
-um and in this particular cases you
+และในกรณีนี้ คุณ
 
 1550
 00:50:27,839 --> 00:50:32,160
-still want to transact
+ยังต้องการทำธุรกรรม
 
 1551
 00:50:29,040 --> 00:50:33,200
-within uh we sing within kurura you can
+ภายใน karura คุณสามารถ
 
 1552
 00:50:32,160 --> 00:50:37,440
-do so so
+ทำได้
 
 1553
 00:50:33,200 --> 00:50:39,680
-i'm gonna borrow against my 1.5
+ฉันจะยืมกับ 1.5
 
 1554
 00:50:37,440 --> 00:50:41,200
-kusama let's pretend it in these cases
+kusama ของฉัน ลองทดลองในกรณีเหล่านี้
 
 1555
 00:50:39,680 --> 00:50:43,680
-i'm going to borrow against that
+ฉันจะยืม
 
 1556
 00:50:41,200 --> 00:50:44,960
-i have no other assets i have only dots
+เพราะฉันไม่มีทรัพย์สินอื่น ๆ ฉันมีเพียง dot เท่านั้น
 
 1557
 00:50:43,680 --> 00:50:46,640
-i can still change that
+ฉันยังสามารถเปลี่ยนได้ว่า
 
 1558
 00:50:44,960 --> 00:50:49,599
-i can change that and the network is
+ฉันยังสามารถเปลี่ยนได้ว่า และเครือข่ายคือ
 
 1559
 00:50:46,640 --> 00:50:52,160
-happy to take a friction off my god
+เกิดขึ้นกับ dot ของฉัน
 
 1560
 00:50:49,599 --> 00:50:53,200
-or my kusama as the network fee to allow
+หรือ kusama ของฉันเป็นค่าธรรมเนียมเครือข่าย
 
 1561
 00:50:52,160 --> 00:50:55,280
-me to transact
+เพื่อให้ฉันทำธุรกรรม
 
 1562
 00:50:53,200 --> 00:50:56,720
-so this is like what we call uh bring
+ดังนั้นนี่คือสิ่งที่เราเรียกว่า
 
 1563
 00:50:55,280 --> 00:50:58,960
-your own gas flexi
+นำค่าธรรมเนียม ของคุณมาเอง
 
 1564
 00:50:56,720 --> 00:51:00,240
-flexi fee and this is like you are not
+flexi fee และนี่เหมือนกับว่าคุณไม่ได้
 
 1565
 00:50:58,960 --> 00:51:02,160
-forced you are not
+ถูกบังคับ คุณไม่ได้
 
 1566
 00:51:00,240 --> 00:51:04,319
-uh you are not forced to buy some native
+คุณไม่ได้ถูกบังคับให้ซื้อ
 
 1567
 00:51:02,160 --> 00:51:06,400
-tokens just to in order to
+native tokens เพื่อ
 
 1568
 00:51:04,319 --> 00:51:08,480
-to pay for the guest fee we think a
+จ่ายสำหรับค่าธรรมเนียมก๊าซ เราคิดว่า
 
 1569
 00:51:06,400 --> 00:51:10,480
-specialized financial network
+เครือข่ายทางการเงินเฉพาะ
 
 1570
 00:51:08,480 --> 00:51:11,599
-should be as smooth as possible should
+ควรจะราบรื่นที่สุด
 
 1571
 00:51:10,480 --> 00:51:13,760
-be encouraging
+เท่าที่จะเป็นไปได้
 
 1572
 00:51:11,599 --> 00:51:15,200
-um the user to trader to trade other
+ควรส่งเสริมให้ผู้ใช้ เทรดเดอร์ทำการแลกเปลี่ยน
 
 1573
 00:51:13,760 --> 00:51:16,480
-than tight you should really get some
+คุณควรได้รับ
 
 1574
 00:51:15,200 --> 00:51:18,319
-token before you can trade
+โทเค็น ก่อนที่คุณจะสามารถแลกเปลี่ยนได้
 
 1575
 00:51:16,480 --> 00:51:20,720
-uh so this is the one the special
+นี่คือฟังก์ชั่นพิเศษ
 
 1576
 00:51:18,319 --> 00:51:22,319
-functionality um that you can see that
+คุณจะเห็นได้ว่า
 
 1577
 00:51:20,720 --> 00:51:24,160
-the power um
+พลัง
 
 1578
 00:51:22,319 --> 00:51:25,680
-if you can customize the network into
+ถ้าคุณสามารถปรับแต่งเครือข่ายให้อยู่ใน
 
 1579
 00:51:24,160 --> 00:51:29,119
-the core level
+ระดับแกนหลัก
 
 1580
 00:51:25,680 --> 00:51:30,480
-yeah um this person jack asked a really
+แจ็คคนนี้ถามคำถาม
 
 1581
 00:51:29,119 --> 00:51:32,720
-good question
+ที่ดีจริงๆ
 
 1582
 00:51:30,480 --> 00:51:33,760
-um and it's it's exactly right so he's
+ถูกต้อง
 
 1583
 00:51:32,720 --> 00:51:35,440
-so um
+ดังนั้น
 
 1584
 00:51:33,760 --> 00:51:37,839
-is there any question regarding like how
+เลยมีคำถามเกี่ยวกับ
 
 1585
 00:51:35,440 --> 00:51:41,040
-we um how we show this um
+วิธีที่เราแสดงการ
 
 1586
 00:51:37,839 --> 00:51:44,319
-this fixed flexible fee payment on gas
+ชำระค่าธรรมเนียมแบบ flexible fee
 
 1587
 00:51:41,040 --> 00:51:44,319
-yeah can you can you hear me
+ได้ยินฉันไหม
 
 1588
 00:51:47,200 --> 00:51:51,359
-oh can you hear me i think we lost dan
+โอ้ ได้ยินฉันไหม ฉันคิดว่าแดนหลุดไปแล้ว
 
 1589
 00:51:50,240 --> 00:51:54,240
-um but don't worry
+อืม แต่ไม่ต้องห่วง
 
 1590
 00:51:51,359 --> 00:51:54,240
-i can continue to
+ฉันสามารถไปต่อ
 
 1591
 00:51:54,400 --> 00:51:56,720
-i'm
+ฉัน
 
 1592
 00:52:01,680 --> 00:52:05,839
-rita i'm here can you can you guys hear
+ruitao พวกคุณได้ยินไหม
 
 1593
 00:52:03,520 --> 00:52:05,839
-me
+ฉัน
 
 1594
 00:52:06,720 --> 00:52:13,839
-um i can't hear you dan um
+อืม ฉันไม่ได้ยินคุณแดน
 
 1595
 00:52:10,559 --> 00:52:15,359
-can you hear me then okay oh well
+ได้ยินฉันไหม โอเค โอเค
 
 1596
 00:52:13,839 --> 00:52:18,319
-i think for some reason i can see dan
+ฉันคิดว่าด้วยเหตุผลบางอย่างฉันสามารถเห็น dan
 
 1597
 00:52:15,359 --> 00:52:20,640
-the spinning the spinning okay that's
+การหมุน โอเค
 
 1598
 00:52:18,319 --> 00:52:20,640
-great
+ยอดเยี่ยม
 
 1599
 00:52:20,960 --> 00:52:24,079
-um maybe then i will i will try to
+อืม บางทีฉันจะพยายาม
 
 1600
 00:52:23,359 --> 00:52:25,920
-rejoin
+เข้าร่วมใหม่
 
 1601
 00:52:24,079 --> 00:52:27,520
-or you can you can you can carry in the
+คุณสามารถดำเนินการใน
 
 1602
 00:52:25,920 --> 00:52:28,559
-conversation i will try to rejoin and
+การสนทนา ฉันจะลองเข้าร่วมและ
 
 1603
 00:52:27,520 --> 00:52:30,400
-see if you can uh
+ดูว่าคุณสามารถ
 
 1604
 00:52:28,559 --> 00:52:31,599
-if i can hear you let me let me try to
+ถ้าฉันได้ยินคุณให้ฉัน
 
 1605
 00:52:30,400 --> 00:52:33,839
-rejoin okay
+ลองอีกครั้ง
 
 1606
 00:52:31,599 --> 00:52:33,839
-cool
+โอเค
 
 1607
 00:52:36,559 --> 00:52:43,359
-okay well i'm glad it wasn't just me
+ฉันดีใจที่ไม่ได้เป็นเพียงฉัน
 
 1608
 00:52:40,400 --> 00:52:46,319
-um so let's see what was i gonna say oh
+มาดูกัน
 
 1609
 00:52:43,359 --> 00:52:50,319
-yeah there was a question about
+โอ้ ใช่ มีคำถาม
 
 1610
 00:52:46,319 --> 00:52:53,760
-um from
+จาก
 
 1611
 00:52:50,319 --> 00:52:57,280
-from who was it jack oh about how the
+แจ็ค เกี่ยวกับการ
 
 1612
 00:52:53,760 --> 00:53:00,000
-pay your own gas or what's it
+จ่ายก๊าซของคุณเองหรือ
 
 1613
 00:52:57,280 --> 00:53:01,119
-basically the gas fee um bring your own
+โดยพื้นฐานแล้ว ค่าก๊าซ อืม คุณต้องนำมาเองด้วย
 
 1614
 00:53:00,000 --> 00:53:05,200
-gas so
+ดังนั้น
 
 1615
 00:53:01,119 --> 00:53:07,839
-as i try to invite roytel back
+ฉันพยายามจะชวน ruitao กลับมา
 
 1616
 00:53:05,200 --> 00:53:09,280
-uh basically you were is it is he right
+โดยพื้นฐานแล้ว
 
 1617
 00:53:07,839 --> 00:53:10,640
-there you hear me now
+คุณได้ยินฉันแล้ว
 
 1618
 00:53:09,280 --> 00:53:12,000
-yeah i can hear you right now i think
+ใช่ ตอนนี้ ฉันได้ยินคุณแล้ว
 
 1619
 00:53:10,640 --> 00:53:13,119
-it's awesome like we're building we're
+ฉันคิดว่ามันเยี่ยมมาก เรากำลังสร้าง
 
 1620
 00:53:12,000 --> 00:53:15,440
-building web
+เรากำลังสร้างเว็บ
 
 1621
 00:53:13,119 --> 00:53:16,559
-we're building web 3.0 but now the web
+เรากำลังสร้างเว็บ 3.0 แต่ตอนนี้
 
 1622
 00:53:15,440 --> 00:53:19,920
-2.0
+สตรีมเว็บ 2.0
 
 1623
 00:53:16,559 --> 00:53:22,160
-streaming service failed on us okay
+บริการ streaming ล่ม
 
 1624
 00:53:19,920 --> 00:53:23,119
-i was i was trying to answer the
+ฉันกำลังพยายามตอบคำถาม
 
 1625
 00:53:22,160 --> 00:53:25,359
-question so
+ดังนั้น
 
 1626
 00:53:23,119 --> 00:53:26,319
