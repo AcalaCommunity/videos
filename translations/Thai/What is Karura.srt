@@ -6689,323 +6689,323 @@ karura เปิดตัว
 
 1673
 00:55:04,240 --> 00:55:10,880
-there's so many questions
+มีคำถามมากมาย
 
 1674
 00:55:07,599 --> 00:55:13,440
-uh well hey
+ดี
 
 1675
 00:55:10,880 --> 00:55:14,319
-i guess baze will find that question and
+ฉันเดาว่า เบ จะเจอคำถามนั้น
 
 1676
 00:55:13,440 --> 00:55:16,720
-come back to it
+แล้วกลับมาอีกครั้ง
 
 1677
 00:55:14,319 --> 00:55:17,920
-someone also asked about the crowd loan
+มีคนถามถึง crowdloan
 
 1678
 00:55:16,720 --> 00:55:21,520
-and
+และ
 
 1679
 00:55:17,920 --> 00:55:24,480
-how they lock and contribute to all that
+วิธีที่พวกเขาล็อคและมีส่วนร่วมในทั้งหมดนั้น
 
 1680
 00:55:21,520 --> 00:55:26,000
-let's keep the conversation um kind of
+เรากลับมาที่บทสนทนากันต่อ
 
 1681
 00:55:24,480 --> 00:55:27,119
-focused more on the product today
+และโฟกัสไปที่ผลิตภัณฑ์ในวันนี้
 
 1682
 00:55:26,000 --> 00:55:28,880
-there's going to be
+ 
 
 1683
 00:55:27,119 --> 00:55:30,480
-we've done crowd loan presentations in
+เราได้นำเสนอการทำ crowdloan ในอดีต
 
 1684
 00:55:28,880 --> 00:55:33,280
-the past and we're going to be doing
+และเราจะทำ
 
 1685
 00:55:30,480 --> 00:55:34,799
-at least one probably more before that
+อย่างน้อยหนึ่งอย่างที่อาจมากกว่านั้น
 
 1686
 00:55:33,280 --> 00:55:38,079
-starts
+ก่อนที่จะเริ่ม
 
 1687
 00:55:34,799 --> 00:55:39,839
-so trust us we're going to be giving you
+เชื่อเราเถอะว่าเราจะให้
 
 1688
 00:55:38,079 --> 00:55:41,520
-probably more education than you even
+ความรู้แก่คุณมากกว่าที่คุณจำเป็น
 
 1689
 00:55:39,839 --> 00:55:41,920
-need on how that whole process works and
+เกี่ยวกับกระบวนการทั้งหมดนั้นทำงานอย่างไรและ
 
 1690
 00:55:41,520 --> 00:55:44,640
-we'll
+เราจะ
 
 1691
 00:55:41,920 --> 00:55:45,760
-we'll be doing that um when the time
+เราจะทำอย่างนั้น อืม เมื่อถึงเวลา
 
 1692
 00:55:44,640 --> 00:55:47,280
-comes we're
+เราจะ
 
 1693
 00:55:45,760 --> 00:55:49,440
-we're waiting just like you guys and we
+รอเหมือน พวกคุณ
 
 1694
 00:55:47,280 --> 00:55:51,760
-don't know dates or anything like that
+และเราไม่รู้วันที่หรืออะไรแบบนั้น
 
 1695
 00:55:49,440 --> 00:55:53,200
-but it's it's going to be soon it's it's
+แต่อีกไม่นาน
 
 1696
 00:55:51,760 --> 00:55:57,119
-looking like
+ดูเหมือนว่า
 
 1697
 00:55:53,200 --> 00:55:59,760
-um the question about the liquidity was
+คำถามเกี่ยวกับสภาพคล่องคือ
 
 1698
 00:55:57,119 --> 00:56:00,160
-six percent of kr will be allocated to
+หกเปอร์เซ็นต์ของ KR จะถูกจัดสรรให้
 
 1699
 00:55:59,760 --> 00:56:03,200
-early
+ผู้ให้บริการสภาพคล่อง
 
 1700
 00:56:00,160 --> 00:56:04,720
-liquidity providers how many early
+กลุ่มแรก
 
 1701
 00:56:03,200 --> 00:56:07,599
-providers will that
+จะมีผู้ให้บริการรายแรกๆ
 
 1702
 00:56:04,720 --> 00:56:08,960
-apply to and is there like a fixed
+กี่รายที่สมัคร และมีจำนวนคงที่
 
 1703
 00:56:07,599 --> 00:56:11,839
-amount or how does that
+หรือทำงานอย่างไร
 
 1704
 00:56:08,960 --> 00:56:12,799
-work no because like this is a brand new
+ไม่ เพราะสิ่งนี้เป็นพื้นที่ใหม่
 
 1705
 00:56:11,839 --> 00:56:15,200
-area right so
+ดังนั้น
 
 1706
 00:56:12,799 --> 00:56:16,640
-um we think six percent is going to be
+เราคิดว่า 6% ที่จะ
 
 1707
 00:56:15,200 --> 00:56:19,200
-distributed across
+ถูกแจกจ่ายในช่วง
 
 1708
 00:56:16,640 --> 00:56:20,079
-the very first 12 months is upon network
+12 เดือนแรกนั้นขึ้นอยู่กับ
 
 1709
 00:56:19,200 --> 00:56:21,839
-genesis
+บการกำเนิดของเครือข่าย
 
 1710
 00:56:20,079 --> 00:56:23,280
-and that's the total the minimum total
+และนั่นคือยอดรวมขั้นต่ำ
 
 1711
 00:56:21,839 --> 00:56:24,559
-that we the network is willing to
+ที่เราเครือข่ายยินดีจะ
 
 1712
 00:56:23,280 --> 00:56:26,880
-incentivize um
+จูงใจ
 
 1713
 00:56:24,559 --> 00:56:28,079
-early adopters and because like this is
+ผู้ใช้ในช่วงแรกๆ และเพราะแบบนี้
 
 1714
 00:56:26,880 --> 00:56:30,799
-a brand new area
+คือ พื้นที่ใหม่
 
 1715
 00:56:28,079 --> 00:56:32,559
-we will be reviewing um all the
+ที่เราจะตรวจสอบ
 
 1716
 00:56:30,799 --> 00:56:33,359
-governance process of the network we're
+กระบวนการกำกับดูแลทั้งหมดของเครือข่าย
 
 1717
 00:56:32,559 --> 00:56:36,400
-reviewing
+ที่เรากำลังตรวจสอบ
 
 1718
 00:56:33,359 --> 00:56:38,640
-uh where incentive incentive is needed
+ซึ่งจำเป็นต้องมีแรงจูงใจมากที่สุด
 
 1719
 00:56:36,400 --> 00:56:40,400
-at most for example if more stable coin
+ตัวอย่างเช่น
 
 1720
 00:56:38,640 --> 00:56:42,240
-is needed um
+หากต้องการเหรียญ stable coin
 
 1721
 00:56:40,400 --> 00:56:43,760
-every two week the governance process
+ทุก ๆ สองสัปดาห์ กระบวนการกำกับดูแล
 
 1722
 00:56:42,240 --> 00:56:44,960
-will review there should be more
+จะทบทวน
 
 1723
 00:56:43,760 --> 00:56:47,440
-incentive deploying
+ควรมีการนำสิ่งจูงใจไปใช้ใน
 
 1724
 00:56:44,960 --> 00:56:49,040
-into the stable stable coin meeting if
+การทำเหรียญ stable coinหาก
 
 1725
 00:56:47,440 --> 00:56:50,319
-more tax volume or the more tax
+ต้องการปริมาณของ dex มากขึ้นหรือต้องการ
 
 1726
 00:56:49,040 --> 00:56:51,920
-liquidity is needed
+สภาพคล่องของ dex มากขึ้น
 
 1727
 00:56:50,319 --> 00:56:53,599
-um every two weeks the government's
+ทุกสองสัปดาห์การกำกับดูแล
 
 1728
 00:56:51,920 --> 00:56:56,079
-process will say that okay there will be
+กระบวนการ โอเคจะมี
 
 1729
 00:56:53,599 --> 00:56:58,000
-slightly more incentive in the in the in
+แรงจูงใจเพิ่มขึ้นเล็กน้อยใน
 
 1730
 00:56:56,079 --> 00:57:00,079
-the decks at that particular pair
+dex ที่คู่เฉพาะ
 
 1731
 00:56:58,000 --> 00:57:01,920
-so you'll be constantly updating but the
+ดังนั้นคุณจะอัปเดตอย่างต่อเนื่อง แต่
 
 1732
 00:57:00,079 --> 00:57:04,799
-goal for the network is to give out
+เป้าหมายสำหรับเครือข่ายคือการให้
 
 1733
 00:57:01,920 --> 00:57:05,920
-um six percent at minimum with for the
+อย่างน้อยหกเปอร์เซ็นต์ด้วยใน
 
 1734
 00:57:04,799 --> 00:57:07,599
-various 12 months
+ช่วง 12 เดือน
 
 1735
 00:57:05,920 --> 00:57:09,440
-for everyone that contributing that's
+สำหรับทุกคนที่มีส่วนร่วม
 
 1736
 00:57:07,599 --> 00:57:11,040
-trading that's providing liquidity
+การซื้อขาย และที่ให้สภาพคล่อง
 
 1737
 00:57:09,440 --> 00:57:13,599
-that's meaning stablecoin
+ซึ่งหมายถึง stablecoin
 
 1738
 00:57:11,040 --> 00:57:14,240
-um or maintain the lksm token in the
+หรือรักษาโทเค็น lksm
 
 1739
 00:57:13,599 --> 00:57:15,599
-network
+ในเครือข่าย
 
 1740
 00:57:14,240 --> 00:57:17,280
-so yeah there's so many ways to
+ดังนั้น ใช่ มีหลายวิธี
 
 1741
 00:57:15,599 --> 00:57:20,240
-participate
+ในการมีส่วนร่วม
 
 1742
 00:57:17,280 --> 00:57:21,920
-and that so i guess there's a little bit
+และฉันก็เลยเดาว่า
 
 1743
 00:57:20,240 --> 00:57:25,040
-more to his question like
+คำถามของเขาเช่น
 
 1744
 00:57:21,920 --> 00:57:26,720
-or his or her i don't know um the first
+เขา หรือเธอ ฉันไม่รู้ อืม คนแรก
 
 1745
 00:57:25,040 --> 00:57:29,760
-he's saying or he or she is saying like
+เขาพูด หรือ เขาหรือเธอกำลังพูด
 
 1746
 00:57:26,720 --> 00:57:31,760
-the first is it is it a cap on
+อย่างแรก มันเป็น ในช่วงเวลาเดียวกัน
 
 1747
 00:57:29,760 --> 00:57:34,559
-like time how do you how does the six
+คุณจะแบ่งเงินหกเปอร์เซ็นต์
 
 1748
 00:57:31,760 --> 00:57:37,040
-percent get distributed across that
+อย่างไรในช่วง
 
 1749
 00:57:34,559 --> 00:57:37,839
-12 months if there's all these different
+12 เดือนนั้น ถ้ามีวิธีการ
 
 1750
 00:57:37,040 --> 00:57:40,240
-ways of
+จัดสรรที่แตกต่างกันทั้งหมด
 
 1751
 00:57:37,839 --> 00:57:40,880
-allocating that yeah i think that's like
+ฉันคิดว่าเป็นเช่นนั้น
 
 1752
 00:57:40,240 --> 00:57:42,799
-the
+เหมือนกับ
 
 1753
 00:57:40,880 --> 00:57:44,799
