@@ -7401,259 +7401,259 @@ defi อื่นๆ ด้วย เท่าที่เราเห็น
 
 1851
 01:01:32,559 --> 01:01:36,799
-the um the poke gonna have like a 100
+อืม pokadot จะมีประมาณ 100
 
 1852
 01:01:36,079 --> 01:01:39,520
-power chance
+parachain
 
 1853
 01:01:36,799 --> 01:01:41,440
-so there's going to be always open and
+ดังนั้นมันจึงเปิดกว้างและ
 
 1854
 01:01:39,520 --> 01:01:42,960
-trustless way for people to build right
+เชื่อถือได้สำหรับผู้คนในการสร้างสิ่งนี้
 
 1855
 01:01:41,440 --> 01:01:44,880
-but what i can say is that currently
+แต่สิ่งที่ฉันสามารถพูดได้ก็คือ
 
 1856
 01:01:42,960 --> 01:01:46,160
-karura is going to be the product and we
+ตอนนี้ karura จะเป็นที่โดดเด่น
 
 1857
 01:01:44,880 --> 01:01:48,640
-want the permanent project
+และเราต้องการโครงการนี้
 
 1858
 01:01:46,160 --> 01:01:49,760
-in in kusama we had a very well the top
+ใน kusama เรามี
 
 1859
 01:01:48,640 --> 01:01:52,160
-developed project
+โครงการที่พัฒนาแล้วอันดับต้น ๆ
 
 1860
 01:01:49,760 --> 01:01:53,520
-um in terms of like project completeness
+ในแง่ของความสมบูรณ์ของโครงการ
 
 1861
 01:01:52,160 --> 01:01:55,200
-so we have the code set
+เรามี code set
 
 1862
 01:01:53,520 --> 01:01:56,720
-uh the whole code ready to go being
+code ทั้งหมดพร้อมที่จะ
 
 1863
 01:01:55,200 --> 01:01:59,440
-audited three times
+ตรวจสอบสามครั้งแล้ว
 
 1864
 01:01:56,720 --> 01:02:01,440
-um so i mean as things evolve there will
+ฉันหมายถึงเมื่อสิ่งต่าง ๆ พัฒนาขึ้นจะมี
 
 1865
 01:01:59,440 --> 01:02:03,039
-be more specialized network but i think
+เครือข่ายเฉพาะมากขึ้น แต่ฉันคิดว่า
 
 1866
 01:02:01,440 --> 01:02:06,079
-at this stage we will say that we
+ในขั้นตอนนี้เราจะพูด ว่า
 
 1867
 01:02:03,039 --> 01:02:06,640
-are the most ready the top pronoun
+เราพร้อมที่สุดแล้ว
 
 1868
 01:02:06,079 --> 01:02:09,520
-project
+โครงการที่โดดเด่นอันดับต้น ๆ
 
 1869
 01:02:06,640 --> 01:02:10,960
-to go in this in this direction and
+ที่จะไปในทิศทางนี้และ
 
 1870
 01:02:09,520 --> 01:02:12,559
-obviously the question regarding like
+เห็นได้ชัดว่าคำถามเกี่ยวกับ
 
 1871
 01:02:10,960 --> 01:02:14,880
-what the the kusama
+kusama
 
 1872
 01:02:12,559 --> 01:02:16,799
-the crew are serving kusama and the
+ที่ karura กำลังให้บริการ kusama และ
 
 1873
 01:02:14,880 --> 01:02:20,000
-akala serving polka dots
+acala ที่ให้บริการบน polkadot
 
 1874
 01:02:16,799 --> 01:02:21,520
-the the idea behind is that guru is
+แนวคิดเบื้องหลังคือ karura
 
 1875
 01:02:20,000 --> 01:02:23,119
-always going to serve the kusama
+มักจะให้บริการ ชุมชน kusama
 
 1876
 01:02:21,520 --> 01:02:23,839
-community and the kusama community's
+และวัฒนธรรมของชุมชน
 
 1877
 01:02:23,119 --> 01:02:26,000
-culture
+kusama
 
 1878
 01:02:23,839 --> 01:02:27,119
-is very different from the polkadot
+นั้นแตกต่างจาก polkadot
 
 1879
 01:02:26,000 --> 01:02:29,440
-community sculpture
+มาก
 
 1880
 01:02:27,119 --> 01:02:30,880
-so i'm always using this example that
+ดังนั้นฉันจึงใช้ตัวอย่างนี้เสมอว่า
 
 1881
 01:02:29,440 --> 01:02:33,920
-for kusama it's like
+สำหรับ kusama มันเหมือน
 
 1882
 01:02:30,880 --> 01:02:35,200
-wilder it's like i don't want to say dgm
+จะเสี่ยงกว่า
 
 1883
 01:02:33,920 --> 01:02:37,920
-but it's more of like
+เป็นเหมือนการ
 
 1884
 01:02:35,200 --> 01:02:38,799
-risk-taking aggressiveness um and
+รับความเสี่ยงสูง และ
 
 1885
 01:02:37,920 --> 01:02:41,599
-vibrance
+อ่อนไหว
 
 1886
 01:02:38,799 --> 01:02:42,160
-um polkadot is more of like um serious
+polkadot เหมือนจะจริงจังมากกว่า
 
 1887
 01:02:41,599 --> 01:02:45,680
-um
+อืม
 
 1888
 01:02:42,160 --> 01:02:46,799
-security uh bankrupt security or things
+ปลอดกภัยมากกว่า หรืออะไรทำนองนั้น
 
 1889
 01:02:45,680 --> 01:02:48,880
-like that so
+ดังนั้น
 
 1890
 01:02:46,799 --> 01:02:50,720
-upon launch this two network is the same
+เมื่อเปิดตัวเครือข่ายทั้งสองนี้ ก็เหมือนกัน
 
 1891
 01:02:48,880 --> 01:02:54,079
-but they will evolve in their own very
+แต่พวกเขาจะพัฒนาในสไตล์ที่
 
 1892
 01:02:50,720 --> 01:02:54,079
-distinctive style i would say
+โดดเด่นของตัวเอง
 
 1893
 01:02:56,720 --> 01:03:00,400
-okay i'm gonna keep skip there's a lot
+ฉันจะเก็บขอข้าม
 
 1894
 01:02:58,880 --> 01:03:02,640
-of build-a-collar questions we've
+คำถามเกี่ยวกับการสร้าง acalar มากมาย
 
 1895
 01:03:00,400 --> 01:03:04,880
-already answered that
+ที่เราเคยตอบไปแล้ว
 
 1896
 01:03:02,640 --> 01:03:04,880
-um
+อืม
 
 1897
 01:03:05,760 --> 01:03:10,000
-so this so why i have a kala in kura i
+ทำไมฉันถึงมี acala และ karura
 
 1898
 01:03:09,039 --> 01:03:12,160
-already answered that
+ฉันตอบไปแล้วเหมือนกัน
 
 1899
 01:03:10,000 --> 01:03:15,839
-too it's basically to serve the d5
+ดยพื้นฐานแล้วเพื่อตอบสนองความต้องการ defi
 
 1900
 01:03:12,160 --> 01:03:17,119
-demand of of the kusama and polka dot
+ของ kusama และ polkadot
 
 1901
 01:03:15,839 --> 01:03:18,799
-yeah and then i think there's a lot of
+ใช่แล้ว ฉันคิดว่ามี
 
 1902
 01:03:17,119 --> 01:03:20,720
-questions in the chat regarding that can
+คำถามมากมายในแชทเกี่ยวกับ
 
 1903
 01:03:18,799 --> 01:03:21,200
-a u.s citizen participate in the crowd
+พลเมืองของ US สามารถเข้าร่วม
 
 1904
 01:03:20,720 --> 01:03:24,720
-on
+crowdloan ได้ไหม
 
 1905
 01:03:21,200 --> 01:03:25,119
-i i mentioned earlier that i didn't say
+ฉันได้กล่าวไว้ก่อนหน้านี้ว่าฉันไม่ได้
 
 1906
 01:03:24,720 --> 01:03:27,119
-no
+ปฏิเสธ
 
 1907
 01:03:25,119 --> 01:03:29,520
-but i mean we are working with with
+แต่ฉันหมายความว่าเรากำลังทำงานกับ
 
 1908
 01:03:27,119 --> 01:03:31,520
-legals and regulators
+กฎหมายและหน่วยงานกำกับดูแล
 
 1909
 01:03:29,520 --> 01:03:33,839
-i don't have a definitive answer today
+ฉันไม่มี คำตอบที่ชัดเจนในวันนี้
 
 1910
 01:03:31,520 --> 01:03:37,440
-but we'll find out right
+แต่เราจะหาคำตอบมาให้
 
 1911
 01:03:33,839 --> 01:03:39,839
-yep um
+อืม
 
 1912
 01:03:37,440 --> 01:03:40,640
-how many they're asking how many kar
+มีคนถามว่าพวกเขา
 
 1913
 01:03:39,839 --> 01:03:43,520
-they could
+สามารถรับ kar
 
 1914
 01:03:40,640 --> 01:03:45,839
-potentially receive as part of the crowd
+ได้กี่ kar ซึ่งเป็นส่วนหนึ่งของ
 
 1915
 01:03:43,520 --> 01:03:48,799
