@@ -8137,409 +8137,409 @@ crowd loan ใช่ฉันแค่จะบอกว่า
 
 2035
 01:08:01,839 --> 01:08:04,880
-in fact the gas fee should be kept as
+อันที่จริงควรเก็บค่าก๊าซไว้เป็น
 
 2036
 01:08:03,839 --> 01:08:08,319
-low to
+ต่ำเท่าที่
 
 2037
 01:08:04,880 --> 01:08:09,920
-as possible to encourage transaction
+จะเป็นไปได้ เพื่อสนับสนุนการทำธุรกรรม
 
 2038
 01:08:08,319 --> 01:08:11,440
-activity happen on the network and
+กิจกรรมที่เกิดขึ้นบนเครือข่ายและ
 
 2039
 01:08:09,920 --> 01:08:13,039
-there's that those are the stuff that
+นั่นเป็นสิ่งที่
 
 2040
 01:08:11,440 --> 01:08:16,159
-bring the network values
+นำมูลค่ามาที่เครือข่าย
 
 2041
 01:08:13,039 --> 01:08:16,719
-um in our rough test as a project and i
+อืม ในการทดสอบคร่าวๆ บนโครงการ
 
 2042
 01:08:16,159 --> 01:08:19,520
-think we
+ฉันคิดว่าเรา
 
 2043
 01:08:16,719 --> 01:08:20,239
-see tps scale at a thousand or above
+ดูสเกล tps ที่พันหรือสูงกว่า
 
 2044
 01:08:19,520 --> 01:08:23,440
-that
+นั่น
 
 2045
 01:08:20,239 --> 01:08:24,719
-so um the way that we calculate gas is
+วิธีที่เราคำนวณแก๊สคือ
 
 2046
 01:08:23,440 --> 01:08:26,640
-weight based rather than the
+ตามน้ำหนักมากกว่า
 
 2047
 01:08:24,719 --> 01:08:28,319
-the mechanism you most of people
+กลไกที่คุณคนส่วนใหญ่
 
 2048
 01:08:26,640 --> 01:08:28,880
-familiar with the ethereum which is like
+คุ้นเคยกับ ethereum ซึ่งเป็นเหมือน
 
 2049
 01:08:28,319 --> 01:08:31,920
-building
+สิ่งก่อสร้าง
 
 2050
 01:08:28,880 --> 01:08:34,560
-for the photogas fee because
+สำหรับค่าก๊าซ
 
 2051
 01:08:31,920 --> 01:08:36,319
-the power chain has much higher capacity
+พาราเชนมีความจุสูงกว่ามาก
 
 2052
 01:08:34,560 --> 01:08:39,520
-in processing transactions
+ในการประมวลผลธุรกรรม
 
 2053
 01:08:36,319 --> 01:08:40,719
-we think um we're able to maintain a
+เราคิดว่า อืม เราสามารถรักษา
 
 2054
 01:08:39,520 --> 01:08:44,560
-very low gas fee
+ค่าแก๊สให้ต่ำได้มาก
 
 2055
 01:08:40,719 --> 01:08:46,239
-um for for for as extend extend
+เพื่อขยาย
 
 2056
 01:08:44,560 --> 01:08:48,000
-i would say for the for the near short
+ฉันจะบอกว่าสำหรับระยะสั้น
 
 2057
 01:08:46,239 --> 01:08:49,600
-term to medium term futures um i don't
+ถึงระยะกลางฟิวเจอร์ ฉันไม่
 
 2058
 01:08:48,000 --> 01:08:52,880
-think that's going to be a problem
+คิดว่ามันจะเป็นปัญหา
 
 2059
 01:08:49,600 --> 01:08:54,239
-and if we are hitting even hitting that
+และถ้าเราชนถึง
 
 2060
 01:08:52,880 --> 01:08:56,480
-bottleneck of like two thousand
+คอขวดประมาณสองพัน
 
 2061
 01:08:54,239 --> 01:08:58,400
-or a thousand transaction per second uh
+หรือหนึ่งพัน ธุรกรรมต่อวินาที
 
 2062
 01:08:56,480 --> 01:09:00,960
-the ultimate solution um
+ทางออกที่ดีที่สุด
 
 2063
 01:08:58,400 --> 01:09:02,640
-it's just like in the imagination um
+จินตนาการ
 
 2064
 01:09:00,960 --> 01:09:04,640
-stage at this stage is always
+ในขั้นตอนนี้
 
 2065
 01:09:02,640 --> 01:09:06,480
-what scavenges polkadot within pogba
+เหมือนกับ polkadot ภายใน polkadot
 
 2066
 01:09:04,640 --> 01:09:06,960
-does there's a little bit long term but
+มีความยาวนิดหน่อยแต่
 
 2067
 01:09:06,480 --> 01:09:08,799
-i don't
+ฉันไม่
 
 2068
 01:09:06,960 --> 01:09:10,640
-want to get kept to carry too much on
+อยากแบกมากเกินไป
 
 2069
 01:09:08,799 --> 01:09:11,279
-that i would say there's always scalable
+มีการปรับเปลี่ยนวิธีแก้ปัญหา
 
 2070
 01:09:10,640 --> 01:09:12,880
-solution
+ได้เสมอ
 
 2071
 01:09:11,279 --> 01:09:16,880
-when building a polka dot and we always
+เมื่อสร้าง polka dotและเรามักจะ
 
 2072
 01:09:12,880 --> 01:09:16,880
-have a way to maintain low gas fee
+มีวิธีรักษาค่าแก๊ซให้ต่ำ
 
 2073
 01:09:17,040 --> 01:09:20,080
-yeah i want to pulse i showed something
+ฉันอยากแสดงอะไรบางอย่าง
 
 2074
 01:09:19,199 --> 01:09:23,359
-last time that
+ครั้งสุดท้ายนี้
 
 2075
 01:09:20,080 --> 01:09:25,279
-that people i think liked and i'll just
+ฉันจะ
 
 2076
 01:09:23,359 --> 01:09:28,960
-share just to add on to what you're
+แบ่งปันบางสื่งกับคุณ
 
 2077
 01:09:25,279 --> 01:09:32,239
-saying about polka dot within polka dot
+เมื่อพูดถึง polka dot ใน polka dot
 
 2078
 01:09:28,960 --> 01:09:35,839
-um if i can find it real quick oh yeah
+ถ้าฉันหามันเจอได้เร็ว
 
 2079
 01:09:32,239 --> 01:09:35,839
-here it is
+นี้ไง
 
 2080
 01:09:36,400 --> 01:09:41,040
-so it's it's
+มันคือ
 
 2081
 01:09:39,759 --> 01:09:43,279
-definitely something that's in the
+บางสิ่ง ที่อยู่ใน
 
 2082
 01:09:41,040 --> 01:09:44,799
-future but it's it's pretty interesting
+อนาคตแต่ก็น่าสนใจดีนะ
 
 2083
 01:09:43,279 --> 01:09:46,080
-to
+ถึง
 
 2084
 01:09:44,799 --> 01:09:49,679
-to kind of think about so i'll just
+ที่จะคิดเกี่ยวกับมัน ดังนั้นฉันจะเพียงแค่
 
 2085
 01:09:46,080 --> 01:09:52,319
-share this real quick
+แชร์มันผ่านๆ
 
 2086
 01:09:49,679 --> 01:09:54,560
-and i will i will say that this is this
+และฉันจะบอกว่านี่คือสิ่งนี้
 
 2087
 01:09:52,319 --> 01:09:56,560
-is nothing official
+ยังไม่เป็นทางการ
 
 2088
 01:09:54,560 --> 01:09:58,880
-this is a this is something that i built
+นี่คือสิ่งที่ฉันสร้างขึ้น
 
 2089
 01:09:56,560 --> 01:10:01,199
-myself when i heard about polka dot 2.0
+เมื่อได้ยินเกี่ยวกับ polka dot 2.0
 
 2090
 01:09:58,880 --> 01:10:04,320
-and what it could potentially be
+และสิ่งที่อาจเป็นได้
 
 2091
 01:10:01,199 --> 01:10:07,679
-and what he what retal is referring to
+และสิ่งที่ ruitao หมายถึง
 
 2092
 01:10:04,320 --> 01:10:09,520
-is like relay chains within relay chains
+ก็เหมือน relay chains ภายใน relay chains
 
 2093
 01:10:07,679 --> 01:10:11,679
-so what you could have is a kala
+ดังนั้นสิ่งที่คุณจะมีได้ก็คือ acala
 
 2094
 01:10:09,520 --> 01:10:13,679
-starting as a para chain here
+เริ่มต้นเป็น Para chain ที่นี่
 
 2095
 01:10:11,679 --> 01:10:16,080
-but then this eventually deciding to
+แต่แล้วในที่สุดสิ่งนี้ก็ตัดสินใจ
 
 2096
 01:10:13,679 --> 01:10:17,840
-branch out and build our own relay chain
+แยกสาขาและสร้าง relay chain ของเราเอง
 
 2097
 01:10:16,080 --> 01:10:20,000
-which then connects into the original
+ซึ่งเชื่อมเข้ากับต้นฉบับ
 
 2098
 01:10:17,840 --> 01:10:20,960
-polka dot so you've got polka dot within
+polka dot เพื่อให้คุณมี polka dot ภายใน
 
 2099
 01:10:20,000 --> 01:10:23,840
-polka dot within
+polka dot ภายใน
 
 2100
 01:10:20,960 --> 01:10:24,719
-polka dot in this diagram and this is
+polka dot ในแผนภาพนี้และนี่คือ
 
 2101
 01:10:23,840 --> 01:10:26,560
-potentially
+ศักยภาพ
 
 2102
 01:10:24,719 --> 01:10:28,159
-where we could be heading in the future
+ที่เราจะมุ่งหน้าต่อไปในอนาคต
 
 2103
 01:10:26,560 --> 01:10:31,840
-kind of fun to think about
+น่าคิดนะ
 
 2104
 01:10:28,159 --> 01:10:31,840
-we'll see if it comes true
+มาดูกันว่าจริงมั้ย
 
 2105
 01:10:33,440 --> 01:10:38,560
-um okay it's let's take like one more
+อืม เอาอีกสัก
 
 2106
 01:10:36,239 --> 01:10:38,560
-question
+หนึ่งคำถาม
 
 2107
 01:10:41,440 --> 01:10:44,880
-carrera tokenomics i pasted the link in
+karura tokenomics ฉันวางลิงก์ใน
 
 2108
 01:10:43,920 --> 01:10:48,800
-the chat
+แชทนี้
 
 2109
 01:10:44,880 --> 01:10:50,239
-so akala dot network slash karua slash
+acala.network/karura/token
 
 2110
 01:10:48,800 --> 01:10:53,520
-token
+acala.network/karura/token
 
 2111
 01:10:50,239 --> 01:10:53,520
-is a good place to go for that
+นั้นคือลิ้งค์ที่จะคุณไปที่นั่น
 
 2112
 01:10:53,920 --> 01:10:59,679
-and yeah let's let's call it a day we've
+โอเค วันนี้พอแค่นี้ก่อน
 
 2113
 01:10:57,440 --> 01:11:00,880
-been here for an hour and 15. like i
+เราอยู่ที่นี่เป็นเวลาหนึ่งชั่วโมงและ 15นาที
 
 2114
 01:10:59,679 --> 01:11:03,199
-said i'll go through the questions and
+อย่างที่ฉันบอก ฉันจะไล่อ่านคำถามและ
 
 2115
 01:11:00,880 --> 01:11:05,760
-anything that we didn't answer i'll
+อะไรที่เราไม่ได้ตอบ ฉันจะ
 
 2116
 01:11:03,199 --> 01:11:07,040
-try to create a response if it's if it's
+พยายามสร้างการตอบสนองหากเป็น
 
 2117
 01:11:05,760 --> 01:11:09,600
-a good question
+คำถามที่ดี
 
 2118
 01:11:07,040 --> 01:11:11,360
-and that's that's about it hopefully you
+หวังว่าพวกคุณ
 
 2119
 01:11:09,600 --> 01:11:13,199
-guys learned something new about
+ได้เรียนรู้สิ่งใหม่เกี่ยวกับ
 
 2120
 01:11:11,360 --> 01:11:15,520
-i i know i i learned something new and
+ฉันรู้ว่าฉันได้เรียนรู้สิ่งใหม่และ
 
 2121
 01:11:13,199 --> 01:11:17,360
-had fun looking at the product demos
+สนุกกับการดูการสาธิตผลิตภัณฑ์
 
 2122
 01:11:15,520 --> 01:11:18,560
-this will be this is being recorded and
+นี้จะถูกบันทึกไว้และ
 
 2123
 01:11:17,360 --> 01:11:22,000
-this is going to be live
+นี่กำลังจะถ่ายทอดสด
 
 2124
 01:11:18,560 --> 01:11:23,679
-on our youtube so definitely um
+บน youtube ของเรา อืม
 
 2125
 01:11:22,000 --> 01:11:25,600
-watch out for our twitter we'll post the
+คอยติดตาม Twitter ของเราเราจะโพสต์
 
 2126
 01:11:23,679 --> 01:11:27,280
-link on our twitter and then feel free
+ลิงค์บนทวิตเตอร์ของเราแล้ว
 
 2127
 01:11:25,600 --> 01:11:29,040
-to share it with your friends if you
+เพื่อแบ่งปันกับเพื่อนของคุณได้อย่างอิสระ ถ้าคุณ
 
 2128
 01:11:27,280 --> 01:11:30,560
-learned something and want to kind of
+เรียนรู้บางสิ่งบางอย่างและต้องการชนิดของ
 
 2129
 01:11:29,040 --> 01:11:32,159
-help spread the word so
+ช่วยกระจาย โปรเจคนี้ออกไป
 
 2130
 01:11:30,560 --> 01:11:33,760
-um thanks everybody for taking the time
+อืม ขอบคุณทุกคนที่สละเวลา
 
 2131
 01:11:32,159 --> 01:11:36,960
-to join us
+เข้าร่วมกับเรา
 
 2132
 01:11:33,760 --> 01:11:39,920
-and we will definitely see you soon yeah
+แล้วพบกันเร็วๆนี้แน่นอนครับ
 
 2133
 01:11:36,960 --> 01:11:41,280
-thank you super excited and can't wait
+ขอบคุณสุดตื่นเต้นและรอไม่ไหวแล้ว
 
 2134
 01:11:39,920 --> 01:11:43,120
-for the product to go live please
+สำหรับสินค้าที่จะเผยแพร่ได้โปรด
 
 2135
 01:11:41,280 --> 01:11:51,520
-support us
+สนับสนุนเรา
 
 2136
 01:11:43,120 --> 01:11:51,520
-bye guys bye guys
+ลาก่อน ทุกคน
 
