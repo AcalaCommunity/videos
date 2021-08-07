@@ -7801,99 +7801,99 @@ polkadot มีการไถ่ถอน
 
 1951
 01:05:07,280 --> 01:05:11,039
-it will give out a much nicer ratio like
+มันจะให้อัตราส่วนที่ดีกว่ามาก
 
 1952
 01:05:10,079 --> 01:05:14,079
-for example if you
+เช่นถ้าคุณ
 
 1953
 01:05:11,039 --> 01:05:14,720
-um take kusama you get some kr token you
+stake kusama คุณได้รับโทเค็น kar
 
 1954
 01:05:14,079 --> 01:05:16,960
-will see
+คุณจะเห็น
 
 1955
 01:05:14,720 --> 01:05:18,720
-you will see the similar nice ratio when
+คุณจะเห็นอัตราส่วนที่ดีที่คล้ายกันเมื่อ
 
 1956
 01:05:16,960 --> 01:05:20,880
-you stick dot to get some
+คุณ stake dotเพื่อรับ
 
 1957
 01:05:18,720 --> 01:05:22,000
-aca token as well it's purely for that
+โทเค็น aca ด้วย
 
 1958
 01:05:20,880 --> 01:05:25,440
-reason um
+เหตุผลนั้น อืม
 
 1959
 01:05:22,000 --> 01:05:27,280
-yep um hope to answer that
+หวังว่านี้จะเป็นคำตอบ
 
 1960
 01:05:25,440 --> 01:05:29,280
-yeah and the other aspect of it is the
+ใช่และอีกแง่มุมหนึ่งคือ
 
 1961
 01:05:27,280 --> 01:05:31,200
-the underlying like
+ปัญหา
 
 1962
 01:05:29,280 --> 01:05:33,119
-the decimal point problem there was
+จุดทศนิยม มี
 
 1963
 01:05:31,200 --> 01:05:34,799
-quite a bit of issues with
+ปัญหาเล็กน้อยกับ
 
 1964
 01:05:33,119 --> 01:05:37,200
-um i think polkadot in the beginning
+ฉันคิดว่า polkadot ในตอนเริ่มต้น
 
 1965
 01:05:34,799 --> 01:05:39,280
-keeping the original token supply
+ทำให้การจัดหาโทเค็นดั้งเดิม
 
 1966
 01:05:37,200 --> 01:05:41,680
-added a lot of complexity with like too
+เพิ่มความซับซ้อนมากเช่น
 
 1967
 01:05:39,280 --> 01:05:43,440
-long of decimal places
+ตำแหน่งทศนิยมที่ยาวเกินไป
 
 1968
 01:05:41,680 --> 01:05:44,720
-so that was the other that was the other
+นั่นคือเหตุผลอื่น
 
 1969
 01:05:43,440 --> 01:05:47,520
-reason for
+สำหรับ
 
 1970
 01:05:44,720 --> 01:05:47,520
-the akala one
+acala
 
 1971
 01:05:48,240 --> 01:05:51,839
-i call
+ที่ฉันเรียก
 
 1972
 01:05:52,000 --> 01:05:55,280
-okay um
+โอเค
 
 1973
 01:05:56,000 --> 01:06:00,480
-let's see take a couple more
+อืมลองดูอีกสองสาม
 
 1974
 01:06:01,119 --> 01:06:04,880
-oh someone's asking about the
+คนถามเกี่ยวกับ
 
 1975
 01:06:02,400 --> 01:06:08,559
@@ -7901,103 +7901,103 @@ collectibles tab
 
 1976
 01:06:04,880 --> 01:06:09,920
-uh nfts and maybe i can just add to this
+nfts และบางทีฉันสามารถเพิ่มสิ่งนี้ได้
 
 1977
 01:06:08,559 --> 01:06:13,200
-like what is zakala's
+เช่น acala เป็นอย่างไร
 
 1978
 01:06:09,920 --> 01:06:16,400
-kind of i guess thoughts around or
+ฉันเดาว่า
 
 1979
 01:06:13,200 --> 01:06:18,079
-strategy around nfts
+กลยุทธ์เกี่ยวกับ nfts
 
 1980
 01:06:16,400 --> 01:06:19,359
-i think there's already you can see
+คิดว่ามีอยู่แล้ว
 
 1981
 01:06:18,079 --> 01:06:19,839
-there's a collectible tab there's
+ณจะเห็นว่ามี collectible tab
 
 1982
 01:06:19,359 --> 01:06:21,920
-already
+อยู่แล้ว
 
 1983
 01:06:19,839 --> 01:06:22,880
-some collectible being given in the test
+มีของสะสมให้ใน
 
 1984
 01:06:21,920 --> 01:06:24,480
-nets um
+เครือข่ายทดสอบแล้ว
 
 1985
 01:06:22,880 --> 01:06:25,839
-because we've been building this test
+เนื่องจากเราสร้างเครือข่ายทดสอบนี้
 
 1986
 01:06:24,480 --> 01:06:27,440
-net for a long time so i think that
+มาเป็นเวลานานแล้ว ดังนั้นฉันคิดว่า
 
 1987
 01:06:25,839 --> 01:06:28,240
-hasn't been up and running for over half
+ยังไม่เปิดดำเนินการมานานกว่าครึ่ง
 
 1988
 01:06:27,440 --> 01:06:30,400
-a year
+ปีแล้ว
 
 1989
 01:06:28,240 --> 01:06:31,440
-it's a way to reward the early uh
+วิธีที่จะให้รางวัล
 
 1990
 01:06:30,400 --> 01:06:33,599
-participants
+แก่ผู้เข้าร่วมช่วงแรก ๆ
 
 1991
 01:06:31,440 --> 01:06:35,280
-in the test net there's already some
+ในเครือข่ายทดสอบ
 
 1992
 01:06:33,599 --> 01:06:37,039
-entity being minted in the testnet and i
+มีเอนทิตีบางอย่างที่สร้างเสร็จ ในเครือข่ายทดสอบแล้ว
 
 1993
 01:06:35,280 --> 01:06:40,240
-think they would also be carrier
+และฉันคิดว่าพวกเขาจะส่งต่อ
 
 1994
 01:06:37,039 --> 01:06:41,440
-uh to mainnet as well um and
+ไปยังเครือข่ายหลักด้วยเช่นกัน อืม และ
 
 1995
 01:06:40,240 --> 01:06:44,000
-then maybe you can share a little bit
+แดน บางทีคุณสามารถแบ่งปันเรื่องเล็กน้อยเช่น
 
 1996
 01:06:41,440 --> 01:06:45,039
-like um about the collectible that maybe
+อืม เกี่ยวกับของสะสมที่อาจ
 
 1997
 01:06:44,000 --> 01:06:46,799
-we have some
+เรามี
 
 1998
 01:06:45,039 --> 01:06:48,640
-surprise when we're going to go launch
+เซอร์ไพรส์อยู่บ้างเมื่อเรากำลังจะเปิดตัว
 
 1999
 01:06:46,799 --> 01:06:49,920
-on the on the crowd on stage i'm not
+บน crowdloan ฉันไม่
 
 2000
 01:06:48,640 --> 01:06:50,480
-sure how much you want to share but
+แน่ใจว่าคุณสามารถแบ่งปันมากแค่ไหนแต่
 
 2001
 01:06:49,920 --> 01:06:54,000
