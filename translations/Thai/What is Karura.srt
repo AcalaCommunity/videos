@@ -832,7 +832,7 @@ ruitao จะแสดงให้ดูในวันนี้
 
 209
 00:06:42,080 --> 00:06:46,720
-เพื่อให้มันพิเศษสำหรับ D5
+เพื่อให้มันพิเศษสำหรับ defy
 
 210
 00:06:44,560 --> 00:06:48,080
@@ -840,7 +840,7 @@ ruitao จะแสดงให้ดูในวันนี้
 
 211
 00:06:46,720 --> 00:06:49,440
-เคยใช้ d5 และ ethereum
+เคยใช้ defy และ ethereum
 
 212
 00:06:48,080 --> 00:06:51,199
@@ -1168,7 +1168,7 @@ polkadot
 
 293
 00:09:22,000 --> 00:09:26,000
-acala เพื่อตอบสนองความต้องการ d5 ของ
+acala เพื่อตอบสนองความต้องการ defy ของ
 
 294
 00:09:24,320 --> 00:09:28,399
@@ -7201,191 +7201,191 @@ dex ที่คู่เฉพาะ
 
 1801
 00:59:23,040 --> 00:59:27,119
-well there's um how do i say that
+โอเค มีกิจกรรม
 
 1802
 00:59:25,200 --> 00:59:30,240
-there's a
+มีกิจกรรม
 
 1803
 00:59:27,119 --> 00:59:31,040
-community reward event so if you do have
+ให้รางวัลชุมชน ดังนั้นหากคุณ
 
 1804
 00:59:30,240 --> 00:59:34,000
-a code
+มีรหัส
 
 1805
 00:59:31,040 --> 00:59:35,400
-and if you do check the website's
+และหากคุณตรวจสอบบนเว็ปไซต์
 
 1806
 00:59:34,000 --> 00:59:39,040
-official
+ของทางการ
 
 1807
 00:59:35,400 --> 00:59:42,480
-icloud.network then it is the official
+acala.network ในชาแนลของทางการ
 
 1808
 00:59:39,040 --> 00:59:42,960
-channel and if you received any emails
+ละหากคุณได้รับอีเมล
 
 1809
 00:59:42,480 --> 00:59:45,520
-from
+จาก
 
 1810
 00:59:42,960 --> 00:59:46,799
-akala foundation just make sure you're
+acala foundation ให้ตรวจสอบให้แน่ใจว่าคุณ
 
 1811
 00:59:45,520 --> 00:59:49,280
-checking the domain
+กำลังตรวจสอบโดเมน
 
 1812
 00:59:46,799 --> 00:59:50,160
-if it's at akala.network then that's
+อีกครั้งว่าอยู่ที่ acala.network หรือไม่
 
 1813
 00:59:49,280 --> 00:59:53,119
-coming from
+นั่นก็มาจาก
 
 1814
 00:59:50,160 --> 00:59:53,119
-the akala foundation
+acala foundation
 
 1815
 00:59:53,599 --> 00:59:59,280
-second question is um
+คำถามที่สองของ
 
 1816
 00:59:57,839 --> 01:00:01,440
-okay is there a date for kurora's
+โอเค มีวันที่สำหรับกระบวนการประมูลของ karura
 
 1817
 00:59:59,280 --> 01:00:04,480
-auction process i already answered that
+ฉันตอบไปแล้วว่า
 
 1818
 01:00:01,440 --> 01:00:09,440
-no soon
+ไม่นาน
 
 1819
 01:00:04,480 --> 01:00:11,599
-um okay let's see
+โอเค มาดูกันว่า
 
 1820
 01:00:09,440 --> 01:00:13,200
-they're asking if the if u.s citizens
+พวกเขาถามว่าพลเมืองของ US
 
 1821
 01:00:11,599 --> 01:00:16,559
-will be eligible for
+มีสิทธิ์ไหม
 
 1822
 01:00:13,200 --> 01:00:20,000
-the crowd loans and parachain auctions
+ใน crowdloan และการประมูล parachain
 
 1823
 01:00:16,559 --> 01:00:23,200
-um we are working with regulators
+เรากำลังทำงานร่วมกับหน่วยงานกำกับดูแลและฝ่ายกฎหมาย
 
 1824
 01:00:20,000 --> 01:00:25,599
-and legals and i don't have a
+และฉันยังไม่มี
 
 1825
 01:00:23,200 --> 01:00:27,440
-definitive answer at this stage it's
+คำตอบที่ชัดเจนในขั้นตอนนี้
 
 1826
 01:00:25,599 --> 01:00:30,799
-likely
+เป็นไปได้ว่า
 
 1827
 01:00:27,440 --> 01:00:32,559
-maybe but we will know that um
+แต่ที่เรารู้ อืม
 
 1828
 01:00:30,799 --> 01:00:34,799
-it's not a no but it's also not a yes
+ยังไม่มีอะไรที่ชัดเจน
 
 1829
 01:00:32,559 --> 01:00:39,520
-but we'll know that once um the auction
+แต่เราจะรู้ทันที
 
 1830
 01:00:34,799 --> 01:00:39,520
-process opens cool
+เมื่อ ขั้นตอนการประมูลเกิดขึ้น
 
 1831
 01:00:40,839 --> 01:00:43,839
-okay
+โอเค
 
 1832
 01:00:45,280 --> 01:00:48,480
-this okay this question i answered about
+โอเค คำถามนี้ ฉันตอบเกี่ยวกับ
 
 1833
 01:00:47,359 --> 01:00:50,480
-l dot and dot
+ldot และ dot
 
 1834
 01:00:48,480 --> 01:00:52,559
-the kind of receipt and how your l dot
+ประเภทใบเสร็จรับเงิน และยอดคงเหลือ ldot
 
 1835
 01:00:50,480 --> 01:00:55,839
-balance is going to be constantly going
+ของคุณจะเพิ่มขึ้นอย่างต่อเนื่อง
 
 1836
 01:00:52,559 --> 01:00:57,520
-up in relation to reflect what your dot
+เพื่อสะท้อนถึง dot ของคุณ
 
 1837
 01:00:55,839 --> 01:00:59,359
-balance is doing behind the scenes with
+ทำในเบื้องหลัง ด้วยการ stake
 
 1838
 01:00:57,520 --> 01:01:02,240
-the staking
+stake
 
 1839
 01:00:59,359 --> 01:01:02,240
-that's a good question
+เป็นคำถามที่ดี
 
 1840
 01:01:03,760 --> 01:01:07,680
-um so in the intensity stable coin dusty
+แรงจูงใจในการ
 
 1841
 01:01:06,720 --> 01:01:11,359
-swings
+สร้าง
 
 1842
 01:01:07,680 --> 01:01:13,520
-will be made
+stable coin
 
 1843
 01:01:11,359 --> 01:01:13,520
-so
+ดังนั้น
 
 1844
 01:01:14,720 --> 01:01:19,839
-so the next question i see is um
+คำถามต่อไป
 
 1845
 01:01:17,920 --> 01:01:22,079
-carrera is intended to be the defy hub
+karura ตั้งใจให้เป็นศูนย์กลาง defi
 
 1846
 01:01:19,839 --> 01:01:25,359
-of kusama and akala
+ของคูซามะ และ acala
 
 1847
 01:01:22,079 --> 01:01:27,520
-will be the defy hub of polka dot um
+จะเป็นศูนย์กลาง defi ของ polkadot
 
 1848
 01:01:25,359 --> 01:01:29,359
