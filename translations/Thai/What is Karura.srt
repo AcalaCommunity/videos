@@ -8001,139 +8001,139 @@ nfts และบางทีฉันสามารถเพิ่มสิ่
 
 2001
 01:06:49,920 --> 01:06:54,000
-maybe
+บางที
 
 2002
 01:06:50,480 --> 01:06:55,280
-take the stage dan um
+แดนจะพูดเกี่ยวกับเรื่องนี้
 
 2003
 01:06:54,000 --> 01:06:58,000
-yeah i don't think there's too much to
+ใช่ ฉันไม่คิดว่าจะมีอะไรมากนัก
 
 2004
 01:06:55,280 --> 01:06:59,520
-share on that like quite yet so we
+ที่จะแชร์ออกไป
 
 2005
 01:06:58,000 --> 01:07:01,440
-we're just thinking around other ways to
+เรากำลังคิดหาวิธีอื่น ๆ เพื่อ
 
 2006
 01:06:59,520 --> 01:07:04,559
-kind of think and incentivize
+คิดหาแรงจูงใจ
 
 2007
 01:07:01,440 --> 01:07:06,319
-um people who are early contributors and
+คนที่เป็นผู้มีส่วนร่วมในช่วงต้นและ
 
 2008
 01:07:04,559 --> 01:07:08,240
-crowd loan supporters so
+ผู้สนับสนุน crowdloan ดังนั้น
 
 2009
 01:07:06,319 --> 01:07:09,839
-um there could be some kind of surprises
+อืม อาจจะมีเซอร์ไพรส์อะไรบางอย่าง
 
 2010
 01:07:08,240 --> 01:07:12,480
-that pop up in that
+ที่ปรากฏขึ้นในนั้น
 
 2011
 01:07:09,839 --> 01:07:14,960
-collectibles tab come come time for the
+collectibles tab สำหรับ
 
 2012
 01:07:12,480 --> 01:07:18,319
-crowd loans yeah i would just say that
+crowd loan ใช่ฉันแค่จะบอกว่า
 
 2013
 01:07:14,960 --> 01:07:19,119
-we think uh we are we are making history
+เรากำลังสร้างประวัติศาสตร์
 
 2014
 01:07:18,319 --> 01:07:21,680
-right so i mean
+ใช่แล้ว ฉันหมายถึง
 
 2015
 01:07:19,119 --> 01:07:23,760
-if you guys uh put supporting along with
+ถ้าพวกคุณเอ่อสนับสนุนพร้อมกับ
 
 2016
 01:07:21,680 --> 01:07:24,079
-this right uh maybe there's a piece of
+นี้ อาจจะมีชิ้นส่วนของ
 
 2017
 01:07:23,760 --> 01:07:27,039
-um
+อืม
 
 2018
 01:07:24,079 --> 01:07:29,839
-unique collectible that may be earned
+ของสะสมเฉพาะที่อาจได้รับ
 
 2019
 01:07:27,039 --> 01:07:29,839
-through this process
+ผ่านกระบวนการนี้
 
 2020
 01:07:30,079 --> 01:07:34,640
-here's a question that i saw pop up a
+นี่เป็นคำถามที่ฉันเห็น
 
 2021
 01:07:31,920 --> 01:07:36,799
-few times today
+ในวันนี้
 
 2022
 01:07:34,640 --> 01:07:38,319
-um who is this that's a good question
+เป็นคำถามที่ดี
 
 2023
 01:07:36,799 --> 01:07:40,559
-brian
+ไบรอัน
 
 2024
 01:07:38,319 --> 01:07:42,000
-so as traffic picks up within the
+เพื่อให้การจราจรเพิ่มขึ้นภายใน
 
 2025
 01:07:40,559 --> 01:07:45,039
-network how does this affect
+เครือข่ายนี้มีผลกระทบอย่างไร
 
 2026
 01:07:42,000 --> 01:07:47,920
-gas and this is a question that
+แก๊สและนี่คือคำถามที่
 
 2027
 01:07:45,039 --> 01:07:48,720
-relates to kusama and polka dot um so
+เกี่ยวข้องกับ kusama และ polka dot
 
 2028
 01:07:47,920 --> 01:07:50,640
-maybe you can
+บางทีคุณสามารถ
 
 2029
 01:07:48,720 --> 01:07:52,720
-answer that one yeah okay awesome
+ตอบคำถามนี้ได้
 
 2030
 01:07:50,640 --> 01:07:54,480
-question i think the um
+คำถามที่เยี่ยมยอด ฉันคิดว่า
 
 2031
 01:07:52,720 --> 01:07:56,160
-my point of view on gas fee is that we
+มุมมองของฉันเกี่ยวกับค่าก๊าซคือเรา
 
 2032
 01:07:54,480 --> 01:07:59,520
-want to keep the gas as low
+ต้องการให้แก๊สต่ำ
 
 2033
 01:07:56,160 --> 01:08:01,839
-as possible it's um the gas fee is not a
+เท่าที่จะเป็นไปได้ ค่าก๊าซไม่ใช่
 
 2034
 01:07:59,520 --> 01:08:03,839
-way um to boost the network values
+วิธี เพื่อเพิ่มมูลค่าของเครือข่าย
 
 2035
 01:08:01,839 --> 01:08:04,880
