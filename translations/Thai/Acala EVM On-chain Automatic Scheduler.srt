@@ -200,299 +200,299 @@ smart contracts
 
 51
 00:01:53,119 --> 00:01:56,159
-spend in the next six months
+ใช้จ่ายในอีกหกเดือนข้างหน้า
 
 52
 00:01:54,720 --> 00:01:58,560
-you probably don't want to have all of
+คุณอาจไม่ต้องการมีทั้งหมดของ
 
 53
 00:01:56,159 --> 00:02:01,840
-them available because you might
+มันในคราวเดียวเพราะคุณอาจ
 
 54
 00:01:58,560 --> 00:02:03,280
-just spend often in the next two day
+แค่ใช้บ่อยๆในอีกสองวันข้างหน้า
 
 55
 00:02:01,840 --> 00:02:05,119
-so you can deploy the circulating
+เพื่อให้คุณสามารถ deploy ระบบการชำระเงินหมุนเวียน
 
 56
 00:02:03,280 --> 00:02:05,920
-payments by countries log to all your
+ด้วยการล็อคกับ
 
 57
 00:02:05,119 --> 00:02:09,679
-money
+เงินทั้งหมดของคุณ
 
 58
 00:02:05,920 --> 00:02:12,720
-and for every week and send yourself
+และทุกสัปดาห์และส่งตัวเอง
 
 59
 00:02:09,679 --> 00:02:14,959
-some amount of money back
+เงินจำนวนหนึ่งคืน
 
 60
 00:02:12,720 --> 00:02:17,760
-so yeah there's a payable so you can
+ดังนั้นใช่ นั้นเป็นสิ่งที่สามารถชำระได้ ดังนั้นคุณสามารถ
 
 61
 00:02:14,959 --> 00:02:20,959
-let's receive the native token
+มารับโทเค็นพื้นฐาน
 
 62
 00:02:17,760 --> 00:02:24,720
-ensure that's receiving enough token
+ตรวจสอบให้แน่ใจว่าได้รับโทเค็นเพียงพอ
 
 63
 00:02:20,959 --> 00:02:26,720
-save some parameters the pre the period
+บันทึกพารามิเตอร์บางช่วงเวลา
 
 64
 00:02:24,720 --> 00:02:27,840
-how many times this payment should
+มีการจ่ายกี่ครั้ง ควรที่จะ
 
 65
 00:02:26,720 --> 00:02:32,000
-happening
+เกิดขึ้น
 
 66
 00:02:27,840 --> 00:02:35,200
-and the destination the receiver address
+และปลายทางที่อยู่ผู้รับ
 
 67
 00:02:32,000 --> 00:02:37,840
-then you can just use the scheduler
+คุณสามารถใช้ตัวกำหนดตารางเวลาได้
 
 68
 00:02:35,200 --> 00:02:39,440
-smart contracts to schedule calls so in
+ด้วย smart contractsเพื่อกำหนดเวลาการเรียก ดังนั้นใน
 
 69
 00:02:37,840 --> 00:02:43,360
-this case you'll call itself
+กรณีนี้คุณจะเรียกตัวเองว่า
 
 70
 00:02:39,440 --> 00:02:44,640
-this country itself uh the value is zero
+สัญญานี้เอง
 
 71
 00:02:43,360 --> 00:02:46,640
-in this case
+ค่าเป็นศูนย์ในกรณีนี้
 
 72
 00:02:44,640 --> 00:02:48,720
-uh the second standard storage limit
+ค่าลิมิตแนะนำ
 
 73
 00:02:46,640 --> 00:02:50,720
-just passing some big enough number to
+แค่ส่งตัวเลขที่มากพอให้
 
 74
 00:02:48,720 --> 00:02:53,760
-get things working
+ให้ระบบทำงานให้เสร็จ
 
 75
 00:02:50,720 --> 00:02:55,680
-and the period and then the input data
+และช่วงเวลาแล้วป้อนข้อมูล
 
 76
 00:02:53,760 --> 00:02:58,080
-so we want to call the pay
+เราเลยเรียก มันว่า
 
 77
 00:02:55,680 --> 00:03:02,080
-function so just encode signature the
+ระบบจ่ายดังนั้นเพียงแค่เข้ารหัสลายเซ็น
 
 78
 00:02:58,080 --> 00:03:02,080
-pay function without any arguments
+ฟังก์ชั่นจ่ายโดยไม่มีข้อโต้แย้งใด ๆ
 
 79
 00:03:02,159 --> 00:03:05,599
-and in the pay function we don't want
+และในฟังก์ชันการจ่ายเราไม่ต้องการ
 
 80
 00:03:03,360 --> 00:03:06,159
-anyone just call us so make sure the
+ทุกคนเพียงเรียกใช้เราเพื่อให้แน่ใจว่า
 
 81
 00:03:05,599 --> 00:03:08,480
-sender
+ผู้ส่ง
 
 82
 00:03:06,159 --> 00:03:10,000
-is the smart country itself so other
+เป็นตัวของsmart countryเอง ดังนั้นอื่น ๆ
 
 83
 00:03:08,480 --> 00:03:13,519
-people kind of call us
+ที่เรียกใช้เรา
 
 84
 00:03:10,000 --> 00:03:15,200
-to trigger a early pay
+เพื่อเรียกจ่ายก่อนกำหนด
 
 85
 00:03:13,519 --> 00:03:18,239
-and if the remaining account is equal to
+และหากบัญชีที่เหลือเท่ากับ
 
 86
 00:03:15,200 --> 00:03:20,720
-one so this is the last call the pay
+หนึ่ง นี่คือการเรียกครั้งสุดท้าย การจ่ายเงิน
 
 87
 00:03:18,239 --> 00:03:21,840
-in next case it will just self-destruct
+ในกรณีถัดไปมันจะทำลายตัวเอง
 
 88
 00:03:20,720 --> 00:03:25,360
-send everything
+ส่งทุกอย่าง
 
 89
 00:03:21,840 --> 00:03:26,640
-to the recipient address and at the same
+ไปยังที่อยู่ผู้รับและที่เดียวกัน
 
 90
 00:03:25,360 --> 00:03:30,159
-time disregardless country
+และทำลายตัวเอง เพื่อ
 
 91
 00:03:26,640 --> 00:03:33,680
-just be a nice citizen to free up or use
+เป็นประโยชน์ในการ ปลดปล่อย
 
 92
 00:03:30,159 --> 00:03:37,200
-to free up our used compress
+ทำให้ระบบว่างขึ้น
 
 93
 00:03:33,680 --> 00:03:38,879
-to save some storage usage
+เพื่อประหยัดการใช้พื้นที่เก็บข้อมูล
 
 94
 00:03:37,200 --> 00:03:41,040
-and otherwise we'll just send this
+มิฉะนั้นเราจะส่งสิ่งนี้ให้
 
 95
 00:03:38,879 --> 00:03:42,879
-amount of money to the tool
+จำนวนเงินไปที่เครื่องมือ
 
 96
 00:03:41,040 --> 00:03:47,840
-and reduce remaining account and
+และลดบัญชีที่เหลือและ
 
 97
 00:03:42,879 --> 00:03:47,840
-schedule another call to be called later
+กำหนดเวลาการเรียกอีกครั้งในภายหลัง
 
 98
 00:03:48,000 --> 00:03:52,799
-yep so this is basically the schedule
+ใช่แล้ว นี่คือกำหนดการโดยพื้นฐาน
 
 99
 00:03:50,879 --> 00:03:55,040
-called smart contract
+เรียกว่า smart contract
 
 100
 00:03:52,799 --> 00:03:57,040
-very simple very easy to use the
+ง่ายมากใช้งานง่ายมาก
 
 101
 00:03:55,040 --> 00:03:59,760
-scheduler feature
+ในการใช้คุณสมบัติตัวกำหนดตารางเวลา
 
 102
 00:03:57,040 --> 00:04:01,519
-and in the unit test well we have some
+และในการทดสอบ
 
 103
 00:03:59,760 --> 00:04:04,480
-unit test
+เราก็มีการทดสอบหน่วย
 
 104
 00:04:01,519 --> 00:04:06,400
-seminar setup so let's also deploy this
+การตั้งค่าการสัมมนา เรามาdeploy
 
 105
 00:04:04,480 --> 00:04:09,200
-to your local test net
+ไปยังเครือข่ายทดสอบในพื้นที่ของคุณ
 
 106
 00:04:06,400 --> 00:04:11,760
-and run the unit test to verify if
+และรันการทดสอบหน่วยเพื่อตรวจสอบว่า
 
 107
 00:04:09,200 --> 00:04:15,360
-everything works
+ทุกอย่างทำงาน
 
 108
 00:04:11,760 --> 00:04:17,680
-because this assumes um
+เพราะสิ่งนี้ถือว่า อืม
 
 109
 00:04:15,360 --> 00:04:18,799
-thus the united states is run with
+การทดสอบหน่วยนั้นถูกรันด้วย
 
 110
 00:04:17,680 --> 00:04:21,199
-instances
+ตัวอย่าง
 
 111
 00:04:18,799 --> 00:04:22,639
-so that it will generate a new block um
+เพื่อสร้างบล็อคใหม่
 
 112
 00:04:21,199 --> 00:04:26,000
-when the new transition
+เมื่อการเปลี่ยนแปลงครั้งใหม่
 
 113
 00:04:22,639 --> 00:04:28,080
-is entering a transition pool so
+กำลังเข้าสู่กลุ่มทรานสิชั่น ดังนั้น
 
 114
 00:04:26,000 --> 00:04:30,320
-in this case we're using a system remark
+ในกรณีนี้เรากำลังใช้ข้อสังเกตของระบบ
 
 115
 00:04:28,080 --> 00:04:33,600
-smart transition
+การเปลี่ยนแปลงอย่างชาญฉลาด
 
 116
 00:04:30,320 --> 00:04:33,600
-to trigger a new block
+เพื่อเรียกบล็อกใหม่
 
 117
 00:04:35,199 --> 00:04:40,639
-um yeah so this is
+อืมใช่ นี่คือ
 
 118
 00:04:38,639 --> 00:04:42,520
-all a lot sort of example source of
+แหล่งตัวอย่างมากมายของ
 
 119
 00:04:40,639 --> 00:04:45,600
-oracle which is also
+oracle ซึ่งก็คือ
 
 120
 00:04:42,520 --> 00:04:46,080
-a very similar scheduler you will just
+ตัวกำหนดเวลาที่คล้ายกันมากคุณจะ
 
 121
 00:04:45,600 --> 00:04:49,120
-offer the
+เสนอ
 
 122
 00:04:46,080 --> 00:04:50,080
-simple simple interface git price and
+ราคา git อินเตอร์เฟสที่เรียบง่ายและ
 
 123
 00:04:49,120 --> 00:04:54,840
-you can use this
+คุณสามารถใช้สิ่งนี้
 
 124
 00:04:50,080 --> 00:04:56,479
-to get to access the price data from
+เพื่อเข้าถึงข้อมูลราคาจาก
 
 125
 00:04:54,840 --> 00:04:58,960
@@ -500,137 +500,137 @@ oracle
 
 126
 00:04:56,479 --> 00:05:00,800
-so you can work in in our wiki we should
+เพื่อให้คุณสามารถทำงานในวิกิของเราได้ เราควร
 
 127
 00:04:58,960 --> 00:05:01,919
-have documents of all the system smart
+มีเอกสาร smart contract ทุกระบบ
 
 128
 00:05:00,800 --> 00:05:04,320
-contracts
+ทุกระบบ
 
 129
 00:05:01,919 --> 00:05:06,400
-so of all address and they are also
+ดังนั้นของที่อยู่ทั้งหมด
 
 130
 00:05:04,320 --> 00:05:08,800
-available
+และยังสามารถใช้ได้
 
 131
 00:05:06,400 --> 00:05:10,639
-in the ebay here as well so you can just
+ใน acala evm เช่นกัน ดังนั้นคุณทำได้
 
 132
 00:05:08,800 --> 00:05:13,680
-try those smart countries
+ลอง smart contract เหล่านั้น
 
 133
 00:05:10,639 --> 00:05:17,360
-in the columbia yeah
+ในอคาลา ใช่
 
 134
 00:05:13,680 --> 00:05:17,360
-so that is um
+นั่นคือ อืม
 
 135
 00:05:17,440 --> 00:05:22,639
-yeah most all the things i'm gonna show
+ใช่เกือบทุกสิ่งที่ฉันจะแสดง
 
 136
 00:05:19,520 --> 00:05:26,000
-you so basically you can use akala ebn
+โดยพื้นฐานแล้วคุณสามารถใช้ acala evm
 
 137
 00:05:22,639 --> 00:05:28,639
-um so on the ebay playground to
+อืม พื้นที่ทดสอบ acala evm เพื่อ
 
 138
 00:05:26,000 --> 00:05:30,720
-deploy and run your smart contracts to
+deploy และการเรียกใช้ smart contracts ของคุณไปที่
 
 139
 00:05:28,639 --> 00:05:33,759
-try things you can use remix
+ลองใช้สิ่ง ต่างๆ คุณสามารถลองใช้ remix
 
 140
 00:05:30,720 --> 00:05:35,440
-to build to just do your smart control
+เพื่อสร้าง smart contractของคุณ
 
 141
 00:05:33,759 --> 00:05:36,240
-development you can even just deploy
+การพัฒนาที่คุณทำได้เพียงแค่ deployมัน
 
 142
 00:05:35,440 --> 00:05:40,160
-them
+มัน
 
 143
 00:05:36,240 --> 00:05:42,240
-to the js um step inside remax
+ไปที่ js ขั้นตอนภายใน remix
 
 144
 00:05:40,160 --> 00:05:44,080
-for debugging other things if you are
+สำหรับการดีบักสิ่งอื่น ๆ ถ้าคุณ
 
 145
 00:05:42,240 --> 00:05:46,160
-not using the native feature
+ไม่ได้ใช้คุณสมบัติดั้งเดิม
 
 146
 00:05:44,080 --> 00:05:47,199
-you need feature of archive and just
+คุณต้องการคุณสมบัติของ acala evm และ
 
 147
 00:05:46,160 --> 00:05:50,639
-compile them
+compile พวกมัน
 
 148
 00:05:47,199 --> 00:05:52,240
-and save the json file upload to the car
+และบันทึกไฟล์ json ที่อัปโหลดไปยัง acala
 
 149
 00:05:50,639 --> 00:05:55,520
-ebn to be executed
+evm เพื่อที่จะดำเนินการ
 
 150
 00:05:52,240 --> 00:05:55,520
-or you can just using
+หรือคุณสามารถใช้
 
 151
 00:05:55,600 --> 00:05:59,120
-the waffle to build your smart
+waffle เพื่อสร้าง
 
 152
 00:05:58,160 --> 00:06:03,520
-controllers
+smart contract
 
 153
 00:05:59,120 --> 00:06:03,520
-and write a simple scrap using the
+และเขียน อะไรที่ง่ายๆ โดยใช้
 
 154
 00:06:03,919 --> 00:06:08,880
-using the volte.js to deploy your smart
+ใช้ body jsเพื่อ deploy
 
 155
 00:06:07,280 --> 00:06:11,039
-contracts to
+smart contractsของคุณ
 
 156
 00:06:08,880 --> 00:06:12,800
-our public testnet or your local owned
+มายังเครือข่ายทดสอบสาธารณะของเราหรือที่คุณเป็นเจ้าของ
 
 157
 00:06:11,039 --> 00:06:16,400
-local testnet
+เครือข่ายทดสอบบนเครื่องของคุณ
 
 158
 00:06:12,800 --> 00:06:21,840
-and this will work with your existing
+และสิ่งนี้จะใช้ได้กับ
 
 159
 00:06:16,400 --> 00:06:21,840
-eso js project
+โปรเจคที่มีอยู่แล้วของคุณ
 
