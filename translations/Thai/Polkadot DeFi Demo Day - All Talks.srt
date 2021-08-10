@@ -204,203 +204,203 @@ wojack action
 
 52
 00:01:49,360 --> 00:01:51,600
-it's going to be uh it's going to be a
+มันจะเป็น
 
 53
 00:01:51,119 --> 00:01:53,520
-lot
+ 
 
 54
 00:01:51,600 --> 00:01:55,360
-to dive into so i made this presentation
+ให้เจาะลึกลงไปเยอะ ดังนั้นฉันจึงทำสไลด์นำเสนอนี้
 
 55
 00:01:53,520 --> 00:01:57,119
-initially to sort of dive into like what
+ในขั้นต้นเพื่อเรียงลำดับ
 
 56
 00:01:55,360 --> 00:01:58,399
-are the key properties of this code
+ว่าคุณสมบัติหลักของโค้ดนี้คืออะไร
 
 57
 00:01:57,119 --> 00:02:01,840
-without of course going into
+โดยที่ไม่
 
 58
 00:01:58,399 --> 00:02:06,079
-all of that code itself
+ใส่โค้ดทั้งหมดด้วยตัวมันเอง
 
 59
 00:02:01,840 --> 00:02:06,079
-um so
+ 
 
 60
 00:02:06,799 --> 00:02:11,200
-well why did it go to forward so much
+ทำไมมันถึงเดินหน้าไปได้มาก
 
 61
 00:02:09,039 --> 00:02:13,200
-okay so let's take a step back our goal
+เรามาถอยกลับกันไปที่เป้าหมายของเรา
 
 62
 00:02:11,200 --> 00:02:14,720
-is to create economic security for polka
+คือการสร้างความมั่นคงทางเศรษฐกิจสำหรับ
 
 63
 00:02:13,200 --> 00:02:18,160
-dots parrot chains
+polkadot พาราเชนส์
 
 64
 00:02:14,720 --> 00:02:20,800
-um we've got this idea of
+เรามีแนวคิดเรื่อง
 
 65
 00:02:18,160 --> 00:02:21,680
-of economic security which is i really
+ความมั่นคงทางเศรษฐกิจ ซึ่งฉัน
 
 66
 00:02:20,800 --> 00:02:23,840
-don't know why it's
+ไม่รู้จริงๆ ว่าทำไมมันถึง
 
 67
 00:02:21,680 --> 00:02:25,280
-it's just showing part of the last slide
+แสดงแค่บางส่วนของสไลด์สุดท้าย
 
 68
 00:02:23,840 --> 00:02:28,800
-in the middle of the
+ที่อยู่ตรงกลาง
 
 69
 00:02:25,280 --> 00:02:31,200
-the current slide well um our goal is to
+ของสไลด์ปัจจุบัน เป้าหมายของเราคือ
 
 70
 00:02:28,800 --> 00:02:34,879
-create economic security for para chains
+สร้างความมั่นคงทางเศรษฐกิจสำหรับ parachains
 
 71
 00:02:31,200 --> 00:02:36,480
-so that's um the property
+นั่นคือ อืม ทรัพย์สินของคุณ
 
 72
 00:02:34,879 --> 00:02:38,560
-of you know making sure that we can
+ทำให้แน่ใจว่าเราสามารถ
 
 73
 00:02:36,480 --> 00:02:40,319
-identify which validators are behaving
+ระบุได้ว่าผู้ตรวจสอบความถูกต้อง
 
 74
 00:02:38,560 --> 00:02:41,519
-maliciously and slash them right because
+คนใดประพฤติตัวมุ่งร้ายและ จัดการมัน เพราะ
 
 75
 00:02:40,319 --> 00:02:43,040
-when you're in the staking system i'm
+เมื่อคุณอยู่ในระบบการ stake
 
 76
 00:02:41,519 --> 00:02:44,879
-sure many of you are staking
+ฉันแน่ใจว่าพวกคุณหลายคนกำลังทำการ stake อยู่
 
 77
 00:02:43,040 --> 00:02:46,400
-uh you know that if the validators
+คุณรู้ว่าถ้าผู้ตรวจสอบความถูกต้อง
 
 78
 00:02:44,879 --> 00:02:47,280
-you're nominating or if you yourself are
+คุณกำลังเสนอชื่อหรือ ถ้าคุณเป็น
 
 79
 00:02:46,400 --> 00:02:49,440
-a validator
+validator
 
 80
 00:02:47,280 --> 00:02:50,800
-misbehaves uh that you're going to get
+ที่ทำตัวไม่ถูกต้อง คุณกำลังจะ
 
 81
 00:02:49,440 --> 00:02:52,800
-slashed so
+จัดการ
 
 82
 00:02:50,800 --> 00:02:54,640
-it only takes a few validators to
+ดังนั้นมันจึงใช้ validators เพียงไม่กี่ตัว
 
 83
 00:02:52,800 --> 00:02:55,920
-actually get a pair of chain block onto
+ในการเอา parachain block ไปที่
 
 84
 00:02:54,640 --> 00:02:58,480
-the relay chain
+relay chain
 
 85
 00:02:55,920 --> 00:02:59,680
-but we're most interested in slashing
+แต่เราสนใจที่จะ slashing
 
 86
 00:02:58,480 --> 00:03:01,280
-para chain blocks
+parachain block
 
 87
 00:02:59,680 --> 00:03:02,959
-uh the backers of those pair of chain
+ผู้สนับสนุนของบล็อก Parachain
 
 88
 00:03:01,280 --> 00:03:05,040
-blocks once those
+เหล่านั้นเมื่อบล็อก Parachain
 
 89
 00:03:02,959 --> 00:03:06,640
-pair chain blocks are not only just
+เหล่านั้นไม่ได้ถูกกล่าวถึง
 
 90
 00:03:05,040 --> 00:03:07,040
-mentioned on the relay chain but what we
+เพียงใน relay chain แต่สิ่งที่เราจะ
 
 91
 00:03:06,640 --> 00:03:08,800
-would call
+เรียก
 
 92
 00:03:07,040 --> 00:03:10,800
-available so after they've distributed
+พร้อมใช้งาน ดังนั้นหลังจากที่พวกเขาได้แจกจ่าย
 
 93
 00:03:08,800 --> 00:03:13,840
-data to all other validators so they can
+ข้อมูลไปยังเครื่องมือตรวจสอบความถูกต้องอื่น ๆ ทั้งหมด เพื่อให้พวกเขา
 
 94
 00:03:10,800 --> 00:03:13,840
-recheck those things
+ามารถตรวจสอบสิ่งเหล่านั้นอีกครั้ง
 
 95
 00:03:14,080 --> 00:03:19,440
-um so this is like the rough path
+อืม นี่เป็นเส้นทางคร่าวๆ
 
 96
 00:03:18,000 --> 00:03:21,760
-of a pair chain block we have a lot of
+ของบล็อก parachain เรามีหลายสิ่งหลายอย่าง
 
 97
 00:03:19,440 --> 00:03:22,480
-stuff going on in parallel hence pair of
+ที่เกิดขึ้นพร้อมกัน ดังนั้น parachains
 
 98
 00:03:21,760 --> 00:03:24,480
-chains
+ 
 
 99
 00:03:22,480 --> 00:03:25,840
-uh but we've got you know first you've
+แต่เรารู้ก่อนว่าคุณมีบล็อก parachain
 
 100
 00:03:24,480 --> 00:03:27,840
-got the pink pair of chain blocks sort
+สีชมพูซึ่งได้รับการสนับสนุน
 
 101
 00:03:25,840 --> 00:03:30,400
-of being backed and then it gets
+สีชมพูซึ่งได้รับการสนับสนุน
 
 102
 00:03:27,840 --> 00:03:31,040
