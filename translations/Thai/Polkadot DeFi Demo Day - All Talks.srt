@@ -8,23 +8,23 @@
 
 3
 00:00:05,920 --> 00:00:11,440
-through the veil into the depths of
+เจาะลึกเข้าไปในส่วนลึกของ parachains
 
 4
 00:00:09,040 --> 00:00:12,799
-parachains so we're gonna talk about
+ดังนั้นเราจะพูดถึง
 
 5
 00:00:11,440 --> 00:00:16,240
-approval checking
+การอนุมัติการตรวจสอบ
 
 6
 00:00:12,799 --> 00:00:19,279
-how the pair of chains actually work
+parachains ทำงานอย่างไร
 
 7
 00:00:16,240 --> 00:00:20,320
-um so the the hardest thing with
+สิ่งที่ยากที่สุดเกี่ยวกับ
 
 8
 00:00:19,279 --> 00:00:22,080
@@ -32,167 +32,167 @@ parachains
 
 9
 00:00:20,320 --> 00:00:23,600
-and with any kind of sharded blockchain
+และกับระบบ blockchain ทุกประเภท ๆ
 
 10
 00:00:22,080 --> 00:00:26,240
-system is
+คือ
 
 11
 00:00:23,600 --> 00:00:27,439
-uh you know this this actual sharding
+คุณรู้ว่านี่เป็นปัญหา
 
 12
 00:00:26,240 --> 00:00:29,279
-problem of how do you get
+ที่แท้จริงที่ว่าคุณ
 
 13
 00:00:27,439 --> 00:00:31,199
-security over all of the different
+จะรักษาความปลอดภัยได้อย่างไร
 
 14
 00:00:29,279 --> 00:00:32,640
-shards without everybody checking
+เหนือชาร์ดที่แตกต่างกันทั้งหมดโดยที่ทุกคนไม่ได้ตรวจสอบ
 
 15
 00:00:31,199 --> 00:00:33,920
-everything without all of the validators
+ทุกอย่างโดยที่ตัวตรวจสอบความถูกต้อง
 
 16
 00:00:32,640 --> 00:00:35,600
-checking all of the pair of chains
+ไม่ได้ตรวจสอบพาราเชนทั้งหมด
 
 17
 00:00:33,920 --> 00:00:37,120
-because then you wouldn't be scaling
+เพราะเมื่อ คุณจะไม่ปรับขนาดให้เหมาะสม
 
 18
 00:00:35,600 --> 00:00:38,800
-you know you'd just be running 100 full
+คุณรู้ว่าคุณแค่ใช้งานโหนดเต็ม 100
 
 19
 00:00:37,120 --> 00:00:40,480
-nodes on a computer
+โหนดบนคอมพิวเตอร์
 
 20
 00:00:38,800 --> 00:00:42,160
-uh so that's that's not what we want to
+นั่นไม่ใช่สิ่งที่เราต้องการ
 
 21
 00:00:40,480 --> 00:00:44,000
-do so we have a whole protocol it's
+เรามีโปรโตคอลทั้งหมด
 
 22
 00:00:42,160 --> 00:00:45,360
-called approval checking
+ที่เรียกว่าการตรวจสอบการอนุมัติ
 
 23
 00:00:44,000 --> 00:00:47,120
-and i'm going to go into a little bit
+ฉันจะเข้าเนื้อหาที่ละน้อย
 
 24
 00:00:45,360 --> 00:00:50,320
-and then i'm going to show you a demo
+จากนั้นฉันจะแสดงตัวอย่าง
 
 25
 00:00:47,120 --> 00:00:53,840
-of it running on a
+การทำงาน
 
 26
 00:00:50,320 --> 00:00:53,840
-on on a local test net
+บนเครือข่ายทดสอบในเครื่อง
 
 27
 00:00:55,520 --> 00:00:58,800
-so i have this pull request it's
+ดังนั้นฉันจึงจะ pull request
 
 28
 00:00:57,600 --> 00:01:02,719
-actually been merged now
+ตอนนี้มันถูกรวมเข้าด้วยกันแล้ว
 
 29
 00:00:58,800 --> 00:01:04,159
-and uh it is a lot of code it's uh 7 000
+มันมีโค้ดเยอะมาก ประมาณ 7,000 บรรทัด
 
 30
 00:01:02,719 --> 00:01:06,320
-lines of code i don't know i'm seeing
+ฉันไม่รู้ ฉันเห็น
 
 31
 00:01:04,159 --> 00:01:09,760
-what i'm seeing on my on my screen
+สิ่งที่ฉันเห็นบนหน้าจอของฉัน
 
 32
 00:01:06,320 --> 00:01:12,479
-is a gray rectangle in the top
+เป็นรูปสี่เหลี่ยมผืนผ้าสีเทาที่มุมบนขวา
 
 33
 00:01:09,760 --> 00:01:14,320
-right corner uh covering up part of my
+ปิดส่วนหนึ่งของสไลด์ของฉัน
 
 34
 00:01:12,479 --> 00:01:15,280
-slides i don't know if others are seeing
+ฉันไม่แน่ใจ คุณเห็นมันไหม
 
 35
 00:01:14,320 --> 00:01:17,040
-that
+ 
 
 36
 00:01:15,280 --> 00:01:18,880
-but that's not supposed to be there i
+มันไม่ควรอยู่ที่นั่น
 
 37
 00:01:17,040 --> 00:01:21,280
-think that's an error with the screen
+ฉันคิดว่านั่นเป็นข้อผิดพลาด
 
 38
 00:01:18,880 --> 00:01:21,280
-sharing
+ของการแชร์หน้าจอ
 
 39
 00:01:22,000 --> 00:01:28,640
-i think i also see some gray around okay
+ฉันคิดว่าฉันเห็นสีเทารอบๆ โอเค
 
 40
 00:01:25,360 --> 00:01:30,240
-top right well i don't know i'm
+ด้านบนขวา ดี ฉันไม่รู้ว่า
 
 41
 00:01:28,640 --> 00:01:32,159
-look i i know how to code pair chains i
+ฉันรู้วิธีเขียนโค้ด parachains
 
 42
 00:01:30,240 --> 00:01:33,680
-don't know how to fix your rectangles so
+ฉันไม่รู้วิธีแก้ สี่เหลี่ยมผืนผ้า นี้ออกยังไง
 
 43
 00:01:32,159 --> 00:01:37,119
-you're going to bear with me
+อดทนกับฉันหน่อย
 
 44
 00:01:33,680 --> 00:01:37,600
-um we've got around 7 000 lines of code
+อืม เรามีโค้ดประมาณ 7,000 บรรทัดที่นี่
 
 45
 00:01:37,119 --> 00:01:40,720
-here
+ 
 
 46
 00:01:37,600 --> 00:01:43,040
-we added uh you know even more that
+เราเพิ่มเข้าไป คุณรู้มากกว่านั้น
 
 47
 00:01:40,720 --> 00:01:44,240
-tests and stuff but you know obviously
+เกี่ยวกับการทดสอบและสิ่งต่างๆ แต่คุณรู้ว่า
 
 48
 00:01:43,040 --> 00:01:46,479
-it's a lot of code
+มีโค้ดจำนวนมาก
 
 49
 00:01:44,240 --> 00:01:47,840
-you got some you got some pink bleeding
+คุณจะเห็น pink bleeding
 
 50
 00:01:46,479 --> 00:01:49,360
@@ -200,7 +200,7 @@ wojack action
 
 51
 00:01:47,840 --> 00:01:51,119
-if you're trying to read this code so
+หากคุณกำลังพยายามอ่านโค้ดนี้
 
 52
 00:01:49,360 --> 00:01:51,600
