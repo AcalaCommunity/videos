@@ -800,179 +800,179 @@ parachain block
 
 201
 00:06:34,000 --> 00:06:39,759
-so uh that is um
+นั่นคือ อืม
 
 202
 00:06:37,280 --> 00:06:41,360
-you know the the the point is that you
+ประเด็นคือคุณ
 
 203
 00:06:39,759 --> 00:06:44,000
-don't want to vote on a block
+ไม่อยากโหวตบล็อก
 
 204
 00:06:41,360 --> 00:06:45,120
-unless that block and all of the ones
+เว้นแต่บล็อกนั้นและทั้งหมดนั้น
 
 205
 00:06:44,000 --> 00:06:49,360
-before it
+ก่อนหน้านั้น
 
 206
 00:06:45,120 --> 00:06:51,280
-are good so uh i could go way way more
+ดีอยู่แล้ว ดังนั้นฉันจะไปได้
 
 207
 00:06:49,360 --> 00:06:52,800
-in depth with this but i'm gonna uh i'm
+ลึกกว่านี้ด้วยสิ่งนี้ แต่ฉันจะ
 
 208
 00:06:51,280 --> 00:06:54,639
-gonna stop after this
+จะหยุดหลังจากสไลด์
 
 209
 00:06:52,800 --> 00:06:56,479
-slide to sort of sum up what we're
+นี้เพื่อสรุปสิ่งที่เรา
 
 210
 00:06:54,639 --> 00:06:58,479
-talking about with the approval checking
+พูดคุยเกี่ยวกับการตรวจสอบการอนุมัติ
 
 211
 00:06:56,479 --> 00:06:59,919
-is we'd like the network to finalize
+คือเราต้องการให้เครือข่ายสรุป
 
 212
 00:06:58,479 --> 00:07:02,800
-only blocks which contain
+เฉพาะบล็อกที่มี
 
 213
 00:06:59,919 --> 00:07:04,639
-good pair of chain blocks we can only
+บล็อก Parachain ที่ดีที่เรา
 
 214
 00:07:02,800 --> 00:07:06,000
-control the behavior that honest notes
+ควบคุมพฤติกรรมที่บันทึกอย่างซื่อสัตย์
 
 215
 00:07:04,639 --> 00:07:09,440
-have of course we have
+แน่นอนเรามี
 
 216
 00:07:06,000 --> 00:07:11,199
-a um you know we have this assumption
+เรามีข้อสันนิษฐานนี้
 
 217
 00:07:09,440 --> 00:07:13,039
-that there are going to be attackers on
+ว่าจะมีการโจมตีบน
 
 218
 00:07:11,199 --> 00:07:14,479
-the network up to one third of nodes may
+เครือข่ายมากถึงหนึ่งในสามของโหนดอาจ
 
 219
 00:07:13,039 --> 00:07:16,479
-be attacking the network
+กำลังโจมตีเครือข่าย
 
 220
 00:07:14,479 --> 00:07:18,479
-so what we're going to do is produce a
+สิ่งที่เราจะทำคือผลิต
 
 221
 00:07:16,479 --> 00:07:20,080
-voting rule that creates our desired
+กฎการลงคะแนนที่สร้างพฤติกรรม
 
 222
 00:07:18,479 --> 00:07:20,960
-finalization behavior in the network
+การสรุปผลที่เราต้องการในเครือข่าย
 
 223
 00:07:20,080 --> 00:07:23,520
-which is again
+ซึ่งเป็นอีกครั้ง
 
 224
 00:07:20,960 --> 00:07:24,560
-that we only finalize relay chain blocks
+ที่เราทำการต่อบล็อกลูกโซ่รีเลย์ให้เสร็จเท่านั้น
 
 225
 00:07:23,520 --> 00:07:28,160
-that contain
+ที่มี
 
 226
 00:07:24,560 --> 00:07:28,160
-good para chain blocks
+บล็อกพาราเชนที่ดี
 
 227
 00:07:28,840 --> 00:07:34,720
-so to sum that up in english
+ขอสรุปเป็นภาษาอังกฤษ
 
 228
 00:07:31,919 --> 00:07:35,759
-we want to select a block b to vote on a
+เราต้องการเลือกบล็อก b เพื่อลงคะแนนให้ a
 
 229
 00:07:34,720 --> 00:07:36,960
-relay chain block
+บล็อกโซ่รีเลย์
 
 230
 00:07:35,759 --> 00:07:38,880
-which is just going to be the longest
+ซึ่งจะเป็นห่วงโซ่
 
 231
 00:07:36,960 --> 00:07:42,160
-chain we're going to find the highest
+ที่ยาวที่สุด ที่เราจะไปหาตัวตั้งตนแรก
 
 232
 00:07:38,880 --> 00:07:44,400
-ancestor of that chain such that
+ของเชนนั้น ว่า
 
 233
 00:07:42,160 --> 00:07:45,520
-all blocks between the last finalized
+บล็อกทั้งหมดระหว่างบล็อกสุดท้าย
 
 234
 00:07:44,400 --> 00:07:48,160
-block and
+และ
 
 235
 00:07:45,520 --> 00:07:49,440
-that ancestor only contain good
+บล็อกตั้งต้น ที่ดี
 
 236
 00:07:48,160 --> 00:07:51,759
-paratrain candidates
+parachain ที่ได้รับคัดเลือก
 
 237
 00:07:49,440 --> 00:07:53,440
-and then we vote to finalize on that but
+แล้วเราก็โหวตให้จบเรื่องนั้นแต่
 
 238
 00:07:51,759 --> 00:07:54,319
-this is only a short session so what i'm
+นี่เป็นเพียงช่วงสั้นๆ ดังนั้นสิ่งที่ฉัน
 
 239
 00:07:53,440 --> 00:07:57,440
-going to do now
+จะทำเดี๋ยวนี้
 
 240
 00:07:54,319 --> 00:07:58,240
-is come over to the terminals and i have
+เข้าเทอร์มินัล และฉันมี
 
 241
 00:07:57,440 --> 00:08:01,360
-spun up
+บางอย่างกำลังทำงาน
 
 242
 00:07:58,240 --> 00:08:02,560
-a a six node test net six validators
+การหกโหนด nevalidators รันบน testnet
 
 243
 00:08:01,360 --> 00:08:04,800
-three pair of chains
+สามพาราเชน
 
 244
 00:08:02,560 --> 00:08:06,560
-what we can see is actually uh
+ที่เราเห็นจริงๆคือ เอ่อ
 
 245
 00:08:04,800 --> 00:08:08,960
@@ -980,223 +980,223 @@ validators
 
 246
 00:08:06,560 --> 00:08:10,319
-including paratrain blocks into the
+รวมถึง parachain
 
 247
 00:08:08,960 --> 00:08:13,599
-relay chain
+ใน relay chain
 
 248
 00:08:10,319 --> 00:08:14,879
-um they're first putting them into the
+อืม มันกำลังใส่พวกนี้ลงใน
 
 249
 00:08:13,599 --> 00:08:16,160
-relay chain then they're distributing
+relay chain และพวกมันจะ
 
 250
 00:08:14,879 --> 00:08:18,000
-the available data
+กระจายข้อมูลที่มีอยู่
 
 251
 00:08:16,160 --> 00:08:19,520
-then they're self-selecting to check
+แล้วมันก็เลือกตรวจสอบ
 
 252
 00:08:18,000 --> 00:08:21,199
-those blocks
+บล็อคเหล่านั้นเองแ
 
 253
 00:08:19,520 --> 00:08:23,360
-uh broadcasting assignments that they
+การถ่ายทอดงานที่พวกเขา
 
 254
 00:08:21,199 --> 00:08:25,440
-have been checked uh
+ที่ได้รับการตรวจสอบแล้ว
 
 255
 00:08:23,360 --> 00:08:26,879
-recovering the data doing the validation
+การกู้คืนข้อมูล การทำการตรวจสอบ
 
 256
 00:08:25,440 --> 00:08:29,120
-checking them and then
+ตรวจสอบพวกเขาแล้ว
 
 257
 00:08:26,879 --> 00:08:30,319
-uh broadcasting approval votes so you
+เอ่อ การถ่ายทอดการอนุมัติการโหวต ดังนั้นคุณ
 
 258
 00:08:29,120 --> 00:08:30,879
-can see there's a lot of action here
+เห็นว่ามีแอคชั่นเยอะที่นี่
 
 259
 00:08:30,319 --> 00:08:32,399
-there's like
+เช่น
 
 260
 00:08:30,879 --> 00:08:33,519
-nodes telling them okay i'm assigned to
+โหนดบอกว่าโอเคฉันถูกกำหนดให้
 
 261
 00:08:32,399 --> 00:08:34,719
-check this thing and then other nodes
+ตรวจสอบสิ่งนี้และโหนดอื่น ๆ
 
 262
 00:08:33,519 --> 00:08:35,919
-saying okay you're assigned to check
+บอกว่าโอเค คุณได้รับมอบหมายให้ตรวจสอบ
 
 263
 00:08:34,719 --> 00:08:37,120
-that so i won't do it
+ดังนั้น ฉันจะไม่ทำมัน
 
 264
 00:08:35,919 --> 00:08:38,959
-okay then they check it then they
+โอเค ถ้าอย่างนั้นพวกเขาตรวจสอบแล้วพวกเขา
 
 265
 00:08:37,120 --> 00:08:41,039
-broadcast the assignment so there's the
+ถ่ายทอดงานเพื่อให้มี
 
 266
 00:08:38,959 --> 00:08:42,000
-sort of flurry of activity constantly
+กิจกรรมที่วุ่นวายอย่างต่อเนื่อง
 
 267
 00:08:41,039 --> 00:08:44,959
-going on
+กำลังเกิดขึ้น
 
 268
 00:08:42,000 --> 00:08:45,839
-uh that's finalizing uh parachain blocks
+นั่นคือการจบบล็อก parachain
 
 269
 00:08:44,959 --> 00:08:49,200
-and what we can see
+และสิ่งที่เราเห็น
 
 270
 00:08:45,839 --> 00:08:52,320
-is that um this
+คือว่า นี้
 
 271
 00:08:49,200 --> 00:08:54,320
-is a representation of like which relay
+เป็นตัวแทนของไลค์ซึ่งรีเลย์ เชน
 
 272
 00:08:52,320 --> 00:08:56,399
-chain blocks we consider good so we can
+เรา ถือว่ามันดี
 
 273
 00:08:54,320 --> 00:08:59,279
-see like within this window of 50 blocks
+เราสามารถเห็นเหมือนภายในหน้าต่าง 50 บล็อกนี้
 
 274
 00:08:56,399 --> 00:09:00,640
-from 312 to 263
+จาก 312 ถึง 263
 
 275
 00:08:59,279 --> 00:09:03,040
-all of those blocks have been
+บล็อกเหล่านั้นทั้งหมดได้รับ
 
 276
 00:09:00,640 --> 00:09:06,399
-sufficiently approved
+อนุมัติอย่างเพียงพอ
 
 277
 00:09:03,040 --> 00:09:08,000
-by uh validators so you know sometimes
+โดย uh validators คุณจะได้รู้บางครั้ง
 
 278
 00:09:06,399 --> 00:09:09,600
-you'll see like the first one isn't
+คุณจะเห็นเหมือนอันแรกไม่ได้รับ
 
 279
 00:09:08,000 --> 00:09:11,200
-approved but they actually get approved
+อนุมัติแต่ได้รับการอนุมัติจริง
 
 280
 00:09:09,600 --> 00:09:14,320
-fairly quickly and those will be
+ค่อนข้างเร็วและจะ
 
 281
 00:09:11,200 --> 00:09:14,800
-up to like uh you know three three para
+อาจะถึง สามพาราเชน
 
 282
 00:09:14,320 --> 00:09:16,480
-chain
+ 
 
 283
 00:09:14,800 --> 00:09:18,320
-blocks per relay chain block since we're
+บล็อกต่อ relay chain บล็อก ตั้งแต่เราเริ่ม
 
 284
 00:09:16,480 --> 00:09:21,200
-running as a three parent chain network
+ทำงานเป็นเครือข่ายสาม parachains
 
 285
 00:09:18,320 --> 00:09:23,360
-anyway that was my uh very brief
+อย่างไรก็ตามนั่นคือ คำอธิบายสั้นๆ
 
 286
 00:09:21,200 --> 00:09:27,680
-whirlwind presentation of approval
+เป็นการนำเสนอ แบบเร็วๆ เกี่ยวกับการอนุมัติ
 
 287
 00:09:23,360 --> 00:09:29,200
-checking uh it's a fun topic to dig into
+การตรวจสอบ เอ่อ เป็นหัวข้อที่สนุกที่จะเจาะลึกลงไป
 
 288
 00:09:27,680 --> 00:09:31,200
-there's certainly lots of materials on
+มีข้อมูลมากมาย
 
 289
 00:09:29,200 --> 00:09:31,519
-it in the implementer's guide but for
+มันอยู่ในคู่มือผู้ปฏิบัติ แต่สำหรับ
 
 290
 00:09:31,200 --> 00:09:34,000
-there
+  
 
 291
 00:09:31,519 --> 00:09:37,839
-i will wrap it up and hand it off to our
+ฉันจะสรุปมันและส่งมอบให้กับ
 
 292
 00:09:34,000 --> 00:09:37,839
-wonderful community members
+สมาชิกชุมชนที่ยอดเยี่ยมของเรา
 
 293
 00:09:39,200 --> 00:09:43,760
-so hey everyone i'm aiden from snowfall
+สวัสดีทุกคน ฉันคือ aiden จาก snowfall
 
 294
 00:09:41,760 --> 00:09:46,160
-and as described we're boarding a bridge
+และตามที่อธิบายไว้เรากำลัง สร้าง สะพาน
 
 295
 00:09:43,760 --> 00:09:47,760
-between polkadot and ethereum
+ระหว่าง polkadot และ ethereum
 
 296
 00:09:46,160 --> 00:09:49,760
-there's a few kind of interesting unique
+มีความพิเศษบางอย่างที่น่าสนใจไม่เหมือนใคร
 
 297
 00:09:47,760 --> 00:09:52,240
-characteristics about our bridge in that
+ของลักษณะสะพานของเราในเรื่องนั้น
 
 298
 00:09:49,760 --> 00:09:53,920
-it's fully translucent decentralized and
+เป็นการกระจายอำนาจแบบโปร่งแสงอย่างเต็มที่และ
 
 299
 00:09:52,240 --> 00:09:55,760
-we achieve that by running full like
+เราบรรลุสิ่งนั้นโดยการทำงานอย่างเต็มที่สำหรับ
 
 300
 00:09:53,920 --> 00:09:58,080
-clients on both chains
+ลูกค้าทั้งสองเชน
 
 301
 00:09:55,760 --> 00:09:59,600
