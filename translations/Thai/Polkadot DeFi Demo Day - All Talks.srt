@@ -408,395 +408,395 @@ parachain block
 
 103
 00:03:30,400 --> 00:03:33,040
-becomes
+มันก็
 
 104
 00:03:31,040 --> 00:03:34,239
-available so those initial backers are
+พร้อมใช้งาน เพื่อให้ผู้สนับสนุนเริ่มต้นเหล่านั้น
 
 105
 00:03:33,040 --> 00:03:36,239
-distributing data
+แจกจ่ายข้อมูล
 
 106
 00:03:34,239 --> 00:03:38,720
-to all of the other validators so that
+ไปยังตัวตรวจสอบความถูกต้องอื่น ๆ ทั้งหมด
 
 107
 00:03:36,239 --> 00:03:41,360
-that data can then be recovered later on
+เพื่อให้สามารถกู้คืนข้อมูลได้ในภายหลัง
 
 108
 00:03:38,720 --> 00:03:41,840
-uh and you have you know after you've
+และคุณรู้หลังจากที่คุณมี
 
 109
 00:03:41,360 --> 00:03:43,440
-got
+ 
 
 110
 00:03:41,840 --> 00:03:44,959
-the purple block in there you also have
+บล็อกสีม่วงในนั้น คุณก็มี
 
 111
 00:03:43,440 --> 00:03:46,560
-the green block in there so i sort of
+บล็อกสีเขียวด้วย ในนั้น
 
 112
 00:03:44,959 --> 00:03:48,319
-use the left side of the relay chain
+ฉันจึงใช้ด้านซ้ายของบล็อก relay chain
 
 113
 00:03:46,560 --> 00:03:50,720
-blocks to denote things that have been
+เพื่อระบุสิ่งที่ได้รับ
 
 114
 00:03:48,319 --> 00:03:52,400
-backed and not mentioned uh and not not
+การสนับสนุนและไม่ได้กล่าวถึง
 
 115
 00:03:50,720 --> 00:03:56,319
-available and then the right side
+และไม่พร้อมใช้งาน จากนั้นทางด้านขวา
 
 116
 00:03:52,400 --> 00:03:58,000
-to reference blocks that are have been
+ของบล็อกอ้างอิงที่ได้รับการ
 
 117
 00:03:56,319 --> 00:03:59,920
-backed and are made available so you can
+สนับสนุนและพร้อมใช้งานเพื่อให้คุณเห็น
 
 118
 00:03:58,000 --> 00:04:01,040
-see first it goes to the purple block
+เป็นอันดับแรก มันไปที่บล็อกสีม่วง
 
 119
 00:03:59,920 --> 00:04:03,360
-and then the green block
+แล้วก็บล็อกสีเขียว
 
 120
 00:04:01,040 --> 00:04:05,040
-and then then they're both available on
+จากนั้นทั้งคู่ก็อยู่
 
 121
 00:04:03,360 --> 00:04:07,840
-the on the very right side at that
+ทางด้านขวาสุดที่
 
 122
 00:04:05,040 --> 00:04:07,840
-head of the chain
+หัวของเชนนั้น
 
 123
 00:04:09,280 --> 00:04:12,400
-i want to revisit the grandpa consensus
+ฉันอยากจะทบทวนอัลกอริธึม grandpa
 
 124
 00:04:11,120 --> 00:04:15,680
-algorithm
+ 
 
 125
 00:04:12,400 --> 00:04:18,799
-a little bit so the
+เล็กน้อย
 
 126
 00:04:15,680 --> 00:04:21,600
-uh the way the grandpa works is it
+วิธีที่grandpaทำงานคือ
 
 127
 00:04:18,799 --> 00:04:23,040
-um it has nodes that sort of vote on
+มันมีโหนดที่ลงคะแนนเสียง
 
 128
 00:04:21,600 --> 00:04:24,240
-what they think the best chain is
+สิ่งที่พวกเขาคิดว่าเป็นเชนที่ดีที่สุด
 
 129
 00:04:23,040 --> 00:04:25,680
-that'll be the longest chain that
+คือเชนที่ยาวที่สุดที่
 
 130
 00:04:24,240 --> 00:04:28,000
-they've seen usually
+พวกเขาเคยเห็นบ่อยๆ
 
 131
 00:04:25,680 --> 00:04:30,000
-and then grandpa's gonna figure out what
+แล้ว grandpa จะคำนวนหาข้อสรุป
 
 132
 00:04:28,000 --> 00:04:31,680
-the you know what the consensus is
+ให้คุณรู้ว่าข้อสรุปที่เป็นฉันทามติเป็นอย่างไร
 
 133
 00:04:30,000 --> 00:04:33,600
-like what's the longest chain that
+อะไรคือห่วงโซ่ที่ยาวที่สุด
 
 134
 00:04:31,680 --> 00:04:33,919
-everybody agrees with right like sort of
+ที่ทุกคนเห็นด้วย
 
 135
 00:04:33,600 --> 00:04:36,000
-that
+เหมือนกับ
 
 136
 00:04:33,919 --> 00:04:37,199
-common prefix it's it the way that i
+คำนำหน้าทั่วไปนั้น มันเป็นวิธีที่ฉัน
 
 137
 00:04:36,000 --> 00:04:39,120
-like to describe it is you know if you
+ชอบอธิบาย ถ้าคุณ
 
 138
 00:04:37,199 --> 00:04:41,040
-look at bitcoin the idea is that
+ดูไอเดียของ bitcoin
 
 139
 00:04:39,120 --> 00:04:42,800
-um with bitcoin proof of work or
+อืมด้วยหลักฐานการทำงาน bitcoin
 
 140
 00:04:41,040 --> 00:04:45,759
-ethereum proof of work if you just chop
+หรือหลักฐานการทำงาน ethereum หากคุณเพียงแค่ตัด
 
 141
 00:04:42,800 --> 00:04:47,280
-off the last like six blocks or ten
+บล็อกของ chainออกมา หก หรือสิบ บล็อค
 
 142
 00:04:45,759 --> 00:04:48,479
-blocks of the chain everybody's gonna
+บล็อคของมัน
 
 143
 00:04:47,280 --> 00:04:51,680
-have the same
+จะมีสายเดียวกัน
 
 144
 00:04:48,479 --> 00:04:52,880
-uh chain you know as long as you ignore
+ตราบใดที่คุณเพิกเฉย
 
 145
 00:04:51,680 --> 00:04:56,000
-those recent blocks
+ต่อบล็อกล่าสุดเหล่านั้น
 
 146
 00:04:52,880 --> 00:04:58,479
-but what grandpa does is it puts a
+แต่สิ่งที่ grandpa ทำคือมันทำให้
 
 147
 00:04:56,000 --> 00:05:00,000
-like a deterministic consensus on top of
+เป็นมติที่เป็นเอกฉันท์ เหนือสิ่งอื่นใด
 
 148
 00:04:58,479 --> 00:05:03,759
-that so you can really recognize
+คุณจึงสามารถรับรู้ได้ทันทีเมื่อ
 
 149
 00:05:00,000 --> 00:05:06,000
-immediately when nodes agree that uh the
+โหนดต่าง ๆ เห็นด้วย
 
 150
 00:05:03,759 --> 00:05:06,880
-the the chain you know on the section of
+ห่วงโซ่ที่คุณรู้จัก ในส่วนของ
 
 151
 00:05:06,000 --> 00:05:10,000
-the chain that they
+เชนนั้น
 
 152
 00:05:06,880 --> 00:05:11,360
-uh that they all have consensus over so
+พวกมันทั้งหมดมีความเห็นพ้องต้องกัน
 
 153
 00:05:10,000 --> 00:05:12,240
-you can see that these three nodes have
+ดังนั้นคุณจะเห็นได้ว่าโหนดทั้งสาม
 
 154
 00:05:11,360 --> 00:05:15,039
-different ideas
+นี้มีความคิดที่แตกต่างกัน
 
 155
 00:05:12,240 --> 00:05:16,720
-of uh of what's at the very head of the
+สิ่งที่อยู่ตรงหัวของ
 
 156
 00:05:15,039 --> 00:05:18,080
-chain but they all agree on blocks a b
+เชน แต่ทั้งหมดตกลงกันในบล็อก a b
 
 157
 00:05:16,720 --> 00:05:19,199
-and c so those can be considered
+และ c เพื่อให้สามารถ
 
 158
 00:05:18,080 --> 00:05:20,880
-finalized
+ถือว่าเสร็จสิ้นแล้ว
 
 159
 00:05:19,199 --> 00:05:22,560
-so here's another sort of representation
+ดังนั้นนี่คือการแสดงอีกรูปแบบหนึ่ง
 
 160
 00:05:20,880 --> 00:05:24,240
-of that these first four blocks are all
+ว่าสี่ช่วง บล็อก แรกนี้ได้รับการสรุปทั้งหมดแล้ว
 
 161
 00:05:22,560 --> 00:05:28,000
-finalized where even though there may be
+โดยที่แม้ว่าจะมี
 
 162
 00:05:24,240 --> 00:05:30,880
-other sort of chains coming off of those
+บล็อกเชนอื่นๆ หลุดออกมาจากพวกนั้น
 
 163
 00:05:28,000 --> 00:05:32,479
-uh so what we're trying to do is
+สิ่งที่เราพยายามจะทำคือ
 
 164
 00:05:30,880 --> 00:05:35,199
-actually write a custom
+ขียนกฎการลงคะแนนเสียงที่กำหนดเอง
 
 165
 00:05:32,479 --> 00:05:35,840
-voting rule for grandpa so the idea is
+สำหรับ grandpa ดังนั้น แนวคิดก็คือ
 
 166
 00:05:35,199 --> 00:05:38,240
-that
+ 
 
 167
 00:05:35,840 --> 00:05:40,479
-it's okay if bad parrot chain blocks get
+ไม่เป็นไรถ้าบล็อก Parachain
 
 168
 00:05:38,240 --> 00:05:42,479
-into some branch of the relay chain
+ที่ไม่ดีเข้าไปในสาขาของสายรีเลย์
 
 169
 00:05:40,479 --> 00:05:44,000
-but they can't get into the finalized
+แต่มันไม่สามารถเข้าไปใน
 
 170
 00:05:42,479 --> 00:05:46,160
-branch of the relay chain so they should
+สาขาสุดท้ายได้ของห่วงโซ่relay chain ได้ ดังนั้นมันจึงไม่
 
 171
 00:05:44,000 --> 00:05:48,080
-never be voted on within grandpa
+ได้รับการโหวตภายใน grandpa
 
 172
 00:05:46,160 --> 00:05:50,080
-so we have the finalized chain we have
+ดังนั้นเราจึงมีเชน สุดท้าย เรามี
 
 173
 00:05:48,080 --> 00:05:51,840
-this grandpa voting zone which is voting
+พื้นที่โหวต บน grandpa ที่ใช้สำหรับการโหวต
 
 174
 00:05:50,080 --> 00:05:53,680
-on things that contain parachain
+บนสิ่งที่มีบนบล็อก parachain
 
 175
 00:05:51,840 --> 00:05:55,039
-blocks that are all good and then we
+ที่เป็นส่วนดีทั้งหมด แล้วเรา
 
 176
 00:05:53,680 --> 00:05:55,280
-have this approval checking code where
+ก็มีรหัสตรวจสอบการอนุมัติที่
 
 177
 00:05:55,039 --> 00:05:57,280
-it's
+ซึ่งเป็น
 
 178
 00:05:55,280 --> 00:05:59,039
-a zone where it's like we're not even
+พื้นที่ดูเหมือนว่า เราไม่แน่ใจ
 
 179
 00:05:57,280 --> 00:06:00,560
-sure if the parachain blocks referenced
+ด้วยซ้ำว่าบล็อกของ Parachainที่อ้างอิง
 
 180
 00:05:59,039 --> 00:06:03,520
-within these relay chain blocks
+ภายในบล็อก relay chain
 
 181
 00:06:00,560 --> 00:06:04,000
-are good but but they might be so this
+เหล่านี้ดีหรือไม่ แต่อาจเป็นเช่นนั้น
 
 182
 00:06:03,520 --> 00:06:06,080
-is where
+นี่คือ
 
 183
 00:06:04,000 --> 00:06:07,360
-the actual checking is happening all the
+จุดที่มีการตรวจสอบจริงเกิดขึ้น
 
 184
 00:06:06,080 --> 00:06:08,800
-way over on the right side
+ทางด้านขวา
 
 185
 00:06:07,360 --> 00:06:10,160
-in the middle is where like we think
+ตรงกลางนั้น เหมือนที่เราคิด
 
 186
 00:06:08,800 --> 00:06:11,440
-stuff is good and we're going to vote to
+เป็นสิ่งที่ดีและเราจะลงคะแนนเพื่อ
 
 187
 00:06:10,160 --> 00:06:12,639
-see you know what gets finalized and
+ดูว่าคุณรู้ว่าสิ่งที่ได้รับการสรุปแล้ว
 
 188
 00:06:11,440 --> 00:06:15,120
-then on the very left is the stuff
+ด้านซ้ายสุดคือ
 
 189
 00:06:12,639 --> 00:06:17,520
-that's been finalized already
+สิ่งที่ได้รับการสรุปแล้ว
 
 190
 00:06:15,120 --> 00:06:18,240
-um so that's that's the voting rule
+นั่นคือกฎการลงคะแนน
 
 191
 00:06:17,520 --> 00:06:19,919
-trait for
+ 
 
 192
 00:06:18,240 --> 00:06:21,600
-for uh you know if you were writing code
+ถ้าคุณ กำลังเขียนโค้ด
 
 193
 00:06:19,919 --> 00:06:24,160
-for that um
+สำหรับ
 
 194
 00:06:21,600 --> 00:06:25,840
-so our finalization rule is vote to
+กฎการสรุปผลของเราคือการโหวตให้เสร็จสิ้น
 
 195
 00:06:24,160 --> 00:06:26,479
-finalize let's say this block in the
+สมมติว่าบล็อกนี้
 
 196
 00:06:25,840 --> 00:06:29,360
-middle
+อยู่ตรงกลาง
 
 197
 00:06:26,479 --> 00:06:30,000
-only if the green parachain block is
+ก็ต่อเมื่อบล็อก parachain สีเขียวนั้นดี
 
 198
 00:06:29,360 --> 00:06:33,199
-good but
+แต่
 
 199
 00:06:30,000 --> 00:06:34,000
-also only if the purple para chain block
+ก็ต่อเมื่อบล็อก para chain สีม่วง
 
 200
 00:06:33,199 --> 00:06:37,280
-is good
+นั้นดีเช่นกัน
 
 201
 00:06:34,000 --> 00:06:39,759
