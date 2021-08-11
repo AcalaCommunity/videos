@@ -1248,23 +1248,23 @@ relayer
 
 313
 00:10:16,399 --> 00:10:20,640
-is this microservice that runs in the
+คือ microservice ที่ทำงานตรง
 
 314
 00:10:18,800 --> 00:10:22,480
-middle of the two that's responsible for
+กลางสองตัวที่มีหน้าที่ส่ง
 
 315
 00:10:20,640 --> 00:10:24,640
-sending state back and forward between
+state กลับไปกลับมาระหว่าง
 
 316
 00:10:22,480 --> 00:10:26,000
-the chains um it's not at all trusted
+อืม มันไม่น่าเชื่อถือเลย
 
 317
 00:10:24,640 --> 00:10:28,720
-anyone can run the re-layer
+ใครๆ ก็เรียกใช้ re-layer ได้
 
 318
 00:10:26,000 --> 00:10:30,160
