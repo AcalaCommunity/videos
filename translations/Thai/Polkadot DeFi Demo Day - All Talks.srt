@@ -1200,15 +1200,15 @@ relay chain และพวกมันจะ
 
 301
 00:09:55,760 --> 00:09:59,600
-uh so on polkadot there's a like line
+เอ่อ บน polkadot มีเส้นเหมือน
 
 302
 00:09:58,080 --> 00:10:01,920
-for ethereum and on ethereum there's a
+ethereum และ บนethereum มี
 
 303
 00:09:59,600 --> 00:10:03,120
-polka dot for there's a like line for
+polka dot เพราะมีเส้นสำหรับ
 
 304
 00:10:01,920 --> 00:10:04,399
@@ -1216,35 +1216,35 @@ polka dots
 
 305
 00:10:03,120 --> 00:10:06,640
-another aspect is that it's general
+อีกประการหนึ่งคือ
 
 306
 00:10:04,399 --> 00:10:08,240
-purpose so i'm gonna jump right into the
+จุดประสงค์โดยทั่วไป ดังนั้นฉันจะเริ่มแสดง
 
 307
 00:10:06,640 --> 00:10:09,600
-demo so i can show you
+เดโม ฉันสามารถแสดงให้คุณดู
 
 308
 00:10:08,240 --> 00:10:11,760
-how where we're at and how things are
+เราอยู่จุดไหน และ มัน
 
 309
 00:10:09,600 --> 00:10:12,320
-working so the first thing you can see
+ทำงานอย่างไร อย่างแรกที่คุณ
 
 310
 00:10:11,760 --> 00:10:14,240
-here
+เห็น
 
 311
 00:10:12,320 --> 00:10:16,399
-is i'm busy looking at the logs of our
+ฉันกำลังยุ่งอยู่กับการดู logs relayer ของเรา
 
 312
 00:10:14,240 --> 00:10:18,800
-relayer the relayer
+relayer
 
 313
 00:10:16,399 --> 00:10:20,640
