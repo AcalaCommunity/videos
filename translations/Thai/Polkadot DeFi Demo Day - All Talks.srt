@@ -1276,35 +1276,35 @@ state กลับไปกลับมาระหว่าง
 
 320
 00:10:30,160 --> 00:10:34,480
-compromise the protocoin anyway
+ไม่เป็นผลดีต่อ โปรโตคอล
 
 321
 00:10:32,640 --> 00:10:36,800
-at the moment you can see the relay is
+ในตอนนี้ คุณสามารถเห็นได้ว่ารีเลย์
 
 322
 00:10:34,480 --> 00:10:37,600
-watching for new ethereum blocks and
+กำลังจับตาดูบล็อกและส่วนหัวของ ethereum ใหม่และ
 
 323
 00:10:36,800 --> 00:10:39,519
-headers
+นำส่วนหัว
 
 324
 00:10:37,600 --> 00:10:41,360
-and it's taking those ethereum headers
+ของ ethereum เหล่านั้น
 
 325
 00:10:39,519 --> 00:10:44,079
-and relaying them over to substrate
+และส่งต่อไปยังซับสเตรตไปยัง
 
 326
 00:10:41,360 --> 00:10:44,959
-to our power chain and essentially with
+parachain ของเราและโดยพื้นฐานแล้ว
 
 327
 00:10:44,079 --> 00:10:47,279
-every header
+กับทุกส่วนหัว
 
 328
 00:10:44,959 --> 00:10:48,800
