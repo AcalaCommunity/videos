@@ -1308,95 +1308,95 @@ parachain ของเราและโดยพื้นฐานแล้ว
 
 328
 00:10:44,959 --> 00:10:48,800
-the pirate chain is doing a full like
+parachain
 
 329
 00:10:47,279 --> 00:10:49,360
-line check of the proof of work in that
+จะทำการตรวจสอบบรรทัดของ proof of work
 
 330
 00:10:48,800 --> 00:10:50,880
-header
+ในส่วนหัว
 
 331
 00:10:49,360 --> 00:10:52,720
-making sure that it's like the longest
+พื่อให้แน่ใจว่าเป็นเหมือน
 
 332
 00:10:50,880 --> 00:10:55,279
-heaviest chain on ethereum
+เชนที่ยาวที่สุด บน ethereum
 
 333
 00:10:52,720 --> 00:10:57,680
-and then updating the latest known
+จากนั้นอัปเดตสถานะล่าสุด
 
 334
 00:10:55,279 --> 00:10:59,360
-header chain state on ethereum
+บนส่วนหัวของเชนบน ethereum
 
 335
 00:10:57,680 --> 00:11:00,720
-we have a similar process for going in
+เรามีกระบวนการที่คล้ายกัน
 
 336
 00:10:59,360 --> 00:11:01,600
-the other direction where we send
+ในการไปอีกทิศทางหนึ่งที่เราส่ง
 
 337
 00:11:00,720 --> 00:11:03,360
-updates
+การอัปเดต
 
 338
 00:11:01,600 --> 00:11:05,279
-of what's happening on the polka dot
+ของสิ่งที่เกิดขึ้นบน polka dot
 
 339
 00:11:03,360 --> 00:11:07,200
-relay chain over to ethereum and
+elay chain ไปยัง ethereumและ
 
 340
 00:11:05,279 --> 00:11:08,560
-incorporate them into smart contracts
+และรวมเข้ากับ smart contract
 
 341
 00:11:07,200 --> 00:11:10,800
-i'm not demanding that today but we're
+ฉันไม่ได้เรียกร้องในวันนี้
 
 342
 00:11:08,560 --> 00:11:12,160
-almost done with it
+แต่เราเกือบจะเสร็จแล้ว
 
 343
 00:11:10,800 --> 00:11:14,160
-and so yeah and so we've got a little
+ใช่แล้ว เรามี
 
 344
 00:11:12,160 --> 00:11:16,560
-front-end demo that i can
+ตัวอย่าง Front-End เล็กน้อยที่ฉัน
 
 345
 00:11:14,160 --> 00:11:17,839
-show you there's kind of a few caveats
+สามารถแสดงให้คุณเห็นได้
 
 346
 00:11:16,560 --> 00:11:19,839
-to it so firstly
+ประการแรก
 
 347
 00:11:17,839 --> 00:11:21,920
-a lot of this is in work in progress
+พวกนี้อยู่ในระหว่างดำเนินการ
 
 348
 00:11:19,839 --> 00:11:23,600
-states so there may be a little a
+ดังนั้นอาจมีปัญหาเล็กน้อย
 
 349
 00:11:21,920 --> 00:11:25,200
-few issues here and there and the
+และ
 
 350
 00:11:23,600 --> 00:11:28,399
-front-end demo especially
+ตัวอย่างfront-endโดยเฉพาะ
 
 351
 00:11:25,200 --> 00:11:28,800
