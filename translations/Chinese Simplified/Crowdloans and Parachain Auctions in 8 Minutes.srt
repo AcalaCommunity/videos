@@ -260,111 +260,111 @@ Polkadot和Kusama的愿景。
 
 66
 00:02:03,680 --> 00:02:06,880
-a parachain slot auction is essentially
+一个平行链插槽竟拍本质上是
 
 67
 00:02:06,159 --> 00:02:08,959
-like I said
+像我所说过的
 
 68
 00:02:06,880 --> 00:02:10,720
-teams bidding against each other to try
+以团队竞拍模式来尝试
 
 69
 00:02:08,959 --> 00:02:14,720
-to win one of these slots
+赢得其中一个插槽
 
 70
 00:02:10,720 --> 00:02:17,440
-each auction is ultimately going for
+每次竟拍最终都在进行
 
 71
 00:02:14,720 --> 00:02:19,040
-one slot it can be divided into smaller
+一个槽, 而且可以分成较小的槽位
 
 72
 00:02:17,440 --> 00:02:21,599
-chunks but ultimately
+但最终
 
 73
 00:02:19,040 --> 00:02:23,599
-on Polkadot it can be up to 24 months
+在 Polkadot 上，它最多只可以长达 24 个月
 
 74
 00:02:21,599 --> 00:02:25,360
-but some teams may decide to bid for
+但有些团队可能决定竟选
 
 75
 00:02:23,599 --> 00:02:28,080
-shorter but to keep this simple let's
+较短暂的时间，但就以这个简单的情况
 
 76
 00:02:25,360 --> 00:02:30,160
-just assume the maximum.
+只是假定了最长的时段。
 
 77
 00:02:28,080 --> 00:02:32,080
-Teams that are going into this
+那些参与竟拍的团队
 
 78
 00:02:30,160 --> 00:02:32,560
-auction have two options for how to
+有两种选择方法
 
 79
 00:02:32,080 --> 00:02:35,440
-actually
+实际上是
 
 80
 00:02:32,560 --> 00:02:36,239
-bid and what funds to use for their bid
+出价和用于出价的资金
 
 81
 00:02:35,440 --> 00:02:38,640
-so
+所以
 
 82
 00:02:36,239 --> 00:02:40,879
-first is if you have a single account
+首先，如果您有一个账户
 
 83
 00:02:38,640 --> 00:02:42,800
-say for Kusama, you have a
+比如 Kusama 的话，您有一个
 
 84
 00:02:40,879 --> 00:02:44,080
-stack of KSM that you want to use for
+持有 KSM 的钱包，想使用于
 
 85
 00:02:42,800 --> 00:02:45,280
-this auction
+此竟拍活动
 
 86
 00:02:44,080 --> 00:02:48,239
-and you don't need to involve your
+而您不需要让社区成员来参与
 
 87
 00:02:45,280 --> 00:02:50,400
-community then that could be one option.
+这可以成为一种选择。
 
 88
 00:02:48,239 --> 00:02:51,840
-The more frequent and more
+在多数的情况下
 
 89
 00:02:50,400 --> 00:02:53,680
-likely scenario
+很可能是
 
 90
 00:02:51,840 --> 00:02:55,360
-will be number two here, which is using
+这里的第二个选择，那就是使用
 
 91
 00:02:53,680 --> 00:02:56,480
-the crowdloan module
+众贷模块
 
 92
 00:02:55,360 --> 00:02:59,040
-so in this case you're actually
+在这种情况下，您实际上是这样的
 
 93
 00:02:56,480 --> 00:03:00,800
