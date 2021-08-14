@@ -236,27 +236,27 @@ Polkadot和Kusama的愿景。
 
 60
 00:01:51,920 --> 00:01:56,000
-to the contributors and so on. And
+给贡献者等等
 
 61
 00:01:54,640 --> 00:01:57,439
-I'll cover all that in the next few
+接下来我将会谈到所有这些
 
 62
 00:01:56,000 --> 00:01:59,920
-slides.
+幻灯片。
 
 63
 00:01:57,439 --> 00:02:01,439
-So parachain auctions, I'm going to start
+所以我将从平行链插槽竟拍开始
 
 64
 00:01:59,920 --> 00:02:03,680
-with, because you need to understand this
+因为您需要了解这个
 
 65
 00:02:01,439 --> 00:02:06,159
-before we go into Crowdloans. So
+而接着才进入众贷的课题。所以
 
 66
 00:02:03,680 --> 00:02:06,880
