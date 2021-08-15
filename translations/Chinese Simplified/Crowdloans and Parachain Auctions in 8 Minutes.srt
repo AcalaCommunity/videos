@@ -400,27 +400,27 @@ Polkadot和Kusama的愿景。
 
 101
 00:03:13,519 --> 00:03:17,599
-而各别进行的，但它看起来像是
+而各别进行的，但它其实是
 
 102
 00:03:15,360 --> 00:03:19,440
-these will be about every two weeks so
+大约每两周一次，所以
 
 103
 00:03:17,599 --> 00:03:20,640
-in the Polkadot and Kusama ecosystem
+在Polkadot和Kusama生态系统中
 
 104
 00:03:19,440 --> 00:03:24,720
-these things will be happening on an
+这些事情将会以此
 
 105
 00:03:20,640 --> 00:03:24,720
-ongoing basis for the foreseeable future
+基础上继续地进行
 
 106
 00:03:25,200 --> 00:03:28,959
-so crowdloans first of all
+所以，众贷首先是
 
 107
 00:03:27,680 --> 00:03:31,440
