@@ -424,111 +424,111 @@ Polkadot和Kusama的愿景。
 
 107
 00:03:27,680 --> 00:03:31,440
-like i said are used
+就像我说过的那样, 使用
 
 108
 00:03:28,959 --> 00:03:32,239
-for the opening bid in an auction so
+在竟拍中开启出价
 
 109
 00:03:31,440 --> 00:03:34,159
-teams will
+所以团队
 
 110
 00:03:32,239 --> 00:03:36,400
-crowdsource these tokens and then use
+将这些代币筹集，然后下一步就是使用
 
 111
 00:03:34,159 --> 00:03:37,920
-them in that parachain auction at the
+在平行链插槽
 
 112
 00:03:36,400 --> 00:03:40,400
-next step.
+竟拍中。
 
 113
 00:03:37,920 --> 00:03:42,159
-If you're a user and you contribute KSM
+如果您是一位用户，而您也贡献了 KSM
 
 114
 00:03:40,400 --> 00:03:44,480
-to a Kusama parachain or if you
+到 Kusama 平行链，或如果您
 
 115
 00:03:42,159 --> 00:03:46,400
-contribute DOT to a Polkadot parachain
+将 DOT 贡献给 Polkadot 平行链
 
 116
 00:03:44,480 --> 00:03:48,159
-you're essentially agreeing to locking
+您基本上是同意锁定
 
 117
 00:03:46,400 --> 00:03:49,599
-those tokens for the duration of that
+那些代币在平行链插槽竟拍所规定
 
 118
 00:03:48,159 --> 00:03:51,120
-parachain slot.
+的那段时间内。
 
 119
 00:03:49,599 --> 00:03:52,959
-In the example that I used earlier
+在我先前使用过的示例里
 
 120
 00:03:51,120 --> 00:03:56,560
-let's assume 24 months
+假设规定的时段是24个月
 
 121
 00:03:52,959 --> 00:03:58,720
-then after 24 months your original
+那么在24个月后，您先前贡献的
 
 122
 00:03:56,560 --> 00:04:00,799
-principle is returned back to you so
+的代币将退还给您
 
 123
 00:03:58,720 --> 00:04:01,920
-it's essentially no loss and a much more
+它基本上就是没有损失的, 反而更多
 
 124
 00:04:00,799 --> 00:04:03,200
-ethical model
+像是一个具有道德特征
 
 125
 00:04:01,920 --> 00:04:05,840
-than we've seen in the past with things
+比我们过去所看到的那些
 
 126
 00:04:03,200 --> 00:04:07,599
-like ICOs because in this case
+ICO很不同，因为在ICO的情况下
 
 127
 00:04:05,840 --> 00:04:09,200
-you really hold the team accountable for
+您真的会希望该团队会对于
 
 128
 00:04:07,599 --> 00:04:11,599
-actually delivering on their
+他们在白皮书里所提到的远景规划
 
 129
 00:04:09,200 --> 00:04:13,120
-vision in their white paper because they
+跟他们实际上所执行的事务负起责任
 
 130
 00:04:11,599 --> 00:04:15,120
-need to add value to their network
+更需要他们为其网络添加价值
 
 131
 00:04:13,120 --> 00:04:17,199
-because they're actually not raising
+因为他们实际上没有
 
 132
 00:04:15,120 --> 00:04:19,519
-any funds directly from you as the
+直接从社区成员那里获得
 
 133
 00:04:17,199 --> 00:04:22,160
-community member.
+资金。
 
 134
 00:04:19,519 --> 00:04:23,040
