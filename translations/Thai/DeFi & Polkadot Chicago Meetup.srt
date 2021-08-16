@@ -396,127 +396,127 @@ Acala รวมทั้งของเราเอง
 
 100
 00:03:22,400 --> 00:03:25,920
-whatever you might have but they're all
+อะไรก็ได้ที่คุณมี แต่มันคือทั้งหมด
 
 101
 00:03:24,239 --> 00:03:28,400
-going to be customized for that
+กำลังจะถูกปรับแต่งสำหรับ
 
 102
 00:03:25,920 --> 00:03:30,560
-purpose. These will also be bridged to
+วัตถุประสงค์เหล่านั้น โดยสิ่งเหล่านี้จะถูกเชื่อมโยงไปยัง
 
 103
 00:03:28,400 --> 00:03:32,640
-other networks like Ethereum and Bitcoin
+เครือข่ายอื่นๆ เช่น Ethereum และ Bitcoin
 
 104
 00:03:30,560 --> 00:03:34,879
-to bring that liquidity into Polkadot
+เพื่อนำสภาพคล่องนั้นมาสู่ Polkadot
 
 105
 00:03:32,640 --> 00:03:36,480
-as well as Kusama.
+Kusamaก็ด้วย
 
 106
 00:03:34,879 --> 00:03:38,080
-And here's a few other things one of
+และนี่คืออีกสองสามสิ่งหนึ่งใน
 
 107
 00:03:36,480 --> 00:03:39,680
-the most important people always ask
+สิ่งที่สำคัญที่สุดที่คนมักจะถาม
 
 108
 00:03:38,080 --> 00:03:42,159
-what's the difference between
+อะไรคือความแตกต่างระหว่าง
 
 109
 00:03:39,680 --> 00:03:44,080
-Cosmos and Polkadot and one of the
+Cosmos และ Polkadot และหนึ่งใน
 
 110
 00:03:42,159 --> 00:03:47,519
-biggest differences is the security
+ความแตกต่างที่ใหญ่ที่สุดคือความปลอดภัย
 
 111
 00:03:44,080 --> 00:03:49,120
-setup of Polkadot so with Polkadot
+การตั้งค่าของ Polkadot ดังนั้นกับPolkadot
 
 112
 00:03:47,519 --> 00:03:50,799
-you actually
+คุณจะ
 
 113
 00:03:49,120 --> 00:03:52,159
-earned your right in through an auction
+รับสิทธิ์จริงๆผ่านการประมูล
 
 114
 00:03:50,799 --> 00:03:53,840
-that I'll explain
+ที่ฉันจะอธิบาย
 
 115
 00:03:52,159 --> 00:03:55,439
-and by launching on the network you get
+และโดยการเปิดตัวบนเครือข่ายที่คุณได้รับ
 
 116
 00:03:53,840 --> 00:03:56,720
-to inherit this this network of
+เพื่อสืบทอดเครือข่ายนี้ของ
 
 117
 00:03:55,439 --> 00:03:58,239
-validators that are already running
+เครื่องมือตรวจสอบที่กำลังทำงานอยู่
 
 118
 00:03:56,720 --> 00:03:59,040
-Polkadot so we don't actually have to
+บน Polkadot ดังนั้นเราไม่ต้อง
 
 119
 00:03:58,239 --> 00:04:00,799
-go out and
+ออกไปและ
 
 120
 00:03:59,040 --> 00:04:02,560
-recruit our own set of validators for
+รับสมัครชุดตรวจสอบของเราเองสำหรับ
 
 121
 00:04:00,799 --> 00:04:03,840
-Acala we just inherit the ones that are
+Acala เราเพียงแค่สืบทอดสิ่งที่เป็น
 
 122
 00:04:02,560 --> 00:04:06,239
-already on Polkadot
+ที่มีอยู่บน Polkadot
 
 123
 00:04:03,840 --> 00:04:07,760
-so it saves a lot of work on our part as
+ดังนั้นมันจึงช่วยประหยัดงานในส่วนของเราได้มากเช่น
 
 124
 00:04:06,239 --> 00:04:08,560
-a development team and we get to focus
+ทีมพัฒนาและเราได้รับการมุ่งเน้น
 
 125
 00:04:07,760 --> 00:04:10,000
-on building
+ในการสร้าง
 
 126
 00:04:08,560 --> 00:04:13,599
-our chain and our apps instead of
+เชนของเราและแอพของเราแทนที่จะ
 
 127
 00:04:10,000 --> 00:04:15,519
-focusing on on building a validator set
+มุ่งเน้นไปที่การสร้างชุดตรวจสอบ
 
 128
 00:04:13,599 --> 00:04:17,359
-the other really important and under
+อีกคนที่สำคัญจริงๆและอยู่ภายใต้
 
 129
 00:04:15,519 --> 00:04:20,239
-appreciated aspect is
+ด้านที่ชื่นชมคือ
 
 130
 00:04:17,359 --> 00:04:21,120
-self upgradeability so over time we can
+อัพเกรดตัวเองได้ เมื่อเวลาผ่านไป เราก็ทำได้
 
 131
 00:04:20,239 --> 00:04:23,040
@@ -720,19 +720,19 @@ move to Kusama
 
 181
 00:05:55,759 --> 00:05:59,280
-with real value so you can actually see
+ด้วยมูลค่าที่แท้จริงให้คุณมองเห็นได้จริง
 
 182
 00:05:58,080 --> 00:06:00,639
-does everything work
+ว่าการทำงานทุกอย่าง
 
 183
 00:05:59,280 --> 00:06:02,639
-is there anything that needs to be
+มีอะไรที่จำเป็นต้องมี
 
 184
 00:06:00,639 --> 00:06:03,919
-tweaked or changed before it goes to
+การถูกปรับแต่งหรือเปลี่ยนแปลงก่อนที่จะไปถึง
 
 185
 00:06:02,639 --> 00:06:05,199
@@ -740,67 +740,67 @@ Polkadot
 
 186
 00:06:03,919 --> 00:06:07,199
-and we're actually seeing this right now
+และเรากำลังเห็นสิ่งนี้อยู่ในขณะนี้
 
 187
 00:06:05,199 --> 00:06:09,520
-with the crowd loans we have
+ด้วยcrowd loans ที่เรามี
 
 188
 00:06:07,199 --> 00:06:10,240
-we've found bugs we've been testing a
+เราพบข้อบกพร่องที่เราได้ทำการทดสอบแล้ว
 
 189
 00:06:09,520 --> 00:06:12,479
-lot
+มากมาย
 
 190
 00:06:10,240 --> 00:06:13,280
-on test net but we've we've seen a lot
+บนเทสเน็ต แต่เราเคยเห็นมาเยอะ
 
 191
 00:06:12,479 --> 00:06:14,960
-of
+เกี่ยวกับ
 
 192
 00:06:13,280 --> 00:06:17,280
-positives and we've seen some bugs that
+ด้านดี และเราได้เห็นบัคบางอย่างที่
 
 193
 00:06:14,960 --> 00:06:18,720
-we could fix on Kusama before it ever
+พวกเราสามารถแก้บนKusama ก่อนที่
 
 194
 00:06:17,280 --> 00:06:19,600
-made it to Polkadot so what that
+ทำบน Polkadot ดังนั้นสิ่งที่
 
 195
 00:06:18,720 --> 00:06:21,280
-allows
+อนุญาต
 
 196
 00:06:19,600 --> 00:06:23,120
-is that once things get to Polkadot it
+คือเมื่อสิ่งทำลงบน Polkadot มัน
 
 197
 00:06:21,280 --> 00:06:24,560
-should be pretty close to perfect
+ควรจะใกล้เคียงกับความสมบูรณ์แบบ
 
 198
 00:06:23,120 --> 00:06:25,360
-because we've already seen it in
+เพราะเราเคยเห็นมาแล้วใน
 
 199
 00:06:24,560 --> 00:06:28,240
-that live
+สภาพ
 
 200
 00:06:25,360 --> 00:06:30,000
-environment. So that was a lot of
+แวดล้อมนั้นๆ และนั่นเป็น
 
 201
 00:06:28,240 --> 00:06:31,199
-information already on on Polkadot and
+ข้อมูลจำนวนมากที่อยู่บน Polkadot และ
 
 202
 00:06:30,000 --> 00:06:33,039
@@ -808,23 +808,23 @@ Kusama
 
 203
 00:06:31,199 --> 00:06:34,400
-hopefully that helps the guys that it's
+หวังว่ามันจะช่วยให้พวกคุณที่เห็นเป็น
 
 204
 00:06:33,039 --> 00:06:37,520
-it's new for
+เรื่องใหม่ๆสำหรับ
 
 205
 00:06:34,400 --> 00:06:39,919
-now let's go up a level so
+ตอนนี้ ไปพูดถึงเรื่องต่อไปกันเถอะ
 
 206
 00:06:37,520 --> 00:06:41,680
-Acala is being built on Polkadot as
+Acala กำลังถูกสร้างขึ้นบน Polkadot เหมือน
 
 207
 00:06:39,919 --> 00:06:42,400
-what we're calling the DeFi hub of
+สิ่งที่เราเรียกว่าฮับ DeFi ของ
 
 208
 00:06:41,680 --> 00:06:44,000
@@ -832,7 +832,7 @@ Polkadot
 
 209
 00:06:42,400 --> 00:06:45,520
-and then Karura is being built on
+และ Karura ก็ถูกสร้างขึ้นบน
 
 210
 00:06:44,000 --> 00:06:47,360
@@ -840,71 +840,71 @@ Kusama
 
 211
 00:06:45,520 --> 00:06:48,639
-which what i just explained about Polkadot
+ที่ฉันเพิ่งอธิบายเกี่ยวกับPolkadot
 
 212
 00:06:47,360 --> 00:06:50,319
-and Kusama
+และ Kusama
 
 213
 00:06:48,639 --> 00:06:52,560
-is the same kind of mentality that we
+เป็นความคิดแบบเดียวกับที่เรา
 
 214
 00:06:50,319 --> 00:06:53,919
-have for Karura and Acala so
+มีเพื่อ Karura และ Acala ดังนั้น
 
 215
 00:06:52,560 --> 00:06:56,479
-everything that we build all of our
+ทุกสิ่งที่เราสร้างทั้งหมดของเรา
 
 216
 00:06:53,919 --> 00:06:58,319
-products our financial
+ทั้งผลิตภัณฑ์ และการเงินของเรา
 
 217
 00:06:56,479 --> 00:07:00,880
-kind of parameters that we're that we're
+ชนิดของพารามิเตอร์ที่เรา
 
 218
 00:06:58,319 --> 00:07:01,360
-doing are our stablecoin everything that
+กำลังทำ คือเหรียญ ที่มีเสถียรภาพของเรา
 
 219
 00:07:00,880 --> 00:07:03,680
-we do
+พวกเราทำ
 
 220
 00:07:01,360 --> 00:07:05,199
-will first launch on of course on test
+โดยจะเปิดตัวครั้งแรกอย่างแน่นอนบนเทส
 
 221
 00:07:03,680 --> 00:07:07,039
-net but then go to Karura
+เน็ต แต่แล้วก็ไปที่ Karura
 
 222
 00:07:05,199 --> 00:07:08,240
-we'll see how it works in reality and
+เราจะดูว่ามันทำงานอย่างไรในความเป็นจริงและ
 
 223
 00:07:07,039 --> 00:07:10,560
-then it'll move to
+แล้วจะย้ายไปที่
 
 224
 00:07:08,240 --> 00:07:12,560
-Acala next so these two networks will
+Acala ต่อไปดังนั้นทั้งสองเครือข่ายจะ
 
 225
 00:07:10,560 --> 00:07:13,199
-continue to operate in parallel and make
+ดำเนินการควบคู่กันไปและทำให้
 
 226
 00:07:12,560 --> 00:07:17,039
-each other
+ทั้งสอง
 
 227
 00:07:13,199 --> 00:07:19,120
-better just like Polkadot and Kusama do
+ดีกว่าเหมือน Polkadot และ Kusama ทำ
 
 228
 00:07:17,039 --> 00:07:21,120
