@@ -2064,339 +2064,339 @@ erc20 ที่เพิ่งสร้างเสร็จ
 
 517
 00:16:35,279 --> 00:16:38,800
-that commitment is also verified and
+ข้อผูกมัดยังได้รับการตรวจสอบและ
 
 518
 00:16:36,959 --> 00:16:40,560
-through the verification process we
+และผ่านกระบวนการตรวจสอบ เรา
 
 519
 00:16:38,800 --> 00:16:42,160
-verify both
+ตรวจสอบทั้งสิ่งที่
 
 520
 00:16:40,560 --> 00:16:43,839
-uh what's happening on our power chain
+เกิดขึ้นบน parachain ของเรา
 
 521
 00:16:42,160 --> 00:16:44,160
-through our custom commitments as well
+ผ่านข้อผูกมัดที่กำหนดเองของเรา
 
 522
 00:16:43,839 --> 00:16:46,240
-as
+เช่นเดียวกับ
 
 523
 00:16:44,160 --> 00:16:49,040
-what's happening on the polka dot relay
+สิ่งที่เกิดขึ้นบน polka dot relay chain
 
 524
 00:16:46,240 --> 00:16:51,440
-chain through verifying
+ผ่านการตรวจสอบ
 
 525
 00:16:49,040 --> 00:16:53,040
-big grandpa relay chain block production
+กระบวนการผลิตบล็อก relay chain ของbig grandpa
 
 526
 00:16:51,440 --> 00:16:54,480
-process
+ 
 
 527
 00:16:53,040 --> 00:16:56,079
-we should see the new commitment come
+เราควรเห็นดข้อผูกมัดใหม่เข้ามา
 
 528
 00:16:54,480 --> 00:16:57,360
-across in a bit
+เล็กน้อย
 
 529
 00:16:56,079 --> 00:17:00,160
-and if you look at our power chain you
+และถ้าคุณดู Parachain ของเรา
 
 530
 00:16:57,360 --> 00:17:04,799
-can see this burned message
+คุณจะเห็นว่าข้อความที่ถูกเผานี้เกิดขึ้น
 
 531
 00:17:00,160 --> 00:17:07,199
-happened and went through
+และผ่านไป
 
 532
 00:17:04,799 --> 00:17:08,799
-so this could take a few more blocks um
+ดังนั้นอาจต้องใช้เวลาอีกสองสามบล็อก
 
 533
 00:17:07,199 --> 00:17:09,439
-but essentially yeah that's the full
+แต่โดยพื้นฐานแล้วใช่ นั่นคือ
 
 534
 00:17:08,799 --> 00:17:12,559
-process
+กระบวนการทั้งหมด
 
 535
 00:17:09,439 --> 00:17:14,240
-for ethereum and erc20 tokens
+สำหรับโทเค็น ethereum และ erc20
 
 536
 00:17:12,559 --> 00:17:16,640
-um another interesting thing to point
+อีกสิ่งที่น่าสนใจที่จะชี้ให้เห็น
 
 537
 00:17:14,240 --> 00:17:19,360
-out is that
+คือ
 
 538
 00:17:16,640 --> 00:17:21,199
-the core bridge protocol oh by the way
+โปรโตคอล core bridge
 
 539
 00:17:19,360 --> 00:17:24,480
-you can see here the computer was found
+อย่างที่คุณเห็นตรงนี้ ฉันเจอมันแล้ว
 
 540
 00:17:21,199 --> 00:17:28,000
-and this succeeded so if i refresh
+และมันทำงานสำเร็จ ดังนั้นหากฉันรีเฟรช
 
 541
 00:17:24,480 --> 00:17:31,280
-i should be back to 40 uh sorry 200
+ฉันควรกลับไปเป็น 40 ขอโทษด้วย 200 โทเค็น
 
 542
 00:17:28,000 --> 00:17:34,000
-tokens yeah there we go
+นั้นแหละ
 
 543
 00:17:31,280 --> 00:17:35,440
-um and so the the last interesting thing
+สิ่งที่น่าสนใจสุดท้าย
 
 544
 00:17:34,000 --> 00:17:37,120
-to mention is
+ที่จะพูดถึง
 
 545
 00:17:35,440 --> 00:17:38,880
-this application that we've developed is
+คือแอปพลิเคชั่นที่เราพัฒนาขึ้นนี้
 
 546
 00:17:37,120 --> 00:17:41,600
-just a demo for sending
+เป็นเพียงตัวอย่างสำหรับส่งโทเค็น
 
 547
 00:17:38,880 --> 00:17:43,200
-heath and erc20 tokens back and forth
+eth และ erc20 ไปมา
 
 548
 00:17:41,600 --> 00:17:45,039
-but really for the whole bridge and the
+แต่จริงๆ แล้วสำหรับทั้งบริดจ์และ
 
 549
 00:17:43,200 --> 00:17:46,320
-relay and all of our infrastructure
+รีเลย์ และโครงสร้างพื้นฐานทั้งหมด
 
 550
 00:17:45,039 --> 00:17:48,000
-they don't know anything about assets
+ของเราที่พวกเขาไม่รู้เกี่ยวกับทรัพย์สิน
 
 551
 00:17:46,320 --> 00:17:49,520
-they don't know anything about tokens
+พวกเขาไม่รู้อะไรเกี่ยวกับโทเค็น
 
 552
 00:17:48,000 --> 00:17:51,840
-it's implemented underneath
+มันถูกใช้งานภายใต้
 
 553
 00:17:49,520 --> 00:17:53,360
-uh the application with completely
+แอปพลิเคชันด้วยการ
 
 554
 00:17:51,840 --> 00:17:55,679
-arbitrary messaging passing
+ส่งข้อความโดยพลการอย่างสมบูรณ์
 
 555
 00:17:53,360 --> 00:17:57,200
-and so we can develop any kind of
+ดังนั้นเราจึงสามารถพัฒนาแอปพลิเคชัน
 
 556
 00:17:55,679 --> 00:17:58,320
-application cross chain application on
+ข้ามเชน แอปพลิเคชันใด ๆ
 
 557
 00:17:57,200 --> 00:17:59,600
-top of the bridge
+ที่ด้านบนของบริดจ์
 
 558
 00:17:58,320 --> 00:18:01,520
-it doesn't necessarily have to do
+ไม่จำเป็นต้องทำอะไร
 
 559
 00:17:59,600 --> 00:18:03,840
-anything to do with asset transfer
+กับการโอนสินทรัพย์
 
 560
 00:18:01,520 --> 00:18:05,600
-it could be for nft it could be for defy
+อาจเป็นเพราะ nft, defi
 
 561
 00:18:03,840 --> 00:18:07,440
-and you'll be able to send messages back
+ละคุณจะสามารถส่งข้อความไปมา
 
 562
 00:18:05,600 --> 00:18:09,840
-and forth for any kind of
+สำหรับแอปพลิเคชันประเภทใดก็ได้
 
 563
 00:18:07,440 --> 00:18:11,360
-application rather than just for a
+แทนที่จะเป็นเพียง
 
 564
 00:18:09,840 --> 00:18:13,280
-simple asset transfer
+การโอนสินทรัพย์ง่ายๆ
 
 565
 00:18:11,360 --> 00:18:14,960
-and that's all really working today we
+ละ นั่นคือทั้งหมดที่ใช้งานได้จริงในวันนี้
 
 566
 00:18:13,280 --> 00:18:16,320
-don't have a nice front-end demo of any
+เราไม่มีตัวอย่างส่วนหน้าที่ดี
 
 567
 00:18:14,960 --> 00:18:18,320
-uh special etcetera
+เกี่ยวกับ
 
 568
 00:18:16,320 --> 00:18:21,360
-non-asset transfer stuff yet but we're
+ไม่ใช่การโอนสินทรัพย์พิเศษใดๆ
 
 569
 00:18:18,320 --> 00:18:21,360
-planning to do that next
+แต่เราวางแผนที่จะทำในครั้งต่อไป
 
 570
 00:18:22,160 --> 00:18:27,280
-and yeah that ends my demo so hey
+นี่คือการสิ้นสุดการสาธิตของฉัน
 
 571
 00:18:25,200 --> 00:18:29,440
-i'm alex say i'm here together with dom
+เฮ้ ฉันคืออเล็กซี่ ฉันอยู่ที่นี่ ร่วมกับ ดอม
 
 572
 00:18:27,280 --> 00:18:31,120
-we're the two co-founders of interlay um
+เราเป็นผู้ร่วมก่อตั้งสองคนของ interlay
 
 573
 00:18:29,440 --> 00:18:33,679
-and we're building pokebtc to bring
+และเรากำลังสร้าง polkabtc เพื่อนำ
 
 574
 00:18:31,120 --> 00:18:35,360
-bitcoin to the folklore d5 ecosystem
+bitcoin มาสู่ระบบนิเวศ
 
 575
 00:18:33,679 --> 00:18:36,559
-uh this is a project funded by the three
+คือโครงการที่ได้รับทุนจากทั้งสาม
 
 576
 00:18:35,360 --> 00:18:38,240
-foundation grant and we're working
+มูลนิธิ และเรากำลังทำงาน
 
 577
 00:18:36,559 --> 00:18:41,520
-closely with op3 and parity
+อย่างใกล้ชิดกับ op3 และความเท่าเทียมกัน
 
 578
 00:18:38,240 --> 00:18:42,080
-to make this possible so what is polka
+เพื่อทำให้สิ่งนี้ เป็นไปได้
 
 579
 00:18:41,520 --> 00:18:44,240
-bdc
+polkabtc คืออะไร
 
 580
 00:18:42,080 --> 00:18:45,520
-pokevdc is the trust is a centralized
+polkabtc คือสะพาน btc-polkadot แบบ trustless และ กระจายอำนาจ
 
 581
 00:18:44,240 --> 00:18:47,440
-bit compile color bridge
+ที่สร้างขึ้นโดยใช้
 
 582
 00:18:45,520 --> 00:18:49,120
-built using the exclaim framework the
+เฟรมเวิร์ก xclaim
 
 583
 00:18:47,440 --> 00:18:49,600
-exclaim framework is something dominic
+เฟรมเวิร์ก xclaim เป็นสิ่ง โดมินิคและ
 
 584
 00:18:49,120 --> 00:18:51,360
-and i
+ฉัน
 
 585
 00:18:49,600 --> 00:18:53,360
-designed and implemented during our
+ออกแบบและดำเนินการ
 
 586
 00:18:51,360 --> 00:18:54,720
-times at empire college um like then it
+ในช่วงเวลาของเราที่วิทยาลัย อืม
 
 587
 00:18:53,360 --> 00:18:56,320
-was just a research project and now
+ตอนนั้นมันเป็นแค่โครงการวิจัยและตอนนี้
 
 588
 00:18:54,720 --> 00:19:00,080
-we're actually bringing this to live
+เรากำลังนำสิ่งนี้ไปใช้จริงบน
 
 589
 00:18:56,320 --> 00:19:02,320
-on top of polka dots so what is polka bc
+polka dot ดังนั้น polkabtc คืออะไร
 
 590
 00:19:00,080 --> 00:19:04,640
-polka bbc is a one to one ptc packed
+polkabtc เป็นสินทรัพย์สำรอง btc หนึ่งต่อหนึ่งบน
 
 591
 00:19:02,320 --> 00:19:06,640
-asset on polka dot this means that you
+polka dot นี่หมายความว่า
 
 592
 00:19:04,640 --> 00:19:09,520
-lock bitcoin on the bitcoin blockchain
+ที่คุณล็อค bitcoin บน bitcoin blockchain
 
 593
 00:19:06,640 --> 00:19:11,520
-and you mint one to one backed polka bdc
+และคุณสร้าง polka btc ที่ได้รับการสนับสนุนแบบหนึ่งต่อหนึ่ง
 
 594
 00:19:09,520 --> 00:19:13,120
-now the trick here is that you lock this
+เคล็ดลับส่วนนี้คือ คุณล็อคสิ่งนี้
 
 595
 00:19:11,520 --> 00:19:14,240
-with a collateralized vault it's an
+ด้วยห้องนิรภัยที่มีหลักประกัน
 
 596
 00:19:13,120 --> 00:19:15,440
-intermediary that is fully
+เป็นตัวกลางที่สมบูรณ์
 
 597
 00:19:14,240 --> 00:19:17,120
-collateralized
+ค้ำประกัน
 
 598
 00:19:15,440 --> 00:19:19,200
-and anyone can become a vault and it's a
+และทุกคนสามารถมีห้องนิรภัยของตัวเองได้
 
 599
 00:19:17,120 --> 00:19:22,320
-fully essential set of participants
+และตอนนี้เป็นชุดผู้เข้าร่วมที่จำเป็นอย่างยิ่ง
 
 600
 00:19:19,200 --> 00:19:24,000
-now once you have pokebc and polkadot
+เมื่อคุณมีpolkabtc and polkadot
 
 601
 00:19:22,320 --> 00:19:25,520
