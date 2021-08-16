@@ -1400,299 +1400,299 @@ elay chain ไปยัง ethereumและ
 
 351
 00:11:25,200 --> 00:11:28,800
-has still got a lot of ux polish to do
+ยังมี ux polish อีกมากที่ต้องทำ
 
 352
 00:11:28,399 --> 00:11:31,760
-so
+ดังนั้น
 
 353
 00:11:28,800 --> 00:11:32,320
-the ui and ux is not uh fully formalized
+ui และ ux ยังไม่ได้รับการฟอร์แมตอย่างสมบูรณ์
 
 354
 00:11:31,760 --> 00:11:35,040
-yet
+ 
 
 355
 00:11:32,320 --> 00:11:36,240
-so don't uh judge us based on that uh
+แต่อย่าตัดสินเราจากที่
 
 356
 00:11:35,040 --> 00:11:38,640
-primarily we want to focus on the
+นขั้นต้นเราต้องการเน้นที่
 
 357
 00:11:36,240 --> 00:11:41,040
-functionality for you to see
+ฟังก์ชันการทำงานให้คุณเห็น
 
 358
 00:11:38,640 --> 00:11:42,000
-so so here we've got our snowbridge demo
+ที่นี่เรามี มีหน้าสาธิต snowbridge ของเรา
 
 359
 00:11:41,040 --> 00:11:44,640
-page
+ 
 
 360
 00:11:42,000 --> 00:11:45,680
-you can see i've got my ethereum wallet
+คุณสามารถเห็นได้ว่าฉันได้เชื่อมต่อกระเป๋าเงิน ethereum
 
 361
 00:11:44,640 --> 00:11:47,279
-connected
+ 
 
 362
 00:11:45,680 --> 00:11:48,800
-and my polka dot wallet connected and i
+และกระเป๋าเงิน polka dot ของฉันเชื่อมต่ออยู่ และฉัน
 
 363
 00:11:47,279 --> 00:11:50,079
-already have some heath and some snow
+และฉันมี eth และ snow eth
 
 364
 00:11:48,800 --> 00:11:51,600
-eats that i've got from having
+บางอย่างที่ฉันได้รับ
 
 365
 00:11:50,079 --> 00:11:53,600
-transferred it over
+จากการโอนผ่าน
 
 366
 00:11:51,600 --> 00:11:55,440
-this first screen when you refresh the
+หน้าจอนี้เมื่อคุณรีเฟรชหน้าเพจ
 
 367
 00:11:53,600 --> 00:11:58,240
-page and open it up
+และเปิดขึ้นมา
 
 368
 00:11:55,440 --> 00:11:59,920
-um is one which you can use to send your
+เป็นสิ่งที่คุณสามารถใช้ส่ง
 
 369
 00:11:58,240 --> 00:12:01,440
-ethereum across to polka dot
+ethereumของคุณข้ามไปยัง polka dot
 
 370
 00:11:59,920 --> 00:12:03,360
-so here for example i'm going to send
+ตัวอย่างเช่น ฉันกำลังจะส่ง ether
 
 371
 00:12:01,440 --> 00:12:05,200
-five ether cross
+ไป 5เหรียญ
 
 372
 00:12:03,360 --> 00:12:06,880
-um it's intended to be like really
+ซึ่งตั้งใจให้
 
 373
 00:12:05,200 --> 00:12:07,839
-simple your address is automatically
+เพื่อให้ใช้งานง่าย ที่อยู่ของคุณ
 
 374
 00:12:06,880 --> 00:12:08,959
-populated it's just
+จะถูกเติมโดยอัตโนมัติ เพียงแค่
 
 375
 00:12:07,839 --> 00:12:11,920
-put in the mouse and click the send
+ใช้เมาส์แล้วคลิกปุ่มส่ง
 
 376
 00:12:08,959 --> 00:12:13,040
-button and then your metamod shows up to
+จากนั้น metamask ของคุณจะปรากฏขึ้น
 
 377
 00:12:11,920 --> 00:12:15,680
-deposit your eth
+เพื่อฝาก eth ของคุณ
 
 378
 00:12:13,040 --> 00:12:16,720
-i'm going to confirm and the transaction
+ฉันจะยืนยันและ ส่งธุรกรรมแล้ว
 
 379
 00:12:15,680 --> 00:12:18,079
-is submitted
+ 
 
 380
 00:12:16,720 --> 00:12:19,839
-uh this is not currently connected to
+นี้ไม่ได้เชื่อมต่อกับ ropsten
 
 381
 00:12:18,079 --> 00:12:22,079
-robsten i'm running this locally
+ฉันกำลังใช้งาน
 
 382
 00:12:19,839 --> 00:12:23,680
-research scan but here you can see the
+การสแกนหาข้อมูลภายใน แต่ที่นี่ คุณสามารถดู
 
 383
 00:12:22,079 --> 00:12:24,880
-transaction list and what's happening
+รายการธุรกรรมและสิ่งที่เกิดขึ้น
 
 384
 00:12:23,680 --> 00:12:26,560
-and so first thing we're doing is we're
+สิ่งแรกที่เราทำคือเรา
 
 385
 00:12:24,880 --> 00:12:27,920
-waiting for the transaction to get
+กำลังรอให้ธุรกรรมได้รับ
 
 386
 00:12:26,560 --> 00:12:29,839
-confirmed on ethereum
+การยืนยันบน ethereum
 
 387
 00:12:27,920 --> 00:12:32,560
-and when that happens this bubble should
+และ เมื่อสิ่งนั้นเกิดขึ้น วงกลมนี้
 
 388
 00:12:29,839 --> 00:12:34,639
-go green and it goes on to the next step
+ควรเป็นสีเขียว และมันไปยังขั้นตอนถัดไป
 
 389
 00:12:32,560 --> 00:12:36,839
-there we go we're done this next step is
+หลังจากเสร็จแล้ว ขั้นตอนถัดไป คือ
 
 390
 00:12:34,639 --> 00:12:40,240
-about relaying the message to polkadot
+การส่งต่อข้อความไปยัง polkadot
 
 391
 00:12:36,839 --> 00:12:42,079
-so it logs its processing blocks and
+ดังนั้นมันจึงบันทึกบล็อกการประมวลผลของมันและ
 
 392
 00:12:40,240 --> 00:12:43,920
-the relayer just got a message you can
+ผู้ถ่ายทอดได้รับข้อความที่คุณ
 
 393
 00:12:42,079 --> 00:12:45,200
-see here and it's sending that message
+เห็นที่นี่ และมันกำลังส่งข้อความนั้นไปที่
 
 394
 00:12:43,920 --> 00:12:47,200
-over to polkadot
+polkadot
 
 395
 00:12:45,200 --> 00:12:48,399
-and we've got a green bubble it's just
+และเราได้วงกลมสีเขียว
 
 396
 00:12:47,200 --> 00:12:50,320
-been relayed to pokedot
+มันเพิ่งถูกส่งไปที่ pokedot
 
 397
 00:12:48,399 --> 00:12:52,160
-if we go look at our power chain you can
+ถ้าเราไปดูที่ parachain ของเรา
 
 398
 00:12:50,320 --> 00:12:55,279
-see there's been recently
+คุณจะเห็นว่าเพิ่งมี
 
 399
 00:12:52,160 --> 00:12:57,680
-i think this is the new one the ether
+ฉันคิดว่านี่เป็นอีเวนต์ใหม่ของ eth
 
 400
 00:12:55,279 --> 00:12:59,600
-event and ethereum has been minted to my
+และ ethereum ถูกสร้างขึ้นบน
 
 401
 00:12:57,680 --> 00:13:01,680
-polka dot account
+บัญชี polka dot ของฉัน
 
 402
 00:12:59,600 --> 00:13:02,720
-and it should be good so we just sent
+และมันน่าจะเรียบร้อย ดังนั้นเราเพิ่งส่ง
 
 403
 00:13:01,680 --> 00:13:05,279
-five ether cross
+ether ข้ามไป ห้าเหรียญ
 
 404
 00:13:02,720 --> 00:13:06,880
-so when i refresh you should see my eat
+ดังนั้นเมื่อฉันรีเฟรช คุณควรเห็นจำนวน snow eth
 
 405
 00:13:05,279 --> 00:13:09,279
-amount got up by five and my ethereum
+ของฉันเพิ่มขึ้นห้า และ ethereum
 
 406
 00:13:06,880 --> 00:13:10,399
-want to go down by five
+ของฉันต้องการลดลงห้า
 
 407
 00:13:09,279 --> 00:13:12,320
-we're going to incorporate like
+เราจะรวมไว้เช่น
 
 408
 00:13:10,399 --> 00:13:13,920
-automated refresh in time
+การรีเฟรชอัตโนมัติในเวลา
 
 409
 00:13:12,320 --> 00:13:15,360
-uh and there you go so now i'm down to
+และขณะนี้ eth ลดลงไปที่
 
 410
 00:13:13,920 --> 00:13:17,360
-92 east and
+92 eth และ
 
 411
 00:13:15,360 --> 00:13:18,880
-five months have gone across and now
+5 ข้ามไป
 
 412
 00:13:17,360 --> 00:13:21,600
-exists on polka dot
+อยู่บน polka dot
 
 413
 00:13:18,880 --> 00:13:21,920
-on our power chain now i want to send
+บน parachain ของเราตอนนี้ฉันต้องการส่ง
 
 414
 00:13:21,600 --> 00:13:24,880
-the
+ 
 
 415
 00:13:21,920 --> 00:13:26,079
-eve back so i just tap this button to do
+eth กลับดังนั้นฉันจึงแตะปุ่มนี้
 
 416
 00:13:24,880 --> 00:13:27,920
-the reverse flow
+เพื่อทำการส่งกลับ
 
 417
 00:13:26,079 --> 00:13:29,680
-and i can go again and say i want to
+และฉันสามารถพูดอีกครั้งได้
 
 418
 00:13:27,920 --> 00:13:31,600
-send five snowys back
+ฉันต้องการส่ง snow eth กลับ ห้าเหรียญ
 
 419
 00:13:29,680 --> 00:13:35,839
-and click the send button here now my
+ล้วคลิกปุ่มส่งที่นี่
 
 420
 00:13:31,600 --> 00:13:37,440
-pokedot wallet comes up and
+ตอนนี้กระเป๋าเงิน pokedot ของฉันปรากฏขึ้นและ
 
 421
 00:13:35,839 --> 00:13:39,199
-i'm going to sign the transaction and
+ฉันจะลงนามในธุรกรรมและ
 
 422
 00:13:37,440 --> 00:13:42,160
-send it across it's submitted
+ส่งผ่านที่ส่งไปแล้วและ
 
 423
 00:13:39,199 --> 00:13:43,920
-and now we're waiting for it to get
+ตอนนี้เรากำลังรอให้มันรวมอยู่ใน
 
 424
 00:13:42,160 --> 00:13:45,199
-included in our pocket block so if we go
+บล็อก polkadot ของเรา ถ้าเราไปดู
 
 425
 00:13:43,920 --> 00:13:46,959
