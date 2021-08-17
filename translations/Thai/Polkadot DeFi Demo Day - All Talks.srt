@@ -2800,231 +2800,231 @@ hardware wallet ของ ledger และ trezor ด้วย
 
 701
 00:22:21,280 --> 00:22:25,360
-let me share the screen real quick okay
+ให้ฉันแชร์หน้าจอแบบเร็วๆ
 
 702
 00:22:23,600 --> 00:22:28,159
-cool all right so thanks for
+โอเค ขอบคุณมากสำหรับ
 
 703
 00:22:25,360 --> 00:22:29,440
-the uh intro alexei and then now what
+บทนำ alexei แล้วตอนนี้ที่ฉันจะ
 
 704
 00:22:28,159 --> 00:22:32,559
-i'm gonna show is the demo
+แสดงคือเดโม
 
 705
 00:22:29,440 --> 00:22:33,919
-and this is uh this is gonna be an
+และนี่ นี่จะเป็น
 
 706
 00:22:32,559 --> 00:22:36,159
-interesting demo because
+เดโม่ที่น่าสนใจเพราะ
 
 707
 00:22:33,919 --> 00:22:38,159
-i'm demoing directly on our live beta
+ฉันกำลังสาธิตโดยตรงในไลฟ์ของเรา
 
 708
 00:22:36,159 --> 00:22:41,280
-system uh so it depends a bit
+บนระบบเบต้า มันขึ้นอยู่กับว่า
 
 709
 00:22:38,159 --> 00:22:42,960
-what load we currently have but if you
+เรามีโหลดอะไรอยู่บ้าง แต่ถ้าคุณ
 
 710
 00:22:41,280 --> 00:22:44,640
-if you hit our pta website you
+เข้าชมเว็บไซต์เบต้าของเรา
 
 711
 00:22:42,960 --> 00:22:46,000
-will be greeted basically with this so
+คุณจะได้รับการต้อนรับโดยทั่วไปด้วยสิ่งนี้
 
 712
 00:22:44,640 --> 00:22:50,080
-we currently have
+ดังนั้นขณะนี้เรามี
 
 713
 00:22:46,000 --> 00:22:53,360
-8.1 pokebtc logged and
+8.1 polkabtc ที่บันทึกและ
 
 714
 00:22:50,080 --> 00:22:54,080
-or issued and we have a bunch of
+และออกมา เรามีบันทึก
 
 715
 00:22:53,360 --> 00:22:57,200
-collateral
+หลักประกันมากมาย
 
 716
 00:22:54,080 --> 00:22:59,120
-um fair note this is all like fake dots
+หมายเหตุ นี้เป็น dot ปลอม
 
 717
 00:22:57,200 --> 00:23:00,480
-just for testing purposes and also the
+เพียงเพื่อวัตถุประสงค์ในการทดสอบ
 
 718
 00:22:59,120 --> 00:23:03,679
-bitcoin are not real
+และ bitcoin นั้นไม่ใช่ของจริงเช่นกัน
 
 719
 00:23:00,480 --> 00:23:05,280
-um but we are using the actual bitcoin
+แต่เรากำลังใช้เครือข่ายทดสอบ bitcoin
 
 720
 00:23:03,679 --> 00:23:06,000
-test network and what i'm going to do
+และสิ่งที่ฉันจะทำตอนนี้
 
 721
 00:23:05,280 --> 00:23:09,360
-now
+ 
 
 722
 00:23:06,000 --> 00:23:11,039
-is basically uh walk you through the
+โดยพื้นฐานแล้วจะนำคุณผ่าน
 
 723
 00:23:09,360 --> 00:23:12,960
-through the flow real quick um so
+โฟลว์อย่างรวดเร็ว
 
 724
 00:23:11,039 --> 00:23:15,120
-basically what you would do here
+ดังนั้นโดยพื้นฐานแล้วสิ่งที่คุณจะทำที่นี่
 
 725
 00:23:12,960 --> 00:23:17,440
-is you would enter the amount of poco
+คือคุณจะป้อนจำนวน polkabtc
 
 726
 00:23:15,120 --> 00:23:19,360
-btc that you want to receive
+ที่คุณต้องการรับและ
 
 727
 00:23:17,440 --> 00:23:20,960
-and uh you get your own like a bridge
+คุณได้รับของคุณเองเช่นค่าธรรมเนียมบริดจ์
 
 728
 00:23:19,360 --> 00:23:22,000
-fee here this is still kind of work in
+ที่นี่ยังคงเป็นงานที่กำลังดำเนินการอยู่
 
 729
 00:23:20,960 --> 00:23:24,159
-progress so
+ดังนั้น
 
 730
 00:23:22,000 --> 00:23:26,159
-this will likely change from mainnet a
+สิ่งนี้น่าจะเปลี่ยนจาก mainnet
 
 731
 00:23:24,159 --> 00:23:28,000
-small security deposit to kind of
+เงินประกันเล็กน้อย
 
 732
 00:23:26,159 --> 00:23:28,640
-prevent briefing of the vaults because
+เพื่อป้องกันการทางด้านห้องนิรภัยเพราะ
 
 733
 00:23:28,000 --> 00:23:30,480
-it's kind of
+มันเป็น
 
 734
 00:23:28,640 --> 00:23:32,159
-decentralized system and then it shows
+ระบบกระจายอำนาจแล้ว แต่จะแสดงให้คุณเห็น
 
 735
 00:23:30,480 --> 00:23:35,600
-you the total deposit
+ยอดเงินฝากทั้งหมด
 
 736
 00:23:32,159 --> 00:23:39,280
-and what i just do is i hit confirm
+และสิ่งที่ฉันเพิ่งทำคือฉันกดยืนยัน
 
 737
 00:23:35,600 --> 00:23:42,240
-and then my poco.js pops up
+แล้ว poco.js ของฉันก็ปรากฏขึ้น
 
 738
 00:23:39,280 --> 00:23:43,600
-i sign the transaction and this gets
+ฉันลงนามในการทำธุรกรรมและสิ่งนี้จะ
 
 739
 00:23:42,240 --> 00:23:46,000
-then mined
+ถูกบันทึก
 
 740
 00:23:43,600 --> 00:23:47,600
-i think since we're on the actual beta
+ฉันคิดว่าเนื่องจากเราอยู่ในเบต้า
 
 741
 00:23:46,000 --> 00:23:49,440
-life test network
+บนเครือข่ายทดสอบ
 
 742
 00:23:47,600 --> 00:23:51,279
-there's a slight delay here at the
+มีความล่าช้าเล็กน้อยที่นี่
 
 743
 00:23:49,440 --> 00:23:52,240
-moment but what's happening in the
+ชั่วขณะ แต่สิ่งที่เกิดขึ้นใน
 
 744
 00:23:51,279 --> 00:23:55,440
-background right now
+เบื้องหลังตอนนี้
 
 745
 00:23:52,240 --> 00:23:59,360
-is we are doing this kind of magic trick
+เหมือนเรากำลังเล่นมายากลแบบนี้อยู่
 
 746
 00:23:55,440 --> 00:24:01,679
-where a vault gets a new btc address so
+ที่ห้องนิรภัยได้รับที่อยู่ btc ใหม่ดังนั้น
 
 747
 00:23:59,360 --> 00:24:03,360
-for every request we are using a new
+สำหรับทุกคำขอเราจะใช้
 
 748
 00:24:01,679 --> 00:24:07,120
-deposit address for the vault
+ที่อยู่การฝากใหม่สำหรับห้องนิรภัย
 
 749
 00:24:03,360 --> 00:24:09,440
-and we are creating this on chain and
+และเรากำลังสร้างสิ่งนี้บนเชนและ
 
 750
 00:24:07,120 --> 00:24:11,679
-once this is done you will see basically
+เมื่อเสร็จแล้วคุณจะเห็นโดยทั่วไป
 
 751
 00:24:09,440 --> 00:24:13,200
-here and it will ask you to actually
+ที่นี่และจะขอให้คุณ
 
 752
 00:24:11,679 --> 00:24:15,840
-send a
+ส่ง
 
 753
 00:24:13,200 --> 00:24:16,640
-a bitcoin transfer with that amount to
+bitcoinจริงๆ ด้วยจำนวนเงินนั้นไปยัง
 
 754
 00:24:15,840 --> 00:24:18,159
-this
+ 
 
 755
 00:24:16,640 --> 00:24:20,159
-specific vault address and you have to
+ที่อยู่ห้องนิรภัยเฉพาะนี้และคุณต้อง
 
 756
 00:24:18,159 --> 00:24:22,720
-do that within 24 hours
+ทำภายใน 24 ชั่วโมง
 
 757
 00:24:20,159 --> 00:24:23,679
-um slight side note we also added this
+อืมหมายเหตุเล็กน้อย เราได้เพิ่ม
 
 758
 00:24:22,720 --> 00:24:25,440
@@ -3032,171 +3032,171 @@ millibtc
 
 759
 00:24:23,679 --> 00:24:27,120
-because some bitcoin wallets show it
+นี้เพราะบางกระเป๋าเงิน bitcoin แสดงอย่างนั้น
 
 760
 00:24:25,440 --> 00:24:28,080
-like that and you can also just scan a
+และคุณยังสามารถสแกน
 
 761
 00:24:27,120 --> 00:24:30,480
-qr code
+รหัส qr ได้
 
 762
 00:24:28,080 --> 00:24:32,240
-um this literally works with any bitcoin
+ใช้งานได้จริงกับกระเป๋าเงิน bitcoin ใด ๆ
 
 763
 00:24:30,480 --> 00:24:34,480
-wallet that supports test net um
+ที่รองรับ test net
 
 764
 00:24:32,240 --> 00:24:36,880
-so electrum or you can even use your
+ดังนั้น electrum หรือคุณสามารถใช้
 
 765
 00:24:34,480 --> 00:24:39,360
-hardware wallet so like ledger or tresor
+hardware wallet เช่น ledger หรือ trezor
 
 766
 00:24:36,880 --> 00:24:40,720
-um all works um i'm not going to make
+อืม มันใช้งานได้ทั้งหมด
 
 767
 00:24:39,360 --> 00:24:42,159
-the payment right now but
+ฉันจะไม่ทำการจ่ายเงินตอนนี้ แต่
 
 768
 00:24:40,720 --> 00:24:44,159
-technically what i would do is like head
+ในทางเทคนิคแล้ว สิ่งที่ฉันจะทำคือ
 
 769
 00:24:42,159 --> 00:24:46,880
-over to my electron do the payment
+ตรงไปที่อิเลคตรอนของฉัน เพื่อจ่ายเงิน
 
 770
 00:24:44,159 --> 00:24:48,720
-um anyway not doing that right now um
+ยังไงก็ตาม ฉันยังไม่ทำตอนนี้
 
 771
 00:24:46,880 --> 00:24:52,000
-but basically what you're gonna see
+แต่โดยพื้นฐานแล้ว สิ่งที่คุณจะเห็นคือ
 
 772
 00:24:48,720 --> 00:24:54,000
-is uh here are my requests that i made
+นี่คือคำขอของฉันที่ฉันทำไป
 
 773
 00:24:52,000 --> 00:24:55,600
-that are still pending so that it asked
+อยู่ในระหว่างดำเนินการเพื่อ
 
 774
 00:24:54,000 --> 00:24:58,400
-me to actually do the payment
+ให้มันขอให้ฉันชำระเงินได้จริง
 
 775
 00:24:55,600 --> 00:24:59,679
-uh which i didn't do yet but uh if i do
+ซึ่งฉันยังไม่ได้ทำ
 
 776
 00:24:58,400 --> 00:25:02,240
-my payment
+แต่ เอ่อ ถ้าฉันชำระเงินแล้ว
 
 777
 00:24:59,679 --> 00:25:03,440
-and then it gets confirmed on the
+ได้รับการยืนยัน
 
 778
 00:25:02,240 --> 00:25:05,279
-bitcoin blockchain
+บนบล็อคเชนของ bitcoin
 
 779
 00:25:03,440 --> 00:25:06,640
-you will see that you receive this
+คุณจะเห็นว่าคุณได้รับ
 
 780
 00:25:05,279 --> 00:25:09,760
-request you get this
+คำขอนี้
 
 781
 00:25:06,640 --> 00:25:11,440
-success message that you actually have
+คุณจะได้รับข้อความแสดงความสำเร็จว่า จริงๆ คุณมี
 
 782
 00:25:09,760 --> 00:25:13,840
-poco btc
+polkabtc
 
 783
 00:25:11,440 --> 00:25:16,000
-and if you don't do that if you don't
+และถ้าคุณไม่ทำถ้าคุณไม่
 
 784
 00:25:13,840 --> 00:25:17,520
-make the payment within 24 hours
+ชำระเงินภายใน 24 ชั่วโมง
 
 785
 00:25:16,000 --> 00:25:18,799
-like the request will be cancelled and
+เช่นคำขอจะถูกยกเลิก
 
 786
 00:25:17,520 --> 00:25:20,240
-you get a notification that it's
+และคุณได้รับการแจ้งเตือนว่า
 
 787
 00:25:18,799 --> 00:25:22,559
-cancelled
+ยกเลิกแล้ว
 
 788
 00:25:20,240 --> 00:25:24,320
-um so yeah the the issue step is really
+ใช่ปัญหาของขั้นตอนนี้
 
 789
 00:25:22,559 --> 00:25:27,279
-just this this this one screen
+แค่เพียงหน้านี้
 
 790
 00:25:24,320 --> 00:25:29,440
-basically and then um as you can see up
+โดยทั่วไปแล้ว อย่างที่คุณเห็นบนนี้
 
 791
 00:25:27,279 --> 00:25:32,000
-here i i do have some pokeptc
+ฉันมี polkabtc อยู่บ้าง
 
 792
 00:25:29,440 --> 00:25:33,200
-so um what i can also do is i can just
+ดังนั้น อืม สิ่งที่ฉันทำได้คือ
 
 793
 00:25:32,000 --> 00:25:35,120
-do a redeem
+ฉันสามารถทำการแลกได้
 
 794
 00:25:33,200 --> 00:25:36,640
-and for this very purpose i'm actually
+และเพื่อจุดประสงค์นี้ จริงๆ แล้ว ฉันจะ
 
 795
 00:25:35,120 --> 00:25:39,760
-gonna um
+ 
 
 796
 00:25:36,640 --> 00:25:43,360
-i'm actually gonna create this uh
+สร้างที่อยู่
 
 797
 00:25:39,760 --> 00:25:46,240
-address now
+ตอนนี้
 
 798
 00:25:43,360 --> 00:25:46,799
-and so electron gives me a new address
+และelectrumให้ที่อยู่ใหม่กับฉัน
 
 799
 00:25:46,240 --> 00:25:49,360
-and
+และ
 
 800
 00:25:46,799 --> 00:25:50,640
-i'm gonna answer this uh let's say i'm
+ฉันจะตอบคำถามนี้ เอ่อ สมมติว่าฉัน
 
 801
 00:25:49,360 --> 00:25:54,799
