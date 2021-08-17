@@ -528,855 +528,880 @@ liquid ที่สามารถถ่ายโอนได้
 
 133
 00:04:26,960 --> 00:04:32,000
-could be used for other utility as well
+สามารถนำไปใช้ประโยชน์อย่างอื่นได้เช่นกัน
 
 134
 00:04:29,120 --> 00:04:34,320
-and one big utility that you can use
+และยูทิลิตี้หลัก หนึ่งตัวที่คุณสามารถใช้ได้
 
 135
 00:04:32,000 --> 00:04:34,960
-with this lksm is that you can actually
+ด้วย lksm ที่คุณ
 
 136
 00:04:34,320 --> 00:04:38,639
-borrow
+ยืม
 
 137
 00:04:34,960 --> 00:04:40,639
-against your lksm and the demo that i
+ต่อ lksm ของคุณ และการสาธิตที่ฉัน
 
 138
 00:04:38,639 --> 00:04:42,080
-showed earlier is that you can borrow
+แสดงไปก่อนหน้าที่คุณสามารถยืม
 
 139
 00:04:40,639 --> 00:04:43,600
-against your stack asset
+เทียบกับทรัพย์สินกองของคุณ
 
 140
 00:04:42,080 --> 00:04:45,040
-so you don't actually have to give up
+ดังนั้นคุณไม่จำเป็นต้องยอมแพ้
 
 141
 00:04:43,600 --> 00:04:46,400
-the opportunity cost if you say that you
+ค่าเสียโอกาสถ้าคุณบอกว่าคุณ
 
 142
 00:04:45,040 --> 00:04:48,000
-want to borrow against stocks
+ต้องการยืมกับ dot
 
 143
 00:04:46,400 --> 00:04:49,360
-you have to choose that hey do i want to
+คุณต้องเลือกว่า เฮ้ ฉันต้องการ
 
 144
 00:04:48,000 --> 00:04:51,440
-select these stocks or do i want to
+stake dot ของฉันหรือ ต้องการที่จะ
 
 145
 00:04:49,360 --> 00:04:53,680
-borrow against my dollar but with ldl
+ยืมเงินกับดอลลาร์ของฉัน แต่ด้วย ldl
 
 146
 00:04:51,440 --> 00:04:55,840
-always lksm this is the best of both
+lksm เสมอ นี่คือสิ่งที่ดีที่สุดของทั้งสอง
 
 147
 00:04:53,680 --> 00:04:57,120
-it could be earning the staking reward
+คุณอาจจะได้รับรางวัลการ staking
 
 148
 00:04:55,840 --> 00:04:58,240
-while you're borrowing against a
+ในขณะที่คุณกำลังยืมเงินกับ
 
 149
 00:04:57,120 --> 00:05:01,600
-position
+position ที่ถูกเปิด
 
 150
 00:04:58,240 --> 00:05:02,960
-one question um from jack here in the
+หนึ่งคำถามจาก Jack ตรงนี้
 
 151
 00:05:01,600 --> 00:05:04,560
-chat is
+แชทคือ
 
 152
 00:05:02,960 --> 00:05:07,120
-it's basically like what he said what
+มันก็เหมือนกับที่เขาพูดนั่นแหละ
 
 153
 00:05:04,560 --> 00:05:08,639
-happens if you trade or sell your ldot
+เกิดขึ้นหากคุณซื้อขายหรือขาย ldot ของคุณ
 
 154
 00:05:07,120 --> 00:05:12,320
-so you have like the stake
+ดังนั้นคุณจึงชอบเดิมพัน
 
 155
 00:05:08,639 --> 00:05:14,960
-dot you get this l dot let's say you
+dot คุณได้รับนี้ l dot สมมติว่าคุณ
 
 156
 00:05:12,320 --> 00:05:16,800
-sell it all and you have so what happens
+ขายให้หมด แล้วได้อะไรมา
 
 157
 00:05:14,960 --> 00:05:18,560
-then to your original dot like how do
+
+จากนั้นไปที่จุดเดิมของคุณเช่นทำอย่างไร
 
 158
 00:05:16,800 --> 00:05:21,680
-you actually
+จริงๆ แล้ว
 
 159
 00:05:18,560 --> 00:05:24,720
-either pay for that or get get the dot
+จ่ายเงินหรือรับ dot
 
 160
 00:05:21,680 --> 00:05:26,639
-so think about the aldol it's like an a
+ดังนั้นคิดเกี่ยวกับ ldot มันเหมือน
 
 161
 00:05:24,720 --> 00:05:28,320
-receipt or redeems the receipt for your
+ใบเสร็จรับเงินหรือแลกใบเสร็จสำหรับ
 
 162
 00:05:26,639 --> 00:05:30,240
-stakedown right so if you sell your l
+สิทธิการ stake dot ขอคุณ ดังนั้นหากคุณขาย
 
 163
 00:05:28,320 --> 00:05:32,479
-dot you actually sell the right
+ldot ของคุณ มันเหมือนกับการที่คุณขายสิทธิ์
 
 164
 00:05:30,240 --> 00:05:34,080
-to redeem those dots so it's as if you
+ที่จะได้รับ dotกลับคืนมา ราวกับว่าคุณ
 
 165
 00:05:32,479 --> 00:05:36,560
-sell the dot to someone else so
+ขายดอลลาร์ให้คนอื่น
 
 166
 00:05:34,080 --> 00:05:38,240
-in the demo that i just showed earlier
+ในการสาธิตที่ฉันแสดงก่อนหน้านี้คือ
 
 167
 00:05:36,560 --> 00:05:38,720
-if i transfer some elder to somewhere
+
+ถ้าฉันย้ายสิ่งเก่าไปที่ไหนสักแห่ง
 
 168
 00:05:38,240 --> 00:05:40,720
-else
+ที่อื่น
 
 169
 00:05:38,720 --> 00:05:42,080
-i was transferring the the redeem right
+ฉันกำลังโอนสิทธิ์แลกรับ
 
 170
 00:05:40,720 --> 00:05:43,840
-of the underlying dot
+ของ dot ในราคาต่ำกว่าปกติ
 
 171
 00:05:42,080 --> 00:05:45,600
-to someone else so it's as if i was
+ให้กับคนอื่นก็เหมือนกับว่าฉันเป็น
 
 172
 00:05:43,840 --> 00:05:47,280
-transcending dots so if you sew them
+
+ข้ามจุดดังนั้นถ้าคุณเห็นมัน
 
 173
 00:05:45,600 --> 00:05:47,600
-then you just like as you saw the dots
+
+แล้วคุณก็เหมือนที่คุณเห็นจุด
 
 174
 00:05:47,280 --> 00:05:50,240
-it's
+ซึ่งเป็น
 
 175
 00:05:47,600 --> 00:05:51,440
-um it's no longer yours and yeah the
+อืมมันไม่ใช่ของคุณอีกต่อไปแล้วใช่
 
 176
 00:05:50,240 --> 00:05:54,560
-redeem right for that
+
+แลกสิทธิ์เพื่อสิ่งนั้น
 
 177
 00:05:51,440 --> 00:05:57,199
-length is also no longer yours okay
+ความยาวก็ไม่เป็นของคุณแล้ว
 
 178
 00:05:54,560 --> 00:05:58,080
-so the the l dot isn't connected
+โอเค ดังนั้น ldot จึงไม่เชื่อมต่อ
 
 179
 00:05:57,199 --> 00:06:00,479
-directly to
+โดยตรงไปยัง
 
 180
 00:05:58,080 --> 00:06:02,000
-like a specific dot it's kind of that
+dot เหรียญใดเหรียญหนึ่ง มันเป็นแบบนั้น
 
 181
 00:06:00,479 --> 00:06:03,840
-pool so if i
+พลู ดังนั้น
 
 182
 00:06:02,000 --> 00:06:05,840
-so if jack here who asked the question
+ดังนั้นถ้าแจ็คนี่ที่ถามคำถาม
 
 183
 00:06:03,840 --> 00:06:07,520
-sent me his l dot i could type that l
+ส่ง l dot ของเขามาให้ฉัน ฉันพิมพ์ได้ว่า l
 
 184
 00:06:05,840 --> 00:06:11,520
-dot and redeem it for dot
+
+dot และแลกเป็น dot
 
 185
 00:06:07,520 --> 00:06:13,440
-in the akala pool yes yeah okay
+บน pool ใน acala
 
 186
 00:06:11,520 --> 00:06:14,960
-yeah the moment that you the moment that
+ใช่ ช่วงเวลาที่คุณ
 
 187
 00:06:13,440 --> 00:06:17,520
-you stick with the the
+stake dot ไว้บน
 
 188
 00:06:14,960 --> 00:06:18,479
-um the liquid sticking pool um the dog
+liquid staking dot และ lksm
 
 189
 00:06:17,520 --> 00:06:20,560
-enter the pool
+เข้าไปยังพลู
 
 190
 00:06:18,479 --> 00:06:22,160
-and you essentially get is that what you
+และสิ่งที่คุณได้รับก็คือ
 
 191
 00:06:20,560 --> 00:06:22,800
-essentially get back is the right to
+สิทธิ์ที่จะไถ่ถอน กลับมา
 
 192
 00:06:22,160 --> 00:06:24,479
-redeem
+ไถ่ถอน
 
 193
 00:06:22,800 --> 00:06:26,400
-for the dog and because thought itself
+dot และเพราะ dot นั้นคือ
 
 194
 00:06:24,479 --> 00:06:27,759
-is not functional it's fungible like
+สิงที่แลกเปลี่ยนได้
 
 195
 00:06:26,400 --> 00:06:29,520
-every single dog is the same
+dot ทุกเหรียญเหมือนกัน
 
 196
 00:06:27,759 --> 00:06:30,960
-you can't say that okay that dog is my
+คุณไม่สามารถพูดได้ว่าโอเคนี่ dot เป็นของฉัน
 
 197
 00:06:29,520 --> 00:06:33,120
-dog and that dog is your dog they are
+dot นั้น dot ของคุณ พวกมันคือ
 
 198
 00:06:30,960 --> 00:06:35,600
-all dots
+dot เหมือนกันทั้งหมด
 
 199
 00:06:33,120 --> 00:06:37,520
-yes this guy the sage law said so the
+sage lawพูดอย่างนั้น
 
 200
 00:06:35,600 --> 00:06:39,840
-l-dot is like the title to a car
+ldot ก็เหมือนชื่อเรื่องของ acala
 
 201
 00:06:37,520 --> 00:06:41,440
-so if you sell the title someone else
+ดังนั้นถ้าคุณขายชื่อให้คนอื่น
 
 202
 00:06:39,840 --> 00:06:45,360
-kind of owns the car
+เหมือนกับขายความเป็นเจ้าของรถ
 
 203
 00:06:41,440 --> 00:06:48,240
-yes since um another good question is
+อีกคำถามที่น่าสนใจคือ
 
 204
 00:06:45,360 --> 00:06:48,960
-basically could you explain how the the
+โดยพื้นฐานแล้วคุณพออธิบายได้ไหม
 
 205
 00:06:48,240 --> 00:06:50,800
-interest
+ดอกเบี้ย
 
 206
 00:06:48,960 --> 00:06:52,160
-or the staking interest works since
+หรือ ดอกเบี้ยจากการstaking ทำงานตั้งแต่
 
 207
 00:06:50,800 --> 00:06:54,960
-you're staking
+คุณกำลัง stake
 
 208
 00:06:52,160 --> 00:06:56,240
-with a kala versus i guess in the in
+ด้วย acala กับ ฉันเดาว่าใน
 
 209
 00:06:54,960 --> 00:06:58,080
-this case with kerra so if you're
+กรณีนี้ กับ karura ดังนั้นถ้าคุณ
 
 210
 00:06:56,240 --> 00:06:59,199
-staking your ksm with kura it's not
+stake ksm บน karura มันไม่ใช่
 
 211
 00:06:58,080 --> 00:07:01,680
-staking like
+การ stake
 
 212
 00:06:59,199 --> 00:07:03,280
-directly into the kusama chain there's
+โดยตรงบน เครือข่าย kusama
 
 213
 00:07:01,680 --> 00:07:04,160
-this there's this kind of application
+มันมีแอพพลิเคชั่น
 
 214
 00:07:03,280 --> 00:07:05,919
-layer so
+เลเยอร์ดังนั้น
 
 215
 00:07:04,160 --> 00:07:07,599
-they're asking who is paying that
+พวกเขากำลังถามว่าใครเป็นคนจ่าย
 
 216
 00:07:05,919 --> 00:07:10,720
-percent interest for
+เปอร์เซ็นต์ดอกเบี้ยนี้
 
 217
 00:07:07,599 --> 00:07:12,160
-um in the career case lksm staking like
+อืมในกรณี karura การ stake ของlksm
 
 218
 00:07:10,720 --> 00:07:13,360
-how does that work
+มันทำงานอย่างไร
 
 219
 00:07:12,160 --> 00:07:15,199
-well awesome like this is a good
+
+เจ๋งดีแบบนี้ก็ดีสิ
 
 220
 00:07:13,360 --> 00:07:17,360
-question right so the um
+
+เจ๋งดีแบบนี้ก็ดีสิ
 
 221
 00:07:15,199 --> 00:07:19,280
-think about the um the liquid staking
+ลองคิดถึงการทำ liquid staking pool
 
 222
 00:07:17,360 --> 00:07:21,680
-pool as a trustless staking pool
+ที่เป็นรูปแบบ trustless
 
 223
 00:07:19,280 --> 00:07:23,360
-the dot order the ksm that you deposit
+dot หรือ ksm ที่คุณฝากไว้
 
 224
 00:07:21,680 --> 00:07:24,319
-into the pool will be managed by the
+ใน pool ที่ถูกจัดการโดย
 
 225
 00:07:23,360 --> 00:07:26,479
-network and the
+เครือข่าย และ
 
 226
 00:07:24,319 --> 00:07:27,360
-network will then nominate those dots
+ซึ่งเครือข่ายนั้นจะนำ dotเหล่านั้น
 
 227
 00:07:26,479 --> 00:07:30,240
-into the
+ส่งไปยัง
 
 228
 00:07:27,360 --> 00:07:31,599
-um validator within the kusama network
+Validator ต่างๆ ภายใน เครือข่าย kusama
 
 229
 00:07:30,240 --> 00:07:33,840
-and if this dot is
+และถ้า dot นี้
 
 230
 00:07:31,599 --> 00:07:36,720
-this full size is growing size it will
+จะทำให้ขนาดของ pool ใหญ่ขึ้นเรื่อยๆ
 
 231
 00:07:33,840 --> 00:07:38,960
-be managed it will be nominated across
+ถูกจัดการและนำส่งข้ามไป
 
 232
 00:07:36,720 --> 00:07:40,160
-multiple validators uh in the in the
+ที่validator ตัวอื่นๆ ภายใน
 
 233
 00:07:38,960 --> 00:07:43,280
-kusama network
+เครื่อข่าย kusuma
 
 234
 00:07:40,160 --> 00:07:44,000
-so ultimately the staking reward of the
+ดังนั้นในที่สุดรางวัลของการ staking
 
 235
 00:07:43,280 --> 00:07:47,280
-of
+เกี่ยวกับ
 
 236
 00:07:44,000 --> 00:07:49,680
-staking by minting the lksm would be
+โดยการทำ lksm ขึ้นมาจะ
 
 237
 00:07:47,280 --> 00:07:50,319
-equivalent to the average eu of the
+ค่าเทียบเท่ากับค่าเฉลี่ยของ yield
 
 238
 00:07:49,680 --> 00:07:52,479
-network
+ในเครือข่าย
 
 239
 00:07:50,319 --> 00:07:53,599
-it will be safer because like d2 is
+ของเครือข่าย มันจะปลอดภัยกว่า เพราะ
 
 240
 00:07:52,479 --> 00:07:55,919
-spread across
+มันถูกกระจาย
 
 241
 00:07:53,599 --> 00:07:56,639
-multiple validators so even a slash
+ไปยัง validator หลายตัว แม้จะมี
 
 242
 00:07:55,919 --> 00:07:59,680
-happens
+บางส่วนเสียหายเกิดขึ้น
 
 243
 00:07:56,639 --> 00:08:02,240
-the risk of like the pool is
+ความเสี่ยงของ pool แทบจะเป็น
 
 244
 00:07:59,680 --> 00:08:04,000
-sort of like meditated um because only
+
+เหมือนนั่งสมาธิ อืม เพราะเท่านั้น
 
 245
 00:08:02,240 --> 00:08:04,400
-slash a proportion a tiny portion of
+
+เฉือนส่วนเล็ก ๆ ของ
 
 246
 00:08:04,000 --> 00:08:06,560
-that
+ที่ซึ่ง
 
 247
 00:08:04,400 --> 00:08:08,319
-but the same um the sticking reward is
+แต่รางวัลการเกาะติดก็เหมือนกัน
 
 248
 00:08:06,560 --> 00:08:10,400
-also the average yield
+
+ยังให้ผลผลิตเฉลี่ย
 
 249
 00:08:08,319 --> 00:08:11,520
-it's like a safe average view of the
+
+มันเหมือนกับมุมมองเฉลี่ยที่ปลอดภัยของ
 
 250
 00:08:10,400 --> 00:08:15,520
-expected return
+
+ผลตอบแทนที่คาด
 
 251
 00:08:11,520 --> 00:08:19,280
-of the network and one key other um
+ของเครือข่ายและอีกหนึ่งคีย์อื่น ๆ
 
 252
 00:08:15,520 --> 00:08:22,400
-fact we need to understand is also the
+ความจริงที่เราต้องเข้าใจก็คือ
 
 253
 00:08:19,280 --> 00:08:24,000
-l ksm holders actually uh can vote for
+ผู้ถือ lksm สามารถลงคะแนนให้ ได้จริง
 
 254
 00:08:22,400 --> 00:08:25,039
-validators so this is what we are
+กับผู้ตรวจสอบความถูกต้อง นี่คือสิ่งที่พวกเรากำลัง
 
 255
 00:08:24,000 --> 00:08:27,360
-working progress so
+ทำงานอยู่
 
 256
 00:08:25,039 --> 00:08:28,400
-when you meet lksm you get you have the
+เมื่อคุณมี lksm พวกคุณมี
 
 257
 00:08:27,360 --> 00:08:32,080
-the right to say that i
+สิทธิที่จะบอกว่าฉัน
 
 258
 00:08:28,400 --> 00:08:34,959
-prefer the pool to validate and delegate
+ต้องการพูลเพื่อตรวจสอบและมอบหมาย
 
 259
 00:08:32,080 --> 00:08:35,599
-the ksm into this set of validators and
+ksm ลงในชุดเครื่องมือตรวจสอบความถูกต้องและ
 
 260
 00:08:34,959 --> 00:08:38,080
-ultimately
+ในที่สุด
 
 261
 00:08:35,599 --> 00:08:39,519
-the pool will check all the input from
+pool จะตรวจสอบอินพุตทั้งหมดจาก
 
 262
 00:08:38,080 --> 00:08:42,640
-the lksm holders
+ผู้ถือ lksm
 
 263
 00:08:39,519 --> 00:08:44,880
-and nominate those um those kikusama
+และนำเสนอ kusama นั้น
 
 264
 00:08:42,640 --> 00:08:46,800
-for across all the validators as
+ไปยัง ตัวตรวจสอบความถูกต้องทั้งหมด
 
 265
 00:08:44,880 --> 00:08:48,800
-proportion as a portion
+สัดส่วนเป็นสัดส่วน
 
 266
 00:08:46,800 --> 00:08:50,959
-with kusama now if you're staking
+กับ kusama ตอนนี้ ถ้าคุณกำลัง stake อยู่
 
 267
 00:08:48,800 --> 00:08:52,560
-through polka dot js it's you as a user
+ผ่าน polkadot js คุณในฐานะผู้ใช้
 
 268
 00:08:50,959 --> 00:08:55,279
-staking directly to
+stake โดยตรงผ่าน
 
 269
 00:08:52,560 --> 00:08:56,000
-a validator or a set of validators in
+เครื่องมือตรวจสอบ หรือ ชุดเครื่องมือตรวจสอบ ใน
 
 270
 00:08:55,279 --> 00:08:57,920
-this case
+กรณีนี้
 
 271
 00:08:56,000 --> 00:08:59,279
-in this case there's kirura in the
+ในกรณีนี้มี karura อยู่
 
 272
 00:08:57,920 --> 00:09:01,680
-middle so you
+ตรงกลางดังนั้นคุณ
 
 273
 00:08:59,279 --> 00:09:02,320
-stake with karua karua distributes the
+stake กับ karura และ karura แจกจ่าย
 
 274
 00:09:01,680 --> 00:09:04,959
-stake of
+สัดส่วนการถือหุ้นของ
 
 275
 00:09:02,320 --> 00:09:06,959
-everyone on karua to an evenly
+ทุกคนบน karura อย่างเท่าเทียมกัน
 
 276
 00:09:04,959 --> 00:09:09,279
-distributed set of validators across
+ชุดตรวจสอบแบบกระจายทั่ว
 
 277
 00:09:06,959 --> 00:09:10,080
-kusama and then all the returns coming
+kusama แล้วการตอบแทนจะกลับมา
 
 278
 00:09:09,279 --> 00:09:12,480
-in from
+จาก
 
 279
 00:09:10,080 --> 00:09:14,640
-those validators are pooled and then
+เครื่องมือตรวจสอบเหล่านั้นถูกรวมเข้าด้วยกันแล้ว
 
 280
 00:09:12,480 --> 00:09:16,640
-evenly distributed at the average
+กระจายอย่างสม่ำเสมอที่ค่าเฉลี่ย
 
 281
 00:09:14,640 --> 00:09:18,640
-across all the validators that carrera
+ในบรรดาผู้ตรวจสอบทั้งหมด นั้นคือจุดหลัก
 
 282
 00:09:16,640 --> 00:09:20,720
-is staking with
+ของการ stake
 
 283
 00:09:18,640 --> 00:09:22,480
-yes and if this is like a centralized
+ใช่และถ้าเป็นเหมือนการรวมศูนย์
 
 284
 00:09:20,720 --> 00:09:22,800
-staking service then you have the risk
+บริการ Stake แล้วคุณจะมีความเสี่ยง
 
 285
 00:09:22,480 --> 00:09:25,440
-of
+เกี่ยวกับ
 
 286
 00:09:22,800 --> 00:09:27,120
-the centralized entity being default you
+เอนทิตีส่วนกลาง deforce คุณ
 
 287
 00:09:25,440 --> 00:09:28,240
-have this chart you have to trust the
+คุณต้องไว้วางใจ
 
 288
 00:09:27,120 --> 00:09:30,320
-centralized entity
+เอนทิตีที่รวมศูนย์
 
 289
 00:09:28,240 --> 00:09:32,560
-um to do the right thing but since um
+อืม ทำในสิ่งที่ถูกต้อง แต่ตั้งแต่ อืม
 
 290
 00:09:30,320 --> 00:09:33,279
-the liquid staking protocol that we
+โปรโตคอล liquid staking ที่เรา
 
 291
 00:09:32,560 --> 00:09:35,680
-currently have
+มีในปัจจุบัน
 
 292
 00:09:33,279 --> 00:09:36,399
-is trustless everything is managed on
+เป็นรูปแบบ trustless ทุกอย่างถูกจัดการบน
 
 293
 00:09:35,680 --> 00:09:38,000
-chen
+เครือข่าย
 
 294
 00:09:36,399 --> 00:09:39,920
-uh you can think of like it's like an
+เอ่อ คุณคิดได้เหมือนอย่างกับว่า
 
 295
 00:09:38,000 --> 00:09:42,160
-advanced version of smart contract
+สัญญาอัจฉริยะเวอร์ชันขั้นสูง
 
 296
 00:09:39,920 --> 00:09:43,600
-um everyone is staking in a trustless
+อืม ทุกคนกำลัง staking ในแบบ
 
 297
 00:09:42,160 --> 00:09:46,800
-way and there's no risk of
+trustless ที่ไม่มีความเสี่ยง
 
 298
 00:09:43,600 --> 00:09:47,920
-um of being um managed by one single
+จะถูกจัดการโดย
 
 299
 00:09:46,800 --> 00:09:49,760
-centralized entity
+เอนทิตีที่รวมศูนย์
 
 300
 00:09:47,920 --> 00:09:51,680
-so this is the i think this is awesome
+ดังนั้น ฉันคิดว่านี่ยอดเยี่ยมมาก
 
 301
 00:09:49,760 --> 00:09:54,880
-this is the way to go um for
+นี่คือหนทางที่จะ
 
 302
 00:09:51,680 --> 00:09:56,880
-um in a sense yokusama even you stick
+ของ kusama แม้ว่าคุณจะ staking
 
 303
 00:09:54,880 --> 00:09:59,920
-through the liquid staking
+ผ่าน liquid staking
 
 304
 00:09:56,880 --> 00:10:02,399
-the yokusama never leave your custody
+kusama ไม่เคยออกจากการดูแลของคุณ
 
 305
 00:09:59,920 --> 00:10:04,560
-okay so by staking or by making dot
+เกี่ยวกับการ staking หรือ การทำ dot liquid
 
 306
 00:10:02,399 --> 00:10:05,519
-liquid are we compromising the safety of
+เรากำลังกังวลเกี่ยวกับความปลอดภัยของ
 
 307
 00:10:04,560 --> 00:10:08,720
-the polka dot
+polkadot chain
 
 308
 00:10:05,519 --> 00:10:10,320
-chain the dot can be slash uh still be
+dot สามารถถูกเฉือน
 
 309
 00:10:08,720 --> 00:10:13,360
-slashed right
+ออกไปบางส่วนใช่ไหม
 
 310
 00:10:10,320 --> 00:10:14,880
-um what happens then the
+เกิดอะไรขึ้นหลังจากนั้น
 
 311
 00:10:13,360 --> 00:10:17,760
-so basically he's asking what happens
+ดยพื้นฐานแล้วเขาถามว่าเกิดอะไรขึ้น
 
 312
 00:10:14,880 --> 00:10:19,440
-with like network security and slashing
+ด้วยเช่นการรักษาความปลอดภัยเครือข่ายและการตัดเฉือน
 
 313
 00:10:17,760 --> 00:10:21,519
-okay i think this is an awesome question
+โอเค ฉันคิดว่านี่เป็นคำถามที่ยอดเยี่ยม
 
 314
 00:10:19,440 --> 00:10:23,760
-right so um if the
+ดังนั้น อืม ถ้า
 
 315
 00:10:21,519 --> 00:10:24,880
-polka dots network security can be
+ความปลอดภัยของเครือข่าย polka dots สามารถ
 
 316
 00:10:23,760 --> 00:10:27,600
-compromised
+ประนีประนอมได้
 
 317
 00:10:24,880 --> 00:10:28,800
-by saying that you simply pull up the um
+โดยบอกว่าคุณเพียงแค่ดึง
 
 318
 00:10:27,600 --> 00:10:31,360
-the dot together
+dot ร่วมกัน
 
 319
 00:10:28,800 --> 00:10:32,000
-and make it transferable and making
+และทำให้สามารถถ่ายโอนและทำให้เป็น
 
 320
 00:10:31,360 --> 00:10:34,399
-liquids
+liquid ได้
 
 321
 00:10:32,000 --> 00:10:35,200
-then i think it's going to happen anyway
+ฉันคิดว่า อืม มันจะเกิดขึ้นต่อไป
 
 322
 00:10:34,399 --> 00:10:36,959
-like there's always
+
+เหมือนมีเสมอ
 
 323
 00:10:35,200 --> 00:10:38,640
-a lot of centralized entities so if you
+
+หน่วยงานส่วนกลางจำนวนมาก ดังนั้นหากคุณ
 
 324
 00:10:36,959 --> 00:10:40,079
-stick with finance today
+ติดการเงินวันนี้
 
 325
 00:10:38,640 --> 00:10:41,440
-you can already transfer your stack
+คุณสามารถโอนสแตกของคุณได้แล้ว
 
 326
 00:10:40,079 --> 00:10:42,240
-asset you can trade it in the market or
+
+สินทรัพย์ที่คุณสามารถซื้อขายในตลาดหรือ
 
 327
 00:10:41,440 --> 00:10:44,160
-things like that
+อะไรแบบนั้น
 
 328
 00:10:42,240 --> 00:10:46,079
-so the thing is that i we don't think
+สิ่งที่เราไม่คิดว่า
 
 329
 00:10:44,160 --> 00:10:47,920
-this is going to affect the um the
+จะส่งผลกระทบต่อ
 
 330
 00:10:46,079 --> 00:10:48,800
-pokedex network security at all because
+
+ความปลอดภัยเครือข่าย pokedex เลยเพราะ
 
 331
 00:10:47,920 --> 00:10:52,160
-ultimately
+ในที่สุด
 
 332
 00:10:48,800 --> 00:10:54,399
-if by simply reprogram or by gaming
+
+ถ้าเพียงแค่โปรแกรมใหม่หรือโดยการเล่นเกม
 
 333
 00:10:52,160 --> 00:10:55,680
-by by building something on top of the
+
+โดยการสร้างบางสิ่งบางอย่างบน
 
 334
 00:10:54,399 --> 00:10:56,959
-network and you can affect
+
+เครือข่ายและคุณสามารถส่งผลกระทบต่อ
 
 335
 00:10:55,680 --> 00:10:59,200
-security then there's actually a
+
+ความปลอดภัยแล้วมี
 
 336
 00:10:56,959 --> 00:11:00,800
-security problem of the underlying layer
+ปัญหาความปลอดภัยของเลเยอร์พื้นฐาน
 
 337
 00:10:59,200 --> 00:11:02,480
-in this in our case we don't think
+
+ในกรณีนี้เราไม่คิดว่า
 
 338
 00:11:00,800 --> 00:11:05,040
-that's going to have any problem
+มันก็จะมีปัญหา
 
 339
 00:11:02,480 --> 00:11:05,519
-um the other key stuff to think about if
+um สิ่งสำคัญอื่น ๆ ที่ควรคำนึงถึง if
 
 340
 00:11:05,040 --> 00:11:07,760
-you step
+คุณก้าว
 
 341
 00:11:05,519 --> 00:11:08,560
-through this particular liquid staking
+
+ผ่านการปักหลักของเหลวโดยเฉพาะนี้
 
 342
 00:11:07,760 --> 00:11:11,040
-pool you
+พลูที่คุณ
 
 343
 00:11:08,560 --> 00:11:12,560
-actually do not have the like the
+
+จริง ๆ แล้วไม่มีเช่น
 
 344
 00:11:11,040 --> 00:11:14,640
-risk-free way to say that you are no
+วิธีที่ปราศจากความเสี่ยงที่จะบอกว่าคุณไม่ใช่
 
 345
 00:11:12,560 --> 00:11:18,160
-longer getting chance of getting slashed
+
+โอกาสโดนฟันนานขึ้น
 
 346
 00:11:14,640 --> 00:11:20,000
@@ -1384,39 +1409,41 @@ so if the liquor staking pool was
 
 347
 00:11:18,160 --> 00:11:23,200
-delegating or nominating
+การมอบหมายหรือเสนอชื่อ
 
 348
 00:11:20,000 --> 00:11:24,959
-let's say across um 50
+
+สมมุติว่าข้าม 50
 
 349
 00:11:23,200 --> 00:11:27,040
-validators and one of those getting
+
+ผู้ตรวจสอบความถูกต้องและหนึ่งในนั้นที่ได้รับ
 
 350
 00:11:24,959 --> 00:11:28,399
-slashed the pool actually will get a hit
+กลุ่มนี้จริง ๆ แล้วจะได้รับความเสียหาย
 
 351
 00:11:27,040 --> 00:11:31,279
-of getting this slashed
+จากการถูกเฉือนนี้ แต่
 
 352
 00:11:28,399 --> 00:11:32,160
-but the the the result of like spreading
+แต่ผลแห่งการชอบแพร่ออกไป
 
 353
 00:11:31,279 --> 00:11:34,480
-this pool
+พลูนี้
 
 354
 00:11:32,160 --> 00:11:36,160
-um across 50 validator is that even
+ผ่าน validator ทั้ง 50 รายการ แม้ว่า
 
 355
 00:11:34,480 --> 00:11:37,120
-though you you're getting slash in one
+คุณจะถูกเฉือนใน
 
 356
 00:11:36,160 --> 00:11:39,440
@@ -1424,75 +1451,76 @@ validator
 
 357
 00:11:37,120 --> 00:11:41,200
-the overall damage for the whole pool is
+ความเสียหายโดยรวมสำหรับทั้งกลุ่ม
 
 358
 00:11:39,440 --> 00:11:41,680
-uh particularly low and that's why i say
+ต่ำเป็นพิเศษและนั่นเป็นเหตุผลที่ฉัน
 
 359
 00:11:41,200 --> 00:11:43,680
-it's a
+บอกว่ามันเป็น
 
 360
 00:11:41,680 --> 00:11:45,279
-safe way to stake it's getting the
+วิธีที่ปลอดภัยในการ stake มันจะได้
 
 361
 00:11:43,680 --> 00:11:47,120
-average view of the network
+อัตราผลตอบแทนเฉลี่ยของเครือข่าย
 
 362
 00:11:45,279 --> 00:11:48,399
-it's not trying to seek for the maximum
+มันไม่ได้พยายามแสวงหา
 
 363
 00:11:47,120 --> 00:11:50,000
-return um
+
+กลับมา อืม
 
 364
 00:11:48,399 --> 00:11:52,079
-but it's also a very very user-friendly
+แต่มันเป็นสิ่งที่ใช้งานง่ายมาก
 
 365
 00:11:50,000 --> 00:11:54,639
-way that you can always expect to earn
+ซึ่งคุณสามารถคาดหวังว่าจะได้รับรายได้
 
 366
 00:11:52,079 --> 00:11:56,240
-the expected return of the network
+ผลตอบแทนที่คาดหวังของเครือข่าย
 
 367
 00:11:54,639 --> 00:11:57,680
-if you were stating by yourself and if
+อืมถ้าคุณ stake ด้วยตัวเองและ
 
 368
 00:11:56,240 --> 00:11:58,240
-you're nominating your dot to one
+หากคุณกำลังเสนอ dot ของคุณ ให้หนึ่ง
 
 369
 00:11:57,680 --> 00:12:00,560
-particular
+สำหรับ
 
 370
 00:11:58,240 --> 00:12:02,480
-um validator and then if that validator
+validator โดยเฉพาะ แล้วถ้า validator นั้นคือ
 
 371
 00:12:00,560 --> 00:12:04,079
-was misbehaving is slashed
+ทำงานผิดพลาด
 
 372
 00:12:02,480 --> 00:12:06,160
-then you will get a you will take a
+แล้วคุณจะได้
 
 373
 00:12:04,079 --> 00:12:08,000
-touch by normally getting that validator
+การติดต่อโดยปกติจาก validator นั้นๆ
 
 374
 00:12:06,160 --> 00:12:09,440
-if you stick through this pool there's
+หากคุณ stake ผ่านพูลนี้
 
 375
 00:12:08,000 --> 00:12:12,079
