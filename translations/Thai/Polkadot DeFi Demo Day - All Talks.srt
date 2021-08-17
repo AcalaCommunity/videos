@@ -2516,287 +2516,287 @@ polka dot เหตุผลก็คือ
 
 630
 00:20:12,960 --> 00:20:16,799
-works
+ใช้งานได้
 
 631
 00:20:14,400 --> 00:20:18,400
-so where are we at the moment actually
+แล้วตอนนี้ที่ๆเราอยู่ขณะนี้
 
 632
 00:20:16,799 --> 00:20:19,919
-we've released beta this week and i'm
+เราได้เปิดตัวเบต้าในสัปดาห์นี้และฉัน
 
 633
 00:20:18,400 --> 00:20:21,600
-sure most of you have heard
+แน่นอนว่าพวกคุณส่วนใหญ่เคยได้ยิน
 
 634
 00:20:19,919 --> 00:20:23,280
-it's been running for a few days and we
+มันทำงานมาสองสามวันและเรา
 
 635
 00:20:21,600 --> 00:20:24,400
-really welcome you to test it
+ยินดีต้อนรับให้คุณได้ทดสอบมันจริงๆ
 
 636
 00:20:23,280 --> 00:20:25,679
-what's going to happen next is we're
+จะเกิดอะไรขึ้นต่อไปคือเรา
 
 637
 00:20:24,400 --> 00:20:27,200
-going to get in the feedback that you
+จะได้รับในข้อเสนอแนะที่คุณ
 
 638
 00:20:25,679 --> 00:20:28,720
-provide we're going to finish the audits
+ให้เรา เราจะเสร็จสิ้นการตรวจสอบ
 
 639
 00:20:27,200 --> 00:20:29,520
-keep testing keep making this system
+ทำการทดสอบต่อไป และจะทำระบบนี้ต่อไป
 
 640
 00:20:28,720 --> 00:20:31,679
-robust
+ให้แข็งแกร่ง
 
 641
 00:20:29,520 --> 00:20:34,400
-and then we'll be good to go to kusama
+แล้วไปคุซามะกันต่อดีกว่า
 
 642
 00:20:31,679 --> 00:20:36,000
-and polkadot whenever they're launched
+และpolkadotทุกครั้งที่เปิดตัว
 
 643
 00:20:34,400 --> 00:20:38,320
-so what's new in this version since the
+มีอะไรใหม่ในเวอร์ชันนี้ตั้งแต่
 
 644
 00:20:36,000 --> 00:20:39,919
-last time we presented and since alpha
+ครั้งสุดท้ายที่เรานำเสนอและตั้งแต่ alpha
 
 645
 00:20:38,320 --> 00:20:41,280
-well we've released the vault and the
+เราได้เปิดตัวห้องนิรภัยและ
 
 646
 00:20:39,919 --> 00:20:42,400
-layer clients they're all open source
+เลเยอร์ไคลเอ็นต์ทั้งหมดเป็นโอเพ่นซอร์ส
 
 647
 00:20:41,280 --> 00:20:44,960
-you can go ahead and run them now
+คุณสามารถดำเนินการได้เลย
 
 648
 00:20:42,400 --> 00:20:45,520
-we've done a full ux revamp we've got
+เราได้ปรับปรุง ux เต็มรูปแบบแล้ว เราได้รับ 100%
 
 649
 00:20:44,960 --> 00:20:47,520
-100
+ 100%
 
 650
 00:20:45,520 --> 00:20:48,799
-bitcoin wallet support now for those of
+ตอนนี้การสนับสนุนกระเป๋าเงิน bitcoin
 
 651
 00:20:47,520 --> 00:20:50,720
-you who remember alpha we had
+สำหรับผู้ใช้งานอัลฟา
 
 652
 00:20:48,799 --> 00:20:52,480
-not returned and we had limited wallet
+เราไม่ได้กลับมาและเรามีการสนับสนุนกระเป๋าเงินที่ จำกัด
 
 653
 00:20:50,720 --> 00:20:53,039
-support now that's all gone and we
+ซึ่งหายไปและเรา
 
 654
 00:20:52,480 --> 00:20:54,640
-support
+รองรับ
 
 655
 00:20:53,039 --> 00:20:56,640
-all bitcoin wallets including harder
+กระเป๋าเงิน bitcoin ทั้งหมดรวมถึง
 
 656
 00:20:54,640 --> 00:20:58,480
-wallets like ledger and tresor
+hardware wallet ของ ledger และ trezor ด้วย
 
 657
 00:20:56,640 --> 00:21:00,400
-we've completed phase two of the audit
+เราได้เสร็จสิ้นการตรวจสอบระยะที่สองแล้ว
 
 658
 00:20:58,480 --> 00:21:02,240
-and we have a very detailed and new
+และเรามีรายละเอียด
 
 659
 00:21:00,400 --> 00:21:03,919
-documentation page including videos
+และเอกสารใหม่ พร้อมวิดีโอ
 
 660
 00:21:02,240 --> 00:21:05,440
-which show you how to use the system
+ที่แสดงวิธีการใช้ระบบ
 
 661
 00:21:03,919 --> 00:21:07,280
-on the research integration side we've
+ด้านบูรณาการการวิจัยที่เราได้
 
 662
 00:21:05,440 --> 00:21:08,880
-launched rococo where
+เปิดตัวโรโคโคโดยที่
 
 663
 00:21:07,280 --> 00:21:10,159
-we've got xcmp to work and we're
+เรามี xcmp ทำงานอยู่ และเรา
 
 664
 00:21:08,880 --> 00:21:12,080
-actually really working on first
+จริง ๆ แล้วทำงานกับการรวม
 
 665
 00:21:10,159 --> 00:21:14,080
-integrations with other power chains
+ครั้งแรกกับ parachain อื่น ๆ
 
 666
 00:21:12,080 --> 00:21:15,919
-and we've built the new key derivations
+และเราได้สร้างรูปแบบการสืบทอดคีย์ใหม่
 
 667
 00:21:14,080 --> 00:21:17,760
-team this is essentially a very
+ซึ่งเป็นองค์ประกอบ
 
 668
 00:21:15,919 --> 00:21:19,679
-technical component that makes usability
+ทางเทคนิคที่ทำให้ใช้งานได้จริง
 
 669
 00:21:17,760 --> 00:21:22,320
-much better on the system
+ซึ่งทำให้การใช้งานบนระบบดีขึ้นมาก
 
 670
 00:21:19,679 --> 00:21:23,360
-so what's next next of course more ux
+ดังนั้นสิ่งต่อไปแน่นอน ux เพิ่มเติม
 
 671
 00:21:22,320 --> 00:21:24,080
-improvements we're looking for your
+เรากำลังมองหา
 
 672
 00:21:23,360 --> 00:21:26,000
-feedback
+ความคิดเห็นของคุณ
 
 673
 00:21:24,080 --> 00:21:27,200
-we'll do more testing more audits and
+เราจะทำการทดสอบการตรวจสอบเพิ่มเติม และ
 
 674
 00:21:26,000 --> 00:21:28,640
-then also make sure that we have
+จากนั้นตรวจสอบให้แน่ใจว่าเรามี
 
 675
 00:21:27,200 --> 00:21:31,120
-governance on the system
+การกำกับดูแลระบบ
 
 676
 00:21:28,640 --> 00:21:34,000
-on the research side um the next steps
+ในด้านการวิจัย ขั้นตอนต่อไปคือ
 
 677
 00:21:31,120 --> 00:21:36,400
-are integrations with nbcd5 products
+การผสานรวมกับผลิตภัณฑ์ BTC defi
 
 678
 00:21:34,000 --> 00:21:38,000
-um we'll then add multi-oracle support
+เราจะเพิ่มการสนับสนุน multi-oracle
 
 679
 00:21:36,400 --> 00:21:39,679
-and then two pretty cool things that are
+และสองสิ่งที่น่าสนใจที่กำลังจะเกิดขึ้นคือ
 
 680
 00:21:38,000 --> 00:21:41,600
-coming up are staking derivatives where
+การ stake อนุพันธ์ที่
 
 681
 00:21:39,679 --> 00:21:43,600
-vaults will be able to earn additional
+ห้องนิรภัยจะสามารถได้รับรางวัลเพิ่มเติม
 
 682
 00:21:41,600 --> 00:21:46,000
-rewards under collateral
+ภายใต้หลักประกัน
 
 683
 00:21:43,600 --> 00:21:47,679
-and we're working on x 2.0 which will
+และเรากำลังดำเนินการบน x 2.0 ซึ่งจะทำให้
 
 684
 00:21:46,000 --> 00:21:49,360
-make the system much more secure
+ระบบมีความปลอดภัยมากขึ้น
 
 685
 00:21:47,679 --> 00:21:50,799
-and also reduce the collateral and
+และยังลดหลักประกันและ
 
 686
 00:21:49,360 --> 00:21:52,159
-essentially
+โดยพื้นฐาน
 
 687
 00:21:50,799 --> 00:21:53,440
-when this works it'll be a
+เมื่อใช้งานได้มันจะ
 
 688
 00:21:52,159 --> 00:21:55,360
-groundbreaking change to the entire
+เป็นการเปลี่ยนแปลงที่ก้าวล้ำในระบบนิเวศ
 
 689
 00:21:53,440 --> 00:21:58,400
-bridge ecosystem
+ของสะพานทั้งหมด
 
 690
 00:21:55,360 --> 00:22:01,120
-so beta is live and please
+ดังนั้น เมื่อเบต้า ใช้งานได้และโปรด
 
 691
 00:21:58,400 --> 00:22:02,960
-do check it out go to beta.pokebtc.org
+ตรวจสอบไปที่ beta.polkabtc.io
 
 692
 00:22:01,120 --> 00:22:05,120
-to make your first pokemon dc
+เพื่อสร้าง polkabtc แรกของคุณ
 
 693
 00:22:02,960 --> 00:22:08,080
-and i'm happy to announce that polkadot
+และฉันยินดีที่จะประกาศว่าคลัง polkadot
 
 694
 00:22:05,120 --> 00:22:09,120
-treasury allocated 1.3 000. for beta
+จะจัดสรร 1.300 DOT สำหรับผู้ทดสอบเบต้า
 
 695
 00:22:08,080 --> 00:22:11,039
-testers to
+ 
 
 696
 00:22:09,120 --> 00:22:13,760
-to earn so stay tuned follow us on
+เพื่อรับรายได้ ดังนั้นโปรดติดตามเราบน Twitter
 
 697
 00:22:11,039 --> 00:22:15,520
-twitter to hear about the challenges
+เพื่อรับทราบเกี่ยวกับความท้าทายนี้
 
 698
 00:22:13,760 --> 00:22:17,600
-so i'm heading over to dom now i hope
+ฉันจะส่งต่อให้ดอมแล้วนะ
 
 699
 00:22:15,520 --> 00:22:21,280
-he's online
+ฉันหวังว่าเขาจะออนไลน์อยู่
 
 700
 00:22:17,600 --> 00:22:23,600
-come here i'm perfect
+เยี่ยมดีมาก
 
 701
 00:22:21,280 --> 00:22:25,360
