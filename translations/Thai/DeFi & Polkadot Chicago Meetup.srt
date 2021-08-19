@@ -1801,91 +1801,91 @@ KSM ที่เราทำได้
 
 451
 00:14:41,680 --> 00:14:45,519
-of parachain slot auctions or know how
+เกี่ยวกับการประมูลสล็อตพาราเชนหรือรู้วิธี
 
 452
 00:14:43,360 --> 00:14:47,040
-they work?
+การทำงานของมัน
 
 453
 00:14:45,519 --> 00:14:49,920
-so I think most, I guess that was the
+ดังนั้นฉันคิดว่าส่วนใหญ่ฉันเดาว่านั่นคือ
 
 454
 00:14:47,040 --> 00:14:52,800
-wrong question how many don't?
+ผิดคำถาม มีกี่คนที่ไม่รู้?
 
 455
 00:14:49,920 --> 00:14:55,440
-Okay cool there's a few. So I'll just run
+ดีครับ มีไม่กี่คน งั้นฉันจะพูดผ่านไป
 
 456
 00:14:52,800 --> 00:14:57,600
-through this very very quickly
+อย่ารวดเร็ว
 
 457
 00:14:55,440 --> 00:14:59,680
-what this is i've tried to explain this
+นี่คืออะไร ฉันพยายามที่จะอธิบายสิ่งนี้
 
 458
 00:14:57,600 --> 00:15:02,160
-since i'm home seeing my family
+อยู่ที่บ้าน ต่อครอบครัวของฉัน
 
 459
 00:14:59,680 --> 00:15:03,040
-to my to my parents and my family
+ต่อพ่อแม่และสมาชิกในครอบครัวของฉัน
 
 460
 00:15:02,160 --> 00:15:05,360
-members who don't
+ผู้ซึ่งไม่รู้
 
 461
 00:15:03,040 --> 00:15:06,240
-understand anything about crypto it's
+ไม่เข้าใจเกี่ยวกับคริปโตเลย
 
 462
 00:15:05,360 --> 00:15:09,440
-it's kind of like
+ซึ่งสิ่งนี้มันเหมือน
 
 463
 00:15:06,240 --> 00:15:11,839
-selling a house in an auction
+ขายบ้านในการประมูล
 
 464
 00:15:09,440 --> 00:15:14,160
-and obviously everyone going there in a
+และเห็นได้ชัดว่าทุกคนไปที่นั่นใน
 
 465
 00:15:11,839 --> 00:15:16,720
-traditional auction comes with their own
+การประมูลแบบดั้งเดิมมาพร้อมกับของตัวเอง
 
 466
 00:15:14,160 --> 00:15:18,160
-checkbook and they're gonna bid as high
+สมุดเช็คและพวกเขาจะเสนอราคาสูง
 
 467
 00:15:16,720 --> 00:15:19,760
-as they possibly can
+มากเท่าที่เขาจะทำได้
 
 468
 00:15:18,160 --> 00:15:22,160
-against everyone else with whatever that
+กับคนอื่นด้วยสิ่งใดก็ตามที่
 
 469
 00:15:19,760 --> 00:15:24,240
-person can afford for their bid
+คนๆนึงจะสามารถจ่ายได้สำหรับการเสนอราคาของพวกเขา
 
 470
 00:15:22,160 --> 00:15:25,360
-that's that's option one for the pair
+นั่นคือตัวเลือกหนึ่งสำหรับคู่
 
 471
 00:15:24,240 --> 00:15:27,680
-chain slot auction
+การประมูลเชนสล็อต
 
 472
 00:15:25,360 --> 00:15:28,959
-trying to win a slot on Polkadot or on
+พยายามที่จะชนะสล็อตบน Polkadot หรือ บน
 
 473
 00:15:27,680 --> 00:15:31,839
@@ -1893,677 +1893,677 @@ Kusama
 
 474
 00:15:28,959 --> 00:15:33,920
-option two is going back to that example
+ตัวเลือกที่สองจะกลับไปที่ตัวอย่างนั้น
 
 475
 00:15:31,839 --> 00:15:37,279
-imagine you're going to this auction
+จินตนาการว่าคุณกำลังจะไปประมูลครั้งนี้
 
 476
 00:15:33,920 --> 00:15:39,759
-but you can bring in our case 20,000
+แต่คุณสามารถนำมาซึ่งในกรณีของเรา 20,000
 
 477
 00:15:37,279 --> 00:15:41,920
-of your friends behind you who are all
+คนของเพื่อนของคุณที่อยู่ข้างหลังคุณที่ทุกคน
 
 478
 00:15:39,759 --> 00:15:45,519
-helping you with that bid for the house
+ช่วยคุณด้วยการเสนอราคาสำหรับบ้าน
 
 479
 00:15:41,920 --> 00:15:47,680
-so they're all giving you, loaning you
+ดังนั้นพวกเขาทั้งหมดให้คุณยืม
 
 480
 00:15:45,519 --> 00:15:49,440
-some type of capital that you are
+ทุนบางประเภทที่คุณ
 
 481
 00:15:47,680 --> 00:15:51,360
-then able to use in that auction
+นำไปใช้ในการประมูลนั้นได้
 
 482
 00:15:49,440 --> 00:15:53,519
-against the other people in the
+กับคนอื่นๆใน
 
 483
 00:15:51,360 --> 00:15:54,079
-auction. Of course there would be some
+ประมูล และแน่นอนว่าต้องมีบ้าง
 
 484
 00:15:53,519 --> 00:15:56,240
-kind of
+ที่ซึ่ง
 
 485
 00:15:54,079 --> 00:15:57,600
-agreement between the 20,000 people
+ข้อตกลงระหว่างคน 20,000 คน
 
 486
 00:15:56,240 --> 00:15:59,199
-behind you and you for
+ข้างหลังคุณและคุณสำหรับ
 
 487
 00:15:57,600 --> 00:16:01,519
-for what they might get in return for
+ในสิ่งที่ตนจะได้ตอบแทน
 
 488
 00:15:59,199 --> 00:16:03,440
-that loan but then at the end of
+ในเงินกู้นั้น แต่แล้วเมื่อสิ้นสุด
 
 489
 00:16:01,519 --> 00:16:04,959
-say a year those people would all get
+ว่าผ่านไป1 ปีที่คนเหล่านั้นทั้งหมดจะได้รับ
 
 490
 00:16:03,440 --> 00:16:06,560
-their loan back
+เงินทุนของพวกเขากลับไป
 
 491
 00:16:04,959 --> 00:16:10,399
-it's exactly what happens with crowd
+มันเป็นสิ่งที่เกิดขึ้นกับคราวด์
 
 492
 00:16:06,560 --> 00:16:12,880
-loans on Kusama and on Polkadot
+โลนบน Kusama และ Polkadot
 
 493
 00:16:10,399 --> 00:16:14,160
-there were there were 20,000 people
+มี 20,000 คน
 
 494
 00:16:12,880 --> 00:16:17,040
-around 20,000
+ประมาณ 20000 คน
 
 495
 00:16:14,160 --> 00:16:18,880
-15 on chain and then probably five or so
+15 บนเชน และอาจจะมีมากกว่าห้า
 
 496
 00:16:17,040 --> 00:16:20,880
-thousand from exchanges
+พันคนจากเอกเช้นท์
 
 497
 00:16:18,880 --> 00:16:22,000
-but these people were all supporters of
+แต่คนเหล่านี้ล้วนเป็นผู้สนับสนุน
 
 498
 00:16:20,880 --> 00:16:25,279
-Karua and
+Karura และ
 
 499
 00:16:22,000 --> 00:16:26,560
-they contributed KSM in return for what
+พวกเขาสนับสนุน KSM เพื่อแลกกับสิ่งที่
 
 500
 00:16:25,279 --> 00:16:29,680
-ended up being
+กลายเป็น
 
 501
 00:16:26,560 --> 00:16:32,720
-19 at least 19 KAR
+19 หรืออย่างน้อย 19 KAR
 
 502
 00:16:29,680 --> 00:16:35,199
-our native token per each KSM
+โทเค็นดั้งเดิมของเราต่อ KSM แต่ละรายการ
 
 503
 00:16:32,720 --> 00:16:36,639
-and those tokens didn't go to us we
+และโทเค็นเหล่านั้นไม่ได้มาหาเรา โดยเรา
 
 504
 00:16:35,199 --> 00:16:38,320
-aren't able to touch any of those those
+ไม่สามารถสัมผัสสิ่งเหล่านั้นได้
 
 505
 00:16:36,639 --> 00:16:42,399
-were all locked
+มันถูกล็อคทั้งหมด
 
 506
 00:16:38,320 --> 00:16:44,880
-as our stake or as our bid for that slot
+เป็นเงินเดิมพันของเราหรือเป็นการเสนอราคาของเราสำหรับสล็อตนั้น
 
 507
 00:16:42,399 --> 00:16:46,079
-so totally new concept totally different
+โดยนี้เป็นแนวคิดใหม่โดยสิ้นเชิง ที่แตกต่างอย่างสิ้นเชิง
 
 508
 00:16:44,880 --> 00:16:48,560
-spin on like
+หมุนเหมือน
 
 509
 00:16:46,079 --> 00:16:50,720
-what we saw with ICOs for for raising
+สิ่งที่เราเห็นกับ ICO สำหรับการระดม
 
 510
 00:16:48,560 --> 00:16:51,040
-money back in the day teams were able to
+เงินทุนคืนในวันที่ทีมสามารถทำได้
 
 511
 00:16:50,720 --> 00:16:53,279
-just
+แค่
 
 512
 00:16:51,040 --> 00:16:54,720
-spin up a white paper and a website and
+ปั้นไวท์เปเปอร์ และเว็บไซต์และ
 
 513
 00:16:53,279 --> 00:16:56,240
-take the money and run
+เอาเงินไปและดำเนินการ
 
 514
 00:16:54,720 --> 00:16:58,000
-in this case like I said we don't touch
+ในกรณีนี้อย่างที่บอกว่าเราไม่แตะ
 
 515
 00:16:56,240 --> 00:17:00,320
-any of it and people actually get their
+ใด ๆ ของมันและผู้คนได้รับของพวกเขาจริง ๆ
 
 516
 00:16:58,000 --> 00:17:02,320
-loan back at the end of one year in the
+คืนเงินกู้เมื่อสิ้นสุดหนึ่งปีใน
 
 517
 00:17:00,320 --> 00:17:05,520
-case of Kusama and on Polkadot it'll be
+กรณีของ Kusama และ Polkadot มันจะเป็น
 
 518
 00:17:02,320 --> 00:17:09,120
-two years
+2 ปี
 
 519
 00:17:05,520 --> 00:17:09,120
-so this is where we are
+นี่คือที่ที่เราอยู่
 
 520
 00:17:12,079 --> 00:17:16,559
-so this is where we are right now it's
+นี่คือที่ที่เราอยู่ตอนนี้
 
 521
 00:17:14,079 --> 00:17:17,839
-like what is it June 24th so we're in
+เหมือนวันที่ 24 มิถุนายน เราเลยอยู่ใน
 
 522
 00:17:16,559 --> 00:17:20,480
-we're in the middle of the second
+เราอยู่ตรงกลางของวินาที
 
 523
 00:17:17,839 --> 00:17:22,880
-auction so Karua won the first auction
+การประมูลเลย Karura ชนะการประมูลครั้งแรก
 
 524
 00:17:20,480 --> 00:17:23,760
-we are like I said in the process of
+เราเป็นเหมือนที่ฉันพูดในกระบวนการของ
 
 525
 00:17:22,880 --> 00:17:25,039
-launching
+เปิดตัว
 
 526
 00:17:23,760 --> 00:17:26,480
-and then there's a couple teams that are
+แล้วมีสองสามทีมที่
 
 527
 00:17:25,039 --> 00:17:27,280
-kind of in the lead for the second
+เป็นผู้นำเป็นครั้งที่สอง
 
 528
 00:17:26,480 --> 00:17:28,640
-auction
+การประมูล
 
 529
 00:17:27,280 --> 00:17:30,640
-this will move to the third fourth and
+นี้จะย้ายไปที่สามที่สี่และ
 
 530
 00:17:28,640 --> 00:17:31,039
-fifth over time this is these are the
+ห้าเมื่อเวลาผ่านไป นี่คือสิ่งเหล่านี้คือ
 
 531
 00:17:30,640 --> 00:17:33,280
-first
+เรื่ม
 
 532
 00:17:31,039 --> 00:17:34,320
-five slots over time Kusama will scale
+ห้าช่องเมื่อเวลาผ่านไป Kusama จะปรับขนาด
 
 533
 00:17:33,280 --> 00:17:37,039
-up to
+มากถึง
 
 534
 00:17:34,320 --> 00:17:38,240
-a hundred or more pair chains so that
+ร้อยคู่หรือมากกว่าคู่เชนนั้น
 
 535
 00:17:37,039 --> 00:17:41,200
-means a hundred
+แปลว่า ร้อย
 
 536
 00:17:38,240 --> 00:17:41,520
-or more Ethereums or Solana's or Tezos
+หรือมากกว่า Ethereums หรือ Solana's หรือ Tezos
 
 537
 00:17:41,200 --> 00:17:44,000
-all
+ทั้งหมด
 
 538
 00:17:41,520 --> 00:17:47,280
-in one ecosystem and the same thing on
+ในระบบนิเวศเดียวและสิ่งเดียวกันบน
 
 539
 00:17:44,000 --> 00:17:48,720
-Polkadot 100 or more
+Polkadot 100 ขึ้นไป
 
 540
 00:17:47,280 --> 00:17:50,480
-so this is just to show you what
+นี่เป็นเพียงการแสดงให้คุณเห็นว่า
 
 541
 00:17:48,720 --> 00:17:52,000
-happened in the last couple weeks so we
+เกิดขึ้นในช่วงสองสามสัปดาห์ที่ผ่านมา ดังนั้นพวกเรา
 
 542
 00:17:50,480 --> 00:17:52,480
-opened up our crowd loan which is like
+เปิดเงินกู้ฝูงชนของเราซึ่งเป็นเหมือน
 
 543
 00:17:52,000 --> 00:17:55,840
-hey
+เฮ้
 
 544
 00:17:52,480 --> 00:17:58,160
-you can support us and these
+คุณสามารถสนับสนุนเราและสิ่งเหล่านี้
 
 545
 00:17:55,840 --> 00:17:59,760
-these KSM were coming to our crowd loan
+สิ่ง KSM เหล่านี้กำลังมาที่กลุ่มเงินกู้ของเรา
 
 546
 00:17:58,160 --> 00:18:00,080
-they were also coming to other teams who
+พวกเขายังมาที่ทีมอื่นที่
 
 547
 00:17:59,760 --> 00:18:03,280
-were
+ซึ่งได้
 
 548
 00:18:00,080 --> 00:18:05,039
-also competing in the auction and then
+เข้าแข่งขันในการประมูลแล้ว
 
 549
 00:18:03,280 --> 00:18:07,039
-this is the actual auction it was seven
+นี่คือการประมูลจริง มันเป็นเจ็ด
 
 550
 00:18:05,039 --> 00:18:07,360
-days there's a two-day opening period
+วัน มีช่วงเวลาเปิดสองวัน
 
 551
 00:18:07,039 --> 00:18:09,520
-but
+แต่
 
 552
 00:18:07,360 --> 00:18:11,200
-during this five-day ending period
+ในช่วงระยะเวลาสิ้นสุดห้าวันนี้
 
 553
 00:18:09,520 --> 00:18:13,039
-there's a randomized
+มีการสุ่ม
 
 554
 00:18:11,200 --> 00:18:14,320
-point in time or a block that's chosen
+คะแนนในเวลาหรือบล็อกที่เลือก
 
 555
 00:18:13,039 --> 00:18:18,400
-at the end
+ในตอนจบ
 
 556
 00:18:14,320 --> 00:18:20,240
-so you our strategy was let's be winning
+ดังนั้นกลยุทธ์ของเราคือขอให้ชนะ
 
 557
 00:18:18,400 --> 00:18:22,240
-at all times so that we know we're going
+ตลอดเวลาเพื่อให้เรารู้ว่าเรากำลังจะไป
 
 558
 00:18:20,240 --> 00:18:25,760
-to win because whatever block
+ที่จะชนะเพราะอะไรก็ตามที่ขวาง
 
 559
 00:18:22,240 --> 00:18:27,840
-is chosen whatever block is chosen you
+ถูกเลือกบล็อกใด ๆ ที่คุณเลือก
 
 560
 00:18:25,760 --> 00:18:29,280
-know you're going to win
+รู้ว่าคุณจะชนะ
 
 561
 00:18:27,840 --> 00:18:30,240
-the second auction right now is actually
+การประมูลครั้งที่สองตอนนี้คือจริงๆ
 
 562
 00:18:29,280 --> 00:18:31,440
-pretty close so it's going to be
+ใกล้จะถึงเวลาสิ้นสุดแล้ว มัน
 
 563
 00:18:30,240 --> 00:18:33,039
-interesting to see like
+น่าสนใจที่จะเห็นว่า
 
 564
 00:18:31,440 --> 00:18:34,640
-one team is winning at one point in time
+ทีมใดทีมหนึ่งชนะในช่วงเวลาหนึ่ง
 
 565
 00:18:33,039 --> 00:18:35,919
-another team is winning at another if it
+อีกทีมหนึ่งชนะที่อื่น ถ้ามัน
 
 566
 00:18:34,640 --> 00:18:37,600
-goes back and forth
+ไปๆมาๆ
 
 567
 00:18:35,919 --> 00:18:41,280
-that randomized block is really going to
+บล็อกสุ่มนั้นกำลังจะเป็นสิ่งที่
 
 568
 00:18:37,600 --> 00:18:43,280
-matter and be pretty exciting
+สำคัญและค่อนข้างน่าตื่นเต้น
 
 569
 00:18:41,280 --> 00:18:44,880
-so this crowd loan stayed open people
+ดังนั้นคราวด์โลนนี้จึงยังคงเปิดอยู่
 
 570
 00:18:43,280 --> 00:18:47,200
-continued increasing by
+เพื่อเพิ่มขึ้นอย่างต่อเนื่องโดย
 
 571
 00:18:44,880 --> 00:18:48,400
-contributing more and more KSM we ended
+มีส่วนร่วมมากขึ้น และมี KSM มากขึ้นเรื่อย ๆ เราสิ้นสุด
 
 572
 00:18:47,200 --> 00:18:51,600
-up at
+ตรงที่
 
 573
 00:18:48,400 --> 00:18:52,960
-501,000 KSM and
+501,000 KSM และ
 
 574
 00:18:51,600 --> 00:18:55,360
-this is what happened so at the end of
+นี่คือสิ่งที่เกิดขึ้นในตอนท้ายของ
 
 575
 00:18:52,960 --> 00:18:57,919
-the auction the Kusama network
+การประมูลบนเครือข่ายKusama
 
 576
 00:18:55,360 --> 00:19:00,480
-randomized and spun out a point in time
+ที่ซึ่งสุ่มและหมุนจุดในเวลา
 
 577
 00:18:57,919 --> 00:19:03,200
-which for example was this green line
+ซึ่งตัวอย่างเช่นเป็นเส้นสีเขียวนี้
 
 578
 00:19:00,480 --> 00:19:04,080
-and then we won the auction and there's
+แล้วเราก็ชนะการประมูลและมี
 
 579
 00:19:03,200 --> 00:19:06,240
-a winning bid
+ชนะการประมูล
 
 580
 00:19:04,080 --> 00:19:08,240
-but everything that was contributed even
+แต่ทุกอย่างที่มอบให้
 
 581
 00:19:06,240 --> 00:19:09,919
-after that randomized point in time was
+หลังจากนั้นจุดสุ่มในเวลาคือ
 
 582
 00:19:08,240 --> 00:19:12,720
-locked in our crowd loans that was the
+ถูกล็อคอยู่ในคราวด์โลนของเรานั่นคือ
 
 583
 00:19:09,919 --> 00:19:12,720
-501.
+501
 
 584
 00:19:12,880 --> 00:19:16,160
-Oh there's that slide I wanted
+โอ้ นั่นสไลด์ที่ฉันต้องการ
 
 585
 00:19:16,320 --> 00:19:20,799
-so this is right now this is polkadot.js
+นี่คือตอนนี้ นี่คือ polkadot.js
 
 586
 00:19:18,000 --> 00:19:24,559
-there's still if any of you are like
+ยังมีถ้าท่านใดเป็นเหมือน
 
 587
 00:19:20,799 --> 00:19:27,440
-a UI or any kind any type of developer
+กับ UI หรือนักพัฒนาประเภทใดก็ได้
 
 588
 00:19:24,559 --> 00:19:28,960
-polkadot.js um in the polkadot.js
+polkadot.js อืม ใน polkadot.js
 
 589
 00:19:27,440 --> 00:19:31,120
-extension we have a lot of
+เอกเทนชั่นนี้ เรามีมากมาย
 
 590
 00:19:28,960 --> 00:19:32,240
-there's a lot of
+มีมากมาย
 
 591
 00:19:31,120 --> 00:19:34,160
-improvements that can be done
+ในการปรับปรุงที่สามารถทำได้
 
 592
 00:19:32,240 --> 00:19:35,440
-on the kind of UI and UX of that I think
+เกี่ยวกับประเภทของ UI และ UX ที่ฉันคิดว่า
 
 593
 00:19:34,160 --> 00:19:36,320
-there's a couple teams that are working
+มีสองสามทีมที่ทำงานอยู่
 
 594
 00:19:35,440 --> 00:19:38,000
-on that
+บนนั้น
 
 595
 00:19:36,320 --> 00:19:39,440
-but it's a great tool for developers and
+แต่เป็นเครื่องมือที่ยอดเยี่ยมสำหรับนักพัฒนาและ
 
 596
 00:19:38,000 --> 00:19:40,400
-it's done a great job throughout the
+มันทำได้ดีมากตลอดใน
 
 597
 00:19:39,440 --> 00:19:42,000
-auction here
+ประมูลที่นี่
 
 598
 00:19:40,400 --> 00:19:43,679
-these are the current results so you can
+นี่คือผลลัพธ์ปัจจุบันที่คุณสามารถ
 
 599
 00:19:42,000 --> 00:19:47,200
-see like
+เห็นได้ว่า
 
 600
 00:19:43,679 --> 00:19:48,080
-Moonriver has 166 Plasm has or Shiden
+Moonriver มี 166 Plasm มีหรือ Shiden
 
 601
 00:19:47,200 --> 00:19:49,679
-has 93
+มี 93
 
 602
 00:19:48,080 --> 00:19:52,160
-so these they're all going for the next
+ดังนั้นพวกเขาทั้งหมดกำลังดำเนินการต่อไป
 
 603
 00:19:49,679 --> 00:19:54,799
-slot on Kusama
+สล็อตบน Kusama
 
 604
 00:19:52,160 --> 00:19:54,799
-last slide
+สไลด์สุดท้ายนี้
 
 605
 00:19:55,200 --> 00:19:58,240
-this is one thing to just keep in
+นี่เป็นสิ่งหนึ่งที่ต้องเก็บไว้ใน
 
 606
 00:19:56,799 --> 00:20:03,039
-mind that's pretty
+ในใจว่า
 
 607
 00:19:58,240 --> 00:20:04,159
-under i guess pretty unknown
+ในภายใต้การคาดเดา
 
 608
 00:20:03,039 --> 00:20:06,080
-of course there was the chance for
+แน่นอนว่ามีโอกาสสำหรับ
 
 609
 00:20:04,159 --> 00:20:07,039
-people to contribute KSM to the crowd
+ประชาชนร่วมบริจาค KSM ให้กับคราวด์
 
 610
 00:20:06,080 --> 00:20:08,880
-loan but
+โลน แต่
 
 611
 00:20:07,039 --> 00:20:10,240
-just like you may have seen on like more
+เหมือนที่คุณเคยเห็นเหมือนๆ กันมากกว่า
 
 612
 00:20:08,880 --> 00:20:11,280
-recently on Polygon and
+เมื่อเร็ว ๆ นี้บน Polygon และ
 
 613
 00:20:10,240 --> 00:20:13,280
-on other networks we're doing a
+บนเครือข่ายอื่นที่เรากำลังดำเนินการ
 
 614
 00:20:11,280 --> 00:20:15,919
-liquidity mining program to help
+โปรแกรมการขุดสภาพคล่องเพื่อช่วย
 
 615
 00:20:13,280 --> 00:20:16,799
-bring more liquidity to Karura when we
+นำสภาพคล่องมาสู่ Karura มากขึ้นเมื่อเรา
 
 616
 00:20:15,919 --> 00:20:18,480
-launch
+เปิดตัว
 
 617
 00:20:16,799 --> 00:20:21,280
-so for people providing liquidity to the
+ดังนั้นสำหรับคนที่ให้สภาพคล่องแก่
 
 618
 00:20:18,480 --> 00:20:21,760
-DEX taking out stable coin loans and
+DEX ออกเงินกู้เหรียญที่มั่นคงและ
 
 619
 00:20:21,280 --> 00:20:24,400
-then
+ดังนั้น
 
 620
 00:20:21,760 --> 00:20:26,000
-doing liquid KSM staking there will be a
+ทำการสเตก KSM จะมี
 
 621
 00:20:24,400 --> 00:20:27,760
-massive amount so 19%
+จำนวนมากดังนั้น 19%
 
 622
 00:20:26,000 --> 00:20:30,000
-of the first years circulating
+ของปีแรกที่หมุนเวียน
 
 623
 00:20:27,760 --> 00:20:30,799
-supply will come from liquidity mining
+อุปทานจะมาจากการขุดสภาพคล่อง
 
 624
 00:20:30,000 --> 00:20:32,480
-so
+ดังนั้น
 
 625
 00:20:30,799 --> 00:20:34,080
-great opportunity for people to come in
+เป็นโอกาสดีๆที่คนจะเข้ามา
 
 626
 00:20:32,480 --> 00:20:37,840
-and help get involved in
+และช่วยมีส่วนร่วม
 
 627
 00:20:34,080 --> 00:20:41,280
-in the protocol itself and
+ในโปรโตคอลเองและ
 
 628
 00:20:37,840 --> 00:20:42,720
-if you want so there's apps.acala.network is
+ถ้าคุณต้องการก็มี apps.acala.network ที่
 
 629
 00:20:41,280 --> 00:20:43,679
-where you can actually go in and use
+ที่คุณสามารถเข้าไปใช้งานได้จริง
 
 630
 00:20:42,720 --> 00:20:47,360
-this stuff it's
+สิ่งนี้มัน
 
 631
 00:20:43,679 --> 00:20:48,240
-live on testnet apps.karura.network is
+ถ่ายทอดสดบนเทสเน็ต apps.karura.network คือ
 
 632
 00:20:47,360 --> 00:20:51,280
-going to be the
+กำลังจะเป็น
 
 633
 00:20:48,240 --> 00:20:54,159
-the domain for the Karura applications
+โดเมนสำหรับแอปพลิเคชัน Karura
 
 634
 00:20:51,280 --> 00:20:55,039
-so I encourage you to go to to this
+ดังนั้นฉันขอแนะนำให้คุณไปที่นี้
 
 635
 00:20:54,159 --> 00:20:57,200
-website
+เว็บไซด์
 
 636
 00:20:55,039 --> 00:20:58,960
-in the top there's a little testnet link
+ที่ด้านบนมีลิงค์ testnet เล็กน้อย
 
 637
 00:20:57,200 --> 00:21:01,039
-testnet token link so you can
+ลิงก์โทเค็น testnet เพื่อให้คุณสามารถ
 
 638
 00:20:58,960 --> 00:21:02,240
-get test net tokens and try out all this
+รับโทเค็นเทสเน็ต และลองทั้งหมด
 
 639
 00:21:01,039 --> 00:21:05,280
-stuff
+สิ่งเหล่านี้
 
 640
 00:21:02,240 --> 00:21:07,360
-and that is it so thanks for
+และจบเพียงเท่านี้ ขอบคุณมากสำหรับ
 
 641
 00:21:05,280 --> 00:21:17,840
-thanks for sitting through this and
+ขอบคุณที่นั่งผ่านสิ่งนี้และ
 
 642
 00:21:07,360 --> 00:21:17,840
-giving me the time
+ให้เวลากับฉัน
 
