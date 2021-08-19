@@ -648,233 +648,233 @@ ldot lksm
 
 163
 00:05:10,960 --> 00:05:14,080
-um the
+นี่คือ
 
 164
 00:05:11,759 --> 00:05:15,120
-the the figure that you're able to see
+ตัวเลขที่คุณสามารถดูได้
 
 165
 00:05:14,080 --> 00:05:17,280
-before you
+ก่อนที่คุณ
 
 166
 00:05:15,120 --> 00:05:18,560
-create a lawn and the final confirmation
+จะสร้างเงินกู้และขั้นตอนการยืนยันขั้นสุดท้าย
 
 167
 00:05:17,280 --> 00:05:21,280
-stage you will be
+คุณจะกลับมาอีกครั้ง
 
 168
 00:05:18,560 --> 00:05:22,240
-once again so go ahead and confirm all
+และยืนยันตัวเลขทั้งหมด
 
 169
 00:05:21,280 --> 00:05:24,080
-the numbers
+ตัวเลข
 
 170
 00:05:22,240 --> 00:05:25,759
-and press confirm and this is how you
+แล้วกดยืนยันตามนี้เลยครับ
 
 171
 00:05:24,080 --> 00:05:28,639
-open a long position so
+เปิดตำแหน่งยาวดังนั้น
 
 172
 00:05:25,759 --> 00:05:29,840
-i just created a loan using my lksm and
+ฉันเพิ่งสร้างเงินกู้โดยใช้ lksm และ
 
 173
 00:05:28,639 --> 00:05:31,840
-received like two
+ได้รับเหมือนสอง
 
 174
 00:05:29,840 --> 00:05:32,880
-dollars so you can say if i now go back
+ตอนนี้ถ้าฉันกลับไปที่
 
 175
 00:05:31,840 --> 00:05:34,800
-to the interface
+อินเทอร์เฟซ
 
 176
 00:05:32,880 --> 00:05:36,320
-i have two position open one with
+ฉันมีสองตำแหน่งเปิดหนึ่งด้วย
 
 177
 00:05:34,800 --> 00:05:39,600
-bitcoin one with um
+bitcoin หนึ่งกับ
 
 178
 00:05:36,320 --> 00:05:40,400
-lksm those is like um and i totally have
+lksm นั่นก็เหมือน
 
 179
 00:05:39,600 --> 00:05:41,680
-borrowed
+ยืม
 
 180
 00:05:40,400 --> 00:05:43,600
-probably like few thousand dollars
+น่าจะไม่กี่พันดอลลาร์
 
 181
 00:05:41,680 --> 00:05:46,720
-against both um lksm
+กับทั้ง lksm
 
 182
 00:05:43,600 --> 00:05:48,080
-and ram btc okay that makes sense
+และ ram btc ก็โอเค สมเหตุสมผล
 
 183
 00:05:46,720 --> 00:05:50,080
-and someone asked where does that
+และมีคนถามว่าทำที่ไหน
 
 184
 00:05:48,080 --> 00:05:52,560
-interest actually go
+ดอกเบี้ยไปจริง
 
 185
 00:05:50,080 --> 00:05:53,360
-well the n26 actually go to the treasury
+อืม n26 ไปที่คลังจริงๆ
 
 186
 00:05:52,560 --> 00:05:55,199
-um
+อืม
 
 187
 00:05:53,360 --> 00:05:56,960
-and being managed by the network right
+และได้รับการจัดการโดยเครือข่ายที่ถูกต้อง
 
 188
 00:05:55,199 --> 00:05:59,199
-it's uh it's essentially
+มันถูกควบคุมโดย
 
 189
 00:05:56,960 --> 00:06:00,720
-uh controlled by the network for the
+เครือข่ายเป็นหลัก
 
 190
 00:05:59,199 --> 00:06:02,400
-long prosperity of the network
+ความเจริญของเครือข่ายในระยะยาว
 
 191
 00:06:00,720 --> 00:06:04,319
-the interest ultimately would be the
+ดอกเบี้ยในที่สุด
 
 192
 00:06:02,400 --> 00:06:06,000
-surplus within this system
+จะเป็นส่วนเกินภายใน ระบบนี้
 
 193
 00:06:04,319 --> 00:06:07,520
-and if you read our white paper
+และถ้าคุณอ่านเอกสารไวท์เปเปอร์ของเรา
 
 194
 00:06:06,000 --> 00:06:08,319
-regarding the decentralized solving
+เกี่ยวกับการแก้ปัญหาแบบกระจายอำนาจ
 
 195
 00:06:07,520 --> 00:06:11,360
-wheels fund
+กองทุน
 
 196
 00:06:08,319 --> 00:06:13,840
-the interest is ultimately hold managed
+ดอกเบี้ยจะได้รับการจัดการในที่สุด
 
 197
 00:06:11,360 --> 00:06:17,199
-by the token holders
+โดยผู้ถือโทเค็น
 
 198
 00:06:13,840 --> 00:06:18,479
-okay the liquidation concept i think is
+โอเค แนวคิดการชำระบัญชี ฉันคิดว่าคือ
 
 199
 00:06:17,199 --> 00:06:20,960
-new to a lot of people
+ใหม่สำหรับคนจำนวนมาก
 
 200
 00:06:18,479 --> 00:06:23,120
-what happens if the token that is
+จะเกิดอะไรขึ้นถ้าโทเค็นที่เป็น
 
 201
 00:06:20,960 --> 00:06:26,560
-basically collateralized
+เป็นหลักประกัน
 
 202
 00:06:23,120 --> 00:06:28,319
-the value drops so liquidation in this
+มูลค่าลดลงดังนั้นการชำระบัญชีในนี้
 
 203
 00:06:26,560 --> 00:06:30,639
-sense does not mean that you kind of
+ความรู้สึกไม่ได้หมายความว่าคุณเป็นคนประเภท
 
 204
 00:06:28,319 --> 00:06:32,000
-like lose everything that you put down
+สูญเสียทุกอย่างที่คุณวางไว้
 
 205
 00:06:30,639 --> 00:06:34,479
-that's why there was a liquidation
+จึงมีการชำระบัญชี
 
 206
 00:06:32,000 --> 00:06:35,919
-percentage so in the example rotate just
+เปอร์เซ็นต์ดังนั้นในตัวอย่างหมุนเพียงแค่
 
 207
 00:06:34,479 --> 00:06:38,000
-showed it said 20
+แสดงว่า 20
 
 208
 00:06:35,919 --> 00:06:39,440
-yeah i think to better um think about
+ใช่ฉันคิดว่าดีกว่า อืมคิดเกี่ยวกับ
 
 209
 00:06:38,000 --> 00:06:41,600
-liquidation it's more of like
+การชำระบัญชีมันเหมือนมากกว่า
 
 210
 00:06:39,440 --> 00:06:43,520
-uh if you collect allies and you borrow
+เอ่อ ถ้าคุณรวบรวมพันธมิตรและคุณยืม
 
 211
 00:06:41,600 --> 00:06:45,199
-against your bitcoin and then pick a job
+เทียบกับ bitcoin ของคุณแล้วเลือกงาน
 
 212
 00:06:43,520 --> 00:06:46,880
-to a particular price
+ในราคาเฉพาะ
 
 213
 00:06:45,199 --> 00:06:48,319
-a fraction of your collector will be
+เศษส่วนของนักสะสมของคุณจะเป็น
 
 214
 00:06:46,880 --> 00:06:50,080
-sold and you will see that if you were
+ขายแล้วจะเห็นว่าถ้าคุณเป็น
 
 215
 00:06:48,319 --> 00:06:52,319
-just like sold those collectors
+เช่นเดียวกับการขายนักสะสมเหล่านั้น
 
 216
 00:06:50,080 --> 00:06:54,000
-at that price you would still hold on to
+ในราคาที่คุณยังคงยึดมั่น
 
 217
 00:06:52,319 --> 00:06:54,560
-the the money they borrow against it's
+เงินที่พวกเขายืมกับมันคือ
 
 218
 00:06:54,000 --> 00:07:03,840
-just like
+เหมือนกับ
 
 219
 00:06:54,560 --> 00:07:03,840
-you sold those characters at a penalty
+คุณขายตัวละครเหล่านั้นด้วยบทลงโทษ
 
 220
 00:07:04,400 --> 00:07:06,479
-you
+คุณ
 
