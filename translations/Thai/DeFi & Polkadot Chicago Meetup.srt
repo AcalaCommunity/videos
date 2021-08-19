@@ -1101,23 +1101,23 @@ Solana และ Ethereum
 
 276
 00:08:49,440 --> 00:08:54,959
-compatible with ethereum not 100% because
+ของความเข้ากันได้กับ ethereum ไม่ถึง 100% เพราะ
 
 277
 00:08:52,480 --> 00:08:56,560
-we are optimizing for Substrate the kind
+เรากำลังปรับให้เหมาะสมสำหรับซับสเตรทประเภท
 
 278
 00:08:54,959 --> 00:08:58,959
-of the next wave of
+ของคลื่นลูกต่อไปของ
 
 279
 00:08:56,560 --> 00:09:00,800
-development versus inheriting all the
+การพัฒนากับการสืบทอดทั้งหมด
 
 280
 00:08:58,959 --> 00:09:03,440
-the challenges that come with the EVM
+ของความท้าทายที่มาพร้อมกับ EVM
 
 281
 00:09:00,800 --> 00:09:05,519
@@ -1125,7 +1125,7 @@ the challenges that come with the EVM
 
 282
 00:09:03,440 --> 00:09:06,320
-bring your own gas so when you come into
+นำแก๊สมาเองดังนั้นเมื่อคุณเข้ามาใน
 
 283
 00:09:05,519 --> 00:09:08,160
@@ -1133,75 +1133,75 @@ Acala
 
 284
 00:09:06,320 --> 00:09:10,320
-maybe you bring ETH from Ethereum or
+บางทีคุณอาจนำ ETH จาก Ethereum หรือ
 
 285
 00:09:08,160 --> 00:09:11,519
-wrapped Bitcoin your first transaction
+นำ Bitcoin ผ่านการทำธุรกรรมครั้งแรกของคุณ
 
 286
 00:09:10,320 --> 00:09:13,200
-can be paid in
+สามารถจ่ายได้
 
 287
 00:09:11,519 --> 00:09:16,640
-in ETH or in Bitcoin you don't have to
+ใน ETH หรือใน Bitcoin โดยคุณไม่จำเป็นต้อง
 
 288
 00:09:13,200 --> 00:09:18,399
-go find out what ACA is and find ACA
+ไปค้นหาว่า ACA คืออะไรและค้นหา ACA
 
 289
 00:09:16,640 --> 00:09:19,839
-and send it to your wallet like some of
+และส่งไปที่กระเป๋าสตางค์ของคุณเช่น
 
 290
 00:09:18,399 --> 00:09:21,519
-you may have done in Ethereum
+คุณอาจเคยทำใน Ethereum
 
 291
 00:09:19,839 --> 00:09:23,360
-it's just boom you're in and you can pay
+แค่บูมก็เข้าแล้วจ่าย
 
 292
 00:09:21,519 --> 00:09:24,560
-fees with whatever's in your account so
+ค่าธรรมเนียมได้กับสิ่งที่อยู่ในบัญชีของคุณดังนั้น
 
 293
 00:09:23,360 --> 00:09:27,519
-that should help
+นี้จะช่วย
 
 294
 00:09:24,560 --> 00:09:29,200
-take some burden off the users another
+แบ่งเบาภาระผู้ใช้
 
 295
 00:09:27,519 --> 00:09:30,640
-thing is on chain scheduling so if you
+ไปอีกเรื่องนึงในการจัดตารางเชน ดังนั้นถ้าคุณ
 
 296
 00:09:29,200 --> 00:09:33,680
-think about financial
+คิดถึงการเงิน
 
 297
 00:09:30,640 --> 00:09:35,600
-use cases on Acala you could
+ใช้เคสกับ Acala ที่คุณทำได้
 
 298
 00:09:33,680 --> 00:09:37,839
-basically remove the need to trust third
+โดยพื้นฐานแล้วไม่จำเป็นต้องไว้วางใจบุคคลที่สาม
 
 299
 00:09:35,600 --> 00:09:39,600
-parties or APIs for
+ฝ่ายหรือ API สำหรับ
 
 300
 00:09:37,839 --> 00:09:41,200
-scheduling transactions to happen like
+กำหนดเวลาการทำธุรกรรมที่จะเกิดขึ้นเช่น
 
 301
 00:09:39,600 --> 00:09:43,600
-in a payment system or
+ในระบบการชำระ หรือ
 
 302
 00:09:41,200 --> 00:09:45,920
