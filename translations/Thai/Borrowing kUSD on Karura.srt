@@ -464,187 +464,187 @@ ausd เหรียญมั่นคงด้วย bitcoin ของคุณ
 
 117
 00:03:40,159 --> 00:03:43,760
-that you might not want to sell or in
+ที่คุณอาจไม่ต้องการขายหรือเข้ามา
 
 118
 00:03:42,959 --> 00:03:46,799
-short term
+ในระยะสั้น
 
 119
 00:03:43,760 --> 00:03:50,080
-and for example for fukusama for for
+และตัวอย่างเช่นสำหรับ fukusama สำหรับ
 
 120
 00:03:46,799 --> 00:03:51,920
-lksm those are perfectly great collector
+lksm นั่นเป็นนักสะสมที่ยอดเยี่ยมอย่างยิ่ง
 
 121
 00:03:50,080 --> 00:03:54,319
-for you to gain more utility
+เพื่อให้คุณได้รับประโยชน์มากขึ้น
 
 122
 00:03:51,920 --> 00:03:56,400
-out of your 16 kusama holdings you can
+จากการถือครองคูซามะทั้ง 16 ที่ คุณสามารถ
 
 123
 00:03:54,319 --> 00:03:58,319
-go long you can go short you can
+คุณสามารถที่จะเปิด long postion หรือ short positionได้
 
 124
 00:03:56,400 --> 00:04:00,000
-it's i mean the option is it's in your
+ฉันหมายถึงตัวเลือกอยู่ในของคุณ
 
 125
 00:03:58,319 --> 00:04:02,239
-hand to decide how you're going to use
+มือเพื่อตัดสินใจว่าคุณจะใช้อย่างไร
 
 126
 00:04:00,000 --> 00:04:03,280
-this collector um to trade and write
+นักสะสมคนนี้เพื่อการค้าและการเขียน
 
 127
 00:04:02,239 --> 00:04:05,040
-with the market
+กับตลาด
 
 128
 00:04:03,280 --> 00:04:06,879
-what about interest so are you paying
+แล้วดอกเบี้ยล่ะที่คุณจ่าย
 
 129
 00:04:05,040 --> 00:04:09,920
-interest when you're taking out
+ดอกเบี้ยเมื่อคุณกำลังจะออก
 
 130
 00:04:06,879 --> 00:04:11,760
-these loans and how does that work yes
+เงินกู้เหล่านี้และมันทำงานอย่างไรใช่
 
 131
 00:04:09,920 --> 00:04:13,599
-so the interest essentially is what we
+ดอกเบี้ยเป็นหลัก สิ่งที่เราเรียกว่า
 
 132
 00:04:11,760 --> 00:04:15,040
-call the stabilization fee
+ค่ารักษาเสถียรภาพ
 
 133
 00:04:13,599 --> 00:04:16,880
-um if you take a long there will be
+ถ้าคุณถือ long position
 
 134
 00:04:15,040 --> 00:04:19,359
-definitely some interest occur
+จะมีดอกเบี้ยเกิดขึ้นอย่างแน่นอน
 
 135
 00:04:16,880 --> 00:04:20,160
-um and this is also the interest used to
+และนี่คือดอกเบี้ยที่ใช้เพื่อ
 
 136
 00:04:19,359 --> 00:04:22,720
-manage the
+จัดการ
 
 137
 00:04:20,160 --> 00:04:23,840
-supply and demand of the stablecar as
+อุปทานและอุปสงค์ของเหรียญคงมูลค่าเป็น
 
 138
 00:04:22,720 --> 00:04:25,600
-well as like the
+เช่นเดียวกับ
 
 139
 00:04:23,840 --> 00:04:28,080
-um the way to maintain that the
+อืม วิธีที่จะรักษาที่
 
 140
 00:04:25,600 --> 00:04:30,560
-stablecoin will be packed to to
+Stablecoin จะถูกบรรจุไปที่
 
 141
 00:04:28,080 --> 00:04:31,440
-a dollar in value and the interest um
+มูลค่าหนึ่งดอลลาร์และดอกเบี้ย
 
 142
 00:04:30,560 --> 00:04:33,360
-all the state
+ทุกรัฐ
 
 143
 00:04:31,440 --> 00:04:34,639
-stabilization fee will be managed by the
+ค่ารักษาเสถียรภาพจะถูกจัดการโดย
 
 144
 00:04:33,360 --> 00:04:38,080
-governance process
+กระบวนการกำกับดูแล
 
 145
 00:04:34,639 --> 00:04:40,400
-really depends on demands and supplies
+ขึ้นอยู่กับความต้องการซื้อและความต้องการขาย
 
 146
 00:04:38,080 --> 00:04:42,720
-and do you know your interest rate
+และคุณรู้หรือไม่ว่าอัตราดอกเบี้ยของคุณ
 
 147
 00:04:40,400 --> 00:04:44,240
-before you take out the loan
+ก่อนที่คุณจะถอนเงิน เงินกู้แน่นอน
 
 148
 00:04:42,720 --> 00:04:45,280
-obviously definitely so let's say that
+สมมติว่าเราต้องการ
 
 149
 00:04:44,240 --> 00:04:47,919
-we want to create a lot we're going to
+สร้างจำนวนมาก เรากำลังจะสร้าง
 
 150
 00:04:45,280 --> 00:04:51,919
-create some ldl ksm and spectro
+ldot lksm
 
 151
 00:04:47,919 --> 00:04:53,360
-i'm going to put in maybe 5l uh l ksm
+ฉันจะใส่ในบางที 5 lksm
 
 152
 00:04:51,919 --> 00:04:54,000
-here and i'm going to take maybe a two
+ที่นี่และฉันจะใช้เวลาสอง
 
 153
 00:04:53,360 --> 00:04:57,199
-dollar loan
+ดอลลาร์
 
 154
 00:04:54,000 --> 00:04:59,280
-you can already see that um um
+คุณจะเห็นแล้วว่า อืม อืม
 
 155
 00:04:57,199 --> 00:05:00,400
-the amount of money that you can borrow
+จำนวนเงินที่คุณสามารถยืมได้
 
 156
 00:04:59,280 --> 00:05:01,600
-the interest rate in here the
+อัตราดอกเบี้ยที่นี่
 
 157
 00:05:00,400 --> 00:05:03,759
-liquidation penalty
+บทลงโทษการชำระบัญชี
 
 158
 00:05:01,600 --> 00:05:06,000
-yeah if things goes wrong that where how
+และหากสิ่งผิดปกติเกิดขึ้น
 
 159
 00:05:03,759 --> 00:05:07,840
-you can but in chance that if you over
+คุณทำได้ แต่ในโอกาสที่ถ้าคุณผ่าน
 
 160
 00:05:06,000 --> 00:05:08,560
-capitalize and the position becomes
+ทุนและตำแหน่งจะกลายเป็น
 
 161
 00:05:07,840 --> 00:05:10,960
-risky
+เสี่ยง
 
 162
 00:05:08,560 --> 00:05:11,759
-you might get liquidated so this is the
+คุณอาจได้รับการชำระบัญชีดังนั้นนี่คือ
 
 163
 00:05:10,960 --> 00:05:14,080
