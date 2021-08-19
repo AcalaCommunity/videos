@@ -20,91 +20,91 @@
 
 6
 00:00:13,759 --> 00:00:17,440
-and start to
+และเริ่ม
 
 7
 00:00:14,799 --> 00:00:18,240
-um to to to borrow against your your uh
+และเริ่มที่จะยืมโทเค็น kurama ของคุณ
 
 8
 00:00:17,440 --> 00:00:20,400
-your
+ของคุณ
 
 9
 00:00:18,240 --> 00:00:21,680
-summer token so this is the borough
+โทเค็นฤดูร้อน นี่คือเขตเลือกตั้ง
 
 10
 00:00:20,400 --> 00:00:23,519
-borrowing interface
+อินเทอร์เฟซการยืม
 
 11
 00:00:21,680 --> 00:00:25,039
-uh you can see an overview of your
+เอ่อ คุณสามารถดูภาพรวมของคุณ
 
 12
 00:00:23,519 --> 00:00:27,439
-current position so you can see
+ตำแหน่งปัจจุบันเพื่อให้คุณเห็น
 
 13
 00:00:25,039 --> 00:00:28,960
-you have um i have already borrowed open
+ฉันได้เปิดการยืม
 
 14
 00:00:27,439 --> 00:00:31,599
-a position on ram bdc
+ตำแหน่งบน ram bdc
 
 15
 00:00:28,960 --> 00:00:32,399
-i borrow roughly um three thousand
+ฉันยืมประมาณสามพันดอลลาร์
 
 16
 00:00:31,599 --> 00:00:35,120
-dollars against
+ต่อทั้ง
 
 17
 00:00:32,399 --> 00:00:37,120
-zero point one run bdc that's a little
+ศูนย์จุดหนึ่งเรียกใช้ bdc เล็กน้อย
 
 18
 00:00:35,120 --> 00:00:38,160
-bit risky but i mean that's what um the
+ค่อนข้างเสี่ยง แต่ฉันหมายความว่านั่นคือสิ่งที่ um the
 
 19
 00:00:37,120 --> 00:00:39,920
-system allows
+ระบบช่วยให้
 
 20
 00:00:38,160 --> 00:00:41,440
-um you can actually create loans using
+อืม คุณสามารถสร้างสินเชื่อได้จริงโดยใช้
 
 21
 00:00:39,920 --> 00:00:44,160
-any sort of asset that will be
+ทรัพย์สินใด ๆ ที่จะ
 
 22
 00:00:41,440 --> 00:00:45,520
-available um in the governance process
+มีอยู่ในกระบวนการกำกับดูแล
 
 23
 00:00:44,160 --> 00:00:47,600
-allowed to be using crypto
+อนุญาตให้ใช้ crypto
 
 24
 00:00:45,520 --> 00:00:48,640
-and in this particular interface here i
+และในอินเทอร์เฟซเฉพาะนี้ที่นี่ i
 
 25
 00:00:47,600 --> 00:00:51,039
-have dot
+มี dot
 
 26
 00:00:48,640 --> 00:00:52,320
-l dot which we'll be covering later and
+I dot ที่เราจะเล่าต่อไป
 
 27
 00:00:51,039 --> 00:00:53,280
-this will be definitely it would be like
+และจะเป็นเช่นเดียวกับ
 
 28
 00:00:52,320 --> 00:00:56,480
@@ -112,35 +112,35 @@ kusama
 
 29
 00:00:53,280 --> 00:00:56,960
-el kikuzama and bitcoins so what i'm
+el kikuzama และ bitcoins ดังนั้นสิ่งที่ฉัน
 
 30
 00:00:56,480 --> 00:00:58,960
-going to
+กำลังเกิดขึ้น
 
 31
 00:00:56,960 --> 00:01:00,239
-demo here is that i'm going to borrow
+ที่นี่คือ ฉันจะยืม
 
 32
 00:00:58,960 --> 00:01:03,359
-more uh
+มากกว่า
 
 33
 00:01:00,239 --> 00:01:05,600
-against my 0.1 ram btc position here
+เทียบกับตำแหน่ง 0.1 ram btc ของฉันที่นี่
 
 34
 00:01:03,359 --> 00:01:06,880
-so you can see um the current bitcoin
+เพื่อให้คุณเห็น bitcoin ปัจจุบัน
 
 35
 00:01:05,600 --> 00:01:09,920
-oracle rate is
+อัตรา oracle คือ
 
 36
 00:01:06,880 --> 00:01:11,760
-roughly that number i'm still quite safe
+ประมาณเลขนั้นฉันยังค่อนข้างปลอดภัย
 
 37
 00:01:09,920 --> 00:01:13,520
