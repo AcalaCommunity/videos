@@ -700,103 +700,103 @@ um, to już nie jest twoje i tak
 
 176
 00:05:50,240 --> 00:05:54,560
-wykorzystaj prawo do tego
+jak prawo do pobrania
 
 177
 00:05:51,440 --> 00:05:57,199
-długość też nie jest już twoja w porządku
+DOT nie jest już Twoje
 
 178
 00:05:54,560 --> 00:05:58,080
-więc kropka l nie jest połączona
+więc LDOT nie jest połączone
 
 179
 00:05:57,199 --> 00:06:00,479
-bezpośrednio
+bezpośrednio z
 
 180
 00:05:58,080 --> 00:06:02,000
-like a specific dot it's kind of that
+tak jak DOT jest połączona do tego rodzaju
 
 181
 00:06:00,479 --> 00:06:03,840
-basen, więc jeśli ja?
+puli, więc jeżeli ja
 
 182
 00:06:02,000 --> 00:06:05,840
-so if jack here who asked the question
+albo Jacek, który zadał to pytanietanie
 
 183
 00:06:03,840 --> 00:06:07,520
-wysłał mi swoją kropkę, mógłbym to napisać l
+wysłałby mi swoje LDOT, ja mógłbym wziąć te tokeny
 
 184
 00:06:05,840 --> 00:06:11,520
-kropka i wymień ją na kropkę
+LDOT i uzyskać za nie tokeny DOT
 
 185
 00:06:07,520 --> 00:06:13,440
-w basenie akala tak tak dobrze?
+z puli Acala
 
 186
 00:06:11,520 --> 00:06:14,960
-tak, chwila, w której ty, chwila, w której
+w momencie w którym
 
 187
 00:06:13,440 --> 00:06:17,520
-trzymasz się
+przyłączysz się do
 
 188
 00:06:14,960 --> 00:06:18,479
-um kałuża cieczy um psa?
+do puli płynnego stakingu, DOT
 
 189
 00:06:17,520 --> 00:06:20,560
-wejdź do basenu
+wchodzą do puli
 
 190
 00:06:18,479 --> 00:06:22,160
-i zasadniczo dostajesz to, co ty
+i w zasadzie to, co otrzymujesz
 
 191
 00:06:20,560 --> 00:06:22,800
-zasadniczo powrót to prawo do
+jest prawem do
 
 192
 00:06:22,160 --> 00:06:24,479
-odkupić
+pobrania
 
 193
 00:06:22,800 --> 00:06:26,400
-dla psa i dlatego, że sama myśl
+DOT, ponieważ sam w sobie DOT jest
 
 194
 00:06:24,479 --> 00:06:27,759
-nie jest funkcjonalny jest wymienny jak
+zamienny. On jest zamienny, jak każdy
 
 195
 00:06:26,400 --> 00:06:29,520
-każdy pies jest taki sam
+każdy pojedyńczy DOT jest taki sam
 
 196
 00:06:27,759 --> 00:06:30,960
-nie możesz powiedzieć, że ok, ten pies jest mój
+Nie możesz powiedzieć, że ten DOT jest mój, a
 
 197
 00:06:29,520 --> 00:06:33,120
-pies i ten pies jest twoim psem, oni są
+ten DOT jest Twój
 
 198
 00:06:30,960 --> 00:06:35,600
-wszystkie kropki
+one wszystkie są DOT`ami
 
 199
 00:06:33,120 --> 00:06:37,520
-tak, ten facet, tak powiedziało prawo mędrca
+Tak, Ten chłopak powiedział, że
 
 200
 00:06:35,600 --> 00:06:39,840
-l-dot jest jak tytuł samochodu
+lDOT jest jak prawo posiadania samochodu
 
 201
 00:06:37,520 --> 00:06:41,440
@@ -804,47 +804,47 @@ więc jeśli sprzedasz tytuł komuś innemu
 
 202
 00:06:39,840 --> 00:06:45,360
-rodzaj posiada samochód
+rodzaj praw własności samochodu
 
 203
 00:06:41,440 --> 00:06:48,240
-tak, ponieważ innym dobrym pytaniem jest
+następne dobre pytanie
 
 204
 00:06:45,360 --> 00:06:48,960
-w zasadzie czy mógłbyś wyjaśnić, w jaki sposób
+Czy mógłbyś wytłumaczyć, jak
 
 205
 00:06:48,240 --> 00:06:50,800
-zainteresowanie
+odsetki
 
 206
 00:06:48,960 --> 00:06:52,160
-lub zainteresowanie stawką działa od
+albo nagrody za staking działają, gdy
 
 207
 00:06:50,800 --> 00:06:54,960
-ty stawiasz
+robisz staking
 
 208
 00:06:52,160 --> 00:06:56,240
-z kala kontra chyba w in
+z Acala względem, zgaduję w tym
 
 209
 00:06:54,960 --> 00:06:58,080
-ten przypadek z Kerra, więc jeśli jesteś
+przypadku z Karura, więc jeżeli
 
 210
 00:06:56,240 --> 00:06:59,199
-Stawiasz swój ksm z kurą, to nie jest
+robisz staking swoje KSM z Karura, to nie jest
 
 211
 00:06:58,080 --> 00:07:01,680
-obstawianie jak
+takie samo jak staking
 
 212
 00:06:59,199 --> 00:07:03,280
-bezpośrednio do łańcucha kusama jest
+bezpośrednio w łańcuchu Kusama
 
 213
 00:07:01,680 --> 00:07:04,160
@@ -856,15 +856,15 @@ warstwa tak
 
 215
 00:07:04,160 --> 00:07:07,599
-pytają, kto to płaci
+pytają, kto płaci
 
 216
 00:07:05,919 --> 00:07:10,720
-procent odsetek za
+odsetki za
 
 217
 00:07:07,599 --> 00:07:12,160
-um w przypadku kariery lksm staking jak
+w przypadku Karury i staking`u LKSM
 
 218
 00:07:10,720 --> 00:07:13,360
@@ -872,27 +872,27 @@ Jak to działa
 
 219
 00:07:12,160 --> 00:07:15,199
-dobrze, jak to jest dobre?
+wspaniale. to jest dobre
 
 220
 00:07:13,360 --> 00:07:17,360
-słuszne pytanie, więc um
+pytanie? Myślę, że
 
 221
 00:07:15,199 --> 00:07:19,280
-pomyśl o um płynnym stakingu
+pomyśl o puli płynnego stakingu
 
 222
 00:07:17,360 --> 00:07:21,680
-pula jako nieufna pula do obstawiania
+jak o puli stakingu niewymagającej zaufania
 
 223
 00:07:19,280 --> 00:07:23,360
-kropka zamów KSM, który wpłacasz
+DOT albo KSM które deponujesz
 
 224
 00:07:21,680 --> 00:07:24,319
-do puli będzie zarządzany przez
+do puli będzie zarządzane przez
 
 225
 00:07:23,360 --> 00:07:26,479
@@ -900,7 +900,7 @@ sieć i
 
 226
 00:07:24,319 --> 00:07:27,360
-sieć wyznaczy te kropki
+sieć oddeleguje te DOT
 
 227
 00:07:26,479 --> 00:07:30,240
@@ -908,27 +908,27 @@ do
 
 228
 00:07:27,360 --> 00:07:31,599
-um walidator w sieci kusama
+walidatorów w sieci Kusama
 
 229
 00:07:30,240 --> 00:07:33,840
-a jeśli ta kropka to
+i jeżeli ten DOT jest
 
 230
 00:07:31,599 --> 00:07:36,720
-ten pełny rozmiar rośnie, będzie
+ta pula rośnie i jej wielkość wzrasta, to będzie
 
 231
 00:07:33,840 --> 00:07:38,960
-być zarządzany będzie nominowany w całej
+zarządzane aby nominować poprzez
 
 232
 00:07:36,720 --> 00:07:40,160
-wiele walidatorów uh w in the
+wielu walidatorów w
 
 233
 00:07:38,960 --> 00:07:43,280
-sieć kusama
+sieci Kusama
 
 234
 00:07:40,160 --> 00:07:44,000
