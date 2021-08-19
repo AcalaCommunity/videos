@@ -1025,79 +1025,79 @@ Solana และ Ethereum
 
 257
 00:08:12,000 --> 00:08:14,960
-launched our own set of applications on
+เปิดตัวชุดแอปพลิเคชันของเราเองบน
 
 258
 00:08:14,319 --> 00:08:17,520
-our own
+เชนของพวกเรา
 
 259
 00:08:14,960 --> 00:08:19,360
-chain so we can show what it's like to
+ดังนั้น เราจะได้แสดงออกมาว่าเป็น
 
 260
 00:08:17,520 --> 00:08:19,919
-build and what an example could look
+การสร้างอย่างไร และดูตัวอย่างอะไรได้บ้าง
 
 261
 00:08:19,360 --> 00:08:23,280
-like
+ที่เหมือน
 
 262
 00:08:19,919 --> 00:08:25,039
-of what can be built on our chain so
+สิ่งที่สามารถสร้างขึ้นบนเชนของเราได้ ดังนั้น
 
 263
 00:08:23,280 --> 00:08:26,319
-this is this is a diagram to kind of
+นี่คือไดอะแกรมแสดงถึง
 
 264
 00:08:25,039 --> 00:08:28,160
-explain that you've got the Polkadot
+การอธิบายว่าคุณมีPolkadot
 
 265
 00:08:26,319 --> 00:08:29,919
-level that I just explained
+เลเวล ที่ฉันเพิ่งได้อธิบายไป
 
 266
 00:08:28,160 --> 00:08:31,919
-we're launching on Polkadot to get the
+เรากำลังเปิดตัวบน Polkadot เพื่อรับ
 
 267
 00:08:29,919 --> 00:08:34,399
-security of Polkadot and the ability to
+ความปลอดภัยของPolkadot และความสามารถในการ
 
 268
 00:08:31,919 --> 00:08:36,719
-to exchange data and information with
+แลกเปลี่ยนดาต้าและข้อมูลกับ
 
 269
 00:08:34,399 --> 00:08:38,959
-other parachains on Polkadot
+พาราเชนอื่นๆบน Polkadot
 
 270
 00:08:36,719 --> 00:08:40,640
-but one of the key differences and what
+แต่หนึ่งในความแตกต่างที่สำคัญและอะไร
 
 271
 00:08:38,959 --> 00:08:42,479
-I mentioned about how we've optimized
+ที่ฉันได้กล่าวถึงเกี่ยวกับวิธีที่เราได้เพิ่มประสิทธิภาพ
 
 272
 00:08:40,640 --> 00:08:46,080
-this for DeFi
+เหล่านี้สำหรับ Defi
 
 273
 00:08:42,479 --> 00:08:46,640
-we do have an EVM with a little bit of
+เรามี EVM ที่มี
 
 274
 00:08:46,080 --> 00:08:49,440
-tweaks
+การปรับแต่งเล็กน้อย
 
 275
 00:08:46,640 --> 00:08:52,480
-Bryan said yesterday that we're 99%
+ไบรอันพูดเมื่อวานว่าเรามี 99%
 
 276
 00:08:49,440 --> 00:08:54,959
