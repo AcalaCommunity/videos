@@ -4192,215 +4192,215 @@ btc
 
 1049
 00:35:05,119 --> 00:35:09,680
-so in this case maybe i want to buy some
+ดังนั้นในกรณีนี้บางทีฉันอยากจะซื้อ
 
 1050
 00:35:07,040 --> 00:35:14,400
-dots which is obviously a good
+dots บางส่วน ที่เห็นได้ชัด
 
 1051
 00:35:09,680 --> 00:35:16,800
-idea so i can spend
+เป็นความคิดที่ดี เพื่อให้ฉันสามารถใช้จ่ายได้
 
 1052
 00:35:14,400 --> 00:35:19,119
-1000 eosd which will buy this amount of
+1,000 ausd ซึ่งจะซื้อได้dots
 
 1053
 00:35:16,800 --> 00:35:19,119
-dots
+ได้จำนวนนี้
 
 1054
 00:35:19,920 --> 00:35:23,520
-um so once that's confirmed um when you
+เมื่อได้รับการยืนยันแล้ว
 
 1055
 00:35:22,720 --> 00:35:24,800
-have thoughts
+เมื่อคุณมีความคิด
 
 1056
 00:35:23,520 --> 00:35:26,480
-if you're not going to use it
+ถ้าคุณจะไม่ใช้มัน
 
 1057
 00:35:24,800 --> 00:35:28,320
-immediately it's probably a good idea to
+ทันทีอาจเป็นความคิดที่ดีที่จะ
 
 1058
 00:35:26,480 --> 00:35:30,560
-state them so you're earning the staking
+stake พวกมัน เพื่อให้คุณได้รับเงินจากการ stake
 
 1059
 00:35:28,320 --> 00:35:33,920
-rewards reward
+เป็นรางวัลตอบแทน
 
 1060
 00:35:30,560 --> 00:35:37,839
-which is have a reasonably good return
+ซึ่งมีผลตอบแทนที่ดีพอสมควร
 
 1061
 00:35:33,920 --> 00:35:40,240
-so you can go to a portfolio to do the
+คุณสามารถไปที่เครือข่าย polkadot เพื่อทำ
 
 1062
 00:35:37,839 --> 00:35:42,000
-staking or another way is using a liquid
+การstake หรือวิธีอื่นคือการใช้สภาพคล่อง
 
 1063
 00:35:40,240 --> 00:35:42,880
-stating protocol to do a staking which
+โปรโตคอล stake เพื่อทำการstake ซึ่งเป็น
 
 1064
 00:35:42,000 --> 00:35:47,520
-is
+ 
 
 1065
 00:35:42,880 --> 00:35:49,359
-much more easier so this is the express
+การทำที่ง่ายกว่ามาก นี่คือ UI แบบเร่งด่วน
 
 1066
 00:35:47,520 --> 00:35:50,960
-ui so you just enter the amount of dots
+ดังนั้นคุณเพียงแค่ป้อนจำนวนdots
 
 1067
 00:35:49,359 --> 00:35:54,800
-you would like to take and
+ที่คุณต้องการ stake
 
 1068
 00:35:50,960 --> 00:35:58,880
-click the stick button and that's
+และคลิกที่ปุ่ม stake และนั่นคือ
 
 1069
 00:35:54,800 --> 00:36:02,079
-all you need to do to stake dot and the
+ทั้งหมดที่คุณต้องทำเพื่อstake dot และ
 
 1070
 00:35:58,880 --> 00:36:02,880
-protocol are decentralized and protocol
+โปรโตคอลมีการกระจายอำนาจและโปรโตคอล
 
 1071
 00:36:02,079 --> 00:36:05,200
-will
+จะ
 
 1072
 00:36:02,880 --> 00:36:07,680
-handle all the data selections
+จัดการการเลือกข้อมูลทั้งหมด
 
 1073
 00:36:05,200 --> 00:36:11,200
-nominations nominations etc
+การเสนอชื่อ ฯลฯ
 
 1074
 00:36:07,680 --> 00:36:13,359
-but of course you can also vote for your
+แต่แน่นอนว่าคุณยังสามารถโหวตให้ validators
 
 1075
 00:36:11,200 --> 00:36:14,240
-favorite validators if you want to with
+ที่ชื่นชอบหากคุณต้องการด้วย
 
 1076
 00:36:13,359 --> 00:36:17,359
-your
+ด้วย
 
 1077
 00:36:14,240 --> 00:36:19,280
-l dots so now i've changed all my dots
+ldots ดังนั้นตอนนี้ฉันได้เปลี่ยน dotsทั้งหมดของฉันด้วย
 
 1078
 00:36:17,359 --> 00:36:22,480
-to outdoors and
+ldots และ
 
 1079
 00:36:19,280 --> 00:36:25,040
-uh then you'll be able to later and
+แล้วคุณจะทำได้ในภายหลังและ
 
 1080
 00:36:22,480 --> 00:36:25,760
-vote for the metadata if you want to um
+ลงคะแนนสำหรับข้อมูลเมตาถ้าคุณต้องการ
 
 1081
 00:36:25,040 --> 00:36:28,960
-still
+ 
 
 1082
 00:36:25,760 --> 00:36:32,960
-working on the ui for this area
+ทำงานเกี่ยวกับ ui สำหรับพื้นที่นี้
 
 1083
 00:36:28,960 --> 00:36:36,240
-so this is the mouse screen so
+นี่คือหน้าจอเมาส์ดังนั้น
 
 1084
 00:36:32,960 --> 00:36:38,240
-you can see the history you can if you
+คุณสามารถดูประวัติที่คุณสามารถทำได้ถ้าคุณ
 
 1085
 00:36:36,240 --> 00:36:41,119
-want to redeem you can
+ต้องการแลกคุณทำได้
 
 1086
 00:36:38,240 --> 00:36:42,960
-you can so you can uh just wait for the
+คุณทำได้ แค่รอ
 
 1087
 00:36:41,119 --> 00:36:45,440
-whole unbounding period which will be
+เวลาในการ unbounding ซึ่งจะเป็น
 
 1088
 00:36:42,960 --> 00:36:46,480
-um seven days okay summer 28 days on
+เจ็ดวันสำหรับคุซามะ 28 วันบน
 
 1089
 00:36:45,440 --> 00:36:48,880
-pokeball
+polkadot
 
 1090
 00:36:46,480 --> 00:36:49,520
-and then just wait and which we won't
+แล้วก็รอ แล้วเราจะไม่
 
 1091
 00:36:48,880 --> 00:36:52,160
-charge
+เก็บค่าใช้จ่าย
 
 1092
 00:36:49,520 --> 00:36:55,280
-you an extra redeeming fee but if you
+จากคุณเป็นค่าธรรมเนียมการไถ่ถอนพิเศษ แต่ถ้าคุณ
 
 1093
 00:36:52,160 --> 00:36:57,839
-really need the money right now
+ต้องการเงินจริงๆตอนนี้
 
 1094
 00:36:55,280 --> 00:36:59,280
-up to the certain amounts then you will
+จนถึงจำนวนที่กำหนด แล้วคุณจะ
 
 1095
 00:36:57,839 --> 00:37:02,800
-be able to redeem them
+สามารถไถ่ถอนได้
 
 1096
 00:36:59,280 --> 00:37:04,720
-immediately but we'll be charging you
+ทันที แต่เราจะเรียกเก็บเงินคุณ
 
 1097
 00:37:02,800 --> 00:37:07,680
-some of the reading fee because
+ค่าธรรมเนียมการไถ่ถอนบางส่วนเพราะ
 
 1098
 00:37:04,720 --> 00:37:09,280
-you're skipping the unbounded period but
+คุณกำลังข้ามช่วงเวลาunbounded แต่
 
 1099
 00:37:07,680 --> 00:37:11,200
-if you really need one
+ถ้าคุณต้องการจริงๆ
 
 1100
 00:37:09,280 --> 00:37:12,400
-rip near the dots right now this will be
+คุณสามารถเสีย dots บางส่วนได้
 
 1101
 00:37:11,200 --> 00:37:15,599
-handy
+เพื่อความสะดวก
 
 1102
 00:37:12,400 --> 00:37:19,359
