@@ -664,35 +664,35 @@ w demo, które właśnie pokazałem wcześniej
 
 167
 00:05:36,560 --> 00:05:38,720
-jeśli przeniosę kogoś starszego gdzieś?
+jeśli wyślę jakieś LDOT do kogoś
 
 168
 00:05:38,240 --> 00:05:40,720
-w przeciwnym razie
+innego
 
 169
 00:05:38,720 --> 00:05:42,080
-i was transferring the the redeem right
+przesyłam prawa do pobrania
 
 170
 00:05:40,720 --> 00:05:43,840
-podstawowej kropki
+bazowego DOT
 
 171
 00:05:42,080 --> 00:05:45,600
-to someone else so it's as if i was
+komuś innemu, tak samo jakbym
 
 172
 00:05:43,840 --> 00:05:47,280
-przekraczając kropki, więc jeśli je uszyjesz
+przesyłał DOT, więc jeśli je sprzedasz
 
 173
 00:05:45,600 --> 00:05:47,600
-wtedy po prostu tak jak widziałeś kropki
+to tak jakbyś sprzedał DOT
 
 174
 00:05:47,280 --> 00:05:50,240
-jego
+to jest
 
 175
 00:05:47,600 --> 00:05:51,440
