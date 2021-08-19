@@ -3200,87 +3200,87 @@ polkabtc
 
 801
 00:25:49,360 --> 00:25:54,799
-gonna
+จะ
 
 802
 00:25:50,640 --> 00:25:57,520
-want to withdraw 0.003 poco btc
+ต้องการถอน 0.003 polkabtc
 
 803
 00:25:54,799 --> 00:25:58,880
-i'm going to hit confirm and again i
+ฉันจะกดยืนยันและอีกครั้งฉัน
 
 804
 00:25:57,520 --> 00:25:59,919
-have to sign the transaction
+ต้องลงนามในการทำธุรกรรม
 
 805
 00:25:58,880 --> 00:26:01,760
-and now what's happening in the
+และตอนนี้สิ่งที่เกิดขึ้น
 
 806
 00:25:59,919 --> 00:26:02,559
-background is that one of our vaults
+เบื้องหลังคือ 1 ใน ตู้นิรภัยของเรา
 
 807
 00:26:01,760 --> 00:26:06,080
-gets a
+ได้รับ
 
 808
 00:26:02,559 --> 00:26:06,559
-request and that it should send bitcoin
+ร้องขอและควรส่ง bitcoin
 
 809
 00:26:06,080 --> 00:26:09,279
-to me
+ถึงฉัน
 
 810
 00:26:06,559 --> 00:26:10,640
-to my address that i entered here and
+ไปยังที่อยู่ของฉันที่ฉันป้อนที่นี่และ
 
 811
 00:26:09,279 --> 00:26:13,120
-this is going to pop up
+มันจะเด้งขึ้นมา
 
 812
 00:26:10,640 --> 00:26:14,559
-also down there and once the bitcoin
+ลงที่นั่นและเมื่อ
 
 813
 00:26:13,120 --> 00:26:15,120
-transaction is actually included it's
+รวมธุรกรรม bitcoin แล้วจริง ๆ มัน
 
 814
 00:26:14,559 --> 00:26:18,720
-going to be
+จะเป็น
 
 815
 00:26:15,120 --> 00:26:21,919
-added to to this one um
+การถูกเพิ่ม ในอันนี้
 
 816
 00:26:18,720 --> 00:26:23,679
-and what you can um so now actually the
+และสิ่งที่คุณทำได้ตอนนี้คือ
 
 817
 00:26:21,919 --> 00:26:25,679
-what you just saw is basically the event
+สิ่งที่คุณเพิ่งเห็นก็คือเหตุการณ์
 
 818
 00:26:23,679 --> 00:26:27,840
-being processed on the power chain
+กำลังดำเนินการบน parachain
 
 819
 00:26:25,679 --> 00:26:29,120
-um and once this is done you can also
+อืมและเมื่อเสร็จแล้วคุณยังสามารถ
 
 820
 00:26:27,840 --> 00:26:31,520
-easily expect this
+คาดหวังสิ่งนี้ได้อย่างง่ายดาย
 
 821
 00:26:29,120 --> 00:26:33,120
-uh inspect this using the boxstream
+เอ่อตรวจสอบสิ่งนี้โดยใช้บ็อกซ์สตรีม
 
 822
 00:26:31,520 --> 00:26:35,840
@@ -3288,411 +3288,411 @@ explorer
 
 823
 00:26:33,120 --> 00:26:37,520
-um i'm just gonna wait for another
+อืม ฉันจะรออีกแปปนึงนะ
 
 824
 00:26:35,840 --> 00:26:38,240
-second here to complete it yes so
+เพื่อให้มันสมบูรณ์ใช่ดังนั้น
 
 825
 00:26:37,520 --> 00:26:41,919
-basically
+โดยทั่วไป
 
 826
 00:26:38,240 --> 00:26:44,320
-um this is just a confirmation um
+อืม นี่เป็นเพียงการยืนยัน
 
 827
 00:26:41,919 --> 00:26:45,520
-and yeah so very simple issue in redeem
+และใช่ปัญหาที่ง่ายมากในการแลก
 
 828
 00:26:44,320 --> 00:26:46,960
-and very last thing
+และสิ่งสุดท้าย
 
 829
 00:26:45,520 --> 00:26:50,400
-that i want to show is basically
+ที่ฉันต้องการแสดงนั้นโดยพื้นฐานแล้ว
 
 830
 00:26:46,960 --> 00:26:52,480
-transfer so once you have poker btc
+การโอนดังนั้นเมื่อคุณมี polkabtc
 
 831
 00:26:50,400 --> 00:26:53,760
-what's going to happen is that you can
+สิ่งที่จะเกิดขึ้นคือคุณสามารถ
 
 832
 00:26:52,480 --> 00:26:56,960
-just transfer it around
+โอนทั่วๆไป
 
 833
 00:26:53,760 --> 00:27:00,000
-and what you would enter here is uh
+และสิ่งที่คุณจะใส่ที่นี่คือเอ่อ
 
 834
 00:26:56,960 --> 00:27:02,559
-say your own um address so
+ที่อยู่ของคุณเองดังนั้น
 
 835
 00:27:00,000 --> 00:27:04,320
-maybe i'm just gonna copy paste my own
+บางทีฉันแค่จะคัดลอกและวางที่อยู่ฉันเอง
 
 836
 00:27:02,559 --> 00:27:09,200
-address here real quick
+แบบรวดเร็ว
 
 837
 00:27:04,320 --> 00:27:11,360
-and um what we just added is basically
+และ อืม สิ่งที่เราเพิ่งเพิ่มเข้าไปนั้นโดยพื้นฐานแล้ว
 
 838
 00:27:09,200 --> 00:27:13,440
-once xcm is fully functional you could
+เมื่อ xcm ทำงานได้อย่างสมบูรณ์ คุณก็ทำได้
 
 839
 00:27:11,360 --> 00:27:16,480
-just transfer it over to a color
+เพียงแค่โอนไปยัง acala
 
 840
 00:27:13,440 --> 00:27:19,120
-or to plasm or the other
+หรือ plasm หรืออื่นๆ
 
 841
 00:27:16,480 --> 00:27:22,000
-projects that are basically live and
+โปรเจ็คอื่นๆ ที่เริ่มทำงานแล้ว และ
 
 842
 00:27:19,120 --> 00:27:24,960
-will be connected as power chains um
+จะเชื่อมต่อกันเป็น parachains um
 
 843
 00:27:22,000 --> 00:27:25,520
-and i'm just gonna do the transfer here
+และฉันแค่จะทำการโอนที่นี่
 
 844
 00:27:24,960 --> 00:27:28,480
-now
+ตอนนี้
 
 845
 00:27:25,520 --> 00:27:29,919
-uh oh okay i don't have enough money to
+เอ่อ โอเค ฉันไม่มีเงินพอ
 
 846
 00:27:28,480 --> 00:27:35,840
-send this
+ส่งสิ่งนี้
 
 847
 00:27:29,919 --> 00:27:40,000
-this should work though and here we go
+สิ่งนี้น่าจะใช้ได้
 
 848
 00:27:35,840 --> 00:27:40,000
-takes a second again for the transfer
+ใช้เวลาสักครู่ในการโอนอีกครั้ง
 
 849
 00:27:40,080 --> 00:27:44,320
-and once it's completed it will show a
+และเมื่อเสร็จแล้วมันจะแสดง a
 
 850
 00:27:43,760 --> 00:27:48,320
-little
+ 
 
 851
 00:27:44,320 --> 00:27:50,960
-pop-up up here but again we're
+pop-up เล็กๆ ตรงนี้ แต่อีกครั้ง เรา
 
 852
 00:27:48,320 --> 00:27:51,440
-live oh yeah there we go cool um yeah
+กำลังไลฟ์อยู่
 
 853
 00:27:50,960 --> 00:27:53,360
-and that's
+และนั่นก็คือ
 
 854
 00:27:51,440 --> 00:27:54,480
-uh that's basically it for the tech demo
+นั่นคือพื้นฐานสำหรับการสาธิตเทคโนโลยี
 
 855
 00:27:53,360 --> 00:27:57,840
-um there's just
+อืม มีแค่
 
 856
 00:27:54,480 --> 00:28:00,880
-uh super small announcements um
+เอ่อ ประกาศเล็กมาก อืม
 
 857
 00:27:57,840 --> 00:28:03,039
-please go to beta uh please test um
+โปรดไปที่เบต้า เพื่อทดสอบ
 
 858
 00:28:00,880 --> 00:28:04,559
-we are very happy for all of the
+เรามีความสุขมากสำหรับ
 
 859
 00:28:03,039 --> 00:28:07,120
-feedback we are receiving
+ข้อเสนอแนะทุกอันที่เราได้รับ
 
 860
 00:28:04,559 --> 00:28:08,159
-and hopefully can improve the system
+และหวังว่าจะสามารถปรับปรุงระบบได้
 
 861
 00:28:07,120 --> 00:28:10,320
-even further
+ยิ่งไปกว่านั้น
 
 862
 00:28:08,159 --> 00:28:11,440
-um if you do have more questions like
+อืมถ้าคุณมีคำถามเพิ่มเติมเช่น
 
 863
 00:28:10,320 --> 00:28:15,919
-our discord is open
+สามารถติดต่อเราได้ทาง discord
 
 864
 00:28:11,440 --> 00:28:18,240
-our twitter and telegram are open
+ทวิตเตอร์ และเทเลแกรมของเราก็เปิดอยู่
 
 865
 00:28:15,919 --> 00:28:20,159
-and also very last thing importantly we
+และสิ่งสุดท้ายที่สำคัญคือเรา
 
 866
 00:28:18,240 --> 00:28:22,799
-have a treasure hunt going on
+มีกิจกรรมล่าขุมทรัพย์เกิดขึ้น
 
 867
 00:28:20,159 --> 00:28:23,200
-um so there's a prize pool of 500 dot
+อืม มีเงินรางวัลรวม 500 dot
 
 868
 00:28:22,799 --> 00:28:26,399
-for
+สำหรับ
 
 869
 00:28:23,200 --> 00:28:28,399
-the first 500 users that do issue and
+ผู้ใช้ 500 คนแรกที่เจอปัญหาและ
 
 870
 00:28:26,399 --> 00:28:31,679
-redeem requests on our test networks
+แลกรับคำขอในเครือข่ายทดสอบของเรา
 
 871
 00:28:28,399 --> 00:28:33,039
-so please go on betapokerbtc.io and
+ดังนั้นโปรดไปที่ betapokerbtc.io และ
 
 872
 00:28:31,679 --> 00:28:36,559
-check out the challenges
+ตรวจสอบ ภารกิจ
 
 873
 00:28:33,039 --> 00:28:39,360
-and yeah that's thank you
+ขอบคุณ
 
 874
 00:28:36,559 --> 00:28:39,919
-awesome uh yeah so uh good morning
+สุดยอดมาก อรุณสวัสดิ์
 
 875
 00:28:39,360 --> 00:28:43,279
-everyone
+ทุกคน
 
 876
 00:28:39,919 --> 00:28:46,320
-this is betty co-founder of akala and we
+นี่คือเบ็ตตี้ผู้ร่วมก่อตั้ง acala และเรา
 
 877
 00:28:43,279 --> 00:28:49,520
-also have brian a co-founder and cto of
+มีไบรอันเป็นผู้ร่วมก่อตั้งและ cto ของ
 
 878
 00:28:46,320 --> 00:28:51,039
-akala here today with us and he's
+acala วันนี้กับเราและเขา
 
 879
 00:28:49,520 --> 00:28:54,159
-actually prepared a full
+ได้เตรียม
 
 880
 00:28:51,039 --> 00:28:56,000
-real cross chain uh d5 demo for you so
+cross chain แบบเต็มรูปแบบในการสาธิต defi สำหรับคุณ
 
 881
 00:28:54,159 --> 00:28:57,440
-i'll just be very shocked and very brief
+ฉันจะทำให้มันสั้นและกระชับ
 
 882
 00:28:56,000 --> 00:29:00,000
-on my introduction
+เกี่ยวกับการแนะนำของฉัน
 
 883
 00:28:57,440 --> 00:29:01,360
-um i guess before diving in um because
+ก่อนที่เราจะเจาะลึกลงไป เนื่องจาก
 
 884
 00:29:00,000 --> 00:29:04,159
-the color has been around for
+acala เริ่มมีมาประมาณ
 
 885
 00:29:01,360 --> 00:29:05,600
-a while last year we run again the same
+ปีที่แล้วเราก็ทำการสาธิต polka defi
 
 886
 00:29:04,159 --> 00:29:08,880
-poker d5 demo
+เดียวกันอีกครั้ง
 
 887
 00:29:05,600 --> 00:29:10,799
-we've already run a full suite of d5
+เราได้เรียกใช้ defi แอปพลิเคชั่นครบชุดแล้ว
 
 888
 00:29:08,880 --> 00:29:12,799
-applications um and then it's great to
+แล้วมันก็เยี่ยมมาก
 
 889
 00:29:10,799 --> 00:29:13,600
-see this year uh everyone you know has
+ที่ได้เห็นในปีนี้
 
 890
 00:29:12,799 --> 00:29:15,840
-got their
+ 
 
 891
 00:29:13,600 --> 00:29:16,799
-uh application up and running and it
+แอปพลิเคชั่นทำงาน
 
 892
 00:29:15,840 --> 00:29:19,039
-seems you know
+มันเหมือนว่า
 
 893
 00:29:16,799 --> 00:29:19,840
-we're very close to where the vision is
+เราเข้าใกล้จุดวิสัยทัศน์
 
 894
 00:29:19,039 --> 00:29:21,840
-going to be
+ที่ควรจะเป็น
 
 895
 00:29:19,840 --> 00:29:23,600
-um and it's worth sharing you know what
+อืมและมันคุ้มค่าที่จะแบ่งปัน
 
 896
 00:29:21,840 --> 00:29:25,679
-we think the future uh
+สื่งที่เราคิดเกี่ยวกับอนาคต
 
 897
 00:29:23,600 --> 00:29:26,640
-might look like um i think we've got you
+อาจดูเหมือน อืม ฉันคิดว่าเรามีคุณ
 
 898
 00:29:25,679 --> 00:29:28,720
-know bitcoin
+รู้จักบิตคอยน์
 
 899
 00:29:26,640 --> 00:29:30,480
-which is the calculator error that's one
+ซึ่งเป็นข้อผิดพลาดของการคำนวน อย่างหนึ่ง
 
 900
 00:29:28,720 --> 00:29:32,720
-thing and then ethereum
+แล้ว ethereum
 
 901
 00:29:30,480 --> 00:29:34,399
-is perhaps the mainframe uh error of
+อาจเป็นข้อผิดพลาดของเมนเฟรม uh ของ
 
 902
 00:29:32,720 --> 00:29:35,039
-blockchain and now i think we are
+blockchain และตอนนี้ฉันคิดว่าเรากำลัง
 
 903
 00:29:34,399 --> 00:29:37,600
-entering
+เข้าสู่
 
 904
 00:29:35,039 --> 00:29:40,080
-uh the so-called cloud computing um
+คลาวด์คอมพิวติ้ง
 
 905
 00:29:37,600 --> 00:29:42,480
-where everything as a service um
+ที่ทุกอย่างเป็นบริการ
 
 906
 00:29:40,080 --> 00:29:44,159
-that's where we're heading i think um so
+นั่นคือที่ที่เรากำลังมุ่งหน้าไป ฉันคิดว่า อืม
 
 907
 00:29:42,480 --> 00:29:45,840
-we kind of believe that you know future
+เราเชื่อว่าคุณรู้อนาคต
 
 908
 00:29:44,159 --> 00:29:48,399
-will be uh multi-chain
+จะเป็นเอ่อ multi-chain
 
 909
 00:29:45,840 --> 00:29:49,279
-um and then a specialization uh it's
+อืม แล้วก็ความเชี่ยวชาญ เอ่อ มันคือ
 
 910
 00:29:48,399 --> 00:29:51,360
-gonna trump
+การเอาชนะ
 
 911
 00:29:49,279 --> 00:29:52,399
-uh generalization so you're gonna your
+เอ่อ ลักษณะทั่วไป ดังนั้นคุณจะ
 
 912
 00:29:51,360 --> 00:29:55,039
-chain is gonna
+เชนของคุณ จะ
 
 913
 00:29:52,399 --> 00:29:56,559
-specialize in a specific domain and do
+สามารถเฉพาะในโดเมนเฉพาะและทำ
 
 914
 00:29:55,039 --> 00:29:58,080
-certain things really well and solve
+บางสิ่งบางอย่างได้ดีจริงๆและแก้ไข
 
 915
 00:29:56,559 --> 00:30:00,320
-some problems very well
+ปัญหาบางอย่างได้เป็นอย่างดี
 
 916
 00:29:58,080 --> 00:30:01,600
-um and also change shouldn't be rigid it
+อืมแล้วการเปลี่ยนแปลงก็ไม่ควรเข้มงวดด้วย
 
 917
 00:30:00,320 --> 00:30:03,440
-should be upgradable
+ควรจะอัพเกรดได้
 
 918
 00:30:01,600 --> 00:30:05,279
-so that's that's what we think it's
+นั่นคือสิ่งที่เราคิดว่ามันเป็น
 
 919
 00:30:03,440 --> 00:30:07,520
-going to happen and also
+สิ่งที่กำลังจะเกิดและยัง
 
 920
 00:30:05,279 --> 00:30:08,480
-where we put our words out and build our
+ที่เรานำคำพูดของเราออกมาและสร้างแอปพลิเคชัน
 
 921
 00:30:07,520 --> 00:30:12,080
-application
+ของเรา
 
 922
 00:30:08,480 --> 00:30:14,799
-so this is the akala stack um if you
+นี่คือ acala stack อืมถ้าคุณ
 
 923
 00:30:12,080 --> 00:30:16,159
-uh haven't seen this one yet so um akala
+เอ่อยังไม่ได้ดูอันนี้เลย um acala
 
 924
 00:30:14,799 --> 00:30:17,039
-is still you know a full-fledged
+คือ full-fledged
 
 925
 00:30:16,159 --> 00:30:19,279
@@ -3700,51 +3700,51 @@ blockchain
 
 926
 00:30:17,039 --> 00:30:20,799
-but it's ledger and trust is provided by
+แต่มันคือ ledger และไว้วางใจได้โดย
 
 927
 00:30:19,279 --> 00:30:23,360
-polkadot so this is what
+polkadot นี่คือ
 
 928
 00:30:20,799 --> 00:30:24,159
-uh you know i uh i originally you know
+คุณรู้ไหม
 
 929
 00:30:23,360 --> 00:30:26,960
-term as
+ในแง่ของ
 
 930
 00:30:24,159 --> 00:30:27,919
-uh network security uh or trust as a
+ความปลอดภัยของเครือข่าย หรือ
 
 931
 00:30:26,960 --> 00:30:29,919
-service
+trust as a service
 
 932
 00:30:27,919 --> 00:30:31,840
-um and also in the middle of it as
+อืมมันอยู่ระหว่างกลาง
 
 933
 00:30:29,919 --> 00:30:33,760
-oakala's default offerings
+acala's defi ของการเสนอ
 
 934
 00:30:31,840 --> 00:30:36,000
-uh they're offered you know a service
+พวกเขาเสนอ รูปแบบการบริการ
 
 935
 00:30:33,760 --> 00:30:37,520
-like customizable modules right um so
+เหมือนโมดูลที่ปรับแต่งได้ใช่เลย
 
 936
 00:30:36,000 --> 00:30:40,320
-for example you know we've got this
+ตัวอย่างเช่นคุณรู้ว่าเรามีสิ่งนี้
 
 937
 00:30:37,520 --> 00:30:40,799
-multi-coleto uh stablecoin uh backed by
+multi-coleto stablecoin สนับสนุนโดย
 
 938
 00:30:40,320 --> 00:30:42,640
@@ -3752,71 +3752,71 @@ dot
 
 939
 00:30:40,799 --> 00:30:44,880
-liquid dot and then you also see you
+สภาพคล่องdot
 
 940
 00:30:42,640 --> 00:30:46,399
-know bitcoin like poker btc can be used
+คุณรู้ว่าbitcoin เหมือน polkaBTC สามารถใช้ได้
 
 941
 00:30:44,880 --> 00:30:48,960
-as collateral as well
+เป็นหลักประกันด้วย
 
 942
 00:30:46,399 --> 00:30:50,000
-um and then we our liquidation is
+อืม แล้วเราก็การชำระบัญชีของเรา
 
 943
 00:30:48,960 --> 00:30:54,320
-automatic and
+แบบอัตโนมัติและ
 
 944
 00:30:50,000 --> 00:30:56,799
-use a hybrid of amm decks and auctions
+ใช้ลูกผสมของ amm dex และการประมูล
 
 945
 00:30:54,320 --> 00:30:58,080
-um and um and then another thing that i
+อืม กับ อืม แล้วก็อีกอย่างที่ฉัน
 
 946
 00:30:56,799 --> 00:31:00,559
-think brian would actually demo you
+คิดว่าไบรอันจะสาธิตคุณจริงๆ
 
 947
 00:30:58,080 --> 00:31:04,240
-today is liquid staking so this is a
+วันนี้เป็นการ stake สภาพคล่อง ดังนั้นนี่คือ
 
 948
 00:31:00,559 --> 00:31:06,000
-tokenized staked dot or l dot
+การstake tokken dot หรือ ldot
 
 949
 00:31:04,240 --> 00:31:07,679
-so it's a bit like diane see that right
+ 
 
 950
 00:31:06,000 --> 00:31:10,559
-allows you to earn staking
+ช่วยให้คุณได้รับเงินรางวัล
 
 951
 00:31:07,679 --> 00:31:12,320
-rewards while yield farming in d5
+จากการ stake ในขณะที่ให้ผลผลิตใน defi
 
 952
 00:31:10,559 --> 00:31:14,559
-chestlessly
+แบบ trustlessly
 
 953
 00:31:12,320 --> 00:31:15,360
-and uh you can also say you know evm is
+และคุณยังสามารถพูดได้ว่าคุณรู้ evm คือ
 
 954
 00:31:14,559 --> 00:31:18,080
-a module
+โมดูล
 
 955
 00:31:15,360 --> 00:31:18,799
-on on our you know service modules so
+บนโมดูลบริการ
 
 956
 00:31:18,080 --> 00:31:20,960
