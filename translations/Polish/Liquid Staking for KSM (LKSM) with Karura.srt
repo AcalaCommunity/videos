@@ -932,95 +932,95 @@ sieci Kusama
 
 234
 00:07:40,160 --> 00:07:44,000
-so ultimately the staking reward of the
+w ostatecznym rozrachunku nagroda za staking
 
 235
 00:07:43,280 --> 00:07:47,280
-z
+za
 
 236
 00:07:44,000 --> 00:07:49,680
-staking by minting the lksm would be
+staking przez minting LKSM byłaby
 
 237
 00:07:47,280 --> 00:07:50,319
-równoważne średniej ue z of
+równoważna średniemu zyskowi całej
 
 238
 00:07:49,680 --> 00:07:52,479
-sieć
+sieci
 
 239
 00:07:50,319 --> 00:07:53,599
-będzie bezpieczniej bo jak d2 to
+będzie bezpieczniej bo pula jest
 
 240
 00:07:52,479 --> 00:07:55,919
-rozłożone
+rozłożona na
 
 241
 00:07:53,599 --> 00:07:56,639
-wiele walidatorów, więc nawet ukośnik
+wielu walidatorów, więc nawet jeżeli slash
 
 242
 00:07:55,919 --> 00:07:59,680
-dzieje się
+wydarzy się
 
 243
 00:07:56,639 --> 00:08:02,240
-ryzyko jak basen jest?
+ryzyko dla puli jest
 
 244
 00:07:59,680 --> 00:08:04,000
-sort of like meditated um because only
+tylko pośrednie, gdyż
 
 245
 00:08:02,240 --> 00:08:04,400
-uciąć proporcję niewielką część
+slash dotknie tylko niewielką część
 
 246
 00:08:04,000 --> 00:08:06,560
-that
+całej puli
 
 247
 00:08:04,400 --> 00:08:08,319
-ale ta sama nagroda jest the
+to samo dotyczy nagród za staking
 
 248
 00:08:06,560 --> 00:08:10,400
-również średnia wydajność
+są również uśrednioną zysków
 
 249
 00:08:08,319 --> 00:08:11,520
-to jak bezpieczny przeciętny widok view
+to jak bezpieczny średni zysk z
 
 250
 00:08:10,400 --> 00:08:15,520
-spodziewany powrót
+oczekiwanego zysku
 
 251
 00:08:11,520 --> 00:08:19,280
-sieci i jeden klucz inny um
+sieci. kolejnym kluczowym
 
 252
 00:08:15,520 --> 00:08:22,400
-faktem, który musimy zrozumieć, jest również
+faktem, który musimy zrozumieć, jest to, że
 
 253
 00:08:19,280 --> 00:08:24,000
-l ksm holders actually uh can vote for
+posiadacze LKSM mogą głosować na
 
 254
 00:08:22,400 --> 00:08:25,039
-walidatorami, więc tacy właśnie jesteśmy
+walidatorów, więc to jest to
 
 255
 00:08:24,000 --> 00:08:27,360
-working progress so
+nad czym pracujemy
 
 256
 00:08:25,039 --> 00:08:28,400
-kiedy spotykasz lksm, masz
+kiedy uzyskasz LKSM uzyskasz
 
 257
 00:08:27,360 --> 00:08:32,080
@@ -1028,7 +1028,7 @@ prawo do powiedzenia, że ​​ja
 
 258
 00:08:28,400 --> 00:08:34,959
-prefer the pool to validate and delegate
+preferuję tą pulę walidatorów i oddelegować
 
 259
 00:08:32,080 --> 00:08:35,599
@@ -1040,19 +1040,19 @@ ostatecznie
 
 261
 00:08:35,599 --> 00:08:39,519
-pula sprawdzi wszystkie dane wejściowe z
+pula sprawdzi wszystkie dane wejściowe od
 
 262
 00:08:38,080 --> 00:08:42,640
-posiadacze lksm
+posiadaczy LKSM
 
 263
 00:08:39,519 --> 00:08:44,880
-i nominuj tych um tych kikusama
+i nominuje te KSM
 
 264
 00:08:42,640 --> 00:08:46,800
-dla wszystkich walidatorów, jak
+dla wszystkich walidatorów w
 
 265
 00:08:44,880 --> 00:08:48,800
