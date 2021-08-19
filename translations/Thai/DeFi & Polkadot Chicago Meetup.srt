@@ -1201,423 +1201,423 @@ Acala
 
 301
 00:09:39,600 --> 00:09:43,600
-ในระบบการชำระ หรือ
+ในระบบการชำระเงินหรือ
 
 302
 00:09:41,200 --> 00:09:45,920
-what have you. But our three core
+สิ่งที่คุณมี แต่สามสิ่งหลักของ
 
 303
 00:09:43,600 --> 00:09:49,200
-products are the Acala DEX
+ผลิตภัณฑ์ของเรา คือ Acala DEX
 
 304
 00:09:45,920 --> 00:09:51,120
-similar to uniswap liquid DOT staking
+คล้ายกับ uniswap liquid DOT สเตกกิ้ง
 
 305
 00:09:49,200 --> 00:09:52,880
-which I'm probably most excited about
+ซึ่งฉันนั้นตื่นเต้นมากที่สุดเกี่ยวกับ
 
 306
 00:09:51,120 --> 00:09:53,200
-which is the ability to stake DOT and
+ความสามารถของการสเตก DOT และ
 
 307
 00:09:52,880 --> 00:09:54,720
-get
+ได้รับ
 
 308
 00:09:53,200 --> 00:09:57,279
-a liquid version of that that you can
+เวอร์ชันสภาพคล่องที่ซึ่งที่คุณสามารถ
 
 309
 00:09:54,720 --> 00:09:58,959
-actually use right now there's
+ใช้งานได้ตอนนี้ ซึ่งมี
 
 310
 00:09:57,279 --> 00:10:01,279
-billions of dollars in DOT that are
+มากกว่าพันล้านดอลล่าห์ใน DOT ที่ซึ่ง
 
 311
 00:09:58,959 --> 00:10:01,839
-staked and useless because they're kind
+สเตกอยู่ และ เปล่าประโยชน์เพราะพวกเขา
 
 312
 00:10:01,279 --> 00:10:05,200
-of just
+ทำแค่
 
 313
 00:10:01,839 --> 00:10:07,040
-staked and locked LDOT is going to be
+สเตก และ ล็อค LDOT ที่ซึ่ง
 
 314
 00:10:05,200 --> 00:10:08,640
-kind of mind-blowing especially when you
+เหลือเชื่อมากโดยเฉพาะเมื่อคุณ
 
 315
 00:10:07,040 --> 00:10:10,160
-think about the integration we're
+คิดเกี่ยวกับการบูรณาการที่เรากำลัง
 
 316
 00:10:08,640 --> 00:10:10,880
-building with Compound we're going to be
+สร้างด้วยคอมพาวด์ ที่เราจะ
 
 317
 00:10:10,160 --> 00:10:14,560
-bringing DOT
+นำ DOT
 
 318
 00:10:10,880 --> 00:10:16,320
-and LDOT over to Compound's chain
+และ LDOT ข้ามผ่าน เชนคอมพาวด์
 
 319
 00:10:14,560 --> 00:10:18,160
-there's going to be so much liquidity
+ซึ่งจะทำให้มีสภาพคล่องมาก
 
 320
 00:10:16,320 --> 00:10:20,079
-unlocked which means so much
+ที่ถูกปลดล็อค ซึ่งมีความหมายมาก
 
 321
 00:10:18,160 --> 00:10:22,399
-utility that we'll be able to to stream
+ประโยชน์อย่างมาก ที่เราจะสามารถสตรีมได้
 
 322
 00:10:20,079 --> 00:10:25,040
-through the ecosystem
+ผ่านระบบนิเวศ
 
 323
 00:10:22,399 --> 00:10:26,720
-aUSD is the Acala dollar so similar to
+aUSD คือดอลลาร์ Acala คล้ายกับ
 
 324
 00:10:25,040 --> 00:10:27,600
-dye this is a multi-collateral stable
+การย้อม นี่คือเหรียญที่มีหลักประกันหลายหลัก
 
 325
 00:10:26,720 --> 00:10:29,760
-coin
+เหรียญ
 
 326
 00:10:27,600 --> 00:10:31,600
-that we felt was necessary to become
+ที่เรารู้สึกว่าจำเป็นต้องเป็น
 
 327
 00:10:29,760 --> 00:10:34,320
-kind of the de facto stable coin of the
+ชนิดของเหรียญที่มั่นคงโดยพฤตินัยของ
 
 328
 00:10:31,600 --> 00:10:36,640
-Polkadot ecosystem
+ระบบนิเวศ Polkadot
 
 329
 00:10:34,320 --> 00:10:38,079
-and a few other things governance
+และธรรมาภิบาลอีกเล็กน้อย
 
 330
 00:10:36,640 --> 00:10:41,440
-treasury oracles these could all
+คลังสมบัติเหล่านี้ได้ทั้งหมด
 
 331
 00:10:38,079 --> 00:10:44,160
-take hour-long presentations
+ใช้เวลานำเสนอนานเป็นชั่วโมง
 
 332
 00:10:41,440 --> 00:10:46,640
-but going up a level we've built
+แต่จะขึ้นไปอีกระดับที่เราสร้างขึ้น
 
 333
 00:10:44,160 --> 00:10:48,160
-applications on our own chain that have
+แอปพลิเคชันบนเครือข่ายของเราเองที่มี
 
 334
 00:10:46,640 --> 00:10:50,399
-already launched are beginning to launch
+เปิดตัวแล้ว และกำลังเริ่มเปิดตัว
 
 335
 00:10:48,160 --> 00:10:52,880
-on Karura and will launch on Polkadot
+บน Karura และจะเปิดตัวบน Polkadot
 
 336
 00:10:50,399 --> 00:10:54,480
-and these leverage the DEX for swaps
+และสิ่งเหล่านี้ใช้ประโยชน์จาก DEX สำหรับการแลกเปลี่ยน
 
 337
 00:10:52,880 --> 00:10:57,040
-these leverage
+เลเวอเรจเหล่านี้
 
 338
 00:10:54,480 --> 00:10:58,800
-liquid staking and earning through like
+เดิมพันสภาพคล่องและรับรายได้ผ่าน
 
 339
 00:10:57,040 --> 00:11:00,000
-liquidity providing in the DEX similar
+สภาพคล่องใน DEX ที่คล้ายกัน
 
 340
 00:10:58,800 --> 00:11:03,440
-to what you may have done with
+กับสิ่งที่คุณอาจทำกับ
 
 341
 00:11:00,000 --> 00:11:05,120
-Uniswap along
+Uniswap
 
 342
 00:11:03,440 --> 00:11:07,440
-along the same lines there will be other
+ในแนวเดียวกันก็จะมีอื่นๆ
 
 343
 00:11:05,120 --> 00:11:08,720
-applications built on top of Acala as
+แอปพลิเคชั่นที่สร้างขึ้นบน Acala เช่น
 
 344
 00:11:07,440 --> 00:11:11,200
-well
+เดียว
 
 345
 00:11:08,720 --> 00:11:13,040
-where we have a integration that's kind
+กับที่เรามีบูรณาการที่ซึ่ง
 
 346
 00:11:11,200 --> 00:11:14,800
-of rolling out over the coming months
+จะมีการเปิดตัวในอีกไม่กี่เดือนข้างหน้า
 
 347
 00:11:13,040 --> 00:11:16,320
-with Current so
+กับ Current ที่ซึ่ง
 
 348
 00:11:14,800 --> 00:11:17,760
-Current is going to be integrating with
+Current กำลังจะผสานเข้ากับ
 
 349
 00:11:16,320 --> 00:11:18,800
-another application that we're building
+แอปพลิเคชั่นอื่นที่เรากำลังสร้าง
 
 350
 00:11:17,760 --> 00:11:20,880
-on Acala
+บน Acala
 
 351
 00:11:18,800 --> 00:11:22,320
-this is a really cool project it's a
+นี่เป็นโครงการที่ยอดเยี่ยมจริงๆ มันคือ
 
 352
 00:11:20,880 --> 00:11:24,320
-fintech company in the us
+บริษัทฟินเทคในอเมริกา
 
 353
 00:11:22,320 --> 00:11:26,000
-based in New York, Brett and I actually
+ที่นิวยอร์ก เบร็ทและฉันจริงๆ
 
 354
 00:11:24,320 --> 00:11:28,560
-just got to go visit them
+แค่ต้องไปเยี่ยมพวกเขา
 
 355
 00:11:26,000 --> 00:11:30,880
-a week or two ago, they have three
+หนึ่งหรือสองสัปดาห์ก่อน พวกเขามีสาม
 
 356
 00:11:28,560 --> 00:11:33,040
-million customers on a fintech app
+ล้านลูกค้าบนแอปฟินเทค
 
 357
 00:11:30,880 --> 00:11:35,279
-so what they're doing is savings
+ดังนั้นสิ่งที่พวกเขาทำคือออมทรัพย์
 
 358
 00:11:33,040 --> 00:11:38,320
-accounts simple savings accounts for
+บัญชีออมทรัพย์แบบง่ายสำหรับ
 
 359
 00:11:35,279 --> 00:11:40,640
-millennial young aged people and
+คนหนุ่มสาวและ
 
 360
 00:11:38,320 --> 00:11:42,399
-probably around a 0.5 percent interest
+น่าจะประมาณร้อยละ 0.5 เปอร์เซ็น ดอกเบี้ย
 
 361
 00:11:40,640 --> 00:11:45,680
-rate for a savings account which is
+อัตราสำหรับบัญชีออมทรัพย์ ที่ซึ่ง
 
 362
 00:11:42,399 --> 00:11:46,880
-like good in in the US for people that
+เป็นที่ชอบในอเมริกาสำหรับคนที่ว่า
 
 363
 00:11:45,680 --> 00:11:48,480
-are in crypto
+อยู่ใน crypto
 
 364
 00:11:46,880 --> 00:11:50,000
-but what they're going to be able to
+แต่สิ่งที่พวกเขาจะทำได้
 
 365
 00:11:48,480 --> 00:11:51,680
-do they haven't finalized what the
+พวกเขายังไม่ได้สรุปสิ่งที่
 
 366
 00:11:50,000 --> 00:11:53,600
-product can be called or
+สินค้าสามารถเรียกหรือ
 
 367
 00:11:51,680 --> 00:11:56,000
-on the kind of the regulatory aspects of
+เกี่ยวกับประเภทของด้านกฎระเบียบของ
 
 368
 00:11:53,600 --> 00:11:58,160
-it but as an example what it could be
+มันแต่เป็นตัวอย่างว่ามันคืออะไร
 
 369
 00:11:56,000 --> 00:11:59,200
-as a customer you open the app one
+เป็นลูกค้าคุณเปิดแอปใน
 
 370
 00:11:58,160 --> 00:12:00,720
-day
+วันหนึ่ง
 
 371
 00:11:59,200 --> 00:12:02,320
-and they offer you maybe it's called a
+และพวกเขาให้คุณ บางทีมันเรียกว่า
 
 372
 00:12:00,720 --> 00:12:04,079
-savings account maybe it's called
+บัญชีออมทรัพย์อาจจะเรียกว่า
 
 373
 00:12:02,320 --> 00:12:06,240
-yield or something but they don't need
+ผลตอบแทน หรือบางอย่าง แต่พวกเขาไม่จำเป็น
 
 374
 00:12:04,079 --> 00:12:07,120
-to know that what's really happening is
+ที่ต้องรู้ว่าสิ่งที่เกิดขึ้นจริงคือ
 
 375
 00:12:06,240 --> 00:12:10,399
-all these
+สิ่งเหล่านี้
 
 376
 00:12:07,120 --> 00:12:11,040
-dollars are being taken on the off
+ดอลล่าห์ กำลังถูกถอดออก
 
 377
 00:12:10,399 --> 00:12:14,240
-ramp
+ในทางลาด
 
 378
 00:12:11,040 --> 00:12:16,079
-converted into crypto sent into this app
+แปลงเป็น crypto ที่ส่งไปยังแอพนี้
 
 379
 00:12:14,240 --> 00:12:18,079
-that's being built by the Acala team on
+ที่กำลังสร้างโดยทีมงาน Acala บน
 
 380
 00:12:16,079 --> 00:12:19,920
-top of the Acala platform
+ด้านบนของแพลตฟอร์ม Acala
 
 381
 00:12:18,079 --> 00:12:23,839
-which is a yield engine that integrates
+ซึ่งเป็นกลไกผลตอบแทนที่บูรณาการ
 
 382
 00:12:19,920 --> 00:12:25,680
-with Compound it leverages DOT staking
+ด้วย Compound มันใช้ประโยชน์จากการสเตก DOT
 
 383
 00:12:23,839 --> 00:12:27,680
-it generates yield for these real
+มันสร้างผลตอบแทนสำหรับสิ่งเหล่านี้จริง
 
 384
 00:12:25,680 --> 00:12:28,959
-dollars for customers who don't even
+ดอลลาร์สำหรับลูกค้าที่ยังไม่ได้
 
 385
 00:12:27,680 --> 00:12:30,240
-really need to know that that is going
+จำเป็นต้องรู้ว่าสิ่งนั้นจะเกิดขึ้นจริง ๆ
 
 386
 00:12:28,959 --> 00:12:32,160
-on in the back end
+ที่ด้านหลัง
 
 387
 00:12:30,240 --> 00:12:33,519
-and then the dollars will flow back into
+แล้วเงินดอลลาร์จะไหลกลับเข้า
 
 388
 00:12:32,160 --> 00:12:34,800
-fiat
+เฟียส
 
 389
 00:12:33,519 --> 00:12:37,120
-and then into the accounts of those
+แล้วเข้าบัญชีของผู้นั้น
 
 390
 00:12:34,800 --> 00:12:39,839
-people on the Current app
+ในแอพปัจจุบัน
 
 391
 00:12:37,120 --> 00:12:41,680
-pretty incredible I'm excited for that
+น่าทึ่งมาก ฉันตื่นเต้นมาก
 
 392
 00:12:39,839 --> 00:12:43,760
-to launch
+ที่จะเปิดตัว
 
 393
 00:12:41,680 --> 00:12:45,120
-We don't need to spend time on these
+เราไม่ต้องใช้เวลากับสิ่งเหล่านี้
 
 394
 00:12:43,760 --> 00:12:46,399
-these are just this is just a look at
+พวกนี้เป็นแค่การดูเฉยๆ
 
 395
 00:12:45,120 --> 00:12:49,519
-what the UI looks like for
+หน้าตาของ UI สำหรับ
 
 396
 00:12:46,399 --> 00:12:52,320
-the DEX for liquid staking
+DEX สำหรับการสเตกสภาพคล่อง
 
 397
 00:12:49,519 --> 00:12:54,880
-and then Karura is the exact same thing as
+แล้วKarura ก็เหมือนกับ
 
 398
 00:12:52,320 --> 00:12:56,720
-Acala except for it it's centered around
+Acala ยกเว้นว่ามันมีศูนย์กลางอยู่รอบ ๆ
 
 399
 00:12:54,880 --> 00:12:59,040
-the Kusama ecosystem of course and then
+ระบบนิเวศ Kusama แน่นอนแล้ว
 
 400
 00:12:56,720 --> 00:13:00,639
-the KSM token instead of DOT
+โทเค็น KSM แทนที่ DOT
 
 401
 00:12:59,040 --> 00:13:02,880
-so this is what we've been spending a
+นี่คือสิ่งที่เราใช้
 
 402
 00:13:00,639 --> 00:13:05,040
-lot of time on recently
+เวลาส่วนมากไปไม่นานมานี้
 
 403
 00:13:02,880 --> 00:13:06,639
-launching Karua on Kusama and right now
+ในการเปิดตัว Karura บน Kusama และตอนนี้
 
 404
 00:13:05,040 --> 00:13:09,279
-we're working through the
+เรากำลังดำเนินการผ่าน
 
 405
 00:13:06,639 --> 00:13:10,160
-kind of the rollout plan for getting
+ชนิดของแผนการเปิดตัวเพื่อรับ
 
 406
 00:13:09,279 --> 00:13:12,959
@@ -1625,179 +1625,179 @@ kind of the rollout plan for getting
 
 407
 00:13:10,160 --> 00:13:14,320
-like the KAR token even liquid
+เหมือนโทเค็น KAR แม้กระทั่ง สภาพคล่อง
 
 408
 00:13:12,959 --> 00:13:15,920
-transferable
+ที่สามารถส่งผ่านได้
 
 409
 00:13:14,320 --> 00:13:17,920
-we will be spinning up the DEX the
+เราจะทำการปั่น DEX the
 
 410
 00:13:15,920 --> 00:13:18,880
-stable coin pretty soon
+และ เหรียญมั่นคงเร็วๆนี้
 
 411
 00:13:17,920 --> 00:13:21,200
-and then there's some technical
+แล้วก็มีเทคนิคบ้าง
 
 412
 00:13:18,880 --> 00:13:23,680
-dependencies for LKSM on
+การพึ่งพา LKSM บน
 
 413
 00:13:21,200 --> 00:13:25,440
-on XCM that we're just waiting on the
+บน XCM ที่เรากำลังรออยู่
 
 414
 00:13:23,680 --> 00:13:27,120
-Parity team to develop but
+ทีมงานพาริตี้พัฒนาแต่
 
 415
 00:13:25,440 --> 00:13:30,079
-pretty soon all the stuff will be live
+เร็วๆ นี้ ทุกรายการจะถ่ายทอดสด
 
 416
 00:13:27,120 --> 00:13:34,639
-and usable on Kusama
+และใช้งานได้บน Kusama
 
 417
 00:13:30,079 --> 00:13:35,279
-this is the Karura app and I just wanted
+นี่คือแอพ Karura และฉันแค่ต้องการ
 
 418
 00:13:34,639 --> 00:13:37,279
-to bring
+ที่จะนำ
 
 419
 00:13:35,279 --> 00:13:39,279
-us back to what I showed you before with
+เรากลับไปที่สิ่งที่ฉันแสดงให้คุณเห็นก่อนหน้านี้ด้วย
 
 420
 00:13:37,279 --> 00:13:42,160
-with why Kusama
+ด้วยว่าเหตุใดถึงเป็น Kusama
 
 421
 00:13:39,279 --> 00:13:44,320
-and then this helps me explain why
+แล้วสิ่งนี้ช่วยฉันอธิบายว่าทำไม
 
 422
 00:13:42,160 --> 00:13:45,040
-would we run Karua and Acala at the same
+เราถึงดำเนินการ Karura และ Acala ในช่วงเวลา
 
 423
 00:13:44,320 --> 00:13:46,720
-time
+เดียวกัน
 
 424
 00:13:45,040 --> 00:13:48,480
-and why do why do we plan on continuing
+และทำไมเราถึงวางแผนจะทำต่อไป
 
 425
 00:13:46,720 --> 00:13:50,480
-to run these things in parallel
+เพื่อดำเนินสิ่งเหล่านี้ควบคู่กันไป
 
 426
 00:13:48,480 --> 00:13:52,720
-because just like Kusama and Polkadot we
+เพราะเหมือนKusama และPolkadot เรา
 
 427
 00:13:50,480 --> 00:13:54,240
-will run things on testnet
+จะรันสิ่งต่าง ๆ บนเทสเน็ต
 
 428
 00:13:52,720 --> 00:13:56,399
-we'll move it to this experimental
+เราจะย้ายไปยังการทดลองใน
 
 429
 00:13:54,240 --> 00:13:58,000
-network or this innovation network as I
+เครือข่าย หรือเครือข่ายนวัตกรรมนี้เป็นสิ่งที่ฉัน
 
 430
 00:13:56,399 --> 00:13:59,680
-prefer
+ชื่นชอบ
 
 431
 00:13:58,000 --> 00:14:01,519
-where we can test out the apps we can
+ที่ที่เราจะทดสอบแอพที่เราทำได้
 
 432
 00:13:59,680 --> 00:14:04,480
-test out things like financial
+ทดสอบสิ่งต่างๆ เช่น การเงิน
 
 433
 00:14:01,519 --> 00:14:06,959
-parameters with Gauntlet and others
+พารามิเตอร์ด้วยGauntlet และอื่น ๆ
 
 434
 00:14:04,480 --> 00:14:10,240
-and then it moves to finally moves to
+และจากนั้นก็ย้ายไปที่ในที่สุดย้ายไปที่
 
 435
 00:14:06,959 --> 00:14:11,519
-Acala and Polkadot
+Acala และ Polkadot
 
 436
 00:14:10,240 --> 00:14:13,600
-So this is the last thing I wanted to
+นี่คือสิ่งสุดท้ายที่ฉันต้องการ
 
 437
 00:14:11,519 --> 00:14:15,839
-cover because this is kind of the more
+พูดถึง เพราะแบบนี้มากกว่า
 
 438
 00:14:13,600 --> 00:14:18,160
-current thing that's going on right now
+สิ่งที่กำลังเป็นอยู่ตอนนี้
 
 439
 00:14:15,839 --> 00:14:20,320
-and I and i've been talking about it
+และฉันและฉันกำลังพูดถึงมัน
 
 440
 00:14:18,160 --> 00:14:21,680
-for months trying to explain to
+หลายเดือนพยายามอธิบายให้
 
 441
 00:14:20,320 --> 00:14:24,079
-people how
+ผู้คนว่า
 
 442
 00:14:21,680 --> 00:14:25,680
-big of a deal this was but the amount of
+ข้อตกลงใหญ่นี้เป็นเพียงจำนวน
 
 443
 00:14:24,079 --> 00:14:27,760
-KSM that we were able to
+KSM ที่เราทำได้
 
 444
 00:14:25,680 --> 00:14:29,279
-to garner from the community I think was
+ที่จะรวบรวมจากชุมชนฉันคิดว่าเป็น
 
 445
 00:14:27,760 --> 00:14:33,199
-a huge eye-opener to
+เปิดตาขนาดใหญ่เพื่อ
 
 446
 00:14:29,279 --> 00:14:35,199
-the media to other ecosystems because
+สื่อไปสู่ระบบนิเวศอื่นๆ เพราะ
 
 447
 00:14:33,199 --> 00:14:36,399
-five percent of the KSM supplies is
+ห้าเปอร์เซ็นต์ของ KSM ซัพพลาย คือ
 
 448
 00:14:35,199 --> 00:14:39,519
-nothing to
+ไม่มีอะไรให้
 
 449
 00:14:36,399 --> 00:14:41,680
-ignore so
+ละเลยดังนั้น
 
 450
 00:14:39,519 --> 00:14:43,360
-How many people in the room have heard
+มีกี่คนในห้องนี้ที่ได้ยิน
 
 451
 00:14:41,680 --> 00:14:45,519
