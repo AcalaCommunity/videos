@@ -152,315 +152,315 @@ to borrow a little bit more against that
 
 39
 00:01:13,520 --> 00:01:16,320
-so i'm going to press generate more i'm
+ฉันจะไปกด generate มากขึ้น ฉัน
 
 40
 00:01:15,119 --> 00:01:17,920
-going to press hey i would like to
+กำลังจะกด เฮ้ ฉันต้องการ
 
 41
 00:01:16,320 --> 00:01:20,400
-probably ten dollars more
+อาจจะมากกว่าสิบเหรียญ
 
 42
 00:01:17,920 --> 00:01:22,080
-and i press confirm and this is where
+และฉันกดยืนยันและนี่คือที่
 
 43
 00:01:20,400 --> 00:01:22,880
-the signing comes up i'm gonna type in
+การสมัครขึ้นมา ฉันจะพิมพ์
 
 44
 00:01:22,080 --> 00:01:26,560
-my key
+คีย์ของฉัน
 
 45
 00:01:22,880 --> 00:01:28,640
-password and sign the transaction and
+password และ sign transactionนี้
 
 46
 00:01:26,560 --> 00:01:30,560
-boom i have ten dollar more that i can
+เรียบร้อย ฉันมีเงินอีกสิบเหรียญ
 
 47
 00:01:28,640 --> 00:01:32,400
-spend and this is how fast um
+ที่ฉันสามารถใช้จ่ายได้
 
 48
 00:01:30,560 --> 00:01:34,079
-and production network looks like and
+และนี่คือความรวดเร็วของเครือข่ายโครงการ
 
 49
 00:01:32,400 --> 00:01:34,560
-all this is happening on the fly for
+ละทั้งหมดนี้เกิดขึ้นทันที
 
 50
 00:01:34,079 --> 00:01:36,880
-real
+จริง
 
 51
 00:01:34,560 --> 00:01:38,159
-um and you can actually see this on the
+และคุณสามารถเห็นสิ่งนี้ได้จริงบน
 
 52
 00:01:36,880 --> 00:01:39,360
-on the on the block scanner that's
+บน block scanner
 
 53
 00:01:38,159 --> 00:01:42,320
-provided by sub scan
+ที่ให้บริการโดย subscan
 
 54
 00:01:39,360 --> 00:01:42,960
-so um this is amazing right this is um
+อืม นี่มันน่าทึ่งมาก
 
 55
 00:01:42,320 --> 00:01:46,079
-much much
+มันตอบสนอง
 
 56
 00:01:42,960 --> 00:01:46,880
-more um responsive much much more user
+ได้ดีกว่ามาก
 
 57
 00:01:46,079 --> 00:01:48,799
-friendly
+เป็นกันเอง
 
 58
 00:01:46,880 --> 00:01:51,439
-also i can also replay right i can pay
+ฉันยังเล่นซ้ำได้ถูกต้องฉันสามารถจ่ายได้
 
 59
 00:01:48,799 --> 00:01:53,360
-back i set a position if i think um
+กลับฉันตั้งตำแหน่งถ้าฉันคิดว่าอืม
 
 60
 00:01:51,439 --> 00:01:55,439
-i'm going to reduce a little bit of risk
+ฉันจะลดความเสี่ยงเล็กน้อย
 
 61
 00:01:53,360 --> 00:01:57,680
-here i can pay about 100 year ausd
+ที่นี่ฉันสามารถจ่ายได้ประมาณ 100 ปี ausd
 
 62
 00:01:55,439 --> 00:01:58,479
-that's like reducing my calculation
+ที่เหมือนกับการลดการคำนวณของฉัน
 
 63
 00:01:57,680 --> 00:02:00,799
-ratio
+อัตราส่วน
 
 64
 00:01:58,479 --> 00:02:02,240
-and any asset that will be available
+และทรัพย์สินที่จะมีอยู่
 
 65
 00:02:00,799 --> 00:02:03,280
-through the governance process can be
+กระบวนการกำกับดูแล
 
 66
 00:02:02,240 --> 00:02:05,040
-borrowed against
+สามารถยืม
 
 67
 00:02:03,280 --> 00:02:06,960
-different assets would have different
+สินทรัพย์ที่แตกต่างกันจะมีพารามิเตอร์ความเสี่ยงที่แตกต่างกัน
 
 68
 00:02:05,040 --> 00:02:08,319
-risk parameters so for example bitcoin
+ตัวอย่างเช่น Bitcoin
 
 69
 00:02:06,960 --> 00:02:09,920
-might have a risk parameter
+อาจมีพารามิเตอร์ความเสี่ยง
 
 70
 00:02:08,319 --> 00:02:12,480
-on the medieval credit ratio on the
+ในอัตราส่วนเครดิตปานกลาง
 
 71
 00:02:09,920 --> 00:02:15,760
-liquidation ratio on the liquidation fee
+ทั้งในอัตราส่วนการชำระบัญชี ในงานค่าธรรมเนียมการชำระบัญชี
 
 72
 00:02:12,480 --> 00:02:16,720
-uh dots l dots ksm lksm they might all
+dots l dots ksm lksm หรือทั้งหมด
 
 73
 00:02:15,760 --> 00:02:18,800
-have different
+มีความแตกต่าง
 
 74
 00:02:16,720 --> 00:02:20,160
-ratio they'll be managed and governed by
+อัตราส่วนที่พวกเขาจะได้รับการจัดการและควบคุมโดย
 
 75
 00:02:18,800 --> 00:02:22,560
-the governance process
+กระบวนการปกครอง
 
 76
 00:02:20,160 --> 00:02:23,760
-so that is uh essentially how you borrow
+ดังนั้นโดยพื้นฐานแล้ววิธีที่คุณยืมกับ
 
 77
 00:02:22,560 --> 00:02:26,879
-against um
+กับ
 
 78
 00:02:23,760 --> 00:02:29,840
-kratchos uh in guru
+kratchos uh ในกูรู
 
 79
 00:02:26,879 --> 00:02:31,040
-yeah let so maybe one thing we can do
+ดังนั้นบางทีสิ่งหนึ่งที่เราสามารถทำ
 
 80
 00:02:29,840 --> 00:02:33,440
-this concept
+คอนเซปต์นี้
 
 81
 00:02:31,040 --> 00:02:35,120
-of collateralization and taking loans is
+เรื่องการค้ำประกันและการกู้ยืมเงิน
 
 82
 00:02:33,440 --> 00:02:36,640
-probably new to a lot of people i know
+อาจเป็นเรื่องใหม่สำหรับคนจำนวนมาก
 
 83
 00:02:35,120 --> 00:02:40,000
-it was new to me
+ฉันรู้ว่ามันใหม่สำหรับฉัน
 
 84
 00:02:36,640 --> 00:02:42,160
-um at one point and basically like to to
+ณ จุดหนึ่งและโดยพื้นฐานแล้วชอบที่จะ
 
 85
 00:02:40,000 --> 00:02:44,560
-make this as simple as possible
+ทำให้มันง่ายที่สุดเท่าที่จะทำได้
 
 86
 00:02:42,160 --> 00:02:45,920
-um like i think many of us are aware of
+อย่างที่ฉันคิดว่าพวกเราหลายคนตระหนักดีว่า
 
 87
 00:02:44,560 --> 00:02:48,000
-how like a home
+สินเชื่อบ้านทำงานอย่างไร
 
 88
 00:02:45,920 --> 00:02:50,000
-loan works where typically you might put
+โดยปกติคุณอาจวางเงินไว้
 
 89
 00:02:48,000 --> 00:02:52,480
-like 10 down or 20
+10 หรือ 20
 
 90
 00:02:50,000 --> 00:02:53,360
-down that cash that you put down is what
+ลงนั้นสิ่งที่คุณใส่ลงไปเพื่อให้ได้
 
 91
 00:02:52,480 --> 00:02:55,519
-you're putting
+เงินกู้
 
 92
 00:02:53,360 --> 00:02:56,879
-down in order to get the full the full
+เต็มจำนวน
 
 93
 00:02:55,519 --> 00:02:57,760
-loan of whatever you're getting for that
+สำหรับสิ่งที่คุณได้รับจาก
 
 94
 00:02:56,879 --> 00:03:00,959
-house
+บ้านหลังนั้น
 
 95
 00:02:57,760 --> 00:03:02,840
-but with the way this works in crypto um
+แต่ด้วยวิธีการทำงานของ crypto
 
 96
 00:03:00,959 --> 00:03:04,080
-we're actually over you're over
+ที่จริงแล้ว เราถือว่า คุณค้ำประกันเงินกู้
 
 97
 00:03:02,840 --> 00:03:06,319
-collateralizing
+ค้ำประกัน
 
 98
 00:03:04,080 --> 00:03:07,519
-the loan so that's why these collateral
+นั่นคือเหตุผลที่อัตราส่วนหลักประกันเหล่านี้
 
 99
 00:03:06,319 --> 00:03:10,480
-ratios are over
+มีมากกว่า
 
 100
 00:03:07,519 --> 00:03:12,319
-100 and you're what you're doing like
+100 และคุณกำลังทำอะไรเหมือนกับ
 
 101
 00:03:10,480 --> 00:03:14,159
-what it really means of collateral
+ความหมายของหลักประกัน
 
 102
 00:03:12,319 --> 00:03:15,920
-is that you're actually taking bitcoin
+ก็คือ คุณกำลังรับ bitcoin บางอย่าง
 
 103
 00:03:14,159 --> 00:03:18,400
-something like bitcoin
+บางอย่างเช่น bitcoin
 
 104
 00:03:15,920 --> 00:03:19,920
-you don't need to sell it but you can
+ไม่ต้องขายแต่ทำได้
 
 105
 00:03:18,400 --> 00:03:22,400
-pull out
+แต่คุณสามารถดึง
 
 106
 00:03:19,920 --> 00:03:22,959
-ausd a stablecoin with your bitcoin
+ausd เหรียญมั่นคงด้วย bitcoin ของคุณ
 
 107
 00:03:22,400 --> 00:03:25,599
-still there
+ยังคงมี
 
 108
 00:03:22,959 --> 00:03:26,400
-not sold and then you can take the ausd
+ไม่ขายแล้วเอาเงิน ausd
 
 109
 00:03:25,599 --> 00:03:28,080
-and either
+และหลังจากนั้น
 
 110
 00:03:26,400 --> 00:03:30,159
-you can send that to people you can make
+คุณสามารถส่งสิ่งนั้นให้คนที่คุณสร้างได้
 
 111
 00:03:28,080 --> 00:03:32,480
-payments you can use that to provide
+คุณสามารถส่งสิ่งนั้นให้คนที่คุณสร้างได้
 
 112
 00:03:30,159 --> 00:03:34,480
-liquidity within our decks but
+สภาพคล่องภายในสำรับของเรา แต่
 
 113
 00:03:32,480 --> 00:03:35,599
-that's essentially what this collateral
+นั่นคือสิ่งที่หลักประกันนี้
 
 114
 00:03:34,480 --> 00:03:38,000
-ratio means
+อัตราส่วน แปลว่า
 
 115
 00:03:35,599 --> 00:03:40,159
-yeah essentially give you more utility
+ใช่โดยพื้นฐานแล้วให้ประโยชน์กับคุณมากขึ้น
 
 116
 00:03:38,000 --> 00:03:42,959
-um to the asset that you are holding to
+กับทรัพย์สินที่คุณถืออยู่
 
 117
 00:03:40,159 --> 00:03:43,760
