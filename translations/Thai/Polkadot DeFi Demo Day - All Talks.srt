@@ -3820,159 +3820,159 @@ dot
 
 956
 00:31:18,080 --> 00:31:20,960
-we're fully
+เราเข้ากันได้อย่างเต็มที่
 
 957
 00:31:18,799 --> 00:31:22,640
-evm compatible you can build smart
+กับ evm คุณสามารถสร้างสมาร์ท
 
 958
 00:31:20,960 --> 00:31:24,640
-contracts or any type of dap
+คอนแทรคได้ หรือแดปทุกชนิด
 
 959
 00:31:22,640 --> 00:31:26,320
-on top of a color so basically you know
+บน acala โดยพื้นฐานแล้ว
 
 960
 00:31:24,640 --> 00:31:30,559
-akala offers
+acala เสนอ
 
 961
 00:31:26,320 --> 00:31:34,559
-d5 as a service um and then
+defi as a service
 
 962
 00:31:30,559 --> 00:31:36,240
-yeah so uh and uh as we're demoing today
+เรากำลังจะสาธิตในวันนี้
 
 963
 00:31:34,559 --> 00:31:36,799
-is probably the beginning of you will
+น่าจะเป็นจุดเริ่มต้น คุณจะ
 
 964
 00:31:36,240 --> 00:31:39,840
-see
+เห็น
 
 965
 00:31:36,799 --> 00:31:42,080
-uh composable services so that means uh
+composable services นั่นหมายถึง
 
 966
 00:31:39,840 --> 00:31:42,960
-depths are composable with each other
+dapps สามารถประกอบกันได้
 
 967
 00:31:42,080 --> 00:31:46,080
-that's a given
+ที่ได้รับ
 
 968
 00:31:42,960 --> 00:31:47,440
-um but also smart contracts and depths
+แต่ยังมีสมาร์ทคอนแทรคและ dapps
 
 969
 00:31:46,080 --> 00:31:49,440
-from other blockchains will be
+จากบล็อคเชนอื่นๆ จะเป็น
 
 970
 00:31:47,440 --> 00:31:51,919
-composable with akala
+สามารถประกอบกันได้ด้วย acala
 
 971
 00:31:49,440 --> 00:31:52,720
-and anyone you know who's be able to do
+และใครก็ตามที่คุณรู้จักที่สามารถทำได้
 
 972
 00:31:51,919 --> 00:31:55,039
-crushing
+ 
 
 973
 00:31:52,720 --> 00:31:57,279
-transactions together um so hopefully
+ทำธุรกรรมร่วมกัน อืม หวังว่า
 
 974
 00:31:55,039 --> 00:31:59,200
-you uh you'll get a taste of it today
+คุณจะได้สัมผัสมันในวันนี้
 
 975
 00:31:57,279 --> 00:32:00,320
-and that's my introduction i'll hand
+และนั่นคือการแนะนำตัวของฉัน ฉันจะส่งให้
 
 976
 00:31:59,200 --> 00:32:04,480
-over to brian
+ให้ brianพูดต่อ
 
 977
 00:32:00,320 --> 00:32:15,360
-now yeah sexpedit um so let me
+ให้ฉัน
 
 978
 00:32:04,480 --> 00:32:16,960
-share my screen
+แชร์หน้าจอของฉัน
 
 979
 00:32:15,360 --> 00:32:18,640
-so you should be able to see my screen
+คุณควรจะเห็นหน้าจอของฉัน
 
 980
 00:32:16,960 --> 00:32:22,320
-now um yeah so
+ตอนนี้
 
 981
 00:32:18,640 --> 00:32:24,880
-this is our um test net uh this is not
+นี่คือ tesะnet ของเรา นี่ไม่ใช่
 
 982
 00:32:22,320 --> 00:32:26,320
-the mana test that we're running on yes
+mandala testenet ที่เรากำลังดำเนินการอยู่
 
 983
 00:32:24,880 --> 00:32:27,919
-so this is where especially make
+นี่คือที่โดยเฉพาะในการทำ
 
 984
 00:32:26,320 --> 00:32:30,480
-the power chain test net so it's
+parachain test net ดังนั้นมัน
 
 985
 00:32:27,919 --> 00:32:32,960
-currently connecting to our version of
+กำลังเชื่อมต่อกับ rococo เวอร์ชันของเรา
 
 986
 00:32:30,480 --> 00:32:34,720
-rococo so you can see um we have some
+คุณจะเห็นว่าเรามีบาง
 
 987
 00:32:32,960 --> 00:32:38,240
-power change connecting to it
+Parachain เชื่อมต่อกับมัน
 
 988
 00:32:34,720 --> 00:32:41,440
-and just
+และ
 
 989
 00:32:38,240 --> 00:32:44,399
-yeah so so we can show some questions
+เราจะได้แสดง
 
 990
 00:32:41,440 --> 00:32:44,960
-demoing so let's get started um so first
+การสาธิตมาเริ่มกันเลยดีกว่า
 
 991
 00:32:44,399 --> 00:32:46,799
-thing
+สิ่งแรก
 
 992
 00:32:44,960 --> 00:32:49,200
-you probably want to do is what you want
+คุณอาจต้องการทำสิ่งนี้ คือ
 
 993
 00:32:46,799 --> 00:32:51,519
-you should have already some
+คุณควรมี
 
 994
 00:32:49,200 --> 00:32:52,559
-uh variable ss there will be dots or
+ตัวแปร อยู่แล้วบ้าง เช่น dots หรือ
 
 995
 00:32:51,519 --> 00:32:55,039
@@ -3980,207 +3980,207 @@ bitcoin
 
 996
 00:32:52,559 --> 00:32:57,039
-or maybe ethereum so for in this case
+หรืออาจจะเป็น ethereum ในกรณีนี้
 
 997
 00:32:55,039 --> 00:32:57,760
-then you if you have already a bitcoin
+ถ้าอย่างนั้นคุณมี bitcoin อยู่แล้ว
 
 998
 00:32:57,039 --> 00:33:01,440
-you can use
+คุณสามารถใช้ได้
 
 999
 00:32:57,760 --> 00:33:03,279
-procraftic to um uh using bitcoin to
+polkabtc โดยใช้bitcoin
 
 1000
 00:33:01,440 --> 00:33:05,919
-mean poca pdc and then using
+ในการทำ polkabtc
 
 1001
 00:33:03,279 --> 00:33:06,960
-question transfer uh to transfer program
+โดยการโอนมาเป็น polkabtc
 
 1002
 00:33:05,919 --> 00:33:10,080
-dc into
+ 
 
 1003
 00:33:06,960 --> 00:33:11,600
-a color so obviously some um transfer
+บน acala เห็นได้ชัดว่ามีการถ่ายโอน
 
 1004
 00:33:10,080 --> 00:33:14,880
-fee will be applied
+จะมีค่าธรรมเนียมบางอย่าง
 
 1005
 00:33:11,600 --> 00:33:16,960
-and then once you've got some poker pdt
+แล้วเมื่อคุณมี polkabtc
 
 1006
 00:33:14,880 --> 00:33:18,000
-uh okay there's a few things you can do
+มีบางอย่างที่คุณทำได้
 
 1007
 00:33:16,960 --> 00:33:19,840
-with it so
+กับมัน
 
 1008
 00:33:18,000 --> 00:33:21,120
-one thing of course you can do you sell
+สิ่งหนึ่งที่คุณสามารถขายได้
 
 1009
 00:33:19,840 --> 00:33:23,200
-it but that's well
+แต่นั้น
 
 1010
 00:33:21,120 --> 00:33:25,120
-probably not the best idea so actually
+อาจไม่ใช่ความคิดที่ดีที่สุด จริงๆ แล้ว
 
 1011
 00:33:23,200 --> 00:33:26,240
-it does make some money without selling
+มันสามารถทำเงินได้โดยไม่ต้องขาย
 
 1012
 00:33:25,120 --> 00:33:28,480
-them so
+พวกมันไป
 
 1013
 00:33:26,240 --> 00:33:29,600
-that's where the stable coin protocol
+นั่นคือที่โปรโตคอลของ stable coin
 
 1014
 00:33:28,480 --> 00:33:32,720
-comes handy
+มันสะดวก
 
 1015
 00:33:29,600 --> 00:33:38,000
-so we can start a new
+เพื่อเราจะได้เริ่มต้น
 
 1016
 00:33:32,720 --> 00:33:40,720
-loan so using the btc as the deporter um
+เงินกู้ใหม่ได้โดยใช้ polkabtc เป็นเงินฝาก
 
 1017
 00:33:38,000 --> 00:33:42,880
-so let's say i can deposit my 0.2 pocket
+สมมุติว่าฉันสามารถฝาก 0.2 polkabtc
 
 1018
 00:33:40,720 --> 00:33:46,799
-dc i will be able to borrow up to
+ของฉันได้ ฉันจะสามารถยืมได้ถึง
 
 1019
 00:33:42,880 --> 00:33:50,080
-in this case 7000 so i can
+ในกรณีนี้ 7000$ ฉันสามารถ
 
 1020
 00:33:46,799 --> 00:33:53,519
-borrow all of it and then you'll see
+ยืมมาทั้งหมดแล้วคุณจะเห็น
 
 1021
 00:33:50,080 --> 00:33:56,799
-my liquidation price is this number
+ราคาการชำระบัญชีของฉันคือตัวเลขนี้
 
 1022
 00:33:53,519 --> 00:33:59,120
-and my current ratio is 120
+และอัตราส่วนปัจจุบันของฉันคือ 120%
 
 1023
 00:33:56,799 --> 00:34:00,320
-so this is um slightly on a dangerous
+ดังนั้นนี่คือ นี่มีความอันตรายเล็กน้อย
 
 1024
 00:33:59,120 --> 00:34:01,760
-size so
+ดังนั้น
 
 1025
 00:34:00,320 --> 00:34:04,080
-maybe it's a good idea to borrow
+ดังนั้นบางทีมันอาจจะเป็นความคิดที่ดี
 
 1026
 00:34:01,760 --> 00:34:05,440
-slightly less so i can pretty confident
+ที่จะยืมน้อยกว่านี้เล็กน้อยเพื่อที่ฉันจะได้ค่อนข้างมั่นใจ
 
 1027
 00:34:04,080 --> 00:34:07,440
-both
+ทั้งคู่
 
 1028
 00:34:05,440 --> 00:34:08,639
-it's unlikely bitcoin price will drop to
+ไม่น่าเป็นไปได้ที่ราคา bitcoin จะลดลงถึง
 
 1029
 00:34:07,440 --> 00:34:11,679
-30 000
+30,000$
 
 1030
 00:34:08,639 --> 00:34:14,320
-hopefully um yeah so this the
+หวังว่า 
 
 1031
 00:34:11,679 --> 00:34:15,679
-next second just review there will be
+ลำดับที่สอง แค่รีวิว ก็จะมี
 
 1032
 00:34:14,320 --> 00:34:16,159
-some interest rate charge on the
+ค่าธรรมเนียมอัตราดอกเบี้ยบางส่วนใน
 
 1033
 00:34:15,679 --> 00:34:19,839
-borrowed
+การยืม
 
 1034
 00:34:16,159 --> 00:34:23,359
-amount uh that's my territory issue
+นั่นคืออัตราส่วนของฉัน
 
 1035
 00:34:19,839 --> 00:34:23,359
-this i can make a transition
+ฉันสามารถทำการเปลี่ยนแปลงได้
 
 1036
 00:34:29,760 --> 00:34:36,960
-yeah so this will make three thousand
+ใช่แล้วจะได้เงินสามพัน
 
 1037
 00:34:33,520 --> 00:34:40,560
-sorry 5000 akala usd
+ขออภัย 5000 acala usd
 
 1038
 00:34:36,960 --> 00:34:42,560
-from the poker pc i have deposited
+จาก polkabtc ที่ฉันฝากไว้
 
 1039
 00:34:40,560 --> 00:34:44,639
-so now i have some money what can i do
+ตอนนี้มีเงินแล้ว ฉันสามารถ
 
 1040
 00:34:42,560 --> 00:34:47,599
-with it
+ทำอะไรกับมัน
 
 1041
 00:34:44,639 --> 00:34:48,720
-we have the swap so there's the dex
+เรามีการแลกเปลี่ยนดังนั้นจึงมี dex
 
 1042
 00:34:47,599 --> 00:34:52,320
-which you can use
+ที่คุณสามารถใช้ได้
 
 1043
 00:34:48,720 --> 00:34:55,520
-to use the usd to buy other
+ใช้ usd ซื้ออื่นๆ
 
 1044
 00:34:52,320 --> 00:34:57,680
-assets so you'll be able to buy also a
+สินทรัพย์อื่นๆ ดังนั้นคุณจะสามารถซื้อได้ด้วย
 
 1045
 00:34:55,520 --> 00:35:00,400
-question access as well
+สินทรัพย์ อื่นด้วยเช่นกัน
 
 1046
 00:34:57,680 --> 00:35:01,040
-including project pdc and box and run
+รวมทั้ง polkabtc และ dot และ
 
 1047
 00:35:00,400 --> 00:35:05,119
@@ -4188,7 +4188,7 @@ btc
 
 1048
 00:35:01,040 --> 00:35:07,040
-and few other assets in the future
+และทรัพย์สินอื่นๆ อีกเล็กน้อยในอนาคต
 
 1049
 00:35:05,119 --> 00:35:09,680
