@@ -4404,151 +4404,151 @@ polkadot
 
 1102
 00:37:12,400 --> 00:37:19,359
-so now you have the outdoors and the you
+ดังนั้นตอนนี้คุณมี ldot และ คุณ
 
 1103
 00:37:15,599 --> 00:37:22,640
-the staking rewards and how
+ผลตอบแทนของการ stake และคุณจะ
 
 1104
 00:37:19,359 --> 00:37:26,160
-could you buy boots like increase
+ซื้ออัตราบูสต์เพิ่มขึ้น
 
 1105
 00:37:22,640 --> 00:37:28,800
-the um the rates
+ได้อย่างไร
 
 1106
 00:37:26,160 --> 00:37:29,200
-from the dots so another way to do that
+จาก dot ดังนั้นวิธีอื่นที่จะทำ
 
 1107
 00:37:28,800 --> 00:37:32,320
-is
+คือ
 
 1108
 00:37:29,200 --> 00:37:35,440
-uh for example you can do is
+เอ่อ ตัวอย่างเช่น คุณสามารถทำได้คือ
 
 1109
 00:37:32,320 --> 00:37:37,440
-add liquidity to our decks so there is
+เพิ่มสภาพคล่องให้กับ dex ของเรา ให้มี
 
 1110
 00:37:35,440 --> 00:37:41,920
-basically lot certain amount of
+โดยพื้นฐานแล้วจะมี ausd
 
 1111
 00:37:37,440 --> 00:37:44,400
-asd and lot your assets
+จำนวนหนึ่งและสินทรัพย์ของคุณจำนวนมาก
 
 1112
 00:37:41,920 --> 00:37:45,920
-and then you will be supplying the
+จากนั้นคุณจะจัดหา
 
 1113
 00:37:44,400 --> 00:37:48,960
-liquidity to our decks
+สภาพคล่องให้กับ dex ของเรา
 
 1114
 00:37:45,920 --> 00:37:48,960
-and which will
+และจะ
 
 1115
 00:37:49,040 --> 00:37:52,880
-if people when people make trades you
+หากผู้คนทำการซื้อขาย
 
 1116
 00:37:50,960 --> 00:37:57,200
-earn additional
+คุณจะได้รับรายได้เพิ่มเติม
 
 1117
 00:37:52,880 --> 00:37:59,760
-fees as rewards we also have a liquidity
+เป็นค่าธรรมเนียมเพิ่มเติมเป็นรางวัล เรายังมีโปรแกรมจูงใจ
 
 1118
 00:37:57,200 --> 00:38:00,640
-incentive program so you also at the
+ให้รางวัลด้านสภาพคล่อง ดังนั้นคุณ
 
 1119
 00:37:59,760 --> 00:38:03,040
-same time
+ในขณะเดียวกัน
 
 1120
 00:38:00,640 --> 00:38:05,200
-in addition to the fees you have any
+นอกเหนือจากค่าธรรมเนียมที่คุณมี
 
 1121
 00:38:03,040 --> 00:38:08,400
-additional usd
+usd เพิ่มเติม
 
 1122
 00:38:05,200 --> 00:38:08,400
-as rewards as well
+เป็นรางวัลเช่นกัน
 
 1123
 00:38:08,640 --> 00:38:15,200
-so this is adding the liquidity to
+นี่คือการเพิ่มสภาพคล่องให้กับ
 
 1124
 00:38:11,839 --> 00:38:17,200
-the decks and once and
+dex
 
 1125
 00:38:15,200 --> 00:38:19,920
-then a later stage if you want to you
+ในภายหลังหากคุณต้องการ
 
 1126
 00:38:17,200 --> 00:38:23,359
-can also redeem the liquidity
+แลกสภาพคล่องแลกโทเค็นกลับ
 
 1127
 00:38:19,920 --> 00:38:23,359
-reading the token backs later
+ได้ในภายหลัง
 
 1128
 00:38:24,000 --> 00:38:29,599
-um yes so the next thing i'll
+อืมใช่ ดังนั้นสิ่งต่อไปฉันจะ
 
 1129
 00:38:27,520 --> 00:38:31,280
-show you just a little quick this is
+แสดงให้คุณเห็นอย่างรวดเร็วเล็กน้อยนี่คือ
 
 1130
 00:38:29,599 --> 00:38:33,520
-still again working progress and we're
+ยังมีความคืบหน้าในการทำงานอีกครั้งและเรา
 
 1131
 00:38:31,280 --> 00:38:35,200
-still finalizing all the details and
+ยังคงสรุปรายละเอียดทั้งหมดและ
 
 1132
 00:38:33,520 --> 00:38:36,560
-finalizing the ui but we have the
+กำลังสรุป ui แต่เรามี
 
 1133
 00:38:35,200 --> 00:38:38,320
-governance feature
+คุณสมบัติการกำกับดูแล
 
 1134
 00:38:36,560 --> 00:38:40,079
-so it will be somewhat similar to pogba
+ดังนั้นมันจะค่อนข้างคล้ายกับ polkadot
 
 1135
 00:38:38,320 --> 00:38:41,359
-or kusama but will be slightly more
+หรือ kusama แต่จะซับซ้อนมากกว่าเล็กน้อย
 
 1136
 00:38:40,079 --> 00:38:42,960
-complicated
+ 
 
 1137
 00:38:41,359 --> 00:38:44,480
-we have the hometown council which will
+เรามี honzon councilซึ่งจะ
 
 1138
 00:38:42,960 --> 00:38:45,680
-be one the one main engine for the
+เป็นคนหนึ่งที่จัดการ
 
 1139
 00:38:44,480 --> 00:38:48,160
