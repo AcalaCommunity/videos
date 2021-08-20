@@ -4552,439 +4552,439 @@ dex
 
 1139
 00:38:44,480 --> 00:38:48,160
-stable point protocol
+stable coin โปรโตคอล
 
 1140
 00:38:45,680 --> 00:38:50,320
-for the hallmark console so i managed
+สำหรับ homa councilฉันจึงจัดการ
 
 1141
 00:38:48,160 --> 00:38:53,280
-for the
+สำหรับ
 
 1142
 00:38:50,320 --> 00:38:54,320
-liquid staking vertical so as the elder
+liquid staking protocol สำหรับ ผู้ถือเก่า
 
 1143
 00:38:53,280 --> 00:38:56,320
-holders
+ 
 
 1144
 00:38:54,320 --> 00:38:57,760
-you will be able to participate the
+คุณจะสามารถเข้าร่วม
 
 1145
 00:38:56,320 --> 00:39:01,200
-homework console
+homa council
 
 1146
 00:38:57,760 --> 00:39:03,359
-by using your ldl to vote for um
+โดยใช้ ldot ของคุณเพื่อลงคะแนนให้ um
 
 1147
 00:39:01,200 --> 00:39:05,359
-as the sa holder holder you will be
+ในฐานะผู้ถือ acala คุณจะเป็น
 
 1148
 00:39:03,359 --> 00:39:07,119
-perfect able to participate the
+ผู้สามารถเข้าร่วมได้
 
 1149
 00:39:05,359 --> 00:39:09,599
-general counsel uh and the hong kong
+general council และ honzon
 
 1150
 00:39:07,119 --> 00:39:12,079
-council governors
+council
 
 1151
 00:39:09,599 --> 00:39:12,800
-so yes so those are still working for
+ใช่แล้ว พวกนั้นยังคงทำงานเพื่อหนทางต่างๆ
 
 1152
 00:39:12,079 --> 00:39:15,359
-ways so it's
+ดังนั้นมัน
 
 1153
 00:39:12,800 --> 00:39:16,640
-not empty but hopefully at later stage
+จึงไม่ว่างเปล่า แต่หวังว่าในตอนต่อไป
 
 1154
 00:39:15,359 --> 00:39:20,079
-we'll have much more thing
+เราจะมีอะไรอีกมากมาย
 
 1155
 00:39:16,640 --> 00:39:20,079
-in our test net to shoot
+บน test netของเรา
 
 1156
 00:39:20,800 --> 00:39:26,880
-so now um you have already
+ตอนนี้คุณก็มีแล้ว
 
 1157
 00:39:24,160 --> 00:39:30,000
-having the thoughts making your profiles
+มีความคิดที่ทำกำไรได้
 
 1158
 00:39:26,880 --> 00:39:31,839
-while you sleep what can i do with
+ในขณะที่คุณนอนหลับ
 
 1159
 00:39:30,000 --> 00:39:33,200
-what else can i do so another thing you
+สิ่งที่คุณทำได้
 
 1160
 00:39:31,839 --> 00:39:35,599
-can do is
+อีกอย่างคือ
 
 1161
 00:39:33,200 --> 00:39:37,040
-you as i show you i generate a bunch of
+ในขณะที่ฉันแสดงให้คุณเห็นฉันสร้าง ausd ออกมา
 
 1162
 00:39:35,599 --> 00:39:40,720
-aoc
+จำนวนมาก
 
 1163
 00:39:37,040 --> 00:39:43,839
-from my poker pc and then next thing
+จาก polkabtc ของฉันแล้วสิ่งต่อไป
 
 1164
 00:39:40,720 --> 00:39:43,839
-if i want to be
+ถ้าฉันอยาก
 
 1165
 00:39:45,839 --> 00:39:49,839
-increase my profit by taking some more
+เพิ่มกำไรของฉันโดยการรับความเสี่ยง
 
 1166
 00:39:48,320 --> 00:39:53,520
-risk i can transfer my
+มากขึ้นฉันสามารถโอน
 
 1167
 00:39:49,839 --> 00:39:56,800
-akala usd to the laminar network
+acala usd ของฉันไปยังเครือข่ายlaminar
 
 1168
 00:39:53,520 --> 00:40:02,000
-so let's just transfer to some account
+โดยโอนเข้าบัญชี
 
 1169
 00:39:56,800 --> 00:40:05,280
-so let's say how to transfer 2000 of it
+เอาเป็นว่าจะโอน 2000 ยังไง
 
 1170
 00:40:02,000 --> 00:40:07,599
-so let's do a question transfer
+มาทำการโอนข้ามเชนกัน
 
 1171
 00:40:05,280 --> 00:40:08,400
-from akala to the laminar so you can see
+จาก acala ถึง laminar เพื่อให้คุณเห็น
 
 1172
 00:40:07,599 --> 00:40:11,680
-the method is
+วิธีการคือ
 
 1173
 00:40:08,400 --> 00:40:13,040
-x token transfer to protein so this will
+x token โอนไปยัง parachain ดังนั้นสิ่งนี้จะ
 
 1174
 00:40:11,680 --> 00:40:16,880
-transfer the money to
+โอนเงินมาไป
 
 1175
 00:40:13,040 --> 00:40:17,440
-the laminar technique so this will be
+เมนเน็ต laminar นี่จะเป็น
 
 1176
 00:40:16,880 --> 00:40:20,240
-making
+การทำ
 
 1177
 00:40:17,440 --> 00:40:22,880
-a question transfer and this will take a
+การโอนข้ามเชนและสิ่งนี้จะใช้เวลา
 
 1178
 00:40:20,240 --> 00:40:24,960
-slightly bit more time so while this is
+เวลาเพิ่มขึ้นเล็กน้อยดังนั้นในขณะนี้
 
 1179
 00:40:22,880 --> 00:40:25,920
-transferring i'm going to quickly show
+ที่มันกำลังโอนอยู่ ฉันจะรีบโชว์บางอย่าง
 
 1180
 00:40:24,960 --> 00:40:28,480
-you uh
+ 
 
 1181
 00:40:25,920 --> 00:40:29,280
-on the laminar side so assuming the
+ด้านลามิเนตดังนั้นสมมติว่า
 
 1182
 00:40:28,480 --> 00:40:31,920
-transfer already
+โอนแล้ว
 
 1183
 00:40:29,280 --> 00:40:34,480
-says that i already got some asd and
+สมมติว่าฉันได้ ausd แล้ว
 
 1184
 00:40:31,920 --> 00:40:37,760
-then i will be able to
+แล้วฉันจะสามารถ
 
 1185
 00:40:34,480 --> 00:40:38,319
-do a swipe so this dilemma will allow
+ทำการเปลี่ยน เพื่อให้สิ่งนี้จะช่วยให้
 
 1186
 00:40:37,760 --> 00:40:40,560
-you to
+คุณได้
 
 1187
 00:40:38,319 --> 00:40:41,440
-do the trading with sensitive assets so
+ทำการซื้อขายด้วยสินทรัพย์ที่ละเอียดอ่อนดังนั้น
 
 1188
 00:40:40,560 --> 00:40:44,560
-there will be
+จะมี
 
 1189
 00:40:41,440 --> 00:40:45,040
-like for example forex assets exchange
+เช่นการแลกเปลี่ยนสินทรัพย์ forex
 
 1190
 00:40:44,560 --> 00:40:49,040
-or
+หรือ
 
 1191
 00:40:45,040 --> 00:40:51,920
-like other things like gold and oil etc
+เช่นเดียวกับสิ่งอื่น ๆ เช่นทองและน้ำมันเป็นต้น
 
 1192
 00:40:49,040 --> 00:40:53,119
-so let's say i want to buy some euro
+สมมติว่าฉันต้องการซื้อเงินยูโร
 
 1193
 00:40:51,920 --> 00:40:54,960
-maybe because
+อาจเป็นเพราะ
 
 1194
 00:40:53,119 --> 00:40:56,319
-well i'm going to travel to europe
+ฉันจะไปเที่ยวยุโรปแล้ว
 
 1195
 00:40:54,960 --> 00:40:58,240
-sometime
+บางที
 
 1196
 00:40:56,319 --> 00:41:00,720
-europe sometimes so maybe i want to have
+บางทีฉันอยากมี
 
 1197
 00:40:58,240 --> 00:41:04,880
-some euro
+เงินยูโร
 
 1198
 00:41:00,720 --> 00:41:08,400
-so so i can swap some aosd
+เลยแลก ausd บ้าง
 
 1199
 00:41:04,880 --> 00:41:11,520
-to the laminar euro
+สู่ยูโรลามินาร์
 
 1200
 00:41:08,400 --> 00:41:13,200
-and i also i also can do some margin
+และฉันก็สามารถทำมาร์จิ้นได้เช่นกัน
 
 1201
 00:41:11,520 --> 00:41:16,640
-trading so i can for example
+สำหรับการซื้อขาย ตัวอย่างเช่น
 
 1202
 00:41:13,200 --> 00:41:18,000
-um leverage trade bitcoin or level trade
+เลเวอเรจ เทรด bitcoin หรือ เลเวอเรจ เทรด
 
 1203
 00:41:16,640 --> 00:41:21,200
-ethereum or just do
+ethereum หรือเพียงแค่ทำ
 
 1204
 00:41:18,000 --> 00:41:25,680
-some my forex trading
+การซื้อขายฟอเร็กซ์ของฉัน
 
 1205
 00:41:21,200 --> 00:41:29,200
-so i can deposit the money into the um
+เพื่อให้ฉันสามารถฝากเงินเข้า um
 
 1206
 00:41:25,680 --> 00:41:33,040
-the margin pool and then
+the margin pool
 
 1207
 00:41:29,200 --> 00:41:36,880
-i can just say i can choose up to 20
+ฉันบอกได้เลยว่าฉันเลือกได้มากถึง 20
 
 1208
 00:41:33,040 --> 00:41:36,880
-times leverage in this case so
+เท่า เลเวอเรจ ในกรณีนี้ ดังนั้น
 
 1209
 00:41:37,040 --> 00:41:42,000
-to decide to do a margin trading
+เพื่อตัดสินใจซื้อขายมาร์จิ้น
 
 1210
 00:41:47,520 --> 00:41:50,880
-yeah so let's open the position i'll
+ใช่ มาเปิดตำแหน่งกันเถอะ ฉันจะ
 
 1211
 00:41:49,359 --> 00:41:54,000
-start getting the 20 times
+เริ่มที่ 20 เท่า
 
 1212
 00:41:50,880 --> 00:41:57,200
-exposure on the usbjpy trading video
+การเปิดรับการซื้อขาย usbjpy
 
 1213
 00:41:54,000 --> 00:41:59,520
-uh this so with the question transfer
+เอ่อ แบบนี้กับการโอนข้ามเชน
 
 1214
 00:41:57,200 --> 00:42:03,040
-show already success so
+ได้แสดงว่า ทำสำเร็จแล้ว
 
 1215
 00:41:59,520 --> 00:42:05,440
-let's check the events so you can see um
+มาดูเหตุการณ์กัน
 
 1216
 00:42:03,040 --> 00:42:06,079
-yep so we have the question token
+เราเลยต้องโอนโทเค็นข้ามเชน
 
 1217
 00:42:05,440 --> 00:42:09,280
-transferred
+ 
 
 1218
 00:42:06,079 --> 00:42:12,160
-here so you can see this is sending
+ที่นี่คุณจะเห็นว่ากำลังส่ง
 
 1219
 00:42:09,280 --> 00:42:13,599
-a horizontal relay message so from a
+ข้อความรีเลย์ ดังนั้น จาก 
 
 1220
 00:42:12,160 --> 00:42:16,640
-paragraph to project
+พาราเชน ถึง พาราเชน
 
 1221
 00:42:13,599 --> 00:42:20,480
-message uh relates through the
+ข้อความเอ่อเกี่ยวข้องกับ
 
 1222
 00:42:16,640 --> 00:42:23,119
-religion which is the roku
+รีเลย์เชน ซึ่งเป็นโรโคโค
 
 1223
 00:42:20,480 --> 00:42:24,880
-home fork of the roku in this case so on
+ของโรโคโคในกรณีนี้เป็นต้น
 
 1224
 00:42:23,119 --> 00:42:28,640
-the laminar side you can see
+ด้านลามิเนตที่คุณเห็น
 
 1225
 00:42:24,880 --> 00:42:32,240
-we have a deposit event
+เรามีงานฝาก
 
 1226
 00:42:28,640 --> 00:42:35,040
-should be this one so uh so 2000 asd is
+ควรเป็นอันนี้ดังนั้น uh ดังนั้น 2000 ausd คือ
 
 1227
 00:42:32,240 --> 00:42:37,839
-deposited into this account
+การฝากเข้าบัญชีนี้
 
 1228
 00:42:35,040 --> 00:42:39,200
-so this is basically um so the industry
+ดังนั้นนี่คือโดยทั่วไป อืมดังนั้น
 
 1229
 00:42:37,839 --> 00:42:42,160
-is basically
+โดยพื้นฐานแล้ว
 
 1230
 00:42:39,200 --> 00:42:42,640
-the equestrian aoc transfer between that
+การถ่ายโอนข้ามเชน usd ระหว่างนั้น
 
 1231
 00:42:42,160 --> 00:42:46,400
-color
+acala
 
 1232
 00:42:42,640 --> 00:42:49,520
-and lamina yeah
+และลามิน่า
 
 1233
 00:42:46,400 --> 00:42:50,480
-so that's all of the demo i'm going to
+นั่นคือทั้งหมดของการสาธิตที่ฉันจะ
 
 1234
 00:42:49,520 --> 00:42:54,480
-show you
+แสดงให้คุณเห็น
 
 1235
 00:42:50,480 --> 00:42:54,480
-so um just last but not least
+อืม สุดท้ายแต่ไม่ท้ายสุด
 
 1236
 00:42:55,040 --> 00:43:01,200
-we are also working on the xcm
+เรากำลังทำงานกับ xcm
 
 1237
 00:42:59,119 --> 00:43:02,160
-functional token implementation so this
+เกี่ยวกับการใช้โทเค็นการทำงาน สิ่งนี้
 
 1238
 00:43:01,200 --> 00:43:04,400
-will allow
+จะอนุญาต
 
 1239
 00:43:02,160 --> 00:43:07,280
-everything by including other
+ทุกอย่างรวมทั้งอื่นๆ
 
 1240
 00:43:04,400 --> 00:43:07,280
-powertrains to
+พาราเชนถึง
 
 1241
 00:43:07,440 --> 00:43:11,680
-more easily just compose compose vote
+ง่ายกว่าแค่เขียนโหวต
 
 1242
 00:43:10,480 --> 00:43:14,319
-with each other
+ซึ่งกันและกัน
 
 1243
 00:43:11,680 --> 00:43:16,400
-so i've like well we have created open
+เราได้สร้าง
 
 1244
 00:43:14,319 --> 00:43:18,640
-runner module library and created some
+open runtime module libraryและสร้างบางส่วน
 
 1245
 00:43:16,400 --> 00:43:19,839
-of the question token transfer asset
+ของสินทรัพย์การโอนโทเค็นข้ามเชน
 
 1246
 00:43:18,640 --> 00:43:22,400
-which is kind of used by
+ซึ่งเป็นแบบที่ใช้โดย
 
 1247
 00:43:19,839 --> 00:43:23,280
-quite a few project things including
+บางโครงการรวมถึง
 
 1248
 00:43:22,400 --> 00:43:26,560
@@ -4992,59 +4992,59 @@ platinum
 
 1249
 00:43:23,280 --> 00:43:29,119
-vala and a few others
+vala และอีกสองสามแห่ง
 
 1250
 00:43:26,560 --> 00:43:30,480
-um so to implement the question transfer
+อืมเพื่อดำเนินการโอนข้ามเชน
 
 1251
 00:43:29,119 --> 00:43:33,760
-so i'm also creating
+ฉันก็เลยสร้าง
 
 1252
 00:43:30,480 --> 00:43:36,880
-some implementation guides and um
+คู่มือการนำไปใช้และ um
 
 1253
 00:43:33,760 --> 00:43:37,680
-some implementation plans um to in the
+แผนการดำเนินงานบางอย่างใน
 
 1254
 00:43:36,880 --> 00:43:41,280
-future to
+อนาคตสู่
 
 1255
 00:43:37,680 --> 00:43:43,040
-further help everyone to implement the
+เพิ่มเติมช่วยให้ทุกคนดำเนินการ
 
 1256
 00:43:41,280 --> 00:43:45,440
-question as a transfer
+crosschain เป็นการโอนเงิน
 
 1257
 00:43:43,040 --> 00:43:46,319
-so this will allow everyone to be able
+จึงจะทำให้ทุกคนสามารถ
 
 1258
 00:43:45,440 --> 00:43:48,480
-to compose
+เขียน
 
 1259
 00:43:46,319 --> 00:43:49,599
-with each other more easily just by
+กันได้ง่ายขึ้นเพียงแค่
 
 1260
 00:43:48,480 --> 00:43:53,040
-integrating
+บูรณาการ
 
 1261
 00:43:49,599 --> 00:43:56,400
-our library so that's all i have
+library ของเรานั่นคือทั้งหมดที่ฉันมี
 
 1262
 00:43:53,040 --> 00:43:59,760
-for you today um
+สำหรับคุณวันนี้
 
 1263
 00:43:56,400 --> 00:44:02,800
