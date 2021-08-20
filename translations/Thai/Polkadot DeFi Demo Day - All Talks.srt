@@ -5068,95 +5068,95 @@ centrifuge คือ
 
 1268
 00:44:10,079 --> 00:44:14,800
-um like a business that wants to finance
+อืมเหมือนธุรกิจที่ต้องการเงินทุน
 
 1269
 00:44:13,520 --> 00:44:17,040
-their revenue to come
+ที่ต้องการหารายได้
 
 1270
 00:44:14,800 --> 00:44:18,480
-and use defy as a source of liquidity
+และใช้ defi เป็นแหล่งสภาพคล่อง
 
 1271
 00:44:17,040 --> 00:44:22,000
-instead of going to
+แทนที่จะไป
 
 1272
 00:44:18,480 --> 00:44:23,599
-to a bank um so the most um
+ไปที่ธนาคาร วิธี
 
 1273
 00:44:22,000 --> 00:44:25,520
-the simplest way to describe it is we
+วิธีอธิบายที่ง่ายที่สุดคือเรา
 
 1274
 00:44:23,599 --> 00:44:28,079
-allow sort of all these different
+อนุญาตให้จัดเรียงสินทรัพย์
 
 1275
 00:44:25,520 --> 00:44:29,760
-non-fungible real-world assets to be put
+ในโลกแห่งความเป็นจริงที่ไม่สามารถเปลี่ยนได้ ทั้งหมดเหล่านี้
 
 1276
 00:44:28,079 --> 00:44:31,119
-into different kinds of pools so like
+ลงในพูลประเภทต่าง ๆ เช่น
 
 1277
 00:44:29,760 --> 00:44:35,839
-say we have
+เรามี
 
 1278
 00:44:31,119 --> 00:44:38,079
-uh houses we our users can create a pool
+บ้านที่ผู้ใช้ของเราสามารถสร้างพูลได้
 
 1279
 00:44:35,839 --> 00:44:39,119
-where then investors can invest we pull
+ที่นักลงทุนสามารถลงทุน ที่เราดึง
 
 1280
 00:44:38,079 --> 00:44:41,280
-that money and then
+เงินนั้นแล้ว
 
 1281
 00:44:39,119 --> 00:44:42,880
-sort of different borrowers can borrow
+ผู้กู้ประเภทต่าง ๆ สามารถยืม
 
 1282
 00:44:41,280 --> 00:44:44,720
-liquidity from that pool
+สภาพคล่องได้จากพูลนั้น
 
 1283
 00:44:42,880 --> 00:44:46,319
-by depositing sort of a non-fungible
+โดยการฝากประเภทที่ไม่สามารถเปลี่ยนได้
 
 1284
 00:44:44,720 --> 00:44:49,440
-token that represents
+โทเค็นที่แสดงถึง
 
 1285
 00:44:46,319 --> 00:44:51,040
-an asset into that pool
+ความเป็นสินทรัพย์ลงในพูลนั้น
 
 1286
 00:44:49,440 --> 00:44:52,720
-a bit about the history of centrifuge
+ประวัติเล็กน้อยเกี่ยวกับcentrifuge
 
 1287
 00:44:51,040 --> 00:44:54,640
-we've lost we've started sort of
+เราเริ่มที่จะสร้าง
 
 1288
 00:44:52,720 --> 00:44:55,040
-building in this like d5 ecosystem
+บนระบบ คล้ายระบบนิเวศ defiนี้
 
 1289
 00:44:54,640 --> 00:44:56,640
-around
+เกือบๆ
 
 1290
 00:44:55,040 --> 00:44:58,560
-three almost three years ago actually
+สามปี ที่แล้วจริงๆ
 
 1291
 00:44:56,640 --> 00:45:00,240
