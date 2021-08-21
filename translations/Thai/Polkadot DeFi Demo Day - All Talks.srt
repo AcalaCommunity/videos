@@ -5180,603 +5180,603 @@ centrifuge คือ
 
 1296
 00:45:05,040 --> 00:45:08,720
-sort of interact
+ชนิดของการโต้ตอบ
 
 1297
 00:45:05,920 --> 00:45:09,359
-in this system and so that's why we went
+ในระบบนี้และนั่นคือเหตุผลที่เราไป
 
 1298
 00:45:08,720 --> 00:45:12,800
-with
+กับ
 
 1299
 00:45:09,359 --> 00:45:15,040
-um sort of this idea of bringing
+อืม ความคิดแบบนี้ที่จะนำมา
 
 1300
 00:45:12,800 --> 00:45:16,560
-new assets to d5 allowing new new
+สินทรัพย์ใหม่ไปยัง d5 อนุญาตใหม่
 
 1301
 00:45:15,040 --> 00:45:18,720
-liquidity allowing
+สภาพคล่อง
 
 1302
 00:45:16,560 --> 00:45:20,319
-diversity uh different kinds of asset
+ความหลากหลาย สินทรัพย์ประเภทต่างๆ
 
 1303
 00:45:18,720 --> 00:45:21,119
-classes that you don't don't have today
+คลาสที่คุณไม่มีวันนี้
 
 1304
 00:45:20,319 --> 00:45:24,560
-and so
+แล้วก็
 
 1305
 00:45:21,119 --> 00:45:26,640
-we actually launched on ethereum
+เราเปิดตัวจริงบน ethereum
 
 1306
 00:45:24,560 --> 00:45:27,680
-last year um sort of a product that we
+ปีที่แล้ว อืม ประเภทของผลิตภัณฑ์ที่เรา
 
 1307
 00:45:26,640 --> 00:45:31,119
-call tin lake
+เรียก ทิน เลค
 
 1308
 00:45:27,680 --> 00:45:33,839
-which allows you to invest in
+ที่ให้คุณลงทุนใน
 
 1309
 00:45:31,119 --> 00:45:34,319
-in these different assets and i'll just
+ในทรัพย์สินที่แตกต่างกันเหล่านี้และฉันจะ
 
 1310
 00:45:33,839 --> 00:45:35,839
-give you
+ให้คุณ
 
 1311
 00:45:34,319 --> 00:45:37,760
-a quick overview of what this looks like
+ภาพรวมคร่าวๆ ว่าหน้าตาเป็นอย่างไร
 
 1312
 00:45:35,839 --> 00:45:39,280
-but we have what we call asset
+แต่เรามีสิ่งที่เราเรียกว่าสินทรัพย์
 
 1313
 00:45:37,760 --> 00:45:42,480
-originators
+ผู้ริเริ่ม
 
 1314
 00:45:39,280 --> 00:45:43,920
-who who create these different pools we
+ผู้ทรงสร้างสระน้ำที่แตกต่างกันเหล่านี้เรา
 
 1315
 00:45:42,480 --> 00:45:45,280
-have for example as i mentioned real
+มีตัวอย่างที่ฉันพูดถึงของจริง
 
 1316
 00:45:43,920 --> 00:45:49,119
-estate bridge loans
+เงินกู้สะพานอสังหาริมทรัพย์
 
 1317
 00:45:45,280 --> 00:45:52,800
-so this is a pool of uh 1.6 million die
+ดังนั้นนี่คือพูล เอ่อ 1.6 ล้านตาย
 
 1318
 00:45:49,119 --> 00:45:54,319
-uh with um about a five
+ประมาณห้า
 
 1319
 00:45:52,800 --> 00:45:56,000
-where i get a five percent interest rate
+ที่ฉันได้รับอัตราดอกเบี้ยห้าเปอร์เซ็นต์
 
 1320
 00:45:54,319 --> 00:45:58,839
-if i invest in this pool
+ถ้าฉันลงทุนในพูลนี้
 
 1321
 00:45:56,000 --> 00:46:00,319
-and i can see sort of there's there's
+และฉันเห็นว่ามี
 
 1322
 00:45:58,839 --> 00:46:01,920
-the
+ที่เป็น
 
 1323
 00:46:00,319 --> 00:46:03,680
-five different loans ongoing at the
+ห้าสินเชื่อที่แตกต่างกันอย่างต่อเนื่องที่
 
 1324
 00:46:01,920 --> 00:46:05,200
-moment they're paying different interest
+ในขณะที่พวกเขาจ่ายดอกเบี้ยต่างกัน
 
 1325
 00:46:03,680 --> 00:46:06,640
-rates they have different maturity dates
+อัตราที่มีวันครบกำหนดต่างกัน
 
 1326
 00:46:05,200 --> 00:46:08,319
-different amounts and i can see sort of
+จำนวนที่แตกต่างกันและฉันสามารถเห็นการเรียงลำดับของ
 
 1327
 00:46:06,640 --> 00:46:11,680
-all of this information is
+ข้อมูลทั้งหมดนี้คือ
 
 1328
 00:46:08,319 --> 00:46:14,560
-is on chain as actually i'm
+อยู่ในห่วงโซ่เหมือนที่จริงฉัน
 
 1329
 00:46:11,680 --> 00:46:16,400
-a bit of a tin lake power user myself
+ผู้ใช้พลังของทินเลคตัวเอง
 
 1330
 00:46:14,560 --> 00:46:17,520
-and so on this wallet here that i'm
+และกระเป๋าเงินใบนี้ที่ฉัน
 
 1331
 00:46:16,400 --> 00:46:19,200
-using to demo
+ใช้สาธิต
 
 1332
 00:46:17,520 --> 00:46:20,640
-um i have investments in these different
+อืม ฉันมีเงินลงทุนในส่วนต่างๆ เหล่านี้
 
 1333
 00:46:19,200 --> 00:46:21,200
-tokens and all of these are earning an
+โทเค็นและทั้งหมดนี้เป็นรายได้
 
 1334
 00:46:20,640 --> 00:46:23,520
-interest
+ดอกเบี้ย
 
 1335
 00:46:21,200 --> 00:46:25,599
-on um these different kinds of real
+กับของจริงที่แตกต่างกันเหล่านี้
 
 1336
 00:46:23,520 --> 00:46:27,599
-world assets right and so i get this
+ทรัพย์สินของโลกถูกต้องและฉันก็เข้าใจ
 
 1337
 00:46:25,599 --> 00:46:30,079
-i get to use defy with assets that are
+ฉันได้ใช้ defi กับทรัพย์สินที่เป็น
 
 1338
 00:46:27,599 --> 00:46:32,800
-completely uncorrelated extremely stable
+ไม่สัมพันธ์กันอย่างสมบูรณ์ เสถียรอย่างยิ่ง
 
 1339
 00:46:30,079 --> 00:46:34,400
-and give me this sort of um that all the
+และให้ฉันแบบนี้ว่าทั้งหมด
 
 1340
 00:46:32,800 --> 00:46:36,960
-advantages that thief i have with
+ข้อดีที่โจรมีด้วย
 
 1341
 00:46:34,400 --> 00:46:38,079
-with the security the stability that um
+กับความมั่นคงมั่นคงที่เอิ่ม
 
 1342
 00:46:36,960 --> 00:46:42,400
-some of the
+ว่าเป็นหนึ่งใน
 
 1343
 00:46:38,079 --> 00:46:43,359
-safer asset classes have um coming back
+คลาสสินทรัพย์ปลอดภัยกลับมาแล้ว
 
 1344
 00:46:42,400 --> 00:46:45,200
-to the slides
+ไปที่สไลด์
 
 1345
 00:46:43,359 --> 00:46:48,079
-and sort of talking about why why we're
+และกำลังพูดถึงว่าทำไมเราถึง
 
 1346
 00:46:45,200 --> 00:46:48,079
-talking about this at the
+พูดถึงเรื่องนี้ที่
 
 1347
 00:46:48,319 --> 00:46:53,280
-um demo day um well sort of building and
+อืม วันสาธิต อืม ประเภทของอาคารและ
 
 1348
 00:46:51,920 --> 00:46:54,319
-building all this we knew from very
+การสร้างทั้งหมดนี้เรารู้จากมาก
 
 1349
 00:46:53,280 --> 00:46:56,000
-early on that like
+ในช่วงต้นนั้นเช่น
 
 1350
 00:46:54,319 --> 00:46:57,760
-ethereum is not going to give us the
+ethereum จะไม่ให้
 
 1351
 00:46:56,000 --> 00:46:59,760
-scalability that we want
+scalability ที่เราต้องการ
 
 1352
 00:46:57,760 --> 00:47:01,520
-but we also knew well we need to
+แต่เราก็รู้ดีว่าเราจำเป็นต้อง
 
 1353
 00:46:59,760 --> 00:47:03,440
-integrate we need to interface with all
+บูรณาการเราจำเป็นต้องติดต่อกับทุกคน
 
 1354
 00:47:01,520 --> 00:47:04,240
-these other defect protocols and maker
+โปรโตคอลและผู้ผลิตที่มีข้อบกพร่องอื่น ๆ เหล่านี้
 
 1355
 00:47:03,440 --> 00:47:06,000
-and ave are
+และ ave เป็น
 
 1356
 00:47:04,240 --> 00:47:08,160
-our projects we're actually working very
+โครงการของเราที่เรากำลังดำเนินการอยู่จริงๆ
 
 1357
 00:47:06,000 --> 00:47:11,680
-closely with already
+อย่างใกล้ชิดแล้ว
 
 1358
 00:47:08,160 --> 00:47:13,599
-and so so for that reason when we um
+และด้วยเหตุนั้นเมื่อเรา um
 
 1359
 00:47:11,680 --> 00:47:14,960
-when we think about centrifuges we've
+เมื่อเรานึกถึงเครื่องหมุนเหวี่ยง เราก็จะได้
 
 1360
 00:47:13,599 --> 00:47:17,040
-been for
+ได้รับสำหรับ
 
 1361
 00:47:14,960 --> 00:47:19,280
-for a while now thinking that okay well
+สักพักก็คิดว่าโอเค
 
 1362
 00:47:17,040 --> 00:47:22,000
-we we don't exist in isolation we don't
+เราไม่ได้อยู่อย่างโดดเดี่ยว เราไม่มี
 
 1363
 00:47:19,280 --> 00:47:23,839
-just exist on ethereum we really exist
+แค่มีตัวตนบน ethereum เรามีอยู่จริง
 
 1364
 00:47:22,000 --> 00:47:26,000
-um to allow what we call our acid
+อืม ยอมให้สิ่งที่เราเรียกว่ากรดของเรา
 
 1365
 00:47:23,839 --> 00:47:28,480
-originators to bridge these acids to
+ผู้สร้างสะพานเชื่อมกรดเหล่านี้เข้ากับ
 
 1366
 00:47:26,000 --> 00:47:30,640
-to wherever necessary right so and for
+ไปทุกที่ที่จำเป็นและเพื่อ
 
 1367
 00:47:28,480 --> 00:47:33,440
-example as collateral into akala
+ตัวอย่างเป็นหลักทรัพย์ค้ำประกันใน akala
 
 1368
 00:47:30,640 --> 00:47:34,800
-uh putting it into a compound or a maker
+เอ่อ เอาไปใส่ในคอมหรือผู้ผลิต
 
 1369
 00:47:33,440 --> 00:47:38,000
-um and so
+อืมและดังนั้น
 
 1370
 00:47:34,800 --> 00:47:39,520
-sort of um what
+อืม อะไรนะ
 
 1371
 00:47:38,000 --> 00:47:41,200
-what is really important here right is
+ที่สำคัญตรงนี้คือ
 
 1372
 00:47:39,520 --> 00:47:42,880
-this part here in the middle cross chain
+ส่วนนี้อยู่ในห่วงโซ่กากบาทตรงกลาง
 
 1373
 00:47:41,200 --> 00:47:44,880
-messaging in bridging
+ข้อความในการเชื่อมโยง
 
 1374
 00:47:42,880 --> 00:47:48,000
-and sort of to come back a bit about
+และจะกลับมาอีกสักหน่อยเกี่ยวกับ
 
 1375
 00:47:44,880 --> 00:47:51,359
-like where d5 has come from and like why
+ชอบที่ d5 มาจากไหนและชอบทำไม
 
 1376
 00:47:48,000 --> 00:47:52,559
-ethereum has seen this um this insane
+ethereum ได้เห็นสิ่งนี้ อืม บ้าไปแล้ว
 
 1377
 00:47:51,359 --> 00:47:55,839
-amount of activity
+จำนวนกิจกรรม
 
 1378
 00:47:52,559 --> 00:47:57,680
-is actually i think it's one of the this
+ที่จริงฉันคิดว่ามันเป็นหนึ่งในสิ่งนี้
 
 1379
 00:47:55,839 --> 00:47:59,200
-the smartest things this ecosystem could
+สิ่งที่ฉลาดที่สุดที่ระบบนิเวศนี้ทำได้
 
 1380
 00:47:57,680 --> 00:48:00,640
-have done is sort of standardize around
+ได้ทำเป็นมาตรฐานรอบ ๆ
 
 1381
 00:47:59,200 --> 00:48:03,040
-this erc20 token
+โทเค็น erc20 นี้
 
 1382
 00:48:00,640 --> 00:48:04,559
-we've created a standard that is
+เราได้สร้างมาตรฐานที่
 
 1383
 00:48:03,040 --> 00:48:07,839
-extremely easy to use
+ใช้งานง่ายมาก
 
 1384
 00:48:04,559 --> 00:48:09,760
-and that actually allows you to combine
+และนั่นทำให้คุณสามารถรวมเข้าด้วยกันได้จริง
 
 1385
 00:48:07,839 --> 00:48:11,359
-arbitrary protocols right a lending
+โปรโตคอลตามอำเภอใจในการให้กู้ยืม
 
 1386
 00:48:09,760 --> 00:48:12,720
-protocol with a money market with a
+โปรโตคอลกับตลาดเงินด้วย
 
 1387
 00:48:11,359 --> 00:48:13,599
-decentralized exchange with an
+การแลกเปลี่ยนแบบกระจายอำนาจกับ
 
 1388
 00:48:12,720 --> 00:48:15,760
-aggregator
+ผู้รวบรวม
 
 1389
 00:48:13,599 --> 00:48:17,280
-and then you can create wrap tokens and
+จากนั้นคุณสามารถสร้างโทเค็นการห่อและ
 
 1390
 00:48:15,760 --> 00:48:18,480
-put them into liquidity pools and get
+นำไปรวมไว้ในกลุ่มสภาพคล่องและรับ
 
 1391
 00:48:17,280 --> 00:48:20,720
-more tokens and
+โทเค็นมากขึ้นและ
 
 1392
 00:48:18,480 --> 00:48:21,760
-all of that is like around this very uh
+ทั่วๆ ไปก็ประมาณนี้
 
 1393
 00:48:20,720 --> 00:48:24,400
-basic
+ขั้นพื้นฐาน
 
 1394
 00:48:21,760 --> 00:48:25,280
-um standard it's not perfect but it
+อืม มาตรฐาน มันไม่สมบูรณ์แบบแต่มัน
 
 1395
 00:48:24,400 --> 00:48:27,760
-works pretty
+ทำงาน
 
 1396
 00:48:25,280 --> 00:48:29,200
-pretty damn well i would say um so
+ได้ดี ฉันบอกแบบนั้น
 
 1397
 00:48:27,760 --> 00:48:32,400
-thinking about polka dot
+คิดถึง polka dot
 
 1398
 00:48:29,200 --> 00:48:34,640
-um well it's
+อืม มัน
 
 1399
 00:48:32,400 --> 00:48:36,240
-it's slightly more complicated right but
+มันซับซ้อนกว่าเล็กน้อยใช่มั้ย
 
 1400
 00:48:34,640 --> 00:48:39,680
-in in the essence we still
+ในสาระสำคัญเรายังคง
 
 1401
 00:48:36,240 --> 00:48:41,520
-i think have the tools and it's a it's
+ฉันคิดว่ามีเครื่องมือและมันเป็น
 
 1402
 00:48:39,680 --> 00:48:43,520
-sort of in our
+ในแบบของเรา
 
 1403
 00:48:41,520 --> 00:48:44,640
-um in our best interest and i want to
+อืมเพื่อประโยชน์สูงสุดของเราและฉันต้องการ
 
 1404
 00:48:43,520 --> 00:48:47,119
-talk about us
+พูดคุยเกี่ยวกับเรา
 
 1405
 00:48:44,640 --> 00:48:48,800
-i mean all of us we've been demoing here
+ฉันหมายถึงพวกเราทุกคนได้รับการสาธิตที่นี่
 
 1406
 00:48:47,119 --> 00:48:50,559
-everyone who's building on polkadot
+ทุกคนที่กำลังสร้างบน polkadot
 
 1407
 00:48:48,800 --> 00:48:52,000
-to sort of think about how do we build
+ให้คิดว่าเราจะสร้างอย่างไร
 
 1408
 00:48:50,559 --> 00:48:54,480
-this interoperability
+การทำงานร่วมกันนี้
 
 1409
 00:48:52,000 --> 00:48:56,079
-into polkadot as an ecosystem from the
+บน polkadot เป็นระบบนิเวศจาก
 
 1410
 00:48:54,480 --> 00:48:56,960
-very start right so we don't have to
+เริ่มต้นให้ดีจะได้ไม่ต้อง
 
 1411
 00:48:56,079 --> 00:48:59,440
-have these
+มีสิ่งเหล่านี้
 
 1412
 00:48:56,960 --> 00:49:00,640
-thousands of different adapters and so
+อแดปเตอร์หลายพันตัวและอื่นๆ
 
 1413
 00:48:59,440 --> 00:49:02,720
-um what's
+อืม อะไรนะ
 
 1414
 00:49:00,640 --> 00:49:04,480
-what miguel will talk about a bit about
+Miguel จะพูดถึงอะไรสักหน่อย
 
 1415
 00:49:02,720 --> 00:49:07,839
-next is sort of we started this
+ต่อไปคือการที่เราเริ่มต้นสิ่งนี้
 
 1416
 00:49:04,480 --> 00:49:09,280
-um we started another test net
+อืม เราเริ่มเน็ตทดสอบอีกแล้ว
 
 1417
 00:49:07,839 --> 00:49:11,119
-that we want to talk a bit and share
+ที่เราอยากพูดคุยกันสักนิด
 
 1418
 00:49:09,280 --> 00:49:12,720
-about to help
+ที่จะช่วย
 
 1419
 00:49:11,119 --> 00:49:14,400
-people that are building on people but
+คนที่สร้างบนคนแต่
 
 1420
 00:49:12,720 --> 00:49:16,640
-already from a very early
+ตั้งแต่เช้าตรู่
 
 1421
 00:49:14,400 --> 00:49:18,319
-point in time to start thinking about
+ชี้เวลาเพื่อเริ่มคิดเกี่ยวกับ
 
 1422
 00:49:16,640 --> 00:49:19,200
-integrating and i think it's great that
+การบูรณาการและฉันคิดว่ามันเยี่ยมมากที่
 
 1423
 00:49:18,319 --> 00:49:22,400
-akala for example
+akala ตัวอย่างเช่น
 
 1424
 00:49:19,200 --> 00:49:24,240
-showed how they used uh hoga btc
+แสดงให้เห็นว่าพวกเขาใช้ hoga btc
 
 1425
 00:49:22,400 --> 00:49:26,079
-as collateral to mint as some other
+เพื่อเป็นหลักประกันในการสะระแหน่เหมือนอย่างอื่น
 
 1426
 00:49:24,240 --> 00:49:30,240
-stable point right so how do we
+มั่นคงตรงจุด แล้วเราจะทำเช่นไร
 
 1427
 00:49:26,079 --> 00:49:32,559
-build that and um so maybe i'll leave it
+สร้างสิ่งนั้นและอืมบางทีฉันจะทิ้งมันไว้
 
 1428
 00:49:30,240 --> 00:49:35,440
-to miguel to introduce cha-cha-cha on
+เพื่อ Miguel แนะนำต่อไป
 
 1429
 00:49:32,559 --> 00:49:35,440
-what we're doing with that
+เรากำลังทำอะไรกับสิ่งนั้น
 
 1430
 00:49:35,520 --> 00:49:45,839
-thank you um let me share my screen now
+ขอบคุณ อืม ให้ฉันแชร์หน้าจอของฉันตอนนี้
 
 1431
 00:49:39,480 --> 00:49:45,839
-yeah here
+ใช่ที่นี่
 
 1432
 00:49:51,040 --> 00:50:00,960
-all right um oops that's not the one
+เอาล่ะ อืม อุ๊ปส์ ที่ไม่ใช่คนเดียว
 
 1433
 00:49:57,920 --> 00:50:00,960
-right can you see my screen
+คุณเห็นหน้าจอของฉันไหม
 
 1434
 00:50:01,359 --> 00:50:06,000
-yep yep awesome thank you yeah so
+ขอบคุณค่ะ
 
 1435
 00:50:04,240 --> 00:50:07,760
-following a look at this presentation i
+หลังจากดูการนำเสนอนี้แล้ว ฉัน
 
 1436
 00:50:06,000 --> 00:50:08,640
-think it's a good segue to introduce cha
+คิดว่าเป็นภาคต่อที่ดีที่จะแนะนำ
 
 1437
 00:50:07,760 --> 00:50:12,319
-cha cha
+ต่อไป
 
 1438
 00:50:08,640 --> 00:50:12,960
-um so chad chai is a rococo based relay
+chad chai เป็นการสืบทอดแบบ rococo
 
 1439
 00:50:12,319 --> 00:50:15,760
-chain
+เชน
 
 1440
 00:50:12,960 --> 00:50:17,599
-uh test net and when we were you know
+เอ่อ เทาเน็ตและเมื่อเรารู้จักกันแล้ว
 
 1441
 00:50:15,760 --> 00:50:19,200
-initially testing on our centrifuge
+เริ่มการทดสอบกับ centrifuge ของเรา
 
 1442
 00:50:17,599 --> 00:50:22,000
-chain how to convert our
+เชนวิธีการแปลงของเรา
 
 1443
 00:50:19,200 --> 00:50:24,240
-our chain to a para chain uh using
+เชนของเรากับพาราเชน เอ่อ ใช้
 
 1444
 00:50:22,000 --> 00:50:25,520
-cumulus we realized that there might be
+cumulus เราตระหนักว่าอาจมี
 
 1445
 00:50:24,240 --> 00:50:28,559
-some other usefulness
+ประโยชน์อื่นๆ
 
 1446
 00:50:25,520 --> 00:50:30,079
@@ -13792,331 +13792,331 @@ this whole um journey for ethereum and i
 
 3449
 02:06:13,360 --> 02:06:17,280
-think we can learn as like the polka dot
+คิดว่าเราสามารถเรียนรู้ได้เหมือนpolka dot
 
 3450
 02:06:15,440 --> 02:06:18,800
-community we can learn a lot from that
+ชุมชนเราสามารถเรียนรู้ได้มากมายจากสิ่งนั้น
 
 3451
 02:06:17,280 --> 02:06:20,800
-i think the thing we can learn from it
+ฉันคิดว่าสิ่งที่เราเรียนรู้ได้จากมัน
 
 3452
 02:06:18,800 --> 02:06:21,840
-and where we can make sure that we don't
+และที่ใดที่เราจะแน่ใจได้ว่าเราไม่ทำ
 
 3453
 02:06:20,800 --> 02:06:24,239
-go through this long
+โดยใช้เวลานาน
 
 3454
 02:06:21,840 --> 02:06:26,320
-long and slow like ramp up phase before
+ยาวและช้าเหมือนขึ้นเฟสก่อน
 
 3455
 02:06:24,239 --> 02:06:29,119
-if you get the hockey stick right
+ถ้าคุณได้ไม้ฮอกกี้ถูกต้อง
 
 3456
 02:06:26,320 --> 02:06:30,480
-um is we we make sure we actually can
+เอ่อคือเรามั่นใจว่าเราทำได้จริงๆ
 
 3457
 02:06:29,119 --> 02:06:31,920
-standardize around something and
+สร้างมาตรฐานให้กับบางสิ่งและ
 
 3458
 02:06:30,480 --> 02:06:32,960
-actually collaborate from very early on
+จริง ๆ แล้วร่วมมือกันตั้งแต่แรกเริ่ม
 
 3459
 02:06:31,920 --> 02:06:33,520
-because that's always something the
+เพราะนั่นคือสิ่งที่
 
 3460
 02:06:32,960 --> 02:06:36,159
-project
+โครงการ
 
 3461
 02:06:33,520 --> 02:06:36,719
-that i define theorem profited hugely of
+ที่ฉันกำหนดทฤษฎีบทได้กำไรมหาศาล
 
 3462
 02:06:36,159 --> 02:06:38,800
-right
+ใช่ไหม
 
 3463
 02:06:36,719 --> 02:06:40,239
-and then we can look at um like all
+แล้วเราก็มองดู อืม
 
 3464
 02:06:38,800 --> 02:06:41,599
-these other developments that are
+การพัฒนาอื่น ๆ เหล่านี้ทั้งหมดที่
 
 3465
 02:06:40,239 --> 02:06:42,840
-happening ethereum will have like so
+ethereum ที่เกิดขึ้นจะมีแบบนี้
 
 3466
 02:06:41,599 --> 02:06:45,920
-much of the
+ส่วนมากของ
 
 3467
 02:06:42,840 --> 02:06:46,320
-necessary pieces already figured out
+ชิ้นส่วนที่จำเป็นได้ถูกสร้างแล้ว
 
 3468
 02:06:45,920 --> 02:06:48,000
-that
+นั่น
 
 3469
 02:06:46,320 --> 02:06:49,360
-just didn't exist like how long did it
+แค่ไม่มีอยู่เหมือนใช้เวลานานเท่าไหร่
 
 3470
 02:06:48,000 --> 02:06:49,840
-take for the first stable coin to go
+ในการใช้งาน stablecoin เหรียญแรก
 
 3471
 02:06:49,360 --> 02:06:51,920
-live
+ 
 
 3472
 02:06:49,840 --> 02:06:53,440
-how long did it take for the second one
+ครั้งที่สองใช้เวลานานเท่าไหร่
 
 3473
 02:06:51,920 --> 02:06:54,880
-um how long did it take for the first
+อืมม ครั้งแรกนานแค่ไหน
 
 3474
 02:06:53,440 --> 02:06:56,960
-amm to go live
+ในการเริ่มใช้งาน
 
 3475
 02:06:54,880 --> 02:06:59,119
-and so like we're starting with like a
+และอย่างที่เราเริ่มด้วย เช่น a
 
 3476
 02:06:56,960 --> 02:06:59,760
-big a big head start here right and so i
+การเริ่มต้นที่ใหญ่เริม่ต้นที่นี่และดังนั้นฉัน
 
 3477
 02:06:59,119 --> 02:07:01,840
-think that
+คิดว่า
 
 3478
 02:06:59,760 --> 02:07:04,719
-that can be something that we focus on
+ที่สามารถเป็นสิ่งที่เรามุ่งเน้น
 
 3479
 02:07:01,840 --> 02:07:06,800
-and sort of bootstrap this ecosystem
+และการบูตสแตรปของระบบนิเวศนี้
 
 3480
 02:07:04,719 --> 02:07:07,840
-yeah yeah i definitely agree that
+ใช่ ใช่ ฉันเห็นด้วยอย่างยิ่งว่า
 
 3481
 02:07:06,800 --> 02:07:10,400
-ethereum has
+ethereum มี
 
 3482
 02:07:07,840 --> 02:07:11,760
-paved the way for other dfi ecosystems
+ปูทางไปสู่ระบบนิเวศ dfi อื่นๆ
 
 3483
 02:07:10,400 --> 02:07:14,880
-kind of building the
+ชนิดของการสร้าง
 
 3484
 02:07:11,760 --> 02:07:16,639
-the key infrastructure pieces um
+ชิ้นส่วนโครงสร้างพื้นฐานที่สำคัญ um
 
 3485
 02:07:14,880 --> 02:07:18,639
-and then everyone can learn from that
+แล้วทุกคนก็สามารถเรียนรู้จากสิ่งนั้นได้
 
 3486
 02:07:16,639 --> 02:07:21,199
-and and improve hopefully
+และปรับปรุงอย่างมีความหวัง
 
 3487
 02:07:18,639 --> 02:07:23,679
-um so is there a like something like a
+อืมมีบางอย่างเช่น a
 
 3488
 02:07:21,199 --> 02:07:24,960
-near c20 token standard on on polka dot
+ใกล้มาตรฐานโทเค็น c20 บนpolka dot
 
 3489
 02:07:23,679 --> 02:07:28,159
-or
+หรือ
 
 3490
 02:07:24,960 --> 02:07:30,719
-or not yet like a token standard
+หรือยังไม่เหมือนมาตรฐานโทเค็น
 
 3491
 02:07:28,159 --> 02:07:32,159
-i think the uh this is not equivalent to
+ฉันคิดว่าเอ่อนี่ไม่เท่ากับ
 
 3492
 02:07:30,719 --> 02:07:34,159
-that because it's like sharon talking to
+เพราะมันเหมือนชารอนคุยกับ
 
 3493
 02:07:32,159 --> 02:07:37,280
-chen but there is like the
+เฉิน แต่มีเหมือน
 
 3494
 02:07:34,159 --> 02:07:39,520
-a group of community projects working
+กลุ่มชุมชนกำลังทำงาน
 
 3495
 02:07:37,280 --> 02:07:41,040
-towards something that's like token um
+ต่อสิ่งที่เหมือนโทเค็น um
 
 3496
 02:07:39,520 --> 02:07:43,280
-it's i wouldn't call it the token
+ฉันจะไม่เรียกมันว่าโทเค็น
 
 3497
 02:07:41,040 --> 02:07:45,599
-standard it's multiplied um
+มาตรฐานมันคือการ
 
 3498
 02:07:43,280 --> 02:07:46,719
-value transfer uh across different chain
+ถ่ายโอนมูลค่าทวีคูณผ่านเชนที่แตกต่างกัน
 
 3499
 02:07:45,599 --> 02:07:50,560
-uh of course
+เอ่อ แน่นอน
 
 3500
 02:07:46,719 --> 02:07:51,040
-different network okay super interesting
+ต่างเครือข่าย โอเค น่าสนใจสุดๆ
 
 3501
 02:07:50,560 --> 02:07:53,920
-um
+อืม
 
 3502
 02:07:51,040 --> 02:07:55,280
-okay so we we need to wrap up so so i
+โอเค เราต้องสรุปแล้ว ดังนั้นฉัน
 
 3503
 02:07:53,920 --> 02:07:58,719
-can chat with the other
+สามารถแชทกับผู้ก่อตั้งคนอื่นได้
 
 3504
 02:07:55,280 --> 02:08:02,000
-founders uh but super interesting um
+อืม แต่น่าสนใจมาก อืม
 
 3505
 02:07:58,719 --> 02:08:04,639
-i i'll be keeping track of what you guys
+ฉันจะคอยติดตามสิ่งที่พวกคุณ
 
 3506
 02:08:02,000 --> 02:08:06,000
-feel and yeah and i'll be covering it on
+รู้สึกและใช่ แล้วฉันจะปกปิดมันไว้
 
 3507
 02:08:04,639 --> 02:08:08,880
-the defined as well so
+ที่กำหนดไว้เช่นกันดังนั้น
 
 3508
 02:08:06,000 --> 02:08:09,920
-thanks so much thanks for having us
+ขอบคุณมากเชิญเรา
 
 3509
 02:08:08,880 --> 02:08:12,239
-today
+วันนี้
 
 3510
 02:08:09,920 --> 02:08:12,239
-thank you
+ขอบคุณ
 
 3511
 02:08:13,199 --> 02:08:17,599
-um okay great uh so here's our our next
+อืม โอเค เยี่ยมมาก ต่อไปของเราต่อไป
 
 3512
 02:08:16,719 --> 02:08:21,360
-panel
+เกี่ยวกับ แผงหน้าปัด
 
 3513
 02:08:17,599 --> 02:08:24,719
-um so yeah we have uh derek from
+อืมใช่เรามี ดีเร็กจาก
 
 3514
 02:08:21,360 --> 02:08:28,880
-moonbeam um alexei from
+moonbeam อืม alexei จาก
 
 3515
 02:08:24,719 --> 02:08:29,679
-interlay uh so so that is that is that
+interlay เอ่อ นั่นแหละ นั่นแหละ
 
 3516
 02:08:28,880 --> 02:08:33,199
-yeah
+ใช่
 
 3517
 02:08:29,679 --> 02:08:36,480
-right okay sorry sota from plasm
+โซตา จาก plasm
 
 3518
 02:08:33,199 --> 02:08:37,280
-and um hang from fala um super
+และอืมแฮงจากฟาลาอุมซุปเปอร์
 
 3519
 02:08:36,480 --> 02:08:39,760
-interesting seeing
+น่าสนใจมาก 
 
 3520
 02:08:37,280 --> 02:08:41,599
-all your presentations again like really
+การนำเสนอทั้งหมดของคุณอีกครั้งเหมือน
 
 3521
 02:08:39,760 --> 02:08:43,679
-mind-blowing all the
+เหลือเชื่อจริงๆ
 
 3522
 02:08:41,599 --> 02:08:44,639
-um building and development that's
+อืมการก่อสร้างและการพัฒนาทั้งหมด
 
 3523
 02:08:43,679 --> 02:08:46,800
-happening on
+ที่เกิดขึ้น
 
 3524
 02:08:44,639 --> 02:08:47,840
-on polka dot uh super excited to see
+บน polka dotตื่นเต้นมากที่ได้เห็น
 
 3525
 02:08:46,800 --> 02:08:50,960
-everything live
+ทุกอย่างดำเนินไป
 
 3526
 02:08:47,840 --> 02:08:51,840
-so i'll start with the same question i
+ดังนั้นฉันจะเริ่มต้นด้วยคำถามเดียวกัน ฉัน
 
 3527
 02:08:50,960 --> 02:08:55,360
-did for the
+ทำเพื่อ
 
 3528
 02:08:51,840 --> 02:08:58,079
-the previous panel um and
+แผง panel ก่อนหน้า อืม และ
 
 3529
 02:08:55,360 --> 02:08:59,440
-yeah where in kind of your each of your
+ใช่ ประเภทของของคุณแต่ละคน
 
 3530
 02:08:58,079 --> 02:09:02,400
-development phases
+ขั้นตอนการพัฒนา
 
 3531
 02:08:59,440 --> 02:09:04,400
