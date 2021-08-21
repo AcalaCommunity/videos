@@ -6096,159 +6096,159 @@ rococo โดย
 
 1525
 00:53:22,400 --> 00:53:25,599
-uh for you to go through that process
+เอ่อ เพื่อให้คุณผ่านกระบวนการนั้น
 
 1526
 00:53:24,000 --> 00:53:28,720
-again
+อีกครั้ง
 
 1527
 00:53:25,599 --> 00:53:31,680
-um yeah please go to the chat channel in
+อืม ได้โปรดไปที่ช่องแชทใน
 
 1528
 00:53:28,720 --> 00:53:33,040
-in element and uh and try to yeah just
+ในองค์ประกอบและเอ่อและพยายามที่จะใช่เพียงแค่
 
 1529
 00:53:31,680 --> 00:53:34,160
-ask any questions you want uh for
+ถามคำถามที่คุณต้องการ
 
 1530
 00:53:33,040 --> 00:53:37,680
-support i will
+สนับสนุน ฉันจะ
 
 1531
 00:53:34,160 --> 00:53:41,520
-we will help you to get that going and
+เราจะช่วยให้คุณได้รับสิ่งนั้นและ
 
 1532
 00:53:37,680 --> 00:53:45,280
-um of course everything right now is
+อืม ทุกอย่างในตอนนี้คือ
 
 1533
 00:53:41,520 --> 00:53:48,400
-on the the wikipedia wiki as a
+บนวิกิพีเดีย wiki เป็น
 
 1534
 00:53:45,280 --> 00:53:49,520
-as another uh source of uh you know
+เป็นแหล่งที่มาอื่นของ
 
 1535
 00:53:48,400 --> 00:53:52,079
-documentation
+เอกสาร
 
 1536
 00:53:49,520 --> 00:53:54,079
-so feel free to follow these steps and
+ดังนั้นโปรดทำตามขั้นตอนเหล่านี้และ
 
 1537
 00:53:52,079 --> 00:53:57,760
-we already onboarded a few
+เราได้ออนบอร์ดมาบ้างแล้ว
 
 1538
 00:53:54,079 --> 00:54:00,800
-parachutes and it was pretty painless
+โดดร่มแล้วไม่เจ็บเลย
 
 1539
 00:53:57,760 --> 00:54:03,680
-um you can see i can show you
+อืมคุณเห็นผมแสดงให้คุณดู
 
 1540
 00:54:00,800 --> 00:54:05,040
-the the ui at the moment that we have
+UI ในขณะนี้ที่เรามี
 
 1541
 00:54:03,680 --> 00:54:07,200
-where we have a few product chains
+ที่เรามีกลุ่มผลิตภัณฑ์ไม่กี่แห่ง
 
 1542
 00:54:05,040 --> 00:54:10,880
-onboarded
+ออนบอร์ด
 
 1543
 00:54:07,200 --> 00:54:14,079
-and then it's open for proposals so
+แล้วก็เปิดรับข้อเสนอ
 
 1544
 00:54:10,880 --> 00:54:17,680
-um yeah feel free to to follow these
+ฝากติดตามกันด้วยนะ
 
 1545
 00:54:14,079 --> 00:54:18,960
-steps and start testing the interchange
+ขั้นตอนและเริ่มทดสอบการแลกเปลี่ยน
 
 1546
 00:54:17,680 --> 00:54:22,400
-communication
+การสื่อสาร
 
 1547
 00:54:18,960 --> 00:54:24,240
-um yeah thank you hi everyone it's
+ขอบคุณมาก สวัสดีทุกคน
 
 1548
 00:54:22,400 --> 00:54:27,040
-really exciting to be here and take part
+ตื่นเต้นมากที่ได้มาที่นี่และมีส่วนร่วม
 
 1549
 00:54:24,240 --> 00:54:28,640
-to part of this of this uh i think uh
+ส่วนหนึ่งของสิ่งนี้ ฉันคิดว่า
 
 1550
 00:54:27,040 --> 00:54:30,480
-unique day right
+วันพิเศษที่ถูกต้อง
 
 1551
 00:54:28,640 --> 00:54:32,480
-so hopefully you guys see my screen i
+หวังว่าพวกคุณคงเห็นหน้าจอของฉัน
 
 1552
 00:54:30,480 --> 00:54:35,520
-think you do um
+คิดว่าคุณเห็น
 
 1553
 00:54:32,480 --> 00:54:37,119
-all right so let's get to it so yeah
+เอาล่ะ ไปกันเถอะ
 
 1554
 00:54:35,520 --> 00:54:38,799
-my name is alberto i'm the developer
+ฉันชื่อ alberto ฉันเป็นนักพัฒนา
 
 1555
 00:54:37,119 --> 00:54:39,760
-relations manager at pure state which is
+ผู้จัดการฝ่ายสัมพันธ์ที่รัฐบริสุทธิ์ซึ่งก็คือ
 
 1556
 00:54:38,799 --> 00:54:41,760
-the company
+บริษัท
 
 1557
 00:54:39,760 --> 00:54:42,880
-building moonbeam the project that i'm
+สร้างโปรเจค moonbeam โครงการที่ฉันเป็น
 
 1558
 00:54:41,760 --> 00:54:45,839
-going to talk to you
+กำลังจะคุยกับคุณ
 
 1559
 00:54:42,880 --> 00:54:47,200
-about today so it's basically a smart
+เกี่ยวกับวันนี้โดยพื้นฐานแล้วมันฉลาด
 
 1560
 00:54:45,839 --> 00:54:48,960
-contract protein with ethereum
+ทำสัญญาโปรตีนกับ ethereum
 
 1561
 00:54:47,200 --> 00:54:50,799
-compatibility
+ความเข้ากันได้
 
 1562
 00:54:48,960 --> 00:54:52,799
-so the presentation will have a brief
+ดังนั้นการนำเสนอจะมีบทสรุป
 
 1563
 00:54:50,799 --> 00:54:54,559
-introduction uh of mubim
+การแนะนำของ mubim
 
 1564
 00:54:52,799 --> 00:54:55,839
@@ -14804,371 +14804,372 @@ ethereum นั่นคือสิ่งที่
 
 3702
 02:14:52,400 --> 02:14:55,840
-i think makes people open-minded because
+ฉันคิดว่าทำให้คนเปิดใจเพราะ
 
 3703
 02:14:54,480 --> 02:14:56,639
-there's certainly some users and use
+มีผู้ใช้บางคนและเคสใช้งาน อย่างแน่นนอน
 
 3704
 02:14:55,840 --> 02:14:58,159
-cases that
+ที่
 
 3705
 02:14:56,639 --> 02:14:59,920
-are difficult to serve in that in that
+ยากที่จะรับใช้ในเรื่อง
 
 3706
 02:14:58,159 --> 02:15:01,920
-setting but the pull
+การตั้งค่าแต่การดึง
 
 3707
 02:14:59,920 --> 02:15:03,440
-is that you know i think people are
+คือ ฉันคิดว่าคนเป็น
 
 3708
 02:15:01,920 --> 02:15:04,560
-interested you know we're finding people
+สนใจ คุณรู้ไหม ว่าเรากำลังหาคน
 
 3709
 02:15:03,440 --> 02:15:05,920
-to be quite interested in polka dot
+ที่ค่อนข้างจะสนในpolka dot
 
 3710
 02:15:04,560 --> 02:15:07,280
-right i mean there's i think outside of
+ใช่ฉันหมายถึงมีฉันคิดว่า นอกจาก
 
 3711
 02:15:05,920 --> 02:15:09,040
-ethereum it's
+ethereum มันคือ
 
 3712
 02:15:07,280 --> 02:15:11,360
-you know it's definitely the place that
+มันเป็นที่ที่
 
 3713
 02:15:09,040 --> 02:15:12,800
-has the most organic kind of developer
+มีกิจกรรมสำหรับนักพัฒนา
 
 3714
 02:15:11,360 --> 02:15:14,079
-activity going on like the
+แบบออร์แกนิกมากที่สุดอย่างแน่นอน
 
 3715
 02:15:12,800 --> 02:15:16,239
-you know i'll call it the richest kind
+ฉันจะเรียกมันว่าระบบนิเวศที่ร่ำรวย
 
 3716
 02:15:14,079 --> 02:15:17,280
-of ecosystem so you know
+ที่สุด
 
 3717
 02:15:16,239 --> 02:15:19,679
-particularly a lot of the people we're
+โดยเฉพาะหลายคน พวกเรา
 
 3718
 02:15:17,280 --> 02:15:21,119
-working with um you know they want to be
+ทำงานกับ อืม คุณก็รู้ว่าพวกเขาต้องการเป็น
 
 3719
 02:15:19,679 --> 02:15:22,000
-a first mover in this new and growing
+ผู้ก้าวเข้ามาในสิ่งใหม่ที่กำลังเติบโตนี้
 
 3720
 02:15:21,119 --> 02:15:24,560
-ecosystem they want
+ระบบนิเวศที่พวกเขาต้องการ
 
 3721
 02:15:22,000 --> 02:15:25,760
-to you know be able to service all these
+ให้คุณรู้ว่าสามารถให้บริการ
 
 3722
 02:15:24,560 --> 02:15:27,199
-assets that are being created in this
+ทรัพย์สินทั้งหมดที่กำลังสร้างขึ้นใน
 
 3723
 02:15:25,760 --> 02:15:28,960
-new ecosystem so i think
+ระบบนิเวศใหม่นี้ ดังนั้นฉันคิดว่า
 
 3724
 02:15:27,199 --> 02:15:30,320
-that's the the pull part that it's you
+นั่นคือส่วนดึง ที่
 
 3725
 02:15:28,960 --> 02:15:32,159
-know is just as powerful
+รู้ว่ามีพลังพอๆ กัน
 
 3726
 02:15:30,320 --> 02:15:34,079
-that's causing you know causing uh you
+สาเหตุที่ทำให้
 
 3727
 02:15:32,159 --> 02:15:35,520
-know people to kind of shift over to be
+คนที่จะเปลี่ยนไปเป็น
 
 3728
 02:15:34,079 --> 02:15:38,800
-looking very carefully to figure out
+มองอย่างระมัดระวังเพื่อหาวิธี
 
 3729
 02:15:35,520 --> 02:15:41,199
-figuring out their deployment plans um
+หาแผนการปรับใช้
 
 3730
 02:15:38,800 --> 02:15:42,000
-that's interesting because i i think the
+ที่น่าสนใจเพราะฉันคิดว่า
 
 3731
 02:15:41,199 --> 02:15:44,960
-like the
+เหมือน
 
 3732
 02:15:42,000 --> 02:15:45,679
-common argument for ethereum is it's
+อาร์กิวเมนต์ทั่วไปสำหรับ ethereum คือมัน
 
 3733
 02:15:44,960 --> 02:15:47,440
-community
+คือ ชุมชน
 
 3734
 02:15:45,679 --> 02:15:49,360
-but you're saying that pogo that is
+แต่คุณกำลังพูดว่า polkadot นั่นคือ
 
 3735
 02:15:47,440 --> 02:15:52,639
-creating its own kind of
+สร้างแบบของตัวเอง
 
 3736
 02:15:49,360 --> 02:15:56,719
-organic native community that is
+ชุมชนพื้นเมืองแบบออกานิคที่เป็น
 
 3737
 02:15:52,639 --> 02:15:58,320
-is also becoming kind of a moat for it
+ก็กลายเป็นคูน้ำสำหรับมัน
 
 3738
 02:15:56,719 --> 02:15:59,679
-i mean for my i mean maybe i'm a little
+ฉันหมายถึงบางทีฉันอาจลำเอียงเล็กน้อย
 
 3739
 02:15:58,320 --> 02:16:00,000
-biased because i'm not obviously in it
+เพราะฉันไม่เข้าใจชัดเจนในนั้น
 
 3740
 02:15:59,679 --> 02:16:02,079
-but
+แต่
 
 3741
 02:16:00,000 --> 02:16:03,520
-i mean i would say that uh it certainly
+ฉันหมายความว่าฉันจะบอกว่าเอ่อแน่นอน
 
 3742
 02:16:02,079 --> 02:16:05,040
-has this kind of organic
+มันมีออแกนิคแบบนั้น
 
 3743
 02:16:03,520 --> 02:16:06,880
-it has an ethereum-like feel i think in
+มันมีความรู้สึกเหมือน ethereum ฉันคิดว่าใน
 
 3744
 02:16:05,040 --> 02:16:08,480
-the sense that there's a lot of organic
+ความรู้สึกว่ามันมี ความออแกนิคมาก
 
 3745
 02:16:06,880 --> 02:16:09,760
-teams you know there's a lot of like
+คุณรุูไหม มันมีจำนวนมากเช่น
 
 3746
 02:16:08,480 --> 02:16:11,199
-it's not just kind of corporate it's
+มันไม่ใช่แค่บริษัทประเภทหนึ่งแต่มันคือ
 
 3747
 02:16:09,760 --> 02:16:11,920
-like nights and weekends people that are
+เหมือนคนกลางคืนและวันหยุดสุดสัปดาห์ที่
 
 3748
 02:16:11,199 --> 02:16:13,520
-just kind of
+ก็แค่
 
 3749
 02:16:11,920 --> 02:16:14,719
-building because they want to because
+สร้างเพราะต้องการ
 
 3750
 02:16:13,520 --> 02:16:15,440
-it's fun i mean this is the kind of
+เพราะมันสนุก ฉันหมายความว่านี่คือชนิดของ
 
 3751
 02:16:14,719 --> 02:16:17,440
-things that
+สิ่งที่
 
 3752
 02:16:15,440 --> 02:16:19,040
-i think you don't see in a lot of other
+ฉันคิดว่าคุณไม่เห็นมากมายบน
 
 3753
 02:16:17,440 --> 02:16:23,840
-layer ones
+เลเยอร์หนึ่ง
 
 3754
 02:16:19,040 --> 02:16:26,400
-cool um um i like say doing that
+เจ๋ง อืม ฉันชอบพูดว่าทำแบบนั้น
 
 3755
 02:16:23,840 --> 02:16:27,679
-sure i mean i think i think like that
+แน่นอนว่าฉันหมายถึงฉันคิดว่าแบบนั้น
 
 3756
 02:16:26,400 --> 02:16:30,079
-summarizes up pretty well
+สรุปได้ค่อนข้างดี
 
 3757
 02:16:27,679 --> 02:16:31,679
-um from my like from from i've been
+อืมจากสิ่งที่ชอบจากที่ฉันเคยทำ
 
 3758
 02:16:30,079 --> 02:16:33,359
-doing a lot of research in this space
+ทำวิจัยมากมายในพื้นที่นี้
 
 3759
 02:16:31,679 --> 02:16:35,040
-for for some time now and i do think
+มาระยะหนึ่งแล้วฉันคิดว่า
 
 3760
 02:16:33,359 --> 02:16:37,120
-like the community on ethereum has been
+เหมือนชุมชนบน ethereum ที่ได้รับ
 
 3761
 02:16:35,040 --> 02:16:38,399
-growing very fast and but it also had
+เติบโตเร็วมากแต่ก็มี
 
 3762
 02:16:37,120 --> 02:16:40,319
-its start right you have to start
+มันเริ่มต้นใช่ไหม คุณต้องเริ่ม
 
 3763
 02:16:38,399 --> 02:16:41,439
-somewhere and what i do see like working
+ที่ไหนสักแห่งและสิ่งที่ฉันเห็นเหมือนการทำงาน
 
 3764
 02:16:40,319 --> 02:16:42,880
-with polka dot is
+กับ polka dot
 
 3765
 02:16:41,439 --> 02:16:44,639
-that the community is growing very
+ว่าชุมชนเติบโตขึ้นอย่างมาก
 
 3766
 02:16:42,880 --> 02:16:46,719
-quickly and i think that there's been a
+อย่างรวดเร็วและฉันคิดว่ามี
 
 3767
 02:16:44,639 --> 02:16:49,599
-lot of effort to get people involved
+ความพยายามอย่างมากที่จะให้ผู้คนมีส่วนร่วม
 
 3768
 02:16:46,719 --> 02:16:52,399
-to make it understandable and actually
+เพื่อให้มันสามารถเข้าใจได้และ
 
 3769
 02:16:49,599 --> 02:16:54,160
-get people interested in the projects
+รับผู้สนใจโครงการจริงๆ
 
 3770
 02:16:52,399 --> 02:16:55,439
-i mean and i mean from our personal
+ฉันหมายถึงจากประสบการณ์ส่วนตัวของเรา
 
 3771
 02:16:54,160 --> 02:16:57,120
-experience i mean we were super
+ฉันหมายความว่าเราประหลาดใจมาก
 
 3772
 02:16:55,439 --> 02:16:59,439
-surprised i mean we've had like
+ฉันหมายความว่าเราเคยชอบ
 
 3773
 02:16:57,120 --> 02:17:01,200
-i think nearly eight and a half thousand
+ผมว่าเกือบแปดหมื่น
 
 3774
 02:16:59,439 --> 02:17:03,120
-people running our test net over like
+คนที่ใช้เน็ตทดสอบของเราหรือมากกว่า
 
 3775
 02:17:01,200 --> 02:17:04,880
-two and a half days i mean
+ภายในสองวันครึ่งฉันหมายถึง
 
 3776
 02:17:03,120 --> 02:17:06,639
-it's quite amazing that people actually
+มันน่าทึ่งมากที่คน
 
 3777
 02:17:04,880 --> 02:17:08,559
-are willing to go download like tech get
+ยินดีที่จะดาวน์โหลดเช่น tech get
 
 3778
 02:17:06,639 --> 02:17:09,599
-tested bitcoin and actually try them out
+ทดสอบ bitcoin แล้วลองใช้งานจริงๆ
 
 3779
 02:17:08,559 --> 02:17:12,160
-on polka dots
+บน polka dots
+
 
 3780
 02:17:09,599 --> 02:17:14,000
-um on testnet and i think that kind of
+อืมใน testnet และฉันคิดว่าแบบนั้น
 
 3781
 02:17:12,160 --> 02:17:15,359
-speaks for itself so
+พูดเพื่อตัวเองดังนั้น
 
 3782
 02:17:14,000 --> 02:17:17,359
-i do think that the community is super
+ฉันคิดว่าชุมชนนั้น
 
 3783
 02:17:15,359 --> 02:17:18,800
-strong um
+แข็งแกร่งมาก
 
 3784
 02:17:17,359 --> 02:17:20,559
-it's taking a step back and looking at
+มันกำลังถอยหลังหนึ่งก้าวและมองดู
 
 3785
 02:17:18,800 --> 02:17:22,000
-the general outlook i think
+มุมมองทั่วไป ฉันคิด
 
 3786
 02:17:20,559 --> 02:17:23,679
-like if you look at the market right now
+อย่างถ้ามองตลาดตอนนี้
 
 3787
 02:17:22,000 --> 02:17:25,280
-i mean obviously ethereum fees are super
+ฉันหมายถึงค่าธรรมเนียม ethereum นั้น
 
 3788
 02:17:23,679 --> 02:17:27,280
-high we've seen this before
+สูงมากๆ ที่เราเคยเห็นสิ่งนี้มาก่อน
 
 3789
 02:17:25,280 --> 02:17:28,719
-um but now you have alternatives right i
+อืม แต่ตอนนี้คุณมีทางเลือกแล้ว ใช่ไหม
 
 3790
 02:17:27,280 --> 02:17:29,280
-mean you've seen what binance has been
+หมายความว่าคุณได้เห็นแล้วว่า binance ทำ
 
 3791
 02:17:28,719 --> 02:17:31,200
-doing
+อย่างไร
 
 3792
 02:17:29,280 --> 02:17:33,120
-very successfully in fact with pancake
+ประสบความสำเร็จจริงๆ กับแพนเค้ก
 
 3793
 02:17:31,200 --> 02:17:35,679
-swap and alternatives
+การแลกเปลี่ยนและทางเลือกอื่น
 
 3794
 02:17:33,120 --> 02:17:38,000
