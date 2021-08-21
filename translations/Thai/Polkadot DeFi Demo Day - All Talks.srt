@@ -5780,319 +5780,319 @@ cumulus เราตระหนักว่าอาจมี
 
 1446
 00:50:25,520 --> 00:50:30,079
-of sharing this uh this environment with
+ของการแบ่งปันเอ่อสภาพแวดล้อมนี้กับ
 
 1447
 00:50:28,559 --> 00:50:33,119
-with many other projects
+กับโครงการอื่นๆอีกมากมาย
 
 1448
 00:50:30,079 --> 00:50:34,000
-and uh so we did that so trajectory is a
+แล้วเราก็ทำอย่างนั้น วิถีเป็น
 
 1449
 00:50:33,119 --> 00:50:37,280
-public
+สาธารณะ
 
 1450
 00:50:34,000 --> 00:50:39,839
-test not based on on rococo
+การทดสอบไม่ได้ขึ้นอยู่กับโรโคโค
 
 1451
 00:50:37,280 --> 00:50:40,480
-so and the whole purpose is to to
+ดังนั้นและจุดประสงค์ทั้งหมดก็คือเพื่อ
 
 1452
 00:50:39,839 --> 00:50:42,640
-support
+สนับสนุน
 
 1453
 00:50:40,480 --> 00:50:43,760
-the onboarding and the testing towards
+การปฐมนิเทศและการทดสอบสู่
 
 1454
 00:50:42,640 --> 00:50:47,200
-rococo by just
+rococo โดย
 
 1455
 00:50:43,760 --> 00:50:48,880
-on boarding a product chains earlier on
+ในการขึ้นห่วงโซ่ผลิตภัณฑ์ก่อนหน้านี้ใน
 
 1456
 00:50:47,200 --> 00:50:52,000
-you know figuring out the
+คุณรู้ว่าการหา
 
 1457
 00:50:48,880 --> 00:50:53,760
-the issues um that they
+ประเด็นที่พวกเขา
 
 1458
 00:50:52,000 --> 00:50:55,520
-can come from there from their own run
+สามารถมาจากที่นั่นได้จากการวิ่งของตัวเอง
 
 1459
 00:50:53,760 --> 00:50:57,680
-time or
+เวลาหรือ
 
 1460
 00:50:55,520 --> 00:50:58,559
-in addition to tests that will net fully
+นอกจากการทดสอบที่จะทำให้เน็ตเต็มแล้ว
 
 1461
 00:50:57,680 --> 00:51:01,920
-networked
+เครือข่าย
 
 1462
 00:50:58,559 --> 00:51:04,880
-uh deployments and importantly enough
+เอ่อการใช้งานและที่สำคัญเพียงพอ
 
 1463
 00:51:01,920 --> 00:51:06,480
-the interoperability with with other
+การทำงานร่วมกันกับผู้อื่น
 
 1464
 00:51:04,880 --> 00:51:09,920
-power chains like
+ห่วงโซ่พลังงานเช่น
 
 1465
 00:51:06,480 --> 00:51:13,680
-like lucas was uh was mentioning
+เหมือนที่ลูคัสกำลังพูดถึง
 
 1466
 00:51:09,920 --> 00:51:17,040
-so um yeah
+อืมใช่
 
 1467
 00:51:13,680 --> 00:51:17,680
-so we a little bit of the you know the
+ดังนั้นเราเล็กน้อยที่คุณรู้จัก
 
 1468
 00:51:17,040 --> 00:51:20,720
-features
+คุณสมบัติ
 
 1469
 00:51:17,680 --> 00:51:22,720
-that has uh is that
+ที่มีเอ่อคือว่า
 
 1470
 00:51:20,720 --> 00:51:23,760
-it is a clone of rococo so it will
+มันเป็นโคลนของโรโคโคดังนั้นมันจะ
 
 1471
 00:51:22,720 --> 00:51:28,000
-always be
+อยู่เสมอ
 
 1472
 00:51:23,760 --> 00:51:29,680
-at par with rococo codebase meaning
+เทียบเท่ากับ rococo codebase ความหมาย
 
 1473
 00:51:28,000 --> 00:51:31,760
-um you know the tree of cumulus
+เอ่อ คุณรู้จักต้นไม้คิวมูลัส
 
 1474
 00:51:29,680 --> 00:51:33,839
-substrate polka dot repos
+พื้นผิว polka dot repos
 
 1475
 00:51:31,760 --> 00:51:35,359
-that we wanted to keep always in at par
+ที่เราอยากเก็บไว้เสมอ
 
 1476
 00:51:33,839 --> 00:51:37,680
-with rococo so
+กับ rococo
 
 1477
 00:51:35,359 --> 00:51:38,960
-there's less surprises whenever your
+มีความประหลาดใจน้อยลงเมื่อใดก็ตามที่คุณ
 
 1478
 00:51:37,680 --> 00:51:41,200
-product chain is
+ห่วงโซ่ผลิตภัณฑ์คือ
 
 1479
 00:51:38,960 --> 00:51:43,040
-is included in or about to be included
+รวมอยู่ในหรือกำลังจะรวมอยู่ด้วย
 
 1480
 00:51:41,200 --> 00:51:46,000
-in in the regular contestant
+ในผู้เข้าแข่งขันประจำ
 
 1481
 00:51:43,040 --> 00:51:46,559
-the idea is to have um frequent recycles
+ความคิดคือการรีไซเคิลบ่อยๆ
 
 1482
 00:51:46,000 --> 00:51:48,400
-so
+ดังนั้น
 
 1483
 00:51:46,559 --> 00:51:50,160
-we will include many many product chains
+เราจะรวมกลุ่มผลิตภัณฑ์มากมาย
 
 1484
 00:51:48,400 --> 00:51:53,119
-we will maybe make changes on
+เราอาจจะทำการเปลี่ยนแปลงใน
 
 1485
 00:51:50,160 --> 00:51:55,760
-on some of the runtime um to allow
+บนรันไทม์บางตัว um เพื่ออนุญาต
 
 1486
 00:51:53,119 --> 00:51:58,800
-certain test cases to be to be verified
+บางกรณีทดสอบที่จะได้รับการยืนยัน
 
 1487
 00:51:55,760 --> 00:52:00,240
-but ideas that will cycle fast and it's
+บางกรณีที่จะทดสอบ
 
 1488
 00:51:58,800 --> 00:52:01,040
-immediate available available
+พร้อมใช้งานทันที
 
 1489
 00:52:00,240 --> 00:52:04,000
-immediately
+โดยทันที
 
 1490
 00:52:01,040 --> 00:52:05,040
-so you can just follow the following
+เพื่อให้ท่านสามารถติดตามได้ดังต่อไปนี้
 
 1491
 00:52:04,000 --> 00:52:07,760
-instructions i will
+คำแนะนำฉันจะ
 
 1492
 00:52:05,040 --> 00:52:09,359
-i will uh mention in a moment but
+ฉันจะเอ่อพูดถึงสักครู่ แต่
 
 1493
 00:52:07,760 --> 00:52:09,920
-there's no waiting list so as soon as
+ไม่มีรายชื่อรอทันที
 
 1494
 00:52:09,359 --> 00:52:12,559
-you get in
+คุณเข้ามา
 
 1495
 00:52:09,920 --> 00:52:14,000
-um and you send the proposal on the
+อืม และคุณส่งข้อเสนอไปที่
 
 1496
 00:52:12,559 --> 00:52:16,640
-registration form
+แบบฟอร์มลงทะเบียน
 
 1497
 00:52:14,000 --> 00:52:18,800
-then you will get in um so yeah the
+แล้วคุณจะเข้าไป อืมใช่
 
 1498
 00:52:16,640 --> 00:52:20,839
-whole point as well is to try to
+จุดรวมเช่นกันคือการพยายามที่จะ
 
 1499
 00:52:18,800 --> 00:52:23,520
-to make emphasis more on this
+ให้เน้นเรื่องนี้มากขึ้น
 
 1500
 00:52:20,839 --> 00:52:26,800
-interoperability of barack chains so we
+การทำงานร่วมกันของเชน barack ดังนั้นเราจึง
 
 1501
 00:52:23,520 --> 00:52:29,200
-try to set up the correct configuration
+พยายามตั้งค่าคอนฟิกให้ถูกต้อง
 
 1502
 00:52:26,800 --> 00:52:32,480
-for cross chain messaging palettes
+สำหรับจานข้อความข้ามเชน
 
 1503
 00:52:29,200 --> 00:52:33,119
-and try to support as much as possible
+และพยายามสนับสนุนให้มากที่สุด
 
 1504
 00:52:32,480 --> 00:52:36,240
-this uh
+นี่คือ
 
 1505
 00:52:33,119 --> 00:52:39,520
-any project to to start moving messages
+โครงการใด ๆ เพื่อเริ่มย้ายข้อความ
 
 1506
 00:52:36,240 --> 00:52:43,599
-assets tokens non-fungible fungible
+โทเค็นสินทรัพย์ non-fungible fungible
 
 1507
 00:52:39,520 --> 00:52:43,599
-around us as soon as possible
+รอบตัวเราโดยเร็วที่สุด
 
 1508
 00:52:44,079 --> 00:52:48,240
-so if we uh look at briefly about the
+ดังนั้นถ้าเราดูสั้น ๆ เกี่ยวกับ
 
 1509
 00:52:46,559 --> 00:52:50,400
-registration process
+ขั้นตอนการลงทะเบียน
 
 1510
 00:52:48,240 --> 00:52:52,079
-is basically the same as rococo when you
+โดยพื้นฐานแล้วเหมือนกับโรโคโคเมื่อคุณ
 
 1511
 00:52:50,400 --> 00:52:55,359
-need to run a few validators
+ต้องเรียกใช้เครื่องมือตรวจสอบสองสามตัว
 
 1512
 00:52:52,079 --> 00:52:58,640
-one collater you have to fill up a form
+หนึ่ง collate คุณต้องกรอกแบบฟอร์ม
 
 1513
 00:52:55,359 --> 00:53:01,920
-um which i can show you here it's same
+อืมที่ฉันสามารถแสดงให้คุณเห็นที่นี่ก็เหมือนกัน
 
 1514
 00:52:58,640 --> 00:53:02,640
-almost copy paste from rococo um just
+แทบจะคัดลอกจาก rococo
 
 1515
 00:53:01,920 --> 00:53:04,400
-provide your
+ให้ของคุณ
 
 1516
 00:53:02,640 --> 00:53:06,319
-you know element handle your account
+คุณรู้ว่าองค์ประกอบจัดการบัญชีของคุณ
 
 1517
 00:53:04,400 --> 00:53:09,280
-address so we can keep track of
+ที่อยู่เพื่อให้เราสามารถติดตาม
 
 1518
 00:53:06,319 --> 00:53:10,400
-which account to send some funds um
+บัญชีไหนที่จะส่งเงินได้บ้าง
 
 1519
 00:53:09,280 --> 00:53:12,880
-departure id
+รหัสการเดินทาง
 
 1520
 00:53:10,400 --> 00:53:14,880
-so before um you know whenever we
+ดังนั้นก่อนที่คุณจะรู้เมื่อใดก็ตามที่เรา
 
 1521
 00:53:12,880 --> 00:53:18,079
-actually recycle or cycle the
+รีไซเคิลหรือหมุนเวียน
 
 1522
 00:53:14,880 --> 00:53:20,720
-the uh the the chain then we
+เอ่อ เชน แล้วเรา
 
 1523
 00:53:18,079 --> 00:53:22,400
-can send funds uh towards your your
+สามารถส่งเงินไปยัง
 
 1524
 00:53:20,720 --> 00:53:24,000
-account without having to
+บัญชีโดยไม่ต้อง
 
 1525
 00:53:22,400 --> 00:53:25,599
