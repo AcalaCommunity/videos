@@ -14120,687 +14120,687 @@ interlay เอ่อ นั่นแหละ นั่นแหละ
 
 3531
 02:08:59,440 --> 02:09:04,400
-are you and do you expect to be live as
+คุณเป็นและคุณคาดว่าจะใช้งาน
 
 3532
 02:09:02,400 --> 02:09:09,199
-soon as the
+ทันทีที่
 
 3533
 02:09:04,400 --> 02:09:11,040
-proteins are the protein auction happens
+พาราเชน เมื่อการประมูลพาราเชนที่เกิดขึ้น
 
 3534
 02:09:09,199 --> 02:09:12,239
-um derek do you want to start sure thing
+อืม ดีเร็ก คุณต้องการเริ่มต้น ใช่มั้ย ใช่แน่นอน
 
 3535
 02:09:11,040 --> 02:09:14,560
-yeah so um
+อืม อืม
 
 3536
 02:09:12,239 --> 02:09:16,239
-uh you know i i would say that uh
+เอ่อ คุณรู้ไหม ฉันจะบอกว่า uh
 
 3537
 02:09:14,560 --> 02:09:17,199
-largely similar to some of the responses
+คล้ายกันมากกับคำตอบบางส่วน
 
 3538
 02:09:16,239 --> 02:09:19,040
-you got from the previous
+คุณได้รับจากก่อนหน้านี้
 
 3539
 02:09:17,199 --> 02:09:21,119
-panelists you know where we are you know
+จาก ผู้ร่วมอภิปราย เราถึงขั้นตอนไหน
 
 3540
 02:09:19,040 --> 02:09:23,280
-working hard to be kind of ready to go
+เราทำงานหนักเพื่อให้พร้อมที่จะไป
 
 3541
 02:09:21,119 --> 02:09:24,639
-uh when the parrot chain auctions start
+เอ่อ เมื่อการประมูลพาราเชนเริ่มขึ้น
 
 3542
 02:09:23,280 --> 02:09:26,480
-i think um
+ฉันคิดว่า อืม
 
 3543
 02:09:24,639 --> 02:09:28,960
-you know it was also mentioned that uh
+คุณก็รู้ว่ามันถูกกล่าวถึงด้วยว่า uh
 
 3544
 02:09:26,480 --> 02:09:30,400
-um you know it's you know i know parity
+อืม เธอก็รู้ว่าฉันรู้ว่าฉันรู้ความเท่าเทียมกัน
 
 3545
 02:09:28,960 --> 02:09:31,440
-has this policy of conducts ready when
+มีนโยบายปฏิบัตินี้พร้อมเมื่อ
 
 3546
 02:09:30,400 --> 02:09:32,560
-it's ready so um
+พร้อมแล้ว อืม
 
 3547
 02:09:31,440 --> 02:09:34,239
-you know that always takes a little bit
+คุณก็รู้ว่ามันต้องใช้เวลานิดหน่อย
 
 3548
 02:09:32,560 --> 02:09:35,040
-of creative juggling to you know kind of
+ของการเล่นกลที่สร้างสรรค์ให้คุณรู้ว่า
 
 3549
 02:09:34,239 --> 02:09:37,760
-plan around
+เราวางแผนคร่าว
 
 3550
 02:09:35,040 --> 02:09:39,119
-um but uh you know uh we see kind of a
+อืม เราเห็น
 
 3551
 02:09:37,760 --> 02:09:41,119
-ton of great progress happening
+ความคืบหน้ามากมาย เกิดขึ้น
 
 3552
 02:09:39,119 --> 02:09:42,800
-um you know on the development side and
+ในด้านการพัฒนาและ
 
 3553
 02:09:41,119 --> 02:09:44,320
-in particular i think that the key area
+โดยเฉพาะอย่างยิ่งฉันคิดว่าพื้นที่สำคัญ
 
 3554
 02:09:42,800 --> 02:09:47,040
-for us is this development
+สำหรับเราคือการพัฒนานี้
 
 3555
 02:09:44,320 --> 02:09:47,360
-of cumulus and um you know making sure
+ของคิวมูลัสและเอ่อ คุณรู้ไหม
 
 3556
 02:09:47,040 --> 02:09:49,599
-that
+ทำให้มั่นใจว่า
 
 3557
 02:09:47,360 --> 02:09:50,400
-it has all the features uh and stability
+มันมีคุณสมบัติทั้งหมดเอ่อและมีความเสถียร
 
 3558
 02:09:49,599 --> 02:09:52,400
-that are needed
+ที่จำเป็น
 
 3559
 02:09:50,400 --> 02:09:53,440
-uh to launch and you know i anticipate
+สำหรับการเปิดตัวและคุณก็รู้ว่าฉันคาดหวัง
 
 3560
 02:09:52,400 --> 02:09:55,440
-that happening
+ที่จะเกิดขึ้น
 
 3561
 02:09:53,440 --> 02:09:56,719
-uh you know uh you know relatively soon
+คุณจะรู้เร็วๆ นี้
 
 3562
 02:09:55,440 --> 02:09:58,000
-and you know we want to be among you
+และ เราต้องการอยู่ท่ามกลาง
 
 3563
 02:09:56,719 --> 02:09:58,800
-know ready to go among the first pair of
+เราพร้อมลุยคู่แรกของ
 
 3564
 02:09:58,000 --> 02:10:02,719
-chains um
+เชน
 
 3565
 02:09:58,800 --> 02:10:06,480
-you know as those auction store okay
+าร้านประมูลเหล่านั้น โอเค
 
 3566
 02:10:02,719 --> 02:10:07,760
-um alexa sure
+alexei
 
 3567
 02:10:06,480 --> 02:10:10,400
-i mean i think we're all in the same
+ฉันหมายความว่าฉันคิดว่าเราทุกคน
 
 3568
 02:10:07,760 --> 02:10:11,360
-boat um i mean as for insulin pokebit
+ลงเรือลำเดียวกัน เอ่อฉันหมายถึงอินซูลิน polkabtc
 
 3569
 02:10:10,400 --> 02:10:13,360
-you see
+คุณเห็น
 
 3570
 02:10:11,360 --> 02:10:15,599
-we just launched a beta test net that's
+เราเพิ่งเปิดตัวเน็ตทดสอบเบต้านั่นคือ
 
 3571
 02:10:13,360 --> 02:10:17,520
-kind of the system being feature ready
+ชนิดของระบบที่มีคุณสมบัติพร้อม
 
 3572
 02:10:15,599 --> 02:10:18,880
-from now on it's tweaks improvements on
+ต่อจากนี้ไปจะเป็นการปรับปรุงแก้ไขบน
 
 3573
 02:10:17,520 --> 02:10:21,599
-the ux and
+ux และ
 
 3574
 02:10:18,880 --> 02:10:23,920
-plus testing making sure it's robust um
+บวกกับการทดสอบเพื่อให้แน่ใจว่ามันแข็งแกร่ง um
 
 3575
 02:10:21,599 --> 02:10:26,320
-but we'll be ready to go whenever kusama
+แต่เราพร้อมจะไปเมื่อไรก็ตาม kusama
 
 3576
 02:10:23,920 --> 02:10:28,079
-and polkadot launch so from now on it's
+และpolkadotเริ่มตั้งแต่ตอนนี้เป็นต้นไป
 
 3577
 02:10:26,320 --> 02:10:29,520
-just making sure the system's robust
+แค่ทำให้แน่ใจว่าระบบแข็งแกร่ง
 
 3578
 02:10:28,079 --> 02:10:30,719
-that we keep improving and adding
+ที่เรายังคงปรับปรุงและเพิ่ม
 
 3579
 02:10:29,520 --> 02:10:34,079
-integrations
+บูรณาการ
 
 3580
 02:10:30,719 --> 02:10:35,920
-okay cool sorry for moonbeam there's
+โอเค คูล ขอโทษสำหรับมูนบีมที่นั่น
 
 3581
 02:10:34,079 --> 02:10:38,400
-also a beta that people can start
+เป็นเบต้าที่ผู้คนสามารถเริ่มต้นได้
 
 3582
 02:10:35,920 --> 02:10:39,840
-uh building on now right oh sure we've
+เอ่อ การสร้างต่อจากนี้ไป โอ้ แน่ใจนะว่าพวกเราได้
 
 3583
 02:10:38,400 --> 02:10:41,360
-had a you know a test net since
+เรามีเครือข่ายทดสอบตั้งแต่
 
 3584
 02:10:39,840 --> 02:10:43,119
-september basically like where
+กันยายนโดยทั่วไป เหมือนที่
 
 3585
 02:10:41,360 --> 02:10:44,320
-we have teams like sushi who you heard
+เรามีทีมอย่างซูชิที่คุณเคยได้ยิน
 
 3586
 02:10:43,119 --> 02:10:45,440
-from before and other you know many
+จากเมื่อก่อนและอื่น ๆ ที่คุณรู้จักมากมาย
 
 3587
 02:10:44,320 --> 02:10:46,800
-other teams are deploying
+ทีมอื่นกำลังปรับใช้
 
 3588
 02:10:45,440 --> 02:10:49,760
-uh you know deploying their applications
+เอ่อ คุณรู้ดีว่ากำลังปรับใช้แอปพลิเคชันของพวกเขา
 
 3589
 02:10:46,800 --> 02:10:53,840
-to it yeah perfect all right okay so
+สมบูรณ์แบบ โอเค โอเค
 
 3590
 02:10:49,760 --> 02:10:56,079
-um so yep um i can go next
+อืม อืม อืม ฉันไปต่อได้นะ
 
 3591
 02:10:53,840 --> 02:10:58,239
-so i think before talking about summer
+ฉันเลยคิดก่อนจะพูดเรื่องเครือข่าย phala
 
 3592
 02:10:56,079 --> 02:10:58,800
-network and polkadot network uh we have
+และเครือข่ายpolkadot uh เรามี
 
 3593
 02:10:58,239 --> 02:11:02,000
-to
+จำเป็น
 
 3594
 02:10:58,800 --> 02:11:04,079
-make lococo network stable so
+ทำให้เครือข่าย rococo เสถียรดังนั้น
 
 3595
 02:11:02,000 --> 02:11:05,119
-they are auto program on the local
+มันเป็นโปรแกรมอัตโนมัติในพื้นที่
 
 3596
 02:11:04,079 --> 02:11:07,520
-testnet so
+testnet
 
 3597
 02:11:05,119 --> 02:11:09,040
-we're gonna do our best to serve them
+เราจะพยายามอย่างเต็มที่เพื่อให้บริการพวกเขา
 
 3598
 02:11:07,520 --> 02:11:10,400
-with party technologies and website
+ด้วยเทคโนโลยีและเว็บไซต์
 
 3599
 02:11:09,040 --> 02:11:13,119
-recommendations
+ 
 
 3600
 02:11:10,400 --> 02:11:14,800
-and if i understand correctly the common
+และถ้าฉันเข้าใจเรื่องทั่วไปอย่างถูกต้อง
 
 3601
 02:11:13,119 --> 02:11:15,679
-with the power chain will be connected
+กับพาราเชนจะเชื่อมต่อ
 
 3602
 02:11:14,800 --> 02:11:18,000
-first
+เป็นครั้งแรก
 
 3603
 02:11:15,679 --> 02:11:20,079
-so probably program btc will be
+ดังนั้นpolka btc น่าจะเป็น
 
 3604
 02:11:18,000 --> 02:11:22,960
-connected first or something like that
+เชื่อมต่อก่อนหรืออะไรทำนองนั้น
 
 3605
 02:11:20,079 --> 02:11:25,040
-then the projection will be happening so
+แล้วพาราเชนจะเกิดขึ้นดังนั้น
 
 3606
 02:11:22,960 --> 02:11:26,400
-yeah what we have to do is to make
+ใช่แล้ว สิ่งที่เราต้องทำคือทำให้
 
 3607
 02:11:25,040 --> 02:11:28,719
-rococo stable
+rococoให้เสถียร
 
 3608
 02:11:26,400 --> 02:11:31,360
-with the foundation quality technologies
+ด้วยเทคโนโลยีคุณภาพพื้นฐาน
 
 3609
 02:11:28,719 --> 02:11:34,960
-and all the community members
+และสมาชิกชุมชนทุกท่าน
 
 3610
 02:11:31,360 --> 02:11:36,960
-okay um okay so still some development
+โอเค อืม โอเค ยังคงมีพัฒนาการบ้าง
 
 3611
 02:11:34,960 --> 02:11:38,560
-before you're you're ready you're ready
+ก่อนที่คุณจะพร้อม
 
 3612
 02:11:36,960 --> 02:11:41,840
-to go okay
+จะไป โอเค
 
 3613
 02:11:38,560 --> 02:11:45,280
-um okay and then finally hang
+อืม โอเค แล้วสุดท้ายก็ แฮง
 
 3614
 02:11:41,840 --> 02:11:47,280
-on right yeah in the past we have spent
+ครับ ในอดีตเราได้ใช้
 
 3615
 02:11:45,280 --> 02:11:50,800
-a lot of time like designing the
+เวลาไปมากในการออกแบบ
 
 3616
 02:11:47,280 --> 02:11:51,360
-token economy to uh be compatible with
+เศรษฐกิจโทเค็นที่จะเอ่อเข้ากันได้กับ
 
 3617
 02:11:50,800 --> 02:11:53,760
-the
+ 
 
 3618
 02:11:51,360 --> 02:11:54,719
-slot auction so actually this is the
+การประมูลสล็อต จริงๆ แล้วนี่คือ
 
 3619
 02:11:53,760 --> 02:11:58,079
-most
+ 
 
 3620
 02:11:54,719 --> 02:12:00,159
-complicated part i think in terms of the
+ส่วนที่ซับซ้อนที่สุด ฉันคิดว่าในแง่ของ
 
 3621
 02:11:58,079 --> 02:12:02,159
-i mean compared with the technology
+ฉันหมายถึงเมื่อเทียบกับเทคโนโลยี
 
 3622
 02:12:00,159 --> 02:12:05,679
-maybe the economy
+บางทีเศรษฐกิจ
 
 3623
 02:12:02,159 --> 02:12:08,079
-is even more complicated but of course
+ซับซ้อนยิ่งขึ้น แต่แน่นอน
 
 3624
 02:12:05,679 --> 02:12:09,840
-in terms of the technology uh i think
+ในแง่ของเทคโนโลยีเอ่อฉันคิดว่า
 
 3625
 02:12:08,079 --> 02:12:10,560
-there are still something we need to
+ยังมีสิ่งที่เราต้อง
 
 3626
 02:12:09,840 --> 02:12:12,880
-prepare
+เตรียมตัว
 
 3627
 02:12:10,560 --> 02:12:15,040
-and as at the same time i think uh
+และในขณะเดียวกันฉันก็คิดว่า เอ่อ
 
 3628
 02:12:12,880 --> 02:12:15,679
-parity is still is still working very
+ความเท่าเทียมกันยังคงใช้งานได้ดีมาก
 
 3629
 02:12:15,040 --> 02:12:19,119
-hard
+ ทำงานหนัก
 
 3630
 02:12:15,679 --> 02:12:21,679
-to fill the last last few things
+เพื่อเติมเต็มสิ่งสุดท้าย
 
 3631
 02:12:19,119 --> 02:12:22,159
-so for example like the stability so
+ตัวอย่างเช่นชอบความมั่นคงดังนั้น
 
 3632
 02:12:21,679 --> 02:12:24,800
-written
+เขียนไว้
 
 3633
 02:12:22,159 --> 02:12:25,360
-recently we're experiencing experiencing
+เมื่อเร็ว ๆ นี้เรากำลังประสบกับ
 
 3634
 02:12:24,800 --> 02:12:28,960
-some
+บาง
 
 3635
 02:12:25,360 --> 02:12:32,639
-uh small problems so maybe in the next
+เอ่อ ปัญหาเล็กๆ น้อยๆ ต่อไปครั้งหน้า
 
 3636
 02:12:28,960 --> 02:12:34,719
-week or so local could be reset and then
+สัปดาห์หน้าหรือโรโคโคสามารถรีเซ็ตได้แล้ว
 
 3637
 02:12:32,639 --> 02:12:35,760
-i think it will be much better and we
+ฉันคิดว่ามันจะดีขึ้นมากและเรา
 
 3638
 02:12:34,719 --> 02:12:38,079
-already seen
+เห็นแล้ว
 
 3639
 02:12:35,760 --> 02:12:39,440
-in this iteration is already much better
+ในการทำซ้ำนี้ดีกว่าครั้งแรก
 
 3640
 02:12:38,079 --> 02:12:41,760
-than the first uh
+มากแล้ว
 
 3641
 02:12:39,440 --> 02:12:43,520
-logo covey one now it's the second
+ใน rococo ครั้งแรก ตอนนี้ เป็นรุ่น2
 
 3642
 02:12:41,760 --> 02:12:45,440
-generation logo kobe one
+ของ rococo
 
 3643
 02:12:43,520 --> 02:12:46,840
-yeah and of course another thing is
+ใช่และแน่นอนอีกอย่างคือ
 
 3644
 02:12:45,440 --> 02:12:49,679
-related to the
+ที่เกี่ยวข้องกับ
 
 3645
 02:12:46,840 --> 02:12:50,079
-performance and actually i think this is
+ประสิทธิภาพและที่จริงฉันคิดว่านี่คือ
 
 3646
 02:12:49,679 --> 02:12:52,639
-uh
+เอ่อ
 
 3647
 02:12:50,079 --> 02:12:53,520
-especially important for us uh in the
+สำคัญอย่างยิ่งสำหรับเรา uh ใน
 
 3648
 02:12:52,639 --> 02:12:56,000
-last
+เดือน
 
 3649
 02:12:53,520 --> 02:12:57,040
-months we didn't test that it's just a
+ล่าสุดเราไม่ได้ทดสอบว่ามันเป็นเพียง
 
 3650
 02:12:56,000 --> 02:13:00,079
-standalone
+สแตนด์อโลน
 
 3651
 02:12:57,040 --> 02:13:03,679
-uh substrate blockchain and uh
+บล็อกเชน substrate และ
 
 3652
 02:13:00,079 --> 02:13:07,040
-in the testnet because our uh special uh
+ใน testnet เพราะ uh พิเศษของเรา uh
 
 3653
 02:13:03,679 --> 02:13:09,760
-uh topology and and and the design
+เอ่อ โทโพโลยี และ และการออกแบบ
 
 3654
 02:13:07,040 --> 02:13:10,639
-we have uh like more than two million
+เรามีเอ่อมากกว่าสองล้าน
 
 3655
 02:13:09,760 --> 02:13:13,760
-transactions
+ธุรกรรม
 
 3656
 02:13:10,639 --> 02:13:17,280
-per uh in that month so it means that
+ต่อ เดือนนั้นก็หมายความว่า
 
 3657
 02:13:13,760 --> 02:13:20,719
-if we switch to a power chain uh
+ถ้าเราเปลี่ยนไปใช้พาราเชน
 
 3658
 02:13:17,280 --> 02:13:21,440
-and i i i expect it will have some
+และฉันคาดว่ามันจะมีบ้าง
 
 3659
 02:13:20,719 --> 02:13:24,239
-influence
+อิทธิพล
 
 3660
 02:13:21,440 --> 02:13:24,800
-in terms of in terms of the performance
+ในแง่ของประสิทธิภาพ
 
 3661
 02:13:24,239 --> 02:13:27,199
-yeah and
+ใช่และ
 
 3662
 02:13:24,800 --> 02:13:29,040
-uh the the last one i think is the
+เอ่อ อันสุดท้ายที่ฉันคิดว่าคือ
 
 3663
 02:13:27,199 --> 02:13:32,159
-accessibility now
+การเข้าถึงในขณะนี้
 
 3664
 02:13:29,040 --> 02:13:32,719
-i i think uh it's almost the the per
+ฉันคิดว่า เอ่อ มันเกือบเสร็จแล้ว
 
 3665
 02:13:32,159 --> 02:13:35,119
-chance
+สำหรับ
 
 3666
 02:13:32,719 --> 02:13:37,920
-architecture is almost ready but we
+สถาปัตยกรรมพาราเชน ใกล้จะพร้อมแล้ว แต่เรา
 
 3667
 02:13:35,119 --> 02:13:40,239
-still cannot access the data from the
+ยังไม่สามารถเข้าถึงข้อมูลจาก
 
 3668
 02:13:37,920 --> 02:13:42,079
-relation but and and this is already
+relay chain แต่ และ และมันถูกวางแผนไว้แล้ว
 
 3669
 02:13:40,239 --> 02:13:43,840
-planned and i think it will be very
+และคิดว่าคงจะดีมาก
 
 3670
 02:13:42,079 --> 02:13:45,280
-important for us to build a fully
+สำคัญมากสำหรับเราในการสร้าง
 
 3671
 02:13:43,840 --> 02:13:48,719
-decentralized
+กระจายอำนาจอย่างเต็มที่
 
 3672
 02:13:45,280 --> 02:13:52,000
-like the incentive for the slot auction
+เช่นแรงจูงใจในการประมูลสล็อต
 
 3673
 02:13:48,719 --> 02:13:56,079
-is it will take use of this feature
+จะใช้คุณสมบัตินี้หรือไม่
 
 3674
 02:13:52,000 --> 02:14:00,320
-yeah okay um
+ใช่ โอเค อืม
 
 3675
 02:13:56,079 --> 02:14:02,400
-so okay so you you all are building uh
+โอเค พวกคุณทุกคนกำลังสร้าง uh
 
 3676
 02:14:00,320 --> 02:14:04,400
-are part of the infrastructure to enable
+เป็นส่วนหนึ่งของโครงสร้างพื้นฐานที่จะเปิดใช้งาน
 
 3677
 02:14:02,400 --> 02:14:08,320
-different dabs uh to come
+dapp ที่แตกต่างกันให้ใช้งาน
 
 3678
 02:14:04,400 --> 02:14:11,440
-live on on polka dot um so
+อยู่บน polka dot 
 
 3679
 02:14:08,320 --> 02:14:13,679
-just stepping back a little bit
+แค่ถอยหลังนิดหน่อย
 
 3680
 02:14:11,440 --> 02:14:15,520
-why should developers be building on
+เหตุใดนักพัฒนาจึงควรสร้างบน
 
 3681
 02:14:13,679 --> 02:14:16,719
-polka dot in the first place like what
+polka dot เป็นที่แรก เหมือน อะไรคือ
 
 3682
 02:14:15,520 --> 02:14:19,920
-are the advantages
+คือข้อดี
 
 3683
 02:14:16,719 --> 02:14:22,880
-that uh this um this
+คืออะไร
 
 3684
 02:14:19,920 --> 02:14:23,679
-uh chain and i guess ecosystem of of
+เอ่อเชนและฉันเดาว่าระบบนิเวศของ
 
 3685
 02:14:22,880 --> 02:14:26,159
-chains
+เชน
 
 3686
 02:14:23,679 --> 02:14:28,400
-provides that other other layer ones
+ให้ชั้นอื่น ๆ
 
 3687
 02:14:26,159 --> 02:14:28,400
-don't
+  ไม่
 
 3688
 02:14:28,719 --> 02:14:32,159
-i can jump in on that um for some first
+ฉันจะตอบคำถามนี้ สำหรับความคิด
 
 3689
 02:14:31,119 --> 02:14:34,400
-thoughts that uh
+แรกนั้น
 
 3690
 02:14:32,159 --> 02:14:35,679
-i mean i think what we're seeing is um
+ฉันหมายถึง ฉันคิดว่าสิ่งที่เราเห็นคือ อืม
 
 3691
 02:14:34,400 --> 02:14:37,520
-you know obviously
+รู้แน่ชัด
 
 3692
 02:14:35,679 --> 02:14:38,719
-almost all the existing activities on
+กิจกรรมที่มีอยู่เกือบทั้งหมดบน
 
 3693
 02:14:37,520 --> 02:14:40,400
-ethereum so that's kind of
+ethereum นั่นคือสิ่งที่
 
 3694
 02:14:38,719 --> 02:14:42,320
-where most of the existing developer
+นักพัฒนาซอฟต์แวร์ส่วนใหญ่
 
 3695
 02:14:40,400 --> 02:14:44,000
-activity is uh but there's definitely
+มีกิจกรรมอยู่ แต่มีแน่นอน
 
 3696
 02:14:42,320 --> 02:14:44,639
-kind of a push and a pull going on right
+ประเภทของการผลักและดึง ใช่ไหม
 
 3697
 02:14:44,000 --> 02:14:46,079
-so the
+ดังนั้น
 
 3698
 02:14:44,639 --> 02:14:48,079
-the push as was mentioned you know by
+แรงผลักดันดังที่ได้กล่าวมา โดย
 
 3699
 02:14:46,079 --> 02:14:51,040
-some of the previous panelists is
+ผู้ร่วมอภิปรายก่อนหน้านี้บางคนคือ
 
 3700
 02:14:48,079 --> 02:14:52,400
-you know 100 transaction fees 300 you
+100 ค่าธรรมเนียมการทำธุรกรรม 300
 
 3701
 02:14:51,040 --> 02:14:54,480
-know d5 fees that
+ค่าธรรมเนียมของdefi นั้น
 
 3702
 02:14:52,400 --> 02:14:55,840
