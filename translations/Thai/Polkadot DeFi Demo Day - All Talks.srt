@@ -6356,19 +6356,19 @@ evm bytecode
 
 1590
 00:55:41,040 --> 00:55:43,760
-all the ethereum-based tools that you
+เครื่องมือที่ใช้ ethereum ทั้งหมดที่คุณ
 
 1591
 00:55:42,559 --> 00:55:46,480
-know and love already
+รู้และรักแล้ว
 
 1592
 00:55:43,760 --> 00:55:48,480
-such as metamask truffle remix hard hat
+เช่น metamask truffle remix hard hat
 
 1593
 00:55:46,480 --> 00:55:50,000
-we have a bunch of documentation and
+เรามีเอกสารมากมายและ
 
 1594
 00:55:48,480 --> 00:55:51,839
