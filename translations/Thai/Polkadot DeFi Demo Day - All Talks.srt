@@ -15801,207 +15801,207 @@ polka dot คือ
 
 3951
 02:23:08,319 --> 02:23:11,680
-uh this idea um called conway's law
+เอ่อ ความคิดนี้ อืม เรียกว่ากฎของคอนเวย์
 
 3952
 02:23:10,640 --> 02:23:13,200
-right that there's this kind of
+มันมีประเภทของ
 
 3953
 02:23:11,680 --> 02:23:15,439
-connection between
+การเชื่อมต่อระหว่าง
 
 3954
 02:23:13,200 --> 02:23:17,359
-the structure of the architecture of
+โครงสร้างของสถาปัตยกรรมของ
 
 3955
 02:23:15,439 --> 02:23:19,680
-software and the organization
+ซอฟต์แวร์และองค์กร
 
 3956
 02:23:17,359 --> 02:23:21,040
-that like use it or build it and this is
+ที่ชอบใช้หรือสร้างและนี่คือ
 
 3957
 02:23:19,680 --> 02:23:22,000
-something i think is quite unique about
+สิ่งที่ฉันคิดว่าค่อนข้างพิเศษเกี่ยวกับ
 
 3958
 02:23:21,040 --> 02:23:23,840
-polkadot where
+polkadot ที่
 
 3959
 02:23:22,000 --> 02:23:25,200
-i mean every blockchain you know you're
+ฉันหมายถึงทุกๆ blockchain ที่คุณรู้ว่าคุณคือ
 
 3960
 02:23:23,840 --> 02:23:26,640
-kind of creating this community and you
+ชนิดของการสร้างชุมชนนี้และคุณ
 
 3961
 02:23:25,200 --> 02:23:27,920
-get this emergent phenomenon of
+รับปรากฏการณ์นี้ของ
 
 3962
 02:23:26,640 --> 02:23:30,000
-something that emerges that's
+สิ่งที่โผล่ออกมานั่นคือ
 
 3963
 02:23:27,920 --> 02:23:31,520
-kind of greater than some of its parts
+มากกว่าบางส่วนของมัน
 
 3964
 02:23:30,000 --> 02:23:32,640
-but you know in poconos almost like the
+แต่คุณรู้ใน rococo เกือบจะเหมือน
 
 3965
 02:23:31,520 --> 02:23:34,319
-super structure right i've seen i've
+โครงสร้างที่สุดยอดมาก ฉันเห็นแล้ว
 
 3966
 02:23:32,640 --> 02:23:35,280
-heard people say it's a layer zero or
+ได้ยินคนพูดว่าเป็นชั้นศูนย์หรือ
 
 3967
 02:23:34,319 --> 02:23:36,319
-it's you know they're using this
+คุณรู้ว่าพวกเขากำลังใช้สิ่งนี้
 
 3968
 02:23:35,280 --> 02:23:37,680
-different terminology it's a little bit
+คำศัพท์ต่างกันนิดหน่อย
 
 3969
 02:23:36,319 --> 02:23:38,880
-hard to understand but it is kind of
+เข้าใจยากแต่ก็แบบ
 
 3970
 02:23:37,680 --> 02:23:41,120
-this idea where
+ความคิดนี้ที่
 
 3971
 02:23:38,880 --> 02:23:42,479
-each of us here on the screen each have
+เราแต่ละคนที่นี่บนหน้าจอแต่ละคนมี
 
 3972
 02:23:41,120 --> 02:23:44,640
-our own project that are doing that
+โครงการของเราเองที่กำลังทำ
 
 3973
 02:23:42,479 --> 02:23:46,240
-but then we're all kind of together then
+แต่แล้วเราก็อยู่ด้วยกันอย่างนั้น
 
 3974
 02:23:44,640 --> 02:23:47,359
-building some like larger thing right it
+สร้างบางอย่างเหมือนสิ่งที่ใหญ่กว่าใช่ไหม
 
 3975
 02:23:46,240 --> 02:23:48,319
-feels like you're part of something
+มันรู้สึกเหมือนคุณเป็นส่วนหนึ่งของบางสิ่ง
 
 3976
 02:23:47,359 --> 02:23:49,760
-larger
+ใหญ่ขึ้น
 
 3977
 02:23:48,319 --> 02:23:51,920
-so i do think that that's something
+ฉันก็เลยคิดว่านั่นคือบางอย่าง
 
 3978
 02:23:49,760 --> 02:23:54,800
-that's you know that is
+นั่นคือ
 
 3979
 02:23:51,920 --> 02:23:56,160
-is unique here and um that's like one of
+เป็นเอกลักษณ์ของที่นี่ และ อืม ที่เหมือนกับหนึ่งใน
 
 3980
 02:23:54,800 --> 02:23:57,920
-the powerful ideas that i think
+ความคิดที่ทรงพลังที่ฉันคิด
 
 3981
 02:23:56,160 --> 02:23:59,200
-helps organize like the community you
+ช่วยจัดระเบียบเหมือนชุมชนที่คุณ
 
 3982
 02:23:57,920 --> 02:24:00,319
-know in a way that
+ในทางนั้น
 
 3983
 02:23:59,200 --> 02:24:01,760
-is different it's like the structure of
+ต่างกันก็เหมือนกับโครงสร้างของ
 
 3984
 02:24:00,319 --> 02:24:03,280
-the software lends itself to this
+ซอฟต์แวร์ยืมตัวเองเพื่อสิ่งนี้
 
 3985
 02:24:01,760 --> 02:24:05,280
-organization of the community
+ขององค์กรของชุมชน
 
 3986
 02:24:03,280 --> 02:24:08,000
-in a way that maybe isn't the case with
+ในแบบที่อาจจะไม่ใช่กับ
 
 3987
 02:24:05,280 --> 02:24:08,000
-other platforms
+แพลตฟอร์มอื่นๆ
 
 3988
 02:24:08,080 --> 02:24:11,920
-yeah i think that's that's always the
+ใช่ ฉันคิดว่านั่นคือ
 
 3989
 02:24:10,720 --> 02:24:14,399
-case when when just
+กรณีเสมอ เมื่อเพียง
 
 3990
 02:24:11,920 --> 02:24:15,840
-starting something out and being there
+เริ่มต้นบางสิ่งบางอย่างออกไปและอยู่ที่นั่น
 
 3991
 02:24:14,399 --> 02:24:18,479
-first i think it's it
+ตอนแรกนึกว่าจะ
 
 3992
 02:24:15,840 --> 02:24:19,520
-must be super exciting for uh adapt
+คงจะตื่นเต้นสุดๆสำหรับ ปรับตัว
 
 3993
 02:24:18,479 --> 02:24:22,640
-developers
+นักพัฒนา
 
 3994
 02:24:19,520 --> 02:24:24,880
-um alex i don't know if you had
+อืม อเล็กซ์ ฉันไม่รู้ว่าคุณมี
 
 3995
 02:24:22,640 --> 02:24:26,080
-something said about the previous
+บางอย่างกล่าวไว้คำถามก่อนหน้านี้
 
 3996
 02:24:24,880 --> 02:24:28,160
-questions
+ 
 
 3997
 02:24:26,080 --> 02:24:29,120
-sure i mean i guess like i mean it's a
+แน่นอน ฉันหมายถึงฉันเดา ว่ามันคือ
 
 3998
 02:24:28,160 --> 02:24:30,640
-tough question right
+คำถามที่ยากใช่มั้ย
 
 3999
 02:24:29,120 --> 02:24:32,000
-like what makes polka dots special what
+อะไรที่ทำให้ polka dots พิเศษ
 
 4000
 02:24:30,640 --> 02:24:33,200
-can we build we cannot build on a few
+เราจะสร้างอะไรได้บ้าง เราไม่สามารถสร้าง
 
 4001
 02:24:32,000 --> 02:24:34,800
-other chains and
+ด้วยเชนอื่นอีกสองสามสายและ
 
 4002
 02:24:33,200 --> 02:24:36,960
