@@ -16017,595 +16017,595 @@ polkadot ที่
 
 4005
 02:24:38,479 --> 02:24:41,359
-ourselves um
+ตัวเราเอง อืม
 
 4006
 02:24:39,520 --> 02:24:42,560
-it's not about the applications but on
+มันไม่เกี่ยวกับแอพแต่อยู่ที่
 
 4007
 02:24:41,359 --> 02:24:44,720
-the technological side
+ด้านเทคโนโลยี
 
 4008
 02:24:42,560 --> 02:24:47,120
-it's like the main benefit of polkadot
+มันเหมือนประโยชน์หลักของpolkadot
 
 4009
 02:24:44,720 --> 02:24:48,399
-is that you can customize your execution
+คือคุณสามารถปรับแต่งการดำเนินการของคุณได้
 
 4010
 02:24:47,120 --> 02:24:50,319
-now we can we'll be able to build the
+ตอนนี้เราสามารถทำได้ เราจะสามารถสร้าง
 
 4011
 02:24:48,399 --> 02:24:51,600
-same applications like dexa is like on
+แอปพลิเคชันเดียวกันเช่น dexa ก็เหมือนกับ on
 
 4012
 02:24:50,319 --> 02:24:53,439
-ethereum and
+ethereum และ
 
 4013
 02:24:51,600 --> 02:24:54,800
-um i mean emm is definitely a zero to
+อืม ฉันหมายถึง  เป็นศูนย์แน่นอน
 
 4014
 02:24:53,439 --> 02:24:56,720
-one invention but
+หนึ่งสิ่งประดิษฐ์แต่
 
 4015
 02:24:54,800 --> 02:24:58,080
-i mean potentially you cannot move
+ฉันหมายความว่าคุณไม่สามารถ
 
 4016
 02:24:56,720 --> 02:25:00,880
-towards more
+ก้าวไปข้างหน้าได้มากกว่านี้
 
 4017
 02:24:58,080 --> 02:25:02,399
-traditional um models which have less
+ปสู่โมเดล um ดั้งเดิมที่มี
 
 4018
 02:25:00,880 --> 02:25:03,359
-problems like avoid the permanent loss
+ปัญหาน้อยกว่าเช่นหลีกเลี่ยงการสูญเสียถาวร
 
 4019
 02:25:02,399 --> 02:25:04,880
-for example or even
+เช่น หรือแม้แต่
 
 4020
 02:25:03,359 --> 02:25:07,200
-manage to build some form of order book
+จัดการสร้างหนังสือสั่งซื้อบางรูปแบบ
 
 4021
 02:25:04,880 --> 02:25:10,399
-system on top of polka
+ระบบที่ด้านบนของpolkadot
 
 4022
 02:25:07,200 --> 02:25:12,080
-but then again it's it's it's a very
+แต่แล้วอีกครั้งมันเป็น
 
 4023
 02:25:10,399 --> 02:25:13,920
-tough question to answer and predict um
+คำถามที่ตอบยากมากและคาดเดา
 
 4024
 02:25:12,080 --> 02:25:15,680
-what we can see right now for example is
+สิ่งที่เราเห็นได้ในตอนนี้ เช่น
 
 4025
 02:25:13,920 --> 02:25:17,120
-that when building new applications
+ว่าเมื่อสร้างแอปพลิเคชันใหม่
 
 4026
 02:25:15,680 --> 02:25:18,800
-you have much more flexibility i mean
+คุณมีความยืดหยุ่นมากขึ้นฉันหมายถึง
 
 4027
 02:25:17,120 --> 02:25:20,800
-from our example we were able to build
+จากตัวอย่างของเรา เราก็สร้างได้
 
 4028
 02:25:18,800 --> 02:25:23,840
-an on-chain key derivation mechanism
+กลไกการได้มาซึ่งมีคีย์แบบ on-chain
 
 4029
 02:25:20,800 --> 02:25:25,280
-um to derive um bitcoin addresses
+เพื่อรับที่อยู่ bitcoin
 
 4030
 02:25:23,840 --> 02:25:27,280
-essentially what your wallets typically
+โดยทั่วไปสิ่งที่กระเป๋าสตางค์ของคุณมักจะ
 
 4031
 02:25:25,280 --> 02:25:29,120
-would do off chain on polkadot on chain
+จะทำนอกโซ่บนเชน polkadot
 
 4032
 02:25:27,280 --> 02:25:30,800
-this is impossible on ethereum the costs
+สิ่งนี้เป็นไปไม่ได้บน ethereum ค่าใช้จ่าย
 
 4033
 02:25:29,120 --> 02:25:32,960
-of doing optical operations
+ของการดำเนินการ
 
 4034
 02:25:30,800 --> 02:25:34,240
-on the vm are way too high and you kill
+บน evm สูงเกินไปและคุณฆ่า
 
 4035
 02:25:32,960 --> 02:25:35,840
-the application
+แอพพลิเคชั่น
 
 4036
 02:25:34,240 --> 02:25:37,359
-but we can now actually say okay we're
+แต่ตอนนี้เราสามารถพูดได้จริงๆ ว่าเรา
 
 4037
 02:25:35,840 --> 02:25:40,479
-not going to optimize
+จะไม่เพิ่มประสิทธิภาพ
 
 4038
 02:25:37,359 --> 02:25:41,840
-each line of code at the cost of
+โค้ดแต่ละบรรทัดด้วยต้นทุนการใช้งาน
 
 4039
 02:25:40,479 --> 02:25:43,120
-usability we can actually
+เราสามารถมั่นใจได้ว่า
 
 4040
 02:25:41,840 --> 02:25:45,040
-make sure that the users have a better
+ผู้ใช้จะมี
 
 4041
 02:25:43,120 --> 02:25:46,960
-experience and still not
+ประสบการณ์ที่ดีขึ้นแต่ยัง
 
 4042
 02:25:45,040 --> 02:25:48,640
-actually like slow down the entire
+ไม่ถึงกับทำให้ช้าลง
 
 4043
 02:25:46,960 --> 02:25:50,080
-system and make the application unusable
+และทำให้แอปพลิเคชันใช้งานไม่ได้
 
 4044
 02:25:48,640 --> 02:25:50,720
-because the performance bottlenecks so i
+เพราะผลของคอขวด ดังนั้น
 
 4045
 02:25:50,080 --> 02:25:52,800
-think
+ฉันคิด
 
 4046
 02:25:50,720 --> 02:25:54,479
-that's at the moment i think the largest
+นั่นคือตอนนี้ฉันคิดว่าประโยชน์ที่ใหญ่ที่สุด
 
 4047
 02:25:52,800 --> 02:25:55,920
-benefit you can customize what you're
+ที่คุณสามารถปรับแต่งสิ่งที่คุณ
 
 4048
 02:25:54,479 --> 02:25:57,439
-building you can optimize for the
+สร้าง คุณสามารถเพิ่มประสิทธิภาพสำหรับ
 
 4049
 02:25:55,920 --> 02:25:58,800
-specific thing that you want
+เฉพาะสิ่งที่คุณต้องการ
 
 4050
 02:25:57,439 --> 02:26:00,560
-rather than having to work with this
+แทนที่จะต้องทำงานด้วย
 
 4051
 02:25:58,800 --> 02:26:03,359
-universal toolkit which i think
+ชุดเครื่องมือทั่วไปที่ฉันคิดว่า
 
 4052
 02:26:00,560 --> 02:26:04,880
-like dvm is is a brilliant thing that we
+เช่น dvm เป็นสิ่งที่ยอดเยี่ยมที่เรา
 
 4053
 02:26:03,359 --> 02:26:05,600
-had and we still have i mean a lot of
+มีและเรายังมีฉันหมายถึงหลายๆ
 
 4054
 02:26:04,880 --> 02:26:07,600
-projects
+โครงการ
 
 4055
 02:26:05,600 --> 02:26:09,520
-are deploying evms on top of their power
+กำลังปรับใช้ evms บนพาราเชนของพวกเขา
 
 4056
 02:26:07,600 --> 02:26:10,880
-chains because it is so easy for
+เพราะมันง่ายมากสำหรับ
 
 4057
 02:26:09,520 --> 02:26:13,200
-developers to get it
+นักพัฒนาที่จะได้รับมัน
 
 4058
 02:26:10,880 --> 02:26:14,560
-to actually to build on the system but
+เพื่อสร้างบนระบบแต่
 
 4059
 02:26:13,200 --> 02:26:15,680
-if you want to dig in deeper if you
+ถ้าคุณต้องการเจาะลึกถ้าคุณ
 
 4060
 02:26:14,560 --> 02:26:17,120
-actually want to build something more
+จริงๆแล้วต้องการสร้างอะไรมากกว่านี้
 
 4061
 02:26:15,680 --> 02:26:18,640
-complex
+ซับซ้อนกว่า
 
 4062
 02:26:17,120 --> 02:26:20,080
-i think that's when you actually will
+ฉันคิดว่านั่นคือตอนที่คุณจะ
 
 4063
 02:26:18,640 --> 02:26:21,439
-want to go for power chain and then of
+ต้องการที่จะไปสำหรับพาราเชนและแน่นอน
 
 4064
 02:26:20,080 --> 02:26:22,800
-course you have the argument for rust
+ณมีอาร์กิวเมนต์สำหรับrust
 
 4065
 02:26:21,439 --> 02:26:26,000
-and wasm over
+และ wasm
 
 4066
 02:26:22,800 --> 02:26:26,640
-um solidity and the vm in the long term
+solidity และ vm ในระยะยาว
 
 4067
 02:26:26,000 --> 02:26:28,160
-but
+แต่
 
 4068
 02:26:26,640 --> 02:26:29,920
-that's that's i think a bet people will
+นั่นคือฉันคิดว่าคนจะเดิมพัน
 
 4069
 02:26:28,160 --> 02:26:33,040
-have to take right
+ที่คนต้องเสี่ยงถูกไหม
 
 4070
 02:26:29,920 --> 02:26:36,560
-yeah so there's a kind of the
+ใช่ มีชนิดของ
 
 4071
 02:26:33,040 --> 02:26:39,600
-um over lying
+ 
 
 4072
 02:26:36,560 --> 02:26:40,960
-over like the broad theme um i've heard
+เหมือนกับหัวข้อกว้างๆ อืม ฉันเคยได้ยินมานะ
 
 4073
 02:26:39,600 --> 02:26:43,760
-today is
+วันนี้เป็น
 
 4074
 02:26:40,960 --> 02:26:44,080
-how specialization will will win in the
+ความเชี่ยวชาญจะชนะได้อย่างไรใน
 
 4075
 02:26:43,760 --> 02:26:46,880
-end
+ตอนจบ
 
 4076
 02:26:44,080 --> 02:26:48,720
-and people will want kind of these um
+และคนจะต้องการแบบนี้ อืม
 
 4077
 02:26:46,880 --> 02:26:50,399
-more uh
+มากขึ้น
 
 4078
 02:26:48,720 --> 02:26:52,160
-these kind of blockchains that you can
+บล็อคเชนเหล่านี้ที่คุณ
 
 4079
 02:26:50,399 --> 02:26:55,439
-modify to your own
+ปรับเปลี่ยนได้เป็นโปรเจคของคุณเอง
 
 4080
 02:26:52,160 --> 02:26:58,319
-projects uh features and and needs so
+เอ่อคุณสมบัติและความต้องการดังนั้น
 
 4081
 02:26:55,439 --> 02:26:59,680
-um yeah definitely will be interesting
+อืม คงจะน่าสนใจไม่น้อย
 
 4082
 02:26:58,319 --> 02:27:01,439
-to see how that develops and
+เพื่อดูว่ามันพัฒนาอย่างไรและ
 
 4083
 02:26:59,680 --> 02:27:02,960
-let's say i just had a specific question
+สมมุติว่าฉันมีคำถามเฉพาะ
 
 4084
 02:27:01,439 --> 02:27:06,399
-on on the bitcoin
+บน bitcoin
 
 4085
 02:27:02,960 --> 02:27:10,160
-uh bridge because i think kind of the
+เอ่อ สะพาน เพราะฉันคิดว่า
 
 4086
 02:27:06,399 --> 02:27:13,680
-the main um issue with these bridges are
+ปัญหาหลักของสะพานเหล่านี้คือ
 
 4087
 02:27:10,160 --> 02:27:16,720
-how they need to trust um
+พวกเขาต้องเชื่อใจ อืม
 
 4088
 02:27:13,680 --> 02:27:17,359
-uh who who is controlling the assets in
+เอ่อใครเป็นผู้ควบคุมทรัพย์สินใน
 
 4089
 02:27:16,720 --> 02:27:20,000
-the bridge
+สะพาน
 
 4090
 02:27:17,359 --> 02:27:21,359
-so just wanted to to clarify that with
+เลยอยากจะชี้แจงว่าด้วย
 
 4091
 02:27:20,000 --> 02:27:23,359
-interlake how
+อินเตอร์เลค
 
 4092
 02:27:21,359 --> 02:27:24,800
-uh what what level of control does the
+เอ่อ การควบคุมระดับใดที่
 
 4093
 02:27:23,359 --> 02:27:27,359
-team have over
+ทีมสามารถควบคุมได้
 
 4094
 02:27:24,800 --> 02:27:29,200
-uh the assets being held on the bridge
+เอ่อ ทรัพย์สินที่ถูกถือไว้บนสะพาน
 
 4095
 02:27:27,359 --> 02:27:30,240
-on like bitcoin being transferred to the
+เหมือน bitcoin ถูกโอนไป
 
 4096
 02:27:29,200 --> 02:27:32,479
-bridge
+ที่สะพาน
 
 4097
 02:27:30,240 --> 02:27:34,880
-but we don't have any control at all um
+แต่เราไม่สามารถควบคุมได้เลย อืม
 
 4098
 02:27:32,479 --> 02:27:36,720
-so like exclaim is a is a paper that we
+ดังเช่น xclaim เป็นกระดาษที่เรา
 
 4099
 02:27:34,880 --> 02:27:38,080
-released in 2018 it's actually been peer
+เปิดตัวในปี 2018จริง ๆ แล้วได้รับการ
 
 4100
 02:27:36,720 --> 02:27:40,319
-reviewed and accepted at a
+ตรวจสอบโดยลูกข่ายและยอมรับที่
 
 4101
 02:27:38,080 --> 02:27:42,080
-conference and the main contribution was
+การประชุมและการสนับสนุนหลักคือ
 
 4102
 02:27:40,319 --> 02:27:44,000
-that anyone can run only one of these
+ที่ใครๆ ก็สามารถใช้งานได้เพียงแห่งเดียว
 
 4103
 02:27:42,080 --> 02:27:46,479
-vaults if they put down collateral
+เท่านั้น หากวางหลักประกันลง
 
 4104
 02:27:44,000 --> 02:27:48,160
-so users have to guarantee that if
+ดังนั้นผู้ใช้จึงต้องรับประกันว่า ถ้า
 
 4105
 02:27:46,479 --> 02:27:50,000
-someone misbehaves they'll get
+มีคนประพฤติผิดพวกเขาจะได้รับ
 
 4106
 02:27:48,160 --> 02:27:51,359
-at least they will kind of have some
+อย่างน้อยพวกเขาก็จะมี
 
 4107
 02:27:50,000 --> 02:27:51,920
-financial guarantees that they won't
+การค้ำประกันทางการเงินบางส่วนที่พวกเขาจะไม่
 
 4108
 02:27:51,359 --> 02:27:53,920
-lose
+สูญเสีย
 
 4109
 02:27:51,920 --> 02:27:55,760
-from the economic perspective in chile
+จากมุมมองทางเศรษฐกิจใน
 
 4110
 02:27:53,920 --> 02:27:57,520
-as a team okay we might run one of these
+ทีม โอเค เราอาจเรียกใช้หนึ่งใน
 
 4111
 02:27:55,760 --> 02:27:59,120
-vaults but so can anybody else there is
+ห้องนิรภัย แต่คนอื่น ๆ สามารถมีได้
 
 4112
 02:27:57,520 --> 02:28:01,120
-no restrictions you don't have to buy
+ไม่มีข้อจำกัด ไม่ต้องซื้อ
 
 4113
 02:27:59,120 --> 02:28:03,040
-any tokens to participate
+โทเค็นใด ๆ ที่จะเข้าร่วม
 
 4114
 02:28:01,120 --> 02:28:05,040
-and as for the perch in itself it will
+และคอนในตัวมันจะ
 
 4115
 02:28:03,040 --> 02:28:06,080
-be running under polka dots governance
+จะวิ่งภายใต้การปกครองของpolka dots
 
 4116
 02:28:05,040 --> 02:28:07,920
-mechanics
+กลศาสตร์
 
 4117
 02:28:06,080 --> 02:28:09,520
-um i can't say too much at this stage
+เอ่อ พูดมากไม่ได้ในขั้นตอนนี้
 
 4118
 02:28:07,920 --> 02:28:11,760
-but we are going for one
+แต่เรากำลังจะไปหนึ่ง
 
 4119
 02:28:09,520 --> 02:28:13,520
-we are actually looking to make this a
+เรากำลังมองหาที่จะทำให้
 
 4120
 02:28:11,760 --> 02:28:15,680
-system that's available for common good
+ระบบที่มีให้เพื่อสาธารณประโยชน์
 
 4121
 02:28:13,520 --> 02:28:17,920
-without going into more detail there
+โดยไม่ต้องลงรายละเอียดเพิ่มเติม
 
 4122
 02:28:15,680 --> 02:28:19,520
-so intelli won't have full control over
+มันจึงไม่สามารถควบคุมได้อย่างเต็มที่
 
 4123
 02:28:17,920 --> 02:28:21,200
-this and it's that's not our vision and
+นี้และนั่นไม่ใช่วิสัยทัศน์ของเราและ
 
 4124
 02:28:19,520 --> 02:28:23,120
-we don't want to have control over it
+เราไม่ต้องการที่จะควบคุมมัน
 
 4125
 02:28:21,200 --> 02:28:24,240
-so that year is to have a decentralized
+เพื่อให้ปีนั้นมีการกระจายอำนาจ
 
 4126
 02:28:23,120 --> 02:28:26,160
-from the start
+ตั้งแต่เริ่มต้น
 
 4127
 02:28:24,240 --> 02:28:27,680
-and what i can say like we will never be
+และสิ่งที่ฉันพูดได้เหมือนเราจะไม่
 
 4128
 02:28:26,160 --> 02:28:28,800
-able to steal any uses funds and we
+สามารถขโมยเงินใช้ใด ๆ และเรา
 
 4129
 02:28:27,680 --> 02:28:30,720
-never want to be able
+ไม่เคยต้องการที่จะสามารถ
 
 4130
 02:28:28,800 --> 02:28:32,080
-even to like even tell the possibility
+บอกความเป็นไป
 
 4131
 02:28:30,720 --> 02:28:35,600
-of doing that
+ของการทำเช่นนั้น
 
 4132
 02:28:32,080 --> 02:28:37,359
-okay so anyone can can control vaults
+โอเค ใครๆ ก็คุมห้องนิรภัยได้
 
 4133
 02:28:35,600 --> 02:28:39,280
-and one what's the incentive for
+และสิ่งหนึ่งที่เป็นแรงจูงใจสำหรับ
 
 4134
 02:28:37,359 --> 02:28:41,359
-controlling vaults
+การควบคุมห้องนิรภัย
 
 4135
 02:28:39,280 --> 02:28:43,359
-so right now basically i mean you earn
+โดยพื้นฐานแล้วตอนนี้ฉันหมายถึงคุณได้รับเงิน
 
 4136
 02:28:41,359 --> 02:28:45,439
-um fees of the total volume
+ค่าธรรมเนียมของปริมาณทั้งหมด
 
 4137
 02:28:43,359 --> 02:28:46,880
-that goes to the power chain and then
+ที่ไปที่พาราเชนแล้ว
 
 4138
 02:28:45,439 --> 02:28:48,800
-there will be models
+จะมีรุ่น
 
 4139
 02:28:46,880 --> 02:28:50,560
-for additional incentives for vaults in
+สำหรับสิ่งจูงใจเพิ่มเติมสำหรับห้องนิรภัยใน
 
 4140
 02:28:48,800 --> 02:28:52,880
-collaboration with polka dots
+ร่วมกับpolka dots
 
 4141
 02:28:50,560 --> 02:28:54,000
-plus of course taking derivatives are a
+บวกกับการหาอนุพันธ์คือ
 
 4142
 02:28:52,880 --> 02:28:55,120
-very interesting aspect
+ด้านที่น่าสนใจมาก
 
 4143
 02:28:54,000 --> 02:28:57,280
-aspect that we're exploring at the
+ด้านที่เรากำลังสำรวจอยู่ที่
 
 4144
 02:28:55,120 --> 02:28:58,880
-moment um so you will look so
+ขณะนี้ ดังนั้นคุณจะดูดังนั้น
 
 4145
 02:28:57,280 --> 02:29:00,319
-essentially what's going to most likely
+โดยพื้นฐานแล้วสิ่งที่เป็นไปได้มากที่สุด
 
 4146
 02:28:58,880 --> 02:29:02,720
-happen is you'll be able to reuse the
+ที่จะเกิดขึ้นคือคุณจะสามารถนำ กลับมาใช้ใหม่ได้
 
 4147
 02:29:00,319 --> 02:29:04,160
-collateral that you put down as a vault
+หลักประกันที่คุณวางลงในห้องนิรภัย
 
 4148
 02:29:02,720 --> 02:29:05,840
-either freely change taking for
+เปลี่ยนการ
 
 4149
 02:29:04,160 --> 02:29:08,000
-parachuting auctions or other
+การประมูลหรือกลไก
 
 4150
 02:29:05,840 --> 02:29:09,920
-mechanisms and you'll essentially have
+อื่น ๆ ได้อย่างอิสระ
 
 4151
 02:29:08,000 --> 02:29:10,880
-exposure to different apis so the
+และคุณจะได้สัมผัสกับ apis ที่แตกต่างกัน
 
 4152
 02:29:09,920 --> 02:29:13,280
-additive
+สิ่งที่เพิ่มเข้าไป
 
 4153
 02:29:10,880 --> 02:29:15,120
