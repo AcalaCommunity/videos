@@ -6396,191 +6396,191 @@ evm bytecode
 
 1600
 00:56:00,480 --> 00:56:04,079
-the we have modified the underlying
+ที่เราได้ปรับเปลี่ยนพื้นฐาน
 
 1601
 00:56:02,480 --> 00:56:06,480
-account system of our
+ระบบบัญชีของเรา
 
 1602
 00:56:04,079 --> 00:56:08,319
-para chain to standardize it where we
+Para chain เพื่อสร้างมาตรฐานในที่ที่เรา
 
 1603
 00:56:06,480 --> 00:56:10,240
-standardize the account and key format
+สร้างมาตรฐานบัญชีและรูปแบบคีย์
 
 1604
 00:56:08,319 --> 00:56:12,000
-to that of ethereum this is really
+ของ ethereum นี่คือจริงๆ
 
 1605
 00:56:10,240 --> 00:56:13,599
-exciting because it means that when you
+น่าตื่นเต้นเพราะหมายความว่าเมื่อคุณ
 
 1606
 00:56:12,000 --> 00:56:14,799
-interact with our evm
+เพื่อโต้ตอบกับ
 
 1607
 00:56:13,599 --> 00:56:16,720
-you're going to use your ethereum
+คุณจะใช้ ethereum ของคุณ
 
 1608
 00:56:14,799 --> 00:56:18,720
-account and your ethereum private key as
+บัญชีและคีย์ส่วนตัว ethereum ของคุณเป็น
 
 1609
 00:56:16,720 --> 00:56:20,400
-you would do right now on ethereum
+คุณจะทำตอนนี้บน ethereum
 
 1610
 00:56:18,720 --> 00:56:22,319
-but then would you move to other like
+แต่แล้วคุณจะย้ายไปที่อื่นเช่น
 
 1611
 00:56:20,400 --> 00:56:22,559
-substrate based features or like parity
+คุณสมบัติตามพื้นผิวหรือความเท่าเทียมกัน
 
 1612
 00:56:22,319 --> 00:56:24,319
-in
+ใน
 
 1613
 00:56:22,559 --> 00:56:26,559
-standard features like governance or
+คุณสมบัติมาตรฐานเช่นการกำกับดูแลหรือ
 
 1614
 00:56:24,319 --> 00:56:27,520
-staking which we just basically roll out
+การปักหลักที่เราเพิ่งจะแผ่ออกไป
 
 1615
 00:56:26,559 --> 00:56:29,839
-to our tested
+สู่การทดสอบของเรา
 
 1616
 00:56:27,520 --> 00:56:30,720
-a few weeks ago you're going to do all
+ไม่กี่สัปดาห์ก่อน คุณจะทำทุกอย่าง
 
 1617
 00:56:29,839 --> 00:56:32,559
-that as well
+นั้นด้วย
 
 1618
 00:56:30,720 --> 00:56:34,240
-with the same ethereum account and
+ด้วยบัญชี ethereum เดียวกันและ
 
 1619
 00:56:32,559 --> 00:56:35,839
-private key which is very exciting for
+คีย์ส่วนตัวที่น่าตื่นเต้นมากสำหรับ
 
 1620
 00:56:34,240 --> 00:56:37,680
-us to share this with you
+เราจะแบ่งปันสิ่งนี้กับคุณ
 
 1621
 00:56:35,839 --> 00:56:39,680
-and on top of all we have we have been
+และเหนือสิ่งอื่นใดที่เรามี เราเคยเป็น
 
 1622
 00:56:37,680 --> 00:56:40,640
-building a great ecosystem of different
+การสร้างระบบนิเวศที่ดีที่แตกต่าง
 
 1623
 00:56:39,680 --> 00:56:42,880
-integrations
+บูรณาการ
 
 1624
 00:56:40,640 --> 00:56:44,960
-a lot of them are defy oriented but we
+หลายคนมีความมุ่งมั่นท้าทาย แต่เรา
 
 1625
 00:56:42,880 --> 00:56:46,319
-have other great integrations as well
+มีการบูรณาการที่ยอดเยี่ยมอื่น ๆ เช่นกัน
 
 1626
 00:56:44,960 --> 00:56:48,640
-and we're truly excited about the
+และเรารู้สึกตื่นเต้นมากเกี่ยวกับ
 
 1627
 00:56:46,319 --> 00:56:51,040
-ecosystem we're building
+ระบบนิเวศที่เรากำลังสร้าง
 
 1628
 00:56:48,640 --> 00:56:51,920
-so why does a multi-chain strategy make
+เหตุใดกลยุทธ์หลายสายจึงสร้าง
 
 1629
 00:56:51,040 --> 00:56:53,599
-sense and
+ความรู้สึกและ
 
 1630
 00:56:51,920 --> 00:56:55,520
-for the sake of this presentation i'm
+เพื่อประโยชน์ของการนำเสนอนี้ฉัน
 
 1631
 00:56:53,599 --> 00:56:56,400
-only going to talk about the topic in
+จะพูดแต่เรื่องใน
 
 1632
 00:56:55,520 --> 00:56:59,200
-the middle
+ตรงกลาง
 
 1633
 00:56:56,400 --> 00:57:01,359
-and this is this is basically that new
+และนี่คือพื้นฐานที่ใหม่
 
 1634
 00:56:59,200 --> 00:57:02,480
-projects can be first movers in new
+โครงการสามารถเป็นตัวย้ายแรกในใหม่
 
 1635
 00:57:01,359 --> 00:57:04,960
-markets right
+ตลาด
 
 1636
 00:57:02,480 --> 00:57:06,079
-and a lot of these projects uh can can
+และโปรเจ็กต์เหล่านี้มากมาย ทำได้
 
 1637
 00:57:04,960 --> 00:57:08,720
-access
+เข้าไป
 
 1638
 00:57:06,079 --> 00:57:10,160
-through moonbeam to assets that are not
+ผ่าน moonbeam สู่ทรัพย์สินที่ไม่ใช่
 
 1639
 00:57:08,720 --> 00:57:12,480
-native uh
+ของพื้นเมือง
 
 1640
 00:57:10,160 --> 00:57:14,160
-natively available on ethereum right so
+ใช้ได้จริงบน ethereum ดังนั้น
 
 1641
 00:57:12,480 --> 00:57:16,799
-they can connect through moonbeam to
+สามารถเชื่อมต่อผ่าน moonbeam ถึง
 
 1642
 00:57:14,160 --> 00:57:18,799
-either polkadot and kusama and accent
+ทั้ง polkadot และ kusama และ accent
 
 1643
 00:57:16,799 --> 00:57:20,720
-access not only dot or ksm
+เข้าถึงไม่เพียงแต่ dot หรือ ksm
 
 1644
 00:57:18,799 --> 00:57:21,839
-but a growing list of perichine-based
+แต่รายการที่เพิ่มขึ้นของ perichine-based
 
 1645
 00:57:20,720 --> 00:57:23,200
-assets
+ทรัพย์สิน
 
 1646
 00:57:21,839 --> 00:57:25,119
-and we think this is important because
+และเราคิดว่านี่เป็นสิ่งสำคัญเพราะ
 
 1647
 00:57:23,200 --> 00:57:25,920
