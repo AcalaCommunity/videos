@@ -6584,35 +6584,35 @@ Para chain เพื่อสร้างมาตรฐานในที่ท
 
 1647
 00:57:23,200 --> 00:57:25,920
-this provides just a new whole market
+นี่เป็นเพียงตลาดใหม่ทั้งหมด
 
 1648
 00:57:25,119 --> 00:57:29,440
-that they can tap
+ที่พวกเขาสามารถแตะ
 
 1649
 00:57:25,920 --> 00:57:31,599
-into and uh how does moonbeam
+เข้าและเอ่อ moonbeam เป็นยังไงบ้าง
 
 1650
 00:57:29,440 --> 00:57:32,480
-plays out in this multi-chain uh world
+เล่นใน uh world ที่มีหลายสายนี้
 
 1651
 00:57:31,599 --> 00:57:33,839
-right so
+ใช่เลย
 
 1652
 00:57:32,480 --> 00:57:35,760
-basically let's say that you have your
+โดยพื้นฐานแล้ว สมมติว่าคุณมี
 
 1653
 00:57:33,839 --> 00:57:37,119
-solidity-based smart contracts and you
+สัญญาอัจฉริยะที่ยึดตามความแข็งแกร่งและคุณ
 
 1654
 00:57:35,760 --> 00:57:38,079
-can either have them deployed to
+สามารถนำไปปรับใช้ได้ที่
 
 1655
 00:57:37,119 --> 00:57:40,079
@@ -6620,255 +6620,255 @@ ethereum
 
 1656
 00:57:38,079 --> 00:57:41,920
-and then just let's say that you're
+แล้วสมมุติว่าคุณ
 
 1657
 00:57:40,079 --> 00:57:43,760
-using this this uh very common tool
+โดยใช้เครื่องมือที่ใช้กันทั่วไป เอ่อ นี้
 
 1658
 00:57:41,920 --> 00:57:44,400
-called truffle or let's say hard hat or
+เรียกว่า truffle หรือที่เรียกว่า hard hat หรือ
 
 1659
 00:57:43,760 --> 00:57:46,559
-whatever
+อะไรก็ตาม
 
 1660
 00:57:44,400 --> 00:57:48,240
-and you have uh truffle or hard hat set
+และคุณมีชุด truffle หรือ hard hat set
 
 1661
 00:57:46,559 --> 00:57:48,880
-up to deploy these contracts to a theme
+ขึ้นเพื่อปรับใช้สัญญาเหล่านี้กับธีม
 
 1662
 00:57:48,240 --> 00:57:50,960
-right
+ใช่ไหม
 
 1663
 00:57:48,880 --> 00:57:53,440
-and just by changing or adding the
+และเพียงแค่เปลี่ยนหรือเพิ่ม
 
 1664
 00:57:50,960 --> 00:57:54,160
-provider of mumbai's alpha or tesla for
+ผู้ให้บริการอัลฟาหรือเทสลาของมุมไบสำหรับ
 
 1665
 00:57:53,440 --> 00:57:56,480
-example
+ตัวอย่าง
 
 1666
 00:57:54,160 --> 00:57:57,839
-you can display those contracts exactly
+คุณสามารถแสดงสัญญาเหล่านั้นได้อย่างแน่นอน
 
 1667
 00:57:56,480 --> 00:57:58,960
-the same without with minor
+เหมือนกันโดยไม่มีผู้เยาว์
 
 1668
 00:57:57,839 --> 00:58:01,280
-modifications if
+เหมือนกันโดยไม่มีผู้เยาว์
 
 1669
 00:57:58,960 --> 00:58:02,559
-if if if needed because it sometimes
+ถ้าจำเป็นเพราะบางครั้ง
 
 1670
 00:58:01,280 --> 00:58:03,680
-then you don't have to do any
+ก็ไม่ต้องทำอะไร
 
 1671
 00:58:02,559 --> 00:58:06,160
-modifications
+การปรับเปลี่ยน
 
 1672
 00:58:03,680 --> 00:58:07,920
-to moonbeam and and we have had a lot of
+สู่ moonbeam และเราก็มีมากมาย
 
 1673
 00:58:06,160 --> 00:58:09,119
-feedback from projects saying that it's
+ข้อเสนอแนะจากโครงการที่บอกว่ามันคือ
 
 1674
 00:58:07,920 --> 00:58:11,680
-just unbelievably
+อย่างเหลือเชื่อ
 
 1675
 00:58:09,119 --> 00:58:12,480
-simple to do so and this means that if
+ง่ายที่จะทำและนี่หมายความว่าถ้า
 
 1676
 00:58:11,680 --> 00:58:14,240
-you do so
+คุณทำอย่างนั้น
 
 1677
 00:58:12,480 --> 00:58:16,160
-you you'll your contracts will leave a
+คุณจะ สัญญาของคุณจะออกจาก
 
 1678
 00:58:14,240 --> 00:58:16,480
-moonbeam but more importantly you'll
+moonbeam แต่ที่สำคัญกว่านั้น คุณจะ
 
 1679
 00:58:16,160 --> 00:58:18,799
-have
+มี
 
 1680
 00:58:16,480 --> 00:58:20,240
-access to the whole polkadot ecosystem
+เข้าถึงระบบนิเวศของ polkadot ทั้งหมด
 
 1681
 00:58:18,799 --> 00:58:22,720
-of other pair of chains
+ของเชนอีกคู่หนึ่ง
 
 1682
 00:58:20,240 --> 00:58:23,680
-so which is just basically great to do
+ซึ่งโดยพื้นฐานแล้วดีมากที่จะทำ
 
 1683
 00:58:22,720 --> 00:58:25,359
-so right
+ถูกต้อง
 
 1684
 00:58:23,680 --> 00:58:27,040
-and some of the projects that are
+และบางโครงการที่
 
 1685
 00:58:25,359 --> 00:58:29,440
-working on moonbeam include
+ทำงานเกี่ยวกับ moonbeam ได้แก่
 
 1686
 00:58:27,040 --> 00:58:30,960
-uh for example sushi swap yesterday we
+เอ่อ ตัวอย่าง sushi swap เมื่อวานเรา
 
 1687
 00:58:29,440 --> 00:58:33,040
-announced that bouncer is coming to
+ประกาศว่าคนโกหกกำลังจะมา
 
 1688
 00:58:30,960 --> 00:58:34,880
-mumbing which is very exciting for us
+พูดพึมพำซึ่งน่าตื่นเต้นมากสำหรับเรา
 
 1689
 00:58:33,040 --> 00:58:37,839
-we also have ocean protocol human
+พูดพึมพำซึ่งน่าตื่นเต้นมากสำหรับเรา
 
 1690
 00:58:34,880 --> 00:58:39,200
-protocol idx and a ton of other projects
+protocol idx และโปรเจ็กต์อื่นๆ อีกเพียบ
 
 1691
 00:58:37,839 --> 00:58:40,960
-so we're really excited about the
+และเรารู้สึกตื่นเต้นมากเกี่ยวกับ
 
 1692
 00:58:39,200 --> 00:58:42,960
-ecosystem that we're building
+ระบบนิเวศที่เรากำลังสร้าง
 
 1693
 00:58:40,960 --> 00:58:44,000
-and it's just truly amazing to see the
+และมันวิเศษมากที่ได้เห็น
 
 1694
 00:58:42,960 --> 00:58:47,040
-progress that we've made
+ความก้าวหน้าที่เราทำ
 
 1695
 00:58:44,000 --> 00:58:48,960
-made over the past weeks
+ทำในช่วงสัปดาห์ที่ผ่านมา
 
 1696
 00:58:47,040 --> 00:58:51,119
-and i think the most exciting part for
+และฉันคิดว่าส่วนที่น่าตื่นเต้นที่สุดสำหรับ
 
 1697
 00:58:48,960 --> 00:58:52,640
-me today about this presentation is to
+ฉันวันนี้เกี่ยวกับการนำเสนอนี้คือเพื่อ
 
 1698
 00:58:51,119 --> 00:58:53,119
-show you guys the balance your demo that
+แสดงให้พวกคุณเห็นถึงความสมดุลของการสาธิตของคุณที่
 
 1699
 00:58:52,640 --> 00:58:56,079
-we've
+เราได้
 
 1700
 00:58:53,119 --> 00:58:56,400
-prepared so basically uh as you've heard
+เตรียมมาโดยพื้นฐาน เอ่อ อย่างที่คุณเคยได้ยินมา
 
 1701
 00:58:56,079 --> 00:58:58,160
-me
+ฉัน
 
 1702
 00:58:56,400 --> 00:59:00,160
-say before a balancer is coming to
+พูดก่อนที่บาลานเซอร์จะมาถึง
 
 1703
 00:58:58,160 --> 00:59:01,200
-moonbeam and we wrote a blog post about
+moonbeam และเราเขียนบล็อกโพสต์เกี่ยวกับ
 
 1704
 00:59:00,160 --> 00:59:04,000
-it you can see it
+คุณจะเห็นมัน
 
 1705
 00:59:01,200 --> 00:59:05,280
-on this link on the in the slide and uh
+บนลิงค์นี้ในสไลด์และเอ่อ
 
 1706
 00:59:04,000 --> 00:59:07,599
-what i'm gonna show you today
+สิ่งที่ฉันจะแสดงให้คุณเห็นในวันนี้
 
 1707
 00:59:05,280 --> 00:59:09,440
-is a demo a demo proof of concept so
+เป็นการสาธิต การพิสูจน์แนวคิด ดังนั้น
 
 1708
 00:59:07,599 --> 00:59:10,240
-basically uh we really worked hard on
+โดยพื้นฐานแล้ว เอ่อ เราทำงานกันหมดแล้ว
 
 1709
 00:59:09,440 --> 00:59:12,160
-providing
+ให้
 
 1710
 00:59:10,240 --> 00:59:13,599
-uh on bringing all the smart contracts
+ในการนำสัญญาที่ชาญฉลาดทั้งหมดมา
 
 1711
 00:59:12,160 --> 00:59:15,599
-from balancer to moonbeam
+จากบาลานเซอร์สู่มูนบีม
 
 1712
 00:59:13,599 --> 00:59:18,079
-making sure to adapt their front end so
+ตรวจสอบให้แน่ใจว่าได้ปรับส่วนหน้าของพวกเขาดังนั้น
 
 1713
 00:59:15,599 --> 00:59:20,000
-we had some some help with parity uh
+เรามีความช่วยเหลือบางอย่างเกี่ยวกับความเท่าเทียมกัน
 
 1714
 00:59:18,079 --> 00:59:21,839
-and some cases but it was truly amazing
+และบางเรื่องก็น่าทึ่งจริงๆ
 
 1715
 00:59:20,000 --> 00:59:24,400
-to see you know bring in the bouncer
+เพื่อดูว่าคุณรู้นำ the bouncer มา
 
 1716
 00:59:21,839 --> 00:59:25,359
-to to moonbeam so we have a very uh a
+สู่ moonbeam เพื่อให้เรามี
 
 1717
 00:59:24,400 --> 00:59:26,880
-proof of concept
+หลักฐานของแนวคิด
 
 1718
 00:59:25,359 --> 00:59:28,799
-demo that will show the core
+การสาธิตที่จะแสดงแกน
 
 1719
 00:59:26,880 --> 00:59:30,160
