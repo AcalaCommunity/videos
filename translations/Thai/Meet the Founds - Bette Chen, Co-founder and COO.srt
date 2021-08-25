@@ -3200,107 +3200,107 @@ without people actually knowing it comes
 
 801
 00:27:25,279 --> 00:27:28,960
-from polka dot
+จาก polka dot
 
 802
 00:27:26,159 --> 00:27:29,760
-or it comes from akala uh if you use an
+หรือมาจากคำว่า akala เอ่อ ถ้าคุณใช้ an
 
 803
 00:27:28,960 --> 00:27:31,600
-analogy
+ความคล้ายคลึง
 
 804
 00:27:29,760 --> 00:27:34,720
-this will be like you know today you are
+นี้จะเป็นอย่างที่คุณรู้ในวันนี้
 
 805
 00:27:31,600 --> 00:27:36,399
-using i guess facebook or even zoom
+ใช้ฉันเดา facebook หรือแม้แต่ซูม
 
 806
 00:27:34,720 --> 00:27:38,080
-right you wouldn't actually think about
+ถูกต้องคุณจะไม่คิดเกี่ยวกับ
 
 807
 00:27:36,399 --> 00:27:39,919
-the cloud service
+บริการคลาวด์
 
 808
 00:27:38,080 --> 00:27:41,440
-which cloud service that is using at the
+บริการคลาวด์ใดที่ใช้อยู่ที่
 
 809
 00:27:39,919 --> 00:27:43,120
-back end um also
+แบ็กเอนด์
 
 810
 00:27:41,440 --> 00:27:44,559
-you wouldn't actually think about which
+คุณจะไม่คิดเกี่ยวกับสิ่งที่
 
 811
 00:27:43,120 --> 00:27:47,200
-uh what what kind of
+เอ่อ แบบไหนครับ
 
 812
 00:27:44,559 --> 00:27:49,279
-tcp ip or internet protocol that is
+tcp ip หรือโปรโตคอลอินเทอร์เน็ตที่เป็น
 
 813
 00:27:47,200 --> 00:27:52,000
-using to package up all the data
+เพื่อใช้บรรจุข้อมูลทั้งหมด
 
 814
 00:27:49,279 --> 00:27:53,039
-transmitting across across the internet
+ส่งผ่านอินเตอร์เน็ต
 
 815
 00:27:52,000 --> 00:27:56,240
-you wouldn't think about
+คุณจะไม่คิดเกี่ยวกับ
 
 816
 00:27:53,039 --> 00:27:58,000
-any of those at all right we are
+อะไรก็ได้ที่เราเป็น
 
 817
 00:27:56,240 --> 00:27:59,919
-actually operating and building in that
+ปฏิบัติการจริงและสร้างในนั้น
 
 818
 00:27:58,000 --> 00:28:02,000
-level today uh in
+ระดับวันนี้เอ่อใน
 
 819
 00:27:59,919 --> 00:28:03,919
-uh in blockchain so polka dot is more
+ใน blockchain ดังนั้น Polkadotจึงมากกว่า
 
 820
 00:28:02,000 --> 00:28:05,919
-like the internet protocol
+เช่น อินเทอร์เน็ตโปรโตคอล
 
 821
 00:28:03,919 --> 00:28:06,960
-and then akala is more of like finance
+แล้ว akala ก็เหมือนการเงินมากกว่า
 
 822
 00:28:05,919 --> 00:28:09,360
-focused uh
+ที่โฟกัสกับ
 
 823
 00:28:06,960 --> 00:28:10,640
-infrastructure uh to to route the
+โครงสร้างพื้นฐาน เพื่อกำหนดเส้นทาง
 
 824
 00:28:09,360 --> 00:28:13,279
-payments and also
+การชำระเงินและ
 
 825
 00:28:10,640 --> 00:28:14,559
-to be able to uh support many of those
+ที่จะสามารถสนับสนุนสิ่งเหล่านั้นได้มากมาย
 
 826
 00:28:13,279 --> 00:28:16,960
-uh situations
+สถานการณ์
 
 827
 00:28:14,559 --> 00:28:18,080
@@ -3420,183 +3420,183 @@ imagine you know
 
 856
 00:29:13,919 --> 00:29:19,760
-uh a carlos uh defy swiss
+คาร์ลอส ท้าชาวสวิส
 
 857
 00:29:17,120 --> 00:29:22,399
-uh or some of the portfolio uh or
+หรือบางส่วนของผลงาน หรือ
 
 858
 00:29:19,760 --> 00:29:24,399
-investment vehicle built on top of a car
+ยานพาหนะการลงทุนที่สร้างขึ้นบนรถ
 
 859
 00:29:22,399 --> 00:29:25,679
-to make that money work for her right it
+เพื่อให้เงินนั้นทำงานให้เธอถูกต้อง
 
 860
 00:29:24,399 --> 00:29:27,440
-could turn into like a
+สามารถกลายเป็นเหมือน
 
 861
 00:29:25,679 --> 00:29:30,159
-five percent or ten percent savings
+เงินออมห้าเปอร์เซ็นต์หรือสิบเปอร์เซ็นต์
 
 862
 00:29:27,440 --> 00:29:32,399
-account um maybe she's also interested
+บัญชี บางทีเธออาจจะสนใจด้วย
 
 863
 00:29:30,159 --> 00:29:34,399
-uh now she's you know hearing me uh
+ตอนนี้เธอรู้ว่าได้ยินฉัน
 
 864
 00:29:32,399 --> 00:29:36,880
-talking about maybe hearing brian
+พูดถึงอาจจะได้ยินไบรอัน
 
 865
 00:29:34,399 --> 00:29:37,520
-talk about buy bitcoin um and then uh
+พูดคุยเกี่ยวกับการซื้อ bitcoin อืม แล้วก็เอ่อ
 
 866
 00:29:36,880 --> 00:29:40,159
-every
+ทั้งหมด
 
 867
 00:29:37,520 --> 00:29:40,799
-i don't know uh uh five percent of her
+ฉันไม่รู้ ห้าเปอร์เซ็นต์ของเธอ
 
 868
 00:29:40,159 --> 00:29:43,840
-saving
+ประหยัด
 
 869
 00:29:40,799 --> 00:29:46,559
-goes automatically into bitcoin uh right
+เข้าสู่ bitcoin โดยอัตโนมัติ ใช่แล้ว
 
 870
 00:29:43,840 --> 00:29:47,279
-um and then maybe uh ten percent goes
+อืม แล้วก็อาจจะ เอ่อ ไปสิบเปอร์เซ็นต์
 
 871
 00:29:46,559 --> 00:29:48,960
-into dot
+ลงในจุด
 
 872
 00:29:47,279 --> 00:29:50,720
-staking youth and then through that
+ปักหลักเยาวชนแล้วผ่านสิ่งนั้น
 
 873
 00:29:48,960 --> 00:29:52,320
-staking you uh automatically get
+ปักหลักคุณเอ่อโดยอัตโนมัติได้รับ
 
 874
 00:29:50,720 --> 00:29:53,840
-converted back to daughters
+กลับกลายเป็นลูกสาว
 
 875
 00:29:52,320 --> 00:29:56,480
-and then she can use that to buy
+แล้วเธอก็สามารถใช้มันเพื่อซื้อได้
 
 876
 00:29:53,840 --> 00:29:58,960
-groceries right um and all of this
+ร้านขายของชำใช่และทั้งหมดนี้
 
 877
 00:29:56,480 --> 00:30:00,159
-will happen within her you know debit
+ร้านขายของชำใช่และทั้งหมดนี้
 
 878
 00:29:58,960 --> 00:30:02,559
-card or just
+การ์ดหรือเพียงแค่
 
 879
 00:30:00,159 --> 00:30:03,679
-a simple app that she can see you know
+แอพง่าย ๆ ที่เธอเห็นคุณรู้จัก
 
 880
 00:30:02,559 --> 00:30:06,159
-how much dollar in
+เท่าไหร่ ดอลล่า
 
 881
 00:30:03,679 --> 00:30:07,279
-uh what is the interest rate uh no
+อัตราดอกเบี้ยคืออะไร ไม่ใช่
 
 882
 00:30:06,159 --> 00:30:09,440
-probably not much different
+คงไม่ต่างกันมาก
 
 883
 00:30:07,279 --> 00:30:11,520
-apart from you know the financial aspect
+นอกจากคุณจะรู้ด้านการเงินแล้ว
 
 884
 00:30:09,440 --> 00:30:12,480
-looks way better and more liberating but
+ดูดีขึ้นและเป็นอิสระมากขึ้น แต่
 
 885
 00:30:11,520 --> 00:30:14,559
-behind the scene
+เบื้องหลัง
 
 886
 00:30:12,480 --> 00:30:17,039
-this is all powered by you know many
+ทั้งหมดนี้ขับเคลื่อนโดยคุณรู้มากมาย
 
 887
 00:30:14,559 --> 00:30:19,520
-different uh networks working together
+เครือข่ายต่าง ๆ เอ่อทำงานร่วมกัน
 
 888
 00:30:17,039 --> 00:30:20,880
-um and on top of that uh you know folks
+และเหนือสิ่งอื่นใด
 
 889
 00:30:19,520 --> 00:30:23,120
-probably don't want
+คนคงไม่ต้องการ
 
 890
 00:30:20,880 --> 00:30:24,080
-their transaction history being seen by
+ประวัติการทำธุรกรรมของพวกเขาถูกดูโดย
 
 891
 00:30:23,120 --> 00:30:26,480
-anybody
+ใครก็ได้
 
 892
 00:30:24,080 --> 00:30:28,000
-so this could be you know you go bitcoin
+นี่อาจเป็นเพราะคุณรู้ว่าคุณไป bitcoin
 
 893
 00:30:26,480 --> 00:30:30,240
-and then jump onto polka dot
+แล้วโดดลง polka dot
 
 894
 00:30:28,000 --> 00:30:32,399
-jump onto akala and then jump on to you
+กระโดดขึ้น akala แล้วกระโดดเข้าหาคุณ
 
 895
 00:30:30,240 --> 00:30:34,240
-know fala or some other privacy network
+รู้จัก fala หรือเครือข่ายความเป็นส่วนตัวอื่น ๆ
 
 896
 00:30:32,399 --> 00:30:36,159
-and it comes back with a privacy you
+และกลับมาพร้อมกับความเป็นส่วนตัวที่คุณ
 
 897
 00:30:34,240 --> 00:30:37,360
-know sort of token that hides all the
+รู้ชนิดของโทเค็นที่ซ่อนทั้งหมด
 
 898
 00:30:36,159 --> 00:30:39,360
-transaction history
+ประวัติการทำรายการ
 
 899
 00:30:37,360 --> 00:30:40,880
-and but you still you know get whatever
+แต่เธอก็ยังรู้ว่าได้อะไร
 
 900
 00:30:39,360 --> 00:30:43,600
-the returns that you get
+ผลตอบแทนที่คุณได้รับ
 
 901
 00:30:40,880 --> 00:30:44,960
