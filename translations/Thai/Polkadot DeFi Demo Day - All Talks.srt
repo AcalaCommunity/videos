@@ -12800,227 +12800,227 @@ now
 
 3201
 01:57:52,400 --> 01:57:56,400
-are you thinking of of having incentives
+คุณกำลังคิดที่จะมีแรงจูงใจ
 
 3202
 01:57:55,199 --> 01:57:59,679
-for people
+สำหรับคนที่
 
 3203
 01:57:56,400 --> 01:58:03,440
-uh to put their tokens over or same for
+เอ่อใส่โทเค็นของพวกเขามากกว่าหรือเหมือนกันสำหรับ
 
 3204
 01:57:59,679 --> 01:58:05,040
-for a cal and centrifuge yeah so
+สำหรับacalaและcentrifugeใช่เลย
 
 3205
 01:58:03,440 --> 01:58:06,800
-i mean we're going to have incentives
+ฉันหมายความว่าเราจะมีสิ่งจูงใจ
 
 3206
 01:58:05,040 --> 01:58:08,000
-that make it easy for people to put
+ที่ทำให้ง่ายต่อคนที่จะใส่
 
 3207
 01:58:06,800 --> 01:58:09,760
-their tokens over
+โทเค็นของพวกเขามากกว่า
 
 3208
 01:58:08,000 --> 01:58:11,199
-but we're not currently planning to have
+แต่เราไม่ได้วางแผนที่จะมี
 
 3209
 01:58:09,760 --> 01:58:12,719
-additional incentives
+แรงจูงใจเพิ่มเติม
 
 3210
 01:58:11,199 --> 01:58:14,320
-to specifically entice people to bring
+เพื่อจูงใจให้เฉพาะคนกลุ่มที่
 
 3211
 01:58:12,719 --> 01:58:15,119
-their tokens over i think that will come
+นำโทเค็นของพวกเขามา ฉันคิดว่าจะมา
 
 3212
 01:58:14,320 --> 01:58:17,119
-more from
+เพิ่มเติมจาก
 
 3213
 01:58:15,119 --> 01:58:18,400
-the being enticed by other power chains
+ถูกล่อลวงโดยพาราเชนอื่น ๆ
 
 3214
 01:58:17,119 --> 01:58:19,920
-and other kind of protocols
+และโปรโตคอลประเภทอื่นๆ
 
 3215
 01:58:18,400 --> 01:58:22,080
-for example if there's your nakala or
+ตัวอย่างเช่นถ้ามีอคาลาของคุณหรือ
 
 3216
 01:58:19,920 --> 01:58:23,840
-yodan centrifuge um our links to
+centrifuge ลิงค์ของเราไปยัง
 
 3217
 01:58:22,080 --> 01:58:26,159
-alkaline centrifuge and other chains
+อคาลา  centrifuge และเชนอื่นๆ
 
 3218
 01:58:23,840 --> 01:58:27,280
-will be uh pathways from ethereum into
+จะเป็นเส้นทางจาก ethereum สู่
 
 3219
 01:58:26,159 --> 01:58:30,560
-them and so
+พวกเขาและดังนั้น
 
 3220
 01:58:27,280 --> 01:58:31,199
-essentially we uh we're kind of counting
+โดยพื้นฐานแล้วเราเอ่อเรากำลังนับ
 
 3221
 01:58:30,560 --> 01:58:34,080
-on them
+กับพวกเขา
 
 3222
 01:58:31,199 --> 01:58:35,840
-to entice people to deliver demand into
+เพื่อดึงดูดให้คนส่งความต้องการเข้าสู่
 
 3223
 01:58:34,080 --> 01:58:38,719
-the polkadot ecosystem
+ระบบนิเวศpolkadot
 
 3224
 01:58:35,840 --> 01:58:40,239
-right yeah i can echo that so i mean we
+ใช่ใช่ฉันสามารถสะท้อนว่าฉันหมายถึงเรา
 
 3225
 01:58:38,719 --> 01:58:42,320
-will definitely have some form of
+จะมีรูปแบบใดรูปแบบนึงอย่างแน่นอน
 
 3226
 01:58:40,239 --> 01:58:43,920
-incentive when we launch the network and
+แรงจูงใจเมื่อเราเปิดเครือข่ายและ
 
 3227
 01:58:42,320 --> 01:58:45,840
-we will also able to direct the
+เราจะสามารถกำกับ
 
 3228
 01:58:43,920 --> 01:58:47,599
-incentive to where it's most needed for
+สิ่งจูงใจไปยังที่ซึ่งจำเป็นที่สุดสำหรับ
 
 3229
 01:58:45,840 --> 01:58:48,880
-example if we think i'm more ethereum
+ตัวอย่าง ถ้าเราคิดว่าฉันเป็น ethereum มากกว่า
 
 3230
 01:58:47,599 --> 01:58:50,320
-assets need to be crossed
+สินทรัพย์ ethereum มากกว่า จะต้องถูกข้ามไป
 
 3231
 01:58:48,880 --> 01:58:52,000
-and that's the beauty of like this
+และนั่นคือความงามของสิ่งนี้
 
 3232
 01:58:50,320 --> 01:58:52,639
-composable network right so we can say
+เครือข่ายที่ประกอบได้ เพื่อให้เราสามารถพูดได้ว่า
 
 3233
 01:58:52,000 --> 01:58:55,119
-that hey
+เฮ้
 
 3234
 01:58:52,639 --> 01:58:56,560
-um we can provide incentive on making
+อืม เราสามารถให้แรงจูงใจในการทำ
 
 3235
 01:58:55,119 --> 01:58:58,960
-new uh snowys
+สิ่งหม่ snowys
 
 3236
 01:58:56,560 --> 01:59:00,159
-or we can provide a new incentive on
+หรือเราสามารถให้สิ่งจูงใจใหม่แก่
 
 3237
 01:58:58,960 --> 01:59:02,800
-creating
+การสร้าง
 
 3238
 01:59:00,159 --> 01:59:05,440
-a long position using yeast um so all
+ตำแหน่งยาวโดยใช้ยีสต์ อืม ดังนั้นทั้งหมด
 
 3239
 01:59:02,800 --> 01:59:06,159
-depends on where the demands is we think
+ขึ้นอยู่กับความต้องการที่เราคิด
 
 3240
 01:59:05,440 --> 01:59:08,320
-it's going to
+มันกำลังจะ
 
 3241
 01:59:06,159 --> 01:59:09,679
-um to hit so well this is like the
+อืมตีดีขนาดนี้
 
 3242
 01:59:08,320 --> 01:59:12,159
-beautiful of like have
+สวยเหมือนมี
 
 3243
 01:59:09,679 --> 01:59:14,080
-one consumer focus application that has
+แอปพลิเคชั่นที่เน้นผู้บริโภคหนึ่งตัวที่มี
 
 3244
 01:59:12,159 --> 01:59:16,000
-a bridge that we can work together
+สะพานที่เราทำงานร่วมกันได้
 
 3245
 01:59:14,080 --> 01:59:17,199
-and make this is like as frictionless
+และทำให้เป็นดั่งนี้ไม่มีเสียดสี
 
 3246
 01:59:16,000 --> 01:59:20,000
-and as um as
+และ
 
 3247
 01:59:17,199 --> 01:59:20,960
-useful for all for the trade as possible
+มีประโยชน์สำหรับทุกคนในการค้าขายมากที่สุด
 
 3248
 01:59:20,000 --> 01:59:24,560
-um
+อืม
 
 3249
 01:59:20,960 --> 01:59:27,040
-so you're farming on anakala
+ดังนั้นคุณจึงทำฟาร์มบนอคาลา
 
 3250
 01:59:24,560 --> 01:59:28,239
-well i wouldn't call that uh yeah it
+ฉันก็จะไม่เรียกแบบนั้นหรอก อืม
 
 3251
 01:59:27,040 --> 01:59:30,960
-will be similar but
+จะคล้ายกันแต่
 
 3252
 01:59:28,239 --> 01:59:32,239
-there will be actual um more meaningful
+จะมีจริง อืม มีความหมายมากขึ้น
 
 3253
 01:59:30,960 --> 01:59:34,960
-product out of alkaline
+ผลิตภัณฑ์ที่เป็นของอคาลา
 
 3254
 01:59:32,239 --> 01:59:36,639
-i think there's like um after eu farming
+ฉันคิดว่ามี อืม หลังจากทำฟาร์ม
 
 3255
 01:59:34,960 --> 01:59:38,800
-i think the staking dealership um
+ฉันคิดว่าตัวแทนจำหน่ายการปักหลัก อืม
 
 3256
 01:59:36,639 --> 01:59:39,920
-gam is going to have a very heavy play
+จะเล่นหนักมาก
 
 3257
 01:59:38,800 --> 01:59:42,960
