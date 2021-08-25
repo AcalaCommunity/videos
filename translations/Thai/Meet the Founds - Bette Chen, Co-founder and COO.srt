@@ -1888,19 +1888,19 @@ web3 Foundation
 
 473
 00:16:28,560 --> 00:16:32,480
-need to serve the community like a
+สามารถนำไปใช้ในชุมชนได้อย่างเช่น
 
 474
 00:16:30,399 --> 00:16:34,079
-multi-chain community right even you are
+ชุมชนแบบ Multi- chain ถึงแม้ว่า
 
 475
 00:16:32,480 --> 00:16:34,639
-talking about just within the polka dot
+เรากำลังพูดถึง และภายในเครือข่าย
 
 476
 00:16:34,079 --> 00:16:37,040
-network
+Polkadot
 
 477
 00:16:34,639 --> 00:16:38,560
@@ -3400,23 +3400,23 @@ imagine you know
 
 851
 00:29:03,120 --> 00:29:07,200
-uh my mom is probably going to uh you
+แม่ของฉันอาจจะไปหา
 
 852
 00:29:06,000 --> 00:29:10,720
-know swipe the car
+เลื่อนรถ
 
 853
 00:29:07,200 --> 00:29:12,559
-or save some of the dollars into the car
+หรือเก็บเงินบางส่วนไว้ในรถ
 
 854
 00:29:10,720 --> 00:29:13,919
-and that could you know potentially
+และนั่นทำให้คุณรู้ว่าเป็นไปได้
 
 855
 00:29:12,559 --> 00:29:17,120
-route it into
+เส้นทางเข้าสู่
 
 856
 00:29:13,919 --> 00:29:19,760
@@ -3600,83 +3600,83 @@ the returns that you get
 
 901
 00:30:40,880 --> 00:30:44,960
-uh uh through the app right so all i'm
+ผ่านแอปได้เลย แค่นี้ฉันก็
 
 902
 00:30:43,600 --> 00:30:48,159
-trying to say is like
+พยายามจะบอกว่าเหมือน
 
 903
 00:30:44,960 --> 00:30:49,440
-uh we will gonna become uh the bottom of
+เราจะกลายเป็นก้นของ
 
 904
 00:30:48,159 --> 00:30:51,279
-the iceberg
+ภูเขาน้ำแข็ง
 
 905
 00:30:49,440 --> 00:30:53,360
-and then there will be folks that we
+แล้วจะมีคนที่เรา
 
 906
 00:30:51,279 --> 00:30:54,799
-integrate with would deliver the tip of
+รวมเข้ากับจะส่งปลายของ
 
 907
 00:30:53,360 --> 00:30:57,679
-the iceberg to a
+ภูเขาน้ำแข็งไป
 
 908
 00:30:54,799 --> 00:30:59,200
-very very uh you know wide mass market
+มากมาก คุณรู้ตลาดมวลชนกว้าง
 
 909
 00:30:57,679 --> 00:31:02,000
-so that that will be
+เพื่อสิ่งนั้นจะเป็น
 
 910
 00:30:59,200 --> 00:31:02,640
-uh ideal i would be very happy to see
+เป็นสิ่งในอุดมคติ ฉันจะมีความสุขมากที่เห็นมัน
 
 911
 00:31:02,000 --> 00:31:04,960
-that
+นั่น
 
 912
 00:31:02,640 --> 00:31:06,320
-many many more people like mass market
+หลายๆๆคน เช่นตลาดแมส
 
 913
 00:31:04,960 --> 00:31:07,840
-uh adoption
+การรับอุปการะ
 
 914
 00:31:06,320 --> 00:31:09,679
-of what we are building uh today
+ของสิ่งที่เรากำลังสร้าง เอ่อ วันนี้
 
 915
 00:31:07,840 --> 00:31:12,640
-basically replacing the backbone
+โดยทั่วไปจะเปลี่ยนกระดูกสันหลัง
 
 916
 00:31:09,679 --> 00:31:14,159
-of the trefy and then the second thing i
+ของพระหัตถ์แล้วประการที่สอง ฉัน
 
 917
 00:31:12,640 --> 00:31:18,000
-would be hoping to see
+หวังว่าจะได้เห็น
 
 918
 00:31:14,159 --> 00:31:20,080
-is uh we are able to get to our angle
+คือ เราสามารถไปถึงมุมของเราได้
 
 919
 00:31:18,000 --> 00:31:22,240
-is to actually decentralize and this
+คือการกระจายอำนาจและสิ่งนี้
 
 920
 00:31:20,080 --> 00:31:25,519
-network is actually operated
+เครือข่ายใช้งานได้จริง
 
 921
 00:31:22,240 --> 00:31:28,480
@@ -3684,53 +3684,53 @@ owned and governed by all the people
 
 922
 00:31:25,519 --> 00:31:30,159
-uh on akala network uh rather than just
+บนเครือข่าย akala มากกว่าเพียงแค่
 
 923
 00:31:28,480 --> 00:31:32,559
-a core team right so
+ทีมหลักใช่เลย
 
 924
 00:31:30,159 --> 00:31:33,840
-uh yeah so those will be the two things
+มันจะเป็นสองสิ่ง
 
 925
 00:31:32,559 --> 00:31:35,600
-cool
+เจ๋ง
 
 926
 00:31:33,840 --> 00:31:36,880
-well that's everything i had so thanks
+นั่นคือทุกอย่างที่ฉันมี ขอบคุณมาก
 
 927
 00:31:35,600 --> 00:31:38,720
-for taking us through
+ที่พาเราผ่าน
 
 928
 00:31:36,880 --> 00:31:41,039
-um a little bit more about you and your
+เกี่ยวกับคุณและคุณ
 
 929
 00:31:38,720 --> 00:31:42,399
-career and akala i think i know i
+อาชีพและ akala ฉันคิดว่าฉันรู้ฉัน
 
 930
 00:31:41,039 --> 00:31:43,120
-learned something new and i think a lot
+ได้เรียนรู้สิ่งใหม่ๆ และฉันคิดมาก
 
 931
 00:31:42,399 --> 00:31:46,080
-of people will
+คนจำนวนมาก
 
 932
 00:31:43,120 --> 00:31:48,200
-so um thanks for taking the time no
+อืมขอบคุณที่สละเวลาไม่
 
 933
 00:31:46,080 --> 00:31:51,200
-problem thanks for doing this dan
+ไม่มีปัญหา ขอบคุณสำหรับการทำสิ่งนี้ Dan
 
 934
 00:31:48,200 --> 00:31:51,200
-yep
+ใช่
 
