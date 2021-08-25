@@ -2400,91 +2400,91 @@ improvement
 
 601
 00:20:38,159 --> 00:20:45,200
-um and doing good to the society uh so
+อืมและทำดีต่อสังคม
 
 602
 00:20:41,679 --> 00:20:48,159
-um and sometimes it's a very fine line
+อืมและบางครั้งก็เป็นเส้นที่ดีมาก
 
 603
 00:20:45,200 --> 00:20:48,720
-so integrity uh we hold it very very
+ความซื่อสัตย์ เราถือมันมาก
 
 604
 00:20:48,159 --> 00:20:51,039
-highly
+อย่างสูง
 
 605
 00:20:48,720 --> 00:20:53,039
-within the team through individuals but
+ภายในทีมผ่านตัวบุคคลแต่
 
 606
 00:20:51,039 --> 00:20:56,159
-also through how we conduct
+ด้วยวิธีการที่เราปฏิบัติ
 
 607
 00:20:53,039 --> 00:20:56,480
-all the activities that we do internally
+กิจกรรมทั้งหมดที่เราทำภายใน
 
 608
 00:20:56,159 --> 00:21:00,400
-and
+และ
 
 609
 00:20:56,480 --> 00:21:02,720
-externally so and also
+ภายนอกและเช่นกัน
 
 610
 00:21:00,400 --> 00:21:05,120
-i think integrity and trust even though
+ฉันคิดว่าความซื่อสัตย์และความไว้วางใจแม้ว่า
 
 611
 00:21:02,720 --> 00:21:07,200
-we are trying to build trustless network
+เรากำลังพยายามสร้างเครือข่ายที่ไว้ใจไม่ได้
 
 612
 00:21:05,120 --> 00:21:08,640
-but trust is something that is very hard
+แต่ความเชื่อใจเป็นสิ่งที่ยากมาก
 
 613
 00:21:07,200 --> 00:21:11,200
-to build
+ในการสร้าง
 
 614
 00:21:08,640 --> 00:21:13,120
-and very easy to break so we take that
+และทำลายง่าน ดังนั้นพวกเราจึง
 
 615
 00:21:11,200 --> 00:21:13,600
-very very seriously and every single
+ค่อนข้างจริงจังมากๆในทุกๆ
 
 616
 00:21:13,120 --> 00:21:15,200
-person
+ทุกคน
 
 617
 00:21:13,600 --> 00:21:16,799
-in the team holds very high
+ในทีม
 
 618
 00:21:15,200 --> 00:21:19,360
-responsibility
+ต้องมีความรับผิดชอบที่สูง
 
 619
 00:21:16,799 --> 00:21:20,559
-of making something that could benefit
+ในการสร้างบางสิ่งที่ก่อประโยชน์
 
 620
 00:21:19,360 --> 00:21:23,679
-many people
+คนมากมายหลายคน
 
 621
 00:21:20,559 --> 00:21:26,400
-but also many of the information and
+แต่ยังมีข้อมูลมากมายและ
 
 622
 00:21:23,679 --> 00:21:27,120
-and things that we handle are highly uh
+และสิ่งที่เราจัดการก็ค่อนข้าง
 
 623
 00:21:26,400 --> 00:21:29,360
@@ -2600,203 +2600,203 @@ stuff together but also
 
 651
 00:22:17,120 --> 00:22:20,799
-you know play together as well so that's
+คุณก็รู้ว่าเล่นด้วยกันด้วยนั่นแหละ
 
 652
 00:22:19,600 --> 00:22:24,080
-that's how we are today
+นั่นคือสิ่งที่เราเป็นในวันนี้
 
 653
 00:22:20,799 --> 00:22:26,159
-yeah awesome um
+เย่ ยอดเยี่ยม อืม
 
 654
 00:22:24,080 --> 00:22:27,200
-so in your role you're you're doing a
+ดังนั้นในบทบาทของคุณ คุณกำลังทำ
 
 655
 00:22:26,159 --> 00:22:29,600
-lot with our
+มากมายกับเรา
 
 656
 00:22:27,200 --> 00:22:30,720
-products um and one thing that i was
+ผลิตภัณฑ์เอ่อและสิ่งหนึ่งที่ฉัน
 
 657
 00:22:29,600 --> 00:22:33,120
-wondering
+สงสัย
 
 658
 00:22:30,720 --> 00:22:34,080
-is uh i guess what would your what would
+คือ ฉันเดาว่าสิ่งที่คุณจะ อะไรจะ
 
 659
 00:22:33,120 --> 00:22:36,240
-you say your
+คุณบอกว่า
 
 660
 00:22:34,080 --> 00:22:37,840
-favorite product is or which product
+สินค้าที่คุณชอบหรือสินค้าตัวไหน
 
 661
 00:22:36,240 --> 00:22:38,640
-that we're building you're most excited
+ที่เรากำลังสร้างคุณตื่นเต้นที่สุด
 
 662
 00:22:37,840 --> 00:22:40,720
-about
+เกี่ยวกับ
 
 663
 00:22:38,640 --> 00:22:43,280
-and maybe why um why you're excited
+และบางทีทำไมคุณถึงตื่นเต้น
 
 664
 00:22:40,720 --> 00:22:46,080
-about that product
+เกี่ยวกับสินค้านั้นๆ
 
 665
 00:22:43,280 --> 00:22:46,640
-ah you're trying to ask me which which
+คุณกำลังพยายามจะถามฉันว่าอันไหน
 
 666
 00:22:46,080 --> 00:22:49,520
-child
+ลูกคนไหน
 
 667
 00:22:46,640 --> 00:22:49,520
-is my favorite
+คือคนโปรด
 
 668
 00:22:50,080 --> 00:22:54,240
-that that is gonna uh that's very hard
+นั่นเป็นคำถามที่ยาก
 
 669
 00:22:52,400 --> 00:22:58,000
-to choose and then it's going to piss
+ที่จะเลือก ดังนั้น ฉันจะข้าม
 
 670
 00:22:54,240 --> 00:23:00,559
-other children off so um
+เด็กคนอื่นๆ
 
 671
 00:22:58,000 --> 00:23:02,480
-but but i would say this right uh what
+แต่ฉันจะบอกว่า นี่คือสิ่งที่ถูก
 
 672
 00:23:00,559 --> 00:23:04,640
-we're doing at akala
+พวกเรากำลังทำ Akala
 
 673
 00:23:02,480 --> 00:23:06,480
-at least at this stage we're creating a
+อย่างน้อยในขั้นตอนนี้ เรากำลังสร้าง
 
 674
 00:23:04,640 --> 00:23:09,200
-completely new category
+หมวดหมู่ใหม่อย่างสมบูรณ์
 
 675
 00:23:06,480 --> 00:23:11,280
-because in the past you will see teams
+เพราะที่ผ่านมาคุณจะเห็นทีม
 
 676
 00:23:09,200 --> 00:23:12,240
-uh more focused on layer one building a
+โฟกัสที่เลเยอร์แรกเพื่อที่จะสร้าง
 
 677
 00:23:11,280 --> 00:23:14,559
-blockchain
+บล็อกเชน
 
 678
 00:23:12,240 --> 00:23:15,840
-um and then you're also seeing uh teams
+แล้วคุณยังเห็นทีม
 
 679
 00:23:14,559 --> 00:23:17,760
-building protocols
+สร้างโปรโตคอล
 
 680
 00:23:15,840 --> 00:23:19,600
-uh you know like compound and ave
+เหมือนการคอมพาวน์และ ave
 
 681
 00:23:17,760 --> 00:23:22,799
-they're focusing on the protocol
+พวกเขากำลังมุ่งเน้นไปที่โปรโตคอล
 
 682
 00:23:19,600 --> 00:23:24,880
-itself and you also see folks who are uh
+ของมันเองและคุณยังเห็นคนที่
 
 683
 00:23:22,799 --> 00:23:26,640
-building mostly the front-end you know
+สร้างส่วนมากส่วนหน้าที่คุณรู้จัก
 
 684
 00:23:24,880 --> 00:23:28,799
-the portfolio managers
+ผู้จัดการพอร์ต
 
 685
 00:23:26,640 --> 00:23:30,480
-or the aggregators and things like that
+หรือผู้รวบรวมและสิ่งต่างๆ เช่นนั้น
 
 686
 00:23:28,799 --> 00:23:31,280
-so people all operate at different
+ทุกคนจึงทำงานต่าง
 
 687
 00:23:30,480 --> 00:23:34,559
-levels
+ระดับชั้น
 
 688
 00:23:31,280 --> 00:23:37,840
-um i think it might be uh first time uh
+ฉันคิดว่ามันอาจจะเป็นครั้งแรก
 
 689
 00:23:34,559 --> 00:23:39,919
-that uh well uh partly powered by
+ส่วนหนึ่งขับเคลื่อนโดย
 
 690
 00:23:37,840 --> 00:23:41,039
-uh what substrate and polka dot is made
+สิ่งที่ substrate และ polkadot ถูกสร้างขึ้น
 
 691
 00:23:39,919 --> 00:23:43,360
-possible
+เป็นไปได้
 
 692
 00:23:41,039 --> 00:23:45,200
-that we are a team building in multiple
+ว่าเราคือการสร้างทีมในหลาย ๆ ด้าน
 
 693
 00:23:43,360 --> 00:23:46,320
-layers so this is the entire category
+ระดับชั้นนี่คือหมวดหมู่ทั้งหมด
 
 694
 00:23:45,200 --> 00:23:49,760
-because akala
+เพราะ akala
 
 695
 00:23:46,320 --> 00:23:52,880
-is both a blockchain network as well as
+เพราะว่า acala คือเครือข่ายบล็อกเชน รวมไปถึง
 
 696
 00:23:49,760 --> 00:23:54,640
-a set of protocols so we have a stable
+ชุดของโปรโตคอลเพื่อให้เรามีความเสถียร
 
 697
 00:23:52,880 --> 00:23:57,039
-coin borrowing
+ยืมเหรียญ
 
 698
 00:23:54,640 --> 00:23:58,640
-protocol and then we have a amm
+โปรโตคอลแล้วเราก็มี amm
 
 699
 00:23:57,039 --> 00:24:00,799
-decentralized exchange
+การแลกเปลี่ยนแบบกระจายอำนาจกับ
 
 700
 00:23:58,640 --> 00:24:02,880
-and then we also have liquid sticking
+แล้วพวกเราก็ยังมีการเสตกลิคขวิด
 
 701
 00:24:00,799 --> 00:24:04,320
@@ -2952,51 +2952,51 @@ eVM virtual machine และข้างล่างนี่ก็มี
 
 739
 00:25:21,039 --> 00:25:24,240
-holders
+ผู้ถือ
 
 740
 00:25:21,679 --> 00:25:26,159
-or folks who actually want to expose to
+หรือคนที่อยากจะเปิดเผยจริงๆ
 
 741
 00:25:24,240 --> 00:25:27,279
-the staking economy so if you have to
+ระบบการสเตก ดังนั้นหากคุณจำเป็นต้อง
 
 742
 00:25:26,159 --> 00:25:29,919
-ask me to pick one
+ให้ฉันเลือกหนึ่งอัน
 
 743
 00:25:27,279 --> 00:25:30,799
-i would pick products related to the
+ฉันจะเลือกผลิตภัณฑ์ที่เกี่ยวข้องกับ
 
 744
 00:25:29,919 --> 00:25:32,720
-proof of stake
+หลักฐานการเดิมพัน
 
 745
 00:25:30,799 --> 00:25:34,000
-economy because this is a completely new
+เพราะนี่คือสิ่งใหม่โดยสิ้นเชิง
 
 746
 00:25:32,720 --> 00:25:36,320
-sort of economy
+ประเภทของระบบ
 
 747
 00:25:34,000 --> 00:25:38,559
-that grows out of the uh you know the
+ที่งอกออกมาจาก
 
 748
 00:25:36,320 --> 00:25:40,559
-pow or other economy
+pow หรือระบบอื่น ๆ
 
 749
 00:25:38,559 --> 00:25:41,679
-because now you can actually have a
+เพราะตอนนี้คุณสามารถมี
 
 750
 00:25:40,559 --> 00:25:44,799
-meaningful
+สิ่งที่ค่า
 
 751
 00:25:41,679 --> 00:25:45,200
