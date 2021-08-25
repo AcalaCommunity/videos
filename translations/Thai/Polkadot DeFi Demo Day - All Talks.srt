@@ -12400,291 +12400,291 @@ i think so and i i wouldn't um discount
 
 3101
 01:54:45,440 --> 01:54:49,040
-the possibility that is
+ความเป็นไปได้ก็คือ
 
 3102
 01:54:46,719 --> 01:54:51,119
-going to be like an aggregator approach
+จะเป็นเหมือนแนวทางผู้รวบรวม
 
 3103
 01:54:49,040 --> 01:54:52,880
-and that's going to harvest all the
+และนั่นจะเก็บเกี่ยวทั้งหมด
 
 3104
 01:54:51,119 --> 01:54:54,400
-different rewards from different
+ผลตอบแทนที่แตกต่างจาก
 
 3105
 01:54:52,880 --> 01:54:55,360
-projects for example centrifuge has a
+โครงการที่แตกต่างกัรเช่นเcentrifugeมี
 
 3106
 01:54:54,400 --> 01:54:57,360
-money market
+ตลาดเงิน
 
 3107
 01:54:55,360 --> 01:54:59,280
-um this financial instrument that can be
+อืม เครื่องมือทางการเงินที่สามารถ
 
 3108
 01:54:57,360 --> 01:55:01,360
-um can be can be harvested
+อืมสามารถเก็บเกี่ยวได้
 
 3109
 01:54:59,280 --> 01:55:02,639
-um with the snowfall bridge there could
+อืมกับสะพานsnowfallที่นั่นได้
 
 3110
 01:55:01,360 --> 01:55:04,159
-be like ethereum
+เป็นเหมือน ethereum
 
 3111
 01:55:02,639 --> 01:55:06,480
-yield that can be harvested so there
+ผลผลิตที่สามารถเก็บเกี่ยวได้ที่นั่น
 
 3112
 01:55:04,159 --> 01:55:07,679
-might be um down in the past of
+อาจจะเอ่อลงในอดีตของ
 
 3113
 01:55:06,480 --> 01:55:11,040
-development
+การพัฒนา
 
 3114
 01:55:07,679 --> 01:55:14,719
-cool um lucas i i i'm wondering
+เจ๋ง ลุคัส ฉันสงสัย
 
 3115
 01:55:11,040 --> 01:55:16,560
-about a team's building like you on on
+เกี่ยวกับการสร้างทีมอย่างคุณบน
 
 3116
 01:55:14,719 --> 01:55:19,360
-a polka dot and other things like
+polka dot และสิ่งอื่น ๆ เช่น
 
 3117
 01:55:16,560 --> 01:55:20,480
-ethereum is there a concern about
+ethereum มีความกังวลเกี่ยวกับ
 
 3118
 01:55:19,360 --> 01:55:23,040
-fragmenting
+การแยกส่วน
 
 3119
 01:55:20,480 --> 01:55:24,639
-um liquidity like does it make sense to
+อืม สภาพคล่องมันสมเหตุสมผลไหม
 
 3120
 01:55:23,040 --> 01:55:28,000
-build on different chains
+สร้างบนเชนที่แตกต่างกัน
 
 3121
 01:55:24,639 --> 01:55:31,199
-or will do you think um
+หรือคุณคิดว่า อืม
 
 3122
 01:55:28,000 --> 01:55:33,679
-teams would consolidate on one chain in
+ทีมจะรวมเป็นหนึ่งเชนใน
 
 3123
 01:55:31,199 --> 01:55:36,000
-the long run
+ระยะยาว
 
 3124
 01:55:33,679 --> 01:55:38,400
-so that's a really good question i don't
+นั่นเป็นคำถามที่ดีจริงๆ ฉันไม่
 
 3125
 01:55:36,000 --> 01:55:41,199
-i i think
+ฉันคิดว่า
 
 3126
 01:55:38,400 --> 01:55:42,080
-the one the one like obviously fragment
+หนึ่งคนที่ชอบอย่างเห็นได้ชัด
 
 3127
 01:55:41,199 --> 01:55:45,280
-liquidity is bad
+สภาพคล่องไม่ดี
 
 3128
 01:55:42,080 --> 01:55:46,000
-we want to avoid that um it also though
+เราต้องการหลีกเลี่ยงสิ่งนั้น อืม เช่นกัน
 
 3129
 01:55:45,280 --> 01:55:47,599
-is very easy
+ง่ายมาก
 
 3130
 01:55:46,000 --> 01:55:49,520
-to move liquidity around and actually
+เพื่อเคลื่อนย้ายสภาพคล่องไปรอบ ๆ และจริง ๆ
 
 3131
 01:55:47,599 --> 01:55:49,840
-like you just mentioned urine right like
+เหมือนที่คุณเพิ่งพูดถึง เหมือน
 
 3132
 01:55:49,520 --> 01:55:51,679
-that
+นั่น
 
 3133
 01:55:49,840 --> 01:55:53,280
-that's all they're doing and you can you
+นั่นคือทั้งหมดที่พวกเขาทำและคุณทำ
 
 3134
 01:55:51,679 --> 01:55:55,040
-can do that very easily
+สามารถทำได้ง่ายมาก
 
 3135
 01:55:53,280 --> 01:55:57,280
-for us like sort of how we think about
+สำหรับเราแบบที่เราคิด
 
 3136
 01:55:55,040 --> 01:56:00,000
-our like our ecosystem is
+เปรียบเสมือนระบบนิเวศของเรา
 
 3137
 01:55:57,280 --> 01:56:01,280
-we have two different two fundamentally
+เรามีสองที่แตกต่างกันโดยพื้นฐาน
 
 3138
 01:56:00,000 --> 01:56:02,800
-different kinds of users we have the
+ผู้ใช้ประเภทต่างๆที่เรามี
 
 3139
 01:56:01,280 --> 01:56:04,159
-asset originators that bring these real
+ผู้สร้างสินทรัพย์ที่นำสิ่งเหล่านี้มาใช้จริง
 
 3140
 01:56:02,800 --> 01:56:06,960
-world assets on chain
+บนทรัพย์สินของโลกในเชน
 
 3141
 01:56:04,159 --> 01:56:07,440
-they use our our power chain to create
+พวกเขาใช้พาราเชนของเราเพื่อสร้าง
 
 3142
 01:56:06,960 --> 01:56:10,800
-these
+เหล่านี้
 
 3143
 01:56:07,440 --> 01:56:13,599
-assets investors then that will invest
+นักลงทุนสินทรัพย์เหล่านี้แล้วที่จะลงทุน
 
 3144
 01:56:10,800 --> 01:56:14,000
-and earn earn interest on these assets
+และรับดอกเบี้ยจากทรัพย์สินเหล่านี้
 
 3145
 01:56:13,599 --> 01:56:15,920
-they
+พวกเขา
 
 3146
 01:56:14,000 --> 01:56:17,760
-don't necessarily need to be on
+ไม่จำเป็นต้องใช้
 
 3147
 01:56:15,920 --> 01:56:20,320
-centrifuge chain they can do
+centrifuge เชน ที่พวกเขาสามารถทำได้
 
 3148
 01:56:17,760 --> 01:56:20,960
-um they might be a maker on ethereum
+อืม พวกเขาอาจจะเป็นผู้สร้างบน ethereum
 
 3149
 01:56:20,320 --> 01:56:22,639
-they might
+พวกเขาอาจจะ
 
 3150
 01:56:20,960 --> 01:56:24,000
-be on a caller like it might be
+อยู่ในสายเรียกเข้าอย่างที่ควรจะเป็น
 
 3151
 01:56:22,639 --> 01:56:27,119
-collateral somewhere
+หลักประกันที่ไหนสักแห่ง
 
 3152
 01:56:24,000 --> 01:56:28,239
-um or who knows right and so for us how
+และเพื่อพวกเราอย่างไร
 
 3153
 01:56:27,119 --> 01:56:30,239
-we think about
+เราคิดเกี่ยวกับ
 
 3154
 01:56:28,239 --> 01:56:31,840
-fragmentation and interoperability is
+การกระจายตัวและการทำงานร่วมกันคือ
 
 3155
 01:56:30,239 --> 01:56:33,599
-like like we want
+อย่างที่เราต้องการ
 
 3156
 01:56:31,840 --> 01:56:35,599
-these investors to be wherever we ever
+นักลงทุนเหล่านี้ไปได้ทุกที่ที่เราเคย
 
 3157
 01:56:33,599 --> 01:56:36,480
-necessary and we make it as easy to move
+ที่จำเป็นและเราทำให้ง่ายต่อการเคลื่อนย้าย
 
 3158
 01:56:35,599 --> 01:56:38,000
-these tokens
+โทเค็นเหล่านี้
 
 3159
 01:56:36,480 --> 01:56:39,840
-on the acid originator side that's like
+ทางด้านตัวกำเนิดที่เหมือนกับ
 
 3160
 01:56:38,000 --> 01:56:41,040
-sort of the heavy usage like a lot of
+การใช้งานหนักๆ
 
 3161
 01:56:39,840 --> 01:56:43,599
-the very specific
+เช่นการโต้ตอบที่เฉพาะเจาะจงมาก
 
 3162
 01:56:41,040 --> 01:56:44,880
-interaction that we need happens right
+ที่เราต้องการให้เกิดขึ้นจริง
 
 3163
 01:56:43,599 --> 01:56:46,960
-it's not just a simple
+มันไม่ใช่แค่เรื่องง่าย
 
 3164
 01:56:44,880 --> 01:56:48,639
-erc20 token transfer fungible token
+สำหรับerc20 token โอนโทเค็นที่แลกเปลี่ยนได้
 
 3165
 01:56:46,960 --> 01:56:49,040
-transfer and so that's sort of how we
+โอนและนั่นคือวิธีที่เรา
 
 3166
 01:56:48,639 --> 01:56:52,000
-split
+แยก
 
 3167
 01:56:49,040 --> 01:56:52,800
-it up um and how we think about like
+มันขึ้น อืม และเราคิดยังไงกับ
 
 3168
 01:56:52,000 --> 01:56:56,800
-avoiding this
+การหลีกเลี่ยงสิ่งนี้
 
 3169
 01:56:52,800 --> 01:56:58,639
-like fragmentation okay yeah like
+เหมือนแตกกระจาย โอเค ใช่ ชอบ
 
 3170
 01:56:56,800 --> 01:57:00,239
-i would say to add to that the problem
+ฉันจะบอกว่าจะเพิ่มปัญหานั้น
 
 3171
 01:56:58,639 --> 01:57:00,800
-of fragmentation of liquidity is not
+ของการกระจายตัวของสภาพคล่องไม่ได้
 
 3172
 01:57:00,239 --> 01:57:02,239
-really
+จริงๆ
 
 3173
 01:57:00,800 --> 01:57:03,440
@@ -13396,399 +13396,399 @@ tvl ของ ethereum ภายในสิ้นปีนี้
 
 3350
 02:03:00,719 --> 02:03:04,800
-at that scale but i do think there's
+ในระดับนั้น แต่ฉันคิดว่ามี
 
 3351
 02:03:03,199 --> 02:03:06,719
-some something that unique will be
+บางสิ่งที่ไม่เหมือนใครจะเป็น
 
 3352
 02:03:04,800 --> 02:03:09,599
-created in the polkadot ecosystem
+ถูกสร้างขึ้นในระบบนิเวศลายจุด
 
 3353
 02:03:06,719 --> 02:03:11,360
-uh with one project um connectable um
+เอ่อ กับหนึ่งโปรเจ็กต์ อืม เชื่อมต่อได้ อืม
 
 3354
 02:03:09,599 --> 02:03:12,800
-composable with other projects
+ประกอบกับโปรเจกต์อื่นๆ ได้
 
 3355
 02:03:11,360 --> 02:03:14,639
-i think we're able to see something
+ฉันคิดว่าเราสามารถเห็นบางสิ่งบางอย่าง
 
 3356
 02:03:12,800 --> 02:03:16,080
-that's very very unique for example
+ที่มีความพิเศษมาก เช่น
 
 3357
 02:03:14,639 --> 02:03:17,920
-on the fallout team demonstrate like a
+ในทีม fallout แสดงให้เห็นเช่น a
 
 3358
 02:03:16,080 --> 02:03:18,560
-privacy layer so we can start to see
+ชั้นความเป็นส่วนตัวเพื่อให้เราเริ่มมองเห็น
 
 3359
 02:03:17,920 --> 02:03:21,040
-like
+เหมือน
 
 3360
 02:03:18,560 --> 02:03:23,040
-one project asset and teleport it to the
+ทรัพย์สินโครงการหนึ่งและเทเลพอร์ตไปที่
 
 3361
 02:03:21,040 --> 02:03:24,400
-path harvest layer and become a privacy
+ชั้นเก็บเกี่ยวเส้นทางและกลายเป็นความเป็นส่วนตัว
 
 3362
 02:03:23,040 --> 02:03:26,159
-asset
+สินทรัพย์
 
 3363
 02:03:24,400 --> 02:03:28,639
-so i think that's something that's super
+ฉันเลยคิดว่ามันเป็นอะไรที่น่าสนใจมาก
 
 3364
 02:03:26,159 --> 02:03:30,719
-interesting and that might be the
+และนั่นอาจเป็น
 
 3365
 02:03:28,639 --> 02:03:33,040
-the new possibility that we can start to
+ความเป็นไปได้ใหม่ที่เราเริ่มต้นได้
 
 3366
 02:03:30,719 --> 02:03:36,320
-see i i do expect the polkadots
+ฉันคาดหวังpolkadots
 
 3367
 02:03:33,040 --> 02:03:39,199
-ecosystem grow um and grow fast but i
+ระบบนิเวศที่เติบโตอืมและเติบโตอย่างรวดเร็ว แต่ฉัน
 
 3368
 02:03:36,320 --> 02:03:40,639
-i really don't think um at a scale that
+ฉันไม่คิดว่าอืมในระดับที่
 
 3369
 02:03:39,199 --> 02:03:42,400
-maybe by the end of the
+อาจจะในตอนท้ายของ
 
 3370
 02:03:40,639 --> 02:03:43,840
-day the yeah that we can take over but
+วันที่เรารับช่วงต่อได้ แต่
 
 3371
 02:03:42,400 --> 02:03:46,320
-the thing is that it's like
+สิ่งนั้นคือมันเหมือน
 
 3372
 02:03:43,840 --> 02:03:48,239
-um at the point i see it is that this
+อืม ณ จุดที่ฉันเห็นมันคือ
 
 3373
 02:03:46,320 --> 02:03:50,719
-whole movement this whole
+การเคลื่อนไหวทั้งหมด
 
 3374
 02:03:48,239 --> 02:03:52,800
-decentralized finance movement is very
+การเคลื่อนไหวทางการเงินแบบกระจายอำนาจนี้
 
 3375
 02:03:50,719 --> 02:03:56,159
-very early on right so there's like
+เร็วมาก ดังนั้นมันจึงเป็นเช่นนั้น
 
 3376
 02:03:52,800 --> 02:03:57,440
-a huge growing pie for what i i'm gonna
+พายที่กำลังเติบโตขนาดใหญ่สำหรับสิ่งที่ฉันกำลังจะ
 
 3377
 02:03:56,159 --> 02:03:59,440
-be honest i think it's gonna
+พูดตามตรงฉันคิดว่ามันจะ
 
 3378
 02:03:57,440 --> 02:04:01,199
-replace the whole financial sector so we
+แทนที่ภาคการเงินทั้งหมดดังนั้นเราจึง
 
 3379
 02:03:59,440 --> 02:04:03,440
-are still in a very early stage
+ยังอยู่ในช่วงเริ่มต้น
 
 3380
 02:04:01,199 --> 02:04:04,639
-and each one of us working on this
+และเราแต่ละคนทำงานเกี่ยวกับ
 
 3381
 02:04:03,440 --> 02:04:07,280
-sector is just like
+เซกเตอร์นี้ก็เหมือน
 
 3382
 02:04:04,639 --> 02:04:08,719
-uh reinforcing this idea or pushing this
+เอ่อ ตอกย้ำความคิดนี้หรือผลักดัน
 
 3383
 02:04:07,280 --> 02:04:11,280
-idea to the world so
+ไอเดียนี้สู่โลกดังนั้น
 
 3384
 02:04:08,719 --> 02:04:12,880
-in that sense um i i would see that i'd
+ในแง่นั้น อืม ฉันจะเห็นว่าฉันจะ
 
 3385
 02:04:11,280 --> 02:04:14,560
-rather to see that we grow together
+แทนที่จะเห็นว่าเราเติบโตไปด้วยกัน
 
 3386
 02:04:12,880 --> 02:04:17,040
-rather than say hey it's taking over or
+แทนที่จะพูดว่า เฮ้ มันยึดครองหรือ
 
 3387
 02:04:14,560 --> 02:04:20,480
-something like that
+อะไรแบบนั้น
 
 3388
 02:04:17,040 --> 02:04:23,280
-i agree um yeah
+ฉันเห็นด้วย อืม ใช่
 
 3389
 02:04:20,480 --> 02:04:24,239
-aiden what are your thoughts on kind of
+เอเดน คุณคิดอย่างไรกับประเภทของ
 
 3390
 02:04:23,280 --> 02:04:26,079
-long term for
+ระยะยาวสำหรับ
 
 3391
 02:04:24,239 --> 02:04:28,000
-or end of the year at least for a
+หรือสิ้นปีเป็นอย่างน้อยสำหรับ a
 
 3392
 02:04:26,079 --> 02:04:30,880
-defiant polka dot
+defi บน polkadot
 
 3393
 02:04:28,000 --> 02:04:32,000
-yeah i mean i'm not going to make like
+ใช่ ฉันหมายความว่าฉันจะไม่ทำเหมือน
 
 3394
 02:04:30,880 --> 02:04:33,280
-predictions about
+คำทำนายเกี่ยวกับ
 
 3395
 02:04:32,000 --> 02:04:34,480
-uh whether or not i think ethereum's
+เอ่อ ฉันคิดว่าของ ethereum
 
 3396
 02:04:33,280 --> 02:04:35,199
-going to take over i think it's very
+กำลังจะเข้าครอบครอง ฉันคิดว่ามันมาก
 
 3397
 02:04:34,480 --> 02:04:36,800
-unlikely
+ไม่น่าเป็นไปได้
 
 3398
 02:04:35,199 --> 02:04:38,320
-but i do think that like as soon as
+แต่ฉันคิดว่า ทันทีที่
 
 3399
 02:04:36,800 --> 02:04:39,760
-power chains are launched and
+เปิดตัวพาราเชน ถูกใช้งานและ
 
 3400
 02:04:38,320 --> 02:04:41,119
-within two or three months of people
+ภายในสองหรือสามเดือนของผู้คน
 
 3401
 02:04:39,760 --> 02:04:42,239
-starting to connect to each other
+เริ่มที่จะเชื่อมต่อกัน
 
 3402
 02:04:41,119 --> 02:04:44,159
-there'll be like
+จะมีเช่น
 
 3403
 02:04:42,239 --> 02:04:45,360
-uh a lot of flow happening between
+กระแสเยอะมากระหว่าง
 
 3404
 02:04:44,159 --> 02:04:47,520
-polkadot and ethereum and
+polkadot และ ethereum และ
 
 3405
 02:04:45,360 --> 02:04:48,719
-a lot of flow moving across power chains
+มีกระแสไหลผ่านพาราเชนจำนวนมาก
 
 3406
 02:04:47,520 --> 02:04:50,800
-and so um
+แล้วก็ อืม
 
 3407
 02:04:48,719 --> 02:04:52,480
-i i imagine that like maybe not in terms
+ฉันคิดว่าชอบอาจจะไม่ใช่ในแง่
 
 3408
 02:04:50,800 --> 02:04:54,960
-of tvo um
+ของtvl
 
 3409
 02:04:52,480 --> 02:04:56,800
-like overtaking ethereum but in terms of
+เหมือนแซงอีเธอเรียมแต่ในแง่ของ
 
 3410
 02:04:54,960 --> 02:04:58,560
-kind of transactions and usage and
+ประเภทของธุรกรรมและการใช้งานและ
 
 3411
 02:04:56,800 --> 02:05:00,000
-like people playing with things i could
+เหมือนคนที่เล่นกับสิ่งที่ฉันทำ
 
 3412
 02:04:58,560 --> 02:05:02,400
-imagine um it's scaling
+ลองนึกภาพว่ามันเป็นสเกลใหญ่ขึ้น
 
 3413
 02:05:00,000 --> 02:05:04,880
-like pretty quickly in that sense
+ค่อนข้างเร็วในแง่นั้น
 
 3414
 02:05:02,400 --> 02:05:04,880
-interesting
+น่าสนใจ
 
 3415
 02:05:05,599 --> 02:05:09,679
-because when i make your for your
+เพราะเมื่อฉันทำเพื่อคุณ
 
 3416
 02:05:07,119 --> 02:05:11,920
-predictions
+คำทำนาย
 
 3417
 02:05:09,679 --> 02:05:13,199
-i mean maybe the one prediction i do i
+ฉันหมายถึงบางทีคำทำนายเดียวที่ฉันทำ
 
 3418
 02:05:11,920 --> 02:05:15,040
-will make it as well but
+จะทำได้เช่นกัน แต่
 
 3419
 02:05:13,199 --> 02:05:17,840
-i i expect power change to be live by
+ฉันคาดว่าการพาราเชนจะใช้งานได้
 
 3420
 02:05:15,040 --> 02:05:19,679
-then but maybe
+แต่บางที
 
 3421
 02:05:17,840 --> 02:05:21,199
-to come back to your first question but
+กลับมาที่คำถามแรกของคุณ แต่
 
 3422
 02:05:19,679 --> 02:05:24,320
-uh no i um
+ 
 
 3423
 02:05:21,199 --> 02:05:27,119
-i would say yeah i
+ฉันจะบอกว่าใช่ฉัน
 
 3424
 02:05:24,320 --> 02:05:28,159
-i think sort of boring of like alex i'm
+ฉันคิดว่าน่าเบื่อ เล็กซ์ ฉัน
 
 3425
 02:05:27,119 --> 02:05:30,400
-like
+เหมือน
 
 3426
 02:05:28,159 --> 02:05:32,480
-every long crypto bed i've made in my
+ทุกcrypto ยาว ๆ ที่ฉันทำในชีวิตฉัน
 
 3427
 02:05:30,400 --> 02:05:34,000
-life i've probably been wrong about so i
+ฉันคงผิดพลาดไป ดังนั้นฉัน
 
 3428
 02:05:32,480 --> 02:05:35,920
-don't want to say too much but
+ไม่อยากพูดมากแต่
 
 3429
 02:05:34,000 --> 02:05:38,400
-the thing i have seen is sort of the def
+สิ่งที่ฉันได้เห็นคือการจัดเรียงของdefi
 
 3430
 02:05:35,920 --> 02:05:39,199
-like the d5 ecosystem in in ethereum
+เช่นเดียวกับระบบนิเวศ defi ใน ethereum
 
 3431
 02:05:38,400 --> 02:05:41,280
-developing
+กำลังพัฒนา
 
 3432
 02:05:39,199 --> 02:05:43,040
-was and i think it's really important
+เคยเป็นและฉันคิดว่ามันสำคัญมาก
 
 3433
 02:05:41,280 --> 02:05:45,119
-was
+เคยเป็น
 
 3434
 02:05:43,040 --> 02:05:46,800
-accelerated by like just the whole
+เร่งโดยทั่วๆไป
 
 3435
 02:05:45,119 --> 02:05:47,280
-community coming around the euroc20
+ชุมชนรอบ ๆ erc20
 
 3436
 02:05:46,800 --> 02:05:49,440
-token
+โทเค็น
 
 3437
 02:05:47,280 --> 02:05:50,560
-and it sort of happened naturally and we
+และมันก็เกิดขึ้นโดยธรรมชาติและเรา
 
 3438
 02:05:49,440 --> 02:05:53,280
-had this like
+มีแบบนี้
 
 3439
 02:05:50,560 --> 02:05:55,679
-suddenly this number of tokens after the
+ทันใดนั้นจำนวนโทเค็นนี้หลังจาก
 
 3440
 02:05:53,280 --> 02:05:57,440
-2017 ico boom that people started doing
+2017 ico boom ที่คนเริ่มทำ
 
 3441
 02:05:55,679 --> 02:06:01,760
-things with and experimenting with
+สิ่งของและการทดลองกับ
 
 3442
 02:05:57,440 --> 02:06:03,920
-and it still took um then like from 2018
+และมันก็ยังเอามันมาใช้เหมือนจากปี 2018
 
 3443
 02:06:01,760 --> 02:06:05,599
-to 2019 and they sort of
+ถึงปี 2019 และพวกเขาเรียงลำดับของ
 
 3444
 02:06:03,920 --> 02:06:07,360
-started growing and like last summer it
+เริ่มโตแล้วเหมือนซัมเมอร์ที่แล้ว
 
 3445
 02:06:05,599 --> 02:06:09,599
-was like really exploding and
+เหมือนระเบิดจริงๆและ
 
 3446
 02:06:07,360 --> 02:06:10,719
-it's been going ever since but sort of
+มันเกิดขึ้นตั้งแต่นั้นมา แต่เรียงลำดับของ
 
 3447
 02:06:09,599 --> 02:06:13,360
-we've seen this
+เราได้เห็นสิ่งนี้แล้ว
 
 3448
 02:06:10,719 --> 02:06:15,440
-this whole um journey for ethereum and i
+การเดินทาง um ทั้งหมดนี้สำหรับ ethereum และ ฉัน
 
 3449
 02:06:13,360 --> 02:06:17,280
