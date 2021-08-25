@@ -16637,279 +16637,279 @@ solidity และ vm ในระยะยาว
 
 4160
 02:29:26,319 --> 02:29:29,200
-faucet and you're good to go
+faucet และคุณพร้อมแล้ว
 
 4161
 02:29:27,680 --> 02:29:31,120
-i mean of course it's still in beta so
+ฉันหมายถึงแน่นอนว่ามันยังอยู่ในช่วงเบต้าดังนั้น
 
 4162
 02:29:29,200 --> 02:29:32,880
-it's all it doesn't have economic value
+มันทั้งหมดไม่มีมูลค่าทางเศรษฐกิจ
 
 4163
 02:29:31,120 --> 02:29:34,160
-um but we're really looking forward to
+อืม แต่เราตั้งตารอจริงๆ
 
 4164
 02:29:32,880 --> 02:29:37,439
-getting this um
+ที่จะได้รับสิ่งนี้ อืม
 
 4165
 02:29:34,160 --> 02:29:39,359
-up to speed on christmas as well
+ให้เร็วขึ้นในวันคริสต์มาสอีกด้วย
 
 4166
 02:29:37,439 --> 02:29:40,560
-and then i had a specific question on on
+แล้วฉันก็มีคำถามเฉพาะเกี่ยวกับ
 
 4167
 02:29:39,359 --> 02:29:43,439
-fala too the
+ฟาลาด้วย
 
 4168
 02:29:40,560 --> 02:29:44,720
-privacy network um i think i i got kind
+เครือข่ายความเป็นส่วนตัว อืม ฉันคิดว่าฉัน
 
 4169
 02:29:43,439 --> 02:29:47,120
-of a little bit lost in
+เป็นประเภท
 
 4170
 02:29:44,720 --> 02:29:48,319
-in the presentation and was wondering
+หลงเล็กน้อยในการนำเสนอและกำลังสงสัย
 
 4171
 02:29:47,120 --> 02:29:51,280
-for the user
+สำหรับผู้ใช้
 
 4172
 02:29:48,319 --> 02:29:52,479
-um to to have uh like private
+อืมที่จะมีเอ่อชอบการทำธุรกรรม
 
 4173
 02:29:51,280 --> 02:29:53,920
-transactions and
+ส่วนตัวและ
 
 4174
 02:29:52,479 --> 02:29:55,920
-interactions with different different
+ปฏิสัมพันธ์ที่แตกต่างกัน
 
 4175
 02:29:53,920 --> 02:29:59,760
-apps is having a
+บนแอพที่กำลังมี
 
 4176
 02:29:55,920 --> 02:30:02,479
-uh fala based wallet uh
+กระเป๋าเงิน ฟาลา
 
 4177
 02:29:59,760 --> 02:30:03,120
-basically what what like the the thing
+โดยพื้นฐานแล้วสิ่งที่ชอบ
 
 4178
 02:30:02,479 --> 02:30:04,960
-that you need
+ที่คุณต้องการ
 
 4179
 02:30:03,120 --> 02:30:06,399
-to have private transactions or is there
+เพื่อทำธุรกรรมส่วนตัวหรืออยู่ที่
 
 4180
 02:30:04,960 --> 02:30:09,920
-an additional step
+ขั้นตอนเพิ่มเติม
 
 4181
 02:30:06,399 --> 02:30:10,960
-that you need to do yeah uh of course
+ที่คุณต้องทำ ใช่ เอ่อ แน่นอน
 
 4182
 02:30:09,920 --> 02:30:13,520
-there are there are
+มี
 
 4183
 02:30:10,960 --> 02:30:14,399
-some problems if you don't have a
+ปัญหาบางอย่างหากคุณไม่มี
 
 4184
 02:30:13,520 --> 02:30:17,760
-special
+อะไรพิเศษ
 
 4185
 02:30:14,399 --> 02:30:20,319
-kind of wallet because like if you uh
+ชนิดของกระเป๋าสตางค์เพราะถ้าคุณเอ่อ
 
 4186
 02:30:17,760 --> 02:30:21,200
-interact with some uh powertrain
+โต้ตอบกับระบบส่งกำลังเอ่อ
 
 4187
 02:30:20,319 --> 02:30:24,160
-directly
+โดยตรง
 
 4188
 02:30:21,200 --> 02:30:24,479
-you you write creators transactions sign
+คุณเขียนเครื่องหมายการทำธุรกรรมของผู้สร้าง
 
 4189
 02:30:24,160 --> 02:30:27,280
-it
+มัน
 
 4190
 02:30:24,479 --> 02:30:27,920
-and and broadcast it to the person and
+และถ่ายทอดไปยังบุคคลนั้นและ
 
 4191
 02:30:27,280 --> 02:30:30,240
-that's all
+แค่นั้นแหละ
 
 4192
 02:30:27,920 --> 02:30:32,160
-but for us uh because we want to
+แต่สำหรับเรา เอ่อ เพราะเราต้องการ
 
 4193
 02:30:30,240 --> 02:30:35,040
-maintain the confidentiality
+รักษาความลับ
 
 4194
 02:30:32,160 --> 02:30:37,520
-so at least before you submit something
+อย่างน้อยก่อนที่คุณจะส่งอะไรบางอย่าง
 
 4195
 02:30:35,040 --> 02:30:40,160
-to our blockchain you need to encrypt it
+ในบล็อกเชนของเรา คุณต้องเข้ารหัส
 
 4196
 02:30:37,520 --> 02:30:40,960
-and before you encrypt it you need a you
+และก่อนที่คุณจะเข้ารหัส คุณต้องมีคุณ
 
 4197
 02:30:40,160 --> 02:30:44,160
-need a key
+ต้องการกุญแจ
 
 4198
 02:30:40,960 --> 02:30:47,760
-right so the key is uh it is made
+ดังนั้นกุญแจคือ uh มันถูกสร้างขึ้น
 
 4199
 02:30:44,160 --> 02:30:50,560
-from some key uh uh key agreement
+จากบางคีย์ ข้อตกลงที่สำคัญ
 
 4200
 02:30:47,760 --> 02:30:52,880
-uh protocol between the user between the
+เอ่อโปรโตคอลระหว่างผู้ใช้ระหว่าง
 
 4201
 02:30:50,560 --> 02:30:56,319
-end user and the secure enclave
+ผู้ใช้ปลายทางและวงล้อมที่ปลอดภัย
 
 4202
 02:30:52,880 --> 02:30:57,359
-so uh in this uh uh if in this
+ดังนั้น ถ้าในนี้
 
 4203
 02:30:56,319 --> 02:31:00,560
-perspective
+ทัศนคติ
 
 4204
 02:30:57,359 --> 02:31:03,439
-and that the answer is yes so uh
+และคำตอบก็คือใช่แล้ว uh
 
 4205
 02:31:00,560 --> 02:31:04,000
-if any protocol wants to interact with
+หากโปรโตคอลใดต้องการโต้ตอบกับ
 
 4206
 02:31:03,439 --> 02:31:07,600
-us
+เรา
 
 4207
 02:31:04,000 --> 02:31:09,520
-at least uh their user side will need to
+อย่างน้อย เอ่อ ด้านผู้ใช้ของพวกเขาจะต้อง
 
 4208
 02:31:07,600 --> 02:31:12,720
-integrate with our sdk
+รวมเข้ากับ sdk ของเรา
 
 4209
 02:31:09,520 --> 02:31:16,640
-but uh uh we have two ways to
+แต่ เรามีสองวิธีที่จะ
 
 4210
 02:31:12,720 --> 02:31:19,520
-uh to inter interact with the different
+เอ่อเพื่อโต้ตอบกับที่แตกต่างกัน
 
 4211
 02:31:16,640 --> 02:31:20,080
-power change uh the one way is like you
+พาราเชน เอ่อ ทางเดียวก็เหมือนกับคุณ
 
 4212
 02:31:19,520 --> 02:31:22,880
-can use
+สามารถใช้
 
 4213
 02:31:20,080 --> 02:31:25,200
-xcm to send some message but maybe the
+xcm เพื่อส่งข้อความ แต่บางที
 
 4214
 02:31:22,880 --> 02:31:28,319
-content of the message is already
+เนื้อหาของข้อความอยู่แล้ว
 
 4215
 02:31:25,200 --> 02:31:29,359
-end to end encrypted and it is done by
+เข้ารหัสแบบ end-to-end และทำโดย
 
 4216
 02:31:28,319 --> 02:31:32,720
-some sdk
+sdk บางส่วน
 
 4217
 02:31:29,359 --> 02:31:33,520
-in like user's wallet or browser another
+เหมือนกับกระเป๋าสตางค์ของผู้ใช้หรือเบราว์เซอร์อื่น
 
 4218
 02:31:32,720 --> 02:31:36,640
-way is that
+ทางนั้น
 
 4219
 02:31:33,520 --> 02:31:37,359
-if uh some some data is already on file
+ถ้าเอ่อ ข้อมูลบางอย่างอยู่ในไฟล์อยู่แล้ว
 
 4220
 02:31:36,640 --> 02:31:39,439
-a network
+เครือข่าย
 
 4221
 02:31:37,359 --> 02:31:40,560
-and user can interact with fellow
+และผู้ใช้สามารถโต้ตอบกับเพื่อน
 
 4222
 02:31:39,439 --> 02:31:43,600
-network direct
+เครือข่ายโดยตรง
 
 4223
 02:31:40,560 --> 02:31:45,200
-directly so in this way actually they
+โดยตรงในลักษณะนี้จริง ๆ พวกเขา
 
 4224
 02:31:43,600 --> 02:31:47,600
-talk to the secure enclave
+พูดคุยกับวงล้อมที่ปลอดภัย
 
 4225
 02:31:45,200 --> 02:31:49,359
-rather than the our blockchain we
+แทนที่จะเป็นบล็อคเชนของเรา
 
 4226
 02:31:47,600 --> 02:31:50,399
-separate the consensus and the
+แยกฉันทามติและ
 
 4227
 02:31:49,359 --> 02:31:52,960
-computation
+การคำนวณ
 
 4228
 02:31:50,399 --> 02:31:53,600
-so uh everything happens off the
+ดังนั้น เอ่อ ทุกอย่างเกิดขึ้นจาก
 
 4229
 02:31:52,960 --> 02:31:55,520
@@ -16917,179 +16917,180 @@ blockchain
 
 4230
 02:31:53,600 --> 02:31:57,280
-and it can make the performance even
+และทำให้ประสิทธิภาพการทำงานสม่ำเสมอ
 
 4231
 02:31:55,520 --> 02:32:00,640
-better
+ดีกว่า
 
 4232
 02:31:57,280 --> 02:32:04,399
-okay got it and then um questions for
+โอเค เข้าใจแล้ว อืม คำถามสำหรับ
 
 4233
 02:32:00,640 --> 02:32:06,160
-for sota and and derek um
+สำหรับ sota และ และ derek um
 
 4234
 02:32:04,399 --> 02:32:08,560
-so you're you're providing uh like
+คุณกำลังให้ เอ่อ
 
 4235
 02:32:06,160 --> 02:32:11,200
-platforms for for adapts to
+แพลตฟอร์มสำหรับปรับให้เข้ากับ
 
 4236
 02:32:08,560 --> 02:32:12,479
-to build uh on on polka dot and you
+เพื่อสร้าง uh บนpolka dotและคุณ
 
 4237
 02:32:11,200 --> 02:32:15,439
-already have like some
+มีแล้ว
 
 4238
 02:32:12,479 --> 02:32:16,000
-already some uh some teams building
+บางทีมสร้าง
 
 4239
 02:32:15,439 --> 02:32:19,040
-there
+ที่นั่น
 
 4240
 02:32:16,000 --> 02:32:22,080
-so uh curious what
+อืม อยากรู้จัง
 
 4241
 02:32:19,040 --> 02:32:23,840
-what are the next uh projects
+โปรเจกต์ต่อไปคืออะไร
 
 4242
 02:32:22,080 --> 02:32:25,760
-either like whether they're ethereum
+ไม่ว่าจะเป็น โครงการethereum
 
 4243
 02:32:23,840 --> 02:32:28,560
-based or or new projects
+หรือโครงการใหม่
 
 4244
 02:32:25,760 --> 02:32:28,880
-that you are seeing uh coming to your
+ที่คุณกำลังเห็น uh มาถึงของคุณ
 
 4245
 02:32:28,560 --> 02:32:30,720
-your
+ 
 
 4246
 02:32:28,880 --> 02:32:32,880
-your platforms like what do you think
+แพลตฟอร์มของคุณ คุณคิดถึงอะไร
 
 4247
 02:32:30,720 --> 02:32:34,160
-will be the first steps to come live on
+ที่จะเป็นก้าวแรกในการไลฟ์
 
 4248
 02:32:32,880 --> 02:32:36,840
 polka dot
 
+
 4249
 02:32:34,160 --> 02:32:39,680
-whoever soda do you want to go first go
+ใครจะไป sota คุณจะเริ่มก่อนไหม
 
 4250
 02:32:36,840 --> 02:32:42,800
-ahead yeah um
+เชิญเลย
 
 4251
 02:32:39,680 --> 02:32:46,240
-so i think this is great question in the
+ดังนั้นฉันคิดว่านี่เป็นคำถามที่ดีใน
 
 4252
 02:32:42,800 --> 02:32:46,640
-actually the yeah while the frequently
+คำถามที่ถามบ่อย
 
 4253
 02:32:46,240 --> 02:32:48,399
-asked
+ 
 
 4254
 02:32:46,640 --> 02:32:50,240
-question from investor is what is the
+คำถามจากนักลงทุนอะไรคือ
 
 4255
 02:32:48,399 --> 02:32:51,680
-difference from between movie and
+ความแตกต่างระหว่างภาพยนตร์กับ
 
 4256
 02:32:50,240 --> 02:32:54,080
-problem so
+ปัญหาดังนั้น
 
 4257
 02:32:51,680 --> 02:32:55,520
-yeah but uh ecosystem is still too small
+ใช่ แต่เอ่อ ระบบนิเวศยังเล็กเกินไป
 
 4258
 02:32:54,080 --> 02:32:56,560
-to compete so we can be gathered
+มาแข่งขันกันเพื่อจะได้รวมตัวกัน
 
 4259
 02:32:55,520 --> 02:32:59,680
-together
+ด้วยกัน
 
 4260
 02:32:56,560 --> 02:33:02,720
-so yeah i respect what derek is doing
+ใช่ ฉันเคารพในสิ่งที่เดเร็คทำ
 
 4261
 02:32:59,680 --> 02:33:04,479
-in that system and the yeah in terms of
+ในระบบนั้นและใช่ในแง่ของ
 
 4262
 02:33:02,720 --> 02:33:06,560
-the collaboration and the announcement
+ความร่วมมือและประกาศ
 
 4263
 02:33:04,479 --> 02:33:08,080
-we decided not to announce the
+เราตัดสินใจที่จะไม่ประกาศ
 
 4264
 02:33:06,560 --> 02:33:09,359
-partnership and the collaboration
+ความร่วมมือและความร่วมมือ
 
 4265
 02:33:08,080 --> 02:33:12,720
-without code
+ไม่มีรหัส
 
 4266
 02:33:09,359 --> 02:33:15,120
-without demo and without you know movp
+ไม่มีการสาธิตและโดยที่คุณไม่รู้movp
 
 4267
 02:33:12,720 --> 02:33:17,439
-minimum valuable product and the we have
+ผลิตภัณฑ์ที่มีมูลค่าขั้นต่ำและเรามี
 
 4268
 02:33:15,120 --> 02:33:18,720
-a you know some upcoming collaboration
+คุณรู้จักการทำงานร่วมกันที่กำลังจะเกิดขึ้น
 
 4269
 02:33:17,439 --> 02:33:22,399
-and partnership
+และห้างหุ้นส่วน
 
 4270
 02:33:18,720 --> 02:33:23,680
-and the yes some yeah some project i
+และใช่ บาง ใช่ บางโครงการ i
 
 4271
 02:33:22,399 --> 02:33:26,160
-i don't want to disclose some of the
+ฉันไม่ต้องการที่จะเปิดเผยบางส่วนของ
 
 4272
 02:33:23,680 --> 02:33:28,000
-project but one project i can describe
+โครงการ แต่โครงการหนึ่งที่ฉันอธิบายได้
 
 4273
 02:33:26,160 --> 02:33:28,640
-with microsoft so we are talking with
+กับ microsoft เรากำลังคุยกับ
 
 4274
 02:33:28,000 --> 02:33:32,160
@@ -17097,931 +17098,931 @@ microsoft
 
 4275
 02:33:28,640 --> 02:33:34,960
-japan and it will be disclosed very soon
+ประเทศญี่ปุ่น และจะเปิดเผยในเร็วๆ นี้
 
 4276
 02:33:32,160 --> 02:33:36,800
-and what what's microsoft doing yeah
+และ microsoft ทำอะไรอยู่ครับ
 
 4277
 02:33:34,960 --> 02:33:38,640
-they are providing infrastructure for
+พวกเขากำลังจัดหาโครงสร้างพื้นฐานสำหรับ
 
 4278
 02:33:36,800 --> 02:33:41,359
-the plaza network
+เครือข่ายพลาซ่า
 
 4279
 02:33:38,640 --> 02:33:42,720
-in the they're yeah we are doing
+ใช่เรากำลังทำ
 
 4280
 02:33:41,359 --> 02:33:46,080
-together to make the
+ร่วมกันเพื่อทำให้
 
 4281
 02:33:42,720 --> 02:33:47,840
-the the node service then anyone can
+บริการโหนดนั้นทุกคนสามารถ
 
 4282
 02:33:46,080 --> 02:33:49,520
-deploy body data on the top of the
+ปรับใช้ข้อมูลบอดี้ที่ด้านบนของ
 
 4283
 02:33:47,840 --> 02:33:52,080
-network
+เครือข่าย
 
 4284
 02:33:49,520 --> 02:33:53,359
-this is not a task but uh right you know
+นี่ไม่ใช่งานแต่เอ่อ คุณรู้ไหม
 
 4285
 02:33:52,080 --> 02:33:56,399
-important function
+หน้าที่ที่สำคัญ
 
 4286
 02:33:53,359 --> 02:33:59,040
-in the community oh interesting okay
+ในชุมชน โอ้ น่าสนใจ โอเค
 
 4287
 02:33:56,399 --> 02:34:00,319
-um so okay so you work with microsoft
+อืม โอเค งั้นคุณทำงานกับ microsoft
 
 4288
 02:33:59,040 --> 02:34:03,359
-for microsoft to
+สำหรับไมโครซอฟต์ถึง
 
 4289
 02:34:00,319 --> 02:34:08,640
-help run the uh
+ช่วยงาน
 
 4290
 02:34:03,359 --> 02:34:08,640
-you set the notes on by by using azure
+คุณตั้งค่าโน้ตโดยใช้ Azure
 
 4291
 02:34:08,880 --> 02:34:13,200
-okay and any depth you can disclose or
+โอเคและความลึกใด ๆ ที่คุณสามารถเปิดเผยหรือ
 
 4292
 02:34:11,600 --> 02:34:14,960
-or i guess like sectors like
+หรือฉันเดาเหมือนภาคเช่น
 
 4293
 02:34:13,200 --> 02:34:17,840
-i don't know you can say like a lending
+ฉันไม่แน่ใจ มันเหมือนกับ โปรโตคอล การยืม
 
 4294
 02:34:14,960 --> 02:34:17,840
-protocol yeah
+ 
 
 4295
 02:34:20,080 --> 02:34:26,240
-okay so secret
+โอเค ลับมาก
 
 4296
 02:34:23,200 --> 02:34:27,920
-all right okay um derek
+โอเค โอเค อืม ดีเร็ก
 
 4297
 02:34:26,240 --> 02:34:30,000
-and by the way like super interesting to
+และอีกอย่างที่น่าสนใจมากคือ
 
 4298
 02:34:27,920 --> 02:34:32,560
-see um sushi swap
+sushi swap
 
 4299
 02:34:30,000 --> 02:34:33,439
-and balance are already uh building on
+และความสมดุลกำลังก่อตัวขึ้นแล้ว
 
 4300
 02:34:32,560 --> 02:34:36,160
-on moon beams
+บน มูนบีม
 
 4301
 02:34:33,439 --> 02:34:36,880
-so what what else can we expect yeah i
+แล้วเราจะคาดหวังอะไรได้อีก ใช่ฉัน 
 
 4302
 02:34:36,160 --> 02:34:38,160
-mean i'll just
+หมายถึงฉันจะ
 
 4303
 02:34:36,880 --> 02:34:40,720
-uh you know there's a lot of individual
+เอ่อ คุณรู้ไหมว่ามีโครงการมากมาย
 
 4304
 02:34:38,160 --> 02:34:42,080
-projects but if i just uh talk broadly i
+แต่ถ้าฉันแค่เอ่อพูดกว้าง ๆ ฉัน
 
 4305
 02:34:40,720 --> 02:34:43,040
-would say that you know it's certainly
+จะบอกว่า มันแน่นอน
 
 4306
 02:34:42,080 --> 02:34:45,439
-the case that
+กรณีที่
 
 4307
 02:34:43,040 --> 02:34:46,319
-d5 like the d5 sector is like where we
+defi เหมือนภาค defi เหมือนกับที่เรา
 
 4308
 02:34:45,439 --> 02:34:48,240
-we found the most
+เราพบ
 
 4309
 02:34:46,319 --> 02:34:50,240
-traction and just to step back i mean
+แรงฉุดมากและเพียงแค่ถอยกลับฉันหมายถึง
 
 4310
 02:34:48,240 --> 02:34:52,640
-our strategy is basically to
+กลยุทธ์ของเราคือ
 
 4311
 02:34:50,240 --> 02:34:53,840
-approach ethereum based projects um as
+เข้าใกล้โครงการที่ใช้ ethereum
 
 4312
 02:34:52,640 --> 02:34:56,160
-natural partners because
+พันธมิตรที่เป็นธรรมชาติเพราะ
 
 4313
 02:34:53,840 --> 02:34:57,600
-given our ethereum compatible approach
+ด้วยแนวทางที่เข้ากันได้กับ ethereum ของเรา
 
 4314
 02:34:56,160 --> 02:34:59,200
-you know there's kind of minimal change
+คุณรู้ว่ามีความจำเป็นเปลี่ยนแปลงเล็กน้อย
 
 4315
 02:34:57,600 --> 02:35:00,560
-needed on their end to be able to
+ในท้ายที่สุดเพื่อให้สามารถ
 
 4316
 02:34:59,200 --> 02:35:02,399
-deploy the moon beam and then in doing
+ทำงานได้บนมูนบีม แล้วในการทำ
 
 4317
 02:35:00,560 --> 02:35:04,240
-so have a pokedex deployment
+ดังนั้นมีการติดตั้ง polkadex
 
 4318
 02:35:02,399 --> 02:35:07,120
-but certainly defy i'd say they're the
+แต่defi อย่างแน่นอน ฉันจะบอกว่าพวกเขาคือ
 
 4319
 02:35:04,240 --> 02:35:09,280
-most uh aggressive to adopt i think
+ฉันคิดว่าก้าวร้าวที่สุดที่จะรับเลี้ยง ฉันคิดว่า
 
 4320
 02:35:07,120 --> 02:35:10,319
-and one of the reasons i think is that
+และเหตุผลหนึ่งที่ฉันคิดก็คือ
 
 4321
 02:35:09,280 --> 02:35:12,560
-they
+พวกเขา
 
 4322
 02:35:10,319 --> 02:35:13,840
-you know when it comes to these ux you
+เมื่อมันมาถึง ux เหล่านี้ คุณ
 
 4323
 02:35:12,560 --> 02:35:15,040
-know kind of concerns that alexa was
+รู้ถึงความกังวลที่ Alex เป็น
 
 4324
 02:35:13,840 --> 02:35:16,240
-talking about i feel like a lot of the
+พูดถึงฉันรู้สึกมี
 
 4325
 02:35:15,040 --> 02:35:18,080
-d5 people actually
+คนจากdefi จำนวนมากจริงๆ
 
 4326
 02:35:16,240 --> 02:35:19,760
-don't care as much about that uh their
+ไม่สนใจมากเกี่ยวกับมัน พวกเขา
 
 4327
 02:35:18,080 --> 02:35:21,760
-users are like power users and
+ผู้ใช้เป็นเหมือนผู้ใช้ที่มีอำนาจและ
 
 4328
 02:35:19,760 --> 02:35:23,359
-you know they can be pretty big
+มันเป็นอุปสรรคค่อนข้างใหญ่
 
 4329
 02:35:21,760 --> 02:35:24,560
-obstacles and people kind of like plow
+และคนชอบ
 
 4330
 02:35:23,359 --> 02:35:26,080
-through right you know
+ผ่านมันไป
 
 4331
 02:35:24,560 --> 02:35:28,479
-i think that uh that's kind of like you
+ฉันคิดว่า เอ่อ นั่นก็เหมือน
 
 4332
 02:35:26,080 --> 02:35:29,840
-know they're they're definitely like um
+พวกเขาเป็นเหมือน
 
 4333
 02:35:28,479 --> 02:35:31,040
-you know they're the place where we got
+พวกเขาเป็นที่ที่เราได้รับ
 
 4334
 02:35:29,840 --> 02:35:32,560
-the first option although i will say
+ตัวเลือกแรกแม้ว่าฉันจะพูดว่า
 
 4335
 02:35:31,040 --> 02:35:34,720
-that i'm pretty bullish on
+ว่าฉันค่อนข้างรั้นใน
 
 4336
 02:35:32,560 --> 02:35:36,640
-uh the nft sector as well so i think
+เอ่อภาค nft เช่นกันดังนั้นฉันคิดว่า
 
 4337
 02:35:34,720 --> 02:35:37,600
-that this same kind of dynamic we talked
+เป้นประเภทเดียวกันแบบ ไดนามิค เราพูดถึง
 
 4338
 02:35:36,640 --> 02:35:39,520
-about before
+มัน มาก่อน
 
 4339
 02:35:37,600 --> 02:35:41,280
-is certainly affecting you know nft
+ส่งผลกระทบต่อย่างแน่นอน ต่อnft
 
 4340
 02:35:39,520 --> 02:35:42,080
-based projects on ethereum where you
+ตามโปรเจ็กต์บน ethereum ที่คุณ
 
 4341
 02:35:41,280 --> 02:35:43,920
-know you have a hundred dollar
+มีเงินร้อยดอลลาร์
 
 4342
 02:35:42,080 --> 02:35:45,920
-transaction fee what does that mean for
+เป็นค่าธรรมเนียมการทำธุรกรรมหมายความว่าอย่างไรสำหรับ
 
 4343
 02:35:43,920 --> 02:35:47,359
-nft assets that cost less than a hundred
+สินทรัพย์ nft ที่ราคาไม่ถึงร้อย
 
 4344
 02:35:45,920 --> 02:35:48,720
-dollars i mean they're right they're a
+ดอลลาร์ ฉันหมายความว่าพวกเขาถูก พวกเขาเป็น
 
 4345
 02:35:47,359 --> 02:35:50,479
-little bit stranded so
+ควั่นเล็กน้อยดังนั้น
 
 4346
 02:35:48,720 --> 02:35:52,080
-i think that you know and what one
+ฉันคิดว่าคุณรู้และอะไร
 
 4347
 02:35:50,479 --> 02:35:53,680
-pattern that we've seen is that
+แบบที่เราเคยเห็นคือ
 
 4348
 02:35:52,080 --> 02:35:55,120
-you know minimum people want you know to
+คนขั้นต่ำต้องการให้คุณรู้
 
 4349
 02:35:53,680 --> 02:35:56,880
-potentially have multiple
+อาจมีหลายตัว
 
 4350
 02:35:55,120 --> 02:35:59,040
-back ends where they can mint these
+ที่เบื้องหลัง ที่พวกเขาสามารถสร้างสิ่งเหล่านี้
 
 4351
 02:35:56,880 --> 02:36:00,479
-things and then you even offer the user
+ของต่างๆ แล้วคุณยังเสนอให้ผู้ใช้อีกด้วย
 
 4352
 02:35:59,040 --> 02:36:01,760
-a choice right to say well where do you
+สิทธิเลือกพูด คุณจะ
 
 4353
 02:36:00,479 --> 02:36:03,040
-want to create this thing and maybe
+สร้างสิ่งนี้และบางที
 
 4354
 02:36:01,760 --> 02:36:04,640
-there's some trade-offs to be considered
+มีข้อแลกเปลี่ยนที่ต้องพิจารณา
 
 4355
 02:36:03,040 --> 02:36:05,600
-like you know it's expensive on ethereum
+อย่างที่คุณรู้ว่ามันแพงใน ethereum
 
 4356
 02:36:04,640 --> 02:36:07,680
-but maybe
+แต่บางที
 
 4357
 02:36:05,600 --> 02:36:09,680
-you know there's more potential you know
+คุณรู้ว่ามีศักยภาพมาก
 
 4358
 02:36:07,680 --> 02:36:11,120
-buyers and other nft compatible systems
+ผู้ซื้อและระบบที่รองรับ nft อื่นๆ
 
 4359
 02:36:09,680 --> 02:36:13,040
-or but maybe you want
+หรือบางทีคุณอาจต้องการ
 
 4360
 02:36:11,120 --> 02:36:14,640
-uh you know uh for a less expensive one
+สำหรับอันที่ราคาไม่แพง
 
 4361
 02:36:13,040 --> 02:36:16,000
-it makes more sense to go to a place
+มันสมเหตุสมผลกว่าที่จะไปที่ไหนสักแห่ง
 
 4362
 02:36:14,640 --> 02:36:18,160
-where it's going to be cheaper to mint
+ที่สร้างที่ไหนจะถูกกว่า
 
 4363
 02:36:16,000 --> 02:36:20,319
-and obviously you know that may make
+และเห็นได้ชัดว่าเธอรู้ว่านั่นอาจทำให้
 
 4364
 02:36:18,160 --> 02:36:22,319
-sense for other use cases
+ความรู้สึกสำหรับกรณีการใช้งานอื่น ๆ
 
 4365
 02:36:20,319 --> 02:36:23,840
-yeah and here um i would like to talk
+ใช่และที่นี่ อืม ฉันอยากคุยเกี่ยวกับ
 
 4366
 02:36:22,319 --> 02:36:26,319
-about nfc as well
+nfc ด้วย
 
 4367
 02:36:23,840 --> 02:36:27,760
-so uh luckily i'm japanese even though
+โชคดีจังที่ฉันยังเป็นคนญี่ปุ่นอยู่
 
 4368
 02:36:26,319 --> 02:36:29,520
-i'm in singapore so
+ฉันอยู่ที่สิงคโปร์ดังนั้น
 
 4369
 02:36:27,760 --> 02:36:31,359
-uh you know we have a lot of content
+เอ่อ คุณก็รู้ว่าเรามีเนื้อหามากมาย
 
 4370
 02:36:29,520 --> 02:36:34,240
-such as manga anime
+เช่น มังงะ อนิเมะ
 
 4371
 02:36:31,359 --> 02:36:35,600
-and so we are talking with our auto nft
+เรากำลังคุยกับ auto nft
 
 4372
 02:36:34,240 --> 02:36:37,359
-project in japan
+โครงการในญี่ปุ่น
 
 4373
 02:36:35,600 --> 02:36:38,880
-in these they are interested in the
+ในสิ่งเหล่านี้พวกเขาสนใจใน
 
 4374
 02:36:37,359 --> 02:36:42,479
-polkadot system
+ระบบpolkadot 
 
 4375
 02:36:38,880 --> 02:36:45,280
-to to deploy anything in this case
+เพื่อปรับใช้ทุกอย่างในกรณีนี้
 
 4376
 02:36:42,479 --> 02:36:47,359
-i think yeah like manga and nfts make it
+ฉันคิดว่าใช่เหมือนมังงะและ nfts ทำให้
 
 4377
 02:36:45,280 --> 02:36:49,840
-are like a dream combination
+เป็นเหมือนความฝันที่ผสมผสานกัน
 
 4378
 02:36:47,359 --> 02:36:51,680
-yeah yeah i think so yeah it will be
+ฉันคิดอย่างนั้น ใช่ มันจะเป็น
 
 4379
 02:36:49,840 --> 02:36:54,319
-cool to see that on on pokedot
+อะไรที่เจ๋งมากที่ได้เห็นบน pokedot
 
 4380
 02:36:51,680 --> 02:36:55,920
-um so uh we are running out of time i
+เรากำลังจะหมดเวลาแล้ว ฉัน
 
 4381
 02:36:54,319 --> 02:36:56,560
-actually have to jump on something else
+จริง ๆ แล้วต้องกระโดดไปที่อย่างอื่น
 
 4382
 02:36:55,920 --> 02:37:00,240
-that like
+ที่เหมือน
 
 4383
 02:36:56,560 --> 02:37:03,359
-in five minutes so um i want to
+อีก 5 นาที อืม ฉันต้องการ
 
 4384
 02:37:00,240 --> 02:37:06,720
-ask you a similar question to
+ถามคุณเกี่ยวกับคำถามที่คล้ายกัน
 
 4385
 02:37:03,359 --> 02:37:07,600
-the the the last final just your longer
+กับรอบสุดท้ายเกี่ยวกับ
 
 4386
 02:37:06,720 --> 02:37:09,680
-term vision
+วิสัยทัศน์ระยะยาวของคุณ
 
 4387
 02:37:07,600 --> 02:37:11,680
-for uh for polka dot either you know
+สำหรับ uh สำหรับ polka dot
 
 4388
 02:37:09,680 --> 02:37:14,720
-defy on polka dot or just
+defi บน polkadot หรือเพียงแค่
 
 4389
 02:37:11,680 --> 02:37:15,359
-web 3 on on polka dot um where do you
+เว็บ 3 บน polka dot อืม คุณเห็น
 
 4390
 02:37:14,720 --> 02:37:17,439
-see it
+มันตรงไหน
 
 4391
 02:37:15,359 --> 02:37:18,560
-uh by the end of the year and where do
+ภายในสิ้นปี และคุณเห็นมัน
 
 4392
 02:37:17,439 --> 02:37:22,000
-you see it just
+เป็นแบบไหน
 
 4393
 02:37:18,560 --> 02:37:22,000
-you know 10 years from now
+จากปัจจุบัน 10 ปี
 
 4394
 02:37:22,720 --> 02:37:26,000
-i'll jump in i throw my head in the ring
+ฉันจะทำให้สุดตัว ฉันจะเป็นผู้ชนะ
 
 4395
 02:37:24,479 --> 02:37:28,800
-to start um i mean
+ฉันหมายถึง
 
 4396
 02:37:26,000 --> 02:37:30,000
-i think you know right now you know
+ฉันคิดว่าคุณรู้ตอนนี้คุณรู้แล้ว
 
 4397
 02:37:28,800 --> 02:37:30,560
-we're just seeing kind of this like
+เราก็แค่เห็นแบบที่
 
 4398
 02:37:30,000 --> 02:37:32,240
-straight
+ตรงๆ
 
 4399
 02:37:30,560 --> 02:37:34,160
-porting action at least that's what
+การย้ายพอร์ตอย่างน้อยนั่นคือสิ่งที่
 
 4400
 02:37:32,240 --> 02:37:36,000
-we're seeing right so someone has an app
+เราเห็น มีบางคนคนมีแอพ
 
 4401
 02:37:34,160 --> 02:37:37,359
-it's fully working on ethereum they'd
+มันทำงานอย่างเต็มที่บน ethereum พวกเขา
 
 4402
 02:37:36,000 --> 02:37:38,720
-want to just port the whole thing
+ต้องการเพียงแค่พอร์ตสิ่งทั้งหมด
 
 4403
 02:37:37,359 --> 02:37:40,479
-you know to you know to something like
+บางอย่างเช่น
 
 4404
 02:37:38,720 --> 02:37:43,600
-moonbeam or possum
+มูนบีม หรือพอสซัม
 
 4405
 02:37:40,479 --> 02:37:45,040
-uh even so um that's kind of what i
+นั่นคือสิ่งที่ฉัน
 
 4406
 02:37:43,600 --> 02:37:46,800
-still consider to be a little bit like
+ยังถือว่านิด ๆ หน่อย ๆ เช่น
 
 4407
 02:37:45,040 --> 02:37:48,080
-you know generation one you know kind of
+รุ่น1 ประเภท
 
 4408
 02:37:46,800 --> 02:37:49,359
-kind of architecture i mean
+ชนิดของสถาปัตยกรรมฉันหมายถึง
 
 4409
 02:37:48,080 --> 02:37:51,439
-the thing i'm probably most excited
+สิ่งที่ฉันอาจจะตื่นเต้นที่สุด
 
 4410
 02:37:49,359 --> 02:37:52,960
-about on polka dot comes from this like
+เกี่ยวกับ polka dot มาจาก
 
 4411
 02:37:51,439 --> 02:37:54,000
-specialized you know specialized
+เชี่ยวชาญเฉพาะ
 
 4412
 02:37:52,960 --> 02:37:56,560
-infrastructural
+โครงสร้างพื้นฐานเฉพาะ
 
 4413
 02:37:54,000 --> 02:37:57,439
-chains right so i anticipate that
+เชน ดังนั้นฉันคาดว่า
 
 4414
 02:37:56,560 --> 02:37:59,840
-there's going to be
+กำลังจะมี
 
 4415
 02:37:57,439 --> 02:38:01,280
-multi-chain based applications um you
+แอปพลิเคชันแบบหลายสาย
 
 4416
 02:37:59,840 --> 02:38:02,800
-know that will use different
+จะใช้ต่างกัน
 
 4417
 02:38:01,280 --> 02:38:04,800
-specialized services just natively on
+บริการเฉพาะทางโดยกำเนิดบน
 
 4418
 02:38:02,800 --> 02:38:05,840
-polka dot and i think that's gonna you
+polka dotและฉันคิดว่านั่นจะเป็น
 
 4419
 02:38:04,800 --> 02:38:07,439
-know those are gonna be the kind of apps
+แอปเหล่านั้นจะเป็นแอปประเภท
 
 4420
 02:38:05,840 --> 02:38:08,960
-that will really take advantage of
+ที่ใช้ประโยชน์ได้จริง
 
 4421
 02:38:07,439 --> 02:38:10,640
-you know this ability to have these like
+ความสามารถนี้ที่จะมีสิ่งเหล่านี้เช่น
 
 4422
 02:38:08,960 --> 02:38:12,399
-specialized like different services
+เชี่ยวชาญเหมือนบริการต่างๆ
 
 4423
 02:38:10,640 --> 02:38:14,080
-i think that's still you know relatively
+ฉันคิดว่าคุณคงรู้ค่อนข้างดี
 
 4424
 02:38:12,399 --> 02:38:15,760
-early and there's obviously these very
+ในช่วงต้นและมีสิ่งเหล่านี้อย่างเห็นได้ชัด
 
 4425
 02:38:14,080 --> 02:38:17,280
-well trodden kind of existing patterns
+รูปแบบที่มีอยู่อย่างดี
 
 4426
 02:38:15,760 --> 02:38:19,280
-that people are already used to but
+ที่คนคุ้นเคยอยู่แล้ว แต่
 
 4427
 02:38:17,280 --> 02:38:20,560
-you know that's kind of what i see um
+คุณก็รู้ว่านั่นคือสิ่งที่ฉันเห็น อืม
 
 4428
 02:38:19,280 --> 02:38:21,920
-you know that that's kind of what i see
+นั่นคือสิ่งที่ฉันเห็น
 
 4429
 02:38:20,560 --> 02:38:25,280
-like moving forward that is
+เหมือนก้าวไปข้างหน้า นั่นคือ
 
 4430
 02:38:21,920 --> 02:38:28,960
-i'm most excited about i'd say cool
+ฉันตื่นเต้นที่สุดที่ฉันจะบอกว่าเจ๋ง
 
 4431
 02:38:25,280 --> 02:38:29,200
-um alex you want to go um well i guess i
+อืม อเล็กซ์ คุณต้องการที่จะไป อืม ดี ฉันเดาว่าฉัน
 
 4432
 02:38:28,960 --> 02:38:31,760
-mean
+หมายถึง
 
 4433
 02:38:29,200 --> 02:38:32,560
-end of the year will be live i mean
+สิ้นปีจะมีการไลฟ์ฉันหมายถึง
 
 4434
 02:38:31,760 --> 02:38:34,399
-that's definitely
+นั้นแน่นอน
 
 4435
 02:38:32,560 --> 02:38:36,000
-i mean yeah there is no other there's an
+ฉันหมายความว่าใช่ มันไม่มีอีกแล้ว
 
 4436
 02:38:34,399 --> 02:38:38,560
-alternative let's put it this way
+มีทางเลือกอื่น ให้มันเป็นแบบนี้
 
 4437
 02:38:36,000 --> 02:38:39,200
-um and in 10 years i mean i think like i
+อืม และอีก 10 ปี ฉันคิดว่าฉัน
 
 4438
 02:38:38,560 --> 02:38:41,920
-i
+ 
 
 4439
 02:38:39,200 --> 02:38:42,800
-probably put my bet on poco essentially
+อาจจะวางเดิมพันของฉันใน poco เป็นหลัก
 
 4440
 02:38:41,920 --> 02:38:44,319
-being this
+เป็นสิ่งนี้
 
 4441
 02:38:42,800 --> 02:38:46,160
-multi-chain infrastructure where you
+โครงสร้างพื้นฐานแบบ multi-chain ที่คุณ
 
 4442
 02:38:44,319 --> 02:38:47,200
-have specialized chains and different
+มีเชนพิเศษและแตกต่างกัน
 
 4443
 02:38:46,160 --> 02:38:49,600
-applications
+บนแอปพลิเคชั่น
 
 4444
 02:38:47,200 --> 02:38:50,800
-um where it's moving away from this
+อืม ที่ซึ่งมันย้ายออกจาก
 
 4445
 02:38:49,600 --> 02:38:52,240
-generalized kind of
+ชั้นสัญญาทั่วไปแบบนี้
 
 4446
 02:38:50,800 --> 02:38:53,680
-contract layers we'll have more and more
+เราจะมี
 
 4447
 02:38:52,240 --> 02:38:56,080
-people and more applications coming in
+คนมากขึ้นเรื่อยๆ และแอปพลิเคชันต่างๆ เข้ามา
 
 4448
 02:38:53,680 --> 02:38:58,000
-building very dedicated services for
+ในการสร้างบริการที่ทุ่มเทอย่างมาก
 
 4449
 02:38:56,080 --> 02:38:58,479
-example dexes which focus on the low
+ช่น dexes ซึ่งเน้นที่ระดับต่ำ
 
 4450
 02:38:58,000 --> 02:39:00,560
-level
+ 
 
 4451
 02:38:58,479 --> 02:39:02,319
-basically optimize for high frequency
+โดยทั่วไปจะปรับให้เหมาะสมสำหรับ
 
 4452
 02:39:00,560 --> 02:39:05,439
-trading and make sure that they
+การซื้อขายที่มีความถี่สูงและตรวจสอบให้แน่ใจว่า
 
 4453
 02:39:02,319 --> 02:39:09,120
-um can actually squeeze out the last bit
+อืมสามารถบีบบิตสุดท้ายออก
 
 4454
 02:39:05,439 --> 02:39:13,920
-out of like this execution models
+จากแบบจำลองการดำเนินการนี้ได้
 
 4455
 02:39:09,120 --> 02:39:17,359
-yeah and yeah yeah yeah um i can go next
+อืมฉันสามารถไปต่อ
 
 4456
 02:39:13,920 --> 02:39:19,200
-so i think um we have a very important
+ฉันคิดว่าเรามีบทบาทที่
 
 4457
 02:39:17,359 --> 02:39:21,120
-role in the ecosystem
+มีความสำคัญมากในระบบนิเวศ
 
 4458
 02:39:19,200 --> 02:39:23,120
-in the actually i don't know the future
+ที่จริงฉันไม่รู้อนาคต
 
 4459
 02:39:21,120 --> 02:39:24,160
-we do not predict the future we make the
+เราไม่ได้ทำนายอนาคตที่เราทำ
 
 4460
 02:39:23,120 --> 02:39:26,000
-future
+อนาคต
 
 4461
 02:39:24,160 --> 02:39:28,240
-so we're gonna do our best to realize
+ดังนั้นเราจะพยายามทำให้ดีที่สุดเพื่อให้ตระหนัก
 
 4462
 02:39:26,000 --> 02:39:30,319
-level 3.0 together with our ecosystem
+ระดับ 3.0 ร่วมกับระบบนิเวศของเรา
 
 4463
 02:39:28,240 --> 02:39:33,359
-member
+สมาชิก
 
 4464
 02:39:30,319 --> 02:39:36,640
-sorry for the answer i
+ขอโทษสำหรับคำตอบ 
 
 4465
 02:39:33,359 --> 02:39:39,359
-love it i i think uh in the in
+ฉันรักมันฉันคิดว่าเอ่อใน
 
 4466
 02:39:36,640 --> 02:39:40,800
-like in the uh in the late this year i
+ในปลายปีนี้
 
 4467
 02:39:39,359 --> 02:39:43,280
-think d5 will also
+คิดว่าdefiก็จะ
 
 4468
 02:39:40,800 --> 02:39:44,000
-will still be the i think the most
+จะยังคงเป็นคนที่ฉันคิดว่ามีค่า
 
 4469
 02:39:43,280 --> 02:39:46,880
-valuable
+มากที่สุด
 
 4470
 02:39:44,000 --> 02:39:48,240
-uh use cases on polka dots as well as
+เอ่อ ใช้เคสกับpolka dotsเช่นกัน
 
 4471
 02:39:46,880 --> 02:39:50,399
-the other blockchains
+บล็อคเชนอื่น ๆ
 
 4472
 02:39:48,240 --> 02:39:52,399
-but in the long run i think in like 10
+แต่ในระยะยาวฉันคิดว่าเหมือนใน10
 
 4473
 02:39:50,399 --> 02:39:56,080
-years of course defy
+ปี แน่นอน defi
 
 4474
 02:39:52,399 --> 02:39:59,200
-uh it's it targets the very high
+เอ่อ มันคือเป้าหมายที่สูงมาก
 
 4475
 02:39:56,080 --> 02:39:59,920
-value users and very high value uh use
+ผู้ใช้ที่มีคุณค่าและมีมูลค่าสูงมาก 
 
 4476
 02:39:59,200 --> 02:40:03,120
-cases
+เคสการใช้งาน
 
 4477
 02:39:59,920 --> 02:40:06,720
-but because of i i think because of
+แต่เพราะฉันคิดว่าเพราะ
 
 4478
 02:40:03,120 --> 02:40:08,560
-uh the good architecture uh provided by
+เอ่อ สถาปัตยกรรมที่ดี uh จัดหาโดย
 
 4479
 02:40:06,720 --> 02:40:11,920
-polkadot and we can extend to
+polkadotและเราสามารถขยายไปยัง
 
 4480
 02:40:08,560 --> 02:40:14,800
-multiple blockchains and it makes us
+บล็อกเชนหลายอันและทำให้เรา
 
 4481
 02:40:11,920 --> 02:40:16,560
-it makes it possible to do computations
+ทำให้มันเป็นไปได้ สามารถคำนวณได้
 
 4482
 02:40:14,800 --> 02:40:18,240
-on the blockchain and it
+บนบล็อคเชนและมัน
 
 4483
 02:40:16,560 --> 02:40:20,160
-maybe in the future will make it
+บางทีในอนาคตจะทำให้มัน
 
 4484
 02:40:18,240 --> 02:40:23,359
-possible to store
+เก็บได้
 
 4485
 02:40:20,160 --> 02:40:26,319
-a big large amount of file
+ไฟล์จำนวนมาก
 
 4486
 02:40:23,359 --> 02:40:28,479
-uh in some kinds of uh decentralized
+uh ในบางประเภทของ uh กระจายอำนาจ
 
 4487
 02:40:26,319 --> 02:40:29,040
-network so if we combine them together
+เครือข่าย ดังนั้นหากเรารวมเข้าด้วยกัน
 
 4488
 02:40:28,479 --> 02:40:31,520
-it means
+แปลว่า
 
 4489
 02:40:29,040 --> 02:40:33,439
-that maybe in the future the cloud
+ที่บางทีในอนาคต
 
 4490
 02:40:31,520 --> 02:40:34,080
-computing will be fully decentralized
+คอมพิวติ้งจะถูกกระจายอำนาจอย่างเต็มที่
 
 4491
 02:40:33,439 --> 02:40:37,840
-and i think
+และฉันคิดว่า
 
 4492
 02:40:34,080 --> 02:40:40,560
-this is uh i think it will be
+นี่คือเอ่อ ฉันคิดว่ามันจะเป็น
 
 4493
 02:40:37,840 --> 02:40:41,439
-the next huge thing for blockchain yeah
+สิ่งที่ยิ่งใหญ่ต่อไปสำหรับ blockchain ใช่
 
 4494
 02:40:40,560 --> 02:40:44,479
-and
+และ
 
 4495
 02:40:41,439 --> 02:40:45,120
-this is how well this is the original
+นี่คือเวอร์ชั่นดั้งเดิม
 
 4496
 02:40:44,479 --> 02:40:48,160
-version
+ที่ดีแค่ไหน
 
 4497
 02:40:45,120 --> 02:40:50,000
-vision of web3 very cool
+วิสัยทัศน์ของ web3 เจ๋งมาก
 
 4498
 02:40:48,160 --> 02:40:51,840
-okay so a decentralized feature an
+โอเคดังนั้นคุณสมบัติการกระจายอำนาจและ
 
 4499
 02:40:50,000 --> 02:40:55,040
-interconnected future
+อนาคตที่เชื่อมต่อถึงกัน
 
 4500
 02:40:51,840 --> 02:40:56,720
-a specialized feature and i i'm going to
+คุณสมบัติพิเศษและฉันกำลังจะ
 
 4501
 02:40:55,040 --> 02:40:58,720
-put that on a t-shirt we don't predict
+ใส่มันไว้บน เสื้อยืด เราจะไม่คาดเดา
 
 4502
 02:40:56,720 --> 02:41:02,000
-the future we make it
+อนาคตที่เราจะสร้างมันขึ้นมา
 
 4503
 02:40:58,720 --> 02:41:04,000
-so very nice all right um so
+ดีมาก โอเค อืม
 
 4504
 02:41:02,000 --> 02:41:05,439
-interesting chatting with all of you and
+น่าสนใจที่ได้คุยกับทุกท่านและ
 
 4505
 02:41:04,000 --> 02:41:08,479
-um thanks for
+อืม ขอบคุณสำหรับ
 
 4506
 02:41:05,439 --> 02:41:10,880
-for inviting me um ashley
+ที่ชวนฉัน อืม แอชลีย์
 
 4507
 02:41:08,479 --> 02:41:12,000
