@@ -13024,375 +13024,375 @@ centrifuge ลิงค์ของเราไปยัง
 
 3257
 01:59:38,800 --> 01:59:42,960
-um the actual
+dot จริง
 
 3258
 01:59:39,920 --> 01:59:44,239
-dot has u built-in so we have some very
+มีคุณในตัวดังนั้นเราจึงมี
 
 3259
 01:59:42,960 --> 01:59:46,000
-interesting product that we might be
+สินค้าน่าสนใจมากที่เราอาจจะเป็น
 
 3260
 01:59:44,239 --> 01:59:48,239
-able to introduce once we go live
+ความสามารถแนะนำได้เมื่อเราเริ่มใช้งาน
 
 3261
 01:59:46,000 --> 01:59:49,040
-or revolving around the actual staking
+หรือหมุนรอบการวางเงินที่แท้จริง
 
 3262
 01:59:48,239 --> 01:59:51,840
-rewards
+ผลตอบแทน
 
 3263
 01:59:49,040 --> 01:59:53,599
-um so for for early traders tap into the
+อืม สำหรับผู้ค้ารายแรก ๆ ให้แตะที่
 
 3264
 01:59:51,840 --> 01:59:54,560
-system not only they will be earnings
+ระบบไม่เพียงแต่จะเป็นรายได้
 
 3265
 01:59:53,599 --> 01:59:56,960
-for example um
+ตัวอย่างเช่น อืม
 
 3266
 01:59:54,560 --> 01:59:58,400
-um incentive on the on the network token
+อืมสิ่งจูงใจบนโทเค็นเครือข่าย
 
 3267
 01:59:56,960 --> 02:00:00,880
-they might also tap into the
+พวกเขายังอาจแตะเข้าไปใน
 
 3268
 01:59:58,400 --> 02:00:03,280
-uh the rewarding part of the actual pls
+เอ่อส่วนที่คุ้มค่าของเครือข่ายจริง
 
 3269
 02:00:00,880 --> 02:00:06,159
-network like dot rewards kusama reward
+เช่น รางวัลdot รางวัลkusama
 
 3270
 02:00:03,280 --> 02:00:08,320
-um and if you if you put those into play
+อืมและถ้าคุณเอามันมาเล่น
 
 3271
 02:00:06,159 --> 02:00:12,000
-that is actually very very interesting
+ที่น่าสนใจมากจริงๆ
 
 3272
 02:00:08,320 --> 02:00:15,119
-oh interesting okay um cool and
+โอ้ น่าสนใจ โอเค เจ๋งและ
 
 3273
 02:00:12,000 --> 02:00:15,840
-uh lucas for you like how how do you
+lucas สำหรับคุณ
 
 3274
 02:00:15,119 --> 02:00:18,320
-think uh
+คุณคิดอย่างไร
 
 3275
 02:00:15,840 --> 02:00:20,880
-you'll incentivize people to use uh
+คุณจะจูงใจให้คนใช้
 
 3276
 02:00:18,320 --> 02:00:24,000
-centrifuge and polka dot
+centrifuge และ polka dot
 
 3277
 02:00:20,880 --> 02:00:27,199
-i mean right now it costs around
+ฉันหมายถึงตอนนี้มีค่าใช้จ่ายประมาณ
 
 3278
 02:00:24,000 --> 02:00:29,360
-100 or more for one of our asset
+100 หรือมากกว่าสำหรับหนึ่งในผู้สร้างสินทรัพย์
 
 3279
 02:00:27,199 --> 02:00:31,280
-originators to originate alone
+ของเราที่จะเริ่มต้นโดยลำพัง
 
 3280
 02:00:29,360 --> 02:00:33,040
-um i think is that's already a pretty
+ฉันคิดว่านั่นเป็นแรงจูงใจ
 
 3281
 02:00:31,280 --> 02:00:36,480
-strong incentive to
+ที่ค่อนข้างแรงที่จะ
 
 3282
 02:00:33,040 --> 02:00:38,560
-not use ethereum um i mean
+ไม่ใช้ ethereum ฉันหมายถึง
 
 3283
 02:00:36,480 --> 02:00:39,599
-in the end like the yield farming you
+ในที่สุดเหมือนผลผลิตที่ฟาร์มคุณ
 
 3284
 02:00:38,560 --> 02:00:40,960
-have to watch out there it doesn't
+ต้องคอยระมัดระวัง มันไม่ได้
 
 3285
 02:00:39,599 --> 02:00:41,199
-become a bit of a race to the bottom
+กลายเป็นบิตของการแข่งขันไปด้านล่าง
 
 3286
 02:00:40,960 --> 02:00:43,440
-it's
+ 
 
 3287
 02:00:41,199 --> 02:00:45,520
-i think a very interesting way to start
+ฉันคิดว่าเป็นวิธีที่น่าสนใจมากใน
 
 3288
 02:00:43,440 --> 02:00:49,520
-a community and there can be a way that
+การเริ่มต้นชุมชนและอาจมีวิธี
 
 3289
 02:00:45,520 --> 02:00:51,440
-like as a community you decide um
+เหมือนเป็นชุมชนที่คุณตัดสินใจ อืม
 
 3290
 02:00:49,520 --> 02:00:52,560
-where you want to direct attention and
+ที่คุณต้องการมุ่งความสนใจและ
 
 3291
 02:00:51,440 --> 02:00:55,599
-that i think is
+ที่ฉันคิดว่าคือ
 
 3292
 02:00:52,560 --> 02:00:56,159
-is super valuable um but but ultimately
+ล้ำค่าสุดๆ แต่สุดท้ายแล้ว
 
 3293
 02:00:55,599 --> 02:00:58,639
-like
+เหมือนว่า
 
 3294
 02:00:56,159 --> 02:00:59,440
-i believe the usability that polka dot
+ฉันเชื่อการใช้งานที่polka dot
 
 3295
 02:00:58,639 --> 02:01:02,400
-can offer
+สามารถนำเสนอ
 
 3296
 02:00:59,440 --> 02:01:03,440
-and the the transaction costs are going
+และต้นทุนการทำธุรกรรมกำลังดำเนินไป
 
 3297
 02:01:02,400 --> 02:01:06,159
-to be
+เป็น
 
 3298
 02:01:03,440 --> 02:01:08,000
-what will drive a lot of it um another
+อะไรจะขับเคลื่อนเยอะ อืม อีกอย่าง
 
 3299
 02:01:06,159 --> 02:01:11,119
-thing right is just
+ก็แค่
 
 3300
 02:01:08,000 --> 02:01:13,760
-um polka dot itself the the activity the
+อืมpolka dotเอง กิจกรรม
 
 3301
 02:01:11,119 --> 02:01:15,360
-market cap like the the purity
+มูลค่าตามราคาตลาดเหมือนความบริสุทธิ์
 
 3302
 02:01:13,760 --> 02:01:16,880
-just the amounts of liquidity in this
+แค่ปริมาณสภาพคล่องในนี้
 
 3303
 02:01:15,360 --> 02:01:19,760
-whole ecosystem
+ระบบนิเวศทั้งหมด
 
 3304
 02:01:16,880 --> 02:01:22,639
-are now already so big that um i think
+ตอนนี้ใหญ่มากจนฉันคิดว่า
 
 3305
 02:01:19,760 --> 02:01:25,440
-this can be like a viable
+นี้สามารถเป็นเหมือนการดำรงอยู่ได้
 
 3306
 02:01:22,639 --> 02:01:27,119
-um a very viable like early pool of
+อืมทำงานได้มากเหมือนพูลต้นของ
 
 3307
 02:01:25,440 --> 02:01:30,400
-liquidity and users
+สภาพคล่องและผู้ใช้
 
 3308
 02:01:27,119 --> 02:01:33,679
-i mean it's the top top five
+ฉันหมายความว่ามันอยู่ในห้าอันดับแรก
 
 3309
 02:01:30,400 --> 02:01:34,560
-you know top ten uh how many where are
+คุณรู้ไหม ท็อปเท็น เอ่อ
 
 3310
 02:01:33,679 --> 02:01:37,840
-they right now
+พวกเขาอยู่ไหนตอนนี้
 
 3311
 02:01:34,560 --> 02:01:39,280
-um so it's and that is like that can
+อืม มันเป็นอย่างนั้น และนั่นก็เป็นแบบ
 
 3312
 02:01:37,840 --> 02:01:40,880
-start right and it's and i think sort of
+เริ่มต้นอย่าง และฉันคิดว่า ประเภทนั้น
 
 3313
 02:01:39,280 --> 02:01:43,679
-if you start with that then
+ถ้าคุณเริ่มด้วยสิ่งนั้น
 
 3314
 02:01:40,880 --> 02:01:45,760
-um liquidity will find its way right
+อืมสภาพคล่องจะหาทางของมัน
 
 3315
 02:01:43,679 --> 02:01:46,560
-like if we see something about d5 it's
+เช่นถ้าเราเห็นบางอย่างเกี่ยวกับ defi มันคือ
 
 3316
 02:01:45,760 --> 02:01:49,040
-like
+มันเหมือน
 
 3317
 02:01:46,560 --> 02:01:49,760
-there's hardly any um any free lunch
+แทบไม่มีการเปิดตัวฟรี
 
 3318
 02:01:49,040 --> 02:01:51,599
-left on that
+หลงเหลือเลย
 
 3319
 02:01:49,760 --> 02:01:52,800
-anything free left on the table so you
+มีอะไรเหลือบ้าง คุณ
 
 3320
 02:01:51,599 --> 02:01:55,520
-can you'll see
+คุณจะเห็นว่า
 
 3321
 02:01:52,800 --> 02:01:57,360
-like money flowing where there's like
+เหมือนเงินไหลไปที่นั่นเหมือน
 
 3322
 02:01:55,520 --> 02:02:00,400
-cheap transactions scalability
+ความสามารถในการขยายขนาดธุรกรรมราคาถูก
 
 3323
 02:01:57,360 --> 02:02:01,119
-uh liquidity and so i i would focus on
+เอ่อ สภาพคล่อง ดังนั้นฉันจะเน้นที่
 
 3324
 02:02:00,400 --> 02:02:03,480
-that
+นั่น
 
 3325
 02:02:01,119 --> 02:02:05,440
-um as opposed to too much of like
+อืมเมื่อเทียบกันมากเกินไป
 
 3326
 02:02:03,480 --> 02:02:08,560
-subsidizing it
+อุดหนุนมัน
 
 3327
 02:02:05,440 --> 02:02:10,480
-oh yeah yeah
+โอ้ ใช่ ใช่
 
 3328
 02:02:08,560 --> 02:02:12,639
-we're seeing it with like finance chain
+เราเห็นมันเหมือนเชนการเงิน
 
 3329
 02:02:10,480 --> 02:02:13,920
-um finance martin people going there
+อืมไฟแนนซ์ ผู้คนมากมายไปที่นั่น
 
 3330
 02:02:12,639 --> 02:02:15,920
-even though it's not
+แม้ว่าจะไม่ใช่
 
 3331
 02:02:13,920 --> 02:02:16,960
-necessarily kind of the most
+สิ่งที่จำเป็นต้องมี
 
 3332
 02:02:15,920 --> 02:02:21,199
-decentralized
+การกระจายอำนาจมากที่สุด
 
 3333
 02:02:16,960 --> 02:02:24,560
-etc but of course like money talks smart
+ฯลฯ แต่แน่นอนว่าชอบพูดเรื่องเงินอย่างฉลาด
 
 3334
 02:02:21,199 --> 02:02:28,159
-cheap transactions matter um
+เรื่องการทำธุรกรรมราคาถูก อืม
 
 3335
 02:02:24,560 --> 02:02:31,920
-so okay so going looking
+โอเคเลยไปหาดู
 
 3336
 02:02:28,159 --> 02:02:34,239
-um forward and and seeing where define
+อืมไปข้างหน้าและดูว่า defi บน
 
 3337
 02:02:31,920 --> 02:02:35,679
-on polka dot is heading where do you see
+polka dotกำลังมุ่งหน้าไปที่คุณเห็น
 
 3338
 02:02:34,239 --> 02:02:39,599
-this ecosystem
+ระบบนิเวศนี้
 
 3339
 02:02:35,679 --> 02:02:41,840
-um being at the end of the year like how
+ณ ตอนสิ้นปี
 
 3340
 02:02:39,599 --> 02:02:42,719
-how how big do you think it would be how
+คุณคิดว่ามันจะใหญ่ขนาดไหนเนี่ย
 
 3341
 02:02:41,840 --> 02:02:45,280
-many
+แอพลิเคชันมากมายเท่าไหร่
 
 3342
 02:02:42,719 --> 02:02:47,280
-applications um do you think it will be
+คุณคิดว่ามันจะเป็น
 
 3343
 02:02:45,280 --> 02:02:48,880
-comparable to what is happening on
+สิ่งที่เทียบได้กับสิ่งที่เกิดขึ้นบน
 
 3344
 02:02:47,280 --> 02:02:51,840
-ethereum today i mean
+ethereum วันนี้ฉันหมายถึง
 
 3345
 02:02:48,880 --> 02:02:53,440
-do you see uh something like tvl on
+คุณเห็น uh บางอย่างเช่น tvl บน
 
 3346
 02:02:51,840 --> 02:02:57,119
-polka dot overtaking
+polka dot แซง
 
 3347
 02:02:53,440 --> 02:03:00,320
-ethereum's tbl by the end of the year
+tvl ของ ethereum ภายในสิ้นปีนี้
 
 3348
 02:02:57,119 --> 02:03:00,719
-um i don't i don't think um you will be
+อืม ฉันไม่ ฉันไม่คิดว่า คุณจะ
 
 3349
 02:03:00,320 --> 02:03:03,199
-grown
+คุณจะโต
 
 3350
 02:03:00,719 --> 02:03:04,800
