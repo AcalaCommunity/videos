@@ -16609,31 +16609,31 @@ solidity และ vm ในระยะยาว
 
 4153
 02:29:10,880 --> 02:29:15,120
-you contribute to the polka dots and
+คุณมีส่วนร่วมในpolka dots และ
 
 4154
 02:29:13,280 --> 02:29:18,240
-also poke ability at the same time
+ความสามารถกระตุ้นในเวลาเดียวกัน
 
 4155
 02:29:15,120 --> 02:29:20,319
-okay so so people can stake right now
+โอเคเพื่อให้คนสามารถเดิมพันได้ในขณะนี้
 
 4156
 02:29:18,240 --> 02:29:22,319
-so i mean right now you can run a vault
+ฉันหมายความว่าตอนนี้คุณสามารถเรียกใช้ vault ได้
 
 4157
 02:29:20,319 --> 02:29:24,000
-you can it's on beta volts are open
+คุณสามารถทำได้ด้วยเบต้าvaultที่เปิดอยู่
 
 4158
 02:29:22,319 --> 02:29:26,319
-source you can go and register the vault
+แหล่งที่มาคุณสามารถไปและลงทะเบียนห้องนิรภัย
 
 4159
 02:29:24,000 --> 02:29:27,680
-request dot test and dot from from the
+ขอ dot test และ dot จาก
 
 4160
 02:29:26,319 --> 02:29:29,200
