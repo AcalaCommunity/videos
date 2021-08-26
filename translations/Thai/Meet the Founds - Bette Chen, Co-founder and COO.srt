@@ -2200,67 +2200,67 @@ if we are not focusing on solving uh
 
 551
 00:19:05,600 --> 00:19:08,960
-some of the
+บางส่วนของ
 
 552
 00:19:06,320 --> 00:19:10,000
-fundamental or technological problems uh
+ปัญหาพื้นฐานหรือปัญหาทางเทคโนโลยี
 
 553
 00:19:08,960 --> 00:19:12,240
-then we're not doing a good
+แล้วเราไม่ทำงานที่ดี
 
 554
 00:19:10,000 --> 00:19:13,679
-job because whatever we built today is
+เพราะสิ่งที่เราสร้างในวันนี้คือ
 
 555
 00:19:12,240 --> 00:19:16,080
-going to be used by
+จะใช้โดย
 
 556
 00:19:13,679 --> 00:19:16,960
-many other developers and many other
+นักพัฒนาอีกหลายคน และหลายๆ
 
 557
 00:19:16,080 --> 00:19:19,200
-users
+ผู้ใช้งาน
 
 558
 00:19:16,960 --> 00:19:20,000
-in the future to make all of those tech
+ในอนาคตจะทำให้เทคโนโลยีเหล่านั้นทั้งหมด
 
 559
 00:19:19,200 --> 00:19:22,400
-mainstream
+กระแสหลัก
 
 560
 00:19:20,000 --> 00:19:24,240
-right so this is a very important sort
+ใช่แล้ว นี่เป็นประเภทที่สำคัญมาก
 
 561
 00:19:22,400 --> 00:19:26,640
-of thing that we uh
+ของสิ่งที่เรา
 
 562
 00:19:24,240 --> 00:19:27,600
-well feel pretty proud and also need to
+รู้สึกดี ภูมิใจและยังต้อง
 
 563
 00:19:26,640 --> 00:19:30,160
-continue
+ดำเนินการต่อ
 
 564
 00:19:27,600 --> 00:19:31,760
-uh to carry out in in the growth of the
+เพื่อดำเนินการในการเติบโตของ
 
 565
 00:19:30,160 --> 00:19:34,480
-uh of the akala team
+ของทีม akala
 
 566
 00:19:31,760 --> 00:19:35,280
-um and then uh beyond that so we we
+แล้วก็ เอ่อ นอกนั้นเรา
 
 567
 00:19:34,480 --> 00:19:38,320
