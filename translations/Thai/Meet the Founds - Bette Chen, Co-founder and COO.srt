@@ -2264,11 +2264,11 @@ if we are not focusing on solving uh
 
 567
 00:19:34,480 --> 00:19:38,320
-attracted
+ดึงดูด
 
 568
 00:19:35,280 --> 00:19:38,880
-uh a lot of uh you know talent i think
+เยอะมาก คุณรู้ความสามารถฉันคิดว่า
 
 569
 00:19:38,320 --> 00:19:41,120
@@ -2276,23 +2276,23 @@ uh a lot of uh you know talent i think
 
 570
 00:19:38,880 --> 00:19:42,880
-developers tend to attract 10x
+นักพัฒนามีแนวโน้มที่จะดึงดูด 10x
 
 571
 00:19:41,120 --> 00:19:45,840
-developers and also 10x
+นักพัฒนาและ 10x
 
 572
 00:19:42,880 --> 00:19:47,120
-operators uh and also 10x whatever
+โอเปอเรเตอร์เอ่อและ 10x อะไรก็ตาม
 
 573
 00:19:45,840 --> 00:19:50,559
-attracts 10x
+ดึงดูด 10x
 
 574
 00:19:47,120 --> 00:19:52,000
-uh rows right so uh i think we're lucky
+แถวขวาดังนั้น ฉันคิดว่าเราโชคดี
 
 575
 00:19:50,559 --> 00:19:54,559
