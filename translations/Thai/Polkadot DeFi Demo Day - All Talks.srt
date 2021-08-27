@@ -11800,147 +11800,147 @@ exact
 
 2951
 01:50:02,159 --> 01:50:06,320
-layer one i would say that um there's no
+เลเยอร์หนึ่ง ฉันจะบอกว่า อืม ไม่มี
 
 2952
 01:50:05,360 --> 01:50:09,119
-fundamental
+พื้นฐาน
 
 2953
 01:50:06,320 --> 01:50:10,400
-areas to preventing that seamlessness so
+พื้นที่เพื่อป้องกันความไร้รอยต่อนั้น
 
 2954
 01:50:09,119 --> 01:50:13,040
-like one minor difference
+เหมือนความแตกต่างเล็กน้อย
 
 2955
 01:50:10,400 --> 01:50:14,639
-is that when um someone if someone's
+คือเมื่อ อืม ใครบางคน ถ้าใครบางคน
 
 2956
 01:50:13,040 --> 01:50:16,000
-using a dab on one power chain
+ใช้ dapp บนพาราเชน
 
 2957
 01:50:14,639 --> 01:50:17,920
-that is interacting with adapt on
+ที่มีปฏิสัมพันธ์กับการปรับตัวเข้ากับ
 
 2958
 01:50:16,000 --> 01:50:19,119
-another chain that interaction happens
+ห่วงโซ่อื่นที่ปฏิสัมพันธ์เกิดขึ้น
 
 2959
 01:50:17,920 --> 01:50:21,840
-asynchronously
+แบบอะซิงโครนัส
 
 2960
 01:50:19,119 --> 01:50:23,599
-and so um instead of like there being a
+อืม แทนที่จะมี
 
 2961
 01:50:21,840 --> 01:50:24,560
-single atomic transaction like you would
+ธุรกรรมลูกใหญ่ลูกเดียวเหมือนที่คุณทำ
 
 2962
 01:50:23,599 --> 01:50:26,480
-have on ethereum
+ใน ethereum
 
 2963
 01:50:24,560 --> 01:50:27,840
-there may be two transactions but that's
+อาจมีธุรกรรมสองรายการ แต่นั่นคือ
 
 2964
 01:50:26,480 --> 01:50:29,440
-more kind of a technical thing
+เป็นเรื่องทางเทคนิคมากกว่า
 
 2965
 01:50:27,840 --> 01:50:31,520
-um if you look at the user experience of
+อืมถ้าคุณดูประสบการณ์ผู้ใช้ของ
 
 2966
 01:50:29,440 --> 01:50:33,360
-say using ethereum you're waiting
+ethereum ว่าคุณกำลังรอ
 
 2967
 01:50:31,520 --> 01:50:34,960
-for like a minute or longer for
+ประมาณนาทีหรือนานกว่าสำหรับ
 
 2968
 01:50:33,360 --> 01:50:35,920
-confirmation times and for things to
+เวลายืนยันและสำหรับสิ่งต่าง ๆ ที่จะ
 
 2969
 01:50:34,960 --> 01:50:37,840
-happen anyway
+เกิดขึ้นต่อไป
 
 2970
 01:50:35,920 --> 01:50:38,960
-and so when multiple power chains are
+และเมื่อพาราเชนหลายอันเป็น
 
 2971
 01:50:37,840 --> 01:50:40,880
-interacting with each other
+มีปฏิสัมพันธ์ซึ่งกันและกัน
 
 2972
 01:50:38,960 --> 01:50:42,080
-the amount of time that it takes for
+ระยะเวลาที่ใช้ไป
 
 2973
 01:50:40,880 --> 01:50:45,199
-these um
+กับสิ่งเหล่านี้
 
 2974
 01:50:42,080 --> 01:50:47,119
-multi-atomic transactions to happen will
+การทำธุรกรรมขนาดใหญ่หลายอันจะเกิด
 
 2975
 01:50:45,199 --> 01:50:48,320
-likely still be faster than if you were
+น่าจะยังเร็วกว่าที่คุณเป็น
 
 2976
 01:50:47,119 --> 01:50:49,520
-to just wait for a single ethereum
+เพื่อรอเพียง ethereum ธุรกรรมเดียว
 
 2977
 01:50:48,320 --> 01:50:52,719
-transaction
+ 
 
 2978
 01:50:49,520 --> 01:50:54,000
-and so i don't really see there being ux
+ดังนั้นฉันจึงไม่เห็นว่ามี ux จริงๆ
 
 2979
 01:50:52,719 --> 01:50:55,280
-compromises it's more kind of on the
+ประนีประนอมมันเป็นประเภท
 
 2980
 01:50:54,000 --> 01:50:56,080
-technical side and the way that
+ด้านเทคนิคและวิธีการที่
 
 2981
 01:50:55,280 --> 01:50:58,639
-developers
+นักพัฒนา
 
 2982
 01:50:56,080 --> 01:50:59,360
-have to think about things that change i
+ต้องคิดเกี่ยวกับสิ่งที่เปลี่ยนแปลง
 
 2983
 01:50:58,639 --> 01:51:01,040
-think that
+คิดว่า
 
 2984
 01:50:59,360 --> 01:51:02,639
-i always use this analogy and you
+ฉันมักจะใช้การเปรียบเทียบนี้และคุณ
 
 2985
 01:51:01,040 --> 01:51:05,040
-brought up async right i always
+นำ async ถูกต้องฉัน
 
 2986
 01:51:02,639 --> 01:51:06,000
-use this analogy like when you build the
+ใช้การเปรียบเทียบนี้เสมอเช่นเมื่อคุณสร้าง
 
 2987
 01:51:05,040 --> 01:51:08,239
