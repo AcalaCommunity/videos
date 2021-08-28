@@ -11400,151 +11400,151 @@ builds build out
 
 2851
 01:46:30,000 --> 01:46:33,119
-way before pulpit went live i think it
+ก่อนที่จะถ่ายทอดสด ฉันคิดว่ามัน
 
 2852
 01:46:32,000 --> 01:46:36,480
-was
+เคยเป็น
 
 2853
 01:46:33,119 --> 01:46:36,800
-um it was march of last year um that we
+อืม เดือนมีนาคมปีที่แล้ว อืม ที่เรา
 
 2854
 01:46:36,480 --> 01:46:38,480
-went
+ไป
 
 2855
 01:46:36,800 --> 01:46:40,400
-live with our mainnet and so our mainnet
+อยู่กับเครือข่ายหลักของเราและเครือข่ายหลักของเรา
 
 2856
 01:46:38,480 --> 01:46:42,800
-today is actually
+วันนี้เป็นจริง
 
 2857
 01:46:40,400 --> 01:46:44,800
-um an almost identical copy of polkadot
+อืม polkadot สำเนาเกือบเหมือนกัน
 
 2858
 01:46:42,800 --> 01:46:46,400
-so same consensus mechanism
+กลไกฉันทามติเหมือนกัน
 
 2859
 01:46:44,800 --> 01:46:48,080
-no relay chains of course or we're just
+ไม่มีรีเลย์เชนแน่นอน ไม่งั้นเราก็แค่
 
 2860
 01:46:46,400 --> 01:46:51,600
-an independent state chain but
+เชนอิสระแต่
 
 2861
 01:46:48,080 --> 01:46:54,880
-um so we have that and and sort of
+อืมเรามีสิ่งนั้นและประเภท
 
 2862
 01:46:51,600 --> 01:46:56,400
-like for us like the pieces there's a
+สำหรับเราเหมือนชิ้นที่มี
 
 2863
 01:46:54,880 --> 01:46:58,480
-small part of our infrastructure that is
+ส่วนเล็ก ๆ ของโครงสร้างพื้นฐานของเราคือ
 
 2864
 01:46:56,400 --> 01:47:00,080
-running on that chain it's how
+วิ่งบนเชนนั้น มันเป็น
 
 2865
 01:46:58,480 --> 01:47:01,920
-the different loans are originated and
+เงินกู้ที่แตกต่างกันเกิดขึ้นและ
 
 2866
 01:47:00,080 --> 01:47:04,880
-then investors sort of
+แล้วนักลงทุนประเภท
 
 2867
 01:47:01,920 --> 01:47:06,159
-use uh tin lake on ethereum because
+ใช้ บน ethereum เพราะ
 
 2868
 01:47:04,880 --> 01:47:08,400
-that's where the liquidity is that's
+นั่นคือที่ที่มีสภาพคล่องนั่นคือ
 
 2869
 01:47:06,159 --> 01:47:09,600
-where all the the dfa ecosystem is today
+ที่ซึ่งระบบนิเวศ defi ทั้งหมดอยู่ในปัจจุบัน
 
 2870
 01:47:08,400 --> 01:47:11,600
-so we sort of have this
+เราก็เลยมีแบบนี้
 
 2871
 01:47:09,600 --> 01:47:13,440
-hybrid approach today of our own chain
+แนวทางไฮบริดในวันนี้ของเชนของเราเอง
 
 2872
 01:47:11,600 --> 01:47:16,239
-and um
+และอืม
 
 2873
 01:47:13,440 --> 01:47:17,360
-and ethereum we have our own bridge uh
+และ ethereum เรามีสะพานของเราเอง uh
 
 2874
 01:47:16,239 --> 01:47:21,119
-for that
+สำหรับการที่
 
 2875
 01:47:17,360 --> 01:47:22,480
-um and as far chains become available
+อืมและเท่าที่โซ่ใช้ได้
 
 2876
 01:47:21,119 --> 01:47:23,280
-when they're big when they become
+เมื่อพวกเขาใหญ่เมื่อพวกเขากลายเป็น
 
 2877
 01:47:22,480 --> 01:47:25,199
-available
+สามารถใช้งาได้จริง
 
 2878
 01:47:23,280 --> 01:47:27,520
-um that is something that um of course
+อืม นั่นเป็นสิ่งที่ อืม แน่นอน
 
 2879
 01:47:25,199 --> 01:47:30,320
-we're very excited to
+เรารู้สึกตื่นเต้นมากที่จะ
 
 2880
 01:47:27,520 --> 01:47:31,760
-to start using but it doesn't really um
+เรารู้สึกตื่นเต้นมากที่จะ
 
 2881
 01:47:30,320 --> 01:47:34,800
-hinder us from using
+ขัดขวางไม่ให้เราใช้
 
 2882
 01:47:31,760 --> 01:47:37,920
-using uh sort of our tech already
+ใช้เทคโนโลยีของเราอยู่แล้ว
 
 2883
 01:47:34,800 --> 01:47:40,880
-yep i think um now 4.6 million
+ใช่ฉันคิดว่าตอนนี้ 4.6 ล้าน
 
 2884
 01:47:37,920 --> 01:47:41,520
-die in like loans outstanding from
+ตายเหมือนเงินกู้ที่คงค้างจาก
 
 2885
 01:47:40,880 --> 01:47:44,960
-different
+ผู้ยืม
 
 2886
 01:47:41,520 --> 01:47:48,840
-um uh borrowers and uh like have
+ที่แตกต่างและเอ่อเหมือนมี
 
 2887
 01:47:44,960 --> 01:47:50,080
-a ton of users growing every day in on
+ผู้ใช้จำนวนมากเติบโตขึ้นทุกวันใน
 
 2888
 01:47:48,840 --> 01:47:53,119
@@ -11552,183 +11552,183 @@ ethereum
 
 2889
 01:47:50,080 --> 01:47:55,360
-right um yeah i guess yeah i know uh
+ใช่ อืม ใช่ ฉันเดา ใช่ ฉันรู้ uh
 
 2890
 01:47:53,119 --> 01:47:57,760
-centrifuge is like what i i meant will
+centrifuge ก็เหมือนสิ่งที่ฉันหมายถึง will
 
 2891
 01:47:55,360 --> 01:47:58,560
-it be ready to go on polka dot as as
+ก็พร้อมที่จะไปบนpolka dotเช่น
 
 2892
 01:47:57,760 --> 01:48:01,679
-soon as it's
+ทันทีที่มันเป้นไปได้
 
 2893
 01:47:58,560 --> 01:48:04,320
-yeah yeah so we're on the latest
+เย้ เย้ เรากำลังอยู่บน
 
 2894
 01:48:01,679 --> 01:48:04,960
-uh version of substrate in our test net
+รุ่นล่าสุด ของซับสเตรตในเน็ตทดสอบของเรา
 
 2895
 01:48:04,320 --> 01:48:06,800
-we have
+เรามี
 
 2896
 01:48:04,960 --> 01:48:08,000
-our main nets slightly behind but this
+เมนเน็ตหลักของเราอยู่ข้างหลังเล็กน้อย แต่นี่
 
 2897
 01:48:06,800 --> 01:48:10,400
-is something we're working on cha cha
+เป็นสิ่งที่เรากำลังทำอยู่ 
 
 2898
 01:48:08,000 --> 01:48:12,800
-cha is what we're using to test
+คือสิ่งที่เราใช้ทดสอบ
 
 2899
 01:48:10,400 --> 01:48:14,480
-a lot of integration but yeah i guess as
+มีการบูรณาการมากมาย แต่ใช่ฉันเดาว่า
 
 2900
 01:48:12,800 --> 01:48:16,159
-um
+อืม
 
 2901
 01:48:14,480 --> 01:48:17,520
-as power chain options will go live
+เนื่องจากตัวเลือกของพาราเชนจะเริ่มทำงาน
 
 2902
 01:48:16,159 --> 01:48:19,440
-we'll be able to take basically our
+โดยพื้นฐานแล้วเราจะสามารถใช้
 
 2903
 01:48:17,520 --> 01:48:21,040
-runtime that we have today that's tested
+รันไทม์ของเราที่เรามีวันนี้ที่ทดสอบแล้ว
 
 2904
 01:48:19,440 --> 01:48:24,880
-and running in production and
+และดำเนินการในการผลิตและ
 
 2905
 01:48:21,040 --> 01:48:29,360
-and sort of deploy that cool
+และจัดเรียงการใช้งานที่ยอดเยี่ยม
 
 2906
 01:48:24,880 --> 01:48:29,360
-all right and um aidan how about for you
+โอเค แล้วคุณอาดานล่ะ
 
 2907
 01:48:29,679 --> 01:48:33,280
-yeah so we're pretty much in a similar
+ใช่เราค่อนข้างคล้ายกัน
 
 2908
 01:48:31,520 --> 01:48:35,119
-position to to the others
+ตำแหน่งต่อผู้อื่น
 
 2909
 01:48:33,280 --> 01:48:36,719
-we are expecting to be pretty much ready
+เราคาดหวังว่าจะพร้อมมาก
 
 2910
 01:48:35,119 --> 01:48:37,600
-to launch at the same time that power
+ที่จะเปิดตัวพร้อมๆ กันการเปิดตัวของ พาราเชน
 
 2911
 01:48:36,719 --> 01:48:39,280
-change launch
+ 
 
 2912
 01:48:37,600 --> 01:48:41,280
-and so we're kind of waiting on parity
+และเรากำลังรอความเท่าเทียมกัน
 
 2913
 01:48:39,280 --> 01:48:42,639
-for that there are a few differences um
+ว่ามีความแตกต่างเล็กน้อย um
 
 2914
 01:48:41,280 --> 01:48:45,040
-our power chain
+พาราเชนของเรา
 
 2915
 01:48:42,639 --> 01:48:46,639
-does require some new functionality that
+ต้องใช้ฟังก์ชันใหม่บางอย่างที่
 
 2916
 01:48:45,040 --> 01:48:48,639
-doesn't really exist on
+ไม่มีอยู่จริงบน
 
 2917
 01:48:46,639 --> 01:48:50,239
-polka dots test night yet and so we're
+polka dots ทดสอบและดังนั้นเรา
 
 2918
 01:48:48,639 --> 01:48:52,480
-kind of using a custom branch
+ชนิดของการใช้สาขาที่กำหนดเอง
 
 2919
 01:48:50,239 --> 01:48:53,679
-uh we do expect that functionality to be
+เอ่อ เราคาดหวังว่าฟังก์ชันนั้นจะเป็น
 
 2920
 01:48:52,480 --> 01:48:55,119
-merged into
+รวมเป็น
 
 2921
 01:48:53,679 --> 01:48:57,520
-like main required contest net and
+เช่นเน็ตการแข่งขันที่จำเป็นหลักและ
 
 2922
 01:48:55,119 --> 01:48:59,840
-eventually polka dot at the same time
+ในที่สุดpolkadotในเวลาเดียวกัน
 
 2923
 01:48:57,520 --> 01:49:01,440
-as prior change and so when everyone
+เป็นการเปลี่ยนแปลงครั้งก่อน และดังนั้น เมื่อทุกคน
 
 2924
 01:48:59,840 --> 01:49:04,639
-eventually converges to
+ในที่สุดก็มาบรรจบกันที่
 
 2925
 01:49:01,440 --> 01:49:05,679
-production uh we'll be there at start um
+ผลงานหลัก เอ่อ เราจะไปถึงจุดเริ่มต้น อืม
 
 2926
 01:49:04,639 --> 01:49:07,840
-but
+แต่
 
 2927
 01:49:05,679 --> 01:49:09,119
-um we are kind of blocked on that and
+อืมเราถูกบล็อกในเรื่องนั้นและ
 
 2928
 01:49:07,840 --> 01:49:09,520
-and so we have like an internal test
+และเราก็มีเหมือนการทดสอบภายใน
 
 2929
 01:49:09,119 --> 01:49:11,199
-nets
+เท็สเน็ต
 
 2930
 01:49:09,520 --> 01:49:13,199
-we're planning to launch a public-facing
+เรากำลังวางแผนที่จะเปิดตัวสาธารณะ
 
 2931
 01:49:11,199 --> 01:49:15,440
-demo in the next few weeks
+การสาธิตในอีกไม่กี่สัปดาห์ข้างหน้า
 
 2932
 01:49:13,199 --> 01:49:16,719
-um but in terms of like production
+อืม แต่ในแง่ของการผลิตที่เหมือนกัน
 
 2933
 01:49:15,440 --> 01:49:17,440
-assets and real world efforts from
+ทรัพย์สินและความพยายามในโลกแห่งความเป็นจริงจาก
 
 2934
 01:49:16,719 --> 01:49:19,520
@@ -11736,63 +11736,63 @@ ethereum
 
 2935
 01:49:17,440 --> 01:49:21,520
-there it only happened whenever parrot
+มันเกิดขึ้นเฉพาะเมื่อ
 
 2936
 01:49:19,520 --> 01:49:25,440
-parodies ready with power chains
+ล้อเลียนพร้อมพาราเชน
 
 2937
 01:49:21,520 --> 01:49:29,199
-okay cool um and so you you all expect
+โอเค เจ๋ง อืม แล้วทุกคนก็คาดหวัง
 
 2938
 01:49:25,440 --> 01:49:32,239
-to have your own paritanes on polka dot
+ที่จะมี paritanes ของคุณเองบนpolka dot
 
 2939
 01:49:29,199 --> 01:49:36,639
-is that right yeah yeah okay
+ถูกไหม ใช่ ใช่ ไม่เป็นไร
 
 2940
 01:49:32,239 --> 01:49:39,679
-um and so my question on on peritones um
+อืม คำถามของฉันเกี่ยวกับพาราเชน um
 
 2941
 01:49:36,639 --> 01:49:41,040
-is especially for d5 because
+โดยเฉพาะอย่างยิ่งสำหรับ defi เพราะ
 
 2942
 01:49:39,679 --> 01:49:44,400
-interoperability has
+การทำงานร่วมกันได้
 
 2943
 01:49:41,040 --> 01:49:47,920
-proven to be so key on ethereum d5
+พิสูจน์แล้วว่าเป็นกุญแจสำคัญใน ethereum defi
 
 2944
 01:49:44,400 --> 01:49:50,719
-this concept of money legos um
+แนวคิดของเงิน เลโก้ อืม
 
 2945
 01:49:47,920 --> 01:49:51,599
-does it work in exactly the same way
+มันทำงานในลักษณะเดียวกันทุกประการหรือไม่?
 
 2946
 01:49:50,719 --> 01:49:55,360
-with
+กับ
 
 2947
 01:49:51,599 --> 01:49:58,639
-uh dabs built on different paritains
+uh dapp สร้างขึ้นจาก พาราเชนที่แตกต่างกัน
 
 2948
 01:49:55,360 --> 01:50:01,599
-like is interoperability as seamless as
+ไลค์คือการทำงานร่วมกันอย่างราบรื่นเหมือน
 
 2949
 01:49:58,639 --> 01:50:02,159
-um applications being built on the same
+แอปพลิเคชันถูกสร้างขึ้นบนเดียวกัน
 
 2950
 01:50:01,599 --> 01:50:05,360
@@ -11944,59 +11944,59 @@ ethereum ว่าคุณกำลังรอ
 
 2987
 01:51:05,040 --> 01:51:08,239
-website 20 years
+เว็บไซต์ 20 ปี
 
 2988
 01:51:06,000 --> 01:51:09,119
-ago you created your like one php file
+ที่ผ่านมาคุณสร้างไฟล์ php เหมือนของคุณ
 
 2989
 01:51:08,239 --> 01:51:10,560
-and it
+และมัน
 
 2990
 01:51:09,119 --> 01:51:12,239
-pulled everything together and like
+ดึงทุกอย่างมารวมกันแล้วชอบ
 
 2991
 01:51:10,560 --> 01:51:14,159
-served you then this website
+ให้บริการคุณแล้วเว็บไซต์นี้
 
 2992
 01:51:12,239 --> 01:51:16,080
-and you would load one request from the
+และคุณจะโหลดหนึ่งคำขอจาก
 
 2993
 01:51:14,159 --> 01:51:17,679
-from the server and you get all you need
+จากเซิร์ฟเวอร์และคุณจะได้รับทุกสิ่งที่คุณต้องการ
 
 2994
 01:51:16,080 --> 01:51:19,040
-and that's sort of like ethereum today
+และนั่นก็เหมือนกับ ethereum ในวันนี้
 
 2995
 01:51:17,679 --> 01:51:20,880
-right you submit your transaction
+สิทธิ์ที่คุณส่งธุรกรรมของคุณ
 
 2996
 01:51:19,040 --> 01:51:23,840
-everything happens atomically
+ทุกอย่างเกิดขึ้นอย่างอัติโนมัติ
 
 2997
 01:51:20,880 --> 01:51:24,800
-um and it's great it's easy um but it
+อืมและมันเยี่ยมมาก มันง่าย อืม แต่มัน
 
 2998
 01:51:23,840 --> 01:51:27,840
-doesn't scale and
+ไม่ปรับขนาดใหญ่ขึ้นและ
 
 2999
 01:51:24,800 --> 01:51:29,760
-for the same reasons like when you go to
+ด้วยเหตุผลเดียวกันกับเมื่อคุณไปที่
 
 3000
 01:51:27,840 --> 01:51:31,599
-a website today actually
+เว็บไซต์วันนี้
 
 3001
 01:51:29,760 --> 01:51:32,800
