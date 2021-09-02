@@ -1892,7 +1892,7 @@ web3 Foundation
 
 474
 00:16:30,399 --> 00:16:34,079
-ชุมชนแบบ Multi- chain ถึงแม้ว่า
+ชุมชนแบบ Multi- chainอยู่ ใช่ไหมคะ ถึงแม้ว่า
 
 475
 00:16:32,480 --> 00:16:34,639
@@ -1900,55 +1900,55 @@ web3 Foundation
 
 476
 00:16:34,079 --> 00:16:37,040
-Polkadot
+polkadot
 
 477
 00:16:34,639 --> 00:16:38,560
-that has to be like a community driven
+ที่ต้องเป็นสิ่งมี่ขับเคลื่อนโดยชุมชน
 
 478
 00:16:37,040 --> 00:16:41,600
-um sort of stable coin
+อืม มันต้องเป็น stable coin ที่เป็นเป็นผลิตภัณฑ์แบบนี่้
 
 479
 00:16:38,560 --> 00:16:44,480
-uh product um so we we
+อืมมม ดังนั้นเราก็เลย
 
 480
 00:16:41,600 --> 00:16:46,480
-we thought it wouldn't just laminar to
+คิดว่า มันไม่น่าจะสร้างแค่ Laminar
 
 481
 00:16:44,480 --> 00:16:49,120
-boat us it wouldn't be quite right
+ที่จะนำไปสู่สิ่งที่เราต้องการ เราว่ามันน่าจะไม่ใช่
 
 482
 00:16:46,480 --> 00:16:49,759
-but at the time we went to this uh first
+แต่ ณ ตอนนั้นเราก็ทำมันไปก่อน
 
 483
 00:16:49,120 --> 00:16:53,040
-uh
+เอ่อ
 
 484
 00:16:49,759 --> 00:16:55,120
-substrate hackathon uh held in hangzhou
+มีงาน substrate Hackathon ครั้งแรกที่จัดขึ้นที่หางโจว
 
 485
 00:16:53,040 --> 00:16:56,720
-where brian our other co-founder was a
+ที่ซึ่ง Brian ผู้เป็น Co founder ของเรา
 
 486
 00:16:55,120 --> 00:16:58,399
-judge alongside gavin
+เป็นผู้ตัดสินในงานนั้น ซึ่งรวมถึง Gavin ด้วย
 
 487
 00:16:56,720 --> 00:16:59,839
-um that that was the time we met the
+อืมม ตอนนั้นเป็นเวลาที่เราได้เจอกับ
 
 488
 00:16:58,399 --> 00:17:02,079
-pokeball team
+ทีม PolkaWallet
 
 489
 00:16:59,839 --> 00:17:03,920
