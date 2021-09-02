@@ -1896,7 +1896,7 @@ web3 Foundation
 
 475
 00:16:32,480 --> 00:16:34,639
-เรากำลังพูดถึง และภายในเครือข่าย
+เรากำลังพูดถึงภายในเครือข่าย
 
 476
 00:16:34,079 --> 00:16:37,040
@@ -1952,247 +1952,247 @@ polkadot
 
 489
 00:16:59,839 --> 00:17:03,920
-so led by fuyao they were one of the
+ซึ่งนำโดย Fuyao พวกเค้ายังเป็นหนึ่งใน
 
 490
 00:17:02,079 --> 00:17:06,799
-earliest developer also uh
+นักพัฒนากลุ่มแรกที่เข้าร่วมโครงการ
 
 491
 00:17:03,920 --> 00:17:08,640
-creating a mobile wallet there um and
+ในการสร้าง mobile wallet ที่นั่น
 
 492
 00:17:06,799 --> 00:17:10,559
-yeah and then
+ค่ะและนอกจากนั้น
 
 493
 00:17:08,640 --> 00:17:11,919
-they they are also very solid builders
+พวกเค้ายังเป็น Solid builder สุดๆ
 
 494
 00:17:10,559 --> 00:17:14,400
-and then we saw fuyao
+แล้วตอนนั้นเราเห็น Fuyao
 
 495
 00:17:11,919 --> 00:17:15,600
-you know waving this hammer on stage and
+แบบว่า เหวี่ยงค้อนไปมาอยู่บนเวทีและ
 
 496
 00:17:14,400 --> 00:17:17,919
-then raving about
+เพ้อว่า
 
 497
 00:17:15,600 --> 00:17:20,559
-how how much he hated about you know all
+เขาเกลียด
 
 498
 00:17:17,919 --> 00:17:22,880
-the erc20 like ico craves
+erc-20, ความกระหายในการทำICO
 
 499
 00:17:20,559 --> 00:17:24,000
-craze uh that kind of destroyed a lot of
+ความบ้าคลั่งแบบนี้ มันเหมือนกับการทำลาย
 
 500
 00:17:22,880 --> 00:17:27,120
-the reputation
+ชื่อเสียง
 
 501
 00:17:24,000 --> 00:17:29,120
-or a lot of people's faith in uh using
+ของคนที่มีศรัทธาในการใช้
 
 502
 00:17:27,120 --> 00:17:30,080
-crypto using blockchain as a new
+crypto, การใช้ Blockchain
 
 503
 00:17:29,120 --> 00:17:32,160
-innovation
+ที่เป็นนวัตกรรมใหม่
 
 504
 00:17:30,080 --> 00:17:33,679
-uh to change many aspects of lives and
+เพื่อใช้เปลี่ยนทิศทางหลายๆด้านของชีวิตเรา
 
 505
 00:17:32,160 --> 00:17:35,360
-then and then everyone's you know
+แล้วทุกคนก็แบบ
 
 506
 00:17:33,679 --> 00:17:35,760
-thinking about icos and things like that
+คิดถึงแต่การระดมทุนหรืออะไรแบบนั้น
 
 507
 00:17:35,360 --> 00:17:38,559
-he's
+เขาก็เลย
 
 508
 00:17:35,760 --> 00:17:38,880
-very angry about that so um uh anyways
+โกรธเรื่องนี้มาก อืมม ยังไงก็ตาม
 
 509
 00:17:38,559 --> 00:17:40,799
-so
+นั่นก็
 
 510
 00:17:38,880 --> 00:17:42,799
-that that was like how we actually met
+คือว่า จริงๆแล้วเราพบ
 
 511
 00:17:40,799 --> 00:17:44,960
-fuyao and his team
+กับ Fuyao และทีมของเขาได้อย่างไร
 
 512
 00:17:42,799 --> 00:17:46,640
-um and then right after that was like
+และทันทีหลังจากนั้น
 
 513
 00:17:44,960 --> 00:17:49,360
-you know this guy has a you know very
+มันก็แบบ เขาเป็นคนที่มี
 
 514
 00:17:46,640 --> 00:17:50,640
-high moral standard and uh value wise
+มาตราฐานจริยธรรมสูงและให้คุณค่ากับความรู้และปัญญา
 
 515
 00:17:49,360 --> 00:17:53,679
-and also vision
+และเรื่องวิสัยทัศน์
 
 516
 00:17:50,640 --> 00:17:54,880
-was very aligned with with us um and at
+แล้วเขาก็มีแนวทางสอดคล้องกับเรามากและ
 
 517
 00:17:53,679 --> 00:17:56,320
-the same time he wanted to do something
+ในเวลาเดียวกันนั้นเขากำลังอยากทำอะไรบางอย่าง
 
 518
 00:17:54,880 --> 00:17:58,480
-in d5 as well
+เกี่ยวกับ Defi อยู่เหมือนกัน
 
 519
 00:17:56,320 --> 00:18:00,720
-so uh yeah so and then right after that
+ดังนั้นทันทีหลังจากนั้น
 
 520
 00:17:58,480 --> 00:18:02,960
-we started dating
+เราก็เริ่มทำงานด้วยกัน
 
 521
 00:18:00,720 --> 00:18:04,480
-by opening a github ripple and then we
+โดยการเปิด github ripple แล้วเราก็
 
 522
 00:18:02,960 --> 00:18:06,720
-coded for a month or so
+สร้าง Code ขึ้น ใช้เวลาราวๆ 1 เดือน
 
 523
 00:18:04,480 --> 00:18:08,320
-and then that's how basically how how
+และนั่นก็คือจุดเริ่มว่าเรา
 
 524
 00:18:06,720 --> 00:18:10,480
-consolidated our
+รวบรวมความสัมพันธ์
 
 525
 00:18:08,320 --> 00:18:11,600
-formal relationship after that and
+อย่างเป็นทางการของเราได้อย่างไร
 
 526
 00:18:10,480 --> 00:18:14,640
-that's sort of the
+และนี่ก็เป็น
 
 527
 00:18:11,600 --> 00:18:18,400
-backstory of our akala
+ปูมหลังของ Acala ของเรานั่นเอง
 
 528
 00:18:14,640 --> 00:18:21,440
-perfect um let's get into a little
+สมบูรณ์แบบเลยครับ อืม งั้นเราไปกันที
 
 529
 00:18:18,400 --> 00:18:24,799
-around um like i guess internal
+เรื่องของ อืมม ผมคิดถึงเรื่องของแง่มุมภายใน
 
 530
 00:18:21,440 --> 00:18:26,559
-aspects of akala so could you talk about
+ของ Acala กัน คุณช่วยพูดถึง
 
 531
 00:18:24,799 --> 00:18:28,559
-like how you would describe describe the
+แบบว่า ช่วยบรรยายถึง
 
 532
 00:18:26,559 --> 00:18:30,320
-culture of the kala and
+วัฒนธรรมของ acala และ
 
 533
 00:18:28,559 --> 00:18:31,760
-what types of characteristics you look
+ลักษระเฉพาะตะวแบบไหนที่คุณมองหา
 
 534
 00:18:30,320 --> 00:18:34,240
-for and people that
+ในคนที่
 
 535
 00:18:31,760 --> 00:18:35,280
-you're recruiting to join akala are
+คุณกำลังสรรหามาร่วมทีม acala
 
 536
 00:18:34,240 --> 00:18:38,799
-considering
+โดยตระหนักถึง
 
 537
 00:18:35,280 --> 00:18:41,200
-for employment yeah so
+เรื่องการจ้างงาน
 
 538
 00:18:38,799 --> 00:18:43,600
-all in all we are a very engineering
+ทั้งหมดทั้งมวล คือเราเน้นในเรื่องวิศวกรรม
 
 539
 00:18:41,200 --> 00:18:46,400
-focused uh
+มากๆ
 
 540
 00:18:43,600 --> 00:18:47,760
-a group of people a team right i think
+เป็นกลุ่มคน เป็นทีมแบบนั้น ฉันคิดว่า
 
 541
 00:18:46,400 --> 00:18:49,440
-even for then he turned
+ตอนนั้นเขาอาจจะถูกเปลี่ยนให้เป็น
 
 542
 00:18:47,760 --> 00:18:51,520
-into like a geek or he's probably
+geek หรือบางทีเค้าอาจจะ
 
 543
 00:18:49,440 --> 00:18:53,360
-already a geek in crypto
+เป็น geek ในcrypto อยู่แล้ว
 
 544
 00:18:51,520 --> 00:18:54,880
-before he joined and now he's even more
+ก่อนที่จะเข้าทีมและตอนนี้เขาก็เป็นยิ่งว่า
 
 545
 00:18:53,360 --> 00:18:56,960
-geekier so
+geek ไปแล้ว ดังนั้น
 
 546
 00:18:54,880 --> 00:18:58,720
-this is the this is the culture we're
+นี่ก็เลยเป็นวัฒนธรรมของเราที่
 
 547
 00:18:56,960 --> 00:19:01,120
-very engineering focused because we
+เน้นในเรื่องวิศวกรรมมากๆเพราะว่าเรา
 
 548
 00:18:58,720 --> 00:19:03,039
-are infrastructure builder we're at very
+เป็นผู้สร้างโครงสร้างพื้นฐาน เราอยู่ในขั้นตอน
 
 549
 00:19:01,120 --> 00:19:05,600
-early stage of this technology
+ที่เป็นขั้นต้นมากๆในเทคโนโลยีนี้
 
 550
 00:19:03,039 --> 00:19:06,320
@@ -2200,7 +2200,7 @@ if we are not focusing on solving uh
 
 551
 00:19:05,600 --> 00:19:08,960
-บางส่วนของ
+ในส่วนของ
 
 552
 00:19:06,320 --> 00:19:10,000
