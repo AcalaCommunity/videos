@@ -1096,39 +1096,39 @@ udział
 
 275
 00:09:02,320 --> 00:09:06,959
-każęgo w Karura po równo
+każdego w Karura po równo
 
 276
 00:09:04,959 --> 00:09:09,279
-rozproszony zestaw walidatorów w całej
+do różnych walidatorów w całej
 
 277
 00:09:06,959 --> 00:09:10,080
-kusama, a potem wszystkie powroty nadchodzą
+Kusama, a potem wszystkie zwroty pochodzące
 
 278
 00:09:09,279 --> 00:09:12,480
-w od
+od
 
 279
 00:09:10,080 --> 00:09:14,640
-te walidatory są łączone, a następnie
+tych walidatorów są łączone, a następnie
 
 280
 00:09:12,480 --> 00:09:16,640
-równomiernie rozłożone średnio
+równomiernie rozłożone według średniej
 
 281
 00:09:14,640 --> 00:09:18,640
-we wszystkich walidatorach, które Carrera
+ze wszystkich walidatorów, u których Karura
 
 282
 00:09:16,640 --> 00:09:20,720
-Stawiasz z
+stakuje
 
 283
 00:09:18,640 --> 00:09:22,480
-tak, a jeśli to jest jak scentralizowane
+tak, a jeśli to jest jak scentralizowana
 
 284
 00:09:20,720 --> 00:09:22,800
@@ -1136,43 +1136,43 @@ usługa stakingu to masz ryzyko
 
 285
 00:09:22,480 --> 00:09:25,440
-z
+że
 
 286
 00:09:22,800 --> 00:09:27,120
-scentralizowany podmiot jest domyślnym tobą
+scentralizowany podmiot może oszukać Ciebie
 
 287
 00:09:25,440 --> 00:09:28,240
-masz ten wykres, musisz zaufać
+musisz zaufać
 
 288
 00:09:27,120 --> 00:09:30,320
-scentralizowana jednostka
+scentralizowanemu podmiotowi
 
 289
 00:09:28,240 --> 00:09:32,560
-hm zrobić właściwą rzecz, ale skoro hm
+że zrobi to właściwie, ale od kiedy
 
 290
 00:09:30,320 --> 00:09:33,279
-protokół tyczenia płynów, który my
+protokół płynnego stakingu, który
 
 291
 00:09:32,560 --> 00:09:35,680
-obecnie mam
+obecnie mamy
 
 292
 00:09:33,279 --> 00:09:36,399
-jest nieufny, wszystko jest zarządzane
+nie wymaga zaufania, wszystko jest zarządzane
 
 293
 00:09:35,680 --> 00:09:38,000
-chen
+sieć
 
 294
 00:09:36,399 --> 00:09:39,920
-uh możesz myśleć, jakby to było jak
+Możesz myśleć, że jest to taka
 
 295
 00:09:38,000 --> 00:09:42,160
@@ -1180,7 +1180,7 @@ zaawansowana wersja smart kontraktu
 
 296
 00:09:39,920 --> 00:09:43,600
-hm wszyscy stawiają w nieufnym
+Wszyscy stakują w niewymagający zaufania
 
 297
 00:09:42,160 --> 00:09:46,800
@@ -1188,11 +1188,11 @@ sposób i nie ma ryzyka
 
 298
 00:09:43,600 --> 00:09:47,920
-um bycia zarządzanym przez jednego singla
+um bycia zarządzanym przez jeden podmiot
 
 299
 00:09:46,800 --> 00:09:49,760
-scentralizowana jednostka
+jednostkę scentralizowaną
 
 300
 00:09:47,920 --> 00:09:51,680
@@ -1200,39 +1200,39 @@ więc myślę, że to jest niesamowite
 
 301
 00:09:49,760 --> 00:09:54,880
-to jest droga do um
+to jest droga do podążania
 
 302
 00:09:51,680 --> 00:09:56,880
-um w pewnym sensie yokusama nawet ty się trzymasz
+w pewnym sensie, Twoje KSM, nawet jeżeli je stakujesz
 
 303
 00:09:54,880 --> 00:09:59,920
-przez tyczenie płynów
+przez płynny staking
 
 304
 00:09:56,880 --> 00:10:02,399
-yokusama nigdy nie opuszczają twojej opieki
+Twoje KSM nigdy nie opuszczają twojej opieki
 
 305
 00:09:59,920 --> 00:10:04,560
-okej więc przez postawienie lub zrobienie kropki
+Więc przez staking, czy przez zrobienie DOT
 
 306
 00:10:02,399 --> 00:10:05,519
-płyn czy zagrażamy bezpieczeństwu?
+płynnym czy zagrażamy bezpieczeństwu uzyskanemu od
 
 307
 00:10:04,560 --> 00:10:08,720
-kropka
+sieci Polkadot
 
 308
 00:10:05,519 --> 00:10:10,320
-chain the dot can be slash uh still be
+czy wciąż DOT może być
 
 309
 00:10:08,720 --> 00:10:13,360
-przecięte w prawo
+slashed?
 
 310
 00:10:10,320 --> 00:10:14,880
@@ -1240,11 +1240,11 @@ co się wtedy dzieje?
 
 311
 00:10:13,360 --> 00:10:17,760
-więc w zasadzie pyta, co się dzieje
+więc w zasadzie on pyta, co się dzieje
 
 312
 00:10:14,880 --> 00:10:19,440
-with like network security and slashing
+z bezpieczeństwem sieci i slashing
 
 313
 00:10:17,760 --> 00:10:21,519
@@ -1252,15 +1252,15 @@ ok, myślę, że to niesamowite pytanie
 
 314
 00:10:19,440 --> 00:10:23,760
-right so um if the
+Jeżeli
 
 315
 00:10:21,519 --> 00:10:24,880
-Bezpieczeństwo sieci w kropki może być
+bezpieczeństwo sieci Polkadot może być
 
 316
 00:10:23,760 --> 00:10:27,600
-skompromitowany
+zagrożona
 
 317
 00:10:24,880 --> 00:10:28,800
