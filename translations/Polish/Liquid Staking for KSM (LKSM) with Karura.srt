@@ -292,7 +292,7 @@ wyjaśnić, że w tym przypadku widzisz
 
 74
 00:02:23,360 --> 00:02:26,560
-DOT i lDOT, więc
+DOT i LDOT, więc
 
 75
 00:02:24,720 --> 00:02:28,720
@@ -312,7 +312,7 @@ dostać 10
 
 79
 00:02:31,840 --> 00:02:35,519
-lDOT w zamian i te płynne DOT
+LDOT w zamian i te płynne DOT
 
 80
 00:02:33,920 --> 00:02:38,879
@@ -328,7 +328,7 @@ wspomniał jest
 
 83
 00:02:39,680 --> 00:02:43,840
-że to lDOT jest potwierdzeniem Twoich
+że to LDOT jest potwierdzeniem Twoich
 
 84
 00:02:42,239 --> 00:02:46,319
@@ -348,7 +348,7 @@ Rutao pokazał z całym twoim
 
 88
 00:02:48,800 --> 00:02:53,280
-saldem. Saldo Twojego lDOT
+saldem. Saldo Twojego LDOT
 
 89
 00:02:50,720 --> 00:02:54,879
@@ -372,11 +372,11 @@ coraz więcej nagród za stakowanie, to będzie
 
 94
 00:03:01,040 --> 00:03:06,480
-odzwierciedlone w twoim bilansie lDOT, więc kiedy
+odzwierciedlone w twoim bilansie LDOT, więc kiedy
 
 95
 00:03:04,080 --> 00:03:09,760
-będziesz wypłacać swoje lDOT
+będziesz wypłacać swoje LDOT
 
 96
 00:03:06,480 --> 00:03:12,400
@@ -384,7 +384,7 @@ za natywne DOT. Na końcu
 
 97
 00:03:09,760 --> 00:03:13,440
-kiedykolwiek chcesz odstąpić od stakowania Twoich lDOT
+kiedykolwiek chcesz odstąpić od stakowania Twoich LDOT
 
 98
 00:03:12,400 --> 00:03:15,920
@@ -396,7 +396,7 @@ od momentu, w którym faktycznie masz
 
 100
 00:03:15,920 --> 00:03:19,760
-oryginalne lDOT. Ma to sens
+oryginalne LDOT. Ma to sens
 
 101
 00:03:18,000 --> 00:03:22,480
@@ -408,11 +408,11 @@ Twoich nagród za stakowanie dodanych do Twojej
 
 103
 00:03:22,480 --> 00:03:28,720
-puli lDOT. tak, pomyśl o tym
+puli LDOT. tak, pomyśl o tym
 
 104
 00:03:26,400 --> 00:03:30,480
-że lDOT jest udziałem w puli
+że LDOT jest udziałem w puli
 
 105
 00:03:28,720 --> 00:03:32,159
@@ -456,7 +456,7 @@ byś stakował, jeżeli
 
 115
 00:03:50,799 --> 00:03:53,680
-posiadasz lDOT
+posiadasz LDOT
 
 116
 00:03:51,840 --> 00:03:55,680
@@ -476,7 +476,7 @@ szerszego ekosystemu Polkadot
 
 120
 00:03:59,439 --> 00:04:03,200
-możesz wysłać lDOT do kogoś innego
+możesz wysłać LDOT do kogoś innego
 
 121
 00:04:01,280 --> 00:04:06,080
@@ -512,31 +512,31 @@ LDOT
 
 129
 00:04:18,400 --> 00:04:23,440
-lub mogą nadal decydować o wykupie
+lub mogą zadecydować o odkupieniu
 
 130
 00:04:20,639 --> 00:04:25,520
-hm i odzyskaj rzeczywistą kropkę walencyjną
+i otrzymać aktualne saldo DOT spowrotem
 
 131
 00:04:23,440 --> 00:04:26,960
-więc to jest powód, dla którego to nazywamy
+więc to jest powód, dla którego nazywamy
 
 132
 00:04:25,520 --> 00:04:29,120
-płyn jest to, że można go przenieść
+to płynnym, bo jest to mobilne
 
 133
 00:04:26,960 --> 00:04:32,000
-could be used for other utility as well
+może być również wykorzystywany do innych celów
 
 134
 00:04:29,120 --> 00:04:34,320
-i jedno duże narzędzie, którego możesz użyć
+i jedna duża użyteczność, którą możesz wykorzystać
 
 135
 00:04:32,000 --> 00:04:34,960
-with this lksm is that you can actually
+w LKSM, jest to, że możesz
 
 136
 00:04:34,320 --> 00:04:38,639
@@ -544,59 +544,59 @@ pożyczać
 
 137
 00:04:34,960 --> 00:04:40,639
-przeciwko twojemu lksm i demo, które ja
+w zastaw za Twoje LKSM. Demo, które
 
 138
 00:04:38,639 --> 00:04:42,080
-showed earlier is that you can borrow
+wcześniej pokazałem jest o tym, że możesz pożyczać
 
 139
 00:04:40,639 --> 00:04:43,600
-w stosunku do twojego stosu aktywów
+w zastaw za Twoje stakowane aktywa
 
 140
 00:04:42,080 --> 00:04:45,040
-więc tak naprawdę nie musisz się poddawać
+więc tak naprawdę nie musisz rezygnować
 
 141
 00:04:43,600 --> 00:04:46,400
-koszt alternatywny, jeśli powiesz, że
+z okazji, bo możesz
 
 142
 00:04:45,040 --> 00:04:48,000
-want to borrow against stocks
+wziąć pożyczkę w zamian za nie
 
 143
 00:04:46,400 --> 00:04:49,360
-musisz wybrać, że hej, ja chcę
+Inaczej musisz wybrać, czy chcesz
 
 144
 00:04:48,000 --> 00:04:51,440
-wybierz te akcje, czy chcę?
+stakować tokeny, czy chcesz
 
 145
 00:04:49,360 --> 00:04:53,680
-pożyczyć za mojego dolara, ale z ldl
+pożyczyć w zastaw za Twoje DOT, ale z LDOT
 
 146
 00:04:51,440 --> 00:04:55,840
-zawsze lksm to jest najlepsze z obu
+i z LKSM to jest najlepsze, że z obu metod
 
 147
 00:04:53,680 --> 00:04:57,120
-to może być zdobywanie nagrody za obstawianie
+będziesz dostawał nagrodę za staking
 
 148
 00:04:55,840 --> 00:04:58,240
-podczas gdy pożyczasz przeciwko
+kiedy bierzesz pożyczkę w zamian za Twoją
 
 149
 00:04:57,120 --> 00:05:01,600
-pozycja
+pozycję
 
 150
 00:04:58,240 --> 00:05:02,960
-jedno pytanie od Jacka tutaj w
+jedno pytanie od Jacka tutaj na
 
 151
 00:05:01,600 --> 00:05:04,560
@@ -604,63 +604,63 @@ czat jest
 
 152
 00:05:02,960 --> 00:05:07,120
-to w zasadzie to, co powiedział, co
+to w zasadzie to, co on powiedział, co się
 
 153
 00:05:04,560 --> 00:05:08,639
-dzieje się, jeśli handlujesz lub sprzedajesz swój ldot
+dzieje, jeśli handlujesz lub sprzedajesz swój LDOT
 
 154
 00:05:07,120 --> 00:05:12,320
-więc masz lubię stawkę
+więc masz na przykład stakowane
 
 155
 00:05:08,639 --> 00:05:14,960
-kropka, rozumiesz, kropka, powiedzmy ci
+DOT, otrzymasz LDOT, powiedzmy, że
 
 156
 00:05:12,320 --> 00:05:16,800
-sprzedaj to wszystko i masz więc co się dzieje
+sprzedasz wszystko, to co dzieje się z
 
 157
 00:05:14,960 --> 00:05:18,560
-następnie do oryginalnej kropki, jak to zrobić
+Twoim oryginalnym DOT?
 
 158
 00:05:16,800 --> 00:05:21,680
-ty właściwie
+Właściwie
 
 159
 00:05:18,560 --> 00:05:24,720
-albo zapłać za to, albo zdobądź kropkę
+albo dostaniesz zapłatę za nie, albo otrzymasz LDOT
 
 160
 00:05:21,680 --> 00:05:26,639
-więc pomyśl o aldol, to jest jak a
+Więc pomyśl o LDOT, że jest jak
 
 161
 00:05:24,720 --> 00:05:28,320
-paragon lub realizuje paragon dla Twojego
+pokwitowanie, czy paragon do wybrania
 
 162
 00:05:26,639 --> 00:05:30,240
-prawo do obstawiania, więc jeśli sprzedasz swoje l
+Twoich stakowanych DOT, więc jeżeli sprzedasz swoje
 
 163
 00:05:28,320 --> 00:05:32,479
-czy faktycznie sprzedajesz prawo?
+LDOT to właściwie sprzedasz prawa
 
 164
 00:05:30,240 --> 00:05:34,080
-odkupić te kropki, żeby to było tak, jakbyś
+aby pobrac te tokeny, tak jakbyś
 
 165
 00:05:32,479 --> 00:05:36,560
-sprzedaj kropkę komuś innemu, więc
+sprzedaj LDOT komuś innemu, więc
 
 166
 00:05:34,080 --> 00:05:38,240
-w demo, które właśnie pokazałem wcześniej
+w demo, które pokazałem wcześniej
 
 167
 00:05:36,560 --> 00:05:38,720
@@ -748,7 +748,7 @@ przyłączysz się do
 
 188
 00:06:14,960 --> 00:06:18,479
-do puli płynnego stakingu, DOT
+puli płynnego stakingu. DOT
 
 189
 00:06:17,520 --> 00:06:20,560
@@ -796,7 +796,7 @@ Tak, Ten chłopak powiedział, że
 
 200
 00:06:35,600 --> 00:06:39,840
-lDOT jest jak prawo posiadania samochodu
+LDOT jest jak prawo posiadania samochodu
 
 201
 00:06:37,520 --> 00:06:41,440
@@ -808,7 +808,7 @@ rodzaj praw własności samochodu
 
 203
 00:06:41,440 --> 00:06:48,240
-następne dobre pytanie
+Następne dobre pytanie
 
 204
 00:06:45,360 --> 00:06:48,960
@@ -836,7 +836,7 @@ przypadku z Karura, więc jeżeli
 
 210
 00:06:56,240 --> 00:06:59,199
-robisz staking swoje KSM z Karura, to nie jest
+stakujesz swoje KSM z Karura, to nie jest to
 
 211
 00:06:58,080 --> 00:07:01,680
@@ -1052,51 +1052,51 @@ i nominuje te KSM
 
 264
 00:08:42,640 --> 00:08:46,800
-dla wszystkich walidatorów w
+dla wszystkich walidatorów
 
 265
 00:08:44,880 --> 00:08:48,800
-proporcja jako porcja
+proporcjonalnie jako część
 
 266
 00:08:46,800 --> 00:08:50,959
-z kusamą teraz, jeśli obstawiasz
+Teraz w sieci Kusama, jeżeli stakujesz
 
 267
 00:08:48,800 --> 00:08:52,560
-przez polka dot js to ty jako użytkownik
+przez polkadot js to Ty jako użytkownik
 
 268
 00:08:50,959 --> 00:08:55,279
-stawianie bezpośrednio na
+stakujesz bezpośrednio do
 
 269
 00:08:52,560 --> 00:08:56,000
-a validator or a set of validators in
+walidatora, czy walidatorów w
 
 270
 00:08:55,279 --> 00:08:57,920
-ta sprawa
+tym przypadku
 
 271
 00:08:56,000 --> 00:08:59,279
-w tym przypadku jest kirura w
+w tym przypadku Karura jest
 
 272
 00:08:57,920 --> 00:09:01,680
-środek więc ty
+pomiędzy. Więc jeżeli
 
 273
 00:08:59,279 --> 00:09:02,320
-kołek z karua karua rozdziela
+stakujesz z Karura. To Karura rozdziela
 
 274
 00:09:01,680 --> 00:09:04,959
-stawka
+udział
 
 275
 00:09:02,320 --> 00:09:06,959
-wszyscy na karua do równo
+każęgo w Karura po równo
 
 276
 00:09:04,959 --> 00:09:09,279
