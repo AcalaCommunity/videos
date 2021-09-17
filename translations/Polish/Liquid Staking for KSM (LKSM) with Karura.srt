@@ -1576,91 +1576,91 @@ ilości stakowania
 
 395
 00:12:47,839 --> 00:12:51,200
-obecnie myślę, że to ponad 200, co jest
+obecnie myślę, że jest to ponad 200, i jest to
 
 396
 00:12:50,000 --> 00:12:53,920
-um a lot
+bardzo dużo
 
 397
 00:12:51,200 --> 00:12:55,440
-ale w tym, jeśli przetrwasz um kura
+ale, jeśli zrobisz to przez Karura
 
 398
 00:12:53,920 --> 00:12:56,959
-or if you stick through alcala
+albo przez Acala
 
 399
 00:12:55,440 --> 00:12:58,639
-faktycznie możesz dostać, naprawdę możesz
+faktycznie możesz
 
 400
 00:12:56,959 --> 00:13:01,040
-omiń to ograniczenie
+ominąć to ograniczenie
 
 401
 00:12:58,639 --> 00:13:02,399
-bo jak sam basen tak?
+ponieważ cała pula jest jak
 
 402
 00:13:01,040 --> 00:13:04,320
-konkretny adres uh
+konkretny adres
 
 403
 00:13:02,399 --> 00:13:06,079
-kontrolowane przez protokół uh będzie
+kontrolowany przez protokół i będzie
 
 404
 00:13:04,320 --> 00:13:08,800
-faktycznie na pewno mają ponad 200
+na pewno mieć ponad 200
 
 405
 00:13:06,079 --> 00:13:10,399
-kropki do nominowania, więc nie ważne ile
+DOT aby nominować, więc nie ważne
 
 406
 00:13:08,800 --> 00:13:12,160
-how how small amount you have you can
+jak małą ilość możesz
 
 407
 00:13:10,399 --> 00:13:15,920
-still deposit into this pool
+zdeponować w puli
 
 408
 00:13:12,160 --> 00:13:18,160
-and the pool by itself can nominate um
+i pula sama może nominować
 
 409
 00:13:15,920 --> 00:13:19,200
-the total amount of its dollar to other
+całkowitą wartość do innych
 
 410
 00:13:18,160 --> 00:13:22,160
-validators so yes
+walidatorów, więc
 
 411
 00:13:19,200 --> 00:13:23,519
-we can definitely bypass that and then
+zdecydowanie możemy to ominąć, a wtedy
 
 412
 00:13:22,160 --> 00:13:25,760
-druga rzecz to
+kolejną rzeczą jest to, że
 
 413
 00:13:23,519 --> 00:13:26,639
-hm ludzie, którzy obstawiają polkę
+ludzie, którzy stakują przez
 
 414
 00:13:25,760 --> 00:13:30,079
-dot js
+polkadot js
 
 415
 00:13:26,639 --> 00:13:32,959
-lub um innego rodzaju
+lub innego rodzaju
 
 416
 00:13:30,079 --> 00:13:34,639
-bardziej natywne obstawianie jak nie giełdy
+bardziej natywne stakowanie jak nie giełdy
 
 417
 00:13:32,959 --> 00:13:37,680
@@ -1668,79 +1668,79 @@ i scentralizowane rzeczy
 
 418
 00:13:34,639 --> 00:13:39,680
-z polka dot js teraz stawiasz
+z polkadot js teraz stakujesz
 
 419
 00:13:37,680 --> 00:13:41,199
-ksm i musisz to zrobić siedem dni
+KSM i masz siedmiodniowy
 
 420
 00:13:39,680 --> 00:13:42,959
-okres rozwiązania
+okres odłączenia
 
 421
 00:13:41,199 --> 00:13:45,360
-a potem z polka dot jeszcze dłużej
+a z Polkadot to trwa jeszcze dłużej
 
 422
 00:13:42,959 --> 00:13:46,880
-it's 28 days so it just takes forever to
+jest to 28 dni, więc to trwa wieczność, aby
 
 423
 00:13:45,360 --> 00:13:49,519
-unlock
+odblokować tokeny
 
 424
 00:13:46,880 --> 00:13:50,320
-z uh z karua i z akala you
+z Karura i Acala
 
 425
 00:13:49,519 --> 00:13:52,000
-can
+możesz
 
 426
 00:13:50,320 --> 00:13:53,360
-i rozmawiamy, może możesz pokazać
+Być może mógłbyś pokazać
 
 427
 00:13:52,000 --> 00:13:56,480
-this but um
+to, ale
 
 428
 00:13:53,360 --> 00:13:56,959
-w zasadzie możesz rozłożyć wcześnie na
+Włąściwie to możezsz zakończyć stakowanie bardzo wcześnie za
 
 429
 00:13:56,480 --> 00:14:00,000
-small
+niewielką
 
 430
 00:13:56,959 --> 00:14:01,519
-opłata tak, więc projekt płynu
+opłatą, więc model pul płynnego
 
 431
 00:14:00,000 --> 00:14:02,000
-sticking pool is that if i go to the
+stakingu jest tym, że jeżeli przejdziesz do
 
 432
 00:14:01,519 --> 00:14:03,839
-zaawansowane
+zaawansowanej
 
 433
 00:14:02,000 --> 00:14:06,079
-tab you will see that we always have
+zakładki zobaczysz, że zawsze mamy
 
 434
 00:14:03,839 --> 00:14:08,320
-trochę konserwacji trochę za darmo
+jakieś darmowe
 
 435
 00:14:06,079 --> 00:14:09,600
-kropki lub trochę darmowej kusamy dostępnej za
+DOT, czy jakieś darmowe KSM dostępne do
 
 436
 00:14:08,320 --> 00:14:11,760
-odbierz natychmiast
+odebrania natychmiast
 
 437
 00:14:09,600 --> 00:14:13,279
@@ -1752,59 +1752,59 @@ chcesz odkupić
 
 439
 00:14:13,279 --> 00:14:18,320
-l z powrotem do kropek natychmiast możesz
+z powrotem DOT możesz
 
 440
 00:14:16,560 --> 00:14:21,680
-rób to, bo zawsze jest
+to zrobić natychmiast, tam jest zawsze
 
 441
 00:14:18,320 --> 00:14:22,320
-porcja do odłożenia um za darmo um do
+porcja odłożona na bok do darmowego
 
 442
 00:14:21,680 --> 00:14:23,760
-odkupić
+pobrania
 
 443
 00:14:22,320 --> 00:14:25,680
-ale jeśli chcesz odkupić natychmiast
+ale jeśli chcesz bezzwłocznie pobrać
 
 444
 00:14:23,760 --> 00:14:28,320
-musisz uiścić opłatę, aby pokryć
+musisz uiścić opłatę
 
 445
 00:14:25,680 --> 00:14:29,519
-otherwise lost return of those free
+w przeciwnym razie stracono by zwrot z tych wolnych
 
 446
 00:14:28,320 --> 00:14:31,440
-część basenu?
+części puli
 
 447
 00:14:29,519 --> 00:14:32,720
-um and also like this is not option this
+I to nie jest opcją
 
 448
 00:14:31,440 --> 00:14:33,279
-nie jest obowiązkowe, więc jeśli chcesz
+to nie jest obowiązkowe, więc jeśli chcesz
 
 449
 00:14:32,720 --> 00:14:35,120
-redeem
+pobrać
 
 450
 00:14:33,279 --> 00:14:36,399
-właściwie są trzy sposoby, aby
+To są właściwie trzy sposoby, aby
 
 451
 00:14:35,120 --> 00:14:37,839
-odkupić możesz powiedzieć, że chcę odkupić
+pobrać. Możesz powiedzieć, że chcesz pobrać
 
 452
 00:14:36,399 --> 00:14:38,480
-teraz to zrobię, więc będę musiał zapłacić
+teraz, więc będę musiał zapłacić
 
 453
 00:14:37,839 --> 00:14:40,800
@@ -1816,55 +1816,55 @@ wszystko, co powiedziałeś, że wykupię to
 
 455
 00:14:40,800 --> 00:14:43,920
-typical way
+typowy sposób
 
 456
 00:14:41,600 --> 00:14:44,880
-um to jak czekanie na standard
+To jest jak czekanie na standardowy
 
 457
 00:14:43,920 --> 00:14:47,279
-unbounding period
+okres odłączenia
 
 458
 00:14:44,880 --> 00:14:48,800
-możesz to zrobić swobodnie lub możesz też
+możesz to zrobić lub możesz też
 
 459
 00:14:47,279 --> 00:14:49,279
-odkupić, aby powiedzieć, że chcę odkupić i
+pobrać. Możesz powiedzieć, że chcesz pobrać i
 
 460
 00:14:48,800 --> 00:14:52,560
-jest
+tam jest
 
 461
 00:14:49,279 --> 00:14:54,399
-wskazówka nieograniczonych kropek um na
+kolejka odłączanych DOT w
 
 462
 00:14:52,560 --> 00:14:55,760
-z dnia na dzień na puli do obstawiania
+puli do stakowania
 
 463
 00:14:54,399 --> 00:14:58,399
-bo jak zawsze będzie
+ponieważ będzie zawsze
 
 464
 00:14:55,760 --> 00:14:59,279
-zrównoważono między kropkami drążka i wł.
+ponownie wyrównane między DOT przyłączonymi i
 
 465
 00:14:58,399 --> 00:15:00,959
-nieułożona kropka
+nie podłączonych DOT
 
 466
 00:14:59,279 --> 00:15:02,720
-więc możesz wybrać to, co może Ci się spodobać
+więc możesz wybrać to, być może
 
 467
 00:15:00,959 --> 00:15:04,399
-pięć dni później potrzebujesz kropek, które
+po pięciu dniach będzisz potrzebować DOT, które
 
 468
 00:15:02,720 --> 00:15:06,560
@@ -1872,87 +1872,87 @@ byłby w tej konkretnej cenie
 
 469
 00:15:04,399 --> 00:15:07,920
-więc to właściwie jest bardzo zaawansowane
+więc to właściwie jest bardzo zaawansowana
 
 470
 00:15:06,560 --> 00:15:08,480
-ukryta tutaj funkcja, którą możesz
+ukryta tutaj funkcja, dzięki której możesz
 
 471
 00:15:07,920 --> 00:15:10,639
-odkupić
+pobrać
 
 472
 00:15:08,480 --> 00:15:12,480
-na wiele sposobów, które możesz wykorzystać w nie
+na wiele sposobów, które pobrać bez
 
 473
 00:15:10,639 --> 00:15:13,920
-cost or you can redeem immediately
+kosztów, albo możesz pobrać natychmiast
 
 474
 00:15:12,480 --> 00:15:16,880
-so in that in the middle one that you
+tak w środkowej części
 
 475
 00:15:13,920 --> 00:15:19,440
-just showed um
+którą właśnie pokazałeś
 
 476
 00:15:16,880 --> 00:15:20,240
-w zasadzie główna różnica byłaby
+w zasadzie główna różnica polega na tym, że
 
 477
 00:15:19,440 --> 00:15:23,199
-every
+każdego
 
 478
 00:15:20,240 --> 00:15:23,760
-every day closer to the current date
+każdego dnia coraz bliżej bieżącej daty
 
 479
 00:15:23,199 --> 00:15:25,600
-you're just
+będziesz
 
 480
 00:15:23,760 --> 00:15:27,519
-paying a little bit higher of a fee is
+płacił trochę większe opłaty
 
 481
 00:15:25,600 --> 00:15:29,360
-that right yes yes
+Czy to prawda?
 
 482
 00:15:27,519 --> 00:15:31,279
-więc myślisz o tym, że chcesz
+więc zastanawiając się nad tym, że chcesz
 
 483
 00:15:29,360 --> 00:15:32,000
-withdraw money from a fixed term deposit
+wypłacić pieniądze z depozytu terminowego
 
 484
 00:15:31,279 --> 00:15:33,680
-konto
+konta
 
 485
 00:15:32,000 --> 00:15:35,040
-right so you have to pay some fee or you
+więc musisz zapłacić jakąś opłatę
 
 486
 00:15:33,680 --> 00:15:37,040
-musisz stracić zainteresowanie, jeśli chcesz
+musisz stracić część zysku, jeśli chcesz
 
 487
 00:15:35,040 --> 00:15:39,120
-to withdraw money from a fixed um
+wypłacić pieniądze z depozytu terminowego
 
 488
 00:15:37,040 --> 00:15:40,160
-z rachunku lokaty stałej um i jak
+z rachunku lokaty terminowej i jak
 
 489
 00:15:39,120 --> 00:15:42,639
-bardzo chcesz
+bardzo szybko
 
 490
 00:15:40,160 --> 00:15:43,839
