@@ -1552,27 +1552,27 @@ bez minimalnej ilości
 
 389
 00:12:37,120 --> 00:12:41,040
-jakie byłoby faktyczne minimum, więc to?
+jakie byłoby faktyczne minimum, więc to
 
 390
 00:12:40,000 --> 00:12:43,440
-is like um
+jest jak
 
 391
 00:12:41,040 --> 00:12:45,200
-i have friends that has like 40 dots
+Mam przyjaciela, który ma jakieś 40 DOT
 
 392
 00:12:43,440 --> 00:12:46,560
-racja, a mój przyjaciel naprawdę chce się postawić
+i mój przyjaciel naprawdę chce stakować
 
 393
 00:12:45,200 --> 00:12:47,839
-ale nie możesz, bo minimum
+ale nie może ze względu na minimalne
 
 394
 00:12:46,560 --> 00:12:50,000
-staking amount on product
+ilości stakowania
 
 395
 00:12:47,839 --> 00:12:51,200
