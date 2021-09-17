@@ -1328,7 +1328,7 @@ jeśli po prostu przeprogramuj lub grając
 
 333
 00:10:52,160 --> 00:10:55,680
-by by building something on top of the
+poprzez budowanie czegoś na szczycie
 
 334
 00:10:54,399 --> 00:10:56,959
@@ -1348,7 +1348,7 @@ w tym przypadku nie myślimy
 
 338
 00:11:00,800 --> 00:11:05,040
-that's going to have any problem
+to będzie miało jakiś problem
 
 339
 00:11:02,480 --> 00:11:05,519
@@ -1956,13 +1956,13 @@ bardzo szybko
 
 490
 00:15:40,160 --> 00:15:43,839
-how urgently you need the money depend
+potrzebujesz pieniędzy, zależy
 
 491
 00:15:42,639 --> 00:15:53,600
-i przepadniesz
+ile przepadnie
 
 492
 00:15:43,839 --> 00:15:53,600
-ile zainteresowania oddasz
+i oddasz swojego zysku
 
