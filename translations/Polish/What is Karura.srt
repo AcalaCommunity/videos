@@ -20,7 +20,7 @@ sporo informacji
 
 6
 00:00:11,599 --> 00:00:16,640
-o Naszej sieci nazwanej KARURA, którą
+o Naszej sieci nazwanej Karura, którą
 
 7
 00:00:14,240 --> 00:00:17,039
@@ -32,7 +32,7 @@ znać
 
 9
 00:00:17,039 --> 00:00:20,480
-Nas jako zespół ACALA. My również
+Nas jako zespół Acala. My również
 
 10
 00:00:19,359 --> 00:00:22,080
@@ -40,11 +40,11 @@ przygotowujemy się do
 
 11
 00:00:20,480 --> 00:00:23,920
-uruchomienia sieci ACALA na polkadot, ale to
+uruchomienia sieci Acala na polkadot, ale to
 
 12
 00:00:22,080 --> 00:00:26,000
-nastąpi później, po uruchomieniu KARURA, więc dzisiaj
+nastąpi później, po uruchomieniu Karura, więc dzisiaj
 
 13
 00:00:23,920 --> 00:00:28,960
@@ -528,7 +528,7 @@ w ekosystemie Kusama
 
 133
 00:04:12,319 --> 00:04:16,560
-in my opinion there's no better way to
+Moim zdaniem nie ma lepszego sposobu
 
 134
 00:04:14,159 --> 00:04:17,359
@@ -1096,7 +1096,7 @@ ale po prostu pozostaniemy przy Karurze
 
 275
 00:08:48,160 --> 00:08:52,000
-today's
+dzisiejsze
 
 276
 00:08:48,720 --> 00:08:54,240
@@ -4020,7 +4020,7 @@ walorów
 
 1006
 00:32:38,080 --> 00:32:43,360
-To jest to, co nazywamy lKSM, więc lKSM jest to
+To jest to, co nazywamy LKSM, więc LKSM jest to
 
 1007
 00:32:41,279 --> 00:32:44,320
@@ -4028,7 +4028,7 @@ zarabianie tak długo, jak trzymasz
 
 1008
 00:32:43,360 --> 00:32:46,320
-lKSM
+LKSM
 
 1009
 00:32:44,320 --> 00:32:48,399
@@ -4092,7 +4092,7 @@ Jest to tak proste jak zamiana jakichś
 
 1024
 00:33:12,480 --> 00:33:16,960
-DOT, czy zamiana jakichś KSM na lKSM
+DOT, czy zamiana jakichś KSM na LKSM
 
 1025
 00:33:15,120 --> 00:33:18,720
@@ -4124,7 +4124,7 @@ zamienia
 
 1032
 00:33:27,679 --> 00:33:33,840
-otrzymuję 10 lKSMi ten współczynnik
+otrzymuję 10 LKSMi ten współczynnik
 
 1033
 00:33:31,679 --> 00:33:35,039
@@ -4144,11 +4144,11 @@ interfejs użytkownika później, więc to zawsze mówi
 
 1037
 00:33:38,159 --> 00:33:43,919
-KSM będzie równy jednemu lKSM, a następnie
+KSM będzie równy jednemu LKSM, a następnie
 
 1038
 00:33:41,519 --> 00:33:45,679
-jeden lKSM będzie równy coraz większej ilości
+jeden LKSM będzie równy coraz większej ilości
 
 1039
 00:33:43,919 --> 00:33:47,519
@@ -4156,7 +4156,7 @@ KSM, kiedy wykupisz je później
 
 1040
 00:33:45,679 --> 00:33:49,760
-to jest tak jak trzymasz lKSM
+to jest tak jak trzymasz LKSM
 
 1041
 00:33:47,519 --> 00:33:51,919
@@ -4188,7 +4188,7 @@ nagrodę za staking
 
 1048
 00:33:58,559 --> 00:34:05,600
-w lKSM. Pozwól mi
+w LKSM. Pozwól mi
 
 1049
 00:34:02,640 --> 00:34:06,960
@@ -4196,7 +4196,7 @@ wyjaśnić, że w tym przypadku widzisz
 
 1050
 00:34:05,600 --> 00:34:08,800
-DOT i lDOT, więc
+DOT i LDOT, więc
 
 1051
 00:34:06,960 --> 00:34:10,960
@@ -4216,7 +4216,7 @@ dostać 10
 
 1055
 00:34:14,079 --> 00:34:17,839
-lDOT w zamian i te płynne DOT
+LDOT w zamian i te płynne DOT
 
 1056
 00:34:16,159 --> 00:34:20,639
@@ -4232,7 +4232,7 @@ Ruitao wspomniał
 
 1059
 00:34:21,919 --> 00:34:26,079
-że to lDOT jest potwierdzeniem Twoich
+że to LDOT jest potwierdzeniem Twoich
 
 1060
 00:34:24,480 --> 00:34:28,560
@@ -4252,7 +4252,7 @@ całe saldo
 
 1064
 00:34:32,079 --> 00:34:35,520
-Twoje saldo lDOT będzie zawsze
+Twoje saldo LDOT będzie zawsze
 
 1065
 00:34:34,480 --> 00:34:37,200
@@ -4280,11 +4280,11 @@ odzwierciedlać Twoje
 
 1071
 00:34:44,480 --> 00:34:48,720
-saldo lDOT, więc gdy sprzedasz
+saldo LDOT, więc gdy sprzedasz
 
 1072
 00:34:47,280 --> 00:34:52,000
-swoje lDOT
+swoje LDOT
 
 1073
 00:34:48,720 --> 00:34:54,720
@@ -4292,7 +4292,7 @@ za natywne DOT na końcu
 
 1074
 00:34:52,000 --> 00:34:55,760
-kiedykolwiek chcesz odstąpić od stakowania. ilość Twoich lDOT
+kiedykolwiek chcesz odstąpić od stakowania. ilość Twoich LDOT
 
 1075
 00:34:54,720 --> 00:34:58,160
@@ -4304,7 +4304,7 @@ od momentu, w którym faktycznie masz
 
 1077
 00:34:58,160 --> 00:35:02,000
-oryginalne lDOT. Ma to sens
+oryginalne LDOT. Ma to sens
 
 1078
 00:35:00,320 --> 00:35:04,720
@@ -4316,11 +4316,11 @@ Twoich nagród za stakowanie dodanych do Twojej
 
 1080
 00:35:04,720 --> 00:35:11,119
-puli lDOT. tak, pomyśl o tym
+puli LDOT. tak, pomyśl o tym
 
 1081
 00:35:08,160 --> 00:35:12,160
-że lDOT jest udziałem w puli
+że LDOT jest udziałem w puli
 
 1082
 00:35:11,119 --> 00:35:13,920
@@ -4360,7 +4360,7 @@ zawsze będzie będzie wzrastać
 
 1091
 00:35:25,359 --> 00:35:31,760
-posiadanie lKSM jest jak
+posiadanie LKSM jest jak
 
 1092
 00:35:28,839 --> 00:35:34,320
@@ -4368,11 +4368,11 @@ staking
 
 1093
 00:35:31,760 --> 00:35:35,280
-i jest to tak, że jeśli masz lDOT, albo
+i jest to tak, że jeśli masz LDOT, albo
 
 1094
 00:35:34,320 --> 00:35:36,720
-masz lKSM
+masz LKSM
 
 1095
 00:35:35,280 --> 00:35:38,880
@@ -4392,11 +4392,11 @@ w szerzej pojętym ekosystemie
 
 1099
 00:35:41,839 --> 00:35:45,440
-możesz wysłać lDOT do kogoś innego, możesz
+możesz wysłać LDOT do kogoś innego, możesz
 
 1100
 00:35:43,680 --> 00:35:48,320
-wysłać lKSM do kogoś innego
+wysłać LKSM do kogoś innego
 
 1101
 00:35:45,440 --> 00:35:49,280
@@ -4412,11 +4412,11 @@ zbywalne aktywa
 
 1104
 00:35:52,160 --> 00:35:57,920
-odbiorca, który dostaje się lDOT, albo lKSM
+odbiorca, który dostaje się LDOT, albo LKSM
 
 1105
 00:35:54,800 --> 00:35:58,400
-otrzymuje lKSM i może wybrać, czy będzie kontynuował
+otrzymuje LKSM i może wybrać, czy będzie kontynuował
 
 1106
 00:35:57,920 --> 00:36:01,200
@@ -4424,7 +4424,7 @@ posiadanie
 
 1107
 00:35:58,400 --> 00:36:01,760
-lKSM, czy lDOT, albo może
+LKSM, czy LDOT, albo może
 
 1108
 00:36:01,200 --> 00:36:04,400
@@ -4456,7 +4456,7 @@ i jedna duża użyteczność, którą możesz wykorzystać
 
 1115
 00:36:14,240 --> 00:36:18,720
-mając lKSM, to
+mając LKSM, to
 
 1116
 00:36:16,079 --> 00:36:19,520
@@ -4464,7 +4464,7 @@ możesz w rzeczywistości wziąć pożyczkę w zastaw za swoje
 
 1117
 00:36:18,720 --> 00:36:21,760
-lKSM
+LKSM
 
 1118
 00:36:19,520 --> 00:36:22,880
@@ -4476,7 +4476,7 @@ w demo, które i pokazałem wcześniej
 
 1120
 00:36:22,880 --> 00:36:26,000
-przeciwko lKSM, więc właściwie nie
+przeciwko LKSM, więc właściwie nie
 
 1121
 00:36:24,800 --> 00:36:27,280
@@ -4504,7 +4504,7 @@ pożyczyć w zastaw za DOT
 
 1127
 00:36:32,800 --> 00:36:36,000
-ale z lDOT, lKSM to jest
+ale z LDOT, LKSM to jest
 
 1128
 00:36:35,200 --> 00:36:38,160
@@ -4544,11 +4544,11 @@ on zapytał: co się stanie, jeżeli wymieniasz
 
 1137
 00:36:53,760 --> 00:36:58,320
-albo sprzedajesz swoje lDOT, więc jeżeli masz jakieś
+albo sprzedajesz swoje LDOT, więc jeżeli masz jakieś
 
 1138
 00:36:56,000 --> 00:37:01,520
-stakakowane DOT, otrzymasz lDOT
+stakakowane DOT, otrzymasz LDOT
 
 1139
 00:36:58,320 --> 00:37:03,920
@@ -4580,7 +4580,7 @@ Twoje stakowane DOT, więc jeżeli sprzedasz swoje
 
 1146
 00:37:15,920 --> 00:37:20,320
-lDOT to właściwie sprzedasz prawa
+LDOT to właściwie sprzedasz prawa
 
 1147
 00:37:18,000 --> 00:37:22,160
@@ -4596,7 +4596,7 @@ W demonstracji pokazałem
 
 1150
 00:37:23,280 --> 00:37:26,560
-że jeżeli prześlę komuś lDOT
+że jeżeli prześlę komuś LDOT
 
 1151
 00:37:25,760 --> 00:37:28,560
@@ -4640,7 +4640,7 @@ już Twoje
 
 1161
 00:37:41,920 --> 00:37:45,920
-Dobrze, więc lDOT nie są połączone
+Dobrze, więc LDOT nie są połączone
 
 1162
 00:37:45,040 --> 00:37:48,320
@@ -4660,11 +4660,11 @@ pytanie
 
 1166
 00:37:51,680 --> 00:37:55,359
-wysłałby mi swoje lDOT, ja mógłbym wziąć te tokeny
+wysłałby mi swoje LDOT, ja mógłbym wziąć te tokeny
 
 1167
 00:37:53,680 --> 00:37:59,280
-lDOT i uzyskać za nie tokeny DOT
+LDOT i uzyskać za nie tokeny DOT
 
 1168
 00:37:55,359 --> 00:38:01,280
@@ -4728,7 +4728,7 @@ Tak, Ten chłopak powiedział, że
 
 1183
 00:38:23,440 --> 00:38:27,599
-lDOT jest jak prawo posiadania samochodu
+LDOT jest jak prawo posiadania samochodu
 
 1184
 00:38:25,359 --> 00:38:29,280
