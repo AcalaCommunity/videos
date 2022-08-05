@@ -4,7 +4,7 @@ Witam wszystkich, jestem Brett, deweloper w
 
 2
 00:00:02,399 --> 00:00:04,080
-ACALA
+Acala
 
 3
 00:00:03,120 --> 00:00:05,359
