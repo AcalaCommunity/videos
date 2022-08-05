@@ -8,7 +8,7 @@ i to jest jeden z powodów, dlaczego
 
 3
 00:00:07,200 --> 00:00:11,280
-myślimy, że KARURA jest tak użyteczna
+myślimy, że Karura jest tak użyteczna
 
 4
 00:00:09,280 --> 00:00:13,759
@@ -308,7 +308,7 @@ w zastaw
 
 78
 00:02:23,760 --> 00:02:29,840
-w sieci KARURA
+w sieci Karura
 
 79
 00:02:26,879 --> 00:02:31,040
