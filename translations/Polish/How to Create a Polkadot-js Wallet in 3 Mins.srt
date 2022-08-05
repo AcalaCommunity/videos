@@ -4,7 +4,7 @@ Witam wszystkich. Nazywam się Brett Kolodny
 
 2
 00:00:02,639 --> 00:00:05,839
-jestem deweloperem w projekcie ACALA i dzisiaj zamierzam
+jestem deweloperem w projekcie Acala i dzisiaj zamierzam
 
 3
 00:00:04,080 --> 00:00:07,520
